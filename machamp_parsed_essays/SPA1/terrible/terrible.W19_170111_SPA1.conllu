@@ -1,0 +1,316 @@
+# Unnamed: 0 = 73
+# id = 170111
+# prompt = terrible
+# quarter = W19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = Mandarin
+# language(s) used at home = Mandarin
+# language(s) studied = I started to study English when I was 12. I've studied English for 7 years.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Quiero contar una historia real. Cuando tenía trece años, tuve neumonía y tuve que permanecer en el hospital. Porque no había espacio en el departamento de respiratoria medicina, tuve que permanecer en una cama en la departamento de emergencias. Fue el verano más triste de mi vida porque vi demasiadas situaciones de desesperación y uno de aquellos era extremadamente miserable. Un día, un chico fue enviado a la cama a mi lado. Tuvo dieciocho años. Fue retrasado y bebió la herbicida por error. Su padre era agricultor en un pequeño pueblo cerca de mi ciudad natal. Era muy pobres y el chico era su único hijo. El chico estaba en muy mala condiciones porque sus pulmones fueron destruidos por la herbicida y no pudo curarse. Pero el padre todavía salvar la vida de su hijo. Después de tres días, el doctor informó a el padre: "Lamento que no podamos curar a tu hijo. Era demasiado tarde cuando fue enviado aquí." En la tarde, oí al padre llorar detrás de al cortina. Entonces le dijo su hijo: "Vamos a casa." "Por qué?" Pregunto el chico. "Puedes tomar medicina en casa." El padre respondió. "Estupendo! Puedo ducharme aquí? El agua esta fría en la casa." El chico dijo. Siempre recuerdo la cara de ese padre: una cara con sonrisa desesperada y lágrimas en los ojos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	contar	contar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	real	real	ADJ	_	Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+3	trece	trece	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	neumonía	neumonía	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	conj	_	_
+10	que	que	SCONJ	_	_	11	cc	_	_
+11	permanecer	permanecer	VERB	_	VerbForm=Inf	9	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Porque	porque	SCONJ	_	_	3	mark	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+4	espacio	espacio	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	departamento	departamento	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	respiratoria	respiratorio	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	medicina	medicina	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+12	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	que	que	SCONJ	_	_	14	cc	_	_
+14	permanecer	permanecer	VERB	_	VerbForm=Inf	12	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	cama	cama	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	departamento	departamento	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	emergencias	emergencia	NOUN	_	Gender=Fem|Number=Plur	20	nmod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	triste	triste	ADJ	_	Number=Sing	3	amod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+11	demasiadas	demasiado	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	12	det	_	_
+12	situaciones	situación	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	desesperación	desesperación	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	y	y	CCONJ	_	_	21	cc	_	_
+16	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	nsubj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	aquellos	aquel	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	16	nmod	_	_
+19	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
+20	extremadamente	extremadamente	ADV	_	_	21	advmod	_	_
+21	miserable	miserable	ADJ	_	Number=Sing	10	conj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	chico	chico	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	enviado	enviar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cama	cama	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	lado	lado	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	dieciocho	dieciocho	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	retrasado	retrasar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	bebió	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	herbicida	herbicida	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	por	por	ADP	_	_	8	case	_	_
+8	error	error	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	agricultor	agricultor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+8	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	cerca	cerca	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	natal	natal	ADJ	_	Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	pobres	pobre	ADJ	_	Number=Plur	0	root	_	_
+4	y	y	CCONJ	_	_	10	cc	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	chico	chico	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+9	único	único	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+10	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	chico	chico	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	mala	malo	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	condiciones	condición	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+8	porque	porque	SCONJ	_	_	12	mark	_	_
+9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	pulmones	pulmón	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	destruidos	destruir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	advcl	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	herbicida	herbicida	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	y	y	CCONJ	_	_	19	cc	_	_
+17	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
+18	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
+19	curarse	curar	VERB	_	VerbForm=Inf	12	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	todavía	todavía	ADV	_	_	5	advmod	_	_
+5	salvar	salvar	VERB	_	VerbForm=Inf	0	root	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Después	después	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	informó	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	padre	padre	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	:	:	PUNCT	_	PunctType=Colo	14	punct	_	_
+13	"	"	PUNCT	_	PunctType=Quot	14	punct	_	_
+14	Lamento	lamentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+15	que	que	SCONJ	_	_	18	mark	_	_
+16	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+17	podamos	poder	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	curar	curar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	det	_	_
+21	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	demasiado	demasiado	ADV	_	_	3	advmod	_	_
+3	tarde	tarde	ADV	_	Number=Sing	0	root	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+6	enviado	enviar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	aquí	aquí	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+2	En	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	oí	oer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	padre	padre	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	llorar	llorar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+10	detrás	detrás	ADV	_	_	9	advmod	_	_
+11	de	de	ADP	_	_	10	fixed	_	_
+12	al	a	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	cortina	cortina	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	:	:	PUNCT	_	PunctType=Colo	8	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+8	Vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+3	Por	por	ADP	_	_	4	case	_	_
+4	qué	qué	PRON	_	Number=Sing|PronType=Int	0	root	_	_
+5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+6	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+
+1	Pregunto	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	chico	chico	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	tomar	tomar	VERB	_	VerbForm=Inf	0	root	_	_
+4	medicina	medicina	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	respondió	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+2	Estupendo	estupendo	INTJ	_	_	5	dep	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	ducharme	duchar	VERB	_	VerbForm=Inf	0	root	_	_
+6	aquí	aquí	ADV	_	_	5	advmod	_	_
+7	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	agua	agua	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	fría	frío	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	chico	chico	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	recuerdo	recueder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cara	cara	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	:	:	PUNCT	_	PunctType=Colo	10	punct	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cara	cara	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	desesperada	desesperado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	amod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	lágrimas	lágrima	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

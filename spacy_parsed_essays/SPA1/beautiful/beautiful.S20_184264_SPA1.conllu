@@ -1,0 +1,248 @@
+# Unnamed: 0 = 16
+# id = 184264
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Punjabi
+# language(s) used at home = Punjabi
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un buen día, [yo]{}<pr:su:pron> camina en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro [bonita]{bonito}<>. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. [El]{Los}<na:det> niños jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está [frío]{fría}<ga:adj>. [Yo]{}<pr:su:pron> tomo una ducha. El agua está [frío]{fría}<ga:adj> en la ducha. La ducha [es]{está}<conf:v:seta> muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Un buen día, yo [camina]{camino}<fs:st:pn> en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro [bonita]{bonito}<ga:adj>. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. [El]{Los}<na:det> niños [jugando]{juegan}<fs:st:t>. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está [frío]{fría}<ga:adj>. Yo tomo una ducha. El agua está [frío]{fría}<ga:adj> en la ducha. La ducha [es]{está}<conf:v:seta> muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# verbs annotation ann2 = nan
+# corrected1 = Un buen día, camino por el parque. El clima es frío y cálido. Hay silencio en el parque. Hay un perro bonito. Hablo con el perro. "Hola, perro, ¿cómo te llamas?" El perro es bueno. El parque no está lleno. Me gusta el parque. Mi amiga también está allí. A mi amiga le gusta el parque también. Hay niños en el parque. Los niños están jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros y águilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque está cerca de mi casa. En mi casa bebo agua. El agua está fría. Tomo una ducha. El agua está fría en la ducha. La ducha está muy bien. Preparo la cena con mi familia. Mi mamá, mi papá, mi hermana y mi hermano, todos ayudan a preparar la cena. Como y me voy a dormir.
+# corrected2 = nan
+# text = Un buen día, yo camina en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro bonita. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. El niños jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está frío. Yo tomo una ducha. El agua está frío en la ducha. La ducha es muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	_	3	det	_	_
+2	buen	buen	ADJ	_	_	3	amod	_	_
+3	día	día	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	camina	caminar	VERB	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	parque	parque	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	clima	clima	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	frío	frío	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cálido	cálido	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Esta	este	DET	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	silencio	silencio	NOUN	_	_	1	nmod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	1	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	perro	perro	NOUN	_	_	1	obj	_	_
+4	bonita	bonito	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hablo	Hablo	PROPN	_	_	0	ROOT	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	1	obl	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	"	"	PUNCT	_	_	2	punct	_	_
+2	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+3	perro	perro	PROPN	_	_	2	flat	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	como	como	SCONJ	_	_	7	mark	_	_
+6	te	tú	PRON	_	_	7	iobj	_	_
+7	llamas	llamar	VERB	_	_	2	advcl	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+9	"	"	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perro	perro	PROPN	_	_	4	nsubj	_	_
+3	is	is	PROPN	_	_	4	cop	_	_
+4	bueno	bueno	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	parque	parque	NOUN	_	_	5	nsubj	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	está	estar	AUX	_	_	5	cop	_	_
+5	lleno	lleno	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	parque	parque	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amiga	amiga	NOUN	_	_	5	nsubj	_	_
+3	tambien	tambien	PRON	_	_	5	nsubj	_	_
+4	está	estar	AUX	_	_	5	cop	_	_
+5	ahi	ahi	AUX	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amiga	amiga	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	4	obj	_	_
+7	tambien	tambien	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	niños	niño	NOUN	_	_	1	obj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	parque	parque	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	niños	niño	NOUN	_	_	3	nsubj	_	_
+3	jugando	jugar	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	niños	niño	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	aux	_	_
+4	divertidos	divertido	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Veo	ver	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	animales	animal	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	gatos	gato	NOUN	_	_	1	obj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	aves	ave	NOUN	_	_	2	appos	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ardillas	ardilla	NOUN	_	_	2	appos	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	perros	perro	NOUN	_	_	2	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	aguilas	agui él	VERB	_	_	2	conj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	animales	animal	NOUN	_	_	3	nsubj	_	_
+3	corren	correr	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Todo	todo	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	bien	bien	ADV	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Camino	camino	NOUN	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	regreso	regreso	NOUN	_	_	1	nmod	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	parque	parque	NOUN	_	_	0	ROOT	_	_
+3	esta	este	DET	_	_	5	det	_	_
+4	cerca	cerca	ADV	_	_	5	advmod	_	_
+5	di	di	NOUN	_	_	2	appos	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	casa	casa	NOUN	_	_	2	appos	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	casa	casa	NOUN	_	_	0	ROOT	_	_
+4	bebo	bebo	PROPN	_	_	3	appos	_	_
+5	agua	agua	NOUN	_	_	3	flat	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	agua	agua	NOUN	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	frío	frío	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tomo	tomo	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	ducha	ducha	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	agua	agua	NOUN	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	frío	frío	ADJ	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	ducha	ducha	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	ducha	ducha	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bien	bien	ADV	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Preparo	preparo	VERB	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	cena	cena	NOUN	_	_	1	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	my	my	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	14	nsubj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	papá	papá	NOUN	_	_	2	appos	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	hermana	hermana	NOUN	_	_	5	appos	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	hermano	hermano	NOUN	_	_	2	conj	_	_
+13	todos	todo	PRON	_	_	12	appos	_	_
+14	ayudan	ayudar	VERB	_	_	0	ROOT	_	_
+15	a	a	ADP	_	_	16	mark	_	_
+16	preparar	preparar	VERB	_	_	14	xcomp	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	cena	cena	NOUN	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Como	como	SCONJ	_	_	5	mark	_	_
+2	y	y	CCONJ	_	_	5	advmod	_	_
+3	me	yo	PRON	_	_	5	obj	_	_
+4	voy	ir	AUX	_	_	5	aux	_	_
+5	dormir	dormir	VERB	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+

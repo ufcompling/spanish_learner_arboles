@@ -1,0 +1,321 @@
+# Unnamed: 0 = 200
+# id = 148688
+# prompt = vacation
+# quarter = S18
+# course = SPA 23
+# age = Female
+# gender = 19
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, only English
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Una vacación perfecta para mi es pasar tiempo en la naturaleza. De vez en cuando tomo un viaje a un parque nacional con mis amigos. El fin de semana pasada, por el día de fiesta, mis amigos y yo fuimos al Parque Nacional del Lassen. Nosotros vivimos de nos mochilas por tres días en el bosque. Nunca he visitado este parque antes, y las vistas fueron hermosas. Manejamos tres horas al norte y almorzamos bajo una cascada muy grande. Continuamos al parque donde empezamos caminar por los árboles y alrededor un lago. El primer noche cocinamos la cena y jugamos con las cartas en nuestra tienda de campaña. El próximo día caminamos diez millas más a un lago diferente donde comemos, nacemos, y tomamos el sol. Fuimos a acampar a la base de un volcán muy grande, y mis amigos y yo decidimos escalarlo esa noche para mirar el amanecer en la mañana. Hizo mucho viento pero las vistas fueron maravillosas. En el día después, volvemos a los coches y manejamos para los montones del parque antes de regresamos a *CITY*. Esta viaje fue una vacación perfecta realmente porque tuve las aventuras, me reí mucho, pasé tiempo con la naturaleza y olvidé todos mis problemas para el fin de semana completo. Cuando volví esta semana me sentí muy contenta y ahora estoy emocionada para terminar mi trabajo de escuela antes de las vacaciones de verano. Tengo algunos amigos nuevos y estoy lista ir a lugares nuevos con ellos en los años próximos de colegio. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Una [vacación]{vacaciones}<in:s:noun:inan> perfecta para mi es pasar tiempo en la naturaleza. De vez en cuando tomo un viaje a un parque nacional con mis amigos. El fin de semana [pasada]{pasado}<ga:mf:adj:inan>, por el día de fiesta, mis amigos y yo fuimos al Parque Nacional del Lassen. Nosotros vivimos de nos mochilas por tres días en el bosque. Nunca he visitado este parque antes, y las vistas fueron hermosas. Manejamos tres horas al norte y almorzamos bajo una cascada muy grande. Continuamos al parque donde empezamos caminar por los árboles y alrededor un lago. [El]{la}<ga:fm:det:inan> [primer]{primera}<ga:fm:det:inan> noche<gat:noun:inan> cocinamos la cena y jugamos con las cartas en nuestra tienda de campaña. El próximo día caminamos diez millas más a un lago diferente donde comemos, nacemos, y tomamos el sol. Fuimos a acampar a la base de un volcán muy grande, y mis amigos y yo decidimos escalarlo esa noche para mirar el amanecer en la mañana. Hizo mucho viento pero las vistas fueron maravillosas. En el día después, volvemos a los coches y manejamos para los montones del parque antes de regresamos a *CITY*. [Esta]{este}<ga:mf:det:inan> viaje fue una [vacación]{vacaciones}<in:s:noun:inan> perfecta realmente porque tuve las aventuras, me reí mucho, pasé tiempo con la naturaleza y olvidé todos mis problemas para el fin de semana completo. Cuando volví esta semana me sentí muy contenta y ahora estoy emocionada para terminar mi trabajo de escuela antes de las vacaciones de verano. Tengo algunos amigos nuevos y estoy lista ir a lugares nuevos con ellos en los años próximos de colegio. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una vacación perfecta para mi es pasar tiempo en la naturaleza. De vez en cuando tomo un viaje a un parque nacional con mis amigos. El fin de semana pasada, por el día de fiesta, mis amigos y yo fuimos al Parque Nacional del Lassen. Nosotros vivimos de nos mochilas por tres días en el bosque. Nunca he visitado este parque antes, y las vistas fueron hermosas. Manejamos tres horas al norte y almorzamos bajo una cascada muy grande. Continuamos al parque donde empezamos caminar por los árboles y alrededor un lago. El primer noche cocinamos la cena y jugamos con las cartas en nuestra tienda de campaña. El próximo día caminamos diez millas más a un lago diferente donde comemos, nacemos, y tomamos el sol. Fuimos a acampar a la base de un volcán muy grande, y mis amigos y yo decidimos escalarlo esa noche para mirar el amanecer en la mañana. Hizo mucho viento pero las vistas fueron maravillosas. En el día después, volvemos a los coches y manejamos para los montones del parque antes de regresamos a *CITY*. Esta viaje fue una vacación perfecta realmente porque tuve las aventuras, me reí mucho, pasé tiempo con la naturaleza y olvidé todos mis problemas para el fin de semana completo. Cuando volví esta semana me sentí muy contenta y ahora estoy emocionada para terminar mi trabajo de escuela antes de las vacaciones de verano. Tengo algunos amigos nuevos y estoy lista ir a lugares nuevos con ellos en los años próximos de colegio.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vacación	vacación	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	perfecta	perfecto	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	pasar	pasar	VERB	_	VerbForm=Inf	6	ccomp	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	De	de	ADP	_	_	5	advmod	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	1	fixed	_	_
+4	cuando	cuando	ADV	_	PronType=Rel	1	fixed	_	_
+5	tomo	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	parque	parque	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	nacional	nacional	ADJ	_	Number=Sing	10	amod	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fin	fin	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	pasada	pasado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	día	día	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	fiesta	fiesta	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+13	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	14	conj	_	_
+18	al	a	ADP	_	_	19	case	_	_
+19	Parque	Parque	PROPN	_	_	17	obl	_	_
+20	Nacional	Nacional	PROPN	_	_	19	flat	_	_
+21	del	de	ADP	_	_	22	case	_	_
+22	Lassen	Lassen	PROPN	_	_	19	flat	_	_
+23	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivimos	vivir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	nos	yo	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	mochilas	mochila	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	3	advmod	_	_
+2	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	visitado	visitar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	parque	parque	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	antes	antes	ADV	_	_	3	advmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	vistas	vista	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
+11	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+12	hermosas	hermoso	ADJ	_	Gender=Fem|Number=Plur	3	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Manejamos	manejar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	norte	norte	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	almorzamos	almorzar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	bajo	bajo	ADP	_	_	10	case	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cascada	cascada	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	grande	grande	ADJ	_	Number=Sing	10	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Continuamos	continuar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	donde	donde	ADV	_	PronType=Rel	5	advmod	_	_
+5	empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	_
+6	caminar	caminar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	árboles	árbol	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	alrededor	alrededor	ADV	_	_	9	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	lago	lago	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	noche	noche	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	cocinamos	cocinar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cena	cena	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	cartas	carta	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	campaña	campaña	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	próximo	próximo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	millas	milla	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	más	más	ADV	_	Degree=Cmp	6	advmod	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	lago	lago	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	diferente	diferente	ADJ	_	Number=Sing	10	amod	_	_
+12	donde	donde	ADV	_	PronType=Rel	13	advmod	_	_
+13	comemos	comer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	acl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	nacemos	nacer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+16	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	tomamos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	sol	sol	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	acampar	acampar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	base	base	NOUN	_	Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	volcán	volcán	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	grande	grande	ADJ	_	Number=Sing	9	amod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+13	y	y	CCONJ	_	_	18	cc	_	_
+14	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	18	nsubj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	conj	_	_
+18	decidimos	decidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+19	escalarlo	escalar	VERB	_	VerbForm=Inf	18	xcomp	_	_
+20	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
+21	noche	noche	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
+22	para	para	ADP	_	_	23	mark	_	_
+23	mirar	mirar	VERB	_	VerbForm=Inf	18	advcl	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	amanecer	amanecer	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+26	en	en	ADP	_	_	28	case	_	_
+27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	viento	viento	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	pero	pero	CCONJ	_	_	8	cc	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	vistas	vista	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	maravillosas	maravilloso	ADJ	_	Gender=Fem|Number=Plur	1	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	después	después	ADV	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	volvemos	volver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	coches	coche	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	manejamos	manejar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	para	para	ADP	_	_	14	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	montones	montón	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+15	del	de	ADP	_	_	16	case	_	_
+16	parque	parque	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+17	antes	antes	ADV	_	_	11	advmod	_	_
+18	de	de	ADP	_	_	19	mark	_	_
+19	regresamos	regresar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+20	a	a	ADP	_	_	21	case	_	_
+21	*CITY*	*city*	PROPN	_	_	19	punct	_	_
+22	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vacación	vacación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	perfecta	perfecto	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	realmente	realmente	ADV	_	_	5	advmod	_	_
+8	porque	porque	SCONJ	_	_	9	mark	_	_
+9	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	aventuras	aventura	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
+14	reí	reir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	_
+15	mucho	mucho	ADV	_	_	14	advmod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+17	pasé	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	_
+18	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+22	y	y	CCONJ	_	_	23	cc	_	_
+23	olvidé	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	_
+24	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	25	det	_	_
+25	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	_
+27	para	para	ADP	_	_	29	case	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	fin	fin	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	semana	semana	NOUN	_	Gender=Fem|Number=Sing	29	nmod	_	_
+32	completo	completo	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	_
+33	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	volví	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	advcl	_	_
+3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	ahora	ahora	ADV	_	_	12	advmod	_	_
+11	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	terminar	terminar	VERB	_	VerbForm=Inf	12	advcl	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+19	antes	antes	ADV	_	_	14	advmod	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	verano	verano	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+25	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	lista	listo	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	conj	_	_
+8	ir	ir	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+11	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obl	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	años	año	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+17	próximos	próximo	ADJ	_	Gender=Masc|Number=Plur	16	amod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,346 @@
+# Unnamed: 0 = 89
+# id = 230854
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 2
+# age = nineteen
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Algunos lugares que no me gustan son el mar, *CITY* *CITY* y mi casa en *PLACE*. El mar es bonito para otras personas, pero es grande y aterrador para mí. Muchos animales pueden atacarte en el mar. No sé nadar para poder morir en el mar. El mar es tan grande y profundo que no sabemos lo que hay allí. La gente ha muerto en el mar debido al clima peligroso. No me gusta el toque de los animales marinos. Se sienten raros y asquerosos. *CITY* *CITY* es divertido para otras personas, pero no me gusta. *CITY* *CITY* es demasiado caliente para mí y siempre necesito beber agua para ser feliz. No me gusta la gente de *CITY* *CITY*. Hay demasiadas personas locas y la mayoría de ellos fuman. Tanta gente fuma. Es malo respirar el humo de los cigarrillos. *CITY* *CITY* es demasiado fuerte debido a las fiestas y la gente por la noche. *CITY* *CITY* no es divertido para mí. No hay nada que hacer en *CITY* *CITY* porque sólo hay lugares de turistas allí. Sólo hay lugares de juego y no me gusta cuando la gente juega. El juego no es bueno para la gente porque pueden perder dinero rápidamente. No me gusta mi casa en *PLACE* porque es vieja, tiene bichos, y no está en una buena lugar. Hay arañas por todas partes en la casa. Hace 4 años vi una araña grande en la ducha y tenía miedo. La ubicación de la casa no es buena también. El clima es muy malo y llueve mucho. Hay muchas tormentas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mar	mar	NOUN	_	Number=Sing	0	root	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	*CITY*	*city*	PROPN	_	_	9	dep	_	_
+12	*CITY*	*city*	PUNCT	_	_	11	punct	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	*PLACE*	*place*	PROPN	_	_	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mar	mar	NOUN	_	Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	pero	pero	CCONJ	_	_	11	cc	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	grande	grande	ADJ	_	Number=Sing	4	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	aterrador	aterrador	ADJ	_	Gender=Masc|Number=Sing	11	conj	_	_
+14	para	para	ADP	_	_	15	case	_	_
+15	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	animales	animal	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	atacarte	atacar	VERB	_	VerbForm=Inf	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mar	mar	NOUN	_	Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nadar	nadar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	para	para	ADP	_	_	6	mark	_	_
+5	poder	poder	AUX	_	VerbForm=Inf	6	aux	_	_
+6	morir	morir	VERB	_	VerbForm=Inf	3	advcl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mar	mar	NOUN	_	Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mar	mar	NOUN	_	Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	tan	tanto	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	profundo	profundo	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	sabemos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	det	_	_
+12	que	que	PRON	_	PronType=Rel	13	obj	_	_
+13	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	allí	allí	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	muerto	morir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mar	mar	NOUN	_	Number=Sing	4	obl	_	_
+8	debido	debido	ADJ	_	Gender=Masc|Number=Sing	10	case	_	_
+9	al	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	clima	clima	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	peligroso	peligroso	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	toque	toque	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	animales	animal	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	marinos	marino	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sienten	sentir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	raros	raro	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	asquerosos	asqueroso	ADJ	_	Gender=Masc|Number=Plur	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	4	dep	_	_
+2	*CITY*	*city*	SYM	_	_	4	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
+7	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	5	dep	_	_
+2	*CITY*	*city*	SYM	_	_	5	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	demasiado	demasiado	ADV	_	_	5	advmod	_	_
+5	caliente	caliente	ADJ	_	Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	5	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	siempre	siempre	ADV	_	_	10	advmod	_	_
+10	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	beber	beber	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	agua	agua	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	para	para	ADP	_	_	15	mark	_	_
+14	ser	ser	AUX	_	VerbForm=Inf	15	cop	_	_
+15	feliz	feliz	ADJ	_	Number=Sing	11	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	*CitY*	PROPN	_	_	5	nmod	_	_
+8	*CITY*	*city*	PROPN	_	_	7	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	demasiadas	demasiado	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	locas	loco	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+10	fuman	fumar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tanta	tanto	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	fuma	fumar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	respirar	respirar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	humo	humo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	cigarrillos	cigarrillo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	5	dep	_	_
+2	*CITY*	*city*	SYM	_	_	5	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	demasiado	demasiado	ADV	_	_	5	advmod	_	_
+5	fuerte	fuerte	ADJ	_	Number=Sing	0	root	_	_
+6	debido	debido	ADJ	_	_	9	case	_	_
+7	a	a	ADP	_	_	6	fixed	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	fiestas	fiesta	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	gente	gente	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	5	dep	_	_
+2	*CITY*	*city*	PUNCT	_	_	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nada	nada	PRON	_	Number=Sing|PronType=Neg	2	obj	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	*City*	PROPN	_	_	2	dep	_	_
+8	*CITY*	*City*	PROPN	_	_	7	punct	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	sólo	sólo	ADV	_	_	11	advmod	_	_
+11	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	turistas	turista	NOUN	_	Number=Plur	12	nmod	_	_
+15	allí	allí	ADV	_	_	11	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Sólo	sólo	ADV	_	_	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	juego	juego	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	cuando	cuando	SCONJ	_	_	13	mark	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	gente	gente	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	juego	juego	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	gente	gente	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	perder	perder	VERB	_	VerbForm=Inf	5	advcl	_	_
+12	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	rápidamente	rápidamente	ADV	_	_	11	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*PLACE*	*place*	PROPN	_	_	10	punct	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	vieja	viejo	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+13	bichos	bicho	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+18	en	en	ADP	_	_	21	case	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	buena	buen	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	_
+21	lugar	lugar	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	arañas	araña	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	5	det	_	_
+5	partes	parte	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+2	4	4	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	araña	araña	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	grande	grande	ADJ	_	Number=Sing	6	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ducha	ducha	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+13	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ubicación	ubicación	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+9	también	también	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clima	clima	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	llueve	llover	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	tormentas	tormenta	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

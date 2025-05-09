@@ -1,0 +1,244 @@
+# Unnamed: 0 = 258
+# id = 206059
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola! Me llamo *FIRST_NAME* *FIRST_NAME* *LAST_NAME*. [Yo]{}<pr:su:pron> soy de Estados Unidos. Estudio ciencias políticas en []{la}<ab:det:art:def> Universidades de *UNIVERSITY*. Me gusta comer comida. Camino a la clase. Me gusta el color negro.  No hablo español. [Yo]{}<pr:su:pron> comprendo un poco. En verano [Yo]{}<pr:su:pron> viajo. Voy a [la]{}<pr:det:art:def>  Europa. [Yo]{}<pr:su:pron> voy a Italy, London, Paris, y Amsterdam. [Yo]{}<pr:su:pron> quiero ir a [la]{}<pr:det:art:def> España. [Yo]{}<pr:su:pron> quiero a aprender español. [Yo]{}<pr:su:pron> quiero a hablar español con [el]{los}<ga:na:det> nativos. Me gusta []{la}<ab:det:art:def> pizza mucho pero me gusta comida nueva. [Yo]{}<pr:su:pron> tengo una familia de cinco. Uno hermano y una hermana. Mi madre es bonita y inteligente. Mi padre es divertido y inteligente. Mi hermano tiene mas anos pero mi hermana tiene menos anos. Mi casa esta en *CITY*. Es un ciudad pequeña. Me gusta []{el}<ab:det:art:def> vino. *CITY* bebe mucho vino. Mi familia tiene una casa de vino. Mi padre habla español bien pero otras familia no habla español. Me gusta aprender español pero soy mal.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola! Me llamo *FIRST_NAME* *FIRST_NAME* *LAST_NAME*. [Yo]{}<pr:su:pron> soy de Estados Unidos. Estudio ciencias políticas en Universidades de *UNIVERSITY*. Me gusta comer comida. Camino a [la]{}<pr:det:art:def> clase. Me gusta el color negro.  No hablo español. [Yo]{}<pr:su:pron> comprendo un poco. En verano [yo]{}<pr:su:pron> viajo. Voy a [la]{}<pr:det:art:def> Europa. [Yo]{}<pr:su:pron> voy a Italy, London, Paris, y Amsterdam. [Yo]{}<pr:su:pron> quiero ir a la España. [Yo]{}<pr:su:pron> quiero a aprender español. [Yo]{}<pr:su:pron> quiero a hablar español con [el]{los}<na:det> nativos. Me gusta []{la}<ab:det:art:def> pizza mucho pero me gusta []{la}<ab:det:art:def> comida nueva. [Yo]{}<pr:su:pron> tengo una familia de cinco. Uno hermano y una hermana. Mi madre es bonita y inteligente. Mi padre es divertido y inteligente. Mi hermano tiene mas anos pero mi hermana tiene menos anos. Mi casa esta en *CITY*. Es [un]{una}<ga:det> ciudad pequeña. Me gusta []{el}<ab:det:art:def> vino. *CITY* bebe mucho vino. Mi familia tiene una casa de vino. Mi padre habla español bien pero otras [familia]{familias}<na:noun> no [habla]{hablan}<fs:st:pn> español. Me gusta aprender español pero soy mal.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Me llamo *FIRST_NAME* *FIRST_NAME* *LAST_NAME*. Yo soy de Estados Unidos. Estudio Ciencias Políticas en la Universidad de *UNIVERSITY*. Me gusta comer comida. Camino en la clase. Me gusta el color negro.  No hablo español. Comprendo un poco. En verano yo viajo. Voy a Europa. Yo voy a Italia, Londres, París y Ámsterdam. Quiero ir a España. Y quiero aprender español. Quiero a hablar español con los nativos. Me gusta mucho la pizza, pero me gusta la comida nueva. Tengo una familia de cinco. Un hermano y una hermana. Mi madre es bonita e inteligente. Mi padre es divertido e inteligente. Mi hermano tiene mas años que yo pero mi hermana tiene menos anos que yo. Mi casa esta en *CITY*. Es un ciudad pequeña. Me gusta el vino. En *CITY* se bebe mucho vino. Mi familia tiene una casa de vino. Mi padre habla español bien, pero otras familia no hablan español. Me gusta aprender español, pero lo hago mal mal.
+# corrected2 = nan
+# text = ¡Hola! Me llamo *FIRST_NAME* *FIRST_NAME* *LAST_NAME*. Yo soy de Estados Unidos. Estudio ciencias políticas en Universidades de *UNIVERSITY*. Me gusta comer comida. Camino a la clase. Me gusta el color negro. No hablo español. Yo comprendo un poco. En verano yo viajo. Voy a la Europa. Yo voy a Italy, London, Paris, y Amsterdam. Yo quiero ir a la España. Yo quiero a aprender español. Yo quiero a hablar español con el nativos. Me gusta pizza mucho pero me gusta comida nueva. Yo tengo una familia de cinco. Uno hermano y una hermana. Mi madre es bonita y inteligente. Mi padre es divertido y inteligente. Mi hermano tiene mas anos pero mi hermana tiene menos anos. Mi casa esta en *CITY*. Es un ciudad pequeña. Me gusta vino. *CITY* bebe mucho vino. Mi familia tiene una casa de vino. Mi padre habla español bien pero otras familia no habla español. Me gusta aprender español pero soy mal.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hola	hola	INTJ	_	_	5	dep	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	SYM	_	_	4	compound	_	_
+7	*FIRST_NAME*	*first_name*	SYM	_	_	4	compound	_	_
+8	*LAST_NAME*	*last_name*	PUNCT	_	_	5	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Estados	Estados	PROPN	_	_	0	root	_	_
+5	Unidos	Unidos	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estudio	estudio	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+2	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	políticas	político	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Universidades	Universidades	PROPN	_	_	1	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*UNIVERSITY*	*university*	PUNCT	_	_	5	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	comida	comida	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Camino	camino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	clase	clase	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	color	color	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	español	español	ADJ	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	comprendo	comprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	verano	verano	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	viajo	viajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Europa	Europa	PROPN	_	_	1	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Italy	Italy	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	London	London	PROPN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	Paris	Paris	PROPN	_	_	4	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	Amsterdam	Amsterdam	PROPN	_	_	4	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	España	España	PROPN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	aprender	aprender	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	hablar	hablar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	nativos	nativo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pizza	pizza	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	mucho	mucho	ADV	_	_	2	advmod	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+9	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	familia	familia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	menos	menos	ADV	_	Degree=Cmp	11	advmod	_	_
+11	anos	ano	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PUNCT	_	_	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vino	vino	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*CITY*	*city*	PUNCT	_	_	2	nsubj	_	_
+2	bebe	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	vino	vino	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	vino	vino	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	español	español	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	bien	bien	ADV	_	_	3	advmod	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	español	español	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aprender	aprender	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	mal	mal	ADV	_	_	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

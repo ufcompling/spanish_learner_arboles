@@ -1,0 +1,345 @@
+# Unnamed: 0 = 148
+# id = 199831
+# prompt = terrible
+# quarter = F18
+# course = SPA 2
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Tagalog
+# language(s) studied = None besides Spanish 
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando tenía 10 años, visité la ciudad natal de mi madre en Philippines llamada *CITY*. Mi familia y yo tomamos un avión a *CITY*, la ciudad cerca de *CITY*. Luego manejamos de *CITY* a *CITY* por 2 horas. Durante nuestro viaje, nuestro llanta tiene plano porque golpeó un objeto afilado. No teníamos llanta de repuesto así que tuvimos que esperar por ayuda. Esperamos una hora para que mi tío venga con una llanta. Estaba oscuro en ese momento, así que estaba muy asustado. Finalmente llegamos a la casa de mi madre muy tarde en la noche. Yo estaba muy cansada y quería dormir pero solo había 2 camas en la casa y mis padres y mi hermano mayor están en las camas. Tuve que dormir en el sofá de la sala con mi hermano menor. Era muy incómodo. Al dia siguiente fuimos a la playa. La playa muy bonita, así que corrí rápido para ir agua, pero me tropecé. Mis zapatillas rompió y la arena estaba encima de mí. Era terrible. Yo estaba llorando y mi mamá me tuvo que calmar. Yo no quería ir a la playa más. Mejor, me senté en una estera. Estaba tomando el sol y me dormí. Me desperté a mi piel roja y quemado. Me duele mucho la piel. Que vacaciones era horrible. No me divertí durante la vacación porque mi piel estaba sufriendo. Mejor me quedé en casa todo el tiempo. El nuestro vuelo de regreso a casa, también dejé mi bolso en el terminal. Era mis vacaciones más terribles.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+3	10	10	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	visité	visitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	natal	natal	ADJ	_	Number=Sing	8	amod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	Philippines	Philippines	PROPN	_	_	8	nmod	_	_
+15	llamada	llamado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	_
+16	*CITY*	*city*	PROPN	_	_	14	flat	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	tomamos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	avión	avión	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*CITY*	*City*	PROPN	_	_	5	dep	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	_
+13	cerca	cerca	ADV	_	_	12	advmod	_	_
+14	de	de	ADP	_	_	13	fixed	_	_
+15	*CITY*	*city*	PROPN	_	_	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	manejamos	manejar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	a	a	ADP	_	_	4	case	_	_
+6	*CITY*	*city*	PUNCT	_	_	4	punct	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	2	2	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	llanta	llanta	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	plano	plano	ADJ	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	golpeó	golpear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	objeto	objeto	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	afilado	afilado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	teníamos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	llanta	llanta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	repuesto	repuesto	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	así	así	ADV	_	_	8	mark	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
+8	tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	que	que	SCONJ	_	_	10	cc	_	_
+10	esperar	esperar	VERB	_	VerbForm=Inf	8	conj	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Esperamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	hora	hora	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	para	para	ADP	_	_	8	mark	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	tío	tío	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	venga	venir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	llanta	llanta	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	momento	momento	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+7	así	así	ADV	_	_	11	mark	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
+9	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	2	advmod	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	tarde	tarde	ADV	_	_	2	advmod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	noche	noche	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	cansada	cansado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+7	dormir	dormir	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	solo	solo	ADV	_	_	10	advmod	_	_
+10	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	2	2	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+12	camas	cama	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+16	y	y	CCONJ	_	_	23	cc	_	_
+17	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	padres	padre	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+22	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	21	amod	_	_
+23	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+26	camas	cama	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	dormir	dormir	VERB	_	VerbForm=Inf	1	conj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sofá	sofá	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	sala	sala	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+13	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	incómodo	incómodo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Al	a	ADP	_	_	2	case	_	_
+2	dia	dia	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	siguiente	siguiente	ADJ	_	Number=Sing	2	amod	_	_
+4	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	playa	playa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	playa	playa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	así	así	ADV	_	_	8	mark	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
+8	corrí	corrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	rápido	rápido	ADV	_	_	8	advmod	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	8	advcl	_	_
+12	agua	agua	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+14	pero	pero	CCONJ	_	_	16	cc	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	tropecé	tropecar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	zapatillas	zapatilla	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	rompió	romper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	arena	arena	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+8	encima	encima	ADV	_	_	3	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	llorando	llorar	VERB	_	VerbForm=Ger	0	root	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obj	_	_
+8	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	que	que	SCONJ	_	_	10	cc	_	_
+10	calmar	calmar	VERB	_	VerbForm=Inf	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	playa	playa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mejor	mejor	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	senté	sentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	estera	estera	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	tomando	tomar	VERB	_	VerbForm=Ger	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sol	sol	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	dormí	dormir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	desperté	despertar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	piel	piel	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	roja	rojo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	quemado	quemado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	duele	doler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	piel	piel	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Que	que	SCONJ	_	_	4	mark	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	horrible	horrible	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	divertí	divertir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vacación	vacación	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	piel	piel	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	sufriendo	sufrir	VERB	_	VerbForm=Ger	3	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	3	advmod	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	quedé	quedar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	también	también	ADV	_	_	10	advmod	_	_
+10	dejé	dejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	bolso	bolso	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	terminal	terminal	NOUN	_	Number=Sing	10	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	terribles	terrible	ADJ	_	Number=Plur	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

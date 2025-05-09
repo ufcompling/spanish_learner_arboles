@@ -1,0 +1,234 @@
+# Unnamed: 0 = 65
+# id = 147329
+# prompt = vacation
+# quarter = S18
+# course = SPA 1
+# age = Male
+# gender = 19
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Madarin
+# language(s) studied = I studied English for 11 years.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = una vacación perfecta
+
+Mi familia y yo viajamos a Tailandia por avión el año pasado. Nosotros pasamos ocho horas en avión.Mi padres, hermanos y yo fuimos a muchas hermosas islas. Tuvimos muchos mariscos increíbles incluyendo cangrejo, camarones, langosta, etc. Vivimos en un muy buen hotel. Las habitaciones son muy grandes, luminosas y limpias. Primero visitamos Bangkok. La vista nocturna es muy hermosa. Compramos muchos recuerdos y ropa. Visitamos el Gran Palacio donde solían vivir las familias reales. Los edificios fueron increíbles y hermosos. 
+
+Luego, viajamos a la isla de phuket. Había muchas playas soleadas. El clima fue realmente agradable. Mariscos en la isla de phuket eran frescos y sabrosos. Había muchas discotecas, restaurantes y tiendas en la isla. Nos lo pasamos genial allí. Tenía muchos cocos en la isla. La fruta y el marisco en la isla fueron realmente excelentes. Este viaje a Tailandia es el mejor viaje que he tenido." 
+# a personal annotator2 = nan
+# gender-number annotator1 = una [vacación]{vacaciones}<in:s:noun:inan> perfecta
+
+Mi familia y yo viajamos a Tailandia por avión el año pasado. Nosotros pasamos ocho horas en avión.[Mi]{mis}<na:ps:det:an> padres, hermanos y yo fuimos a muchas hermosas islas. Tuvimos muchos mariscos increíbles incluyendo cangrejo, camarones, langosta, etc. Vivimos en un muy buen hotel. Las habitaciones son muy grandes, luminosas y limpias. Primero visitamos Bangkok. La vista nocturna es muy hermosa. Compramos muchos recuerdos y ropa. Visitamos el Gran Palacio donde solían vivir las familias reales. Los edificios fueron increíbles y hermosos. 
+
+Luego, viajamos a la isla de phuket. Había muchas playas soleadas. El clima fue realmente agradable. Mariscos en la isla de phuket eran frescos y sabrosos. Había muchas discotecas, restaurantes y tiendas en la isla. Nos lo pasamos genial allí. Tenía muchos cocos en la isla. La fruta y el marisco en la isla fueron realmente excelentes. Este viaje a Tailandia es el mejor viaje que he tenido." 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = una vacación perfecta Mi familia y yo viajamos a Tailandia por avión el año pasado. Nosotros pasamos ocho horas en avión.Mi padres, hermanos y yo fuimos a muchas hermosas islas. Tuvimos muchos mariscos increíbles incluyendo cangrejo, camarones, langosta, etc. Vivimos en un muy buen hotel. Las habitaciones son muy grandes, luminosas y limpias. Primero visitamos Bangkok. La vista nocturna es muy hermosa. Compramos muchos recuerdos y ropa. Visitamos el Gran Palacio donde solían vivir las familias reales. Los edificios fueron increíbles y hermosos. Luego, viajamos a la isla de phuket. Había muchas playas soleadas. El clima fue realmente agradable. Mariscos en la isla de phuket eran frescos y sabrosos. Había muchas discotecas, restaurantes y tiendas en la isla. Nos lo pasamos genial allí. Tenía muchos cocos en la isla. La fruta y el marisco en la isla fueron realmente excelentes. Este viaje a Tailandia es el mejor viaje que he tenido.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	una	uno	DET	_	_	2	det	_	_
+2	vacación	vacación	NOUN	_	_	0	ROOT	_	_
+3	perfecta	perfecto	ADJ	_	_	2	amod	_	_
+4	Mi	mi	DET	_	_	5	det	_	_
+5	familia	familia	NOUN	_	_	2	appos	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	yo	yo	PRON	_	_	8	nsubj	_	_
+8	viajamos	viajamos	VERB	_	_	2	conj	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	Tailandia	Tailandia	PROPN	_	_	8	obj	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	avión	avión	NOUN	_	_	8	obl	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	año	año	NOUN	_	_	8	obl	_	_
+15	pasado	pasado	ADJ	_	_	14	amod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	2	nsubj	_	_
+2	pasamos	pasar	VERB	_	_	0	ROOT	_	_
+3	ocho	ocho	NUM	_	_	4	nummod	_	_
+4	horas	hora	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	avión	avión	NOUN	_	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padres	padre	NOUN	_	_	7	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	hermanos	hermano	NOUN	_	_	2	appos	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	yo	yo	PRON	_	_	2	conj	_	_
+7	fuimos	ir	VERB	_	_	0	ROOT	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	muchas	mucho	DET	_	_	10	det	_	_
+10	hermosas	hermosa	NOUN	_	_	7	obl	_	_
+11	islas	isla	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Tuvimos	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	mariscos	marisco	NOUN	_	_	1	obj	_	_
+4	increíbles	increíble	ADJ	_	_	3	amod	_	_
+5	incluyendo	incluir	VERB	_	_	1	advcl	_	_
+6	cangrejo	cangrejo	NOUN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	camarones	camarón	NOUN	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	langosta	langostar	VERB	_	_	1	advcl	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	etc.	etc.	PUNCT	_	_	1	punct	_	_
+
+1	Vivimos	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	6	case	_	_
+3	un	uno	DET	_	_	6	det	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	buen	buen	ADJ	_	_	6	amod	_	_
+6	hotel	hotel	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	habitaciones	habitación	NOUN	_	_	5	nsubj	_	_
+3	son	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grandes	grande	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	luminosas	luminosa	NOUN	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	limpias	limpio	ADJ	_	_	5	conj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Primero	primero	ADV	_	_	2	advmod	_	_
+2	visitamos	visitar	VERB	_	_	0	ROOT	_	_
+3	Bangkok	Bangkok	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	vista	vista	NOUN	_	_	6	nsubj	_	_
+3	nocturna	nocturno	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	hermosa	hermoso	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Compramos	comprar	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	recuerdos	recuerdo	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ropa	ropa	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Visitamos	visitar	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	Gran	gran	ADJ	_	_	1	obj	_	_
+4	Palacio	Palacio	PROPN	_	_	3	flat	_	_
+5	donde	donde	PRON	_	_	6	obl	_	_
+6	solían	soler	VERB	_	_	3	acl	_	_
+7	vivir	vivir	VERB	_	_	6	xcomp	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	familias	familia	NOUN	_	_	6	nsubj	_	_
+10	reales	real	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	edificios	edificio	NOUN	_	_	4	nsubj	_	_
+3	fueron	ser	AUX	_	_	4	cop	_	_
+4	increíbles	increíble	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	hermosos	hermoso	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	viajamos	viajamos	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	isla	isla	NOUN	_	_	3	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	phuket	phuket	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Había	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	playas	playa	NOUN	_	_	1	obj	_	_
+4	soleadas	soleado	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	clima	clima	NOUN	_	_	5	nsubj	_	_
+3	fue	ser	AUX	_	_	5	cop	_	_
+4	realmente	realmente	ADV	_	_	5	advmod	_	_
+5	agradable	agradable	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mariscos	marisco	NOUN	_	_	8	nsubj	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	isla	isla	NOUN	_	_	1	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	phuket	phuket	NOUN	_	_	4	nmod	_	_
+7	eran	ser	AUX	_	_	8	cop	_	_
+8	frescos	fresco	NOUN	_	_	0	ROOT	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	sabrosos	sabroso	NOUN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Había	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	discotecas	discoteca	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	restaurantes	restaurante	NOUN	_	_	3	appos	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiendas	tienda	NOUN	_	_	3	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	isla	isla	NOUN	_	_	1	obl	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Nos	yo	PRON	_	_	3	iobj	_	_
+2	lo	él	PRON	_	_	3	obj	_	_
+3	pasamos	pasar	VERB	_	_	0	ROOT	_	_
+4	genial	genial	ADJ	_	_	3	iobj	_	_
+5	allí	allí	ADV	_	_	3	advmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	cocos	coco	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	isla	isla	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	fruta	fruta	NOUN	_	_	11	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	marisco	marisco	NOUN	_	_	2	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	isla	isla	NOUN	_	_	5	nmod	_	_
+9	fueron	ser	AUX	_	_	11	cop	_	_
+10	realmente	realmente	ADV	_	_	11	advmod	_	_
+11	excelentes	excelente	ADJ	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	viaje	viaje	NOUN	_	_	8	nsubj	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Tailandia	Tailandia	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	8	cop	_	_
+6	el	el	DET	_	_	8	det	_	_
+7	mejor	mejor	ADJ	_	_	8	amod	_	_
+8	viaje	viaje	NOUN	_	_	0	ROOT	_	_
+9	que	que	PRON	_	_	11	obj	_	_
+10	he	haber	AUX	_	_	11	aux	_	_
+11	tenido	tener	VERB	_	_	8	acl	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+

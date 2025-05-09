@@ -1,0 +1,475 @@
+# Unnamed: 0 = 141
+# id = 256289
+# prompt = beautiful
+# quarter = W21
+# course = SPA 22
+# age = 18
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 4 or more
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una vez, había una mujer que pensaba que era fea. Al crecer, nunca miró su reflejo. No en espejos o agua o superficies planas, en nada. Por eso, vivía sola en un bosque y se cubría la cara cuando iba de compras al pueblo. Fue así por durante cinco años. Se sentía sola, pero estaba bien mientras nadie la mirara. Cuando llegó el verano y el mercado estaba abierto, viajó al pueblo para comprar algunas frutas y verduras. Había mucha gente allí, pero nadie la miró. Todos excepto una mujer que vende limones. "¿Puedo conseguir tres limones?" la mujer fea preguntó. Sin hablar, la mujer le dio tres limones, agarró el dinero y se fue. Esto sucede con el hombre vendiendo espinacas, la mujer vendiendo zanahorias y los niños vendiendo azúcar. Cuando se iba a ir, la mujer fea recordó que necesitaba unos fósforos para encender un fuego por la noche. Se dio la vuelta y caminó hacia un hombre que vendía herramientas y algunas otras cosas. "¿Tienes algunos fósforos?" la chica fea preguntó. "Nah." El hombre le dijo. "Pero, tengo un espejo. Si apuntas a la madera cuando el sol brilla, encenderá un fuego rápidamente. Inténtalo." La mujer fea pagó por el espejo y empezó a caminar a su casa. Cuando iba a cruzar la calle, un hombre chocó con ella y dejó caer el espejo. El hombre lo atrapó antes de que se rompiera, pero su rostro se cayó cuando fue a retirarlo. La mujer miró el espejo para ver si estaba roto y vio su reflejo por accidente. Sus ojos se agrandaron y se miró a sí misma con sorpresa. "Lo estás haciendo mal." El hombre dijo. "¿Lo estoy haciendo mal?" Ella preguntó. "Se supone que debes sonreír." Él le mostró su sonrisa y se lo copió. Ella se miró al espejo y se rió. Ella no era una mujer fea. Ella era normal y solamente era solo una niña fea. Lo que la hacía hermosa era su sonrisa. Qué tonta era por no saberlo. Fin.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+8	pensaba	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	fea	feo	ADJ	_	Gender=Fem|Number=Sing	8	ccomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Al	a	ADP	_	_	2	case	_	_
+2	crecer	crecer	VERB	_	VerbForm=Inf	5	advcl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	nunca	nunca	ADV	_	_	5	advmod	_	_
+5	miró	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	reflejo	reflejo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	0	root	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	espejos	espejo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+4	o	o	CCONJ	_	_	5	cc	_	_
+5	agua	agua	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	o	o	CCONJ	_	_	7	cc	_	_
+7	superficies	superficie	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+8	planas	plano	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	nada	nada	PRON	_	Number=Sing|PronType=Neg	1	dep	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	sola	solo	ADJ	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	cubría	cubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cara	cara	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+14	cuando	cuando	SCONJ	_	_	15	mark	_	_
+15	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	compras	compra	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	_
+18	al	a	ADP	_	_	19	case	_	_
+19	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	así	así	ADV	_	_	0	root	_	_
+3	por	por	ADP	_	_	6	case	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	sola	solo	ADJ	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	bien	bien	ADV	_	_	2	conj	_	_
+8	mientras	mientras	SCONJ	_	_	11	mark	_	_
+9	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	11	nsubj	_	_
+10	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	mirara	mirar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	verano	verano	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+11	viajó	viajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	al	a	ADP	_	_	13	case	_	_
+13	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	comprar	comprar	VERB	_	VerbForm=Inf	11	advcl	_	_
+16	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
+17	frutas	fruta	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	verduras	verdura	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	gente	gente	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	allí	allí	ADV	_	_	1	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	9	nsubj	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	miró	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	0	root	_	_
+2	excepto	excepto	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	vende	vender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	limones	limón	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	_
+3	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	conseguir	conseguir	VERB	_	VerbForm=Inf	12	xcomp	_	_
+5	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	limones	limón	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+8	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	fea	feo	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+12	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Sin	sin	ADP	_	_	2	mark	_	_
+2	hablar	hablar	VERB	_	VerbForm=Inf	7	advcl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	limones	limón	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	agarró	agarrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	fue	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	sucede	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	vendiendo	vender	VERB	_	VerbForm=Ger	5	acl	_	_
+7	espinacas	espinaca	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+11	vendiendo	vender	VERB	_	VerbForm=Ger	5	acl	_	_
+12	zanahorias	zanahoria	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+13	y	y	CCONJ	_	_	16	cc	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	niños	niño	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+16	vendiendo	vender	VERB	_	VerbForm=Ger	5	conj	_	_
+17	azúcar	azúcar	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	fea	feo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	recordó	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+13	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	fósforos	fósforo	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+15	para	para	ADP	_	_	16	mark	_	_
+16	encender	encender	VERB	_	VerbForm=Inf	12	advcl	_	_
+17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	fuego	fuego	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+19	por	por	ADP	_	_	21	case	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	noche	noche	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vuelta	vuelta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	caminó	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	hacia	hacia	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+11	vendía	vender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+12	herramientas	herramienta	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+13	y	y	CCONJ	_	_	16	cc	_	_
+14	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+15	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
+16	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	_
+3	Tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+4	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	fósforos	fósforo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	chica	chica	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	fea	feo	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	Nah	nah	ADV	_	_	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	Pero	pero	CCONJ	_	_	4	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	espejo	espejo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	apuntas	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	madera	madera	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	cuando	cuando	SCONJ	_	_	9	mark	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sol	sol	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	brilla	brillar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+11	encenderá	encender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fuego	fuego	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	rápidamente	rápidamente	ADV	_	_	11	advmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Inténtalo	inténtalo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+2	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	fea	feo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	pagó	pagar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	espejo	espejo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	caminar	caminar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	cruzar	cruzar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	calle	calle	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	chocó	chocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+15	caer	caer	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	espejo	espejo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	atrapó	atrapar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	antes	antes	ADV	_	_	4	advmod	_	_
+6	de	de	ADP	_	_	9	mark	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	rompiera	romper	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+11	pero	pero	CCONJ	_	_	15	cc	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	rostro	rostro	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	cayó	caer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+16	cuando	cuando	SCONJ	_	_	17	mark	_	_
+17	fue	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	advcl	_	_
+18	a	a	ADP	_	_	19	mark	_	_
+19	retirarlo	retirar	VERB	_	VerbForm=Inf	17	xcomp	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	miró	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	espejo	espejo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	3	advcl	_	_
+8	si	si	SCONJ	_	_	10	mark	_	_
+9	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	roto	roto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	reflejo	reflejo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	por	por	ADP	_	_	16	case	_	_
+16	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	agrandaron	agrandar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	miró	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	sí	él	PRON	_	Case=Acc|Person=3|PrepCase=Pre|PronType=Prs|Reflex=Yes	7	obj	_	_
+10	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	sorpresa	sorpresa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	estás	estar	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	haciendo	hacer	VERB	_	VerbForm=Ger	0	root	_	_
+5	mal	mal	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+2	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	_
+3	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+4	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	haciendo	hacer	VERB	_	VerbForm=Ger	0	root	_	_
+6	mal	mal	ADV	_	_	5	advmod	_	_
+7	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	5	punct	_	_
+8	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	supone	suponer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	debes	deber	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	sonreír	sonreír	VERB	_	VerbForm=Inf	3	csubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	mostró	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs	10	obl	_	_
+9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	copió	copiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	miró	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	espejo	espejo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	rió	rer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	fea	feo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	normal	normal	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	9	cc	_	_
+5	solamente	solamente	ADV	_	_	9	advmod	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7	solo	solo	ADJ	_	_	9	advmod	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	niña	niña	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+10	fea	feo	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
+2	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+3	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	csubj	_	_
+5	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	4	xcomp	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Qué	qué	DET	_	PronType=Int	2	det	_	_
+2	tonta	tonta	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	por	por	ADP	_	_	6	mark	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	saberlo	saber	VERB	_	VerbForm=Inf	3	ccomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fin	fin	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

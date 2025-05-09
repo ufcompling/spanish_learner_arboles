@@ -1,0 +1,343 @@
+# Unnamed: 0 = 93
+# id = 230761
+# prompt = terrible
+# quarter = F19
+# course = SPA 21
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = German
+# language(s) studied = I learned German as a kid because my dad is from Germany, I studied German for one year in high school.
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando tenía siete años, fui a Costa Rica con mi mamá, mi hermano, y algunos amigos de mi familia para visitar nuestra propiedad en la Osa Peninsula. Una noche, hicimos un viaje a un pueblo se llama *CITY*, y cuando llegamos, salimos a un restaurante para cenar. Cuando nos estábamos sentando en el restaurante, decidimos mudarnos a otra mesa. Pero cuando nos mudamos, mi madre ella accidentalmente dejó su bolsa en la primera mesa. Alrededor de diez minutos después, mi madre se dio cuenta de que olvidara su bolsa, y cuando volvió a la primera mesa, su bolsa estaba robado. Su bolsa tenía su teléfono celular y su billetera, pero el peor parte era que tenía los pasaportes de mi madre, mi hermano y yo, entonces tenemos miedo que no volvería a los estados unidos. No pudimos hacer mucho de los actividades que hemos planeado porque no tuvimos dinero. Por suerte, nuestros amigos nos prestaron un poco de dinero para ayudarnos. Tuvimos que ir a la embajada americana en *CITY* para recibir nuevos pasaportes, que era un proceso muy complicado. Teníamos problemas legales porque no tuvimos nuestros certificados de nacimiento, entonces mi madre llamó a mi padre, quien estaba en los estados unidos, y le pidió volar a Costa Rica para traernos los certificados. Después de un proceso muy largo y complicado, recibimos nuevas pasaportes y regresamos a los estados unidos. Aprendemos la importancia de vigilar los objetos personales en Costa Rica porque hay mucho robo en este país. Desafortunadamente, tres años después alguien robó la bolsa de mi madre otra vez en una estación de autobuses.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	_	0	ROOT	_	_
+3	siete	siete	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+
+1	fui	ir	AUX	_	_	3	cop	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	Costa	Costa	PROPN	_	_	0	ROOT	_	_
+4	Rica	Rica	PROPN	_	_	3	flat	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	mamá	mamá	NOUN	_	_	3	nmod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	hermano	hermano	NOUN	_	_	7	appos	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	algunos	alguno	DET	_	_	14	det	_	_
+14	amigos	amigo	NOUN	_	_	3	conj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	familia	familia	NOUN	_	_	14	nmod	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	visitar	visitar	VERB	_	_	14	acl	_	_
+20	nuestra	nuestro	DET	_	_	21	det	_	_
+21	propiedad	propiedad	NOUN	_	_	19	obj	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	la	el	DET	_	_	24	det	_	_
+24	Osa	Osa	PROPN	_	_	19	obl	_	_
+25	Peninsula	Peninsula	PROPN	_	_	24	flat	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Una	uno	DET	_	_	2	det	_	_
+2	noche	noche	NOUN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	hicimos	hacer	VERB	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	viaje	viaje	NOUN	_	_	4	obj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	pueblo	pueblo	NOUN	_	_	6	nmod	_	_
+10	se	él	PRON	_	_	11	expl:pv	_	_
+11	llama	llamar	VERB	_	_	4	advcl	_	_
+12	*CITY*	CITY	PROPN	_	_	11	obj	_	_
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	y	y	CCONJ	_	_	18	cc	_	_
+15	cuando	cuando	SCONJ	_	_	16	mark	_	_
+16	llegamos	llegar	VERB	_	_	18	advcl	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	salimos	salir	VERB	_	_	11	conj	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	un	uno	DET	_	_	21	det	_	_
+21	restaurante	restaurante	NOUN	_	_	18	iobj	_	_
+22	para	para	ADP	_	_	23	mark	_	_
+23	cenar	cenar	VERB	_	_	21	acl	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	nos	yo	PRON	_	_	4	expl:pass	_	_
+3	estábamos	estár	AUX	_	_	4	aux	_	_
+4	sentando	sentar	VERB	_	_	9	advcl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	restaurante	restaurante	NOUN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	decidimos	decidir	VERB	_	_	0	ROOT	_	_
+10	mudarnos	mudarno	ADJ	_	_	9	obj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	otra	otro	DET	_	_	13	det	_	_
+13	mesa	mesa	NOUN	_	_	9	obj	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	10	advmod	_	_
+2	cuando	cuando	SCONJ	_	_	4	mark	_	_
+3	nos	yo	PRON	_	_	4	obj	_	_
+4	mudamos	mudar	VERB	_	_	10	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	madre	madre	NOUN	_	_	10	nsubj	_	_
+8	ella	él	PRON	_	_	7	appos	_	_
+9	accidentalmente	accidentalmente	ADV	_	_	10	advmod	_	_
+10	dejó	dejar	VERB	_	_	0	ROOT	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	bolsa	bolsa	NOUN	_	_	10	obj	_	_
+13	en	en	ADP	_	_	16	case	_	_
+14	la	el	DET	_	_	16	det	_	_
+15	primera	primero	ADJ	_	_	16	amod	_	_
+16	mesa	mesa	NOUN	_	_	10	obl	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Alrededor	alrededor	ADV	_	_	10	advmod	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	diez	diez	NUM	_	_	4	nummod	_	_
+4	minutos	minuto	NOUN	_	_	5	obl	_	_
+5	después	después	ADV	_	_	1	advmod	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	madre	madre	NOUN	_	_	10	nsubj	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	dio	dar	VERB	_	_	0	ROOT	_	_
+11	cuenta	cuenta	NOUN	_	_	10	compound	_	_
+12	de	de	ADP	_	_	14	mark	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	olvidara	olvidar	VERB	_	_	10	ccomp	_	_
+15	su	su	DET	_	_	16	det	_	_
+16	bolsa	bolsa	NOUN	_	_	14	obj	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	cuando	cuando	SCONJ	_	_	20	mark	_	_
+20	volvió	volver	VERB	_	_	14	conj	_	_
+21	a	a	ADP	_	_	24	case	_	_
+22	la	el	DET	_	_	24	det	_	_
+23	primera	primero	ADJ	_	_	24	amod	_	_
+24	mesa	mesa	NOUN	_	_	20	obl	_	_
+25	,	,	PUNCT	_	_	14	punct	_	_
+26	su	su	DET	_	_	27	det	_	_
+27	bolsa	bolsa	NOUN	_	_	29	nsubj	_	_
+28	estaba	estar	AUX	_	_	29	cop	_	_
+29	robado	robado	ADJ	_	_	10	advcl	_	_
+30	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	bolsa	bolsa	NOUN	_	_	3	nsubj	_	_
+3	tenía	tener	VERB	_	_	0	ROOT	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	teléfono	teléfono	NOUN	_	_	3	obj	_	_
+6	celular	celular	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	billetera	billetera	NOUN	_	_	5	conj	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	pero	pero	CCONJ	_	_	15	cc	_	_
+12	el	el	DET	_	_	14	det	_	_
+13	peor	peor	ADJ	_	_	14	amod	_	_
+14	parte	parte	NOUN	_	_	15	nsubj	_	_
+15	era	ser	AUX	_	_	3	conj	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	tenía	tener	VERB	_	_	15	ccomp	_	_
+18	los	el	DET	_	_	19	det	_	_
+19	pasaportes	pasaporte	NOUN	_	_	17	obj	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	mi	mi	PROPN	_	_	22	det	_	_
+22	madre	madre	NOUN	_	_	19	nmod	_	_
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	mi	mi	DET	_	_	25	det	_	_
+25	hermano	hermano	NOUN	_	_	19	appos	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	yo	yo	PRON	_	_	3	conj	_	_
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	entonces	entonces	ADV	_	_	30	advmod	_	_
+30	tenemos	tener	VERB	_	_	3	advcl	_	_
+31	miedo	miedo	NOUN	_	_	30	obj	_	_
+32	que	que	PRON	_	_	34	nsubj	_	_
+33	no	no	ADV	_	_	34	advmod	_	_
+34	volvería	volver	VERB	_	_	31	acl	_	_
+35	a	a	ADP	_	_	37	case	_	_
+36	los	el	DET	_	_	37	det	_	_
+37	estados	estados	PROPN	_	_	34	obl	_	_
+38	unidos	unidos	PROPN	_	_	37	flat	_	_
+39	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	pudimos	poder	AUX	_	_	3	aux	_	_
+3	hacer	hacer	VERB	_	_	0	ROOT	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	actividades	actividad	NOUN	_	_	3	obj	_	_
+8	que	que	PRON	_	_	10	obj	_	_
+9	hemos	haber	AUX	_	_	10	aux	_	_
+10	planeado	planear	VERB	_	_	7	acl	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	no	no	ADV	_	_	13	advmod	_	_
+13	tuvimos	tener	VERB	_	_	10	advcl	_	_
+14	dinero	dinero	NOUN	_	_	13	obj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	suerte	suerte	NOUN	_	_	7	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	nuestros	nuestro	DET	_	_	5	det	_	_
+5	amigos	amigo	NOUN	_	_	7	nsubj	_	_
+6	nos	yo	PRON	_	_	7	obj	_	_
+7	prestaron	prestar	VERB	_	_	0	ROOT	_	_
+8	un	uno	DET	_	_	7	advmod	_	_
+9	poco	poco	PRON	_	_	8	fixed	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	dinero	dinero	NOUN	_	_	7	obj	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	ayudarnos	ayudarno	NOUN	_	_	7	obl	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Tuvimos	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	ir	ir	VERB	_	_	1	conj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	embajada	embajada	NOUN	_	_	3	obl	_	_
+7	americana	americano	ADJ	_	_	6	amod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*CITY*	CITY	PROPN	_	_	6	nmod	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	recibir	recibir	VERB	_	_	3	advcl	_	_
+12	nuevos	nuevo	ADJ	_	_	13	amod	_	_
+13	pasaportes	pasaporte	NOUN	_	_	11	obj	_	_
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	que	que	PRON	_	_	18	nsubj	_	_
+16	era	ser	AUX	_	_	18	cop	_	_
+17	un	uno	DET	_	_	18	det	_	_
+18	proceso	proceso	NOUN	_	_	13	acl	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	complicado	complicado	ADJ	_	_	18	amod	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Teníamos	tener	VERB	_	_	15	advcl	_	_
+2	problemas	problema	NOUN	_	_	1	obj	_	_
+3	legales	legal	ADJ	_	_	2	amod	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	tuvimos	tener	VERB	_	_	1	advcl	_	_
+7	nuestros	nuestro	DET	_	_	8	det	_	_
+8	certificados	certificado	NOUN	_	_	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	nacimiento	nacimiento	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	1	punct	_	_
+12	entonces	entonces	ADV	_	_	15	advmod	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	madre	madre	NOUN	_	_	15	nsubj	_	_
+15	llamó	llamar	VERB	_	_	0	ROOT	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	_	18	det	_	_
+18	padre	padre	NOUN	_	_	15	obj	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	quien	quien	PRON	_	_	21	nsubj	_	_
+21	estaba	estar	AUX	_	_	18	acl	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	los	el	DET	_	_	24	det	_	_
+24	estados	estados	PROPN	_	_	21	obl	_	_
+25	unidos	unidos	PROPN	_	_	24	flat	_	_
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	y	y	CCONJ	_	_	29	cc	_	_
+28	le	él	PRON	_	_	29	iobj	_	_
+29	pidió	pedir	VERB	_	_	15	conj	_	_
+30	volar	volar	VERB	_	_	29	xcomp	_	_
+31	a	a	ADP	_	_	32	case	_	_
+32	Costa	Costa	PROPN	_	_	30	obl	_	_
+33	Rica	Rica	PROPN	_	_	32	flat	_	_
+34	para	para	ADP	_	_	35	mark	_	_
+35	traernos	traerno	NOUN	_	_	30	advcl	_	_
+36	los	el	DET	_	_	37	det	_	_
+37	certificados	certificado	NOUN	_	_	35	obj	_	_
+38	.	.	PUNCT	_	_	15	punct	_	_
+
+1	Después	después	ADV	_	_	10	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	proceso	proceso	NOUN	_	_	1	obl	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	largo	largo	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	complicado	complicado	ADJ	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	recibimos	recibimos	VERB	_	_	0	ROOT	_	_
+11	nuevas	nuevo	ADJ	_	_	12	amod	_	_
+12	pasaportes	pasaporte	NOUN	_	_	10	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	regresamos	regresar	VERB	_	_	10	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	los	el	DET	_	_	17	det	_	_
+17	estados	estados	PROPN	_	_	14	obj	_	_
+18	unidos	unidos	PROPN	_	_	17	flat	_	_
+19	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Aprendemos	aprendar	VERB	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	importancia	importancia	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	vigilar	vigilar	VERB	_	_	3	acl	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	objetos	objeto	NOUN	_	_	5	obj	_	_
+8	personales	personal	ADJ	_	_	7	amod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Costa	Costa	PROPN	_	_	5	obl	_	_
+11	Rica	Rica	PROPN	_	_	10	flat	_	_
+12	porque	porque	SCONJ	_	_	13	mark	_	_
+13	hay	haber	AUX	_	_	5	advcl	_	_
+14	mucho	mucho	DET	_	_	15	det	_	_
+15	robo	robo	NOUN	_	_	13	obj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	este	este	DET	_	_	18	det	_	_
+18	país	país	NOUN	_	_	13	obl	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Desafortunadamente	desafortunadamente	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tres	tres	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	5	obl	_	_
+5	después	después	ADV	_	_	7	advmod	_	_
+6	alguien	alguien	PRON	_	_	7	nsubj	_	_
+7	robó	robar	VERB	_	_	0	ROOT	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	bolsa	bolsa	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	mi	mi	PROPN	_	_	12	det	_	_
+12	madre	madre	NOUN	_	_	9	nmod	_	_
+13	otra	otro	DET	_	_	14	det	_	_
+14	vez	vez	NOUN	_	_	7	obl	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	una	uno	DET	_	_	17	det	_	_
+17	estación	estación	NOUN	_	_	7	obj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	autobuses	autobús	NOUN	_	_	17	nmod	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+

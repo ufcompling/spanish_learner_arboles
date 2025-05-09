@@ -1,0 +1,325 @@
+# Unnamed: 0 = 69
+# id = 175731
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 168
+# age = 22
+# gender = Female
+# l1 language = 0
+# other l1 language(s) = Mandarin
+# language(s) used at home = 3
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = no me [gusta]{gustó}<fs:st:t> *CITY* *CITY* cuando viajé allí en las vacaciones de primavera. El tráfico puede ser un problema molesto. si hay un accidente en un área puede lanzar toda la red de tráfico en un bloqueo que dura horas. La mejor solución es montar en bicicleta o ciclomotor, aunque compartir carril puede ser peligroso. Pasé la mayor parte del tiempo en la carretera en lugar de visitar un lugar famoso. Los sin techo están por todas partes. Esto es algo que encontrarás en todas las grandes ciudades, pero el problema parece especialmente pronunciado en *CITY* *CITY*. los costos diarios también son muy caros en comparación con otros lugares. También gasté la mayor parte del dinero en el alquiler y la comida. Además, no veo un montón de greens allí y esto me hace más estresado vivir en la ciudad moderna. Los greens pueden ayudarme a relajarme y aliviar mi estrés de las tareas escolares. Los desastres naturales como incendios, terremotos y deslizamientos de lodo son comunes allí. Estos son factores importantes a tener en cuenta porque todos conocemos los grandes impactos de los desastres naturales en muchos aspectos. Además, no siento las cuatro temporadas allí. Disfrutaré de la nieve en invierno o de la vista de colores en otoño.*CITY* *CITY* también es un lugar peligroso debido a tantas personas sin hogar y rebelión. Muchos inmigrantes o estudiantes internacionales no pueden ser tratados de manera justa allí, e incluso atacados por los blancos. Las son las razones por las que no me gustan *CITY* *CITY*
+# updated annotation ann2 = ﻿no me gusta *CITY* *CITY* cuando viajé allí en las vacaciones de primavera. El tráfico puede ser un problema molesto. si hay un accidente en un área puede lanzar toda la red de tráfico en un bloqueo que dura horas. La mejor solución es montar en bicicleta o ciclomotor, aunque compartir carril puede ser peligroso. Pasé la mayor parte del tiempo en la carretera en lugar de visitar un lugar famoso. Los sin techo están por todas partes. Esto es algo que encontrarás en todas las grandes ciudades, pero el problema parece especialmente pronunciado en *CITY* *CITY*. los costos diarios también son muy caros en comparación con otros lugares. También gasté la mayor parte del dinero en el alquiler y la comida. Además, no veo un montón de greens allí y esto me hace más estresado vivir en la ciudad moderna. Los greens pueden ayudarme a relajarme y aliviar mi estrés de las tareas escolares. Los desastres naturales como incendios, terremotos y deslizamientos de lodo son comunes allí. Estos son factores importantes a tener en cuenta porque todos conocemos los grandes impactos de los desastres naturales en muchos aspectos. Además, no siento las cuatro temporadas allí. Disfrutaré de la nieve en invierno o de la vista de colores en otoño.*CITY* *CITY* también es un lugar peligroso debido a tantas personas sin hogar y rebelión. Muchos inmigrantes o estudiantes internacionales no pueden ser tratados de manera justa allí, e incluso atacados por los blancos. [Las]{}<pr:det:art:def> son las razones por las que no me gustan *CITY* *CITY*
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = no me gusta *CITY* *CITY* cuando viajé allí en las vacaciones de primavera. El tráfico puede ser un problema molesto. si hay un accidente en un área puede lanzar toda la red de tráfico en un bloqueo que dura horas. La mejor solución es montar en bicicleta o ciclomotor, aunque compartir carril puede ser peligroso. Pasé la mayor parte del tiempo en la carretera en lugar de visitar un lugar famoso. Los sin techo están por todas partes. Esto es algo que encontrarás en todas las grandes ciudades, pero el problema parece especialmente pronunciado en *CITY* *CITY*. los costos diarios también son muy caros en comparación con otros lugares. También gasté la mayor parte del dinero en el alquiler y la comida. Además, no veo un montón de greens allí y esto me hace más estresado vivir en la ciudad moderna. Los greens pueden ayudarme a relajarme y aliviar mi estrés de las tareas escolares. Los desastres naturales como incendios, terremotos y deslizamientos de lodo son comunes allí. Estos son factores importantes a tener en cuenta porque todos conocemos los grandes impactos de los desastres naturales en muchos aspectos. Además, no siento las cuatro temporadas allí. Disfrutaré de la nieve en invierno o de la vista de colores en otoño.*CITY* *CITY* también es un lugar peligroso debido a tantas personas sin hogar y rebelión. Muchos inmigrantes o estudiantes internacionales no pueden ser tratados de manera justa allí, e incluso atacados por los blancos. Las son las razones por las que no me gustan *CITY* *CITY*
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*CITY*	*city*	PROPN	_	_	7	dep	_	_
+5	*CITY*	*city*	PUNCT	_	_	4	punct	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	viajé	viajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+8	allí	allí	ADV	_	_	7	advmod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	primavera	primavera	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	ser	ser	AUX	_	VerbForm=Inf	6	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	problema	problema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	si	si	SCONJ	_	_	2	mark	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	área	área	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	lanzar	lanzar	VERB	_	VerbForm=Inf	0	root	_	_
+10	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	11	det	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	red	red	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	bloqueo	bloqueo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+18	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+19	dura	durar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+20	horas	hora	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+3	solución	solución	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	montar	montar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	o	o	CCONJ	_	_	9	cc	_	_
+9	ciclomotor	ciclomotor	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+11	aunque	aunque	SCONJ	_	_	16	mark	_	_
+12	compartir	compartir	VERB	_	VerbForm=Inf	16	csubj	_	_
+13	carril	carril	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	ser	ser	AUX	_	VerbForm=Inf	16	cop	_	_
+16	peligroso	peligroso	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pasé	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	4	amod	_	_
+4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+10	en	en	ADP	_	_	13	mark	_	_
+11	lugar	lugar	NOUN	_	_	10	fixed	_	_
+12	de	de	ADP	_	_	10	fixed	_	_
+13	visitar	visitar	VERB	_	VerbForm=Inf	1	advcl	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+2	sin	sin	ADP	_	_	1	case	_	_
+3	techo	techo	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	7	det	_	_
+7	partes	parte	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	algo	algo	PRON	_	Number=Sing|PronType=Ind	0	root	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	encontrarás	encontrar	VERB	_	VerbForm=Inf	3	acl	_	_
+6	en	en	ADP	_	_	10	case	_	_
+7	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	grandes	grande	ADJ	_	Number=Plur	10	amod	_	_
+10	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	problema	problema	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+15	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+16	especialmente	especialmente	ADV	_	_	15	advmod	_	_
+17	pronunciado	pronunciado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	15	xcomp	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+20	*CITY*	*city*	PROPN	_	_	19	punct	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	costos	costo	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	diarios	diario	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+4	también	también	ADV	_	_	7	advmod	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	caros	caro	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+8	en	en	ADP	_	_	12	case	_	_
+9	comparación	comparación	NOUN	_	_	8	fixed	_	_
+10	con	con	ADP	_	_	8	fixed	_	_
+11	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
+12	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	gasté	gastar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+5	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	alquiler	alquiler	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	comida	comida	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	montón	montón	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	6	case	_	_
+8	greens	greens	NOUN	_	_	6	nmod	_	_
+9	allí	allí	ADV	_	_	4	advmod	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	esto	este	PRON	_	Number=Sing|PronType=Dem	13	nsubj	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+15	estresado	estresado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	xcomp	_	_
+16	vivir	vivir	VERB	_	VerbForm=Inf	13	xcomp	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+20	moderna	moderno	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	greens	greens	NOUN	_	_	4	nsubj	_	_
+3	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ayudarme	ayudar	VERB	_	VerbForm=Inf	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	relajarme	relajar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	aliviar	aliviar	VERB	_	VerbForm=Inf	6	conj	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	estrés	estrés	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	tareas	tarea	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
+14	escolares	escolar	ADJ	_	Number=Plur	13	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	desastres	desastre	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	_
+3	naturales	natural	ADJ	_	Number=Plur	2	amod	_	_
+4	como	como	SCONJ	_	_	5	mark	_	_
+5	incendios	incendio	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	terremotos	terremoto	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	deslizamientos	deslizamiento	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	lodo	lodo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	comunes	comune	ADJ	_	Number=Plur	0	root	_	_
+14	allí	allí	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Estos	este	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	factores	factor	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	importantes	importante	ADJ	_	Number=Plur	3	amod	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	tener	tener	VERB	_	VerbForm=Inf	3	acl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	6	compound	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	11	nsubj	_	_
+11	conocemos	conocer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	grandes	grande	ADJ	_	Number=Plur	14	amod	_	_
+14	impactos	impacto	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	desastres	desastre	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+18	naturales	natural	ADJ	_	Number=Plur	17	amod	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	21	det	_	_
+21	aspectos	aspecto	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+7	temporadas	temporada	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+8	allí	allí	ADV	_	_	4	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Disfrutaré	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	o	o	CCONJ	_	_	10	cc	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vista	vista	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	colores	color	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	6	dep	_	_
+2	*CITY*	*city*	PROPN	_	_	1	appos	_	_
+3	también	también	ADV	_	_	6	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	peligroso	peligroso	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	debido	debido	ADJ	_	_	11	case	_	_
+9	a	a	ADP	_	_	8	fixed	_	_
+10	tantas	tanto	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Dem	11	det	_	_
+11	personas	persona	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
+12	sin	sin	ADP	_	_	13	case	_	_
+13	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	rebelión	rebelión	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	inmigrantes	inmigrante	NOUN	_	Number=Plur	9	nsubj	_	_
+3	o	o	CCONJ	_	_	4	cc	_	_
+4	estudiantes	estudiante	NOUN	_	Number=Plur	2	conj	_	_
+5	internacionales	internacional	ADJ	_	Number=Plur	4	amod	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	aux	_	_
+9	tratados	tratar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	manera	manera	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+12	justa	justo	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
+13	allí	allí	ADV	_	_	9	advmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	e	e	CCONJ	_	_	17	cc	_	_
+16	incluso	incluso	ADV	_	_	17	advmod	_	_
+17	atacados	atacar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	_
+18	por	por	ADP	_	_	20	case	_	_
+19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	blancos	blanco	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Las	él	PRON	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	razones	razón	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	que	que	PRON	_	PronType=Rel	10	obl	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+11	*CITY*	*city*	PROPN	_	_	4	appos	_	_
+12	*CITY*	*city*	PUNCT	_	_	11	punct	_	_
+

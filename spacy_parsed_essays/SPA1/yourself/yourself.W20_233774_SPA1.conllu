@@ -1,0 +1,252 @@
+# Unnamed: 0 = 82
+# id = 233774
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 18
+# gender = Male
+# l1 language = English,Other
+# other l1 language(s) = Hindi
+# language(s) used at home = Hindi, Gujarati
+# language(s) studied = Hindi (from childhood to high school)
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy de *PLACE*, pero estudio en [el]{la}<ga:det> escuela secundaria en *CITY* *CITY*, *STATE* y ahora soy []{un}<ab:det:art:indef> estudiante universitario en []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY*. Mi especialización es "Cinema y Digital Media" y estoy pensando estudiar [el]{}<pr:det:art:def> francés como menor (minor).  Soy aventurero, curioso, abierto y amicable, pero no soy activo, atlético o saludable. Soy moreno, tengo []{el}<ab:det:art:def> pelo negro, pero no llevo barba o bigote. Soy alto y delgado. Tengo un novio también *PLACE* y [los]{}<pr:det:art:def> amigos *PLACE* también, y por eso practicó el español todos los días.  Me levanto a []{las}<ab:det:art:def> 9 en la mañana y me gusta el omelet de la *PLACE* *PLACE*, pero no [mucha]{mucho}<ga:adv> gusta [la comida otra]{la otra comida}<col:adj> en la *UNIVERSITY*. Me encanta consumar [la]{}<pr:det:art:def> comida de India y de "Middle East" también por que mi familia es muslim y de India, pero me gusta probar la comida mexicana, italiana, y de todos los [país]{países}<na:noun>!  Me gusta estudiar [las]{}<pr:det:art:def><ga:det> idiomas y [las]{}<pr:det:art:def> culturas diferentes. Me encanta la caligrafía y la guitarra y las practicó. Me encanta ver el levanto del sol y el dormir del sol también. Me gusta ir en caminata.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de *PLACE*, pero estudio en [el]{la}<ga:det> escuela secundaria en *CITY* *CITY*, *STATE* y ahora soy estudiante universitario en *UNIVERSITY* *UNIVERSITY*. Mi especialización es "Cinema y Digital Media" y estoy pensando estudiar el francés como menor (minor).  Soy aventurero, curioso, abierto y amicable, pero no soy activo, atlético o saludable. Soy moreno, tengo []{el}<ab:det:art:def> pelo negro, pero no llevo barba o bigote. Soy alto y delgado. Tengo un novio también *PLACE* y [los]{}<pr:det:art:def> amigos *PLACE* también, y por eso practicó el español todos los días.  Me levanto a []{las}<ab:det:art:def> 9 en la mañana y me gusta el omelet de la *PLACE* *PLACE*, pero no [mucha]{mucho}<gat:adv> gusta la [comida otra]{otra comida}<col:adj> en la *UNIVERSITY*. Me encanta [consumar]{consumir}<fs:st:r> la comida de India y de "Middle East" también por que mi familia es muslim y de India, pero me gusta probar la comida mexicana, italiana, y de todos los [país]{países}<na:noun>!  Me gusta estudiar [las]{}<pr:det:art:def><gat:det> [idiomas]{idiomas}<gat:noun> y [las]{}<pr:det:art:def> culturas diferentes. Me encanta la caligrafía y la guitarra y las practicó. Me encanta ver el levanto del sol y el dormir del sol también. Me gusta ir en [caminata]{caminatas}<in:noun>.
+# verbs annotation ann2 = nan
+# corrected1 = Soy de *PLACE*, pero fui a la Escuela Secundaria en *CITY* José, *STATE*, y ahora soy un estudiante universitario en la *UNIVERSITY* *UNIVERSITY*. Mi especialización es en Cine y medios digitales, y estoy pensando en estudiar Francés como asignatura secundaria.  Soy aventurero, curioso, abierto y amigable, pero no soy activo, atlético ni llevo un modo de vida muy sano. Soy moreno, tengo el pelo negro y no llevo barba o bigote. Soy alto y delgado. Tengo un novio *PLACE* y amigos *PLACE* también, y por eso practico el español todos los días.  Me levanto a las 9 de la mañana y me gusta la tortilla del comedor universitario, pero no me gusta mucho la otra comida. Me encanta comer comida de India y de Oriente Medio también porque mi familia es musulmana y de India, ¡pero me gusta probar la comida mexicana, italiana y de todos los países!  Me gusta estudiar idiomas y conocer culturas diferentes. Me encantan la caligrafía y tocar la guitarra, y practico a menudo. Me encanta ver el amanecer y el atardecer también. Me gusta ir de caminata. 
+# corrected2 = nan
+# text = Soy de *PLACE*, pero estudio en el escuela secundaria en *CITY* *CITY*, *STATE* y ahora soy estudiante universitario en *UNIVERSITY* *UNIVERSITY*. Mi especialización es "Cinema y Digital Media" y estoy pensando estudiar el francés como menor (minor). Soy aventurero, curioso, abierto y amicable, pero no soy activo, atlético o saludable. Soy moreno, tengo pelo negro, pero no llevo barba o bigote. Soy alto y delgado. Tengo un novio también *PLACE* y los amigos *PLACE* también, y por eso practicó el español todos los días. Me levanto a 9 en la mañana y me gusta el omelet de la *PLACE* *PLACE*, pero no mucha gusta la comida otra en la *UNIVERSITY*. Me encanta consumar la comida de India y de "Middle East" también por que mi familia es PLACE* y de *PLACE*, pero me gusta probar la comida mexicana, italiana, y de todos los país! Me gusta estudiar las idiomas y las culturas diferentes. Me encanta la caligrafía y la guitarra y las practicó. Me encanta ver el levanto del sol y el dormir del sol también. Me gusta ir en caminata.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	estudio	estudio	NOUN	_	_	3	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	escuela	escuela	NOUN	_	_	6	obl	_	_
+10	secundaria	secundario	ADJ	_	_	9	amod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*CITY*	CITY	PROPN	_	_	9	nmod	_	_
+13	*CITY*	CITY	PROPN	_	_	12	flat	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	*STATE*	STATE	PROPN	_	_	9	appos	_	_
+16	y	y	CCONJ	_	_	19	cc	_	_
+17	ahora	ahora	ADV	_	_	19	advmod	_	_
+18	soy	ser	AUX	_	_	19	cop	_	_
+19	estudiante	estudiante	ADJ	_	_	6	conj	_	_
+20	universitario	universitario	ADJ	_	_	19	amod	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	19	obl	_	_
+23	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	22	flat	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialización	especialización	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	"	"	PUNCT	_	_	5	punct	_	_
+5	Cinema	Cinema	PROPN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Digital	Digital	PROPN	_	_	5	conj	_	_
+8	Media	Media	PROPN	_	_	7	flat	_	_
+9	"	"	PUNCT	_	_	5	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	estoy	estar	AUX	_	_	12	aux	_	_
+12	pensando	pensar	VERB	_	_	5	conj	_	_
+13	estudiar	estudiar	VERB	_	_	12	xcomp	_	_
+14	el	el	DET	_	_	15	det	_	_
+15	francés	francés	NOUN	_	_	13	obj	_	_
+16	como	como	SCONJ	_	_	17	mark	_	_
+17	menor	menor	ADJ	_	_	13	advmod	_	_
+18	(	(	PUNCT	_	_	19	punct	_	_
+19	minor	minor	NOUN	_	_	13	dep	_	_
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	aventurero	aventurero	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	curioso	curioso	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	abierto	abierto	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	amicable	amicable	ADJ	_	_	4	conj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	no	no	ADV	_	_	13	advmod	_	_
+12	soy	ser	AUX	_	_	13	cop	_	_
+13	activo	activo	ADJ	_	_	2	conj	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	atlético	atlético	ADJ	_	_	13	conj	_	_
+16	o	o	CCONJ	_	_	17	cc	_	_
+17	saludable	saludable	ADJ	_	_	13	conj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	moreno	moreno	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	tengo	tener	VERB	_	_	2	advcl	_	_
+5	pelo	pelo	NOUN	_	_	4	obj	_	_
+6	negro	negro	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	no	no	ADV	_	_	10	advmod	_	_
+10	llevo	llevar	VERB	_	_	4	conj	_	_
+11	barba	barba	NOUN	_	_	10	obj	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	bigote	bigote	NOUN	_	_	11	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	alto	alto	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	delgado	delgado	NOUN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	novio	novio	NOUN	_	_	1	obj	_	_
+4	también	también	ADV	_	_	5	advmod	_	_
+5	*PLACE*	PLACE	PROPN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	amigos	amigo	NOUN	_	_	5	conj	_	_
+9	*PLACE*	PLACE	PROPN	_	_	8	appos	_	_
+10	también	también	ADV	_	_	8	advmod	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	por	por	ADP	_	_	14	case	_	_
+14	eso	ese	PRON	_	_	15	obl	_	_
+15	practicó	practicar	VERB	_	_	1	conj	_	_
+16	el	el	DET	_	_	17	det	_	_
+17	español	español	NOUN	_	_	15	obj	_	_
+18	todos	todo	DET	_	_	19	det	_	_
+19	los	el	DET	_	_	20	det	_	_
+20	días	día	NOUN	_	_	15	obl	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	levanto	levantar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	9	9	NUM	_	_	2	obl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	mañana	mañana	NOUN	_	_	2	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	gusta	gustar	VERB	_	_	2	conj	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	omelet	omelet	NOUN	_	_	10	nsubj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	*PLACE*	PLACE	PROPN	_	_	12	nmod	_	_
+16	*PLACE*	PLACE	PROPN	_	_	15	flat	_	_
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	pero	pero	CCONJ	_	_	21	cc	_	_
+19	no	no	ADV	_	_	21	advmod	_	_
+20	mucha	mucho	DET	_	_	21	obj	_	_
+21	gusta	gustar	VERB	_	_	2	conj	_	_
+22	la	el	DET	_	_	23	det	_	_
+23	comida	comida	NOUN	_	_	21	nsubj	_	_
+24	otra	otro	PRON	_	_	23	appos	_	_
+25	en	en	ADP	_	_	27	case	_	_
+26	la	el	DET	_	_	27	det	_	_
+27	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	21	obl	_	_
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	43	nsubj	_	_
+3	consumar	consumar	VERB	_	_	2	csubj	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	comida	comida	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	India	India	PROPN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	"	"	PUNCT	_	_	11	punct	_	_
+11	Middle	Middle	PROPN	_	_	7	conj	_	_
+12	East	East	PROPN	_	_	11	flat	_	_
+13	"	"	PUNCT	_	_	11	punct	_	_
+14	también	también	ADV	_	_	3	advmod	_	_
+15	por	por	ADP	_	_	14	case	_	_
+16	que	que	SCONJ	_	_	20	mark	_	_
+17	mi	mi	DET	_	_	18	det	_	_
+18	familia	familia	NOUN	_	_	20	nsubj	_	_
+19	es	ser	AUX	_	_	20	cop	_	_
+20	*PLACE*	PLACE	PROPN	_	_	3	ccomp	_	_
+21	*	*	NUM	_	_	20	punct	_	_
+22	y	y	CCONJ	_	_	24	cc	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	*PLACE*	PLACE	PROPN	_	_	20	conj	_	_
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	pero	pero	CCONJ	_	_	28	cc	_	_
+27	me	yo	PRON	_	_	28	iobj	_	_
+28	gusta	gustar	VERB	_	_	2	conj	_	_
+29	probar	probar	VERB	_	_	28	csubj	_	_
+30	la	el	DET	_	_	31	det	_	_
+31	comida	comida	NOUN	_	_	29	obj	_	_
+32	mexicana	mexicano	ADJ	_	_	31	amod	_	_
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	italiana	italiano	ADJ	_	_	31	amod	_	_
+35	,	,	PUNCT	_	_	40	punct	_	_
+36	y	y	CCONJ	_	_	40	cc	_	_
+37	de	de	ADP	_	_	40	case	_	_
+38	todos	todo	DET	_	_	39	det	_	_
+39	los	el	DET	_	_	40	det	_	_
+40	país	país	NOUN	_	_	31	conj	_	_
+41	!	!	PUNCT	_	_	2	punct	_	_
+42	Me	yo	PRON	_	_	43	iobj	_	_
+43	gusta	gustar	VERB	_	_	0	ROOT	_	_
+44	estudiar	estudiar	VERB	_	_	43	csubj	_	_
+45	las	el	DET	_	_	46	det	_	_
+46	idiomas	idioma	NOUN	_	_	44	obj	_	_
+47	y	y	CCONJ	_	_	49	cc	_	_
+48	las	el	DET	_	_	49	det	_	_
+49	culturas	cultura	NOUN	_	_	46	conj	_	_
+50	diferentes	diferente	ADJ	_	_	49	amod	_	_
+51	.	.	PUNCT	_	_	43	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	caligrafía	caligrafía	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	guitarra	guitarra	NOUN	_	_	4	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	las	él	PRON	_	_	10	obj	_	_
+10	practicó	practicar	VERB	_	_	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	levanto	levanto	NOUN	_	_	3	obj	_	_
+6	del	del	ADP	_	_	7	case	_	_
+7	sol	sol	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	dormir	dormir	NOUN	_	_	3	conj	_	_
+11	del	del	ADP	_	_	12	case	_	_
+12	sol	sol	NOUN	_	_	10	nmod	_	_
+13	también	también	ADV	_	_	10	advmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	caminata	caminata	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

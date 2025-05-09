@@ -1,0 +1,130 @@
+# Unnamed: 0 = 202
+# id = 147067
+# prompt = famous
+# quarter = S17
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = French-3 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Él se llama Jimmy Fallon. Él es cómico. Jimmy Fallon tiene cuarenta y dos años. Él es de los Estados Unidos. Él es morena, delgado, baja y viejo. De lunes a viernes, él tiene que trabajar. A él le gusta bailar. A él le gusta cantar. Él no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. Él es no aburrido. Él es muy extrovertido y no introvertido.
+# a personal annotator2 = Él se llama Jimmy Fallon. Él es cómico. Jimmy Fallon tiene cuarenta y dos años. Él es de los Estados Unidos. Él es morena, delgado, baja y viejo. De lunes a viernes, él tiene que trabajar. A él le gusta bailar. A él le gusta cantar. Él no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. Él es no aburrido. Él es muy extrovertido y no introvertido. 
+# gender-number annotator1 = Él se llama Jimmy Fallon. Él es cómico. Jimmy Fallon tiene cuarenta y dos años. Él es de los Estados Unidos. Él es [morena]{moreno}<ga:mf:adj:an>, delgado, [baja]{bajo}<ga:mf:adj:an>,  y viejo. De lunes a viernes, él tiene que trabajar. A él le gusta bailar. A él le gusta cantar. Él no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. Él es no aburrido. Él es muy extrovertido y no introvertido. 
+
+# gender-number annotator2 = Él se llama Jimmy Fallon. Él es cómico. Jimmy Fallon tiene cuarenta y dos años. Él es de los Estados Unidos. Él es [morena]{moreno}<ga:mf:adj:an>, delgado, [baja]{bajo}<ga:mf:adj:an> y viejo. De lunes a viernes, él tiene que trabajar. A él le gusta bailar. A él le gusta cantar. Él no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. Él es no aburrido. Él es muy extrovertido y no introvertido. 
+
+# updated anntoation ann1 = Él se llama Jimmy Fallon. [Él]{}<pr:su:pron> es cómico. Jimmy Fallon tiene cuarenta y dos años. [Él]{}<pr:su:pron> es de los Estados Unidos. [Él]{}<pr:su:pron> es [morena]{moreno}<ga:adj>, delgado, [baja]{bajo}<ga:adj> y viejo. De lunes a viernes, [él]{}<pr:su:pron> tiene que trabajar. A él le gusta bailar. A él le gusta cantar. [Él]{}<pr:su:pron> no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. [Él]{}<pr:su:pron> es no aburrido. [Él]{}<pr:su:pron> es muy extrovertido y no introvertido.
+# updated annotation ann2 = Él se llama Jimmy Fallon. [Él]{}<pr:su:pron> es cómico. Jimmy Fallon tiene cuarenta y dos años. [Él]{}<pr:su:pron> es de los Estados Unidos. [Él]{}<pr:su:pron> es [morena]{moreno}<ga:adj>, delgado, [baja]{bajo}<ga:adj> y viejo. De lunes a viernes, [él]{}<pr:su:pron> tiene que trabajar. A él le gusta bailar. A él le gusta cantar. [Él]{}<pr:su:pron> no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. [Él]{}<pr:su:pron> es no aburrido. [Él]{}<pr:su:pron> es muy extrovertido y no introvertido.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Él se llama Jimmy Fallon. Es cómico. Jimmy Fallon tiene cuarenta y dos años. Es de los Estados Unidos. Es moreno, delgado, bajo y viejo. De lunes a viernes tiene que trabajar. A él le gusta bailar. A él le gusta cantar. No tiene que trabajar en sábado y domingo. A mí me gusta ver a Jimmy Fallon. No es aburrido. Es muy extrovertido y no introvertido.
+# corrected2 = Él se llama Jimmy Fallon. Es cómico. Jimmy Fallon tiene cuarenta y dos años. Es de los Estados Unidos. Es moreno, delgado, bajo y viejo. De lunes a viernes, tiene que trabajar. A él le gusta bailar. A él le gusta cantar. No tiene que trabajar en sábado y domingo. A mí me gusta ver a Jimmy Fallon. No es aburrido. Es muy extrovertido y no introvertido.
+# text = Él se llama Jimmy Fallon. Él es cómico. Jimmy Fallon tiene cuarenta y dos años. Él es de los Estados Unidos. Él es morena, delgado, baja y viejo. De lunes a viernes, él tiene que trabajar. A él le gusta bailar. A él le gusta cantar. Él no tiene que trabajar en sábado y domingo. A mí me gusta mirar Jimmy Fallon. Él es no aburrido. Él es muy extrovertido y no introvertido.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	llama	llamar	VERB	_	_	0	ROOT	_	_
+4	Jimmy	Jimmy	PROPN	_	_	3	nsubj	_	_
+5	Fallon	Fallon	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	cómico	cómico	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Jimmy	Jimmy	PROPN	_	_	3	nsubj	_	_
+2	Fallon	Fallon	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuarenta	cuarenta	NUM	_	_	7	nummod	_	_
+5	y	y	CCONJ	_	_	4	compound	_	_
+6	dos	dos	NUM	_	_	4	compound	_	_
+7	años	año	NOUN	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	Estados	Estados	PROPN	_	_	0	ROOT	_	_
+6	Unidos	Unidos	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	morena	morena	NOUN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	delgado	delgado	NOUN	_	_	3	amod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	baja	bajo	ADJ	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	viejo	viejo	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	De	de	ADP	_	_	2	case	_	_
+2	lunes	lunes	NOUN	_	_	9	obl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	viernes	viernes	NOUN	_	_	2	compound	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	él	él	PRON	_	_	9	nsubj	_	_
+7	tiene	tener	VERB	_	_	0	ROOT	_	_
+8	que	que	SCONJ	_	_	9	cc	_	_
+9	trabajar	trabajar	VERB	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	bailar	bailar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	cantar	cantar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	5	nsubj	_	_
+2	no	no	ADV	_	_	5	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	trabajar	trabajar	VERB	_	_	3	conj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	sábado	sábado	NOUN	_	_	5	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	domingo	domingo	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	mirar	mirar	VERB	_	_	4	csubj	_	_
+6	Jimmy	Jimmy	PROPN	_	_	5	obj	_	_
+7	Fallon	Fallon	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	aburrido	aburrido	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	extrovertido	extrovertido	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	introvertido	introvertido	ADJ	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+

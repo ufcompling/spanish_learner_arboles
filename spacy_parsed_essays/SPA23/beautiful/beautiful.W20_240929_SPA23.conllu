@@ -1,0 +1,214 @@
+# Unnamed: 0 = 95
+# id = 240929
+# prompt = beautiful
+# quarter = W20
+# course = SPA 23
+# age = Yo tengo 18
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = El otro lenguaje que hablo en la casa es espanol.
+# language(s) studied = nunca ha estudiado otro lenguajes 
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un quento bonito para mi es Coco, la película de Coco es may [bonito]{bonita}<ga:adj> porque tabla de [la]{}<pr:det:art:def> dia de los muertos y Como es un dia para recordernos  de tu familia que ha pasado a rise con dios. Y es [un]{una}<ga:det> tradicion que ha estado en mochas families for generaciones. Y es algo que muchas personas valoren. Yo nunca lo ha hecho perf cuando termine de ver la película lo querier hacer para el año que nos entra.   Para mi es algo que hacen mas en Mexico perf deberían hacerlo en los EEUU. [Otra]{Otro}<ga:det> cuento que es bonito es de amor, cuando habalan de a quien quieren muchas películas  de disney hablan de eso y tambien lo muestran mucho is vas a disney  landia. Un cuento personal de mi vida que es bonito es cuando mi hermano me sorprendió con [uno]{una}<ga:det> video llamada cuando termino con bootcamp para la naval. No le ha visto en mucho tiempo y me hizo feliz cuando vi a su cara.      
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Un quento bonito para mi es Coco, la película de Coco es may bonito porque tabla [de la]{del}<gat:det> [dia]{día}<gat:noun> de los muertos y Como es un dia para [recordernos]{recordarnos}<fs:st:r>  de tu familia que ha pasado a rise con dios. Y es [un]{una}<ga:det> tradicion que ha estado en mochas families for generaciones. Y es algo que muchas personas [valoren]{valoran}<fs:st:mo>. Yo nunca lo [ha hecho]{he hecho}<fs:st:pn> perf cuando termine de ver la película lo [querier]{quería}<fs:st:t:mo> hacer para el año que nos entra.   Para mi es algo que hacen mas en Mexico perf deberían hacerlo en los EEUU. [Otra]{Otro}<ga:det> cuento que es bonito es de amor, cuando [habalan]{hablan}<fs:st:r> de a quien quieren muchas películas  de disney hablan de eso y tambien lo muestran mucho is vas a disney  landia. Un cuento personal de mi vida que es bonito es cuando mi hermano me sorprendió con [uno]{una}<ga:det> video llamada cuando termino con bootcamp para la naval. No le [ha visto]{he visto}<fs:st:pn> en mucho tiempo y me hizo feliz cuando vi a su cara.      
+# verbs annotation ann2 = nan
+# corrected1 = Un cuento bonito para mí es Coco, la película de Coco es muy bonita, porque habla del día de los muertos y cómo es un día para acordarnos de nuestra familia que ha pasado a irse con Dios. Y es una tradición que ha estado en muchas familias por generaciones. Y es algo que muchas personas valoran. Yo nunca lo he hecho perfecto, cuando terminé de ver la película lo quería hacer para el año que nos entra.  Para mí es algo que hacen muy bien en Mexico y deberían hacerlo en los EUA. Otro cuento que es bonito es el de amor, cuando hablan de a quien quieren, muchas películas de Disney hablan de eso y también lo muestran mucho si vas a Disneylandia. Un cuento personal de mi vida que es bonito es cuando mi hermano me sorprendió con una videollamada cuando terminó con el entrenamiento para la marina. No le había visto en mucho tiempo y me hizo feliz cuando vi su cara.      
+# corrected2 = nan
+# text = Un quento bonito para mi es Coco, la película de Coco es may bonito porque tabla de la dia de los muertos y Como es un dia para recordernos de tu familia que ha pasado a rise con dios. Y es un tradicion que ha estado en mochas families for generaciones. Y es algo que muchas personas valoren. Yo nunca lo ha hecho perf cuando termine de ver la película lo querier hacer para el año que nos entra. Para mi es algo que hacen mas en Mexico perf deberían hacerlo en los EEUU. Otra cuento que es bonito es de amor, cuando habalan de a quien quieren muchas películas de disney hablan de eso y tambien lo muestran mucho is vas a disney landia. Un cuento personal de mi vida que es bonito es cuando mi hermano me sorprendió con uno video llamada cuando termino con bootcamp para la naval. No le ha visto en mucho tiempo y me hizo feliz cuando vi a su cara.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	_	2	det	_	_
+2	quento	quento	NOUN	_	_	7	nsubj	_	_
+3	bonito	bonito	ADJ	_	_	2	amod	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PROPN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	Coco	Coco	PROPN	_	_	0	ROOT	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	película	película	NOUN	_	_	14	nsubj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	Coco	Coco	PROPN	_	_	10	nmod	_	_
+13	es	ser	AUX	_	_	14	cop	_	_
+14	may	may	NOUN	_	_	7	advcl	_	_
+15	bonito	bonito	ADJ	_	_	14	amod	_	_
+16	porque	porque	SCONJ	_	_	17	mark	_	_
+17	tabla	tabla	NOUN	_	_	7	advcl	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	dia	dia	NOUN	_	_	17	nmod	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	los	el	DET	_	_	23	det	_	_
+23	muertos	muerto	NOUN	_	_	20	nmod	_	_
+24	y	y	CCONJ	_	_	28	cc	_	_
+25	Como	Como	SCONJ	_	_	28	mark	_	_
+26	es	ser	AUX	_	_	28	cop	_	_
+27	un	uno	DET	_	_	28	det	_	_
+28	dia	dia	NOUN	_	_	17	conj	_	_
+29	para	para	ADP	_	_	30	case	_	_
+30	recordernos	recorderno	NOUN	_	_	28	nmod	_	_
+31	de	de	ADP	_	_	33	case	_	_
+32	tu	tu	DET	_	_	33	det	_	_
+33	familia	familia	NOUN	_	_	30	nmod	_	_
+34	que	que	PRON	_	_	36	nsubj	_	_
+35	ha	haber	AUX	_	_	36	aux	_	_
+36	pasado	pasar	VERB	_	_	30	acl	_	_
+37	a	a	ADP	_	_	38	mark	_	_
+38	rise	rise	VERB	_	_	36	xcomp	_	_
+39	con	con	ADP	_	_	40	case	_	_
+40	dios	dio	NOUN	_	_	36	obl	_	_
+41	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Y	y	CCONJ	_	_	4	advmod	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	tradicion	tradicion	NOUN	_	_	0	ROOT	_	_
+5	que	que	PRON	_	_	7	nsubj	_	_
+6	ha	haber	AUX	_	_	7	aux	_	_
+7	estado	estar	VERB	_	_	4	acl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	mochas	mocha	NOUN	_	_	12	amod	_	_
+10	families	famili	NOUN	_	_	9	amod	_	_
+11	for	for	PROPN	_	_	9	appos	_	_
+12	generaciones	generación	NOUN	_	_	7	obj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Y	y	CCONJ	_	_	3	advmod	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	algo	algo	PRON	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	7	obj	_	_
+5	muchas	mucho	DET	_	_	6	det	_	_
+6	personas	persona	NOUN	_	_	7	nsubj	_	_
+7	valoren	valorar	VERB	_	_	3	csubj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	5	nsubj	_	_
+2	nunca	nunca	ADV	_	_	5	advmod	_	_
+3	lo	él	PRON	_	_	5	obj	_	_
+4	ha	haber	AUX	_	_	5	aux	_	_
+5	hecho	hacer	VERB	_	_	6	csubj	_	_
+6	perf	perf	VERB	_	_	0	ROOT	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	termine	terminar	VERB	_	_	6	advcl	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	ver	ver	VERB	_	_	8	xcomp	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	película	película	NOUN	_	_	10	obj	_	_
+
+1	lo	él	PRON	_	_	2	det	_	_
+2	querier	querier	VERB	_	_	0	ROOT	_	_
+3	hacer	hacer	VERB	_	_	2	xcomp	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	año	año	NOUN	_	_	3	obl	_	_
+7	que	que	PRON	_	_	9	nsubj	_	_
+8	nos	yo	PRON	_	_	9	obj	_	_
+9	entra	entrar	VERB	_	_	6	acl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	mi	mi	PROPN	_	_	4	obl	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	algo	algo	PRON	_	_	0	ROOT	_	_
+5	que	que	PRON	_	_	6	nsubj	_	_
+6	hacen	hacer	VERB	_	_	4	acl	_	_
+7	mas	mas	ADV	_	_	6	advmod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Mexico	Mexico	PROPN	_	_	6	obl	_	_
+10	perf	perf	VERB	_	_	4	csubj	_	_
+11	deberían	deber	AUX	_	_	12	aux	_	_
+12	hacerlo	hacer él	VERB	_	_	10	xcomp	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	los	el	DET	_	_	15	det	_	_
+15	EEUU	EEUU	PROPN	_	_	12	obl	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Otra	otro	DET	_	_	2	det	_	_
+2	cuento	cuento	NOUN	_	_	28	nsubj	_	_
+3	que	que	PRON	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	bonito	bonito	ADJ	_	_	2	acl	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	amor	amor	NOUN	_	_	5	nsubj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	habalan	habalar	VERB	_	_	5	advcl	_	_
+12	de	de	ADP	_	_	15	mark	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	quien	quien	PRON	_	_	15	obj	_	_
+15	quieren	querer	VERB	_	_	11	ccomp	_	_
+16	muchas	mucho	DET	_	_	17	det	_	_
+17	películas	película	NOUN	_	_	15	obj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	disney	disney	PROPN	_	_	17	nmod	_	_
+20	hablan	hablar	VERB	_	_	5	csubj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	eso	ese	PRON	_	_	20	obj	_	_
+23	y	y	CCONJ	_	_	26	cc	_	_
+24	tambien	tambien	ADV	_	_	26	nsubj	_	_
+25	lo	él	PRON	_	_	26	obj	_	_
+26	muestran	mostrar	VERB	_	_	5	conj	_	_
+27	mucho	mucho	ADV	_	_	26	advmod	_	_
+28	is	is	AUX	_	_	0	ROOT	_	_
+29	vas	vas	NOUN	_	_	28	obj	_	_
+30	a	a	ADP	_	_	31	mark	_	_
+31	disney	disney	PROPN	_	_	28	obl	_	_
+32	landia	landia	NOUN	_	_	31	compound	_	_
+33	.	.	PUNCT	_	_	28	punct	_	_
+
+1	Un	uno	DET	_	_	2	det	_	_
+2	cuento	cuento	NOUN	_	_	10	nsubj	_	_
+3	personal	personal	ADJ	_	_	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	que	que	PRON	_	_	9	nsubj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	bonito	bonito	ADJ	_	_	2	acl	_	_
+10	es	ser	AUX	_	_	0	ROOT	_	_
+11	cuando	cuando	SCONJ	_	_	15	mark	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	hermano	hermano	NOUN	_	_	15	nsubj	_	_
+14	me	yo	PRON	_	_	15	obj	_	_
+15	sorprendió	sorprender	VERB	_	_	10	advcl	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	uno	uno	PRON	_	_	15	obl	_	_
+18	video	video	ADJ	_	_	17	amod	_	_
+19	llamada	llamado	ADJ	_	_	17	amod	_	_
+20	cuando	cuando	SCONJ	_	_	21	mark	_	_
+21	termino	termino	NOUN	_	_	19	obl	_	_
+22	con	con	ADP	_	_	23	case	_	_
+23	bootcamp	bootcamp	PROPN	_	_	21	obj	_	_
+24	para	para	ADP	_	_	26	case	_	_
+25	la	el	DET	_	_	26	det	_	_
+26	naval	naval	NOUN	_	_	19	obl	_	_
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+1	No	no	ADV	_	_	4	advmod	_	_
+2	le	él	PRON	_	_	4	obj	_	_
+3	ha	haber	AUX	_	_	4	aux	_	_
+4	visto	ver	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mucho	mucho	DET	_	_	7	det	_	_
+7	tiempo	tiempo	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	hizo	hacer	VERB	_	_	4	conj	_	_
+11	feliz	feliz	ADJ	_	_	10	obj	_	_
+12	cuando	cuando	SCONJ	_	_	13	mark	_	_
+13	vi	ver	VERB	_	_	10	advcl	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	su	su	DET	_	_	16	det	_	_
+16	cara	cara	NOUN	_	_	13	obl	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+

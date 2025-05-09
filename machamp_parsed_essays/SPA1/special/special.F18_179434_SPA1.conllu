@@ -1,0 +1,228 @@
+# Unnamed: 0 = 79
+# id = 179434
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 24
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = 2 years ASL (american sign language)
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una [instructor]{instructora}<ga:noun> muy [bueno]{buena}<ga:adj>. Mi mama tiene []{el}<ab:det:art:def> pelo largo y marron y muy rizado. Mi mama es [penqueno]{pequeña}<ga:adj>, y [delgado]{delgada}<ga:adj>. Mi mama es cincuenta y seis anos, pero [ella]{}<pr:su:pron> es muy bonita, y [ella]{}<pr:su:pron> tiene []{la}<ab:det:art:def> piel muy [bueno]{buena}<ga:adj>. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native [Americano]{americana}<ga:adj>. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es []{el}<ab:det:art:def> vientitres de febrio. mi mama es []{un}<ab:det:art:indef> poco timida. mi mama tiene [una]{un}<ab:det:art:indef> reloj, pero no se gusta. Mi mama [vives]{vive}<fs:st:pn> *STATE*. Mi mama es [americano]{americana}<ga:adj>. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# updated annotation ann2 = ﻿Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una [instructor]{instructora}<ga:adj> muy [bueno]{buena}<ga:adj>. Mi mama tiene pelo largo y marron y muy rizado. Mi mama es [penqueno]{pequeña}<ga:adj>, y [delgado]{delgada}<ga:adj>. Mi mama es cincuenta y seis anos, pero [ella]{}<pr:su:pron> es muy bonita, y [ella]{}<pr:su:pron> tiene piel muy [bueno]{buena}<ga:adj>. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native [Americano]{americana}<ga:adj>. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es vientitres de febrio. mi mama es poco timida. mi mama tiene [una]{un}<ga:det> reloj, pero no se gusta. Mi mama [vives]{vive}<fs:st:pn> *STATE*. Mi mama es [americano]{americana}<ga:adj>. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es especial para mí. Mi mamá se llama *FIRST_NAME*. Mi mamá es una instructora muy buena. Mi mamá tiene el pelo largo y marrón y muy rizado. Mi mamá es pequeña y delgada. Mi mamá tiene cincuenta y seis años, pero es muy bonita, y tiene la piel muy buena. Mi mamá es muy simpática y muy inteligente. Mi mamá estudia italiano. Mi mamá es nativa americana. A mi mamá le gusta ver "I Love Lucy" en la televisión. A mi mamá no le gusta cocinar. A mi mamá le gusta comer pastel. Mi mama es muy valiente y es muy trabajadora. El cumpleaños de mi mamá es el veintitrés de febrero. Mi mamá es un poco tímida. Mi mamá tiene un reloj, pero no le gusta. Mi mamá vive en *STATE*. Mi mamá es americana. A mi mamá le gustan los gatos y los perros muy bonitos. A mi mamá le gusta dormir mucho, pero le gusta trabajar mucho. 
+# corrected2 = nan
+# text = Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una instructor muy bueno. Mi mama tiene pelo largo y marron y muy rizado. Mi mama es penqueno, y delgado. Mi mama es cincuenta y seis anos, pero ella es muy bonita, y ella tiene piel muy bueno. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native Americano. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es vientitres de febrio. mi mama es poco timida. mi mama tiene una reloj, pero no se gusta. Mi mama vives *STATE*. Mi mama es americano. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	instructor	instructor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	marron	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	penqueno	penqueno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	cincuenta	cincuenta	NUM	_	NumForm=Word|NumType=Card	7	nummod	_	_
+5	y	y	CCONJ	_	_	4	compound	_	_
+6	seis	seis	NUM	_	NumForm=Word|NumType=Card	4	compound	_	_
+7	anos	ano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	pero	pero	CCONJ	_	_	13	cc	_	_
+10	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	piel	piel	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	simpatica	simpatico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	inteligente	inteligente	ADJ	_	Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	itaiano	itaiano	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Native	Native	PROPN	_	_	0	root	_	_
+5	Americano	Americano	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ver	ver	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	I	I	PROPN	_	_	5	obj	_	_
+7	Love	Love	PROPN	_	_	6	flat	_	_
+8	Lucy	Lucy	PROPN	_	_	6	flat	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	television	television	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	cocinar	cocinar	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	comer	comer	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	pastel	pastel	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	valiente	valiente	ADJ	_	Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	mu	mu	INTJ	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+10	trabajara	trabajar	VERB	_	VerbForm=Inf	8	ccomp	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cumpleanos	cumpleano	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	nmod	_	_
+5	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	compound	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	vientitres	vientitr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	febrio	febrio	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	poco	poco	ADV	_	_	5	advmod	_	_
+5	timida	timido	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	reloj	reloj	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vives	viveir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*STATE*	*state*	PUNCT	_	_	3	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	americano	americano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	catos	cato	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	perros	perro	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bonitos	bonito	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dormir	dormir	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	perro	perro	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	trabajara	trabajar	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	mucho	mucho	ADV	_	_	11	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

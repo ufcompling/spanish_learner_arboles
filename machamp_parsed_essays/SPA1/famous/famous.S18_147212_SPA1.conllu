@@ -1,0 +1,241 @@
+# Unnamed: 0 = 124
+# id = 147212
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Male
+# gender = 19
+# l1 language = Mandarin
+# other l1 language(s) = My native language is Chinese.
+# language(s) used at home = I speak Chinese in home.
+# language(s) studied = I have studied English before I start learn Spanish. I have studied it for 14 years.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos negro. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos [negro]{negros}<na:ps:adj:inan>. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos negro. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	escribir	escribir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	masculina	masculino	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Elon	Elon	PROPN	_	_	2	obj	_	_
+4	Musk	Musk	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estadounidense	estadounidense	NOUN	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	advmod	_	_
+2	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	afica	afica	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	sur	sur	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	47	47	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	pelos	pelo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	cafe	cafe	NOUN	_	_	4	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	CEO	CEO	NOUN	_	_	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Tesla	Tesla	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	negocios	negocio	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	exitoso	exitoso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	introvertido	introvertido	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	rico	rico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	California	California	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	llamada	llamado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
+4	Tosca	Tosca	PROPN	_	_	3	obj	_	_
+5	Musk	Musk	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ingeniero	ingeniero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	modelo	modelo	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	linda	lindo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	extroverted	extroverteo	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	compañía	compañía	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Palo	Palo	PROPN	_	_	3	obl	_	_
+6	Alto	Alto	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	fábrica	fábrica	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Fremont	Fremont	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	desarrollar	desarrollar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	cohetes	cohete	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	desarrollar	desarrollar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	autos	auto	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	electrónicos.gusta	electrónicos.gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	información	información	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	debe	deber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Gastó	gastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	en	en	ADP	_	_	5	mark	_	_
+5	desarrollar	desarrollar	VERB	_	VerbForm=Inf	1	advcl	_	_
+6	cohetes	cohete	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	2	det	_	_
+5	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	produciendo	producir	VERB	_	VerbForm=Ger	5	acl	_	_
+7	autos	auto	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	pueda	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	ganar	ganar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	conducir	conducir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Tesla	Tesla	PROPN	_	_	2	obj	_	_
+5	Model	Model	PROPN	_	_	4	flat	_	_
+6	3	3	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

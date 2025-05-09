@@ -1,0 +1,92 @@
+# Unnamed: 0 = 111
+# id = 227214
+# prompt = yourself
+# quarter = F20
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo. Yo soy capaz, divertido, y aventurera. Cuando era joven me encantaba juega afuera. Me gusto la naturaleza porque es pacifico y simple pero complicado. Tengo tres hermanas y un hombrea. Mis hermanas y hermano son mis amigos favoritos. Me gusto mi perro porque ella es mi favorita.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	capaz	capaz	ADJ	_	Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	aventurera	aventurero	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	joven	joven	ADJ	_	Number=Sing	5	advcl	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	encantaba	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+7	afuera	afuera	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	gusto	gustar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	pacifico	pacifico	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	simple	simple	ADJ	_	Number=Sing	7	conj	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	complicado	complicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hombrea	hombrea	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+8	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	gusto	gustar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	perro	perro	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	favorita	favorita	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

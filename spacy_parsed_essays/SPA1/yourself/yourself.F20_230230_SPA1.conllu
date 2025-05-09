@@ -1,0 +1,230 @@
+# Unnamed: 0 = 91
+# id = 230230
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* (*AGE*) años de edad.  Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal [favorita]{favorito}<ga:adj> es una rana. Mi color [favorita]{favorito}<ga:adj> es el amarillo. Me encanta ir a [juegas]{juegos}<gat:noun> [deportivas]{deportivos}<gat:adj>. Mi deporte [favorita]{favorito}<ga:adj> para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy el hijo de enmedio.  Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* (*AGE*) años de edad.  [Yo]{}<pr:su:pron> soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal [favorita]{favorito}<ga:adj> es una rana. Mi color [favorita]{favorito}<ga:adj> es el amarillo. Me encanta ir a [juegas]{juegos}<gat:noun> [deportivas]{deportivos}<gat:adj>. Mi deporte [favorita]{favorito}<ga:adj> para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy [el]{la}<ga:det> [hijo]{hija}<ga:noun> de enmedio.  Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* (*AGE*) años.  Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal favorito es la rana. Mi color favorito es el amarillo. Me encanta ir a juegos deportivos. Mi deporte favorito para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy la hija de en medio.  Me encanta cocinar, especialmente hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad y pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# corrected2 = nan
+# text = Tengo *AGE* (*AGE*) años de edad. Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed. Mi animal favorita es una rana. Mi color favorita es el amarillo. Me encanta ir a juegas deportivas. Mi deporte favorita para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy el hijo de enmedio. Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo. Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos. Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	flat	_	_
+3	(	(	PUNCT	_	_	4	punct	_	_
+4	*AGE*	AGE	PROPN	_	_	2	flat	_	_
+5	)	)	PUNCT	_	_	4	punct	_	_
+6	años	año	NOUN	_	_	1	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	edad	edad	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	*CITY*	CITY	PROPN	_	_	4	flat	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*STATE*	STATE	PROPN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	fecha	fecha	NOUN	_	_	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	cumpleaños	cumpleaños	NOUN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	activa	activo	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	atlética	atlético	ADJ	_	_	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	aventurera	aventurera	VERB	_	_	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	generosa	generoso	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tímida	tímido	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	ocupada	ocupado	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	aburrida	aburrido	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	vergüenza	vergüenza	NOUN	_	_	1	obj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	hambre	hambre	NOUN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	sed	sed	NOUN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	animal	animal	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	rana	rana	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	6	nsubj	_	_
+3	favorita	favorita	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	amarillo	amarillo	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	juegas	juega	NOUN	_	_	3	obl	_	_
+6	deportivas	deportivo	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	deporte	deporte	NOUN	_	_	3	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	8	csubj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	ver	ver	VERB	_	_	3	advcl	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	fútbol	fútbol	NOUN	_	_	0	ROOT	_	_
+9	americano	americano	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	playa	playa	NOUN	_	_	3	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	mayor	mayor	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	hermana	hermana	NOUN	_	_	3	conj	_	_
+8	menor	menor	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	hijo	hijo	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	enmedio	enmedio	NOUN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	cocinar	cocinar	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	especialmente	especialmente	ADV	_	_	3	advmod	_	_
+6	para	para	ADP	_	_	5	case	_	_
+7	hornear	hornear	VERB	_	_	5	acl	_	_
+8	alimentos	alimento	NOUN	_	_	7	obj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	familia	familia	NOUN	_	_	7	obl	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	encontrar	encontrar	VERB	_	_	2	csubj	_	_
+4	nuevas	nuevo	ADJ	_	_	5	amod	_	_
+5	recetas	receta	NOUN	_	_	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	impresionar	impresionar	VERB	_	_	5	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	familia	familia	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	6	obj	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	encanta	encantar	VERB	_	_	0	ROOT	_	_
+7	lo	él	PRON	_	_	9	det	_	_
+8	que	que	PRON	_	_	9	obj	_	_
+9	horneo	horneo	ADJ	_	_	6	csubj	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	emocionada	emocionado	ADJ	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	Navidad	Navidad	PROPN	_	_	3	obj	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	pasar	pasar	VERB	_	_	3	advcl	_	_
+9	cada	cada	DET	_	_	10	det	_	_
+10	segundo	segundo	NOUN	_	_	8	obj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	familia	familia	NOUN	_	_	8	obl	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	recibir	recibir	VERB	_	_	8	conj	_	_
+16	muchos	mucho	DET	_	_	17	det	_	_
+17	regalos	regalo	NOUN	_	_	15	obj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tampoco	tampoco	ADV	_	_	3	advmod	_	_
+2	puedo	poder	AUX	_	_	3	aux	_	_
+3	esperar	esperar	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	mark	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	termine	terminar	VERB	_	_	3	ccomp	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	trimestre	trimestre	NOUN	_	_	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	otoño	otoño	NOUN	_	_	8	nmod	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	tomar	tomar	VERB	_	_	6	advcl	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	descanso	descanso	NOUN	_	_	12	obj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	escuela	escuela	NOUN	_	_	14	nmod	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+

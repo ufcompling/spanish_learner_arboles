@@ -1,0 +1,327 @@
+# Unnamed: 0 = 90
+# id = 242333
+# prompt = chaplin
+# quarter = S21
+# course = SPA 2
+# age = 20
+# gender = Male
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Comfortable
+# writing ability = Extremely uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Al principio, hay un hombre que está en la calle de una ciudad. Está solo y fuma un cigarrillo. Encuentra un bebé en la calle y se confunde de dónde vino. Luego ve a una mujer y trata de darle el bebé que encontró. La mujer dice que no quiere llevarse al bebé y huye. luego vuelve a la calle e intenta poner al bebé donde lo encontró pero un policía lo ve y el hombre recoge la bahía y sigue adelante porque no quiere meterse en líos. Se dirige a un anciano, deja al bebé y se va corriendo. Este anciano pone al bebé en el carrito al que el primer hombre trató de darle el bebé. La dama es un hombre y ve al primer hombre que pasa y se enoja porque cree que él lo volvió a meter en su carrito. Finalmente, se sienta con el bebé y se entristece porque tiene que quedárselo. Ve una nota que dice que el bebé necesita un hogar y se siente mal por ese bebé. Luego decide que se quedará con el bebé. Intentó durante todo el video deshacerse del bebé, pero nadie lo quería. No lo quería y no sabía de dónde venía. Cuando vio la nota, se sintió mal y decidió quedarse con el niño. Al final, hizo lo correcto y ayudó a un niño que realmente necesitaba ayuda. Es un buen hombre y al final tomó la decisión correcta. Va a pasar un buen rato con su nuevo hijo y tendrá un buen hogar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Al	al	ADP	_	_	4	case	_	_
+2	principio	principio	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	hay	haber	AUX	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	hombre	hombre	NOUN	_	_	4	obj	_	_
+7	que	que	PRON	_	_	8	nsubj	_	_
+8	está	estar	VERB	_	_	6	acl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	calle	calle	NOUN	_	_	8	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	_	14	det	_	_
+14	ciudad	ciudad	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Está	estar	AUX	_	_	2	cop	_	_
+2	solo	solo	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuma	fumar	VERB	_	_	2	conj	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	cigarrillo	cigarrillo	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Encuentra	encontrar	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	bebé	bebé	NOUN	_	_	1	nsubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	calle	calle	NOUN	_	_	1	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	se	él	PRON	_	_	9	expl:pass	_	_
+9	confunde	confundir	VERB	_	_	1	conj	_	_
+10	de	de	ADP	_	_	12	mark	_	_
+11	dónde	dónde	PRON	_	_	12	obl	_	_
+12	vino	vino	NOUN	_	_	9	xcomp	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	ve	ver	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	mujer	mujer	NOUN	_	_	2	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trata	tratar	VERB	_	_	2	conj	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	darle	dar él	VERB	_	_	7	xcomp	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	bebé	bebé	NOUN	_	_	9	obj	_	_
+12	que	que	PRON	_	_	13	obj	_	_
+13	encontró	encontrar	VERB	_	_	11	acl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mujer	mujer	NOUN	_	_	3	nsubj	_	_
+3	dice	decir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	quiere	querer	VERB	_	_	3	ccomp	_	_
+7	llevarse	llevar él	VERB	_	_	6	xcomp	_	_
+8	al	al	ADP	_	_	9	case	_	_
+9	bebé	bebé	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	huye	huir	VERB	_	_	6	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	luego	luego	ADV	_	_	2	advmod	_	_
+2	vuelve	volver	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	calle	calle	NOUN	_	_	2	obl	_	_
+6	e	e	CCONJ	_	_	7	cc	_	_
+7	intenta	intentar	VERB	_	_	2	conj	_	_
+8	poner	poner	VERB	_	_	7	xcomp	_	_
+9	al	al	ADP	_	_	10	case	_	_
+10	bebé	bebé	NOUN	_	_	8	obj	_	_
+11	donde	donde	PRON	_	_	13	obl	_	_
+12	lo	él	PRON	_	_	13	obj	_	_
+13	encontró	encontrar	VERB	_	_	10	acl	_	_
+14	pero	pero	CCONJ	_	_	18	cc	_	_
+15	un	uno	DET	_	_	16	det	_	_
+16	policía	policía	NOUN	_	_	18	nsubj	_	_
+17	lo	él	PRON	_	_	18	obj	_	_
+18	ve	ver	VERB	_	_	7	conj	_	_
+19	y	y	CCONJ	_	_	22	cc	_	_
+20	el	el	DET	_	_	21	det	_	_
+21	hombre	hombre	NOUN	_	_	22	nsubj	_	_
+22	recoge	recoger	VERB	_	_	18	conj	_	_
+23	la	el	DET	_	_	24	det	_	_
+24	bahía	bahía	NOUN	_	_	22	obj	_	_
+25	y	y	CCONJ	_	_	26	cc	_	_
+26	sigue	seguir	VERB	_	_	7	conj	_	_
+27	adelante	adelante	ADV	_	_	26	advmod	_	_
+28	porque	porque	SCONJ	_	_	30	mark	_	_
+29	no	no	ADV	_	_	30	advmod	_	_
+30	quiere	querer	VERB	_	_	26	advcl	_	_
+31	meterse	meter él	VERB	_	_	30	xcomp	_	_
+32	en	en	ADP	_	_	33	case	_	_
+33	líos	lío	NOUN	_	_	31	obl	_	_
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	dirige	dirigir	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	anciano	anciano	NOUN	_	_	2	obj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	deja	dejar	VERB	_	_	2	advcl	_	_
+8	al	al	ADP	_	_	9	case	_	_
+9	bebé	bebé	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	se	él	PRON	_	_	13	expl:pass	_	_
+12	va	ir	AUX	_	_	13	aux	_	_
+13	corriendo	correr	VERB	_	_	7	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	anciano	anciano	NOUN	_	_	3	nsubj	_	_
+3	pone	poner	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	bebé	bebé	NOUN	_	_	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	carrito	carrito	NOUN	_	_	3	obl	_	_
+9	al	al	ADP	_	_	10	case	_	_
+10	que	que	PRON	_	_	14	obl	_	_
+11	el	el	DET	_	_	13	det	_	_
+12	primer	primero	ADJ	_	_	13	amod	_	_
+13	hombre	hombre	NOUN	_	_	14	nsubj	_	_
+14	trató	tratar	VERB	_	_	8	acl	_	_
+15	de	de	ADP	_	_	16	mark	_	_
+16	darle	dar él	VERB	_	_	14	xcomp	_	_
+17	el	el	DET	_	_	18	det	_	_
+18	bebé	bebé	NOUN	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	dama	dama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ve	ver	VERB	_	_	5	conj	_	_
+8	al	al	ADP	_	_	10	case	_	_
+9	primer	primero	ADJ	_	_	10	amod	_	_
+10	hombre	hombre	NOUN	_	_	7	obj	_	_
+11	que	que	PRON	_	_	12	nsubj	_	_
+12	pasa	pasar	VERB	_	_	10	acl	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	se	él	PRON	_	_	15	expl:pv	_	_
+15	enoja	enojar	VERB	_	_	12	conj	_	_
+16	porque	porque	SCONJ	_	_	17	mark	_	_
+17	cree	creer	VERB	_	_	15	advcl	_	_
+18	que	que	SCONJ	_	_	21	mark	_	_
+19	él	él	PRON	_	_	21	nsubj	_	_
+20	lo	él	PRON	_	_	21	obj	_	_
+21	volvió	volver	VERB	_	_	17	ccomp	_	_
+22	a	a	ADP	_	_	23	mark	_	_
+23	meter	meter	VERB	_	_	21	xcomp	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	su	su	DET	_	_	26	det	_	_
+26	carrito	carrito	NOUN	_	_	21	obl	_	_
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	sienta	sentar	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	bebé	bebé	NOUN	_	_	4	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	entristece	entristecir	VERB	_	_	4	conj	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	tiene	tener	VERB	_	_	10	advcl	_	_
+13	que	que	SCONJ	_	_	14	cc	_	_
+14	quedárselo	quedárselo	VERB	_	_	12	conj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ve	ve	INTJ	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	nota	nota	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	5	nsubj	_	_
+5	dice	decir	VERB	_	_	3	acl	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	bebé	bebé	NOUN	_	_	9	nsubj	_	_
+9	necesita	necesitar	VERB	_	_	5	ccomp	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	hogar	hogar	NOUN	_	_	9	obj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	se	él	PRON	_	_	14	expl:pv	_	_
+14	siente	sentir	VERB	_	_	9	conj	_	_
+15	mal	mal	ADV	_	_	14	advmod	_	_
+16	por	por	ADP	_	_	18	case	_	_
+17	ese	ese	DET	_	_	18	det	_	_
+18	bebé	bebé	NOUN	_	_	14	obj	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	decide	decidir	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	se	él	PRON	_	_	5	expl:pass	_	_
+5	quedará	quedar	VERB	_	_	2	ccomp	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	bebé	bebé	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Intentó	intentar	VERB	_	_	0	ROOT	_	_
+2	durante	durante	ADP	_	_	5	case	_	_
+3	todo	todo	DET	_	_	4	det	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	video	video	NOUN	_	_	1	obl	_	_
+6	deshacerse	deshacerse	VERB	_	_	1	advcl	_	_
+7	del	del	ADP	_	_	8	case	_	_
+8	bebé	bebé	NOUN	_	_	6	obj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	nadie	nadie	PRON	_	_	13	nsubj	_	_
+12	lo	él	PRON	_	_	13	obj	_	_
+13	quería	querer	VERB	_	_	1	conj	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	lo	él	PRON	_	_	3	obj	_	_
+3	quería	querer	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	sabía	saber	VERB	_	_	3	conj	_	_
+7	de	de	ADP	_	_	9	mark	_	_
+8	dónde	dónde	PRON	_	_	9	obl	_	_
+9	venía	venir	VERB	_	_	6	ccomp	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	vio	ver	VERB	_	_	7	advcl	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	nota	nota	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	sintió	sentir	VERB	_	_	0	ROOT	_	_
+8	mal	mal	ADV	_	_	7	advmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	decidió	decidir	VERB	_	_	7	conj	_	_
+11	quedarse	quedar él	VERB	_	_	10	xcomp	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	niño	niño	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Al	al	ADP	_	_	4	case	_	_
+2	final	final	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	hizo	hacer	VERB	_	_	0	ROOT	_	_
+5	lo	él	PRON	_	_	6	det	_	_
+6	correcto	correcto	ADJ	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	ayudó	ayudar	VERB	_	_	4	conj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	niño	niño	NOUN	_	_	8	obj	_	_
+12	que	que	PRON	_	_	14	nsubj	_	_
+13	realmente	realmente	ADV	_	_	14	advmod	_	_
+14	necesitaba	necesitar	VERB	_	_	11	acl	_	_
+15	ayuda	ayuda	NOUN	_	_	14	obj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	un	uno	DET	_	_	4	det	_	_
+3	buen	buen	ADJ	_	_	4	amod	_	_
+4	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	al	al	ADP	_	_	8	case	_	_
+7	final	final	NOUN	_	_	6	fixed	_	_
+8	tomó	tomar	VERB	_	_	4	conj	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	decisión	decisión	NOUN	_	_	8	obj	_	_
+11	correcta	correcto	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Va	ir	AUX	_	_	3	aux	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	pasar	pasar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	buen	buen	ADJ	_	_	6	amod	_	_
+6	rato	rato	NOUN	_	_	3	obj	_	_
+7	con	con	ADP	_	_	10	case	_	_
+8	su	su	DET	_	_	10	det	_	_
+9	nuevo	nuevo	ADJ	_	_	10	amod	_	_
+10	hijo	hijo	NOUN	_	_	3	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	tendrá	tener	VERB	_	_	3	conj	_	_
+13	un	uno	DET	_	_	15	det	_	_
+14	buen	buen	ADJ	_	_	15	amod	_	_
+15	hogar	hogar	NOUN	_	_	12	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+

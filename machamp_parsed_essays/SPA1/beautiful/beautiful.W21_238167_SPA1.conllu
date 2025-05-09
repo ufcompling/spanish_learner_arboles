@@ -1,0 +1,224 @@
+# Unnamed: 0 = 75
+# id = 238167
+# prompt = beautiful
+# quarter = W21
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = 0
+# other l1 language(s) = Mandarin
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = En *PLACE*, cada febrero. Cada familia hará todo lo posible para reunirse, 4-5 personas juntas para pasar unos días felices. Durante la siguiente semana o dos, hicimos diferentes alimentos todos los días.Esto se debe a que, según la tradición *PLACE*, cada alimento diferente tiene un significado diferente. Llamamos a este período el *PLACE* *PLACE* *PLACE*. En la primera noche del año nuevo, cada familia encenderá fuegos artificiales. Cuando era joven, el cielo de toda la ciudad de *CITY* estaba cubierto de fuegos artificiales, lo cual era muy hermoso.Este año todavía es un año de pandemias, debido a la relación de *PLACE* con los Estados Unidos, no puedo volver a casa para pasar el *PLACE* *PLACE* *PLACE* con mi familia.Pero en línea, todavía hago videos en línea. Cuando abrí el video a las 6 p.m. el 14 de febrero y vi a mis padres, abuelos y otros miembros de la familia, pensé que no había nada mejor este año.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	En	en	ADP	_	_	5	case	_	_
+2	*PLACE*	*place*	PUNCT	_	_	5	punct	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	cada	cada	DET	_	Number=Sing|PronType=Tot	5	det	_	_
+5	febrero	febrero	NOUN	_	AdvType=Tim	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cada	cada	DET	_	Number=Sing|PronType=Tot	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	hará	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	det	_	_
+6	posible	posible	ADJ	_	Number=Sing	3	obj	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	reunirse	reunir	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	4-5	4-5	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	personas	persona	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
+12	juntas	junto	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	pasar	pasar	VERB	_	VerbForm=Inf	11	acl	_	_
+15	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	días	día	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+17	felices	feliz	ADJ	_	Number=Plur	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Durante	durante	ADP	_	_	4	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	siguiente	siguiente	ADJ	_	Number=Sing	4	amod	_	_
+4	semana	semana	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	hicimos	hener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	10	det	_	_
+10	alimentos	alimento	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	días	día	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	debe	deber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	15	mark	_	_
+5	que	que	SCONJ	_	_	15	mark	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	según	según	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tradición	tradición	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+10	*PLACE*	*place*	PUNCT	_	_	9	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+12	cada	cada	DET	_	Number=Sing|PronType=Tot	13	det	_	_
+13	alimento	alimento	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	diferente	diferente	ADJ	_	Number=Sing	13	amod	_	_
+15	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	significado	significado	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	diferente	diferente	ADJ	_	Number=Sing	17	amod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	período	período	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	*PLACE*	*place*	SYM	_	_	1	dep	_	_
+7	*PLACE*	*place*	SYM	_	_	6	punct	_	_
+8	*PLACE*	*place*	PUNCT	_	_	6	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	noche	noche	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	cada	cada	DET	_	Number=Sing|PronType=Tot	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	encenderá	encender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	fuegos	fuego	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+13	artificiales	artificial	ADJ	_	Number=Plur	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	joven	joven	ADJ	_	Number=Sing	14	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+7	de	de	ADP	_	_	10	case	_	_
+8	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	9	det	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*CITY*	*CitY*	PROPN	_	_	10	nmod	_	_
+13	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	cubierto	cubierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	fuegos	fuego	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+17	artificiales	artificial	ADJ	_	Number=Plur	16	amod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+19	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	det	_	_
+20	cual	cual	PRON	_	Number=Sing|PronType=Rel	23	nsubj	_	_
+21	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+22	muy	mucho	ADV	_	_	23	advmod	_	_
+23	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	14	advcl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	año	año	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	todavía	todavía	ADV	_	_	6	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	pandemias	pandemia	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+10	debido	debido	ADJ	_	_	13	case	_	_
+11	a	a	ADP	_	_	10	fixed	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	relación	relación	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	*PLACE*	*PLACE*	PROPN	_	_	18	flat	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	Estados	Estados	PROPN	_	_	13	nmod	_	_
+19	Unidos	Unidos	PROPN	_	_	18	flat	_	_
+20	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+21	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+22	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	volver	volver	VERB	_	VerbForm=Inf	6	advcl	_	_
+24	a	a	ADP	_	_	25	case	_	_
+25	casa	casa	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
+26	para	para	ADP	_	_	27	mark	_	_
+27	pasar	pasar	VERB	_	VerbForm=Inf	23	advcl	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	*PLACE*	*place*	SYM	_	_	18	flat	_	_
+30	*PLACE*	*place*	PROPN	_	_	29	punct	_	_
+31	*PLACE*	*place*	SYM	_	_	29	punct	_	_
+32	con	con	ADP	_	_	34	case	_	_
+33	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	det	_	_
+34	familia	familia	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	_
+35	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	en	en	ADP	_	_	6	advmod	_	_
+3	línea	línea	NOUN	_	_	2	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	todavía	todavía	ADV	_	_	6	advmod	_	_
+6	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	videos	video	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	línea	línea	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	abrí	abrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	6	6	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
+8	p.m	p.m	NOUN	_	_	7	compound	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	14	14	NUM	_	NumForm=Digit|NumType=Card	19	obl	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	febrero	febrero	NOUN	_	_	2	compound	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	padres	padre	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	14	det	_	_
+14	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	familia	familia	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+19	pensé	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	advcl	_	_
+20	que	que	SCONJ	_	_	22	mark	_	_
+21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+22	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	ccomp	_	_
+23	nada	nada	PRON	_	Number=Sing|PronType=Neg	22	obj	_	_
+24	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	23	amod	_	_
+25	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	26	det	_	_
+26	año	año	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	19	punct	_	_
+

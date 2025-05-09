@@ -1,0 +1,338 @@
+# Unnamed: 0 = 222
+# id = 180103
+# prompt = terrible
+# quarter = F18
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una tarde, mi familia y yo íbamos al cine. Fue un día normal cuando otro automóvil nos golpeó. Fue un mal accidente, nuestro carro estaba muy dañado. Llamé al 911 porque mucha gente estaban heridos. Estaba muy asustada y en shock por el accidente. Mi hermana y yo no sabíamos lo que iba a pasar. Cuando llegaron la policía y la ambulancia, mis padres fueron llevados al hospital. Llamé a mis abuelos y a otros familia para informales sobre el accidente y a mis padres en el hospital. Estaban muy preocupados y llegaron de inmediato. Estaba feliz por el apoyo. Mientras mis abuelos iban de camino al hospital, tuvieron un accidente de carro. Los vi ser empujados a la sala de emergencias. Mi hermana y yo estábamos en shock, inmediatamente pregunté qué sucedió. No sabíamos a quién más llamar. No queríamos que nadie más tuviera un accidente de carro. Nunca quisimos estar en un carro nunca más. Eventualmente llamé a mi tia para decirle sobre el segundo accidente de carro. Ella estaba llorando pero dijo que estaba en camino. No quería que ella viniera porque tenía miedo de que fuera a sufrir un accidente de carro de camino al hospital, como hicieron mis abuelos. Afortunadamente ella vino segura y esperó con mi hermana y yo mientras esperábamos noticias sobre mis padres y abuelos. Después de horas de espera, los médicos vinieron y nos dijeron que todos estaban bien afortunadamente. Fue un día terrible pero con el mejor resultado y estoy muy agradecido por los médicos y los primeros respondedores.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	conj	_	_
+8	íbamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	cine	cine	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	normal	normal	ADJ	_	Number=Sing	3	amod	_	_
+5	cuando	cuando	SCONJ	_	_	9	mark	_	_
+6	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	automóvil	automóvil	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	golpeó	golpear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mal	mal	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	carro	carro	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	dañado	dañado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Llamé	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	911	911	NUM	_	NumForm=Digit|NumType=Card	1	obj	_	_
+4	porque	porque	SCONJ	_	_	8	mark	_	_
+5	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	heridos	herido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	1	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	shock	shock	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	sabíamos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	xcomp	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	pasar	pasar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegaron	llegar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	policía	policía	NOUN	_	Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ambulancia	ambulancia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	padres	padre	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	llevados	llevar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	al	a	ADP	_	_	14	case	_	_
+14	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Llamé	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	informales	informal	NOUN	_	Number=Plur	1	obl	_	_
+11	sobre	sobre	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	preocupados	preocupado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	llegaron	llegar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	de	de	ADP	_	_	5	advmod	_	_
+7	inmediato	inmediato	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	apoyo	apoyo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mientras	mientras	SCONJ	_	_	4	mark	_	_
+2	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	camino	camino	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	carro	carro	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	obj	_	_
+2	vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	4	aux	_	_
+4	empujados	empujar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	xcomp	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sala	sala	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	emergencias	emergencia	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	shock	shock	NOUN	_	Gender=Masc|Number=Sing	10	ccomp	_	_
+8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+9	inmediatamente	inmediatamente	ADV	_	_	10	advmod	_	_
+10	pregunté	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	qué	qué	PRON	_	Number=Sing|PronType=Int	12	nsubj	_	_
+12	sucedió	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	ccomp	_	_
+13	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabíamos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	quién	quién	PRON	_	Number=Sing|PronType=Int	6	obl	_	_
+5	más	más	ADV	_	Degree=Cmp	6	advmod	_	_
+6	llamar	llamar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	queríamos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	6	nsubj	_	_
+5	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+6	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	carro	carro	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	2	advmod	_	_
+2	quisimos	quisar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	estar	estar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	carro	carro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	nunca	nunca	ADV	_	_	3	advmod	_	_
+8	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Eventualmente	eventualmente	ADV	_	_	2	advmod	_	_
+2	llamé	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	tia	tia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	decirle	decir	VERB	_	VerbForm=Inf	2	advcl	_	_
+8	sobre	sobre	ADP	_	_	11	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	carro	carro	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	llorando	llorar	VERB	_	VerbForm=Ger	0	root	_	_
+4	pero	pero	CCONJ	_	_	5	cc	_	_
+5	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	camino	camino	NOUN	_	Gender=Masc|Number=Sing	5	ccomp	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	viniera	viner	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+8	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	de	de	ADP	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	sufrir	sufrir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	carro	carro	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	camino	camino	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+20	al	a	ADP	_	_	21	case	_	_
+21	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+22	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+23	como	como	SCONJ	_	_	24	mark	_	_
+24	hicieron	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
+25	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	24	nsubj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Afortunadamente	afortunadamente	ADV	_	_	3	advmod	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	vino	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	segura	seguro	ADJ	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	esperó	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	conj	_	_
+12	mientras	mientras	SCONJ	_	_	13	mark	_	_
+13	esperábamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+14	noticias	noticia	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
+15	sobre	sobre	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padres	padre	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	9	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	espera	espera	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	médicos	médico	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	vinieron	vinir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	dijeron	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+13	que	que	SCONJ	_	_	17	mark	_	_
+14	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	17	nsubj	_	_
+15	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+16	bien	bien	ADV	_	_	12	ccomp	_	_
+17	afortunadamente	afortunadamente	ADV	_	_	12	ccomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	terrible	terrible	ADJ	_	Number=Sing	3	amod	_	_
+5	pero	pero	CCONJ	_	_	9	cc	_	_
+6	con	con	ADP	_	_	9	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+9	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	agradecido	agradecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	médicos	médico	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+17	y	y	CCONJ	_	_	20	cc	_	_
+18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+19	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	20	amod	_	_
+20	respondedores	respondedor	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

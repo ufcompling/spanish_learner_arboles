@@ -1,0 +1,368 @@
+# Unnamed: 0 = 37
+# id = 181014
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Chinese
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Marcus es una persona descuidada. Él siempre olvida lo que está haciendo y no se da cuenta de que este hábito puede causar un grande problema. Sus padres y amigos le sugieren que tenga cuidado, pero Marcus ignora sus consejo. Un día se queda en casa solo. Los padres de Marcus van a trabajar. Antes de padres de Marcus salir de la casa, recuerdan a Marcus que recuerde cerrar el gas o la electricidad si va a salir de la casa más tarde. Marcus le prometió a sus padres. Luego, el amigo de Marcus lo llamó para jugar al baloncesto. Marcus estaba muy emocionado porque le gusta jugar al baloncesto mucho. Sin embargo, él no tenía almuerzo, así que decidió cocinar algo para comer. Necesitaba comer algo primero para que tuviera energía para jugar baloncesto. Cocinó el pollo y las patatas. Después de terminar de cocinar, revisó el gas para asegurarse de que está cerrado. Después de terminar de almorzar y cambiar, tomó su mochila y botellas de agua. Fue al patio de recreo y empezó a jugar al baloncesto con sus amigos. Él estaba muy contento porque su equipo ganó el partido. Pero él no se dio cuenta que hizo un grande error. Marcus volvió a casa después de tres horas. Se encontró con muchos coches de policía aparcando en frente de su casa. Marcus vio a sus padres de pie en frente de la casa con asombro. Marcus rápidamente corrió a sus padres y le preguntó qué pasó. Marcus padres le dijo que su casa tiene robo. Marcus de repente recordó que se olvidó de cerrar la puerta antes de salir de la casa para jugar baloncesto. Marcus gritó, ¡Ay no!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Marcus	Marcus	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	descuidada	descuidado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	olvida	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
+5	que	que	PRON	_	PronType=Rel	7	obj	_	_
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	haciendo	hacer	VERB	_	VerbForm=Ger	3	ccomp	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	11	compound	_	_
+13	de	de	ADP	_	_	18	mark	_	_
+14	que	que	SCONJ	_	_	18	mark	_	_
+15	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	hábito	hábito	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+17	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	causar	causar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	grande	grande	ADJ	_	Number=Sing	21	amod	_	_
+21	problema	problema	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+6	sugieren	sugerir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+9	cuidado	cuidado	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	Marcus	Marcus	PROPN	_	_	13	nsubj	_	_
+13	ignora	ignorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+14	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	consejo	consejo	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+7	solo	solo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Marcus	Marcus	PROPN	_	_	2	nmod	_	_
+5	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	trabajar	trabajar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Antes	antes	ADV	_	_	11	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	padres	padre	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Marcus	Marcus	PROPN	_	_	3	nmod	_	_
+6	salir	salir	VERB	_	VerbForm=Inf	1	advcl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+11	recuerdan	recordar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	Marcus	Marcus	PROPN	_	_	11	obl	_	_
+14	que	que	SCONJ	_	_	15	mark	_	_
+15	recuerde	recordar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+16	cerrar	cerrar	VERB	_	VerbForm=Inf	15	xcomp	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	gas	gas	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+19	o	o	CCONJ	_	_	21	cc	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	electricidad	electricidad	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	_
+22	si	si	SCONJ	_	_	23	mark	_	_
+23	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+24	a	a	ADP	_	_	25	mark	_	_
+25	salir	salir	VERB	_	VerbForm=Inf	23	xcomp	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	casa	casa	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
+29	más	más	ADV	_	Degree=Cmp	30	advmod	_	_
+30	tarde	tarde	ADV	_	_	23	advmod	_	_
+31	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	prometió	prometer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	padres	padre	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Marcus	Marcus	PROPN	_	_	4	nmod	_	_
+7	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	para	para	ADP	_	_	10	mark	_	_
+10	jugar	jugar	VERB	_	VerbForm=Inf	8	advcl	_	_
+11	al	a	ADP	_	_	12	case	_	_
+12	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	emocionado	emocionado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	jugar	jugar	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	mucho	mucho	ADV	_	_	8	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	almuerzo	almuerzo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	decidió	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	_
+12	cocinar	cocinar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	algo	algo	PRON	_	Number=Sing|PronType=Ind	12	obj	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	comer	comer	VERB	_	VerbForm=Inf	12	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	comer	comer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	algo	algo	PRON	_	Number=Sing|PronType=Ind	2	obj	_	_
+4	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+5	para	para	ADP	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+8	energía	energía	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	para	para	ADP	_	_	10	mark	_	_
+10	jugar	jugar	VERB	_	VerbForm=Inf	8	acl	_	_
+11	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cocinó	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	patatas	patata	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	terminar	terminar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	cocinar	cocinar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	revisó	revisar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gas	gas	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	asegurarse	asegurar	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	de	de	ADP	_	_	15	mark	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	cerrado	cerrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	11	xcomp	_	_
+16	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Después	después	ADV	_	_	9	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	terminar	terminar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	almorzar	almorzar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cambiar	cambiar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+9	tomó	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	mochila	mochila	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	botellas	botella	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	agua	agua	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	patio	patio	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	recreo	recreo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	jugar	jugar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	contento	contento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	partido	partido	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	5	compound	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	grande	grande	ADJ	_	Number=Sing	11	amod	_	_
+11	error	error	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	2	nsubj	_	_
+2	volvió	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	después	después	ADV	_	_	2	advmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	horas	hora	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	encontró	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	coches	coche	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	policía	policía	NOUN	_	Number=Sing	5	nmod	_	_
+8	aparcando	aparcar	VERB	_	VerbForm=Ger	2	advcl	_	_
+9	en	en	ADP	_	_	13	case	_	_
+10	frente	frente	NOUN	_	_	9	fixed	_	_
+11	de	de	ADP	_	_	9	fixed	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	2	nsubj	_	_
+2	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	padres	padre	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+6	de	de	ADP	_	_	2	advmod	_	_
+7	pie	pie	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_
+8	en	en	ADP	_	_	12	case	_	_
+9	frente	frente	NOUN	_	_	8	fixed	_	_
+10	de	de	ADP	_	_	8	fixed	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	asombro	asombro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	3	nsubj	_	_
+2	rápidamente	rápidamente	ADV	_	_	3	advmod	_	_
+3	corrió	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	padres	padre	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+9	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+10	qué	qué	PRON	_	Number=Sing|PronType=Int	11	nsubj	_	_
+11	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	2	nmod	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+4	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	robo	robo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	4	nsubj	_	_
+2	de	de	ADP	_	_	4	advmod	_	_
+3	repente	repente	NOUN	_	_	2	fixed	_	_
+4	recordó	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	olvidó	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	cerrar	cerrar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	antes	antes	ADV	_	_	9	advmod	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	salir	salir	VERB	_	VerbForm=Inf	12	advcl	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	casa	casa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	jugar	jugar	VERB	_	VerbForm=Inf	14	advcl	_	_
+20	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Marcus	Marcus	PROPN	_	_	2	nsubj	_	_
+2	gritó	gritar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	6	punct	_	_
+5	Ay	ay	INTJ	_	_	2	obj	_	_
+6	no	no	ADV	_	Polarity=Neg	2	obj	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+

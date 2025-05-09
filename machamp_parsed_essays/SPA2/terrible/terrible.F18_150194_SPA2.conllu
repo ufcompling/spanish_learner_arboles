@@ -1,0 +1,329 @@
+# Unnamed: 0 = 156
+# id = 150194
+# prompt = terrible
+# quarter = F18
+# course = SPA 2
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Japanese - 1 year
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Es noviembre. El cielo está azul y la gente tiene esperanza. Ellos ponen sus votas en la caja. Ellos saben esta elección es muy importante. Los Estados Unidos de América es un país fuente y el líder del país tiene mucho poder. Nuestros votos importan. Necesitamos votar porque podemos hacer una diferencia. Podemos eligir a la primera mujer presidenta de los Estados Unidos de América o podemos eligir al primer presidente que no tenga experiencia en política. Ninguna de las opciones es genial porque la mujer es furtivo pero el hombre es cruel. La mujer es una mejor lider que el empresario. La gente preguntarse como el empresario puede ser presidente cuando él es racista y es cruel con las mujeres. La gente espera el anuncio y está ansioso. Se anuncia que Hilary Clinton ganó el voto de la gente... pero Donald Trump es el presidente de los Estados Unidos de América porque genó el voto electoral. El voto electoral es más importante que el voto popular. La gente de los Estados Unidos llora. Estamos devastados. La gente tiene miedo para sus familiares y amigos. Una persona cruel tiene un montón de poder. El miedo está por todas partes. La presidencia de Donald Trump comienza. La gente tiene un poco esparanza, pero el presidente nuevo mata toda esperanza. El presidente intenta iniciar una prohibición de viajar. Cuando Puerto Rico es devastado, Trump no le importa. Permite que los niños sean separados de sus padres porque no le gustan los immigrantes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	noviembre	noviembre	NOUN	_	AdvType=Tim	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	azul	azul	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	esperanza	esperanza	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	ponen	poner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	votas	vota	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	caja	caja	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	elección	elección	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	importante	importante	ADJ	_	Number=Sing	2	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Estados	Estados	PROPN	_	_	8	nsubj	_	_
+3	Unidos	Unidos	PROPN	_	_	2	flat	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	América	América	PROPN	_	_	2	flat	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	país	país	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	fuente	fuente	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+10	y	y	CCONJ	_	_	15	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	líder	líder	NOUN	_	Number=Sing	15	nsubj	_	_
+13	del	de	ADP	_	_	14	case	_	_
+14	país	país	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+16	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	17	det	_	_
+17	poder	poder	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	votos	voto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	importan	importar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Necesitamos	necesitar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	votar	votar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	1	advcl	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	diferencia	diferencia	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	eligir	eligir	VERB	_	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	_	_	6	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
+6	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+7	presidenta	presidenta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Estados	Estados	PROPN	_	_	7	nmod	_	_
+11	Unidos	Unidos	PROPN	_	_	10	flat	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	América	América	PROPN	_	_	10	flat	_	_
+14	o	o	CCONJ	_	_	16	cc	_	_
+15	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	eligir	eligir	VERB	_	VerbForm=Inf	2	conj	_	_
+17	al	a	ADP	_	_	19	case	_	_
+18	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	_
+19	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+20	que	que	SCONJ	_	_	22	mark	_	_
+21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+22	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+23	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	_
+24	en	en	ADP	_	_	25	case	_	_
+25	política	política	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ninguna	ninguno	PRON	_	Gender=Fem|Number=Sing|PronType=Neg	6	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	opciones	opción	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	genial	genial	ADJ	_	Number=Sing	0	root	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	furtivo	furtivo	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	_
+12	pero	pero	CCONJ	_	_	16	cc	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	cruel	cruel	ADJ	_	Number=Sing	11	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	6	amod	_	_
+6	lider	lider	NOUN	_	Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	preguntarse	preguntar	VERB	_	VerbForm=Inf	0	root	_	_
+4	como	como	SCONJ	_	PronType=Ind	9	mark	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
+9	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+10	cuando	cuando	SCONJ	_	_	13	mark	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	racista	racista	ADJ	_	Number=Sing	3	advcl	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	cruel	cruel	ADJ	_	Number=Sing	13	conj	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	mujeres	mujer	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	espera	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	anuncio	anuncio	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	ansioso	ansioso	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	anuncia	anunciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	Hilary	Hilary	PROPN	_	_	6	nsubj	_	_
+5	Clinton	Clinton	PROPN	_	_	4	flat	_	_
+6	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	csubj	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	voto	voto	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	...	...	PUNCT	_	PunctType=Comm	18	punct	_	_
+13	pero	pero	CCONJ	_	_	18	cc	_	_
+14	Donald	Donald	PROPN	_	_	18	nsubj	_	_
+15	Trump	Trump	PROPN	_	_	14	flat	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	Estados	Estados	PROPN	_	_	18	nmod	_	_
+22	Unidos	Unidos	PROPN	_	_	21	flat	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	América	América	PROPN	_	_	21	flat	_	_
+25	porque	porque	SCONJ	_	_	26	mark	_	_
+26	genó	genar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
+27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	voto	voto	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	_
+29	electoral	electoral	ADJ	_	Number=Sing	28	amod	_	_
+30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	voto	voto	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	electoral	electoral	ADJ	_	Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	más	más	ADV	_	Degree=Cmp	6	advmod	_	_
+6	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	voto	voto	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	popular	popular	ADJ	_	Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Estados	Estados	PROPN	_	_	2	nmod	_	_
+6	Unidos	Unidos	PROPN	_	_	5	flat	_	_
+7	llora	llorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	devastados	devastado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	familiares	familiar	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	cruel	cruel	ADJ	_	Number=Sing	2	amod	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	montón	montón	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	poder	poder	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	partes	parte	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	presidencia	presidencia	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Donald	Donald	PROPN	_	_	2	nmod	_	_
+5	Trump	Trump	PROPN	_	_	4	flat	_	_
+6	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	advmod	_	_
+5	poco	poco	ADV	_	_	4	fixed	_	_
+6	esparanza	esparanza	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	mata	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	14	det	_	_
+14	esperanza	esperanza	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	intenta	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	iniciar	iniciar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	prohibición	prohibición	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	viajar	viajar	VERB	_	VerbForm=Inf	6	acl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	5	mark	_	_
+2	Puerto	Puerto	PROPN	_	_	5	nsubj	_	_
+3	Rico	Rico	PROPN	_	_	2	flat	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	devastado	devastar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	Trump	Trump	PROPN	_	_	10	nsubj	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	importa	importar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	niños	niño	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	separados	separado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	1	ccomp	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	padres	padre	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	porque	porque	SCONJ	_	_	13	mark	_	_
+11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+12	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	immigrantes	immigrant	NOUN	_	Number=Plur	13	nsubj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

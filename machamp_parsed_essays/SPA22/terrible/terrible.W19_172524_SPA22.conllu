@@ -1,0 +1,275 @@
+# Unnamed: 0 = 118
+# id = 172524
+# prompt = terrible
+# quarter = W19
+# course = SPA 22
+# age = 20
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = French, 5 years
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 5.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un dia Thomas fue a comprar comida para cenar. Su esposa Eva se habría sentido mal del estomago y decidió no ir con Thomas. Eva le dijo a Thomas lo que quiera ordenar. Cuando Thomas salio a comprar la comida, estaba caminando cuando de repente empezó a llover. Para la suerte de Thomas, no tenía un paraguas. Si hubiera traído un paraguas, Thomas no se habría mojado. Cuando Thomas llego al restaurante, se le habría olvidado lo que quería Eva. Thomas estaba enfadado porque estaba mojado y se le olvido lo que Eva quería. Después que llamó a Eva, hizo la orden. Después de diez minutos, él recibió su comida. Salió del restaurante y estaba oscuro y había parado de llover. De pronto vio una luz en el cielo. La luz estaba sobre Thomas y él empezó a elevar hacia la luz. Thomas estaba dentro de una nave espacial con extraterrestres. Ellos volaron hacia un agujero negro. Thomas estaba bien molesto porque su dia estuvo terrible y ahora fue secuestrado por extraterrestres. Cuando se acercaron al agujero negro, la nave se puso negro. Thomas tenia mucho miedo. Segundo despues Thomas se desperto. Thomas estuvo feliz que solo fue una pesadilla.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dia	dia	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	Thomas	Thomas	PROPN	_	_	4	nsubj	_	_
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	comprar	comprar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	cenar	cenar	VERB	_	VerbForm=Inf	6	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	Eva	Eva	PROPN	_	_	2	appos	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+5	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	6	aux	_	_
+6	sentido	sentir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	mal	mal	ADV	_	_	6	advmod	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	estomago	estomago	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	decidió	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	ir	ir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	con	con	ADP	_	_	15	case	_	_
+15	Thomas	Thomas	PROPN	_	_	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Eva	Eva	PROPN	_	_	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Thomas	Thomas	PROPN	_	_	3	obl	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+7	que	que	PRON	_	PronType=Rel	9	obj	_	_
+8	quiera	querer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	ordenar	ordenar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	Thomas	Thomas	PROPN	_	_	3	nsubj	_	_
+3	salio	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	comprar	comprar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	caminando	caminar	VERB	_	VerbForm=Ger	0	root	_	_
+11	cuando	cuando	SCONJ	_	_	14	mark	_	_
+12	de	de	ADP	_	_	14	advmod	_	_
+13	repente	repente	NOUN	_	_	12	fixed	_	_
+14	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+15	a	a	ADP	_	_	16	mark	_	_
+16	llover	llover	VERB	_	VerbForm=Inf	14	xcomp	_	_
+17	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Para	para	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Thomas	Thomas	PROPN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	paraguas	paragua	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Si	si	SCONJ	_	_	3	mark	_	_
+2	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	traído	traer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	paraguas	paraguas	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	Thomas	Thomas	PROPN	_	_	11	nsubj	_	_
+8	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+10	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	11	aux	_	_
+11	mojado	mojar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	Thomas	Thomas	PROPN	_	_	3	nsubj	_	_
+3	llego	llegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	restaurante	restaurante	NOUN	_	Number=Sing	3	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	aux	_	_
+10	olvidado	olvidar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	det	_	_
+12	que	que	PRON	_	PronType=Rel	13	obj	_	_
+13	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	csubj	_	_
+14	Eva	Eva	PROPN	_	_	13	nsubj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Thomas	Thomas	PROPN	_	_	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	enfadado	enfadado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	mojado	mojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	olvido	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
+12	que	que	PRON	_	PronType=Rel	14	obj	_	_
+13	Eva	Eva	PROPN	_	_	14	nsubj	_	_
+14	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	csubj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Eva	Eva	PROPN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	orden	orden	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	restaurante	restaurante	NOUN	_	Number=Sing	1	obl	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	parado	parar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	llover	llover	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	De	de	ADP	_	_	3	advmod	_	_
+2	pronto	pronto	NOUN	_	_	1	fixed	_	_
+3	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	luz	luz	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	luz	luz	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	sobre	sobre	ADP	_	_	5	case	_	_
+5	Thomas	Thomas	PROPN	_	_	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	elevar	elevar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	hacia	hacia	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	luz	luz	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Thomas	Thomas	PROPN	_	_	2	nsubj	_	_
+2	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	dentro	dentro	ADV	_	_	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	nave	nave	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	espacial	espacial	ADJ	_	Number=Sing	6	amod	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	extraterrestres	extraterrestr	NOUN	_	Number=Plur	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	volaron	volar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hacia	hacia	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	agujero	agujero	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	negro	negro	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Thomas	Thomas	PROPN	_	_	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	bien	bien	ADV	_	_	4	advmod	_	_
+4	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	dia	dia	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	estuvo	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	terrible	terrible	ADJ	_	Number=Sing	4	advcl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	ahora	ahora	ADV	_	_	13	advmod	_	_
+12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	secuestrado	secuestrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+14	por	por	ADP	_	_	15	case	_	_
+15	extraterrestres	extraterrestr	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	acercaron	acercar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	agujero	agujero	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	negro	negro	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	nave	nave	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	negro	negro	ADJ	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Thomas	Thomas	PROPN	_	_	2	nsubj	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Segundo	segundo	ADV	_	_	5	advmod	_	_
+2	despues	despues	ADV	_	_	1	fixed	_	_
+3	Thomas	Thomas	PROPN	_	_	5	nsubj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	desperto	despertar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Thomas	Thomas	PROPN	_	_	3	nsubj	_	_
+2	estuvo	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	solo	solo	ADV	_	_	8	advmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	pesadilla	pesadilla	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

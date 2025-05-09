@@ -1,0 +1,226 @@
+# Unnamed: 0 = 140
+# id = 175834
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = I studied English for 8 years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hay un pececito. Su nombre es *FIRST_NAME*. Se pierde en un lago. El lago es frío y oscuro. Realmente quiere ir a casa, pero no sabía cómo llegar a su río. Entonces quiere pedir ayuda a otros. Primero, pregunta una piedra, pregunta cómo puedo ir a casa. La piedra dice que lo siento *FIRST_NAME*, nunca he estado en otro lugar. Quizás puedas [preguntarle]{preguntarles}<na:pron> a los renacuajos. *FIRST_NAME* fue a los renacuajos, los renacuajos dicen que lo siento *FIRST_NAME*, no lo sé, ¡pero tal vez nuestra madre pueda ayudar! Los renacuajos llevaron a *FIRST_NAME* a su madre, la rana *FIRST_NAME*. *FIRST_NAME* le dijo a *FIRST_NAME* que sabe cómo llegar al río del que *FIRST_NAME* habló. Entonces *FIRST_NAME* lidera el camino y *FIRST_NAME* finalmente llegó a casa. Soy *FIRST_NAME* Actualmente estoy atrapado en *CITY*, y realmente quiero volver a mi país de origen. Creo que puedo obtener un boleto de avión en un futuro muy cercano para llevarme a casa.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hay un pececito. Su nombre es *FIRST_NAME*. Se pierde en un lago. El lago es frío y oscuro. Realmente quiere ir a casa, pero no [sabía]{sabe}<fs:st:t> cómo llegar a su río. Entonces quiere pedir ayuda a otros. Primero, pregunta una piedra, pregunta cómo [puedo]{puede}<fs:st:pn> ir a casa. La piedra dice que lo siento *FIRST_NAME*, nunca he estado en otro lugar. Quizás puedas preguntarle a los renacuajos. *FIRST_NAME* [fue]{va}<fs:st:t> a los renacuajos, los renacuajos dicen que lo siento *FIRST_NAME*, no lo sé, ¡pero tal vez nuestra madre pueda ayudar! Los renacuajos [llevaron]{llevan}<fs:st:t> a *FIRST_NAME* a su madre, la rana *FIRST_NAME*. *FIRST_NAME* le [dijo]{dice}<fs:st:t> a *FIRST_NAME* que sabe cómo llegar al río del que *FIRST_NAME* [habló]{había hablado}<fs:st:t>. Entonces *FIRST_NAME* lidera el camino y *FIRST_NAME* finalmente [llegó]{llega}<fs:st:t> a casa. Soy *FIRST_NAME* Actualmente estoy atrapado en *CITY*, y realmente quiero volver a mi país de origen. Creo que puedo obtener un boleto de avión en un futuro muy cercano para llevarme a casa.
+# verbs annotation ann2 = nan
+# corrected1 = Hay un pececito. Su nombre es Morado. Se pierde en un lago. El lago es frío y oscuro. Realmente quiere ir a casa, pero no sabe cómo llegar a su río. Entonces quiere pedir ayuda a otros. Primero pregunta a una piedra. Pregunta: "¿Cómo puedo ir a casa?" La piedra dice: "Lo siento *FIRST_NAME*, nunca he estado en otro lugar. Quizás puedas preguntarles a los renacuajos". *FIRST_NAME* va a los renacuajos. Los renacuajos dicen: "Lo siento *FIRST_NAME*, no lo sabemos, ¡pero tal vez nuestra madre pueda ayudar!" Los renacuajos llevan a *FIRST_NAME* a su madre, la rana *FIRST_NAME*. *FIRST_NAME* le dice a *FIRST_NAME* que sabe cómo llegar al río del que *FIRST_NAME* habló. Entonces *FIRST_NAME* guía el camino y *FIRST_NAME* finalmente llega a casa. Soy Morado. Actualmente estoy atrapado en *CITY*, y realmente quiero volver a mi país de origen. Creo que puedo obtener un boleto de avión en un futuro muy cercano para llevarme a casa.
+# corrected2 = nan
+# text = Hay un pececito. Su nombre es *FIRST_NAME*. Se pierde en un lago. El lago es frío y oscuro. Realmente quiere ir a casa, pero no sabía cómo llegar a su río. Entonces quiere pedir ayuda a otros. Primero, pregunta una piedra, pregunta cómo puedo ir a casa. La piedra dice que lo siento *FIRST_NAME*, nunca he estado en otro lugar. Quizás puedas preguntarle a los renacuajos. *FIRST_NAME* fue a los renacuajos, los renacuajos dicen que lo siento *FIRST_NAME*, no lo sé, ¡pero tal vez nuestra madre pueda ayudar! Los renacuajos llevaron a *FIRST_NAME* a su madre, la rana *FIRST_NAME*. *FIRST_NAME* le dijo a *FIRST_NAME* que sabe cómo llegar al río del que *FIRST_NAME* habló. Entonces *FIRST_NAME* lidera el camino y *FIRST_NAME* finalmente llegó a casa. Soy *FIRST_NAME* Actualmente estoy atrapado en *CITY*, y realmente quiero volver a mi país de origen. Creo que puedo obtener un boleto de avión en un futuro muy cercano para llevarme a casa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	pececito	pececito	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	pierde	perder	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	lago	lago	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	lago	lago	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	frío	frío	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	oscuro	oscuro	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Realmente	realmente	ADV	_	_	2	advmod	_	_
+2	quiere	querer	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	sabía	saber	VERB	_	_	2	conj	_	_
+10	cómo	cómo	PRON	_	_	11	obl	_	_
+11	llegar	llegar	VERB	_	_	9	ccomp	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	su	su	DET	_	_	14	det	_	_
+14	río	río	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	2	advmod	_	_
+2	quiere	querer	VERB	_	_	0	ROOT	_	_
+3	pedir	pedir	VERB	_	_	2	xcomp	_	_
+4	ayuda	ayuda	NOUN	_	_	3	obj	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	otros	otro	PRON	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Primero	primero	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	pregunta	preguntar	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	piedra	piedra	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	pregunta	preguntar	VERB	_	_	3	advcl	_	_
+8	cómo	cómo	PRON	_	_	10	obl	_	_
+9	puedo	poder	AUX	_	_	10	aux	_	_
+10	ir	ir	VERB	_	_	7	xcomp	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	casa	casa	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	piedra	piedra	NOUN	_	_	3	nsubj	_	_
+3	dice	decir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	lo	él	PRON	_	_	6	obj	_	_
+6	siento	sentir	VERB	_	_	3	ccomp	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	obj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	nunca	nunca	ADV	_	_	11	advmod	_	_
+10	he	haber	AUX	_	_	11	aux	_	_
+11	estado	estar	VERB	_	_	3	advcl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	otro	otro	DET	_	_	14	det	_	_
+14	lugar	lugar	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quizás	quizás	ADV	_	_	2	advmod	_	_
+2	puedas	poder	VERB	_	_	0	ROOT	_	_
+3	preguntarle	preguntar él	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	renacuajos	renacuajo	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	nsubj	_	_
+2	fue	ser	AUX	_	_	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	renacuajos	renacuajo	NOUN	_	_	9	obl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	renacuajos	renacuajo	NOUN	_	_	9	nsubj	_	_
+9	dicen	decir	VERB	_	_	0	ROOT	_	_
+10	que	que	SCONJ	_	_	12	mark	_	_
+11	lo	él	PRON	_	_	12	obj	_	_
+12	siento	sentir	VERB	_	_	9	ccomp	_	_
+13	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	nsubj	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	no	no	ADV	_	_	17	advmod	_	_
+16	lo	él	PRON	_	_	17	obj	_	_
+17	sé	saber	VERB	_	_	9	advcl	_	_
+18	,	,	PUNCT	_	_	26	punct	_	_
+19	¡	¡	PUNCT	_	_	26	punct	_	_
+20	pero	pero	CCONJ	_	_	26	cc	_	_
+21	tal	tal	NOUN	_	_	26	advmod	_	_
+22	vez	vez	NOUN	_	_	21	fixed	_	_
+23	nuestra	nuestro	DET	_	_	24	det	_	_
+24	madre	madre	NOUN	_	_	26	nsubj	_	_
+25	pueda	poder	AUX	_	_	26	aux	_	_
+26	ayudar	ayudar	VERB	_	_	17	advcl	_	_
+27	!	!	PUNCT	_	_	9	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	renacuajos	renacuajo	NOUN	_	_	3	nsubj	_	_
+3	llevaron	llevar	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	obj	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	madre	madre	NOUN	_	_	3	obj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	rana	rana	NOUN	_	_	8	appos	_	_
+12	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	11	appos	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	dijo	decir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	iobj	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	sabe	saber	VERB	_	_	3	ccomp	_	_
+8	cómo	cómo	PRON	_	_	9	obl	_	_
+9	llegar	llegar	VERB	_	_	7	xcomp	_	_
+10	al	al	ADP	_	_	11	case	_	_
+11	río	río	NOUN	_	_	9	obl	_	_
+12	del	del	ADP	_	_	13	case	_	_
+13	que	que	PRON	_	_	15	obj	_	_
+14	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	15	nsubj	_	_
+15	habló	hablar	VERB	_	_	11	acl	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+3	lidera	liderar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	camino	camino	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	nsubj	_	_
+8	finalmente	finalmente	ADV	_	_	9	advmod	_	_
+9	llegó	llegar	VERB	_	_	3	conj	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	casa	casa	NOUN	_	_	9	obl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	nsubj	_	_
+3	Actualmente	actualmente	ADV	_	_	5	advmod	_	_
+4	estoy	estar	AUX	_	_	5	cop	_	_
+5	atrapado	atrapado	ADJ	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	5	obl	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	realmente	realmente	ADV	_	_	11	advmod	_	_
+11	quiero	querer	VERB	_	_	5	conj	_	_
+12	volver	volver	VERB	_	_	11	xcomp	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	país	país	NOUN	_	_	12	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	origen	origen	NOUN	_	_	15	nmod	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	puedo	poder	AUX	_	_	4	aux	_	_
+4	obtener	obtener	VERB	_	_	1	xcomp	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	boleto	boleto	NOUN	_	_	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	avión	avión	NOUN	_	_	6	nmod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	futuro	futuro	NOUN	_	_	4	obl	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	cercano	cercano	ADJ	_	_	11	amod	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	llevarme	llevar yo	VERB	_	_	4	advcl	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	casa	casa	NOUN	_	_	15	obl	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+

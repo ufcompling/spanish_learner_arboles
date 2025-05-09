@@ -1,0 +1,412 @@
+# Unnamed: 0 = 91
+# id = 173781
+# prompt = special
+# quarter = F19
+# course = SPA 2
+# age = 21
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = /
+# language(s) used at home = My native language is Chinese. 
+# language(s) studied = English. More than 10 years. 
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = La persona especial en mi vida es uno de mis amigos. Nosotros conocemos desde hace más de diez años. Su nombre es *FIRST_NAME*. Tiene *AGE* años. Es alto y fuerte. El es más alto que yo cera de tres pulgadas. Tiene el pelo negro y los ojos marrones. Es una persona graciosa. También, va al gimnasio. Siempre nos divertimos juntos. El es importante para mí porque él es mi mejor amigo. Nuestro primer encuentro es en la escuela primaria. Pero nuestra amistad comienza con actividades. Nos juntamos mucho. Y, tenemos muchos intereses comunes. Por ejemplo, a los dos nos gustan los deportes. Me gusta hacer jogging. Le gusta montar en bicicleta. A veces hacemos ejercicio juntos. Por comida, tenemos preferencias similares. A los dos nos gusta la carne y el pollo. No nos gustan las verduras. A los dos nos gusta la barbacoa. No nos gustan los fideos sino el arroz. Ciertamente, tenemos la misma nacionalidad. Somos chinos. Vivimos en Shanghai. Todavía soy un estudiante, pero él ya está trabajando ahora. Yo estudio economía en *CITY*. El trabaja en una firma de contabilidad. Sí, nuestros campos de estudio son similares. Tal vez en el futuro podamos trabajar juntos. El tiene un corazón cálido. A menudo ayuda a sus amigos. Siempre puede ayudarme cuando estoy en problemas. Por supuesto, es un buen amigo. Además, es muy amable. El sonríe mucho. Tiene una familia de tres. Su padre es alto y guapo. Tiene *AGE* años. Su madre tiene el pelo marrón. Y, tiene *AGE* años. Mi amigo tiene una famila feliz. *FIRST_NAME* me conoce bien. Así que es una persona especial para mí. Puedo compartir mis secretos e historias con mi amigo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	8	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	uno	uno	PRON	_	_	0	ROOT	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	_	11	det	_	_
+11	amigos	amigo	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	2	nsubj	_	_
+2	conocemos	conocer	VERB	_	_	0	ROOT	_	_
+3	desde	desde	ADP	_	_	4	mark	_	_
+4	hace	hacer	VERB	_	_	2	advcl	_	_
+5	más	más	ADV	_	_	8	advmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	diez	diez	NUM	_	_	8	nummod	_	_
+8	años	año	NOUN	_	_	4	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	alto	alto	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuerte	fuerte	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	más	más	ADV	_	_	4	advmod	_	_
+4	alto	alto	ADJ	_	_	0	ROOT	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	cera	cera	VERB	_	_	4	csubj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	tres	tres	NUM	_	_	10	nummod	_	_
+10	pulgadas	pulgada	ADJ	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	negro	negro	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	ojos	ojo	NOUN	_	_	8	nummod	_	_
+8	marrones	marrón	NOUN	_	_	1	obj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	persona	persona	NOUN	_	_	0	ROOT	_	_
+4	graciosa	gracioso	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	va	ir	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	gimnasio	gimnasio	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	expl:pv	_	_
+3	divertimos	divertir	VERB	_	_	0	ROOT	_	_
+4	juntos	junto	ADJ	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	importante	importante	ADJ	_	_	0	ROOT	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	_	3	nmod	_	_
+6	porque	porque	SCONJ	_	_	11	mark	_	_
+7	él	él	PRON	_	_	11	nsubj	_	_
+8	es	ser	AUX	_	_	11	cop	_	_
+9	mi	mi	DET	_	_	11	det	_	_
+10	mejor	mejor	ADJ	_	_	11	amod	_	_
+11	amigo	amigo	NOUN	_	_	3	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nuestro	nuestro	DET	_	_	3	det	_	_
+2	primer	primero	ADJ	_	_	3	amod	_	_
+3	encuentro	encuentro	NOUN	_	_	7	nsubj	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	escuela	escuela	NOUN	_	_	0	ROOT	_	_
+8	primaria	primario	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	nuestra	nuestro	DET	_	_	3	det	_	_
+3	amistad	amistad	NOUN	_	_	4	nsubj	_	_
+4	comienza	comenzar	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	actividades	actividad	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	iobj	_	_
+2	juntamos	juntar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Y	y	CCONJ	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	tenemos	tener	VERB	_	_	0	ROOT	_	_
+4	muchos	mucho	DET	_	_	5	det	_	_
+5	intereses	interés	NOUN	_	_	3	obj	_	_
+6	comunes	común	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Por	por	ADP	_	_	8	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	dos	dos	NUM	_	_	8	obj	_	_
+7	nos	yo	PRON	_	_	8	iobj	_	_
+8	gustan	gustar	VERB	_	_	0	ROOT	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	deportes	deporte	NOUN	_	_	8	nsubj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	hacer	hacer	VERB	_	_	2	csubj	_	_
+4	jogging	jogging	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	montar	montar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	bicicleta	bicicleta	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	3	advmod	_	_
+2	veces	veces	NOUN	_	_	3	obl	_	_
+3	hacemos	hacer	VERB	_	_	0	ROOT	_	_
+4	ejercicio	ejercicio	NOUN	_	_	3	obj	_	_
+5	juntos	junto	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Por	por	ADP	_	_	4	advmod	_	_
+2	comida	comida	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	tenemos	tener	VERB	_	_	0	ROOT	_	_
+5	preferencias	preferencia	NOUN	_	_	4	obj	_	_
+6	similares	similar	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	dos	dos	NUM	_	_	5	obl	_	_
+4	nos	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	carne	carne	NOUN	_	_	5	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	pollo	pollo	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	iobj	_	_
+3	gustan	gustar	VERB	_	_	0	ROOT	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	verduras	verdura	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	dos	dos	NUM	_	_	5	obl	_	_
+4	nos	yo	PRON	_	_	5	obj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	barbacoa	barbacoa	PROPN	_	_	5	nsubj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	iobj	_	_
+3	gustan	gustar	VERB	_	_	0	ROOT	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	fideos	fideo	NOUN	_	_	3	nsubj	_	_
+6	sino	sino	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	arroz	arroz	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ciertamente	ciertamente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tenemos	tener	VERB	_	_	0	ROOT	_	_
+4	la	el	DET	_	_	6	det	_	_
+5	misma	mismo	DET	_	_	4	det	_	_
+6	nacionalidad	nacionalidad	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Somos	ser	AUX	_	_	2	cop	_	_
+2	chinos	chino	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Vivimos	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Shanghai	Shanghai	PROPN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	4	advmod	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	él	él	PRON	_	_	10	nsubj	_	_
+8	ya	ya	ADV	_	_	10	advmod	_	_
+9	está	estar	AUX	_	_	10	aux	_	_
+10	trabajando	trabajar	VERB	_	_	4	conj	_	_
+11	ahora	ahora	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	estudio	estudio	NOUN	_	_	0	ROOT	_	_
+3	economía	economío	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	firma	firma	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	contabilidad	contabilidad	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sí	sí	INTJ	_	_	8	advcl	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	nuestros	nuestro	DET	_	_	4	det	_	_
+4	campos	campo	NOUN	_	_	8	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	estudio	estudio	NOUN	_	_	4	nmod	_	_
+7	son	ser	AUX	_	_	8	cop	_	_
+8	similares	similar	ADJ	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Tal	tal	NOUN	_	_	7	advmod	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	en	en	ADP	_	_	1	fixed	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	futuro	futuro	NOUN	_	_	1	fixed	_	_
+6	podamos	poder	AUX	_	_	7	aux	_	_
+7	trabajar	trabajar	VERB	_	_	0	ROOT	_	_
+8	juntos	junto	ADJ	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	corazón	corazón	NOUN	_	_	2	obj	_	_
+5	cálido	cálido	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	0	ROOT	_	_
+2	menudo	menudo	NOUN	_	_	1	fixed	_	_
+3	ayuda	ayuda	NOUN	_	_	1	fixed	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	_	6	det	_	_
+6	amigos	amigo	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	puede	poder	AUX	_	_	3	aux	_	_
+3	ayudarme	ayudar yo	VERB	_	_	0	ROOT	_	_
+4	cuando	cuando	SCONJ	_	_	5	mark	_	_
+5	estoy	estar	AUX	_	_	3	advcl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	problemas	problema	NOUN	_	_	5	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	supuesto	supuesto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	un	uno	DET	_	_	7	det	_	_
+6	buen	buen	ADJ	_	_	7	amod	_	_
+7	amigo	amigo	NOUN	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Además	además	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	amable	amable	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	sonríe	sonreír	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	tres	tres	NUM	_	_	3	nummod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	alto	alto	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	guapo	guapo	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	pelo	pelo	NOUN	_	_	3	obj	_	_
+6	marrón	marrón	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Y	y	CCONJ	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	nsubj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amigo	amigo	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	famila	famila	NOUN	_	_	3	obj	_	_
+6	feliz	feliz	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	conoce	conocer	VERB	_	_	0	ROOT	_	_
+4	bien	bien	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Así	así	ADV	_	_	5	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	especial	especial	ADJ	_	_	5	amod	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	mí	yo	PRON	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Puedo	poder	VERB	_	_	2	aux	_	_
+2	compartir	compartir	VERB	_	_	0	ROOT	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	secretos	secreto	NOUN	_	_	2	obj	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	historias	historia	NOUN	_	_	4	conj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	amigo	amigo	NOUN	_	_	2	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+

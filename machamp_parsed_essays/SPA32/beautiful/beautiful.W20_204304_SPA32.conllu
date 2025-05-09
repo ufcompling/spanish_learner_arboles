@@ -1,0 +1,224 @@
+# Unnamed: 0 = 184
+# id = 204304
+# prompt = beautiful
+# quarter = W20
+# course = SPA 32
+# age = 19
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 1.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Vi a una pequeña hada volar a mi cuarto oscuro desde la sala de. Era la medianoche, estaba cansada y imaginando esto. O eso yo pensaba. Entré mi cuarto oscuro, la hada me vio y sintió miedo.  Le dije, "No tengas miedo. ¿Quién eres y qué haces aquí?" La hada se acercó y me dijo, "Sígueme por favor, tengo una sorpresa para ti!".  La seguí a mi baño, donde me llevó a un bosque hermoso. Había muchas otras hadas allí también. Pasamos todo el día jugando, cantando corriendo y fue increíble! Fui todos los días al bosque mágico, pero solo en ese tiempo específico o de lo contrario no va funcionar. Esperaba este bosque mágico todos los días. Puedo ser feliz, sin estrés y divertirme con mis nuevos amigos. Me encanta el [magico bosque]{bosque mágico}<col:adj> que me convertir en uno también. Desde el fallecimiento de mi madre, estoy feliz de nuevo.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Vi a una pequeña hada volar a mi cuarto oscuro desde la sala de. Era [la]{}<pr:det:art:def> medianoche, estaba cansada y imaginando esto. O eso [yo]{}<pr:su:pron> pensaba. Entré mi cuarto oscuro, la hada me vio y sintió miedo.  Le dije, "No tengas miedo. ¿Quién eres y qué haces aquí?" La hada se acercó y me dijo, "Sígueme por favor, tengo una sorpresa para ti!".  La seguí a mi baño, donde me llevó a un bosque hermoso. Había muchas otras hadas allí también. Pasamos todo el día jugando, cantando corriendo y fue increíble! Fui todos los días al bosque mágico, pero solo en ese tiempo específico o de lo contrario no [va funcionar]{funcionaba}<fs:st:t>. Esperaba este bosque mágico todos los días. Puedo ser feliz, sin estrés y divertirme con mis nuevos amigos. Me encanta el [magico bosque]{bosque mágico}<col:adj> que me [convertir]{convierte}<fs:st:t> en uno también. Desde el fallecimiento de mi madre, [estoy]{soy}<conf:v:seta> feliz de nuevo.
+# verbs annotation ann2 = nan
+# corrected1 = Vi a una pequeña hada volar a mi cuarto oscuro desde la sala de estar. Era la medianoche, estaba cansada e imaginando esto. O eso pensaba yo. Entré en mi cuarto oscuro, el hada me vio y sintió miedo.  Le dije: "No tengas miedo. ¿Quién eres y qué haces aquí?" La hada se acercó y me dijo: "Sígueme por favor, tengo una sorpresa para ti!".  La seguí a mi baño, donde me llevó a un bosque hermoso. Había muchas otras hadas allí también. Pasamos todo el día jugando, cantando, corriendo y, ¡fue increíble! Fui todos los días al bosque mágico, pero solo en ese tiempo específico o de lo contrario no iba a funcionar. Esperaba este bosque mágico todos los días. Puedo ser feliz, sin estrés y divertirme con mis nuevos amigos. Me encanta el bosque mágico. Desde el fallecimiento de mi madre, estoy feliz de nuevo.
+# corrected2 = nan
+# text = Vi a una pequeña hada volar a mi cuarto oscuro desde la sala de. Era la medianoche, estaba cansada y imaginando esto. O eso yo pensaba. Entré mi cuarto oscuro, la hada me vio y sintió miedo. Le dije, "No tengas miedo. ¿Quién eres y qué haces aquí?" La hada se acercó y me dijo, "Sígueme por favor, tengo una sorpresa para ti!". La seguí a mi baño, donde me llevó a un bosque hermoso. Había muchas otras hadas allí también. Pasamos todo el día jugando, cantando corriendo y fue increíble! Fui todos los días al bosque mágico, pero solo en ese tiempo específico o de lo contrario no va funcionar. Esperaba este bosque mágico todos los días. Puedo ser feliz, sin estrés y divertirme con mis nuevos amigos. Me encanta el magico bosque que me convertir en uno también. Desde el fallecimiento de mi madre, estoy feliz de nuevo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	5	case	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	hada	hada	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	volar	volar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	desde	desde	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sala	sala	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+14	de	de	ADP	_	_	13	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	medianoche	medianoche	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	cansada	cansado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	imaginando	imaginar	VERB	_	VerbForm=Ger	6	conj	_	_
+9	esto	este	PRON	_	Number=Sing|PronType=Dem	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	O	o	CCONJ	_	_	4	advmod	_	_
+2	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	obj	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	pensaba	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Entré	entrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	hada	hada	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	sintió	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+2	dije	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+4	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+5	No	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	tengas	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	_
+2	Quién	quién	PRON	_	Number=Sing|PronType=Int	0	root	_	_
+3	eres	ser	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	qué	qué	PRON	_	Number=Sing|PronType=Int	6	obj	_	_
+6	haces	hacer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	aquí	aquí	ADV	_	_	6	advmod	_	_
+8	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+9	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	hada	hada	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	acercó	acercar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+10	Sígueme	sígeer	INTJ	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	7	ccomp	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	favor	favor	NOUN	_	_	10	compound	_	_
+13	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+14	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	sorpresa	sorpresa	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	para	para	ADP	_	_	18	case	_	_
+18	ti	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Pre|PronType=Prs	16	nmod	_	_
+19	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	10	punct	_	_
+20	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	seguí	seguer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	baño	baño	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	donde	donde	ADV	_	PronType=Rel	9	advmod	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+3	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+4	hadas	hada	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+5	allí	allí	ADV	_	_	1	advmod	_	_
+6	también	también	ADV	_	_	1	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	día	día	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	jugando	jugar	VERB	_	VerbForm=Ger	1	advcl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	cantando	cantar	VERB	_	VerbForm=Ger	5	advcl	_	_
+8	corriendo	correr	VERB	_	VerbForm=Ger	5	advcl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+11	increíble	increíble	ADJ	_	Number=Sing	5	conj	_	_
+12	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+
+1	Fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	mágico	mágico	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+9	pero	pero	CCONJ	_	_	20	cc	_	_
+10	solo	solo	ADV	_	_	20	advmod	_	_
+11	en	en	ADP	_	_	10	case	_	_
+12	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+14	específico	específico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+15	o	o	CCONJ	_	_	16	cc	_	_
+16	de	de	ADP	_	_	20	advmod	_	_
+17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	fixed	_	_
+18	contrario	contrario	NOUN	_	_	16	fixed	_	_
+19	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
+20	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+21	funcionar	funcionar	VERB	_	VerbForm=Inf	20	csubj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Esperaba	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	mágico	mágico	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	3	cop	_	_
+3	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	sin	sin	ADP	_	_	6	case	_	_
+6	estrés	estrés	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	divertirme	divertir	VERB	_	VerbForm=Inf	3	conj	_	_
+9	con	con	ADP	_	_	12	case	_	_
+10	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+11	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
+12	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	magico	magico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+6	que	que	PRON	_	PronType=Rel	8	mark	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	convertir	convertir	VERB	_	VerbForm=Inf	5	acl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	_
+11	también	también	ADV	_	_	8	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Desde	desde	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fallecimiento	fallecimiento	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+10	de	de	ADP	_	_	9	advmod	_	_
+11	nuevo	nuevo	ADJ	_	_	10	fixed	_	_
+12	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+

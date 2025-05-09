@@ -1,0 +1,244 @@
+# Unnamed: 0 = 50
+# id = 241720
+# prompt = yourself
+# quarter = F20
+# course = SPA 2
+# age = 25
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = Yes
+# reading comprehension = 3
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola, [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Tengo *AGE* *AGE* Mi familia es de *CITY* *CITY* *CITY* en *PLACE*. Pero yo nací en los Estados Unidos. Crecí en una casa bilingüe, pero desafortunadamente creciendo, el español se usó menos. Siempre había crecido deseando aprender a escribir en español. Intenté duolingo, pero no me gusto. I took up french in High school, because I grew up in *STATE* where it is used a lot! It is nice knowing 3 languages, but I soon realized I had to become fluent in Spanish. I speak to my family from time to time from Mexico on Facebook. I can read it better than write it!  I was embaressed to answer at times, because I knew I was not spelling things correctly. So when I came to *UNIVERSITY* *UNIVERSITY* I took up the opportunity to take a spanish class in the Spring. I loved it! The professor was very patient and nice. I felt more confident in communicating with my family.  So this fall I decided to take it up once again.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola, [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Tengo *AGE* *AGE* Mi familia es de *CITY* *CITY* *CITY* en *PLACE*. Pero yo nací en los Estados Unidos. Crecí en una casa bilingüe, pero desafortunadamente creciendo, el español se usó menos. Siempre había crecido deseando aprender a escribir en español. Intenté duolingo, pero no me gusto. I took up french in High school, because I grew up in *STATE* where it is used a lot! It is nice knowing 3 languages, but I soon realized I had to become fluent in Spanish. I speak to my family from time to time from Mexico on Facebook. I can read it better than write it!  I was embaressed to answer at times, because I knew I was not spelling things correctly. So when I came to *UNIVERSITY* *UNIVERSITY* I took up the opportunity to take a spanish class in the Spring. I loved it! The professor was very patient and nice. I felt more confident in communicating with my family.  So this fall I decided to take it up once again.
+# verbs annotation ann2 = nan
+# corrected1 = Hola, me llamo *FIRST_NAME*. Tengo *AGE* años. Mi familia es de *CITY* Distrito *CITY* en México. Pero yo nací en los Estados Unidos. Crecí en una casa bilingüe, pero desafortunadamente creciendo, el español se usó menos. Siempre había crecido deseando aprender a escribir en español. Intenté duolingo, pero no me gustó. I took up french in High school, because I grew up in *STATE* where it is used a lot! It is nice knowing 3 languages, but I soon realized I had to become fluent in Spanish. I speak to my family from time to time from *PLACE* on Facebook. I can read it better than write it!  I was embaressed to answer at times, because I knew I was not spelling things correctly. So when I came to *UNIVERSITY* *UNIVERSITY* I took up the opportunity to take a spanish class in the Spring. I loved it! The professor was very patient and nice. I felt more confident in communicating with my family.  So this fall I decided to take it up once again.
+# corrected2 = nan
+# text = Hola, yo me llamo *FIRST_NAME*. Tengo *AGE* *AGE* anos. Mi familia es de *CITY* *CITY* *CITY* en *PLACE*. Pero yo nací en los Estados Unidos. Crecí en una casa bilingüe, pero desafortunadamente creciendo, el español se usó menos. Siempre había crecido deseando aprender a escribir en español. Intenté duolingo, pero no me gusto. I took up french in High school, because I grew up in *STATE* where it is used a lot! It is nice knowing 3 languages, but I soon realized I had to become fluent in Spanish. I speak to my family from time to time from Mexico on Facebook. I can read it better than write it! I was embaressed to answer at times, because I knew I was not spelling things correctly. So when I came to *UNIVERSITY* *UNIVERSITY* I took up the opportunity to take a spanish class in the Spring. I loved it! The professor was very patient and nice. I felt more confident in communicating with my family. So this fall I decided to take it up once again.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	yo	yo	PRON	_	_	5	nsubj	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	llamo	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	*AGE*	AGE	PROPN	_	_	2	flat	_	_
+4	anos	ano	ADJ	_	_	2	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+6	*CITY*	CITY	PROPN	_	_	5	flat	_	_
+7	*CITY*	CITY	PROPN	_	_	5	flat	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*PLACE*	PLACE	PROPN	_	_	5	nmod	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	cc	_	_
+2	yo	yo	PRON	_	_	0	ROOT	_	_
+3	nací	nací	PROPN	_	_	2	flat	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	Estados	Estados	PROPN	_	_	2	nmod	_	_
+7	Unidos	Unidos	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Crecí	crecer	VERB	_	_	14	nsubj	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	casa	casa	NOUN	_	_	1	obl	_	_
+5	bilingüe	bilingüe	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	desafortunadamente	desafortunadamente	ADV	_	_	9	advmod	_	_
+9	creciendo	crecer	VERB	_	_	14	advcl	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	español	español	NOUN	_	_	14	nsubj	_	_
+13	se	él	PRON	_	_	14	expl:pv	_	_
+14	usó	usar	VERB	_	_	0	ROOT	_	_
+15	menos	menos	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	había	haber	AUX	_	_	3	aux	_	_
+3	crecido	crecer	VERB	_	_	0	ROOT	_	_
+4	deseando	desear	VERB	_	_	3	xcomp	_	_
+5	aprender	aprender	VERB	_	_	4	xcomp	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	escribir	escribir	VERB	_	_	5	xcomp	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	español	español	NOUN	_	_	5	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Intenté	Intenté	PROPN	_	_	0	ROOT	_	_
+2	duolingo	duolinguir	VERB	_	_	1	flat	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	pero	pero	CCONJ	_	_	7	cc	_	_
+5	no	no	ADV	_	_	7	advmod	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	gusto	gustar	VERB	_	_	1	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	I	i	CCONJ	_	_	4	advmod	_	_
+2	took	took	PROPN	_	_	1	flat	_	_
+3	up	up	PROPN	_	_	1	flat	_	_
+4	french	french	VERB	_	_	0	ROOT	_	_
+5	in	in	ADP	_	_	6	case	_	_
+6	High	High	PROPN	_	_	4	obl	_	_
+7	school	school	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	because	because	PROPN	_	_	6	conj	_	_
+10	I	I	CCONJ	_	_	9	flat	_	_
+11	grew	grew	NOUN	_	_	9	flat	_	_
+12	up	up	PROPN	_	_	9	nmod	_	_
+13	in	in	ADP	_	_	14	case	_	_
+14	*STATE*	STATE	PROPN	_	_	9	nmod	_	_
+15	where	wherar	VERB	_	_	4	advcl	_	_
+16	it	it	PROPN	_	_	15	obj	_	_
+17	is	is	PROPN	_	_	15	obj	_	_
+18	used	used	NOUN	_	_	17	obj	_	_
+19	a	a	ADP	_	_	18	advmod	_	_
+20	lot	lot	DET	_	_	19	fixed	_	_
+21	!	!	PUNCT	_	_	4	punct	_	_
+22	It	It	PROPN	_	_	36	nsubj	_	_
+23	is	is	PROPN	_	_	22	flat	_	_
+24	nice	nice	PROPN	_	_	22	flat	_	_
+25	knowing	knowing	PROPN	_	_	22	flat	_	_
+26	3	3	NUM	_	_	22	nummod	_	_
+27	languages	languag	NOUN	_	_	22	flat	_	_
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	but	but	NOUN	_	_	22	appos	_	_
+30	I	I	CCONJ	_	_	22	flat	_	_
+31	soon	soon	PROPN	_	_	22	flat	_	_
+32	realized	realized	PROPN	_	_	22	flat	_	_
+33	I	I	PROPN	_	_	22	flat	_	_
+34	had	had	PROPN	_	_	22	flat	_	_
+35	to	to	PROPN	_	_	22	flat	_	_
+36	become	become	PROPN	_	_	4	advcl	_	_
+37	fluent	fluent	PROPN	_	_	36	obj	_	_
+38	in	in	ADP	_	_	39	case	_	_
+39	Spanish	Spanish	PROPN	_	_	36	obl	_	_
+40	.	.	PUNCT	_	_	36	punct	_	_
+
+1	I	i	CCONJ	_	_	5	advmod	_	_
+2	speak	speak	NOUN	_	_	1	flat	_	_
+3	to	to	PROPN	_	_	1	appos	_	_
+4	my	my	PROPN	_	_	3	flat	_	_
+5	family	family	VERB	_	_	0	ROOT	_	_
+6	from	from	NOUN	_	_	5	obj	_	_
+7	time	time	ADJ	_	_	6	amod	_	_
+8	to	to	VERB	_	_	5	obl	_	_
+9	time	time	NOUN	_	_	8	compound	_	_
+10	from	from	NOUN	_	_	5	obj	_	_
+11	Mexico	Mexico	PROPN	_	_	5	obj	_	_
+12	on	on	PROPN	_	_	11	flat	_	_
+13	Facebook	Facebook	PROPN	_	_	11	flat	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	I	i	CCONJ	_	_	3	nsubj	_	_
+2	can	can	PROPN	_	_	1	flat	_	_
+3	read	read	PROPN	_	_	0	ROOT	_	_
+4	it	it	VERB	_	_	3	obj	_	_
+5	better	better	VERB	_	_	3	obj	_	_
+6	than	than	PROPN	_	_	3	obj	_	_
+7	write	write	PROPN	_	_	3	obj	_	_
+8	it	it	INTJ	_	_	9	case	_	_
+9	!	!	PUNCT	_	_	3	punct	_	_
+
+1	I	i	CCONJ	_	_	3	advmod	_	_
+2	was	was	PROPN	_	_	1	flat	_	_
+3	embaressed	embaressed	PROPN	_	_	16	nsubj	_	_
+4	to	to	PROPN	_	_	3	appos	_	_
+5	answer	answer	PROPN	_	_	4	flat	_	_
+6	at	at	DET	_	_	4	flat	_	_
+7	times	times	PROPN	_	_	4	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	because	because	PROPN	_	_	14	det	_	_
+10	I	I	PROPN	_	_	9	flat	_	_
+11	knew	knew	PROPN	_	_	9	flat	_	_
+12	I	I	PROPN	_	_	11	obj	_	_
+13	was	was	PROPN	_	_	12	flat	_	_
+14	not	not	PROPN	_	_	15	case	_	_
+15	spelling	spelling	PROPN	_	_	3	conj	_	_
+16	things	things	VERB	_	_	0	ROOT	_	_
+17	correctly	correctly	ADJ	_	_	16	obj	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+
+1	So	So	PROPN	_	_	4	nsubj	_	_
+2	when	when	PROPN	_	_	1	flat	_	_
+3	I	I	CCONJ	_	_	1	flat	_	_
+4	came	camir	VERB	_	_	0	ROOT	_	_
+5	to	to	PROPN	_	_	4	obj	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+8	I	I	CCONJ	_	_	5	flat	_	_
+9	took	took	PROPN	_	_	5	flat	_	_
+10	up	up	PROPN	_	_	5	flat	_	_
+11	the	the	PROPN	_	_	5	flat	_	_
+12	opportunity	opportunity	PROPN	_	_	5	flat	_	_
+13	to	to	PROPN	_	_	12	obj	_	_
+14	take	take	PROPN	_	_	5	flat	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	spanish	spanish	NOUN	_	_	4	obj	_	_
+17	class	class	VERB	_	_	4	conj	_	_
+18	in	in	ADP	_	_	19	case	_	_
+19	the	the	PROPN	_	_	17	obl	_	_
+20	Spring	Spring	PROPN	_	_	19	flat	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	I	i	CCONJ	_	_	3	nsubj	_	_
+2	loved	loved	PROPN	_	_	1	flat	_	_
+3	it	it	ADP	_	_	0	ROOT	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+1	The	The	PROPN	_	_	7	nsubj	_	_
+2	professor	professor	PROPN	_	_	1	flat	_	_
+3	was	was	PROPN	_	_	1	flat	_	_
+4	very	very	PROPN	_	_	1	flat	_	_
+5	patient	patient	PROPN	_	_	1	flat	_	_
+6	and	and	NOUN	_	_	1	flat	_	_
+7	nice	nizar	VERB	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	I	i	CCONJ	_	_	8	amod	_	_
+2	felt	felt	ADJ	_	_	1	amod	_	_
+3	more	more	PROPN	_	_	1	flat	_	_
+4	confident	confident	PROPN	_	_	3	flat	_	_
+5	in	in	ADP	_	_	6	case	_	_
+6	communicating	communicating	NOUN	_	_	1	nmod	_	_
+7	with	with	ADJ	_	_	1	flat	_	_
+8	my	my	PROPN	_	_	9	obj	_	_
+9	family	family	PROPN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	So	So	PROPN	_	_	8	nsubj	_	_
+2	this	this	NOUN	_	_	1	flat	_	_
+3	fall	fall	PROPN	_	_	1	flat	_	_
+4	I	I	PROPN	_	_	1	flat	_	_
+5	decided	decided	PROPN	_	_	1	flat	_	_
+6	to	to	PROPN	_	_	1	flat	_	_
+7	take	take	PROPN	_	_	6	flat	_	_
+8	it	it	VERB	_	_	0	ROOT	_	_
+9	up	up	PRON	_	_	11	det	_	_
+10	once	once	NUM	_	_	11	nummod	_	_
+11	again	again	NOUN	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+

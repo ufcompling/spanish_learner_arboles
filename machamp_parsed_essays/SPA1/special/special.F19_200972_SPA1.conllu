@@ -1,0 +1,219 @@
+# Unnamed: 0 = 235
+# id = 200972
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = English 
+# language(s) used at home = Cantonese
+# language(s) studied = Cantonese (9)
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi mama es de persona es muy especial en mi vida. Su nombre es *FIRST_NAME* *LAST_NAME*. Ella tiene *AGE* años. Ella vive en *CITY* con mi padre, *FIRST_NAME* *LAST_NAME*, con mi abuelo, *FIRST_NAME* *LAST_NAME*, con mi abuela, *FIRST_NAME* *LAST_NAME*. Ella es una mujer bajita. Ella es de *CITY*, China. Ella se mudó en 1992 a estados unidos. Ella tiene el pelo corto. Ella es madre de dos hijas, *FIRST_NAME* y *FIRST_NAME*. Ella tiene dos hermanas y uno hermano. Dos hermanas vive en *CITY* y *CITY* en Australia. Uno hermano vive en estados unidos. Ella es muy trabajadora y muy génera. Ella es muy comica y muy inteligente y muy activa. Ella es muy considerado. Ella cocina deliciosa comida para mi. Ella me cuida cuando estoy enfermo. Mi madre es mi modelo a seguir. Muy rica! La quiero mucho y estoy agradecida por su existencia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	advcl	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	*FIRST_NAME*	*first_name*	SYM	_	_	0	root	_	_
+5	*LAST_NAME*	*last_name*	PUNCT	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	7	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	*FIRST_NAME*	*first_name*	PROPN	_	_	7	appos	_	_
+10	*LAST_NAME*	*last_name*	PROPN	_	_	9	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+16	*FIRST_NAME*	*first_name*	PROPN	_	_	21	appos	_	_
+17	*LAST_NAME*	*last_name*	PUNCT	_	_	16	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+22	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+23	*FIRST_NAME*	*first_name*	PROPN	_	_	21	appos	_	_
+24	*LAST_NAME*	*last_name*	PUNCT	_	_	23	punct	_	_
+25	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	bajita	bajito	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*CITY*	PROPN	_	_	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	China	China	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	mudó	mudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	1992	1992	NOUN	_	AdvType=Tim	3	obl	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	estados	estado	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	corto	corto	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	madre	madre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	hijas	hija	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	dep	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	9	flat	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*CITY*	*city*	PROPN	_	_	9	flat	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Australia	Australia	PROPN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	estados	estado	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+6	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	génera	género	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	comica	comico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	activa	activo	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	considerado	considerado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	cocina	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	deliciosa	delicioso	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	cuida	cuidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	enfermo	enfermo	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	seguir	seguir	VERB	_	VerbForm=Inf	5	acl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Muy	mucho	ADV	_	_	2	advmod	_	_
+2	rica	rico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	La	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	agradecida	agradecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	existencia	existencia	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

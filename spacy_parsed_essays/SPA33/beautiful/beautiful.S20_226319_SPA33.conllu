@@ -1,0 +1,200 @@
+# Unnamed: 0 = 166
+# id = 226319
+# prompt = beautiful
+# quarter = S20
+# course = SPA 33
+# age = 18
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 5.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una historia bella serÍa una que se basa en un mar o un lago, donde podemos escuchar [la]{las}<na:det> olas del mar en la madrugada. SerÍa una historia sobre una pareja que tiene una casa [a]{al}<ab:det:art:def> lado del mar y deciden extender su familia y tratar de dar luz a un niño quien pueda correr [a]{al}<ab:det:art:def> lado del mar en la arena y podrÍa construir castillos en [el]{ella}<ga:pron>. Hasta podrÍa cubrir su padre se arena para convertirlo en []{una}<ab:det:art:indef> sirena de [la]{}<pr:det:art:def> arena. La pareja, *FIRST_NAME* y *FIRST_NAME*, compraron una casa con cuatro cuartos en esperanzas de que tuvieran una gran familia para poder vivir una vida llena de gracia. Poco despuÉs durante una cena familiar del dÍa de gracia anunciaron que estaban embarazados. Todos estuvieron muy felices y estaban preguntando sobre el nombre que quisieran tal vez llamar a su futuro hijo. Ellos tenÍan muchas ganas de empezar una familia y pudieron volver ese sueño realidad.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Una historia bella serÍa una que se basa en un mar o un lago, donde podemos escuchar la olas del mar en la madrugada. SerÍa una historia sobre una pareja que tiene una casa [a]{al}<ab:det:art:def> lado del mar y deciden extender su familia y tratar de dar luz a un niño quien pueda correr [a]{al}<ab:det:art:def> lado del mar en la arena y podrÍa construir castillos en el. Hasta podrÍa cubrir su padre se arena para convertirlo en []{una}<ab:det:art:indef> sirena de la arena. La pareja, *FIRST_NAME* y *FIRST_NAME*, compraron una casa con cuatro cuartos en esperanzas de que tuvieran una gran familia para poder vivir una vida llena de gracia. Poco despuÉs durante una cena familiar del dÍa de gracia anunciaron que estaban embarazados. Todos estuvieron muy felices y estaban preguntando sobre el nombre que quisieran tal vez llamar a su futuro hijo. Ellos tenÍan muchas ganas de empezar una familia y pudieron volver ese sueño realidad.
+# verbs annotation ann2 = nan
+# corrected1 = Una historia bonita sería una que se base en el mar o en un lago, en la que podemos escuchar las olas del mar de madrugada. Sería una historia sobre una pareja que tiene una casa al lado del mar y deciden ampliar su familia y tratar de engendrar a un niño que pueda correr al lado del mar en la arena y pueda construir castillos en ella. Incluso podría cubrir a su padre de arena para convertirlo en una sirena de arena. La pareja, *FIRST_NAME* y *FIRST_NAME*, habrían comprado una casa con cuatro cuartos, con esperanzas de tener una gran familia para poder vivir una vida llena de alegría. Poco después, durante una cena familiar el Día de Acción de Gracias, anunciarían que están embarazados. Todos estarían muy contentos y preguntarían sobre el posible nombre de su futuro hijo. Ellos tendrían muchas ganas de formar una familia y podrían haber hecho ese sueño realidad. 
+# corrected2 = nan
+# text = Una historia bella serÍa una que se basa en un mar o un lago, donde podemos escuchar la olas del mar en la madrugada. SerÍa una historia sobre una pareja que tiene una casa a lado del mar y deciden extender su familia y tratar de dar luz a un niño quien pueda correr a lado del mar en la arena y podrÍa construir castillos en el. Hasta podrÍa cubrir su padre se arena para convertirlo en sirena de la arena. La pareja, *FIRST_NAME* y *FIRST_NAME*, compraron una casa con cuatro cuartos en esperanzas de que tuvieran una gran familia para poder vivir una vida llena de gracia. Poco despuÉs durante una cena familiar del dÍa de gracia anunciaron que estaban embarazados. Todos estuvieron muy felices y estaban preguntando sobre el nombre que quisieran tal vez llamar a su futuro hijo. Ellos tenÍan muchas ganas de empezar una familia y pudieron volver ese sueño realidad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	historia	historia	NOUN	_	_	5	nsubj	_	_
+3	bella	bello	ADJ	_	_	2	amod	_	_
+4	serÍa	ser	AUX	_	_	5	cop	_	_
+5	una	uno	DET	_	_	0	ROOT	_	_
+6	que	que	PRON	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pass	_	_
+8	basa	basar	VERB	_	_	5	acl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	mar	mar	NOUN	_	_	8	obj	_	_
+12	o	o	CCONJ	_	_	14	cc	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	lago	lago	NOUN	_	_	11	conj	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	donde	donde	PRON	_	_	18	obl	_	_
+17	podemos	poder	AUX	_	_	18	aux	_	_
+18	escuchar	escuchar	VERB	_	_	14	acl	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	olas	ola	NOUN	_	_	18	obj	_	_
+21	del	del	ADP	_	_	22	case	_	_
+22	mar	mar	NOUN	_	_	20	nmod	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	la	el	DET	_	_	25	det	_	_
+25	madrugada	madrugada	NOUN	_	_	20	nmod	_	_
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+1	SerÍa	seriar	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	historia	historia	NOUN	_	_	0	ROOT	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	pareja	pareja	NOUN	_	_	3	nmod	_	_
+7	que	que	PRON	_	_	8	nsubj	_	_
+8	tiene	tener	VERB	_	_	6	acl	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	casa	casa	NOUN	_	_	8	obj	_	_
+11	a	a	ADP	_	_	14	case	_	_
+12	lado	lado	NOUN	_	_	11	fixed	_	_
+13	del	del	DET	_	_	14	det	_	_
+14	mar	mar	NOUN	_	_	8	obl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	deciden	decidir	VERB	_	_	8	conj	_	_
+17	extender	extender	VERB	_	_	16	xcomp	_	_
+18	su	su	DET	_	_	19	det	_	_
+19	familia	familia	NOUN	_	_	17	obj	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	tratar	tratar	VERB	_	_	16	conj	_	_
+22	de	de	ADP	_	_	23	mark	_	_
+23	dar	dar	VERB	_	_	21	xcomp	_	_
+24	luz	luz	NOUN	_	_	23	compound	_	_
+25	a	a	ADP	_	_	27	case	_	_
+26	un	uno	DET	_	_	27	det	_	_
+27	niño	niño	NOUN	_	_	23	obj	_	_
+28	quien	quien	PRON	_	_	30	nsubj	_	_
+29	pueda	poder	AUX	_	_	30	aux	_	_
+30	correr	correr	VERB	_	_	27	acl	_	_
+31	a	a	ADP	_	_	34	case	_	_
+32	lado	lado	NOUN	_	_	31	fixed	_	_
+33	del	del	DET	_	_	34	det	_	_
+34	mar	mar	NOUN	_	_	30	obl	_	_
+35	en	en	ADP	_	_	37	case	_	_
+36	la	el	DET	_	_	37	det	_	_
+37	arena	arena	NOUN	_	_	30	obl	_	_
+38	y	y	CCONJ	_	_	40	cc	_	_
+39	podrÍa	poder	AUX	_	_	40	aux	_	_
+40	construir	construir	VERB	_	_	30	conj	_	_
+41	castillos	castillo	NOUN	_	_	40	obj	_	_
+42	en	en	ADP	_	_	43	case	_	_
+43	el	el	DET	_	_	40	obl	_	_
+44	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hasta	hasta	ADP	_	_	3	advmod	_	_
+2	podrÍa	poder	AUX	_	_	3	aux	_	_
+3	cubrir	cubrir	VERB	_	_	7	advcl	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	padre	padre	NOUN	_	_	3	nsubj	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	arena	arenar	VERB	_	_	0	ROOT	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	convertirlo	convertir él	VERB	_	_	7	advcl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	sirena	sirena	NOUN	_	_	9	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	arena	arena	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	pareja	pareja	NOUN	_	_	8	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	appos	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	compraron	comprar	VERB	_	_	0	ROOT	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	casa	casa	NOUN	_	_	8	obj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	cuatro	cuatro	NUM	_	_	13	nummod	_	_
+13	cuartos	cuarto	NOUN	_	_	8	obl	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	esperanzas	esperanza	NOUN	_	_	13	nmod	_	_
+16	de	de	ADP	_	_	18	mark	_	_
+17	que	que	SCONJ	_	_	18	mark	_	_
+18	tuvieran	tener	VERB	_	_	13	acl	_	_
+19	una	uno	DET	_	_	21	det	_	_
+20	gran	gran	ADJ	_	_	21	amod	_	_
+21	familia	familia	NOUN	_	_	18	obj	_	_
+22	para	para	ADP	_	_	24	mark	_	_
+23	poder	poder	AUX	_	_	24	aux	_	_
+24	vivir	vivir	VERB	_	_	18	advcl	_	_
+25	una	uno	DET	_	_	26	det	_	_
+26	vida	vida	NOUN	_	_	24	obj	_	_
+27	llena	lleno	ADJ	_	_	26	amod	_	_
+28	de	de	ADP	_	_	29	case	_	_
+29	gracia	gracia	NOUN	_	_	26	nmod	_	_
+30	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Poco	poco	ADV	_	_	2	advmod	_	_
+2	despuÉs	después	ADV	_	_	11	advmod	_	_
+3	durante	durante	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	cena	cena	NOUN	_	_	2	obl	_	_
+6	familiar	familiar	ADJ	_	_	5	amod	_	_
+7	del	del	ADP	_	_	8	case	_	_
+8	dÍa	día	NOUN	_	_	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	gracia	gracia	NOUN	_	_	8	nmod	_	_
+11	anunciaron	anunciar	VERB	_	_	0	ROOT	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	estaban	estar	AUX	_	_	14	cop	_	_
+14	embarazados	embarazado	ADJ	_	_	11	ccomp	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Todos	todo	PRON	_	_	4	nsubj	_	_
+2	estuvieron	estar	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	felices	feliz	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	estaban	estar	AUX	_	_	7	aux	_	_
+7	preguntando	preguntar	VERB	_	_	4	conj	_	_
+8	sobre	sobre	ADP	_	_	10	case	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	nombre	nombre	NOUN	_	_	7	obl	_	_
+11	que	que	PRON	_	_	12	nsubj	_	_
+12	quisieran	querer	VERB	_	_	10	acl	_	_
+13	tal	tal	NOUN	_	_	12	advmod	_	_
+14	vez	vez	NOUN	_	_	13	fixed	_	_
+15	llamar	llamar	VERB	_	_	12	xcomp	_	_
+16	a	a	ADP	_	_	19	case	_	_
+17	su	su	DET	_	_	19	det	_	_
+18	futuro	futuro	ADJ	_	_	19	amod	_	_
+19	hijo	hijo	NOUN	_	_	15	obj	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	tenÍan	tener	VERB	_	_	0	ROOT	_	_
+3	muchas	mucho	DET	_	_	4	det	_	_
+4	ganas	gana	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	empezar	empezar	VERB	_	_	4	acl	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	familia	familia	NOUN	_	_	6	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	pudieron	poder	AUX	_	_	11	aux	_	_
+11	volver	volver	VERB	_	_	6	conj	_	_
+12	ese	ese	DET	_	_	13	det	_	_
+13	sueño	sueño	NOUN	_	_	11	obj	_	_
+14	realidad	realidad	NOUN	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+

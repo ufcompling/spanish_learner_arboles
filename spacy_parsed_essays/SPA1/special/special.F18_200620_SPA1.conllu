@@ -1,0 +1,231 @@
+# Unnamed: 0 = 324
+# id = 200620
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = I am eighteen years old.
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = The language that I speak at home is Chinese.
+# language(s) studied = I studied English before learning Spanish. I studied English for ten years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = La persons que es importante para mi es *FIRST_NAME*. Lo [encuentro]{conocí}<fs:st:t> en la clase de matemáticas. Tiene los ojos negros. Tiene el pelo corto y negro. Es guapo, delgado y bajo. Es un poco aburrido y inteligente. Tiene *AGE* años. [Él]{}<pr:su:pron> es estudiante. Vive en *CITY*. [Él]{}<pr:su:pron> es de nacionalidad Japón. Le gusta ver [partido]{partidos}<na:adj> de futbol. Siempre salimos juntos. Es mayor en informática. Incluso él es Japonés, se agrupa en China porque su madre es China. La semana pasada fuimos al cine a ver películas. Esta semana [fuimos]{hemos ido}<fs:st:t> a *CITY* para ir de compras. []{Yo}<ab:su:pron> [Compré]{He comprado}<fs:st:t> mucho maquillaje y ropa, él [compró]{se ha comprado}<fs:st:t> un par de zapatos. Después de ir de compras, [nos fuimos]{hemos ido]{<fs:st:t> a comer hotpot. Pero había tanta gente que [decidimos]{hemos decidido}<fs:st:t> ir a ver una película. [Vimos]{Hemos visto}<fs:st:t> la película llamada A Star Is Born de Lady Gaga. [Caminamos]{Hemos caminado}<fs:st:t> de regreso a nuestros dormitorios. Me gusta y nos besamos bajo la luz de la luna.
+# updated annotation ann2 = La persons que es importante para mi es *FIRST_NAME*. Lo encuentro en la clase de matemáticas. Tiene los ojos negros. Tiene el pelo corto y negro. Es guapo, delgado y bajo. Es un poco aburrido y inteligente. Tiene *AGE* años. Él [él]{}<pr:su:pron> es estudiante. Vive en *CITY*. Él [él]{}<pr:su:pron> es de nacionalidad Japón. Le gusta ver partido [partido]{partidos}<na:noun> de futbol. Siempre salimos juntos. Es mayor en informática. Incluso él [él]{}<pr:su:pron> es Japonés, se agrupa en China porque su madre es China. La semana pasada fuimos al cine a ver películas. Esta semana fuimos a *CITY* para ir de compras. Compré mucho maquillaje y ropa, él compró un par de zapatos. Después de ir de compras, nos fuimos a comer hotpot. Pero había tanta gente que decidimos ir a ver una película. Vimos la película llamada A Star Is Born de Lady Gaga. Caminamos de regreso a nuestros dormitorios. Me gusta y nos besamos bajo la luz de la luna.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = La persona que es importante para mí es *FIRST_NAME*. Le conocí en la clase de Matemáticas. Tiene los ojos negros. Tiene el pelo corto y negro. Es guapo, delgado y bajo. Es un poco aburrido e inteligente. Tiene *AGE* años. Es estudiante. Vive en *CITY*. Es de nacionalidad japonesa. Le gusta ver partidos de futbol. Siempre salimos juntos. Se está especializando en informática. A pesar de ser japonés, se considera chino porque su madre es china. La semana pasada fuimos al cine a ver películas. Esta semana hemos ido a *CITY* para ir de compras. Yo he comprado mucho maquillaje y ropa y él se ha comprado un par de zapatos. Después de ir de compras, hemos ido a comer hotpot, pero había tanta gente que hemos decido ir a ver una película. Hemos visto la película llamada A Star Is Born de Lady Gaga. Después, hemos caminado de regreso a nuestros dormitorios. Me gusta y nos hemos besado bajo la luz de la luna.
+# corrected2 = nan
+# text = La persons que es importante para mi es *FIRST_NAME*. Lo encuentro en la clase de matemáticas. Tiene los ojos negros. Tiene el pelo corto y negro. Es guapo, delgado y bajo. Es un poco aburrido y inteligente. Tiene *AGE* años. Él es estudiante. Vive en *CITY*. Él es de nacionalidad Japón. Le gusta ver partido de futbol. Siempre salimos juntos. Es mayor en informática. Incluso él es Japonés, se agrupa en China porque su madre es China. La semana pasada fuimos al cine a ver películas. Esta semana fuimos a *CITY* para ir de compras. Compré mucho maquillaje y ropa, él compró un par de zapatos. Después de ir de compras, nos fuimos a comer hotpot. Pero había tanta gente que decidimos ir a ver una película. Vimos la película llamada A Star Is Born de Lady Gaga. Caminamos de regreso a nuestros dormitorios. Me gusta y nos besamos bajo la luz de la luna.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	2	det	_	_
+2	persons	persons	PROPN	_	_	9	nsubj	_	_
+3	que	que	PRON	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	importante	importante	ADJ	_	_	2	acl	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	mi	mi	PROPN	_	_	5	nmod	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	encuentro	encontrar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	clase	clase	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	matemáticas	matemática	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	negros	negro	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	corto	corto	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	negro	negro	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	guapo	guapo	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	delgado	delgado	NOUN	_	_	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	bajo	bajo	ADJ	_	_	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	un	uno	DET	_	_	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	aburrido	aburrido	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	estudiante	estudiante	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vive	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	nacionalidad	nacionalidad	NOUN	_	_	0	ROOT	_	_
+5	Japón	Japón	PROPN	_	_	4	nsubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	partido	partido	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	futbol	futbol	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	salimos	salir	VERB	_	_	0	ROOT	_	_
+3	juntos	junto	ADJ	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	mayor	mayor	ADJ	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	informática	informática	NOUN	_	_	2	nmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Incluso	incluso	ADV	_	_	2	advmod	_	_
+2	él	él	PRON	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Japonés	Japonés	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	agrupa	agrupar	VERB	_	_	4	appos	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	China	China	PROPN	_	_	7	obl	_	_
+10	porque	porque	SCONJ	_	_	14	mark	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	madre	madre	NOUN	_	_	14	nsubj	_	_
+13	es	ser	AUX	_	_	14	cop	_	_
+14	China	China	PROPN	_	_	7	advcl	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	semana	semana	NOUN	_	_	0	ROOT	_	_
+3	pasada	pasado	ADJ	_	_	2	amod	_	_
+4	fuimos	ir	VERB	_	_	2	amod	_	_
+5	al	al	ADP	_	_	6	case	_	_
+6	cine	cine	NOUN	_	_	4	obl	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	ver	ver	VERB	_	_	4	xcomp	_	_
+9	películas	película	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	semana	semana	NOUN	_	_	3	obl	_	_
+3	fuimos	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	ir	ir	VERB	_	_	3	advcl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	compras	compra	NOUN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Compré	comprar	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	DET	_	_	3	det	_	_
+3	maquillaje	maquillaje	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ropa	ropa	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	él	él	PRON	_	_	8	nsubj	_	_
+8	compró	comprar	VERB	_	_	1	advcl	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	par	par	NOUN	_	_	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	zapatos	zapato	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Después	después	ADV	_	_	3	mark	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	ir	ir	VERB	_	_	8	dep	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	compras	compra	NOUN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	nos	yo	PRON	_	_	8	expl:pv	_	_
+8	fuimos	ir	VERB	_	_	0	ROOT	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	comer	comer	VERB	_	_	8	xcomp	_	_
+11	hotpot	hotpot	VERB	_	_	10	xcomp	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	advmod	_	_
+2	había	haber	AUX	_	_	0	ROOT	_	_
+3	tanta	tanto	DET	_	_	4	det	_	_
+4	gente	gente	NOUN	_	_	2	obj	_	_
+5	que	que	PRON	_	_	6	nsubj	_	_
+6	decidimos	decidir	VERB	_	_	4	acl	_	_
+7	ir	ir	AUX	_	_	9	aux	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	ver	ver	VERB	_	_	6	xcomp	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	película	película	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Vimos	ver	VERB	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	película	película	NOUN	_	_	1	obj	_	_
+4	llamada	llamado	ADJ	_	_	3	amod	_	_
+5	A	A	ADP	_	_	6	case	_	_
+6	Star	Star	PROPN	_	_	4	obj	_	_
+7	Is	Is	PROPN	_	_	6	flat	_	_
+8	Born	Born	PROPN	_	_	6	flat	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Lady	Lady	PROPN	_	_	6	flat	_	_
+11	Gaga	Gaga	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Caminamos	caminar	VERB	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	regreso	regreso	NOUN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	nuestros	nuestro	DET	_	_	6	det	_	_
+6	dormitorios	dormitorio	NOUN	_	_	1	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	nos	yo	PRON	_	_	5	expl:pv	_	_
+5	besamos	besar	VERB	_	_	2	conj	_	_
+6	bajo	bajo	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	luz	luz	NOUN	_	_	5	obl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	luna	luna	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+

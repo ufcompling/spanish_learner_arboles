@@ -1,0 +1,223 @@
+# Unnamed: 0 = 123
+# id = 199089
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. [Ella]{}<pr:su:pron> es alta y athletica. Todos los domingos [ella]{}<pr:su:pron> sale a correr. [Ella]{}<pr:su:pron> corre por lo hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y [ella]{}<pr:su:pron> no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. [El]{}<pr:su:pron> es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de var [al]{a}<pr:det:art:def> *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. [Ella]{}<pr:su:pron> es alta y athletica. Todos los domingos [ella]{}<pr:su:pron> sale a correr. [Ella]{}<pr:su:pron> corre por [lo]{el}<ga:det> hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y [ella]{}<pr:su:pron> no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. El es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de [var]{ver}<fs:st:r> [al]{a}<pr:det:art:def> *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos
+# verbs annotation ann2 = nan
+# corrected1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. Es alta y atlética. Todos los domingos sale a correr. Corre por el hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrió el domingo pasado pero se hizo de noche muy temprano. Durante la noche se vuelve muy aterrador porque es difícil ver. *FIRST_NAME* no pudo ver y se tropezó (tripped). Su tobillo le dolía mucho y no podía caminar. Como era de noche, no había quien la ayudara. Pero la clase salió tarde para *FIRST_NAME*. Es un hombre guapo. *FIRST_NAME* escuchó a una persona llorar. Así que fue a ver qué era. Luego vió a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenía miedo al ver a *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudó a *FIRST_NAME*. *FIRST_NAME* llevó a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos.
+# corrected2 = nan
+# text = Hay una chica muy bonita y su nombre es *FIRST_NAME*. Ella es alta y athletica. Todos los domingos ella sale a correr. Ella corre por lo hermoso arboretum en el campus de U *PLACE* *PLACE*. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y ella no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. El es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de var al *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y *FIRST_NAME* se hicieron amigos
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	chica	chica	NOUN	_	_	1	obj	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	nombre	nombre	NOUN	_	_	1	conj	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	athletica	athletico	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Todos	todo	DET	_	_	2	det	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	domingos	domingo	NOUN	_	_	5	nsubj	_	_
+4	ella	él	PRON	_	_	5	nsubj	_	_
+5	sale	salir	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	correr	correr	VERB	_	_	5	xcomp	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	corre	correr	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	lo	él	PRON	_	_	5	det	_	_
+5	hermoso	hermoso	ADJ	_	_	2	obl	_	_
+6	arboretum	arboretum	PROPN	_	_	2	advmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	campus	campus	NOUN	_	_	6	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	U	U	PROPN	_	_	9	nmod	_	_
+12	*PLACE*	PLACE	PROPN	_	_	11	flat	_	_
+13	*PLACE*	PLACE	PROPN	_	_	11	flat	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	corrio	correr	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	domingo	domingo	NOUN	_	_	2	obl	_	_
+5	pasado	pasado	ADJ	_	_	4	amod	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	_	8	expl:pass	_	_
+8	hizo	hacer	VERB	_	_	2	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	noche	noche	NOUN	_	_	8	obl	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	tomprano	tomprano	ADJ	_	_	8	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	noche	noche	NOUN	_	_	5	obl	_	_
+4	se	él	PRON	_	_	5	expl:pass	_	_
+5	vuelve	volver	VERB	_	_	0	ROOT	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	alterrador	alterrador	ADJ	_	_	5	nsubj	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	dificil	dificil	ADJ	_	_	5	advcl	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	ver	ver	VERB	_	_	10	acl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	pudo	poder	AUX	_	_	4	aux	_	_
+4	ver	ver	VERB	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tropezo	tropezo	NOUN	_	_	4	conj	_	_
+7	(	(	PUNCT	_	_	8	punct	_	_
+8	tripped	tripped	NOUN	_	_	6	amod	_	_
+9	)	)	PUNCT	_	_	8	punct	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	tobillo	tobillo	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	dolia	dolia	VERB	_	_	0	ROOT	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	ella	él	PRON	_	_	9	nsubj	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	podia	podiar	VERB	_	_	4	conj	_	_
+10	caminar	caminar	VERB	_	_	9	xcomp	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Como	como	SCONJ	_	_	4	mark	_	_
+2	era	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	noche	noche	NOUN	_	_	7	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	habia	habio	ADJ	_	_	0	ROOT	_	_
+8	quien	quien	PRON	_	_	9	nsubj	_	_
+9	ayudara	ayudarar	VERB	_	_	7	csubj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	clase	clase	NOUN	_	_	5	nsubj	_	_
+4	salio	salio	ADJ	_	_	3	amod	_	_
+5	tarde	tarde	ADV	_	_	0	ROOT	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obl	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+5	guapo	guapo	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	0	ROOT	_	_
+2	escucho	escuchar	VERB	_	_	1	advmod	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	2	obl	_	_
+6	llorar	llorar	VERB	_	_	1	csubj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Asi	asi	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	fue	ser	AUX	_	_	5	aux	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ver	ver	VERB	_	_	1	xcomp	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	era	ser	AUX	_	_	5	ccomp	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	vio	ver	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obj	_	_
+5	junto	junto	ADJ	_	_	7	case	_	_
+6	al	al	DET	_	_	7	det	_	_
+7	arroyo	arroyo	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	advmod	_	_
+2	tenia	tenio	ADJ	_	_	0	ROOT	_	_
+3	miedo	miedo	NOUN	_	_	2	obj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	var	var	VERB	_	_	3	acl	_	_
+6	al	al	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	nsubj	_	_
+3	fue	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	agradable	agradable	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ayudo	ayudo	ADV	_	_	5	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	llevo	llevar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obl	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	casa	casa	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	estaba	estar	AUX	_	_	3	cop	_	_
+3	agradecida	agradecido	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	llegar	llegar	VERB	_	_	3	xcomp	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	_	5	obl	_	_
+8	a	a	ADP	_	_	5	advmod	_	_
+9	salvo	salvo	NOUN	_	_	8	fixed	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	0	ROOT	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	fixed	_	_
+3	y	y	CCONJ	_	_	6	cc	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pass	_	_
+6	hicieron	hacer	VERB	_	_	1	conj	_	_
+7	amigos	amigo	NOUN	_	_	6	obj	_	_
+

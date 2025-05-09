@@ -1,0 +1,211 @@
+# Unnamed: 0 = 154
+# id = 205202
+# prompt = terrible
+# quarter = S19
+# course = SPA 1
+# age = I am 18.
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = I consider Cantonese as my native language.
+# language(s) used at home = Yes, I do. I speak Cantonese at home, sometimes Mandarin.
+# language(s) studied = I have studied English for 10 years and Mandarin for 13 years.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando tenía cinco años, fui a nadar con mi madre. estaban los amigos de mi madre y sus hijos. mi madre hablaba con sus amigas y yo iba a nadar con todos los niños. Yo no sabía nadar, pero quiero jugar con los niños. Así que fui con los niños al agua profunda y lejos de mi madre. Yo traté de nadar al otro lado, pero alguien me bloqueó en el medio. Yo me hundí en el fondo de la piscina pero estaba tranquilo, porque me sentí desesperado y listo para morir. No podía hablar ni pedir ayuda, así que agarré el traje de baño de alguien y me levanté. Seguí tosiendo y me sentía muy asustada. Esa fue una experiencia terrible y casi muero. Mi madre nunca supo que esto paso y tengo miedo de decirle. Yo tenía miedo del agua por esto pero ahora he superado mi miedo y me gusta nadar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+3	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	nadar	nadar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	estaban	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	hablaba	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	nadar	nadar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	con	con	ADP	_	_	15	case	_	_
+13	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	14	det	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	niños	niño	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	nadar	nadar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	jugar	jugar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	niños	niño	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Así	así	ADV	_	_	3	advmod	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	niños	niño	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	agua	agua	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	profunda	profundo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	lejos	lejos	ADV	_	_	8	conj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	madre	madre	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	traté	trat	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	nadar	nadar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	al	a	ADP	_	_	7	case	_	_
+6	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	lado	lado	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	12	nsubj	_	_
+11	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	bloqueó	bloquear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	medio	medio	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	hundí	hundir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	fondo	fondo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	piscina	piscina	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	advcl	_	_
+17	desesperado	desesperado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	16	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	listo	listo	ADJ	_	Gender=Masc|Number=Sing	17	conj	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	morir	morir	VERB	_	VerbForm=Inf	19	acl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	hablar	hablar	VERB	_	VerbForm=Inf	0	root	_	_
+4	ni	ni	CCONJ	_	_	5	cc	_	_
+5	pedir	pedir	VERB	_	VerbForm=Inf	3	conj	_	_
+6	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	así	así	ADV	_	_	10	mark	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
+10	agarré	agarrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	traje	traje	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	baño	baño	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	12	nmod	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	expl	_	_
+19	levanté	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	10	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Seguí	seguir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tosiendo	toser	VERB	_	VerbForm=Ger	1	advcl	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Esa	ese	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	casi	casi	ADV	_	_	8	advmod	_	_
+8	muero	muero	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	nunca	nunca	ADV	_	_	4	advmod	_	_
+4	supo	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	esto	este	PRON	_	Number=Sing|PronType=Dem	7	nsubj	_	_
+7	paso	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	decirle	decir	VERB	_	VerbForm=Inf	10	acl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	agua	agua	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	por	por	ADP	_	_	7	case	_	_
+7	esto	este	PRON	_	Number=Sing|PronType=Dem	2	obl	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	ahora	ahora	ADV	_	_	11	advmod	_	_
+10	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	superado	superar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	nadar	nadar	VERB	_	VerbForm=Inf	16	csubj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

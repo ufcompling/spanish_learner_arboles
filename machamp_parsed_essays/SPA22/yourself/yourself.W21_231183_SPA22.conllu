@@ -1,0 +1,335 @@
+# Unnamed: 0 = 71
+# id = 231183
+# prompt = yourself
+# quarter = W21
+# course = SPA 22
+# age = 25
+# gender = Male
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = Yes. 3 to 6 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola! Soy de *CITY* *CITY* y tengo *AGE* años. Algunas palabras clave que me definen son adaptable, optimista, aventurero, perceptiva y cinéfilo. Ahora, soy un estudiante graduado en *UNIVERSITY* *UNIVERSITY* y mi especialización es enología y viticultura. Me graduare esta junio. Estoy tomando una clase de español intermedio porque mi español es un poco "rusty" pero realmente deseo aprender. En el pasado estudié 3 años en escuela secundaria y una semestre en España durante universidad. Pero mi semestre en España fue hace 3 años. Uso Duolingo y Rosetta Stone ahora. Ademas, he solicitado a becas internacionales para trabajar en España este año. Quiero trabajar en Jerez, España con los vinos de jerez. Creo que los vinos de jerez son unico y me gustaria aprender como se hacen y practicar mi español mas. Algunos datos divertidos sobre mí son he sido en cuarenta y uno estados en los estados unidos, tengo cuatro hermanas, y he conducido por todo el país 3 veces. Me gustaria ver todos los estados y todos los parques nacionales en los estados unidos. En mi tiempo libre, me gusta ver peliculas, ir de excursión, y escuchar musica. Mi pelicula favorita esta El gran Lebowski. Me gusta ver peliculas español tambien, esta semana vi Pizza, birra, faso. Es una pelicula de Argentina sobre jóvenes inadaptados en Buenos Aires y fue muy bueno. Por musica, me gusta mucho el grateful dead pero recientemente he escuchado a David Bowie. Tambien, he escuchado mucho a Bob Dylan y Phish este mes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	*City*	PROPN	_	_	1	dep	_	_
+6	*CITY*	*city*	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	*AGE*	*age*	PROPN	_	_	8	dep	_	_
+10	años	año	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+3	clave	clave	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	definen	definir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	adaptable	adaptable	ADJ	_	Number=Sing	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	optimista	optimista	ADJ	_	Number=Sing	8	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	aventurero	aventurero	ADJ	_	Gender=Masc|Number=Sing	8	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	perceptiva	perceptivo	ADJ	_	Gender=Fem|Number=Sing	8	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	cinéfilo	cinéfilo	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+6	graduado	graduado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	*University*	PROPN	_	_	5	nmod	_	_
+9	*UNIVERSITY*	*university*	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	enología	enología	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	viticultura	viticultura	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	graduare	gradua	VERB	_	VerbForm=Inf	0	root	_	_
+3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	junio	junio	NOUN	_	AdvType=Tim	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	tomando	tomar	VERB	_	VerbForm=Ger	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	español	español	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	intermedio	intermedio	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	porque	porque	SCONJ	_	_	15	mark	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	español	español	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	advmod	_	_
+13	poco	poco	ADV	_	_	12	fixed	_	_
+14	"	"	PUNCT	_	PunctType=Quot	15	punct	_	_
+15	rusty	rusty	ADJ	_	_	2	advcl	_	_
+16	"	"	PUNCT	_	PunctType=Quot	15	punct	_	_
+17	pero	pero	CCONJ	_	_	19	cc	_	_
+18	realmente	realmente	ADV	_	_	19	advmod	_	_
+19	deseo	desear	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	aprender	aprender	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pasado	pasado	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	estudié	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	3	3	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	España	España	PROPN	_	_	12	nmod	_	_
+15	durante	durante	ADP	_	_	16	case	_	_
+16	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	7	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	España	España	PROPN	_	_	3	nmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	3	3	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	años	año	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	Duolingo	Duolingo	PROPN	_	_	1	flat	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	Rosetta	Rosetta	PROPN	_	_	1	conj	_	_
+5	Stone	Stone	PROPN	_	_	4	flat	_	_
+6	ahora	ahora	ADV	_	_	1	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ademas	ademas	INTJ	_	_	4	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	solicitado	solicitar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	becas	beca	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	internacionales	internacional	ADJ	_	Number=Plur	6	amod	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	trabajar	trabajar	VERB	_	VerbForm=Inf	4	advcl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	España	España	PROPN	_	_	9	obl	_	_
+12	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	año	año	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	trabajar	trabajar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Jerez	Jerez	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	España	España	PROPN	_	_	4	flat	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	vinos	vino	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	jerez	jerez	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	8	mark	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	vinos	vino	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	jerez	jerez	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	unico	unico	ADJ	_	Gender=Masc|Number=Sing	1	ccomp	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obl	_	_
+11	gustaria	gustari	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+12	aprender	aprender	VERB	_	VerbForm=Inf	11	csubj	_	_
+13	como	como	SCONJ	_	_	15	mark	_	_
+14	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	practicar	practicar	VERB	_	VerbForm=Inf	15	conj	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	español	español	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	mas	mas	ADV	_	_	19	advmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	datos	dato	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	_
+3	divertidos	divertido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	2	amod	_	_
+4	sobre	sobre	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	2	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+7	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+8	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	_
+9	en	en	ADP	_	_	13	case	_	_
+10	cuarenta	cuarenta	NUM	_	NumForm=Word|NumType=Card	13	nummod	_	_
+11	y	y	CCONJ	_	_	10	compound	_	_
+12	uno	uno	NUM	_	NumForm=Word|NumType=Card	10	compound	_	_
+13	estados	estado	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	estados	estado	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+17	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	16	amod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+19	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+20	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	21	nummod	_	_
+21	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	_
+22	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+23	y	y	CCONJ	_	_	25	cc	_	_
+24	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	conducido	conducir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+26	por	por	ADP	_	_	29	case	_	_
+27	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	28	det	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	país	país	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
+30	3	3	NUM	_	NumForm=Digit|NumType=Card	31	nummod	_	_
+31	veces	vez	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	_
+32	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustaria	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	estados	estado	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	9	det	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	parques	parque	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+11	nacionales	nacional	ADJ	_	Number=Plur	10	amod	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	estados	estado	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+15	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	14	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	libre	libre	ADJ	_	Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	8	advcl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	excursión	excursión	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	escuchar	escuchar	VERB	_	VerbForm=Inf	8	conj	_	_
+17	musica	musica	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	pelicula	pelicula	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	esta	staer	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	gran	gran	ADJ	_	_	2	appos	_	_
+7	Lebowski	Lebowski	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	tambien	tambien	NOUN	_	_	10	mark	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	semana	semana	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+10	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+11	Pizza	Pizza	PROPN	_	_	10	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	birra	birra	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	faso	faso	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	pelicula	pelicula	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Argentina	Argentina	PROPN	_	_	3	nmod	_	_
+6	sobre	sobre	ADP	_	_	7	case	_	_
+7	jóvenes	joven	NOUN	_	Number=Plur	3	nmod	_	_
+8	inadaptados	inadaptado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	7	amod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Buenos	Buenos	PROPN	_	_	7	nmod	_	_
+11	Aires	Aires	PROPN	_	_	10	flat	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	musica	musica	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	grateful	grateful	NOUN	_	_	5	nsubj	_	_
+9	dead	dead	NOUN	_	_	8	compound	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	recientemente	recientemente	ADV	_	_	13	advmod	_	_
+12	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	escuchado	escuchar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	David	David	PROPN	_	_	13	obj	_	_
+16	Bowie	Bowie	PROPN	_	_	15	flat	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	escuchado	escuchar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	Bob	Bob	PROPN	_	_	4	obj	_	_
+8	Dylan	Dylan	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	Phish	Phish	PROPN	_	_	7	conj	_	_
+11	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	mes	mes	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

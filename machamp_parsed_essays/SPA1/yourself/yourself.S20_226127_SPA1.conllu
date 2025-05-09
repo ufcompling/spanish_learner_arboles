@@ -1,0 +1,53 @@
+# Unnamed: 0 = 171
+# id = 226127
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Keres
+# language(s) studied = Keres- 2 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy Nativa *PLACE*. Yo hablo poco mi idioma Nativo, tiene mucho espanol por la influencia de los conquistadores Espanoles.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Nativa	Nativa	PROPN	_	_	0	root	_	_
+4	*PLACE*	*place*	PUNCT	_	_	3	dep	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	poco	poco	ADV	_	_	2	advmod	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	idioma	idioma	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	Nativo	Nativo	PROPN	_	_	5	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	influencia	influencia	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	conquistadores	conquistador	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+17	Espanoles	Espanoles	PROPN	_	_	16	appos	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

@@ -1,0 +1,237 @@
+# Unnamed: 0 = 14
+# id = 265934
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 17
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = 1
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Hay un perrito. El perrito tiene una cola larga y le gusta mucho su cola larga. Siempre habla de su cola larga. Hoy es *BIRTH_DATE* de *BIRTH_DATE*. Hoy es su cumpleaños. El gatito le da un pescado. El perrito le gusta mucho el pescado. Quiere aprender a pescar. El perrito pregunta el gatito cómo pescar y ir a pescar. El perrito va al lago a pescar. No tiene una caña de pescar. No sabe qué hacer. Entonces, pone su larga cola en el lago. [Él]{}<pr:su:pron> espera y espera. No hay pescado. El perrito está triste. Cree que no puede pescar. El gatito viene. Quiere ayudar al perrito. Pone la cola del perro en el lago con algo de comida de pescado. [Ellos]{}<pr:su:pron> esperan y esperan. Por último, tienen muchos pecados. Están contentos. Usan el pescado para hacer muchos platos. También, abren un restaurante. Hacen comida usando pescados. Les gusta mucho su restaurante.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hay un perrito. El perrito tiene una cola larga y le gusta mucho su cola larga. Siempre habla de su cola larga. Hoy es *BIRTH_DATE* de *BIRTH_DATE*. Hoy es su cumpleaños. El gatito le da un pescado. El perrito le gusta mucho el pescado. Quiere aprender a pescar. El perrito pregunta el gatito cómo pescar y ir a pescar. El perrito va al lago a pescar. No tiene una caña de pescar. No sabe qué hacer. Entonces, pone su larga cola en el lago. [Él]{}<pr:su:pron> espera y espera. No hay pescado. El perrito está triste. Cree que no puede pescar. El gatito viene. Quiere ayudar al perrito. Pone la cola del perro en el lago con algo de comida de pescado. [Ellos]{}<pr:su:pron> esperan y esperan. Por último, tienen muchos pecados. Están contentos. Usan el pescado para hacer muchos platos. También, abren un restaurante. Hacen comida usando pescados. Les gusta mucho su restaurante.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Hay un perrito. El perrito tiene una cola larga y le gusta mucho su cola larga. Siempre habla de su cola larga. Hoy es *BIRTH_DATE* de *BIRTH_DATE*. Hoy es su cumpleaños. El gatito le da un pescado. Al perrito le gusta mucho el pescado. Quiere aprender a pescar. El perrito pregunta al gatito cómo pescar e ir a pescar. El perrito va al lago a pescar. No tiene una caña de pescar. No sabe qué hacer. Entonces, pone su larga cola en el lago.  Espera y espera. No hay pescado. El perrito está triste. Cree que no puede pescar. El gatito viene. Quiere ayudar al perrito. Pone la cola del perro en el lago con algo de comida de pescado. Esperan y esperan. Por último, tienen muchos pescados. Están contentos. Usan el pescado para hacer muchos platos. También abren un restaurante. Hacen comida usando pescados. Les gusta mucho su restaurante. 
+# corrected2 = nan
+# text = Hay un perrito. El perrito tiene una cola larga y le gusta mucho su cola larga. Siempre habla de su cola larga. Hoy es *BIRTH_DATE* de *BIRTH_DATE*. Hoy es su cumpleaños. El gatito le da un pescado. El perrito le gusta mucho el pescado. Quiere aprender a pescar. El perrito pregunta el gatito cómo pescar y ir a pescar. El perrito va al lago a pescar. No tiene una caña de pescar. No sabe qué hacer. Entonces, pone su larga cola en el lago. Él espera y espera. No hay pescado. El perrito está triste. Cree que no puede pescar. El gatito viene. Quiere ayudar al perrito. Pone la cola del perro en el lago con algo de comida de pescado. Ellos esperan y esperan. Por último, tienen muchos pecados. Están contentos. Usan el pescado para hacer muchos platos. También, abren un restaurante. Hacen comida usando pescados. Les gusta mucho su restaurante.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	perrito	perrito	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perrito	perrito	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	cola	cola	NOUN	_	_	3	obj	_	_
+6	larga	largo	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	le	él	PRON	_	_	9	obj	_	_
+9	gusta	gustar	VERB	_	_	3	conj	_	_
+10	mucho	mucho	ADV	_	_	9	advmod	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	cola	cola	NOUN	_	_	9	nsubj	_	_
+13	larga	largo	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	habla	hablar	VERB	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	cola	cola	NOUN	_	_	2	obj	_	_
+6	larga	largo	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	su	su	DET	_	_	4	det	_	_
+4	cumpleaños	cumpleaños	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gatito	gatito	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	da	dar	VERB	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	pescado	pescado	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perrito	perrito	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pescado	pescado	NOUN	_	_	4	nsubj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Quiere	querer	VERB	_	_	0	ROOT	_	_
+2	aprender	aprender	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	pescar	pescar	VERB	_	_	2	xcomp	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perrito	perrito	NOUN	_	_	3	nsubj	_	_
+3	pregunta	preguntar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	gatito	gatito	NOUN	_	_	3	obj	_	_
+6	cómo	cómo	PRON	_	_	7	obl	_	_
+7	pescar	pescar	VERB	_	_	5	acl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	ir	ir	AUX	_	_	7	conj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	pescar	pescar	VERB	_	_	9	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perrito	perrito	NOUN	_	_	3	nsubj	_	_
+3	va	ir	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	lago	lago	NOUN	_	_	3	obl	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	pescar	pescar	VERB	_	_	3	advcl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	caña	caña	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	pescar	pescar	VERB	_	_	4	acl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	sabe	saber	VERB	_	_	0	ROOT	_	_
+3	qué	qué	PRON	_	_	4	obj	_	_
+4	hacer	hacer	VERB	_	_	2	xcomp	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	pone	poner	VERB	_	_	0	ROOT	_	_
+4	su	su	DET	_	_	6	det	_	_
+5	larga	largo	ADJ	_	_	6	amod	_	_
+6	cola	cola	NOUN	_	_	3	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	lago	lago	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	espera	esperar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	espera	esperar	VERB	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	hay	haber	AUX	_	_	0	ROOT	_	_
+3	pescado	pescado	ADJ	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perrito	perrito	NOUN	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	triste	triste	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cree	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	puede	poder	AUX	_	_	5	aux	_	_
+5	pescar	pescar	VERB	_	_	1	xcomp	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gatito	gatito	NOUN	_	_	3	nsubj	_	_
+3	viene	venir	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiere	querer	VERB	_	_	0	ROOT	_	_
+2	ayudar	ayudar	VERB	_	_	1	xcomp	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	perrito	perrito	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pone	poner	VERB	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	cola	cola	NOUN	_	_	1	obj	_	_
+4	del	del	ADP	_	_	5	case	_	_
+5	perro	perro	NOUN	_	_	3	nmod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	lago	lago	NOUN	_	_	3	nmod	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	algo	algo	PRON	_	_	1	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	comida	comida	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	pescado	pescado	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	esperan	esperar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	esperan	esperar	VERB	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Por	por	ADP	_	_	4	advmod	_	_
+2	último	último	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	tienen	tener	VERB	_	_	0	ROOT	_	_
+5	muchos	mucho	DET	_	_	6	det	_	_
+6	pecados	pecado	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Están	estar	AUX	_	_	2	cop	_	_
+2	contentos	contento	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Usan	usar	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pescado	pescado	NOUN	_	_	1	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	hacer	hacer	VERB	_	_	3	acl	_	_
+6	muchos	mucho	DET	_	_	7	det	_	_
+7	platos	plato	NOUN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	abren	abrir	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	restaurante	restaurante	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hacen	hacer	VERB	_	_	0	ROOT	_	_
+2	comida	comida	NOUN	_	_	1	obj	_	_
+3	usando	usar	VERB	_	_	1	advcl	_	_
+4	pescados	pescado	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Les	él	PRON	_	_	2	obj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	restaurante	restaurante	NOUN	_	_	2	nsubj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

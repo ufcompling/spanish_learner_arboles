@@ -1,0 +1,222 @@
+# Unnamed: 0 = 95
+# id = 265871
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = Yes. 1 to 3 months.
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Hace un año solía tomar fotos en la *PLACE* *PLACE* (un palacio en la antigua *PLACE*). Esa es una historia que me recuerda un poquito feliz. Me gusta la cultura tradicional *PLACE* que se llama *NAME*, y me gusta la dinastía *NAME*. Así que elegí un conjunto de ropa de la dinastía *NAME*. No me gusta el amarillo ni el naranja, así que elegí un top rojo y una falda azul. El clima en la mañana de la foto fue muy bueno, estaba soleado. Todavía siento un poco de calor en la falda. El fotógrafo y yo fuimos al palacio donde vivía la ex reina, había muchos árboles en el jardín, algunos taburetes en la habitación y nadie. Estábamos descansando allí, y de repente entraron muchos turistas, pensando que yo era un miembro del personal. El resto de la tarde pasé el resto de la tarde tomando fotos con los turistas que venían de visita, [fue]{estuvo}<conf:v:seta> muy [concurrida]{concurrido}<ga:adj>. Pero estoy muy feliz.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hace un año solía tomar fotos en la *PLACE* *PLACE* (un palacio en la antigua *PLACE*). Esa es una historia que me recuerda un poquito feliz. Me gusta la cultura tradicional *PLACE* que se llama *NAME*, y me gusta la dinastía *NAME*. Así que elegí un conjunto de ropa de la dinastía *NAME*. No me gusta el amarillo ni el naranja, así que elegí un top rojo y una falda azul. El clima en la mañana de la foto fue muy bueno, estaba soleado. Todavía siento un poco de calor en la falda. El fotógrafo y yo fuimos al palacio donde vivía la ex reina, había muchos árboles en el jardín, algunos taburetes en la habitación y nadie. Estábamos descansando allí, y de repente entraron muchos turistas, pensando que yo era un miembro del personal. El resto de la tarde pasé el resto de la tarde tomando fotos con los turistas que venían de visita, fue muy concurrida. Pero estoy muy feliz.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Hace un año solía tomar fotos en la *PLACE* *PLACE* (un palacio en la antigua *PLACE*). Esa es una historia que me recuerda un poquito feliz. Me gusta la cultura tradicional *PLACE* que se llama *NAME*, y me gusta la dinastía *NAME*. Así que elegí un conjunto de ropa de la dinastía *NAME*. No me gusta el amarillo ni el naranja, así que elegí un top rojo y una falda azul. El clima en la mañana de la foto fue muy bueno, estaba soleado. Todavía siento un poco de calor en la falda. El fotógrafo y yo fuimos al palacio donde vivía la ex reina, había muchos árboles en el jardín, algunos taburetes en la habitación y nadie más. Estábamos descansando allí, y de repente entraron muchos turistas, pensando que yo era un miembro del personal. Pasé el resto de la tarde tomando fotos con los turistas que venían de visita, estuvo muy concurrido. Pero estoy muy feliz. 
+# corrected2 = nan
+# text = Hace un año solía tomar fotos en la *PLACE* *PLACE* (un palacio en la antigua *PLACE*). Esa es una historia que me recuerda un poquito feliz. Me gusta la cultura tradicional *PLACE* que se llama *NAME*, y me gusta la dinastía *NAME*. Así que elegí un conjunto de ropa de la dinastía *NAME*. No me gusta el amarillo ni el naranja, así que elegí un top rojo y una falda azul. El clima en la mañana de la foto fue muy bueno, estaba soleado. Todavía siento un poco de calor en la falda. El fotógrafo y yo fuimos al palacio donde vivía la ex reina, había muchos árboles en el jardín, algunos taburetes en la habitación y nadie. Estábamos descansando allí, y de repente entraron muchos turistas, pensando que yo era un miembro del personal. El resto de la tarde pasé el resto de la tarde tomando fotos con los turistas que venían de visita, fue muy concurrida. Pero estoy muy feliz.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hace	hacer	VERB	_	_	4	advcl	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	año	año	NOUN	_	_	1	obj	_	_
+4	solía	soler	VERB	_	_	0	ROOT	_	_
+5	tomar	tomar	VERB	_	_	4	xcomp	_	_
+6	fotos	foto	NOUN	_	_	5	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	*PLACE*	PLACE	PROPN	_	_	5	obl	_	_
+10	*PLACE*	PLACE	PROPN	_	_	9	flat	_	_
+11	(	(	PUNCT	_	_	13	punct	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	palacio	palacio	NOUN	_	_	9	appos	_	_
+14	en	en	ADP	_	_	17	case	_	_
+15	la	el	DET	_	_	17	det	_	_
+16	antigua	antiguo	ADJ	_	_	17	amod	_	_
+17	*PLACE*	PLACE	PROPN	_	_	13	nmod	_	_
+18	)	)	PUNCT	_	_	13	punct	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Esa	ese	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	historia	historia	NOUN	_	_	0	ROOT	_	_
+5	que	que	PRON	_	_	7	nsubj	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	recuerda	recordar	VERB	_	_	4	acl	_	_
+8	un	uno	DET	_	_	10	det	_	_
+9	poquito	poquito	ADJ	_	_	10	amod	_	_
+10	feliz	feliz	ADJ	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cultura	cultura	NOUN	_	_	2	nsubj	_	_
+5	tradicional	tradicional	ADJ	_	_	4	amod	_	_
+6	*PLACE*	PLACE	PROPN	_	_	4	appos	_	_
+7	que	que	PRON	_	_	9	nsubj	_	_
+8	se	él	PRON	_	_	9	expl:pv	_	_
+9	llama	llamar	VERB	_	_	4	acl	_	_
+10	NAME	NAME	PROPN	_	_	9	obj	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	me	yo	PRON	_	_	14	iobj	_	_
+14	gusta	gustar	VERB	_	_	2	conj	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	dinastía	dinastía	NOUN	_	_	14	nsubj	_	_
+17	NAME	NAME	PROPN	_	_	16	appos	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Así	así	ADV	_	_	5	advmod	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	elegí	elegí	VERB	_	_	1	dep	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	conjunto	conjunto	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	ropa	ropa	NOUN	_	_	5	nmod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	dinastía	dinastía	NOUN	_	_	7	nmod	_	_
+11	NAME	NAME	PROPN	_	_	10	appos	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	amarillo	amarillo	NOUN	_	_	3	nsubj	_	_
+6	ni	ni	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	naranja	naranja	NOUN	_	_	5	conj	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	así	así	ADV	_	_	14	cc	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
+12	elegí	elegí	VERB	_	_	10	dep	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	top	top	NOUN	_	_	3	obl	_	_
+15	rojo	rojo	ADJ	_	_	14	amod	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	una	uno	DET	_	_	18	det	_	_
+18	falda	falda	NOUN	_	_	14	conj	_	_
+19	azul	azul	ADJ	_	_	18	amod	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	clima	clima	NOUN	_	_	11	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	mañana	mañana	NOUN	_	_	2	nmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	foto	foto	NOUN	_	_	5	nmod	_	_
+9	fue	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bueno	bueno	ADJ	_	_	0	ROOT	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	estaba	estar	AUX	_	_	14	cop	_	_
+14	soleado	soleado	ADJ	_	_	11	advcl	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	2	advmod	_	_
+2	siento	sentir	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	poco	poco	PRON	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	calor	calor	NOUN	_	_	4	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	falda	falda	NOUN	_	_	2	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	fotógrafo	fotógrafo	NOUN	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	_	2	conj	_	_
+5	fuimos	ir	VERB	_	_	0	ROOT	_	_
+6	al	al	ADP	_	_	7	case	_	_
+7	palacio	palacio	NOUN	_	_	5	obl	_	_
+8	donde	donde	PRON	_	_	9	obl	_	_
+9	vivía	vivir	VERB	_	_	7	acl	_	_
+10	la	el	DET	_	_	12	det	_	_
+11	ex	ex	ADJ	_	_	12	amod	_	_
+12	reina	reina	NOUN	_	_	9	nsubj	_	_
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	había	haber	AUX	_	_	5	advcl	_	_
+15	muchos	mucho	DET	_	_	16	det	_	_
+16	árboles	árbol	NOUN	_	_	14	obj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	el	el	DET	_	_	19	det	_	_
+19	jardín	jardín	NOUN	_	_	14	obl	_	_
+20	,	,	PUNCT	_	_	5	punct	_	_
+21	algunos	alguno	DET	_	_	22	det	_	_
+22	taburetes	taburet	NOUN	_	_	5	obj	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	la	el	DET	_	_	25	det	_	_
+25	habitación	habitación	NOUN	_	_	22	nmod	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	nadie	nadie	PRON	_	_	25	conj	_	_
+28	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Estábamos	estábar	AUX	_	_	2	aux	_	_
+2	descansando	descansar	VERB	_	_	0	ROOT	_	_
+3	allí	allí	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	de	de	ADP	_	_	8	advmod	_	_
+7	repente	repente	NOUN	_	_	6	fixed	_	_
+8	entraron	entrar	VERB	_	_	2	conj	_	_
+9	muchos	mucho	DET	_	_	10	det	_	_
+10	turistas	turista	NOUN	_	_	8	nsubj	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	pensando	pensar	VERB	_	_	8	advcl	_	_
+13	que	que	SCONJ	_	_	17	mark	_	_
+14	yo	yo	PRON	_	_	17	nsubj	_	_
+15	era	ser	AUX	_	_	17	cop	_	_
+16	un	uno	DET	_	_	17	det	_	_
+17	miembro	miembro	NOUN	_	_	12	ccomp	_	_
+18	del	del	ADP	_	_	19	case	_	_
+19	personal	personal	NOUN	_	_	17	nmod	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	resto	resto	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	tarde	tarde	NOUN	_	_	2	nmod	_	_
+6	pasé	paser	VERB	_	_	0	ROOT	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	resto	resto	NOUN	_	_	6	obj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	tarde	tarde	NOUN	_	_	8	nmod	_	_
+12	tomando	tomar	VERB	_	_	6	advcl	_	_
+13	fotos	foto	NOUN	_	_	12	obj	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	los	el	DET	_	_	16	det	_	_
+16	turistas	turista	NOUN	_	_	13	nmod	_	_
+17	que	que	PRON	_	_	18	nsubj	_	_
+18	venían	venir	VERB	_	_	16	acl	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	visita	visita	NOUN	_	_	18	obl	_	_
+21	,	,	PUNCT	_	_	6	punct	_	_
+22	fue	ser	AUX	_	_	24	cop	_	_
+23	muy	mucho	ADV	_	_	24	advmod	_	_
+24	concurrida	concurrido	ADJ	_	_	6	advcl	_	_
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	estoy	estar	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+

@@ -1,0 +1,222 @@
+# Unnamed: 0 = 176
+# id = 127888
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = Vietnamese - 10 years
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo amo mi madre. Ella se llama *FIRST_NAME*. Mi madre es una persona simpatica. Ella tiene *AGE* anos y es vieja y inteligente. Mi mama le gusta comer comida japonese y se gusta bailar con mi padre. Ella es muy bonita, muy guapa, delgada, baja, extrovertida, y trabajadora. Todos las dias mi madre abraza mi hermanos y yo. Mi mama no le gusta correr, pero le gusta comer y beber con mi familia. Mi mama le gusta canta en Vietnamese y salir con su amigas. Ella tiene el pelo largo y moreno y tiene los ojos marron. Su nacionalidad es Vietnamese. Ella tiene tres hijos. Mi mama vive en *CITY* con mi abuela. Mi mama es un cocinera y vendordora. Todos las noches, mi madre nada en el gimnasio por una hora. Como resultado, el piel de mi mama es muy joven. Yo amo mi madre porque mi madre es muy fantastica.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	simpatica	simpatico	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	SYM	_	_	4	punct	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	vieja	viejo	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	inteligente	inteligente	ADJ	_	Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	comer	comer	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	japonese	japonese	ADJ	_	Number=Sing	6	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	bailar	bailar	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	padre	padre	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	guapa	guapo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	4	advmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	extrovertida	extrovertido	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	dias	dia	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	madre	madre	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	abraza	abrazar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	correr	correr	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	comer	comer	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	beber	beber	VERB	_	VerbForm=Inf	11	conj	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	familia	familia	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	canta	canta	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	Vietnamese	Vietnamese	PROPN	_	_	5	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	salir	salir	VERB	_	VerbForm=Inf	5	conj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	marron	marr	NOUN	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nacionalidad	nacionalidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Vietnamese	Vietnamese	PROPN	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	8	case	_	_
+5	*CITY*	*CITY*	PROPN	_	_	3	advmod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cocinera	cocinera	NOUN	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	vendordora	vendordora	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	noches	noche	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	nada	nadar	PRON	_	Number=Sing|PronType=Neg	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	hora	hora	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Como	como	SCONJ	_	_	2	mark	_	_
+2	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	piel	piel	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	joven	joven	ADJ	_	Number=Sing	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	porque	porque	SCONJ	_	_	10	mark	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	madre	madre	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	fantastica	fantastico	ADJ	_	Gender=Fem|Number=Sing	2	advcl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

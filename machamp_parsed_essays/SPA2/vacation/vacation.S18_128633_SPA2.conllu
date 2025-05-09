@@ -1,0 +1,361 @@
+# Unnamed: 0 = 149
+# id = 128633
+# prompt = vacation
+# quarter = S18
+# course = SPA 2
+# age = Male
+# gender = 20
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = Hola, me llamo *FIRST_NAME*, yo soy chino de *CITY*.  Me gusta jugar afuera con mis amigos o mis padres.  Cuando era pequeño, yo vivía en Shanghai, es muy ciudad muy grande y tiene una alta poblacion.  Cuando era pequeño, me gustaba jugar afuera, pero no me gustaba visitar otros lugares estan lejos de mi casa.  Un dia, mi mama me llevó de viaje a Beijing.  Beijing es tambian un ciudad muy grande perp mas antiguo que shanghai.  Ahora mi novia se llama *FIRST_NAME* vive en Beijing con su familia.  El viaje a Beijing es el mejor viaje.  Mi madre con yo comí las comidas muy dilisiosas y fue a un montón de lugares de interés.  He dicho que es el mejor viaje porque mi novia y su familia comieron para nos.  Me gusta comer pescado, arroz y pollo.  Su madre comío las comidas muy deliciosas, por ejempro, pecado con la berenjena y un poco sal pero no muy picante.  Otra comida es pollo y papas fritas.  La ciudad, beijing, es no lejo de mi casa.  Nos viajamos a bejing por avion por dos horas.  El clima en Beijing es no estable.  A veces llueve, normalmente hace calor durante el verano.  Siempre está nevando durante el invierno.  Pero, en shanghai nunca nevia.  Por lo tanto, me gusta nevia. El Hotel estas en beijing es muy bonito y moderno.  Es no muy caro.  La peor parte es que la ciudad tiene mucho tráfico.  Nos llevó casi dos horas para ir a la gran muralla de nuestro hotel.  Pero porque los lugares son tan buenos, realmente quiero ir allí de nuevo 
+# a personal annotator2 = nan
+# gender-number annotator1 = Hola, me llamo *FIRST_NAME*, yo soy chino de *CITY*.  Me gusta jugar afuera con mis amigos o mis padres.  Cuando era pequeño, yo vivía en Shanghai, es muy ciudad muy grande y tiene una alta poblacion.  Cuando era pequeño, me gustaba jugar afuera, pero no me gustaba visitar otros lugares estan lejos de mi casa.  Un dia, mi mama me llevó de viaje a Beijing.  Beijing es tambian [un]{una}<ga:fm:det:inan> ciudad muy grande perp mas [antiguo]{antigua}<ga:fm:adj:inan> que shanghai.  Ahora mi novia se llama *FIRST_NAME* vive en Beijing con su familia.  El viaje a Beijing es el mejor viaje.  Mi madre con yo comí las comidas muy dilisiosas y fue a un montón de lugares de interés.  He dicho que es el mejor viaje porque mi novia y su familia comieron para nos.  Me gusta comer pescado, arroz y pollo.  Su madre comío las comidas muy deliciosas, por ejempro, pecado con la berenjena y un poco sal pero no muy picante.  Otra comida es pollo y papas fritas.  La ciudad, beijing, es no lejo de mi casa.  Nos viajamos a bejing por avion por dos horas.  El clima en Beijing es no estable.  A veces llueve, normalmente hace calor durante el verano.  Siempre está nevando durante el invierno.  Pero, en shanghai nunca nevia.  Por lo tanto, me gusta nevia. El Hotel estas en beijing es muy bonito y moderno.  Es no muy caro.  La peor parte es que la ciudad tiene mucho tráfico.  Nos llevó casi dos horas para ir a la gran muralla de nuestro hotel.  Pero porque los lugares son tan buenos, realmente quiero ir allí de nuevo 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola, me llamo *FIRST_NAME*, yo soy chino de *CITY*. Me gusta jugar afuera con mis amigos o mis padres. Cuando era pequeño, yo vivía en Shanghai, es muy ciudad muy grande y tiene una alta poblacion. Cuando era pequeño, me gustaba jugar afuera, pero no me gustaba visitar otros lugares estan lejos de mi casa. Un dia, mi mama me llevó de viaje a Beijing. Beijing es tambian un ciudad muy grande perp mas antiguo que shanghai. Ahora mi novia se llama *FIRST_NAME* vive en Beijing con su familia. El viaje a Beijing es el mejor viaje. Mi madre con yo comí las comidas muy dilisiosas y fue a un montón de lugares de interés. He dicho que es el mejor viaje porque mi novia y su familia comieron para nos. Me gusta comer pescado, arroz y pollo. Su madre comío las comidas muy deliciosas, por ejempro, pecado con la berenjena y un poco sal pero no muy picante. Otra comida es pollo y papas fritas. La ciudad, beijing, es no lejo de mi casa. Nos viajamos a bejing por avion por dos horas. El clima en Beijing es no estable. A veces llueve, normalmente hace calor durante el verano. Siempre está nevando durante el invierno. Pero, en shanghai nunca nevia. Por lo tanto, me gusta nevia. El Hotel estas en beijing es muy bonito y moderno. Es no muy caro. La peor parte es que la ciudad tiene mucho tráfico. Nos llevó casi dos horas para ir a la gran muralla de nuestro hotel. Pero porque los lugares son tan buenos, realmente quiero ir allí de nuevo
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	4	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	chino	chino	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*CITY*	*city*	PUNCT	_	_	9	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jugar	jugar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	afuera	afuera	ADV	_	_	3	advmod	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	o	o	CCONJ	_	_	10	cc	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	padres	padre	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Shanghai	Shanghai	PROPN	_	_	6	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	6	advcl	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	grande	grande	ADJ	_	Number=Sing	12	amod	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	alta	alto	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
+19	poblacion	poblacion	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gustaba	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	jugar	jugar	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	afuera	afuera	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	gustaba	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+14	visitar	visitar	VERB	_	VerbForm=Inf	13	csubj	_	_
+15	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	_
+16	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+17	estan	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+18	lejos	lejos	ADV	_	_	17	advmod	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	casa	casa	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dia	dia	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mama	mama	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	Beijing	Beijing	PROPN	_	_	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Beijing	Beijing	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	tambian	tambian	NOUN	_	_	5	nsubj	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	grande	grande	ADJ	_	Number=Sing	5	amod	_	_
+8	perp	perp	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	mas	mas	ADV	_	_	10	advmod	_	_
+10	antiguo	antiguo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	shanghai	shanghai	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	novia	novia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	csubj	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+7	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Beijing	Beijing	PROPN	_	_	7	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Beijing	Beijing	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	8	amod	_	_
+8	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	comí	comer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	dilisiosas	dilisioso	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	a	a	ADP	_	_	16	case	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	montón	montón	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	interés	interés	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	He	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	dicho	decir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	que	que	SCONJ	_	_	7	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	7	amod	_	_
+7	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+8	porque	porque	SCONJ	_	_	14	mark	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	novia	novia	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	familia	familia	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+14	comieron	comir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+15	para	para	ADP	_	_	16	case	_	_
+16	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	pescado	pescado	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	comío	comíer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	deliciosas	delicioso	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	por	por	ADP	_	_	10	case	_	_
+10	ejempro	ejempro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	pecado	pecado	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	berenjena	berenjena	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+16	y	y	CCONJ	_	_	19	cc	_	_
+17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	advmod	_	_
+18	poco	poco	ADV	_	_	17	fixed	_	_
+19	sal	sal	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+20	pero	pero	CCONJ	_	_	23	cc	_	_
+21	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+22	muy	mucho	ADV	_	_	23	advmod	_	_
+23	picante	picante	ADJ	_	Number=Sing	19	conj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	papas	papa	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+7	fritas	frita	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	beijing	beijing	NOUN	_	_	2	appos	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	lejo	lejo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	viajamos	viajar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	bejing	bejing	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	avion	avion	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clima	clima	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Beijing	Beijing	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	estable	estable	ADJ	_	Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	A	a	ADP	_	_	3	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	llueve	llover	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	normalmente	normalmente	ADV	_	_	6	advmod	_	_
+6	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	calor	calor	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	durante	durante	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	verano	verano	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	nevando	nevar	VERB	_	VerbForm=Ger	0	root	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	shanghai	shanghai	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+5	nunca	nunca	ADV	_	_	6	advmod	_	_
+6	nevia	neviar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Por	por	ADP	_	_	6	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
+3	tanto	tanto	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	nevia	nevia	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Hotel	Hotel	PROPN	_	_	8	nsubj	_	_
+3	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	nmod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	beijing	beijing	NOUN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	moderno	moderno	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	caro	caro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	casi	casi	ADV	_	_	5	advmod	_	_
+4	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	ir	ir	VERB	_	VerbForm=Inf	2	advcl	_	_
+8	a	a	ADP	_	_	11	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	gran	gran	ADJ	_	Number=Sing	11	amod	_	_
+11	muralla	muralla	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	10	advmod	_	_
+2	porque	porque	SCONJ	_	_	7	mark	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	tan	tanto	ADV	_	_	7	advmod	_	_
+7	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	10	advcl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	realmente	realmente	ADV	_	_	10	advmod	_	_
+10	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	allí	allí	ADV	_	_	11	advmod	_	_
+13	de	de	ADP	_	_	11	advmod	_	_
+14	nuevo	nuevo	ADJ	_	_	13	fixed	_	_
+

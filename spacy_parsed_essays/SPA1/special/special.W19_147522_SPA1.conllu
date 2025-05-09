@@ -1,0 +1,222 @@
+# Unnamed: 0 = 25
+# id = 147522
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 20 
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = ASL- 3 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mamá se llama *FIRST_NAME*. [Ella]{}<pr:su:pron> es Japonesa y tiene *AGE* años. Su cumpleaños es el veintiuno de Septiembre. Mi mamá tiene el pelo negro largo y liso. [Ella]{}<pr:su:pron> tiene los ojos marrones. [Ella]{}<pr:su:pron> tiene la nariz pequeña. Mi mamá tiene las mejillas rojas. [Ella]{}<pr:su:pron> es guapa y delgada. [Ella]{}<pr:su:pron> trabaja en una oficina de dentista. Mi mamá le gustan los perros y las flores. [Ella]{}<pr:su:pron> le no gusta el chocolate y pastel. [Ella]{}<pr:su:pron> es simpática y confiable. [Ella]{}<pr:su:pron> es inteligente y valiente. Mi mamá vive en *CITY* con mi papá *FIRST_NAME* y dos hermanos *FIRST_NAME* y *FIRST_NAME*. Mi mamá tiene un perro se llama Trixie. [Ella]{}<pr:su:pron> le gusta acampar y viajar. [Ella]{}<pr:su:pron> ama a su familia y cuida de ellos. Amo a mi mamá. [Ella]{}<pr:su:pron> siempre me está ayudando. Mi mamá es agradable y tiene muchos amigos. [Ella]{}<pr:su:pron> es divertida y no aburrida. Mi mamá es mi mejor amiga.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá se llama *FIRST_NAME*. Es japonesa y tiene *AGE* años. Su cumpleaños es el veintiuno de septiembre. Mi mamá tiene el pelo negro largo y liso. Tiene los ojos marrones. Tiene la nariz pequeña. Mi mamá tiene las mejillas rojas. Es guapa y delgada. Trabaja en una oficina de dentista. A mi mamá le gustan los perros y las flores. A ella no le gusta el chocolate ni el pastel. Es simpática y confiable. Es inteligente y valiente. Mi mamá vive en *CITY* con mi papá *FIRST_NAME* y dos hermanos *FIRST_NAME* y *FIRST_NAME*. Mi mamá tiene un perro que se llama Trixie. A ella le gusta acampar y viajar. Ama a su familia y cuida de ellos. Amo a mi mamá. Siempre me está ayudando. Mi mamá es agradable y tiene muchos amigos. Es divertida y no aburrida. Mi mamá es mi mejor amiga.
+# corrected2 = nan
+# text = Mi mamá se llama *FIRST_NAME*. Ella es Japonesa y tiene *AGE* años. Su cumpleaños es el veintiuno de Septiembre. Mi mamá tiene el pelo negro largo y liso. Ella tiene los ojos marrones. Ella tiene la nariz pequeña. Mi mamá tiene las mejillas rojas. Ella es guapa y delgada. Ella trabaja en una oficina de dentista. Mi mamá le gustan los perros y las flores. Ella le no gusta el chocolate y pastel. Ella es simpática y confiable. Ella es inteligente y valiente. Mi mamá vive en *CITY* con mi papá *FIRST_NAME* y dos hermanos *FIRST_NAME* y *FIRST_NAME*. Mi mamá tiene un perro se llama Trixie. Ella le gusta acampar y viajar. Ella ama a su familia y cuida de ellos. Amo a mi mamá. Ella siempre me está ayudando. Mi mamá es agradable y tiene muchos amigos. Ella es divertida y no aburrida. Mi mamá es mi mejor amiga.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	Japonesa	Japonesa	PROPN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tiene	tener	VERB	_	_	3	conj	_	_
+6	*AGE*	AGE	PROPN	_	_	5	obj	_	_
+7	años	año	NOUN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	veintiuno	veintiuno	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Septiembre	Septiembre	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	pelo	pelo	NOUN	_	_	3	obj	_	_
+6	negro	negro	ADJ	_	_	5	amod	_	_
+7	largo	largo	ADJ	_	_	5	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	liso	liso	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	marrones	marrón	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	nariz	nariz	NOUN	_	_	2	obj	_	_
+5	pequeña	pequeño	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	mejillas	mejilla	NOUN	_	_	3	obj	_	_
+6	rojas	rojo	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	guapa	guapo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgada	delgado	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	oficina	oficina	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	dentista	dentista	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	perros	perro	NOUN	_	_	4	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	flores	flor	NOUN	_	_	6	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	le	él	PRON	_	_	4	obj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	chocolate	chocolate	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	pastel	pastel	NOUN	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	confiable	confiable	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	valiente	valiente	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	papá	papá	NOUN	_	_	3	obl	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	appos	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	dos	dos	NUM	_	_	12	nummod	_	_
+12	hermanos	hermano	NOUN	_	_	8	conj	_	_
+13	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	appos	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	13	conj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	perro	perro	NOUN	_	_	3	obj	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	llama	llamar	VERB	_	_	3	advcl	_	_
+8	Trixie	Trixie	PROPN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	acampar	acampar	VERB	_	_	3	xcomp	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	viajar	viajar	VERB	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	ama	amar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	familia	familia	NOUN	_	_	2	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cuida	cuir	VERB	_	_	2	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ellos	él	PRON	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	mamá	mamá	NOUN	_	_	1	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	siempre	siempre	ADV	_	_	5	advmod	_	_
+3	me	yo	PRON	_	_	5	iobj	_	_
+4	está	estar	AUX	_	_	5	aux	_	_
+5	ayudando	ayudar	VERB	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	agradable	agradable	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	_	4	conj	_	_
+7	muchos	mucho	DET	_	_	8	det	_	_
+8	amigos	amigo	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	divertida	divertir	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	aburrida	aburrido	ADJ	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	6	nsubj	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	mi	mi	DET	_	_	6	det	_	_
+5	mejor	mejor	ADJ	_	_	6	amod	_	_
+6	amiga	amiga	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+

@@ -1,0 +1,228 @@
+# Unnamed: 0 = 68
+# id = 200216
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = I have already answered.
+# language(s) used at home = Yes, Chinese.
+# language(s) studied = I studied English before learning Spanish. I studied for about 14 years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola. Soy [un]{una}<ga:det> estudiante internacional de *PLACE*. [Yo]{}<pr:su:pron> tengo *AGE* años. Hablo Chino y Inglés. Soy de *CITY*, una bonita y interesante ciudad al sudeste de *PLACE*. Soy activa y cómica. Sin embargo, no soy atlética. Mi especialidad es la psicología y mi menor es NPB. Me gusta []{la}<ab:det:art:def> psicología porque []{la}<ab:det:art:def> psicología es interesante. Puedo aprender cosas nuevas en el proceso de estudiar. Puedo observar el comportamiento de la gente y analizar su pensamiento. Aprendí mucho sobre el cerebro humano cuando estudié psicología. Hay muchas cosas increíbles que descubrir. Tomar cuatro clases este trimestre: [la]{}<pr:det:art:def> física, [el]{}<pr:det:art:def> español, [la]{}<pr:det:art:def> psicología social y [la]{}<pr:det:art:def> psicología del desarrollo. Mi clase favorita es la psicología social porque es interesante. No me gusta la física porque es aburrida y difícil. Me gusta leer novelas románticas en sus ratos libres porque []{las}<ab:det:art:def> novelas románticas es [fantástico]{fantásticas}<ga:na:adj>. Siempre salgo con mis amigos. Siempre estoy feliz cuando estoy con ellos. Ellos son muy cómicos.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola. Soy [un]{una}<ga:det> estudiante internacional de *PLACE*. [Yo]{}<pr:su:pron> tengo *AGE* años. Hablo Chino y Inglés. Soy de *CITY*, una bonita y interesante ciudad al sudeste de *PLACE*. Soy activa y cómica. Sin embargo, no soy atlética. Mi especialidad es la psicología y mi menor es NPB. Me gusta []{la}<ab:det:art:def> psicología porque []{la}<ab:det:art:def> psicología es interesante. Puedo aprender cosas nuevas en el proceso de estudiar. Puedo observar el comportamiento de la gente y analizar su pensamiento. Aprendí mucho sobre el cerebro humano cuando estudié psicología. Hay muchas cosas increíbles que descubrir. [Tomar]{Tomo}<fs:st:t> cuatro clases este trimestre: [la]{}<pr:det:art:def> física, [el]{}<pr:det:art:def> español, [la]{}<pr:det:art:def> psicología social y [la]{}<pr:det:art:def> psicología del desarrollo. Mi clase favorita es [la]{}<pr:det:art:def> psicología social porque es interesante. No me gusta la física porque es aburrida y difícil. Me gusta leer novelas románticas en sus ratos libres porque []{las}<ab:det:art:def> novelas románticas [es]{son}<fs:st:pn> [fantástico]{fantásticas}<ga:na:adj>. Siempre salgo con mis amigos. Siempre estoy feliz cuando estoy con ellos. [Ellos]{}<pr:su:pron> son muy cómicos.
+# verbs annotation ann2 = nan
+# corrected1 = Hola. Soy una estudiante internacional de *PLACE*. Tengo *AGE* años. Hablo chino e inglés. Soy de *CITY*, una bonita e interesante ciudad al sudeste de *PLACE*. Soy activa y cómica. Sin embargo, no soy atlética. Mi área de estudio es la Psicología y mi especialidad es en NPB. Me gusta la Psicología porque es interesante. Puedo aprender cosas nuevas en el proceso de estudiar. Puedo observar el comportamiento de la gente y analizar su pensamiento. Aprendí mucho sobre el cerebro humano cuando estudié Psicología. Hay muchas cosas increíbles que descubrir. Tomo cuatro clases este trimestre: Física, Español, Psicología Social y Psicología del Desarrollo. Mi clase favorita es la de Psicología Social porque es interesante. No me gusta la de Física porque es aburrida y difícil. Me gusta leer novelas románticas en mis ratos libres porque las novelas románticas son fantásticas Siempre salgo con mis amigos. Siempre estoy feliz cuando estoy con ellos. Ellos son muy cómicos.
+# corrected2 = nan
+# text = Hola. Soy un estudiante internacional de *PLACE*. Yo tengo *AGE* años. Hablo Chino y Inglés. Soy de *CITY*, una bonita y interesante ciudad al sudeste de *PLACE*. Soy activa y cómica. Sin embargo, no soy atlética. Mi especialidad es la psicología y mi menor es NPB. Me gusta psicología porque psicología es interesante. Puedo aprender cosas nuevas en el proceso de estudiar. Puedo observar el comportamiento de la gente y analizar su pensamiento. Aprendí mucho sobre el cerebro humano cuando estudié psicología. Hay muchas cosas increíbles que descubrir. Tomar cuatro clases este trimestre: la física, el español, la psicología social y la psicología del desarrollo. Mi clase favorita es la psicología social porque es interesante. No me gusta la física porque es aburrida y difícil. Me gusta leer novelas románticas en sus ratos libres porque novelas románticas es fantástico. Siempre salgo con mis amigos. Siempre estoy feliz cuando estoy con ellos. Ellos son muy cómicos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	internacional	internacional	ADJ	_	Number=Sing	3	amod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*PLACE*	*place*	PUNCT	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Chino	Chino	PROPN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	Inglés	Inglés	PROPN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+6	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	interesante	interesante	ADJ	_	Number=Sing	6	conj	_	_
+9	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	sudeste	sudeste	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*PLACE*	*place*	PROPN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	activa	activo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	atlética	atlético	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	10	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	NPB	NPB	PROPN	_	_	5	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	interesante	interesante	ADJ	_	Number=Sing	2	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aprender	aprender	VERB	_	VerbForm=Inf	0	root	_	_
+3	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	proceso	proceso	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	estudiar	estudiar	VERB	_	VerbForm=Inf	7	acl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	observar	observar	VERB	_	VerbForm=Inf	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	comportamiento	comportamiento	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	analizar	analizar	VERB	_	VerbForm=Inf	2	conj	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	pensamiento	pensamiento	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	sobre	sobre	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cerebro	cerebro	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	humano	humano	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	estudié	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+9	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	increíbles	increíble	ADJ	_	Number=Plur	3	amod	_	_
+5	que	que	PRON	_	PronType=Rel	6	obj	_	_
+6	descubrir	descubrir	VERB	_	VerbForm=Inf	3	acl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tomar	tomar	VERB	_	VerbForm=Inf	0	root	_	_
+2	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	:	:	PUNCT	_	PunctType=Colo	8	punct	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	física	física	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	español	español	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	8	appos	_	_
+15	social	social	ADJ	_	Number=Sing	14	amod	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+19	del	de	ADP	_	_	20	case	_	_
+20	desarrollo	desarrollo	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	social	social	ADJ	_	Number=Sing	6	amod	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	interesante	interesante	ADJ	_	Number=Sing	6	advcl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	física	física	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	aburrida	aburrido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	difícil	difícil	ADJ	_	Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	novelas	novela	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	románticas	romántico	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	ratos	rato	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	libres	libre	ADJ	_	Number=Plur	8	amod	_	_
+10	porque	porque	SCONJ	_	_	14	mark	_	_
+11	novelas	novela	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+12	románticas	romántico	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	fantástico	fantástico	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	salgo	saler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+4	cuando	cuando	SCONJ	_	_	7	mark	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	cómicos	cómico	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

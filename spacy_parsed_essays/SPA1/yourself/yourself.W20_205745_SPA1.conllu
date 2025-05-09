@@ -1,0 +1,221 @@
+# Unnamed: 0 = 160
+# id = 205745
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nO
+# language(s) studied = I studied Spanish in High School
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola, me llamo *FIRST_NAME*! Soy estudiante en []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY* estudiar Communication y Design. [Yo]{}<pr:su:pron> soy estudiante de segundo [anos]{año}<ga:noun> y me gusta agui. Soy de *CITY* *CITY* *STATE* y [Yo]{}<pr:su:pron> tengo [una]{un}<ga:deet> hermono y una hermana. Me gusta leer, bailar, cocinar, escuchar musica, ir al gimnasio, monta mi bicicleta y salir con mis amigos! Mis amigos estas es muy divertidos y gusta ver peliculas. Me encanta ver peliculas y gusta viendo peliculas con hermana! Me encanta hermana mucho y gusta that she goes to []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY* Durante el verano, [Yo]{}<pr:su:pron> voy Guam, Okinwawa, Japan o Germany y trabajo con ninos! [Yo]{}<pr:su:pron> muy interesante y emocianado por ir! Durante el fin de semana, Yo gusta ir compras por comida, bebir y [los]{}<pr:det:art:def> ropas! Pero, only clothes that are on sale. Me encanta []{los}<ab:det:art:def> corgis y [Yo]{}<pr:su:pron> deseo [Yo]{}<pr:su:pron> tengo una. [Yo]{}<pr:su:pron> esta feliz I am taking Spanish this quarter instead of the next one.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola, me llamo *FIRST_NAME*! Soy estudiante en *UNIVERSITY* *UNIVERSITY* [estudiar]{estudio}<fs:st:pn> Communication y Design. [Yo]{}<pr:su:pron> soy estudiante de segundo [anos]{año}<na:noun> y me gusta agui. Soy de *CITY* *CITY* *STATE* y [Yo]{}<pr:su:pron> tengo [una]{un}<ga:det> hermono y una hermana. Me gusta leer, bailar, cocinar, escuchar musica, ir al gimnasio, [monta]{montar}<fs:st:r> mi bicicleta y salir con mis amigos! Mis amigos [estas]{son}<conf:v:seta> [estas]{son}<fs:st:pn> es muy divertidos y gusta ver peliculas. Me encanta ver peliculas y gusta [viendo]{ver}<fs:st:t> peliculas con hermana! Me encanta hermana mucho y gusta that she goes to *UNIVERSITY* *UNIVERSITY* Durante el verano, [Yo]{}<pr:su:pron> voy Guam, Okinwawa, Japan o Germany y trabajo con ninos! [Yo]{}<pr:su:pron> muy interesante y [emocianado]{emocionada}<ga:adj> por ir! Durante el fin de semana, [Yo]{}<pr:su:pron> gusta ir compras por comida, bebir y [los]{}<ga:in:det> [ropas]{ropa}<in:noun>! Pero, only clothes that are on sale. Me encanta corgis y [Yo]{}<pr:su:pron> deseo [yo]{}<pr:su:pron> [tengo]{tener}<fs:st:t> una. [Yo]{}<pr:su:pron> [esta]{estoy}<fs:st:pn> feliz I am taking Spanish this quarter instead of the next one.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola, me llamo *FIRST_NAME*! Soy estudiante en la *UNIVERSITY* *UNIVERSITY* y estudio Comunicación y Diseño. Soy estudiante de segundo año y me gusta este lugar. Soy de *CITY* Ángeles, *STATE*, y tengo un hermano y una hermana. Me gusta leer, bailar, cocinar, escuchar música, ir al gimnasio, montar en bicicleta y salir con mis amigos. Mis amigos son muy divertidos y les gusta ver películas. Me encanta ver películas y me gusta ver películas con hermana. Me encanta mi hermana y me gustaría que fuese a la *UNIVERSITY* Davis well. Durante el verano, fui a Guam, Okinwawa, Japan o Germany y trabajé con niños. Estoy muy interesada y emocionada por ir. Durante el fin de semana, Me gusta ir de compras por comida, bebida y ropas! Pero solo ropa que esté de rebajas. Me encantan los corgis y deseo tener una. Estoy feliz de tomar español este cuatrimestre en lugar de en el siguiente.
+# corrected2 = nan
+# text = Hola, me llamo *FIRST_NAME*! Soy estudiante en *UNIVERSITY* *UNIVERSITY* estudiar Communication y Design. Yo soy estudiante de segundo anos y me gusta agui. Soy de *CITY* *CITY* *STATE* y Yo tengo una hermono y una hermana. Me gusta leer, bailar, cocinar, escuchar musica, ir al gimnasio, monta mi bicicleta y salir con mis amigos! Mis amigos estas es muy divertidos y gusta ver peliculas. Me encanta ver peliculas y gusta viendo peliculas con hermana! Me encanta hermana mucho y gusta that she goes to *UNIVERSITY* *UNIVERSITY* as well. Durante el verano, Yo voy Guam, Okinwawa, Japan o Germany y trabajo con ninos! Yo muy interesante y emocianado por ir! Durante el fin de semana, Yo gusta ir compras por comida, bebir y los ropas! Pero, only clothes that are on sale. Me encanta corgis y Yo deseo yo tengo una. Yo esta feliz I am taking Spanish this quarter instead of the next one.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	llamo	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	advmod	_	_
+6	!	!	PUNCT	_	_	4	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	2	obl	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+6	estudiar	estudiar	VERB	_	_	2	csubj	_	_
+7	Communication	Communication	PROPN	_	_	6	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	Design	Design	PROPN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	estudiante	estudiante	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	segundo	segundo	ADJ	_	_	6	amod	_	_
+6	anos	ano	NOUN	_	_	3	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	gusta	gustar	VERB	_	_	3	conj	_	_
+10	agui	agui	PROPN	_	_	9	nsubj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	*STATE*	STATE	PROPN	_	_	3	flat	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	Yo	yo	PRON	_	_	8	nsubj	_	_
+8	tengo	tener	VERB	_	_	1	conj	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	hermono	hermono	NOUN	_	_	8	obj	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	hermana	hermana	NOUN	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	leer	leer	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	bailar	bailar	VERB	_	_	3	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	cocinar	cocinar	VERB	_	_	2	csubj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	escuchar	escuchar	VERB	_	_	7	advcl	_	_
+10	musica	musico	ADJ	_	_	9	obj	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	ir	ir	VERB	_	_	2	csubj	_	_
+13	al	al	ADP	_	_	14	case	_	_
+14	gimnasio	gimnasio	NOUN	_	_	12	obl	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	monta	montar	VERB	_	_	2	csubj	_	_
+17	mi	mi	DET	_	_	18	det	_	_
+18	bicicleta	bicicleta	NOUN	_	_	16	obj	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	salir	salir	VERB	_	_	16	conj	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	mis	mi	DET	_	_	23	det	_	_
+23	amigos	amigo	NOUN	_	_	20	obl	_	_
+24	!	!	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	amigos	amigo	NOUN	_	_	6	nsubj	_	_
+3	estas	este	PRON	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	divertidos	divertido	ADJ	_	_	0	ROOT	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	gusta	gustar	VERB	_	_	6	conj	_	_
+9	ver	ver	VERB	_	_	8	csubj	_	_
+10	peliculas	pelicula	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	gusta	gustar	VERB	_	_	3	conj	_	_
+7	viendo	ver	VERB	_	_	2	csubj	_	_
+8	peliculas	pelicula	NOUN	_	_	7	obj	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	hermana	hermana	NOUN	_	_	7	obl	_	_
+11	!	!	PUNCT	_	_	2	punct	_	_
+12	Me	yo	PRON	_	_	13	iobj	_	_
+13	encanta	encantar	VERB	_	_	2	csubj	_	_
+14	hermana	hermana	NOUN	_	_	13	obj	_	_
+15	mucho	mucho	ADV	_	_	14	amod	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	gusta	gustar	VERB	_	_	14	conj	_	_
+18	that	that	PROPN	_	_	17	obj	_	_
+19	she	she	PROPN	_	_	18	flat	_	_
+20	goes	goes	PROPN	_	_	18	flat	_	_
+21	to	to	PROPN	_	_	18	appos	_	_
+22	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	21	flat	_	_
+23	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	21	flat	_	_
+24	as	as	PROPN	_	_	21	flat	_	_
+25	well	well	PROPN	_	_	21	flat	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	verano	verano	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Yo	yo	PRON	_	_	6	nsubj	_	_
+6	voy	ir	VERB	_	_	0	ROOT	_	_
+7	Guam	Guam	PROPN	_	_	6	nsubj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Okinwawa	Okinwawa	PROPN	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Japan	Japan	PROPN	_	_	7	conj	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	Germany	Germany	PROPN	_	_	7	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	trabajo	trabajo	NOUN	_	_	7	conj	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	ninos	nino	NOUN	_	_	15	nmod	_	_
+18	!	!	PUNCT	_	_	6	punct	_	_
+
+1	Yo	yo	PRON	_	_	0	ROOT	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	interesante	interesante	ADJ	_	_	1	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	emocianado	emocianado	ADJ	_	_	3	conj	_	_
+6	por	por	ADP	_	_	7	mark	_	_
+7	ir	ir	VERB	_	_	5	xcomp	_	_
+8	!	!	PUNCT	_	_	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	fin	fin	NOUN	_	_	8	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	Yo	yo	PRON	_	_	8	nsubj	_	_
+8	gusta	gustar	VERB	_	_	0	ROOT	_	_
+9	ir	ir	VERB	_	_	8	xcomp	_	_
+10	compras	compra	NOUN	_	_	9	obj	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	comida	comida	NOUN	_	_	10	nmod	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	bebir	bebir	VERB	_	_	8	advcl	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	los	el	DET	_	_	17	det	_	_
+17	ropas	ropa	NOUN	_	_	14	conj	_	_
+18	!	!	PUNCT	_	_	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	only	only	VERB	_	_	0	ROOT	_	_
+4	clothes	cloth	NOUN	_	_	3	obj	_	_
+5	that	that	PROPN	_	_	4	flat	_	_
+6	are	are	PROPN	_	_	4	appos	_	_
+7	on	on	PROPN	_	_	4	appos	_	_
+8	sale	salir	VERB	_	_	3	advmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	corgis	corgis	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	Yo	yo	PRON	_	_	6	nsubj	_	_
+6	deseo	desear	VERB	_	_	2	conj	_	_
+7	yo	yo	PRON	_	_	8	nsubj	_	_
+8	tengo	tener	VERB	_	_	2	csubj	_	_
+9	una	uno	DET	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	9	nsubj	_	_
+2	esta	este	DET	_	_	4	det	_	_
+3	feliz	feliz	ADJ	_	_	4	amod	_	_
+4	I	I	PROPN	_	_	9	nsubj	_	_
+5	am	am	ADV	_	_	6	advmod	_	_
+6	taking	taking	NOUN	_	_	4	flat	_	_
+7	Spanish	Spanish	PROPN	_	_	4	appos	_	_
+8	this	this	VERB	_	_	4	flat	_	_
+9	quarter	quarter	VERB	_	_	0	ROOT	_	_
+10	instead	instead	ADJ	_	_	9	obj	_	_
+11	of	of	PROPN	_	_	9	obj	_	_
+12	the	the	PROPN	_	_	11	flat	_	_
+13	next	next	PROPN	_	_	11	flat	_	_
+14	one	onir	VERB	_	_	9	advcl	_	_
+15	.	.	PUNCT	_	_	9	punct	_	_
+

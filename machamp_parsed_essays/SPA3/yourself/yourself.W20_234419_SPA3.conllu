@@ -1,0 +1,158 @@
+# Unnamed: 0 = 136
+# id = 234419
+# prompt = yourself
+# quarter = W20
+# course = SPA 3
+# age = 18
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = French 2 years
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis [examen]{exámenes}<na:noun> que van a pasar [este]{esta}<ga:adj> semana. Si me gusta []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la [mayoridades]{mayoría}<na:noun> de mis clases tienen casi [dos cientos]{doscientas}<ga:adj> personas que también quieren hacer [todo]{todas}<ga:na:adj> sus tareas y exámenes [perfecto]{perfectos}<na:adj>. [Yo]{}<pr:su:pron> no siento que es fácil tener []{unos}<ab:det:art:indef> grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, quiere graduar (Sorry if this turns out a bit late)
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis [examen]{exámenes}<na:noun> que van a pasar [este]{esta}<ga:det> semana. Si me gusta *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la mayoridades de mis clases tienen casi [dos cientos]{doscientas}<ga:adj> personas que también quieren hacer [todo]{todas}<ga:na:det> sus tareas y exámenes [perfecto]{perfectos}<na:adj>. [Yo]{}<pr:su:pron> no siento que [es]{sea}<fs:st:mo> fácil tener grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, [quiere]{quiero}<fs:st:pn> graduar (Sorry if this turns out a bit late)
+# verbs annotation ann2 = nan
+# corrected1 = Tengo muchas cosas que hacer hoy. Tengo que hacer la tarea de la clase de Español, la tarea de Matemáticas y también necesito estudiar para mis exámenes, que son esta semana. Me gusta la *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil sacar muy buenas notas aquí porque en la mayoría de mis clases hay casi doscientas personas que también quieren hacer todas sus tareas y exámenes perfectos. No creo que sea fácil sacar unas notas buenísimas y, aunque estudio muchas horas cada día, me resulta difícil. Pero, de todos modos, aquí estoy y aquí me voy a quedar porque quiero graduarme (Sorry if this turns out a bit late). 
+# corrected2 = nan
+# text = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis examen que van a pasar este semana. Si me gusta *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la mayoridades de mis clases tienen casi dos cientos personas que también quieren hacer todo sus tareas y exámenes perfecto. Yo no siento que es fácil tener grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, quiere graduar (Sorry if this turns out a bit late)
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+6	hoy	hoy	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	español	español	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	mí	yo	DET	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	det	_	_
+11	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	math	math	NOUN	_	Gender=Masc	11	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	también	también	ADV	_	_	17	advmod	_	_
+17	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+18	a	a	ADP	_	_	19	mark	_	_
+19	estudiar	estudiar	VERB	_	VerbForm=Inf	17	xcomp	_	_
+20	para	para	ADP	_	_	22	case	_	_
+21	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
+22	examen	examen	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+23	que	que	PRON	_	PronType=Rel	24	nsubj	_	_
+24	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	_
+25	a	a	ADP	_	_	26	mark	_	_
+26	pasar	pasar	VERB	_	VerbForm=Inf	24	xcomp	_	_
+27	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
+28	semana	semana	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	_
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Si	si	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*UNIVERSITY*	*university*	PROPN	_	_	27	compound	_	_
+5	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	cierto	cierto	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	difícil	difícil	ADJ	_	Number=Sing	9	csubj	_	_
+14	tener	tener	VERB	_	VerbForm=Inf	13	csubj	_	_
+15	grados	grado	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	_
+18	aquí	aquí	ADV	_	_	14	advmod	_	_
+19	porque	porque	SCONJ	_	_	25	mark	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	mayoridades	mayoridad	NOUN	_	Gender=Fem|Number=Plur	25	nsubj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	clases	clase	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	_
+25	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+26	casi	casi	ADV	_	_	29	advmod	_	_
+27	dos	dos	NUM	_	NumForm=Word|NumType=Card	29	nummod	_	_
+28	cientos	cientos	NUM	_	NumForm=Word|NumType=Card	27	compound	_	_
+29	personas	persona	NOUN	_	Gender=Fem|Number=Plur	25	obj	_	_
+30	que	que	PRON	_	PronType=Rel	32	nsubj	_	_
+31	también	también	ADV	_	_	32	advmod	_	_
+32	quieren	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl	_	_
+33	hacer	hacer	VERB	_	VerbForm=Inf	32	xcomp	_	_
+34	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	35	det	_	_
+35	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
+36	tareas	tarea	NOUN	_	Gender=Fem|Number=Plur	33	obj	_	_
+37	y	y	CCONJ	_	_	38	cc	_	_
+38	exámenes	eximen	NOUN	_	Gender=Masc|Number=Plur	36	conj	_	_
+39	perfecto	perfecto	ADJ	_	Gender=Masc|Number=Sing	38	amod	_	_
+40	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	fácil	fácil	ADJ	_	Number=Sing	3	ccomp	_	_
+7	tener	tener	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	grados	grado	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	perfectos	perfecto	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+11	y	y	CCONJ	_	_	23	cc	_	_
+12	aunque	aunque	SCONJ	_	_	13	mark	_	_
+13	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	16	det	_	_
+16	horas	hora	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	_
+17	cada	cada	DET	_	Number=Sing|PronType=Tot	18	det	_	_
+18	día	día	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+19	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+20	todavía	todavía	ADV	_	_	23	advmod	_	_
+21	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	lucha	lucha	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	6	advmod	_	_
+3	todos	todos	NOUN	_	_	2	fixed	_	_
+4	modos	modos	NOUN	_	_	2	fixed	_	_
+5	aquí	aquí	ADV	_	_	6	advmod	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	aquí	aquí	ADV	_	_	10	advmod	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	quedar	quedar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+14	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+15	graduar	graduar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	17	punct	_	_
+17	Sorry	sorry	PROPN	_	_	14	dep	_	_
+18	if	if	SCONJ	_	_	17	mark	_	_
+19	this	thie	PRON	_	_	20	nsubj	_	_
+20	turns	turn	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	flat	_	_
+21	out	out	NOUN	_	_	20	compound	_	_
+22	a	a	ADP	_	_	20	advmod	_	_
+23	bit	bit	NOUN	_	_	22	fixed	_	_
+24	late	late	ADJ	_	_	23	amod	_	_
+25	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	17	punct	_	_
+

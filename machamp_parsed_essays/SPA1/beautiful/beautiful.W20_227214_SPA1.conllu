@@ -1,0 +1,206 @@
+# Unnamed: 0 = 198
+# id = 227214
+# prompt = beautiful
+# quarter = W20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French- 3 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  Yo compraré limonada y fruta. Hay [muchas]{muchos}<ga:det> perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye en el viento. El mono de *FIRST_NAME* combinada con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  [Yo]{}<pr:su:pron> compraré limonada y fruta. Hay [muchas]{muchos}<ga:det> perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello [fluye]{fluirá}<fs:st:t> en el viento. El mono de *FIRST_NAME* [combinada]{combinado}<ga:adj> con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# verbs annotation ann2 = nan
+# corrected1 = Hola, me llamo *FIRST_NAME*. Hoy temprano subí a un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo llegamos a cimas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  Yo compraré limonada y fruta. Hay muchos perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta alta horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye por el viento. El mono de Diego combina con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso día que acaba de suceder.
+# corrected2 = nan
+# text = Hola yo me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas. Yo compraré limonada y fruta. Hay muchas perros y niños. Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye en el viento. El mono de *FIRST_NAME* combinada con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	ADV	_	_	4	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	3	advmod	_	_
+2	temprano	temprano	ADV	_	_	1	fixed	_	_
+3	subí	subir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	gran	gran	ADJ	_	Number=Sing	6	amod	_	_
+6	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	ramas	rama	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	grandes	grande	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	hicimos	hicar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+11	climas	clima	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	altas	alto	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	desde	desde	ADP	_	_	7	case	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
+7	alto	alto	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	estamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	cosechas	cosecha	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	compraré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	limonada	limonada	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	fruta	fruta	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	perros	perro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	niños	niño	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+2	tarde	tarde	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	reuniré	reunir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	con	con	ADP	_	_	8	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+9	para	para	ADP	_	_	10	mark	_	_
+10	cantar	cantar	VERB	_	VerbForm=Inf	4	advcl	_	_
+11	karaoke	karaoke	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	hasta	hasta	ADP	_	_	14	case	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	tardes	tarde	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+15	horas	horas	NOUN	_	Gender=Fem|Number=Plur	14	amod	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	noche	noche	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	sentaremos	sentar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	césped	césped	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	miraremos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	3	conj	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	estrellas	estrella	NOUN	_	Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cabello	cabello	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fluye	fluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	viento	viento	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mono	mono	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nmod	_	_
+5	combinada	combinado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	vibraciones	vibración	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	día	día	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	I	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	will	wolr	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	later	later	ADV	_	_	4	advmod	_	_
+4	ride	ride	VERB	_	VerbForm=Inf	0	root	_	_
+5	a	o	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	horse	horse	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	into	into	ADP	_	_	9	case	_	_
+8	the	the	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sunset	sunset	NOUN	_	AdvType=Tim	4	obl	_	_
+10	with	with	ADP	_	_	12	case	_	_
+11	blue	blue	ADJ	_	Number=Sing	12	amod	_	_
+12	hair	hair	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	we	we	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	will	wilr	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	watch	watch	VERB	_	VerbForm=Inf	0	root	_	_
+4	the	eth	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sunset	sunset	NOUN	_	AdvType=Tim	3	obj	_	_
+6	together	together	ADV	_	_	3	advmod	_	_
+7	as	as	SCONJ	_	_	9	mark	_	_
+8	we	we	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obl	_	_
+9	smoke	smokir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	a	o	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	cigarette	cigarette	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	together	together	ADV	_	_	9	advmod	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	listen	listen	VERB	_	VerbForm=Inf	9	conj	_	_
+15	mellow	mellow	ADJ	_	Gender=Masc|Number=Sing	14	advmod	_	_
+16	fellow	fellow	NOUN	_	Number=Sing	14	nsubj	_	_
+17	in	in	ADP	_	_	19	case	_	_
+18	the	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	grass	grass	NOUN	_	Gender=Masc	14	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Regresaré	regresar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	fresca	fresco	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	sentaré	sentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cama	cama	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	pensaré	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	10	conj	_	_
+16	en	en	ADP	_	_	19	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	_
+19	dí	dí	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+20	a	a	ADP	_	_	22	mark	_	_
+21	que	que	SCONJ	_	_	22	mark	_	_
+22	acaba	acabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+23	de	de	ADP	_	_	24	mark	_	_
+24	suceder	suceder	VERB	_	VerbForm=Inf	22	xcomp	_	_
+25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

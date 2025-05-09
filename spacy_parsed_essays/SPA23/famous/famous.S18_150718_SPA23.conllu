@@ -1,0 +1,135 @@
+# Unnamed: 0 = 249
+# id = 150718
+# prompt = famous
+# quarter = S18
+# course = SPA 23
+# age = Female
+# gender = 20
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Shakira es una cantante Colombiana. Ella nació en Barranquilla, Colombia. Ella se ha volvido una cantante muy famosa. Ella es muy talentosa e intelligente. Actualmente, está participando en el programs, the Voice. Ella ahora tiene dos hijos con el fútbolista Pique. Él es de Madrid, España. Ella es mi favorita cantante porque es muy humilde y bella. Cuando fui niña, obtuve su disco llamado Oral Fixation. Este disco fue de sus más famosos. Ella baila muy bien con sus caderas!
+# a personal annotator2 = nan
+# gender-number annotator1 = Shakira es una cantante Colombiana. Ella nació en Barranquilla, Colombia. Ella se ha volvido una cantante muy famosa. Ella es muy talentosa e intelligente. Actualmente, está participando en el programs, the Voice. Ella ahora tiene dos hijos con el fútbolista Pique. Él es de Madrid, España. Ella es mi favorita cantante porque es muy humilde y bella. Cuando fui niña, obtuve su disco llamado Oral Fixation. Este disco fue de sus más famosos. Ella baila muy bien con sus caderas!
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Shakira es una cantante Colombiana. Ella nació en Barranquilla, Colombia. Ella se ha volvido una cantante muy famosa. Ella es muy talentosa e intelligente. Actualmente, está participando en el programs, the Voice. Ella ahora tiene dos hijos con el fútbolista Pique. Él es de Madrid, España. Ella es mi favorita cantante porque es muy humilde y bella. Cuando fui niña, obtuve su disco llamado Oral Fixation. Este disco fue de sus más famosos. Ella baila muy bien con sus caderas!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Shakira	Shakira	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	cantante	cantante	NOUN	_	_	0	ROOT	_	_
+5	Colombiana	Colombiana	PROPN	_	_	4	appos	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	nació	nacer	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Barranquilla	Barranquilla	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Colombia	Colombia	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	se	él	PRON	_	_	4	expl:pv	_	_
+3	ha	haber	AUX	_	_	4	aux	_	_
+4	volvido	volver	VERB	_	_	0	ROOT	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	cantante	cantante	NOUN	_	_	4	obj	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	famosa	famoso	ADJ	_	_	6	amod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	talentosa	talentós	ADJ	_	_	0	ROOT	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	intelligente	intelligente	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Actualmente	actualmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	está	estar	AUX	_	_	4	aux	_	_
+4	participando	participar	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	programs	programs	NOUN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	the	the	PROPN	_	_	4	obl	_	_
+10	Voice	Voice	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	ahora	ahora	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	dos	dos	NUM	_	_	5	nummod	_	_
+5	hijos	hijo	NOUN	_	_	3	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	fútbolista	fútbolista	NOUN	_	_	3	obl	_	_
+9	Pique	Pique	PROPN	_	_	8	appos	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Madrid	Madrid	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	España	España	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	favorita	favorita	NOUN	_	_	0	ROOT	_	_
+5	cantante	cantante	ADJ	_	_	4	amod	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	humilde	humilde	ADJ	_	_	4	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	bella	bello	ADJ	_	_	9	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	fui	ir	VERB	_	_	3	cop	_	_
+3	niña	niña	NOUN	_	_	5	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	obtuve	obtener	VERB	_	_	0	ROOT	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	disco	disco	NOUN	_	_	5	obj	_	_
+8	llamado	llamado	ADJ	_	_	7	amod	_	_
+9	Oral	Oral	PROPN	_	_	8	obj	_	_
+10	Fixation	Fixation	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	disco	disco	NOUN	_	_	7	nsubj	_	_
+3	fue	ser	AUX	_	_	7	cop	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	sus	su	DET	_	_	7	det	_	_
+6	más	más	ADV	_	_	7	advmod	_	_
+7	famosos	famoso	ADJ	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	baila	bailar	VERB	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bien	bien	ADV	_	_	2	advmod	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	sus	su	DET	_	_	7	det	_	_
+7	caderas	cadera	NOUN	_	_	2	obl	_	_
+8	!	!	PUNCT	_	_	2	punct	_	_
+

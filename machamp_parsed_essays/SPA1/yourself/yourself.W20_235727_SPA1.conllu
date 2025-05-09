@@ -1,0 +1,227 @@
+# Unnamed: 0 = 175
+# id = 235727
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = N/a
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad es [la]{}<pr:det:art:def><in:det> [ciencia]{Ciencias}<in:noun> [política]{políticas}<in:adj>. Mi clase favorita es [el]{}<pr:det:art:def> derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son []{los}<ab:det:art:def> burritos, []{las}<ab:det:art:def> hamburguesas vegetarianas y []{las}<ab:det:art:def> papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en [la]{}<pr:det:art:def> clase de español también se llama *FIRST_NAME*. Mis otros amigos están en [mi]{mis}<in:adj> [clase]{clases}<in:noun> de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad [es]{son}<fs:st:pn> [la]{las}<in:det> [ciencia]{ciencias}<in:noun> [política]{políticas}<in:adj>. Mi clase favorita es [el]{}<pr:det:art:def> derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son []{los}<ab:det:art:def> burritos, []{las}<ab:det:art:def> hamburguesas vegetarianas y []{las}<ab:det:art:def> papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en la clase de español también se llama *FIRST_NAME*. Mis otros amigos están en mi clase de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# verbs annotation ann2 = nan
+# corrected1 = Mi nombre es *(name)*. Tengo veintiún años. Soy de *STATE*. Soy cómico, sedentario y tranquilo. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* *CITY*. Tengo frío en *CITY*. Mi especialización es en Ciencias políticas. Mi clase favorita es Derecho constitucional. Me gustan la política, la comedia y la Coca-Cola sin azúcar. Mis comidas favoritas son los burritos, las hamburguesas vegetarianas y las papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y cojo el autobús. Voy a clase de Español. Mi amigo en clase de Español también se llama *FIRST_NAME*. Mis otros amigos están en mis clases de Ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia. 
+# corrected2 = nan
+# text = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad es la ciencia política. Mi clase favorita es el derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son burritos, hamburguesas vegetarianas y papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en la clase de español también se llama *FIRST_NAME*. Mis otros amigos están en mi clase de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	_
+5	name	name	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*STATE*	*state*	PUNCT	_	_	1	nmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	sedentario	sedentario	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	relajado	relajado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	cansado	cansado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	nervioso	nervioso	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Universidad	Universidad	PROPN	_	_	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	*city*	PUNCT	_	_	4	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	frío	frío	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	1	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	política	política	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	derecho	derecho	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	constitucional	constitucional	ADJ	_	Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	política	política	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	comedia	comedia	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	coca	coca	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	cola	cola	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+12	sin	sin	ADP	_	_	13	case	_	_
+13	azúcar	azúcar	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	burritos	burrito	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	hamburguesas	hamburguesa	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+8	vegetarianas	vegetariano	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	papas	papa	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+11	fritas	frita	ADJ	_	Number=Plur	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	queremos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	trabajar	trabajar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	como	como	SCONJ	_	_	8	mark	_	_
+8	abogados	abogado	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	terminar	terminar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	noches	noche	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+8	a	a	ADP	_	_	7	case	_	_
+9	medianoche	medianoche	NOUN	_	Gender=Fem|Number=Sing	8	fixed	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	acuesto	acuestar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	1	1	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	levanto	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	10	10	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	ducho	duchar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	desayuno	desayunar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	uso	usar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	autobús	autobús	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	español	español	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	también	también	ADV	_	_	10	advmod	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	1	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	clase	clase	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
+10	políticas	político	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	club	club	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	salir	salir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

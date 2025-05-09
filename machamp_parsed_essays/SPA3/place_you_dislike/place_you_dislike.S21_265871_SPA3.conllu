@@ -1,0 +1,347 @@
+# Unnamed: 0 = 80
+# id = 265871
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = 1
+# other l1 language(s) = Mandarin
+# language(s) used at home = 3
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = No me gusta *PLACE*. Viajé a *PLACE* en el invierno de *AGE* años, fui a la ciudad de *CITY* *CITY* *CITY* y *CITY*, estas dos ciudades son las más prósperas de *PLACE*. Sin embargo, [todos]{todas}<ga:det> me dejaron muy mala impresión. Me gusta el cielo azul, el aire limpio, las calles ordenadas y los peatones educados. Además, la seguridad también es muy importante para mí. Pero el clima en *PLACE* es muy malo, no hay sol, está nublado. Pero el clima es muy caluroso y tengo que usar pantalones cortos y mangas cortas. Y las calles de *PLACE* son muy estrechas, los coches y los peatones tienen que avanzar juntos  . Todavía hay muchas motocicletas en la carretera, lo que hace que sea muy inseguro para los peatones caminar. En comparación, I like *CITY* better, Me gusta mucho el clima de *CITY*, ​​aunque hace un poco de calor, el cielo es azul y el aire es fresco. Podemos comer mariscos en la playa. Las calles están muy limpias y los peatones son muy amables.  Además, el orden público en *PLACE* no es muy bueno. Hay pocos policías en el camino, pero muchos ladrones. Las calles de noche son ruidosas, hay mucha gente sin techo, gente borracha. Incluso hay gente discutiendo y peleando en la calle. Aunque los precios en *PLACE* son muy bajos, la calidad de las cosas no es muy buena. Compré un souvenir azul y después de un tiempo su color se volvió invisible. Por tanto, *PLACE* no me dejó una buena impresión. No me gusta mucho este país.
+# updated annotation ann2 = No me gusta *PLACE*. Viajé a *PLACE* en el invierno de *AGE* años, fui a la ciudad de *CITY* *CITY* *CITY* y *CITY*, estas dos ciudades son las más prósperas de *PLACE*. Sin embargo, todos [todos]{todas}<gat:pron> me dejaron muy mala impresión. Me gusta el cielo azul, el aire limpio, las calles ordenadas y los peatones educados. Además, la seguridad también es muy importante para mí. Pero el clima en *PLACE* es muy malo, no hay sol, está nublado. Pero el clima es muy caluroso y tengo que usar pantalones cortos y mangas [mangas]{manga}<in:noun> cortas [cortas]{corta}<in:adj>. Y las calles de *PLACE* son muy estrechas, los coches y los peatones tienen que avanzar juntos  . Todavía hay muchas motocicletas en la carretera, lo que hace que sea muy inseguro para los peatones caminar. En comparación, I like *CITY* better, Me gusta mucho el clima de *CITY*, ??aunque hace un poco de calor, el cielo es azul y el aire es fresco. Podemos comer mariscos [mariscos]{marisco}<in:noun> en la playa. Las calles están muy limpias y los peatones son muy amables.  Además, el orden público en *PLACE* no es muy bueno. Hay pocos policías en el camino, pero muchos ladrones. Las calles de noche son ruidosas, hay mucha gente sin techo, gente borracha. Incluso hay gente discutiendo y peleando en la calle. Aunque los precios en *PLACE* son muy bajos, la calidad de las cosas no es muy buena. Compré un souvenir azul y después de un tiempo su color se volvió invisible. Por tanto, *PLACE* no me dejó una buena impresión. No me gusta mucho este país.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = No me gusta *PLACE*. Viajé a *PLACE* en el invierno de *AGE* años, fui a la ciudad de *CITY* *CITY* *CITY* y *CITY*, estas dos ciudades son las más prósperas de *PLACE*. Sin embargo, todos me dejaron muy mala impresión. Me gusta el cielo azul, el aire limpio, las calles ordenadas y los peatones educados. Además, la seguridad también es muy importante para mí. Pero el clima en *PLACE* es muy malo, no hay sol, está nublado. Pero el clima es muy caluroso y tengo que usar pantalones cortos y mangas cortas. Y las calles de *PLACE* son muy estrechas, los coches y los peatones tienen que avanzar juntos . Todavía hay muchas motocicletas en la carretera, lo que hace que sea muy inseguro para los peatones caminar. En comparación, I like *CITY* better, Me gusta mucho el clima de *CITY*, ​​aunque hace un poco de calor, el cielo es azul y el aire es fresco. Podemos comer mariscos en la playa. Las calles están muy limpias y los peatones son muy amables. Además, el orden público en *PLACE* no es muy bueno. Hay pocos policías en el camino, pero muchos ladrones. Las calles de noche son ruidosas, hay mucha gente sin techo, gente borracha. Incluso hay gente discutiendo y peleando en la calle. Aunque los precios en *PLACE* son muy bajos, la calidad de las cosas no es muy buena. Compré un souvenir azul y después de un tiempo su color se volvió invisible. Por tanto, *PLACE* no me dejó una buena impresión. No me gusta mucho este país.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*PLACE*	*place*	PUNCT	_	_	3	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Viajé	viajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*PLACE*	*Place*	PROPN	_	_	1	dep	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	*AGE*	*age*	SYM	_	_	9	nmod	_	_
+9	años	año	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+11	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*CITY*	*CitY*	PROPN	_	_	11	mark	_	_
+17	*CITY*	*City*	PROPN	_	_	16	punct	_	_
+18	*CITY*	*City*	PROPN	_	_	16	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	*CITY*	*city*	PROPN	_	_	17	punct	_	_
+21	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+22	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	24	det	_	_
+23	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	22	nummod	_	_
+24	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	28	nsubj	_	_
+25	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
+26	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
+27	más	más	ADV	_	Degree=Cmp	28	advmod	_	_
+28	prósperas	próspero	ADJ	_	Gender=Fem|Number=Plur	1	advcl	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	*PLACE*	*place*	PROPN	_	_	11	mark	_	_
+31	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	6	nsubj	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	dejaron	dejar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	mala	malo	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	impresión	impresión	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	azul	azul	ADJ	_	Number=Sing	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	aire	aire	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+9	limpio	limpio	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	calles	calle	NOUN	_	Gender=Fem|Number=Plur	4	appos	_	_
+13	ordenadas	ordenado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	12	amod	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	peatones	peatón	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+17	educados	educado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Además	además	ADV	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	seguridad	seguridad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	también	también	ADV	_	_	8	advmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	8	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	clima	clima	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*PLACE*	*place*	PUNCT	_	_	3	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+12	sol	sol	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+14	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	nublado	nublado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	clima	clima	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	caluroso	caluroso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	que	que	SCONJ	_	_	10	cc	_	_
+10	usar	usar	VERB	_	VerbForm=Inf	8	conj	_	_
+11	pantalones	pantalón	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	cortos	corto	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	mangas	manga	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+15	cortas	corto	ADJ	_	Gender=Fem|Number=Plur	14	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	calles	calle	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	*PLACE*	PROPN	_	_	3	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	estrechas	estrecho	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	coches	coche	NOUN	_	Gender=Masc|Number=Plur	17	nsubj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	peatones	peatón	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+15	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+16	que	que	SCONJ	_	_	17	cc	_	_
+17	avanzar	avanzar	VERB	_	VerbForm=Inf	15	conj	_	_
+18	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	17	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	motocicletas	motocicleta	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+11	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	que	que	SCONJ	_	_	15	mark	_	_
+13	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	inseguro	inseguro	ADJ	_	Gender=Masc|Number=Sing	11	ccomp	_	_
+16	para	para	ADP	_	_	18	case	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	peatones	peatón	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+19	caminar	caminar	VERB	_	VerbForm=Inf	15	acl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	comparación	comparación	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	I	i	PROPN	_	_	2	appos	_	_
+5	like	like	PROPN	_	_	4	flat	_	_
+6	*CITY*	*City*	PROPN	_	_	4	flat	_	_
+7	better	better	PROPN	_	_	4	flat	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	mucho	mucho	ADV	_	_	10	advmod	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	clima	clima	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	*CITY*	*City*	PROPN	_	_	4	flat	_	_
+16	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+17	​​aunque	​​aunque	SCONJ	_	_	18	mark	_	_
+18	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	22	nmod	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	calor	calor	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+23	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
+26	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+27	azul	azul	ADJ	_	Number=Sing	10	advcl	_	_
+28	y	y	CCONJ	_	_	32	cc	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	aire	aire	NOUN	_	Gender=Masc|Number=Sing	32	nsubj	_	_
+31	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+32	fresco	fresco	ADJ	_	Gender=Masc|Number=Sing	27	conj	_	_
+33	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	comer	comer	VERB	_	VerbForm=Inf	0	root	_	_
+3	mariscos	marisco	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	calles	calle	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	limpias	limpio	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	peatones	peatón	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	amables	amable	ADJ	_	Number=Plur	5	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Además	además	ADV	_	_	11	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	orden	orden	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	público	público	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*PLACE*	*place*	PROPN	_	_	4	nmod	_	_
+8	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pocos	poco	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	policías	policía	NOUN	_	Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	camino	camino	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
+10	ladrones	ladrón	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	calles	calle	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	noche	noche	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	ruidosas	ruidoso	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+9	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	sin	sin	ADP	_	_	12	case	_	_
+12	techo	techo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+14	gente	gente	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	_
+15	borracha	borracho	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Incluso	incluso	ADV	_	_	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	gente	gente	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	discutiendo	discutir	VERB	_	VerbForm=Ger	2	advcl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	peleando	pelear	VERB	_	VerbForm=Ger	4	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	calle	calle	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	8	mark	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	precios	precio	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*PLACE*	*place*	PROPN	_	_	3	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bajos	bajo	ADJ	_	Gender=Masc|Number=Plur	18	advcl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+15	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	muy	mucho	ADV	_	_	18	advmod	_	_
+18	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+19	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
+
+1	Compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	souvenir	souvenir	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	azul	azul	ADJ	_	Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	13	cc	_	_
+6	después	después	ADV	_	_	13	advmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	color	color	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+12	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	volvió	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+14	invisible	invisible	ADJ	_	Number=Sing	13	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	tanto	tanto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	*PLACE*	*place*	SYM	_	_	6	compound	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	buena	buen	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	impresión	impresión	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	país	país	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

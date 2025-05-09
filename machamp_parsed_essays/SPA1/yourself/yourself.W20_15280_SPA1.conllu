@@ -1,0 +1,225 @@
+# Unnamed: 0 = 187
+# id = 15280
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 27
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Tagalog
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Yo soy de *STATE*, pero mi familia es de las *PLACE*. Puedo hablar un poco de tagalog pero [yo]{}<pr:su:pron> soy fluente en inglés. Estoy aprendiendo español durante seis meses. No confío en mi español. Aprendo de Duolingo y programas de televisión españoles.  Soy [un]{}<pr:det:art:indef> estudiante de último año de la universidad. Mi especialización es las ciencias políticas. Quiero hacer trabajo social.  Mis aficiones son la pintura y la lectura. Mi novio es de *PLACE* y *PLACE* *PLACE*. Nos gusta ir a bicicleta y beber cerveza. Él vive en la costa este. Voy a vivir allí en el futuro. Él me enseñar español.  Me gusta cocinar. Puedo cocinar pollo y arroz. Mi plato favorito es pozole. Quiero visitar México y El Salvador. Quiero aprender sobre la comida y la cultura. Estoy aprendiendo español porque quiero enseñarles a mis hijos. Quiero que aprender español y tagalog. Quiero que ellos conocer cómo hablar tres idiomas.  
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> soy de *STATE*, pero mi familia es de [las]{}<pr:det:art:def> *PLACE*. Puedo hablar un poco de tagalog pero [yo]{}<pr:su:pron> soy fluente en inglés. Estoy aprendiendo español durante seis meses. No confío en mi español. Aprendo de Duolingo y programas de televisión españoles.  Soy [un]{una}<ga:det> estudiante de último año de la universidad. Mi especialización [es]{son}<fs:st:pn> las ciencias políticas. Quiero hacer trabajo social.  Mis aficiones son la pintura y la lectura. Mi novio es de *PLACE* y *PLACE* *PLACE*. Nos gusta ir a bicicleta y beber cerveza. Él vive en la costa este. Voy a vivir allí en el futuro. Él me [enseñar]{enseña}<fs:st:t> español.  Me gusta cocinar. Puedo cocinar pollo y arroz. Mi plato favorito es []{el}<ab:det:art:def> pozole. Quiero visitar México y El Salvador. Quiero aprender sobre la comida y la cultura. Estoy aprendiendo español porque quiero enseñarles a mis hijos. Quiero que [aprender]{aprendan}<fs:st:t> español y tagalog. Quiero que [ellos]{}<pr:su:pron> [conocer]{conozcan}<fs:st:t> cómo hablar tres idiomas.              
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Yo soy de *STATE*, pero mi familia es de las *PLACE*. Puedo hablar un poco de tagalog pero soy fluido en inglés. Estoy aprendiendo español desde hace seis meses. No confío en mi español. Aprendo de Duolingo y programas de televisión españoles.  Soy estudiante de último año de la universidad. Mi especialización es las ciencias políticas. Quiero hacer trabajo social.  Mis aficiones son la pintura y la lectura. Mi novio es de *PLACE* y *PLACE* *PLACE*. Nos gusta ir en bicicleta y beber cerveza. Él vive en la costa este. Voy a vivir allí en el futuro. Él me enseña español.  Me gusta cocinar. Puedo cocinar pollo y arroz. Mi plato favorito es pozole. Quiero visitar México y El Salvador. Quiero aprender sobre la comida y la cultura. Estoy aprendiendo español porque quiero enseñarles a mis hijos. Quiero aprender español y tagalog. Quiero que ellos sepan cómo hablar tres idiomas.   
+# corrected2 = nan
+# text = Yo soy de *STATE*, pero mi familia es de las *PLACE*. Puedo hablar un poco de tagalog pero yo soy fluente en inglés. Estoy aprendiendo español durante seis meses. No confío en mi español. Aprendo de Duolingo y programas de televisión españoles. Soy un estudiante de último año de la universidad. Mi especialización es las ciencias políticas. Quiero hacer trabajo social. Mis aficiones son la pintura y la lectura. Mi novio es de *PLACE* y *PLACE* *PLACE*. Nos gusta ir a bicicleta y beber cerveza. Él vive en la costa este. Voy a vivir allí en el futuro. Él me enseñar español. Me gusta cocinar. Puedo cocinar pollo y arroz. Mi plato favorito es pozole. Quiero visitar México y El Salvador. Quiero aprender sobre la comida y la cultura. Estoy aprendiendo español porque quiero enseñarles a mis hijos. Quiero que aprender español y tagalog. Quiero que ellos conocer cómo hablar tres idiomas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*STATE*	*state*	PUNCT	_	_	1	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	pero	pero	CCONJ	_	_	12	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+12	*PLACE*	*place*	PUNCT	_	_	11	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	hablar	hablar	VERB	_	VerbForm=Inf	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	tagalog	tagalog	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	fluente	fluente	ADJ	_	Number=Sing	2	conj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aprendiendo	aprender	VERB	_	VerbForm=Ger	0	root	_	_
+3	español	español	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	meses	mes	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	confío	confiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aprendo	aper	VERB	_	VerbForm=Ger	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	Duolingo	Duolingo	PROPN	_	_	1	obl	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	programas	programa	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	españoles	español	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	último	último	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	políticas	político	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hacer	hacer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	social	social	ADJ	_	Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	aficiones	afición	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	pintura	pintura	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	lectura	lectura	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	novio	novio	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	*place*	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*PLACE*	*place*	SYM	_	_	0	root	_	_
+8	*PLACE*	*place*	PUNCT	_	_	7	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	beber	beber	VERB	_	VerbForm=Inf	3	conj	_	_
+8	cerveza	cerveza	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	costa	costa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	este	este	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	vivir	vivir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	allí	allí	ADV	_	_	1	advmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	enseñar	enseñar	VERB	_	VerbForm=Inf	0	root	_	_
+4	español	español	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cocinar	cocinar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	cocinar	cocinar	VERB	_	VerbForm=Inf	0	root	_	_
+3	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	plato	plato	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	pozole	pozole	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	visitar	visitar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	México	México	PROPN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Salvador	Salvador	PROPN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aprender	aprender	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	sobre	sobre	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aprendiendo	aprender	VERB	_	VerbForm=Ger	0	root	_	_
+3	español	español	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	enseñarles	enseñar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	aprender	aprender	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tagalog	tagalog	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	conocer	conocer	VERB	_	VerbForm=Inf	1	ccomp	_	_
+5	cómo	cómo	PRON	_	PronType=Ind	6	obl	_	_
+6	hablar	hablar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

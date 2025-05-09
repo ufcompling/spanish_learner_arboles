@@ -1,0 +1,221 @@
+# Unnamed: 0 = 210
+# id = 173833
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = French for three years. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Cuando era un niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y [era]{estaba}<conf:v:seta> morada y azul. La persona me juego calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. [Yo]{}<pr:su:pron> sólo tenía ocho años. Mi mano aún me [duele]{dolió}<fs:st:t> por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# updated annotation ann2 = Cuando era [un]{}<pr:det:art:indef> niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y [era]{estaba}<conf:v:seta> morada y azul. La persona me [juego]{jugó}<fs:st:r:pn:t> calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano aún me duele por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Cuando era niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y mis hermanas. Mi abrigo era de cuadros y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atascó en la nieve y estaba morada y azul. La persona me prestó calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano me siguió doliendo por una hora, pero solo un poco. El chocolate caliente me hizo sentir calor. Además, volví a salir, pero no me gustó. Mi familia se fue al exterior, pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# corrected2 = nan
+# text = Cuando era un niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y era morada y azul. La persona me juego calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano aún me duele por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	niño	niño	NOUN	_	Gender=Masc|Number=Sing	7	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	perdí	perder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Bajé	bajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	colina	colina	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	perdí	perder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	andando	andar	VERB	_	VerbForm=Ger	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	trineo	trineo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	madre	madre	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abrigo	abrigo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	hojaldre	hojaldre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rojo	rojo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	perdí	perder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	guantes	guante	NOUN	_	Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	caliente	caliente	ADJ	_	Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mano	mano	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	atoró	atorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	morada	morado	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	azul	azul	ADJ	_	Number=Sing	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	juego	jueer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	calentadores	calentador	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	manos	mano	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	manta	manta	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estuve	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	hora	hora	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	expl	_	_
+6	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	ido	ir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	encontró	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	allí	allí	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sólo	sólo	ADV	_	_	3	advmod	_	_
+3	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	ocho	ocho	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mano	mano	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	aún	aún	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	duele	doler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	solo	solo	ADV	_	_	12	advmod	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	caliente	caliente	ADJ	_	Number=Sing	2	amod	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	sentir	sentir	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	caliente	caliente	ADJ	_	Number=Sing	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	volví	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	salir	salir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gustó	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	fue	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	exterior	exterior	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+9	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	senté	sentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	vi	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	esquiar	esquiar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	ahora	ahora	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	caliente	caliente	ADJ	_	Number=Sing	5	amod	_	_
+7	todavía	todavía	ADV	_	_	3	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

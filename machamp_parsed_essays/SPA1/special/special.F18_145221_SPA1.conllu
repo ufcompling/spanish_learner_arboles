@@ -1,0 +1,326 @@
+# Unnamed: 0 = 85
+# id = 145221
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Hindi 
+# language(s) used at home = Hindi 
+# language(s) studied = French: 4 years 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Su nombre es *FIRST_NAME* *LAST_NAME*. *FIRST_NAME* es mi novio. El es de Afghanistan. [El]{}<pr:su:pron> tiene *AGE* anos. [El]{}<pr:su:pron> vive en *CITY*, *STATE* y [el]{}<pr:su:pron> es estudiante de *UNIVERSITY* en *CITY*. [El]{}<pr:su:pron> Tiene el pelo negro y liso. [El]{}<pr:su:pron> tiene la piel morena. [El]{}<pr:su:pron> tiene los ojos grandes y negros. [El]{}<pr:su:pron> es my beuna persona. [El]{}<pr:su:pron> es alto y delgado. [El]{}<pr:su:pron> es guapo, fuerte y []{un}<ab:det:art:idef> [joven hombre]{hombre joven}<col:adj>. [El]{}<pr:su:pron> lleva bigote y barba, pero no lleva [unas]{}<pr:det:art:indef> gafas. [El]{}<pr:su:pron> es simpatico, agradable y inteligente. Su programa favorito es Friends.Hay siete personas su familia. Tiene dos hermanos [mayor]{mayores}<na:adj> y un hermano menor. [El]{}<pr:su:pron> tiene [un]{una}<ga:det> hermana menor tambien. Su padre es []{un}<ab:det:art:indef> poco gordo y alto, pero su madre es baja y delgada. [El]{}<pr:su:pron> no tiene [un]{}<pr:det:art:indef> hijo y [una]{}<pr:det:art:indef> hija. [El]{}<pr:su:pron> tiene muchos tios, tias y primas. [El]{}<pr:su:pron> [es]{está}<conf:v:seta> muy unido de su familia. [El]{}<pr:su:pron> tiene que viajar el mundo. Le gusta ir la gimnasio. [El]{}<pr:su:pron> [hable]{habla}<fs:st:mo> Spanish, French, Farsi, Dari, Hindi, English y Russian. [El]{}<pr:su:pron> toca la guitarra. Le gusta llevar las camisetas blancas y los pantalones negros. [El]{}<pr:su:pron> trabaja en Fry’s Electronics. Tiene miedo a las aranas y las abejas. Tiene verguenza bailar. Le gusta mucho mirar la tele y escuchar la radio. Le gusta jugar futbol. Su actividad favorita es hablar y jugar con amigos. Su programa favorito es Friends.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Su nombre es *FIRST_NAME* *LAST_NAME*. *FIRST_NAME* es mi novio. Es de Afghanistan. Tiene *AGE* años. Vive en *CITY*, *STATE* y es estudiante de *UNIVERSITY* en *CITY*. Tiene el pelo negro y liso. Tiene la piel morena. Tiene los ojos grandes y negros. Es my buena persona. Es alto y delgado. Es guapo, fuerte y unhombre joven. Lleva bigote y barba, pero no lleva unas gafas. Es simpático, agradable e inteligente. Su programa favorito es Friends.Hay siete personas en su familia. Tiene dos hermanos mayores y un hermano menor. Tiene una hermana menor también. Su padre es un poco gordo y alto, pero su madre es baja y delgada. No tiene un hijo ni una hija. Tiene muchos tíos, tías y primas. Está muy unido a su familia. Tiene que viajar por el mundo. Le gusta ir al gimnasio. Hable español, francés, farsi, dari, hindi, inglés y ruso. Toca la guitarra. Le gusta llevar las camisetas blancas y los pantalones negros. Trabaja en Fry’s Electronics. Tiene miedo a las arañas y a las abejas. Tiene vergüenza de bailar. Le gusta mucho mirar la tele y escuchar la radio. Le gusta al jugar fútbol. Su actividad favorita es hablar y jugar con amigos. Su programa favorito es Friends.
+# corrected2 = nan
+# text = Su nombre es *FIRST_NAME* *LAST_NAME*. *FIRST_NAME* es mi novio. El es de Afghanistan. El tiene *AGE* anos. El vive en *CITY*, *STATE* y el es estudiante de *UNIVERSITY* en *CITY*. El Tiene el pelo negro y liso. El tiene la piel morena. El tiene los ojos grandes y negros. El es my beuna persona. El es alto y delgado. El es guapo, fuerte y joven hombre. El lleva bigote y barba, pero no lleva unas gafas. El es simpatico, agradable y inteligente. Su programa favorito es Friends.Hay siete personas su familia. Tiene dos hermanos mayor y un hermano menor. El tiene un hermana menor tambien. Su padre es poco gordo y alto, pero su madre es baja y delgada. El no tiene un hijo y una hija. El tiene muchos tios, tias y primas. El es muy unido de su familia. El tiene que viajar el mundo. Le gusta ir la gimnasio. El hable Spanish, French, Farsi, Dari, Hindi, English y Russian. El toca la guitarra. Le gusta llevar las camisetas blancas y los pantalones negros. El trabaja en Fry’s Electronics. Tiene miedo a las aranas y las abejas. Tiene verguenza bailar. Le gusta mucho mirar la tele y escuchar la radio. Le gusta jugar futbol. Su actividad favorita es hablar y jugar con amigos. Su programa favorito es Friends.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	*FIRST_NAME*	*first_name*	SYM	_	_	0	root	_	_
+5	*LAST_NAME*	*last_name*	PUNCT	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	novio	novio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Afghanistan	Afghanistan	PROPN	_	_	2	nmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	*STATE*	*state*	PUNCT	_	_	4	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	estudiante	estudiante	NOUN	_	Number=Sing	2	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	*university*	PROPN	_	_	10	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	*CITY*	*city*	PROPN	_	_	12	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	liso	liso	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	piel	piel	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	morena	moreno	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	grandes	grande	ADJ	_	Number=Plur	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	negros	negro	ADJ	_	Gender=Masc|Number=Plur	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	beuna	beuno	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+3	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	fuerte	fuerte	ADJ	_	Number=Sing	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	joven	joven	ADJ	_	Number=Sing	3	conj	_	_
+8	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bigote	bigote	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	barba	barba	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	agradable	agradable	ADJ	_	Number=Sing	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	inteligente	inteligente	ADJ	_	Number=Sing	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	programa	programa	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Friends	Friends	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	siete	siete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	4	amod	_	_
+6	tambien	tambien	NOUN	_	_	4	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	poco	poco	ADV	_	_	5	advmod	_	_
+5	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	alto	alto	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	pero	pero	CCONJ	_	_	13	cc	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	madre	madre	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	5	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hija	hija	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	tios	tio	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	tias	tia	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	primas	prima	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	unido	unido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	4	cc	_	_
+4	viajar	viajar	VERB	_	VerbForm=Inf	2	conj	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gimnasio	gimnasio	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hable	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Spanish	Spanish	PROPN	_	_	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	French	French	PROPN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	Farsi	Farsi	PROPN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	Dari	Dari	PROPN	_	_	3	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	Hindi	Hindi	PROPN	_	_	3	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	English	English	PROPN	_	_	3	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	Russian	Russian	PROPN	_	_	3	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	toca	tocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	llevar	llevar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	camisetas	camiseta	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	blancas	blanco	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	pantalones	pantalón	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+10	negros	negro	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Fry’s	Fry’s	PROPN	_	_	2	obl	_	_
+5	Electronics	Electronics	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	aranas	arana	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	abejas	abeja	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	verguenza	verguenza	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	bailar	bailar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	mirar	mirar	VERB	_	VerbForm=Inf	2	csubj	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tele	tele	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	escuchar	escuchar	VERB	_	VerbForm=Inf	4	conj	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	radio	radio	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jugar	jugar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hablar	hablar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	jugar	jugar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	programa	programa	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Friends	Friends	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

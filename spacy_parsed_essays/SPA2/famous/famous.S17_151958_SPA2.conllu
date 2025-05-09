@@ -1,0 +1,174 @@
+# Unnamed: 0 = 76
+# id = 151958
+# prompt = famous
+# quarter = S17
+# course = SPA 2
+# age = 18
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Latin- 2 years
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. Es en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. Esta valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt mucha encanta su ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con otras hombres. Hacen el organacion secreto para personas gustan luchar. Brad Pitt es my actor favorito. 
+# a personal annotator2 = Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. Es en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. Esta valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt mucha encanta su ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con otras hombres. Hacen el organacion secreto para personas gustan luchar. Brad Pitt es my actor favorito. 
+
+
+# gender-number annotator1 = Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. Es en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. Esta valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt mucha encanta su ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con [otras]{otros}<ga:mf:det:an> hombres. Hacen [el]{la}<ga:fm:det:inan> organacion<gat:noun:inan> [secreto]{secreta}<ga:fm:adj:inan> para personas gustan luchar. Brad Pitt es my actor favorito. 
+
+# gender-number annotator2 = Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. Es en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. Esta valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt [mucha]{mucho}<ga:mf:det:an> encanta [su]{sus}<na:ps:det:an> ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con [otras]{otros}<ga:mf:det:an> hombres. Hacen [el]{la}<ga:fm:det:inan> organacion<gat:noun:inan> [secreto]{secreta}<ga:fm:adj:inan> para personas gustan luchar. Brad Pitt es my actor favorito. 
+# updated anntoation ann1 = ﻿Brad Pitt es mucho guapo. Brad Pitt es [un]{}<pr:det:art:indef> actor para [la]{el}<ga:det> cinema. [Es]{Está}<conf:v:seta> en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. [Esta]{Es}<conf:v:seta> valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt [mucha]{mucho}<gat:adv> encanta [su]{sus}<na:adj> ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con [otras]{otros}<ga:adj> hombres. Hacen [el]{una}<gat:det> organacion [secreto]{secreta}<gat:adj> para personas gustan luchar. Brad Pitt es my actor favorito.
+# updated annotation ann2 = ﻿Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. [Es]{Está}<conf:v:seta> en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. [Esta]{Es}<conf:v:seta> valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt mucha encanta [su]{sus}<na:det> ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con [otras]{otros}<ga:det> hombres. Hacen [el]{la}<gat:det> organacion [secreto]{secreta}<gat:adj> para personas gustan luchar. Brad Pitt es my actor favorito.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Brad Pitt es muy guapo. Brad Pitt es un actor de cine. Está en la película nueva llamada 'Fury'. Es el capitán del Ejército. Es valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis niños. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. A Brad Pitt le encantan sus niños. Angelina Jolie es la esposa de Brad Pitt. Mi película favorita de Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice a su amigo que luchen con otros hombres. Hacen la organización secreta para personas a las que les gusta luchar. Brad Pitt es mi actor favorito.
+# corrected2 = Brad Pitt es muy guapo. Es actor de cine. Aparece en una película nueva llamada Corazones de acero. Es un capitán del ejército. Es valiente. Brad Pitt vive en Los Ángeles con su familia. Tiene seis niños. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Le encantan sus niños. Angelina Jolie es la esposa de Brad Pitt. Mi película favorita de Brad Pitt es El club de la lucha. En ella, Brad Pitt es un hombre loco. Le gusta luchar. Le dice a su amigo que luche con otros hombres. Crean una organización secreta para personas a las que les gusta luchar. Brad Pitt es mi actor favorito. 
+# text = Brad Pitt es mucho guapo. Brad Pitt es un actor para la cinema. Es en la pelicula nueva llama 'Fury'. Es el captain para el ejercito. Esta valiente. Brad Pitt vive en Los Angeles con su familia. Tiene seis ninos. Se llaman Maddox, Shiloh, Vivienne, Knox, Zahara y Pax. Brad Pitt mucha encanta su ninos. Angelina Jolie es la esposa de Brad Pitt. Mi pelicula favorita con Brad Pitt es 'Fight Club'. Brad Pitt es un hombre loco. Le gusta luchar. Le dice su amigo luchar con otras hombres. Hacen el organacion secreto para personas gustan luchar. Brad Pitt es my actor favorito.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Brad	Brad	PROPN	_	_	5	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mucho	mucho	DET	_	_	5	advmod	_	_
+5	guapo	guapo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Brad	Brad	PROPN	_	_	5	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	actor	actor	NOUN	_	_	0	ROOT	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	cinema	cinema	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Es	ser	AUX	_	_	8	cop	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	pelicula	pelicula	NOUN	_	_	8	obl	_	_
+5	nueva	nuevo	ADJ	_	_	4	amod	_	_
+6	llama	llama	PROPN	_	_	5	flat	_	_
+7	'	'	SYM	_	_	8	nmod	_	_
+8	Fury	Fury	PROPN	_	_	0	ROOT	_	_
+9	'	'	SYM	_	_	8	nmod	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	captain	captain	NOUN	_	_	0	ROOT	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	ejercito	ejercito	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	valiente	valiente	NOUN	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Brad	Brad	PROPN	_	_	3	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	Los	el	DET	_	_	6	det	_	_
+6	Angeles	Angeles	PROPN	_	_	3	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	seis	seis	NUM	_	_	3	nummod	_	_
+3	ninos	nino	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llaman	llamar	VERB	_	_	0	ROOT	_	_
+3	Maddox	Maddox	PROPN	_	_	2	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Shiloh	Shiloh	PROPN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Vivienne	Vivienne	PROPN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Knox	Knox	PROPN	_	_	3	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Zahara	Zahara	PROPN	_	_	3	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	Pax	Pax	PROPN	_	_	3	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Brad	Brad	PROPN	_	_	4	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	mucha	mucho	DET	_	_	4	det	_	_
+4	encanta	encanta	NOUN	_	_	0	ROOT	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	ninos	nino	NOUN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Angelina	Angelina	PROPN	_	_	5	nsubj	_	_
+2	Jolie	Jolie	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	esposa	esposa	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Brad	Brad	PROPN	_	_	5	nmod	_	_
+8	Pitt	Pitt	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	pelicula	pelicula	NOUN	_	_	9	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	Brad	Brad	PROPN	_	_	2	nmod	_	_
+6	Pitt	Pitt	PROPN	_	_	5	flat	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	'	'	SYM	_	_	9	nmod	_	_
+9	Fight	Fight	PROPN	_	_	0	ROOT	_	_
+10	Club	Club	PROPN	_	_	9	flat	_	_
+11	'	'	SYM	_	_	9	punct	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Brad	Brad	PROPN	_	_	5	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+6	loco	loco	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	luchar	luchar	VERB	_	_	2	csubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	dice	decir	VERB	_	_	0	ROOT	_	_
+3	su	su	DET	_	_	4	det	_	_
+4	amigo	amigo	NOUN	_	_	2	nsubj	_	_
+5	luchar	luchar	VERB	_	_	2	csubj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	otras	otro	DET	_	_	8	det	_	_
+8	hombres	hombre	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hacen	hacer	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	4	det	_	_
+3	organacion	organacion	NOUN	_	_	4	amod	_	_
+4	secreto	secreto	NOUN	_	_	1	obj	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	personas	persona	NOUN	_	_	1	obl	_	_
+7	gustan	gustar	VERB	_	_	1	advcl	_	_
+8	luchar	luchar	VERB	_	_	7	xcomp	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Brad	Brad	PROPN	_	_	5	nsubj	_	_
+2	Pitt	Pitt	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	my	my	PROPN	_	_	5	det	_	_
+5	actor	actor	NOUN	_	_	0	ROOT	_	_
+6	favorito	favorito	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+

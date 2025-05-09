@@ -1,0 +1,213 @@
+# Unnamed: 0 = 7
+# id = 226992
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 18
+# gender = Male
+# l1 language = English,Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin, a little bit Italian and Japanese 
+# language(s) studied = Japanese, I learned about 1 month and know all the basics
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola, todos. [Yo]{}<pr:su:pron> tengo *AGE* años y ahora estoy muy feliz porqué estoy aprendiendo español. El español no es fácil pero me gusta el español. [Yo]{}<pr:su:pron> soy de *PLACE* pero soy []{un}<ab:det:art:indef> cuatro *PLACE* porqué la familia de mi madre es *PLACE* [*PLACE*]{china}<ga:adj>. Pero [yo]{}<pr:su:pron> hablo un poco []{el}<ab:det:art:def> [turco idioma]{idioma turco}<col:adj> porqué [yo]{}<pr:su:pron> vive en la cuidad natal de mi padre y la gente hablando *PLACE* solamente . Mi padre es cien por ciento chino. [Yo]{}<pr:su:pron> soy atlético y aventurero por eso me gusta hacer deportes. Mi deporte favorito es []{el}<ab:det:art:def> fútbol porqué ese es interesante y miro []{el}<ab:det:art:def> fútbol cuando era niño. Me gusta Sergio Ramos, uno de los mejores jugadores de fútbol en el mundo. [El]{}<pr:su:pron> juega para España y el Real Madrid. [Yo]{}<pr:su:pron> hablo cinco idiomas y son []{el}<ab:det:art:def> inglés, []{el}<ab:det:art:def> chino, []{el}<ab:det:art:def> japonés, []{el}<ab:det:art:def> italiano y []{el}<ab:det:art:def> turco. Estoy aprendiendo español, italiano y japonés. [Yo]{}<pr:su:pron> quiero aprender más español y poder hablarlo porqué es []{el}<ab:det:art:def> más  divertido de aprender.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola, todos. [Yo]{}<pr:su:pron> tengo *AGE* años y ahora estoy muy feliz porqué estoy aprendiendo español. El español no es fácil pero me gusta el español. [Yo]{}<pr:su:pron> soy de *PLACE* pero soy cuatro *PLACE* porqué la familia de mi madre es *PLACE* [*PLACE*]{china}<ga:adj>. Pero [yo]{}<pr:su:pron> hablo un poco []{el}<ab:det:art:def> [turco idioma]{idioma turco}<col:adj> porqué [yo]{}<pr:su:pron> [vive]{vivo}<fs:st:pn> en la cuidad natal de mi padre y la gente [hablando]{habla}<fs:st:t> *PLACE* solamente . Mi padre es cien por ciento chino. [Yo]{}<pr:su:pron> soy atlético y aventurero por eso me gusta hacer deportes. Mi deporte favorito es []{el}<ab:det:art:def> fútbol porqué ese es interesante y [miro]{miraba}<fs:st:t> []{el}<ab:det:art:def> fútbol cuando era niño. Me gusta Sergio Ramos, uno de los mejores jugadores de fútbol en el mundo. [El]{}<pr:su:pron> juega para España y el Real Madrid. [Yo]{}<pr:su:pron> hablo cinco idiomas y son inglés, chino, japonés, italiano y turco. Estoy aprendiendo español, italiano y japonés. [Yo]{}<pr:su:pron> quiero aprender más español y poder hablarlo porqué es más  divertido de aprender.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola a todos! Tengo *AGE* años y ahora estoy muy feliz porque estoy aprendiendo español. El español no es fácil, pero me gusta. Soy de *PLACE*, pero tengo ascendencia turca porque la familia de mi madre es medio uyghur y medio china. Hablo solo un poco el idioma *PLACE* porque he vivido en la ciudad natal de mi padre y la gente allí solo hablaba *PLACE*. Mi padre es cien por cien *PLACE*. Soy atlético y aventurero; por eso me gusta hacer deportes. Mi deporte favorito es el fútbol porque es interesante y veía partidos de fútbol cuando era niño. Me gusta Sergio Ramos, uno de los mejores jugadores de fútbol en el mundo. Juega para la Selección española y para el Real Madrid. Hablo cinco idiomas: inglés, chino, japonés, italiano y turco. Estoy aprendiendo español, italiano y japonés. Quiero aprender más español y poder hablarlo porque es el más divertido de aprender. 
+# corrected2 = nan
+# text = ¡Hola, todos. Yo tengo *AGE* años y ahora estoy muy feliz porqué estoy aprendiendo español. El español no es fácil pero me gusta el español. Yo soy de *PLACE* pero soy cuatro *PLACE* porqué la familia de mi madre es *PLACE* *PLACE*. Pero yo hablo un poco turco idioma porqué yo vive en la cuidad natal de mi padre y la gente hablando chino solamente . Mi padre es cien por ciento *PLACE*. Yo soy atlético y aventurero por eso me gusta hacer deportes. Mi deporte favorito es fútbol porqué ese es interesante y miro fútbol cuando era niño. Me gusta Sergio Ramos, uno de los mejores jugadores de fútbol en el mundo. El juega para España y el Real Madrid. Yo hablo cinco idiomas y son inglés, chino, japonés, italiano y turco. Estoy aprendiendo español, italiano y japonés. Yo quiero aprender más español y poder hablarlo porqué es más divertido de aprender.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	_
+2	Hola	hola	INTJ	_	_	4	dep	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	SYM	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	ahora	ahora	ADV	_	_	9	advmod	_	_
+7	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	feliz	feliz	ADJ	_	Number=Sing	2	conj	_	_
+10	porqué	porqué	PRON	_	Number=Sing|PronType=Int	12	obl	_	_
+11	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	aprendiendo	aprender	VERB	_	VerbForm=Ger	9	advcl	_	_
+13	español	español	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	español	español	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	fácil	fácil	ADJ	_	Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	español	español	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	nummod	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*PLACE*	*place*	PUNCT	_	_	1	punct	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+8	*PLACE*	*place*	PUNCT	_	_	7	punct	_	_
+9	porqué	porqué	SCONJ	_	_	8	amod	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	madre	madre	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	*PLACE*	*place*	SYM	_	_	7	appos	_	_
+17	*PLACE*	*place*	PUNCT	_	_	16	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+5	poco	poco	ADV	_	_	4	fixed	_	_
+6	turco	turco	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	idioma	idioma	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+8	porqué	porqué	PRON	_	_	10	obl	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	natal	natal	ADJ	_	Number=Sing	13	amod	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padre	padre	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	gente	gente	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	_
+21	hablando	hablar	VERB	_	VerbForm=Ger	20	acl	_	_
+22	chino	chino	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+23	solamente	solamente	ADV	_	_	21	advmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cien	cien	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	ciento	ciento	NUM	_	NumForm=Word|NumType=Card	4	compound	_	_
+7	*PLACE*	*place*	PUNCT	_	_	4	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	atlético	atlético	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	aventurero	aventurero	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	por	por	ADP	_	_	7	case	_	_
+7	eso	ese	PRON	_	Number=Sing|PronType=Dem	9	obl	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	hacer	hacer	VERB	_	VerbForm=Inf	9	csubj	_	_
+11	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	porqué	porqué	PRON	_	Number=Sing|PronType=Int	9	mark	_	_
+7	ese	ese	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	interesante	interesante	ADJ	_	Number=Sing	5	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	miro	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	cuando	cuando	SCONJ	_	_	15	mark	_	_
+14	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+15	niño	niño	NOUN	_	Gender=Masc|Number=Sing	11	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Sergio	Sergio	PROPN	_	_	2	nsubj	_	_
+4	Ramos	Ramos	PROPN	_	_	3	flat	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	appos	_	_
+7	de	de	ADP	_	_	10	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	10	amod	_	_
+10	jugadores	jugador	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	para	para	ADP	_	_	4	case	_	_
+4	España	España	PROPN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Real	Real	PROPN	_	_	4	conj	_	_
+8	Madrid	Madrid	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	chino	chino	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	japonés	japonés	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	italiano	italiano	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	turco	turco	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aprendiendo	aprender	VERB	_	VerbForm=Ger	0	root	_	_
+3	español	español	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	italiano	italiano	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	japonés	japonés	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aprender	aprender	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	poder	poder	AUX	_	VerbForm=Inf	8	aux	_	_
+8	hablarlo	hablar	VERB	_	VerbForm=Inf	3	conj	_	_
+9	porqué	porqué	NOUN	_	_	12	mark	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
+12	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	aprender	aprender	VERB	_	VerbForm=Inf	12	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

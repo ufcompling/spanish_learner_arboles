@@ -1,0 +1,233 @@
+# Unnamed: 0 = 94
+# id = 148001
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 20
+# l1 language = Mandarin
+# other l1 language(s) = mandarin
+# language(s) used at home = mandarin
+# language(s) studied = english----17
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Este es Justin Bieber. Él es un cantante. Tiene 24 años. Tiene el pelo de color café. Tiene los ojos marrones. Él es guapo. Es un canadiense. Le gusta vestirse de negro y escuchar música. Es muy cómico y divertido, para que tiene muchos fans. Su cumpleaños es el primero de marzo. Viven en LA. Justin hace mucho deporte para que él es fuerte. Mi cancíon favorita es Boyfriend. Su ídolo es Beyónce. Tiene una hermana y un hermano. Se llama Jasmyn Bieber. Tiene 12 años. Ella quiere ser cantante cuando ella crece. Tiene los ojos y el pelo marrones. Su hermano llama Jackson Bieber. Es lindo. El público no le gusta porque él está en las drogas. Pero sus fans le gustan porque es un artista talentoso. Su novia es Selena Gomez. Ella tiene el pelo de color castaño. Tambien tiene los ojos de color café. Es una cantante.
+# a personal annotator2 = nan
+# gender-number annotator1 = Este es Justin Bieber. Él es un cantante. Tiene 24 años. Tiene el pelo de color café. Tiene los ojos marrones. Él es guapo. Es un canadiense. Le gusta vestirse de negro y escuchar música. Es muy cómico y divertido, para que tiene muchos fans. Su cumpleaños es el primero de marzo. Viven en LA. Justin hace mucho deporte para que él es fuerte. Mi cancíon favorita es Boyfriend. Su ídolo es Beyónce. Tiene una hermana y un hermano. Se llama Jasmyn Bieber. Tiene 12 años. Ella quiere ser cantante cuando ella crece. Tiene los ojos y el pelo marrones. Su hermano llama Jackson Bieber. Es lindo. El público no le gusta porque él está en las drogas. Pero sus fans le gustan porque es un artista talentoso. Su novia es Selena Gomez. Ella tiene el pelo de color castaño. Tambien tiene los ojos de color café. Es una cantante.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Este es Justin Bieber. Él es un cantante. Tiene 24 años. Tiene el pelo de color café. Tiene los ojos marrones. Él es guapo. Es un canadiense. Le gusta vestirse de negro y escuchar música. Es muy cómico y divertido, para que tiene muchos fans. Su cumpleaños es el primero de marzo. Viven en LA. Justin hace mucho deporte para que él es fuerte. Mi cancíon favorita es Boyfriend. Su ídolo es Beyónce. Tiene una hermana y un hermano. Se llama Jasmyn Bieber. Tiene 12 años. Ella quiere ser cantante cuando ella crece. Tiene los ojos y el pelo marrones. Su hermano llama Jackson Bieber. Es lindo. El público no le gusta porque él está en las drogas. Pero sus fans le gustan porque es un artista talentoso. Su novia es Selena Gomez. Ella tiene el pelo de color castaño. Tambien tiene los ojos de color café. Es una cantante.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Justin	Justin	PROPN	_	_	0	root	_	_
+4	Bieber	Bieber	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	24	24	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	color	color	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	café	café	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	marrones	marrón	NOUN	_	Gender=Masc|Number=Plur	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	canadiense	canadiense	NOUN	_	Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vestirse	vestir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	negro	negro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	escuchar	escuchar	VERB	_	VerbForm=Inf	3	conj	_	_
+8	música	música	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	para	para	ADP	_	_	9	mark	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
+11	fans	fan	NOUN	_	Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	marzo	marzo	NOUN	_	AdvType=Tim	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Justin	Justin	PROPN	_	_	2	nsubj	_	_
+2	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	para	para	ADP	_	_	9	mark	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	fuerte	fuerte	ADJ	_	Number=Sing	2	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cancíon	cancíon	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Boyfriend	Boyfriend	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	ídolo	ídolo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Beyónce	Beyónce	PROPN	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Jasmyn	Jasmyn	PROPN	_	_	2	obj	_	_
+4	Bieber	Bieber	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	12	12	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	4	cop	_	_
+4	cantante	cantante	NOUN	_	Number=Sing	2	xcomp	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	crece	crecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	marrones	marrón	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Jackson	Jackson	PROPN	_	_	3	obj	_	_
+5	Bieber	Bieber	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	lindo	lindo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	público	público	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	drogas	droga	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	fans	fan	NOUN	_	Number=Plur	5	nsubj	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	artista	artista	NOUN	_	Number=Sing	5	advcl	_	_
+10	talentoso	talentoso	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	novia	novia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Selena	Selena	PROPN	_	_	0	root	_	_
+5	Gomez	Gomez	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	color	color	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	castaño	castaño	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	2	advmod	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	color	color	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	café	café	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,215 @@
+# Unnamed: 0 = 118
+# id = 203237
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = Vietnamese - 3 years+
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una persona especial en mi vida es mi hermano. El es pequeña [pequeña]{pequeño]{ga:adj>, y solo tiene *AGE* anos. El [él]{}<pr:su:pron> es muy comico y divertido. Cuando voy a mi casa, siempre hablo con el y nosotros vamos al restaurantes [restaurantes]{restaurante}<na:noun> juntos. El [él]{}<pr:su:pron> nacio en *BIRTH_DATE*. El le gusta dibujar y nadar. A veces, el [él]{}<pr:su:pron>  dibuja nuestro [nuestro]{nuestra}<ga:det> familia o comida. Me gusta cuidar y comprar comida para el. Nostotros vamos al parque muchos [muchos]{mucho}<in:adv>, y jugamos al futbol juntos. El le gusta bebir te con leche y comer postres. A veces, horneo galletas con el. Tambien el le gusta jugar videojuegos. Cuando estoy en mi casa en *CITY*, camino a su escuela con el por la manana. Despues de la escuela, a veces salimos a comprar bebidas. Su [su]{sus}<na:det> comidas favoritas son sushi, carne de Korean, y arroz con huevos. El le gusta cuando cocino huevos con arroz y jamon para el.
+# updated annotation ann2 = Una persona especial en mi vida es mi hermano. [El]{}<pr:su:pron> es [pequena]{pequeño}<ga:adj>, y solo tiene *AGE* anos. [El]{}<pr:su:pron> es muy comico y divertido. Cuando voy a mi casa, siempre hablo con el y [nosotros]{}<pr:su:pron> vamos [al]{a los}<na:det> restaurantes juntos. El nacio en *BIRTH_DATE*. [El]{}<pr:su:pron> le gusta dibujar y nadar. A veces, [el]{}<pr:su:pron> dibuja [nuestro]{nuestra}<ga:det> familia o comida. Me gusta cuidar y comprar comida para el. [Nostotros]{]<pr:su:pron> vamos al parque [muchos]{mucho}<na:adv>, y jugamos al futbol juntos. [El]{}<pr:su:pron> le gusta bebir te con leche y comer postres. A veces, horneo galletas con el. Tambien [el]{}<pr:su:pron> le gusta jugar videojuegos. Cuando estoy en mi casa en *CITY*, camino a su escuela con el por la manana. Despues de la escuela, a veces salimos a comprar bebidas. [Su]{Sus}<na:det> comidas favoritas son []{el}<ab.det.art.def> sushi, []{la}<ab.det.art.def> carne de Korean,y []{el}<ab.det.art.def> arroz con huevos. [El]{}<pr:su:pron> le gusta cuando cocino huevos con arroz y jamon para el.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial en mi vida es mi hermano. Es pequeño y solo tiene *AGE* años. Es muy cómico y divertido. Cuando voy a mi casa, siempre hablo con él y vamos a los restaurantes juntos. El nació en *BIRTH_DATE*. Le gusta dibujar y nadar. A veces, dibuja a nuestra familia o comida. Me gusta cuidarle y comprar comida para él. Vamos al parque muchos y jugamos al futbol juntos. Le gusta beber té con leche y comer postres. A veces horneo galletas con él. también le gusta jugar a videojuegos. Cuando estoy en mi casa en *CITY*, camino a su escuela con él por la mañana. Después de la escuela a veces salimos a comprar bebidas. Sus comidas favoritas son el sushi, la carne de Corea y el arroz con huevos. Le gusta cuando cocino huevos con arroz y jamón para él.
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi hermano. El es pequena, y solo tiene *AGE* anos. El es muy comico y divertido. Cuando voy a mi casa, siempre hablo con el y nosotros vamos al restaurantes juntos. El nacio en *BIRTH_DATE*. El le gusta dibujar y nadar. A veces, el dibuja nuestro familia o comida. Me gusta cuidar y comprar comida para el. Nostotros vamos al parque muchos, y jugamos al futbol juntos. El le gusta bebir te con leche y comer postres. A veces, horneo galletas con el. Tambien el le gusta jugar videojuegos. Cuando estoy en mi casa en *CITY*, camino a su escuela con el por la manana. Despues de la escuela, a veces salimos a comprar bebidas. Su comidas favoritas son sushi, carne de Korean, y arroz con huevos. El le gusta cuando cocino huevos con arroz y jamon para el.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	solo	solo	ADV	_	_	7	advmod	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	*AGE*	*age*	SYM	_	_	9	punct	_	_
+9	anos	ano	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	comico	comico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	siempre	siempre	ADV	_	_	8	advmod	_	_
+8	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	obl	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
+13	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	al	a	ADP	_	_	15	case	_	_
+15	restaurantes	restaurante	NOUN	_	Number=Plur	13	obl	_	_
+16	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	nacio	nacio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	2	case	_	_
+4	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dibujar	dibujar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	nadar	nadar	VERB	_	VerbForm=Inf	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	A	a	ADP	_	_	5	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dibuja	dibujar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	o	o	CCONJ	_	_	9	cc	_	_
+9	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cuidar	cuidar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	comprar	comprar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nostotros	Nostotros	PROPN	_	_	2	nsubj	_	_
+2	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	parque	parque	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	nsubj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	bebir	bebir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	leche	leche	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	comer	comer	VERB	_	VerbForm=Inf	4	conj	_	_
+10	postres	postr	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	A	a	ADP	_	_	4	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	horneo	hornear	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+5	galletas	galleta	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	4	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	jugar	jugar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	videojuegos	videojuego	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	*City*	PROPN	_	_	15	flat	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	camino	camino	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	manana	manana	NOUN	_	_	9	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Despues	despues	ADV	_	_	4	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	a	a	ADP	_	_	8	advmod	_	_
+7	veces	veces	NOUN	_	_	6	fixed	_	_
+8	salimos	salir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	comprar	comprar	VERB	_	VerbForm=Inf	8	advcl	_	_
+11	bebidas	bebida	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	sushi	sushi	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	carne	carne	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Korean	Korean	PROPN	_	_	7	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	huevos	huevo	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cuando	cuando	SCONJ	_	_	5	mark	_	_
+5	cocino	cocenir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	huevos	huevo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	jamon	jamor	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	para	para	ADP	_	_	12	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

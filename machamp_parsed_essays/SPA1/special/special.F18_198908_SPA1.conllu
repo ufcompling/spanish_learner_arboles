@@ -1,0 +1,241 @@
+# Unnamed: 0 = 181
+# id = 198908
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = none
+# language(s) used at home = No, I speak English at home.
+# language(s) studied = I took Chinese for 4 years in high school. I have studied Spanish on my own for about a year. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una persona especialidad es mi hermana. Ella tiene *AGE* años, y vive en *STATE*. Nosotras somos muy simpáticas, porque [nosotras]{}<pr:su:pron> les gustan las mismas cosas. Ella le gusta correr, cocinar, y escuchar música. Juega la guitarra también. [Ella]{}<pr:su:pron> es China, y tiene los ojos [negras]{negros}<ga:adj>. [Ella]{}<pr:su:pron> tiene el pelo negro. Mi hermana es muy bonita. [Ella]{}<pr:su:pron> es alta, delgada, y fuerte. [Ella]{}<pr:su:pron> es [corredor]{corredora}<ga:adj>, [los]{las}<ga:det> dos [distancia]{distancias}<na:noun> largas y cortas. [Ella]{}<pr:su:pron> es muy inteligente también. Tiene "A" en [todos]{todas}<ga:adj> las classes. [Su]{Sus}<na:det> profesoras les gusta ella mucho. [Juntos]{Juntas}<ga:adj>, mi hermana y yo hacemos mucho divertida. Nosotras les gusta comer, dormir, y viajar. El [verano proximo]{próximo verano}<col:adj>, [nosotras]{}<pr:su:pron> vamos a *CITY*, *STATE*, y Canadá. Ella [quiere]{quería}<fs:st:t> ir a Europe, pero no tenemos tiempo. Ella [es]{está}<conf:v:seta> en []{la}<ab:det:art:def> escuela secundaria, así que  [ella]{}<pr:su:pron> tiene que estudiar mucho. []{Yo}<ab:su:pron> Necesito estudiar mucho también, pero tengo mas tiempo. Mi hermana es mi persona favorito. [Ella]{}<pr:su:pron> es la [hermana mejor]{mejor hermana}<col:adj>.  
+# updated annotation ann2 = Una persona especialidad es mi hermana. Ella [ella]{}<pr:su:pron> tiene *AGE* años, y vive en *STATE*. Nosotras somos muy simpáticas, porque nosotras [nosotras]{}<pr:su:pron> les gustan las mismas cosas. Ella le gusta correr, cocinar, y escuchar música. Juega la guitarra también. Ella [ella]{}<pr:su:pron> es China, y tiene los ojos negras [negras]{negros}<ga:adj>. Ella [ella]{}<pr:su:pron> tiene el pelo negro. Mi hermana es muy bonita. Ella [ella]{}<pr:su:pron> es alta, delgada, y fuerte. Ella [ella]{}<pr:su:pron> es corredor [corredor]{corredora}<ga:adj>, los dos distancia largas [largas]{larga}<na:adj> y cortas [cortas]{corta}<na:adj>. Ella [ella]{}<pr:su:pron> es muy inteligente también. Tiene "A" en todos [todos]{todas}<ga:det> las classes. Su [su]{sus}<na:det> profesoras les gusta [gusta]{gustan}<fs:st:pn> ella mucho. Juntos [juntos]{juntas}<gat:pron>, mi hermana y yo hacemos mucho divertida. Nosotras les gusta comer, dormir, y viajar. El verano próximo [verano próximo]{próximo verano}<col:adj>, nosotras vamos a *CITY*, *STATE*, y Canadá. Ella quiere ir a Europe, pero no tenemos tiempo. Ella es [es]{está}<conf:v:seta> en escuela secundaria, así que  ella [ella]{}<pr:su:pron>  tiene que estudiar mucho. Necesito estudiar mucho también, pero tengo mas tiempo. Mi hermana es mi persona favorito [favorito]{favorita}<ga:adj>. Ella [ella]{}<pr:su:pron>  es la hermana mejor [hermana mejor]{mejor hermana}<col:adj>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial es mi hermana. Tiene *AGE* años y vive en *STATE*. Nosotras somos muy simpáticas, porque nos gustan las mismas cosas. A ella le gusta correr, cocinar y escuchar música. Toca la guitarra también. Es china y tiene los ojos negros. Tiene el pelo negro. Mi hermana es muy bonita. Es alta, delgada y fuerte. Es corredora de las dos distancias, largas y cortas. Es muy inteligente también. Tiene sobresaliente en todas las clases. A sus profesoras les gusta mucho ella. Juntas, mi hermana y yo hacemos muchas cosas divertidas. A nosotras nos gusta comer, dormir y viajar. El próximo verano, vamos a *CITY*, *STATE* y a Canadá. Ella quería ir a Europa, pero no tenemos tiempo. Ella está en escuela secundaria, así que tiene que estudiar mucho. Yo necesito estudiar mucho también, pero tengo más tiempo. Mi hermana es mi persona favorita. Es la mejor hermana.
+# corrected2 = nan
+# text = Una persona especialidad es mi hermana. Ella tiene *AGE* años, y vive en *STATE*. Nosotras somos muy simpáticas, porque nosotras les gustan las mismas cosas. Ella le gusta correr, cocinar, y escuchar música. Juega la guitarra también. Ella es China, y tiene los ojos negras. Ella tiene el pelo negro. Mi hermana es muy bonita. Ella es alta, delgada, y fuerte. Ella es corredor, los dos distancia largas y cortas. Ella es muy inteligente también. Tiene "A" en todos las classes. Su profesoras les gusta ella mucho. Juntos, mi hermana y yo hacemos mucho divertida. Nosotras les gusta comer, dormir, y viajar. El verano proximo, nosotras vamos a *CITY*, *STATE*, y Canadá. Ella quiere ir a Europe, pero no tenemos tiempo. Ella es en escuela secundaria, así que ella tiene que estudiar mucho. Necesito estudiar mucho también, pero tengo mas tiempo. Mi hermana es mi persona favorito. Ella es la hermana mejor.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*STATE*	*state*	PUNCT	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotras	nosotro	PRON	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	simpáticas	simpático	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	nosotras	nosotro	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	nsubj	_	_
+8	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+9	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	mismas	mismo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+12	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	correr	correr	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	cocinar	cocinar	VERB	_	VerbForm=Inf	4	advcl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	escuchar	escuchar	VERB	_	VerbForm=Inf	4	conj	_	_
+10	música	música	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Juega	jogar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	también	también	ADV	_	_	1	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	China	China	PROPN	_	_	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	negras	negro	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	3	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	fuerte	fuerte	ADJ	_	Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	corredor	corredor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+7	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+8	largas	largo	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	cortas	corto	ADJ	_	Gender=Fem|Number=Plur	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+5	también	también	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+3	A	a	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	classes	classe	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	profesoras	profesora	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+3	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	mucho	mucho	ADV	_	_	4	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Juntos	junto	INTJ	_	Gender=Masc|Number=Plur	7	obj	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+7	hacemos	hacer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	mucho	mucho	ADV	_	_	9	advmod	_	_
+9	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nosotras	nosotro	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+2	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	comer	comer	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	dormir	dormir	VERB	_	VerbForm=Inf	4	advcl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	viajar	viajar	VERB	_	VerbForm=Inf	4	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	verano	verano	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+3	proximo	proximo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	nosotras	yosotra	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	nsubj	_	_
+6	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*CITY*	*city*	PROPN	_	_	5	punct	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	*STATE*	*state*	PROPN	_	_	8	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	Canadá	Canadá	PROPN	_	_	8	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Europe	Europe	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	así	así	ADV	_	_	10	mark	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
+9	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	que	que	SCONJ	_	_	12	cc	_	_
+12	estudiar	estudiar	VERB	_	VerbForm=Inf	10	conj	_	_
+13	mucho	mucho	ADV	_	_	12	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	estudiar	estudiar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	también	también	ADV	_	_	2	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	mas	mas	ADV	_	_	9	advmod	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

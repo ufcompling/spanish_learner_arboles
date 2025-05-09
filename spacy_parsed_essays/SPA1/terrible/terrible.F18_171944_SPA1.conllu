@@ -1,0 +1,209 @@
+# Unnamed: 0 = 172
+# id = 171944
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = veinte
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Yes, I speak Chinese at home.
+# language(s) studied = I have studied English for ten years. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una historia terrible Había una cosa terrible este lunes. Tengo un conflicto con mi amiga *FIRST_NAME*. Mi otro amigo *FIRST_NAME* me visitó desde *CITY* durante las vacaciones de Acción de Gracias. Ella tenía que ir al aeropuerto en saco a volar de vuelta. *FIRST_NAME* promesa de que ella puede conducir a mi amigo al aeropuerto a las dos de la tarde. Sin embargo, el lunes, ella no se levantó hasta las tres de la tarde. Me llamó por tres veces, pero nadie respondió. Así que sólo usé Uber para llevar a mi amigo al aeropuerto. Me sentí un poco decepcionado porque ella nunca hizo tales cosas antes. Más tarde, ella se despertó y me explicó que ella se quedó hasta tarde el día anterior. Aunque ella se disculpó conmigo, todavía no puedo calmar mi enojo en ese momento. Creo que tal vez soy demasiado impulsivo y debo entender la situación de *FIRST_NAME*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	historia	historia	NOUN	_	_	4	nsubj	_	_
+3	terrible	terrible	ADJ	_	_	2	amod	_	_
+4	Había	haber	AUX	_	_	0	ROOT	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	cosa	cosa	NOUN	_	_	4	obj	_	_
+7	terrible	terrible	ADJ	_	_	6	amod	_	_
+8	este	este	DET	_	_	9	det	_	_
+9	lunes	lunes	NOUN	_	_	4	obl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	conflicto	conflicto	NOUN	_	_	1	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	amiga	amiga	NOUN	_	_	1	obl	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	appos	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	otro	otro	DET	_	_	3	det	_	_
+3	amigo	amigo	NOUN	_	_	6	nsubj	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	appos	_	_
+5	me	yo	PRON	_	_	6	obj	_	_
+6	visitó	visitar	VERB	_	_	0	ROOT	_	_
+7	desde	desde	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	durante	durante	ADP	_	_	11	case	_	_
+10	las	el	DET	_	_	11	det	_	_
+11	vacaciones	vacación	NOUN	_	_	6	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	Acción	Acción	PROPN	_	_	11	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Gracias	Gracias	PROPN	_	_	13	flat	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	tenía	tener	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	4	cc	_	_
+4	ir	ir	VERB	_	_	2	conj	_	_
+5	al	al	ADP	_	_	6	case	_	_
+6	aeropuerto	aeropuerto	NOUN	_	_	4	obl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	saco	saco	NOUN	_	_	4	obl	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	volar	volar	VERB	_	_	4	xcomp	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	vuelta	vuelta	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	2	advmod	_	_
+2	promesa	promesa	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	7	mark	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	ella	él	PRON	_	_	7	nsubj	_	_
+6	puede	poder	AUX	_	_	7	aux	_	_
+7	conducir	conducir	VERB	_	_	2	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	amigo	amigo	NOUN	_	_	7	obj	_	_
+11	al	al	ADP	_	_	12	case	_	_
+12	aeropuerto	aeropuerto	NOUN	_	_	10	nmod	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	las	el	DET	_	_	15	det	_	_
+15	dos	dos	NUM	_	_	7	obl	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	tarde	tarde	NOUN	_	_	15	nmod	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sin	sin	ADP	_	_	10	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	lunes	lunes	NOUN	_	_	10	obl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ella	él	PRON	_	_	10	nsubj	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	levantó	levantar	VERB	_	_	0	ROOT	_	_
+11	hasta	hasta	ADP	_	_	13	case	_	_
+12	las	el	DET	_	_	13	det	_	_
+13	tres	tres	NUM	_	_	10	obl	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	tarde	tarde	NOUN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	llamó	llamar	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	tres	tres	NUM	_	_	5	nummod	_	_
+5	veces	vez	NOUN	_	_	2	obl	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	nadie	nadie	PRON	_	_	9	nsubj	_	_
+9	respondió	responder	VERB	_	_	2	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Así	así	ADV	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	sólo	sólo	ADV	_	_	4	advmod	_	_
+4	usé	usé	ADJ	_	_	1	dep	_	_
+5	Uber	Uber	PROPN	_	_	4	appos	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	llevar	llevar	VERB	_	_	4	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	amigo	amigo	NOUN	_	_	7	obj	_	_
+11	al	al	ADP	_	_	12	case	_	_
+12	aeropuerto	aeropuerto	NOUN	_	_	7	obl	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	sentí	sentir	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	decepcionado	decepcionado	ADJ	_	_	2	obj	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	ella	él	PRON	_	_	9	nsubj	_	_
+8	nunca	nunca	ADV	_	_	9	advmod	_	_
+9	hizo	hacer	VERB	_	_	2	advcl	_	_
+10	tales	tal	DET	_	_	11	det	_	_
+11	cosas	cosa	NOUN	_	_	9	obj	_	_
+12	antes	antes	ADV	_	_	9	advmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Más	más	ADV	_	_	2	advmod	_	_
+2	tarde	tarde	ADV	_	_	6	advmod	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ella	él	PRON	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	despertó	despertar	VERB	_	_	0	ROOT	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	explicó	explicar	VERB	_	_	6	conj	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	ella	él	PRON	_	_	13	nsubj	_	_
+12	se	él	PRON	_	_	13	expl:pv	_	_
+13	quedó	quedar	VERB	_	_	9	ccomp	_	_
+14	hasta	hasta	ADP	_	_	15	case	_	_
+15	tarde	tarde	ADV	_	_	13	advmod	_	_
+16	el	el	DET	_	_	17	det	_	_
+17	día	día	NOUN	_	_	13	obl	_	_
+18	anterior	anterior	ADJ	_	_	17	amod	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	4	mark	_	_
+2	ella	él	PRON	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	disculpó	disculpar	VERB	_	_	0	ROOT	_	_
+5	conmigo	yo	PRON	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	todavía	todavía	ADV	_	_	10	advmod	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	puedo	poder	AUX	_	_	10	aux	_	_
+10	calmar	calmar	VERB	_	_	4	advcl	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	enojo	enojo	NOUN	_	_	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	ese	ese	DET	_	_	15	det	_	_
+15	momento	momento	NOUN	_	_	10	obl	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	tal	tal	NOUN	_	_	7	advmod	_	_
+4	vez	vez	NOUN	_	_	3	fixed	_	_
+5	soy	ser	AUX	_	_	7	cop	_	_
+6	demasiado	demasiado	ADV	_	_	7	advmod	_	_
+7	impulsivo	impulsivo	ADJ	_	_	1	ccomp	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	debo	deber	AUX	_	_	10	aux	_	_
+10	entender	entender	VERB	_	_	7	conj	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	situación	situación	NOUN	_	_	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+

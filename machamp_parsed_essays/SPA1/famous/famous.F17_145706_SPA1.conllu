@@ -1,0 +1,96 @@
+# Unnamed: 0 = 62
+# id = 145706
+# prompt = famous
+# quarter = F17
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Punjabi
+# language(s) studied = Punjabi - 2 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su trabaja. 
+# a personal annotator2 = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su trabaja. 
+# gender-number annotator1 = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su [trabaja]{trabajo}<ig:f:noun:inan>. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su [trabaja]{trabajo}<ig:f:noun:inan>. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Emma Watson es mi actriz favorita. [Ella]{}<pr:su:pron> es muy bonita y me gusta su [trabaja]{trabajo}<gat:noun>. Emma trabajo en las peliculas de Harry Potter. Emma tiene [marron pelo]{pelo marrón}<col:adj> y [marron ojos]{ojos marrones}<col:adj><na:adj>. [Ella]{}<pr:su:pron> es alta y flacca. Emma trabaja para las Naciones Unidas. [Ella]{}<pr:su:pron> es una feminsta y dedicada. La admira por su [trabaja]{trabajo}<gat:noun>.
+# updated annotation ann2 = Emma Watson es mi actriz favorita. [Ella]{}<pr:su:pron> es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene []{el}<ab:det:art:def> [marron pelo]{pelo marrón}<col:adj> y []{los}<ab:det:art:def> [marron ojos]{ojos marrones}<col:adj><na:adj>. [Ella]{}<pr:su:pron> es alta y flacca. Emma trabaja para las Naciones Unidas. [Ella]{}<pr:su:pron> es una feminsta y dedicada. La admira por su trabaja.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su trabaja.
+# corrected2 = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su trabaja.
+# text = Emma Watson es mi actriz favorita. Ella es muy bonita y me gusta su trabaja. Emma trabajo en las peliculas de Harry Potter. Emma tiene marron pelo y marron ojos. Ella es alta y flacca. Emma trabaja para las Naciones Unidas. Ella es una feminsta y dedicada. La admira por su trabaja.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Emma	Emma	PROPN	_	_	5	nsubj	_	_
+2	Watson	Watson	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	trabaja	trabaja	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Emma	Emma	PROPN	_	_	2	nsubj	_	_
+2	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Harry	Harry	PROPN	_	_	5	nmod	_	_
+8	Potter	Potter	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Emma	Emma	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	marron	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	marron	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	flacca	flaccar	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Emma	Emma	PROPN	_	_	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	para	para	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	Naciones	Naciones	PROPN	_	_	2	obl	_	_
+6	Unidas	Unidas	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	feminsta	feminsto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	dedicada	dedicado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	admira	admirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	trabaja	trabaja	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

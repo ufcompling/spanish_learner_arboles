@@ -1,0 +1,350 @@
+# Unnamed: 0 = 163
+# id = 124238
+# prompt = terrible
+# quarter = F18
+# course = SPA 2
+# age = 22
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Spanish, 5 years. 
+# listening comprehension = 1.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Voy a escribir sobre el vez cuando yo corté mi mano en una ventana. Hace dos años en mi casa fraternidad cerca del *UNIVERSITY*. Regresé a mi casa fraternidad donde yo vivía después de trabajo en el casa del café en el *UNIVERSITY* campus. Entré en la casa y fui a mi cuarto, pero la puerta no estaba abierto. Así, yo encontré un destornillador, fui enfrente de mi cuarto y traté abrir la ventana. No pude abrirlo, pero cuando estaba tratando a abrir, la ventana destrozó y cortó mi mano en el vidrio. Tenía piezas de vidrio en el mano y mi muñeca, y había mucho sangre. Gritó, y unos amigos vieron a mi y trataron a detener el sangre. No lo detenía, así ellos me llevaron a el hospital. Manejamos allí, y estaba muy asustado porque mi muñeca estaba sangrando al lado de mi artería muy importante. Llegamos a el hospital, pero había mucha gente, así tenía que esperar. Diez minutos más tarde, me llevaron de vuelta y usaron un X-ray a mi. Entonces, vi el doctor y ella comenzó a retirar el vidrio en mi mano y muñeca. Después, ella cosió mi mano. Este estaba muy doloroso. Después de el accidente, no podía sentir nada en dos dedos en el mano izquierda. Pensé que esto era temporal, pero no era temporal para nada, porque aprendí que corté los nervios en mi mano. Tuve una cirugía para repararlo, pero la cirugía no trabajó. Hoy, no puedo sentir nada en dos dedos, y hay daño en los nervios, así tengo mucho dolor también.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	escribir	escribir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	cuando	cuando	SCONJ	_	_	9	mark	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	corté	cortar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	mano	mano	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	fraternidad	fraternidad	NOUN	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	cerca	cerca	ADV	_	_	6	advmod	_	_
+9	del	de	ADP	_	_	8	case	_	_
+10	*UNIVERSITY*	*university*	PUNCT	_	_	6	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Regresé	regres	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	fraternidad	fraternidad	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+6	donde	donde	ADV	_	PronType=Rel	8	advmod	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
+9	después	después	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+15	del	de	ADP	_	_	16	case	_	_
+16	café	café	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+17	en	en	ADP	_	_	20	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	*UNIVERSITY*	*university*	PROPN	_	_	4	nmod	_	_
+20	campus	campus	NOUN	_	_	14	appos	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Entré	entrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+11	pero	pero	CCONJ	_	_	16	cc	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+16	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Así	así	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	encontré	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	destornillador	destornillador	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9	enfrente	enfrente	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	traté	tratar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+15	abrir	abrir	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	abrirlo	abrir	VERB	_	VerbForm=Inf	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+5	pero	pero	CCONJ	_	_	14	cc	_	_
+6	cuando	cuando	SCONJ	_	_	8	mark	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	tratando	tratar	VERB	_	VerbForm=Ger	14	advcl	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	abrir	abrir	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	destrozó	destrozar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	cortó	cortar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	mano	mano	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	vidrio	vidrio	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	piezas	pieza	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	vidrio	vidrio	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mano	mano	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	muñeca	muñeca	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+14	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	15	det	_	_
+15	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Gritó	gritar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+3	y	y	CCONJ	_	_	6	cc	_	_
+4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+6	vieron	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	trataron	tratar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	detener	detener	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	detenía	detener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	así	así	ADV	_	_	8	advmod	_	_
+6	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	llevaron	llevar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Manejamos	manejar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	conj	_	_
+8	porque	porque	SCONJ	_	_	12	mark	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	muñeca	muñeca	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	sangrando	sangrar	VERB	_	VerbForm=Ger	7	advcl	_	_
+13	al	a	ADP	_	_	17	case	_	_
+14	lado	lado	NOUN	_	_	13	fixed	_	_
+15	de	de	ADP	_	_	13	fixed	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	artería	artería	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+18	muy	mucho	ADV	_	_	19	advmod	_	_
+19	importante	importante	ADJ	_	Number=Sing	17	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+8	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
+9	gente	gente	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+11	así	así	ADV	_	_	14	advmod	_	_
+12	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+13	que	que	SCONJ	_	_	14	cc	_	_
+14	esperar	esperar	VERB	_	VerbForm=Inf	12	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	tarde	tarde	ADV	_	_	7	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	llevaron	llevar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	vuelta	vuelta	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	usaron	usar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	X-ray	x-ray	PROPN	_	_	11	obj	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	comenzó	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	retirar	retirar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	vidrio	vidrio	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	mano	mano	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	muñeca	muñeca	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	cosió	coser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	mano	mano	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	doloroso	doloroso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Después	después	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+9	nada	nada	PRON	_	Number=Sing|PronType=Neg	8	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
+12	dedos	dedo	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mano	mano	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+16	izquierda	izquierdo	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pensé	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	esto	este	PRON	_	Number=Sing|PronType=Dem	5	nsubj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	temporal	temporal	ADJ	_	Number=Sing	1	ccomp	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	temporal	temporal	ADJ	_	Number=Sing	5	conj	_	_
+11	para	para	ADP	_	_	12	case	_	_
+12	nada	nada	PRON	_	Number=Sing|PronType=Neg	10	obl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+14	porque	porque	SCONJ	_	_	15	mark	_	_
+15	aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	advcl	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	corté	cortar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	ccomp	_	_
+18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	nervios	nervio	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
+22	mano	mano	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cirugía	cirugía	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	repararlo	reparar	VERB	_	VerbForm=Inf	3	acl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cirugía	cirugía	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	trabajó	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	sentir	sentir	VERB	_	VerbForm=Inf	0	root	_	_
+6	nada	nada	PRON	_	Number=Sing|PronType=Neg	5	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	dedos	dedo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	daño	daño	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	nervios	nervio	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+18	así	así	ADV	_	_	19	advmod	_	_
+19	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+20	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	21	det	_	_
+21	dolor	dolor	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	también	también	ADV	_	_	19	advmod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

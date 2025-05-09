@@ -1,0 +1,89 @@
+# Unnamed: 0 = 9
+# id = 175451
+# prompt = yourself
+# quarter = F20
+# course = SPA 24
+# age = 20
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = 3
+# language(s) used at home = SPA 24
+# language(s) studied = nan
+# listening comprehension = Yes
+# reading comprehension = 2
+# speaking ability = Yes. 1 to 3 months.
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Creci en una comunidad de bajo ingreso en el *PLACE* de *CITY* *CITY*, como muchos estoy tratando de salir de la pobreza e vivir una vida mejor. Soy una persona muy amable aunque aveces me cuesta ser asi. No es que soy persona agresiva, es que soy una persona muy nerviosa. d
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Creci en una comunidad de bajo ingreso en el *PLACE* de *CITY* *CITY*, como muchos estoy tratando de salir de la pobreza e vivir una vida mejor. Soy una persona muy amable aunque aveces me cuesta ser asi. No es que [soy]{sea}<fs:st:mo> []{una}<ab:det:art:indef> persona agresiva, es que soy una persona muy nerviosa. d
+# verbs annotation ann2 = nan
+# corrected1 = Creci en una comunidad de bajo ingreso en el *PLACE* de *CITY* *CITY*. Como muchos estoy tratando de salir de la pobreza y vivir una vida mejor. Soy una persona muy amable aunque a veces me cuesta ser así. No es que sea persona agresiva, es que soy una persona muy nerviosa.
+# corrected2 = nan
+# text = Creci en una comunidad de bajo ingreso en el *PLACE* de *CITY* *CITY*, como muchos estoy tratando de salir de la pobreza e vivir una vida mejor. Soy una persona muy amable aunque aveces me cuesta ser asi. No es que soy persona agresiva, es que soy una persona muy nerviosa. d
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Creci	creci	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	comunidad	comunidad	NOUN	_	_	1	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	bajo	bajo	ADJ	_	_	7	case	_	_
+7	ingreso	ingreso	NOUN	_	_	4	nmod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	*PLACE*	PLACE	PROPN	_	_	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*CITY*	CITY	PROPN	_	_	10	flat	_	_
+13	*CITY*	CITY	PROPN	_	_	12	flat	_	_
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	como	como	SCONJ	_	_	18	mark	_	_
+16	muchos	mucho	PRON	_	_	18	nsubj	_	_
+17	estoy	estar	AUX	_	_	18	aux	_	_
+18	tratando	tratar	VERB	_	_	4	acl	_	_
+19	de	de	ADP	_	_	20	mark	_	_
+20	salir	salir	VERB	_	_	18	xcomp	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	la	el	DET	_	_	23	det	_	_
+23	pobreza	pobreza	NOUN	_	_	20	obl	_	_
+24	e	e	CCONJ	_	_	25	cc	_	_
+25	vivir	vivir	VERB	_	_	20	conj	_	_
+26	una	uno	DET	_	_	27	det	_	_
+27	vida	vida	NOUN	_	_	25	obj	_	_
+28	mejor	mejor	ADJ	_	_	27	amod	_	_
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	persona	persona	NOUN	_	_	0	ROOT	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	amable	amable	ADJ	_	_	3	amod	_	_
+6	aunque	aunque	SCONJ	_	_	9	mark	_	_
+7	aveces	avez	NOUN	_	_	9	nsubj	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	cuesta	costar	VERB	_	_	3	advcl	_	_
+10	ser	ser	AUX	_	_	11	cop	_	_
+11	asi	asi	ADV	_	_	9	xcomp	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	es	ser	AUX	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	soy	ser	AUX	_	_	5	cop	_	_
+5	persona	persona	NOUN	_	_	2	ccomp	_	_
+6	agresiva	agresivo	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	es	ser	AUX	_	_	2	advcl	_	_
+9	que	que	SCONJ	_	_	12	mark	_	_
+10	soy	ser	AUX	_	_	12	cop	_	_
+11	una	uno	DET	_	_	12	det	_	_
+12	persona	persona	NOUN	_	_	8	ccomp	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	nerviosa	nervioso	ADJ	_	_	12	amod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	d	d	CCONJ	_	_	0	ROOT	_	_
+

@@ -1,0 +1,342 @@
+# Unnamed: 0 = 12
+# id = 154819
+# prompt = special
+# quarter = F19
+# course = SPA 2
+# age = I am twenty-one / 21 years old.
+# gender = Female
+# l1 language = English
+# other l1 language(s) = N/A.
+# language(s) used at home = Yes. The language is Vietnamese.
+# language(s) studied = I've studied Vietnamese for many years--specifically from the ages of two to ow.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida en mi madre. Su primer nombre es *FIRST_NAME* y tiene *AGE* años. Ella tiene el pelo negro oscuro que es rizado y largo. Ella también tiene ojos grandes y oscuros y una hermosa sonrisa. Mi mamá es del país Vietnam. Ella tiene otros ocho hermanos y es el tercer hijo de su familia. Al crecer, era una estudiante muy inteligente y trabajadora. Tenía que cuidar a sus hermanos menores y aún tenía que desempeñarse bien en la escuela. Su familia era muy pobre y nunca tuvo muchos artículos para ella cuando crecía. Fue a la universidad en Vietnam y fue costurera durante algunos años de su carrera. También era maestra de escuela y fue una carrera que disfrutó mucho. Por su experiencia como maestra, decidió tener hijos. Después de casarse con mi padre y comenzar a criar a mi hermana mayor y a mí, nuestra familia llegó a los Estados Unidos. Ahora es dueña de su propio negocio y trabaja como artista de uñas. Tengo muchos buenos recuerdos de ella. Está muy ocupada con el trabajo, pero siempre tiene tiempo para ayudarme a sentir que soy importante. Ella hace comidas caseras para mí, limpia mucho la casa, puede arreglar la ropa y tiene muchos otros talentos. También es una persona maravillosa que puede escuchar sus pensamientos con cuidado. También le encanta leer novelas románticas y escuchar música pop. Ella ve la vida de una manera que muchas personas no pueden. Amo mucho a mi mamá. Ella es una persona única y mi vida es mucho mejor con ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	0	ROOT	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	madre	madre	NOUN	_	_	2	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	3	det	_	_
+2	primer	primero	ADJ	_	_	3	amod	_	_
+3	nombre	nombre	NOUN	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	5	conj	_	_
+8	*AGE*	AGE	PROPN	_	_	7	nsubj	_	_
+9	años	año	NOUN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	negro	negro	ADJ	_	_	4	amod	_	_
+6	oscuro	oscuro	ADJ	_	_	4	amod	_	_
+7	que	que	PRON	_	_	9	nsubj	_	_
+8	es	ser	AUX	_	_	9	aux	_	_
+9	rizado	rizado	ADJ	_	_	4	acl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	largo	largo	ADJ	_	_	9	conj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	ojos	ojo	NOUN	_	_	3	obj	_	_
+5	grandes	grande	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	oscuros	oscuro	ADJ	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	una	uno	DET	_	_	11	det	_	_
+10	hermosa	hermoso	ADJ	_	_	11	amod	_	_
+11	sonrisa	sonrisa	NOUN	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	del	del	ADP	_	_	5	case	_	_
+5	país	país	NOUN	_	_	0	ROOT	_	_
+6	Vietnam	Vietnam	PROPN	_	_	5	appos	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	otros	otro	DET	_	_	5	det	_	_
+4	ocho	ocho	NUM	_	_	3	nummod	_	_
+5	hermanos	hermano	NOUN	_	_	2	obj	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	es	ser	AUX	_	_	10	cop	_	_
+8	el	el	DET	_	_	10	det	_	_
+9	tercer	tercer	ADJ	_	_	10	amod	_	_
+10	hijo	hijo	NOUN	_	_	2	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	su	su	DET	_	_	13	det	_	_
+13	familia	familia	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Al	al	ADP	_	_	2	case	_	_
+2	crecer	crecer	VERB	_	_	6	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	era	ser	AUX	_	_	6	cop	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	inteligente	inteligente	ADJ	_	_	6	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	trabajadora	trabajador	ADJ	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	cuidar	cuidar	VERB	_	_	1	conj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	_	6	det	_	_
+6	hermanos	hermano	NOUN	_	_	3	obj	_	_
+7	menores	menor	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	aún	aún	ADV	_	_	12	advmod	_	_
+10	tenía	tener	VERB	_	_	3	conj	_	_
+11	que	que	SCONJ	_	_	12	cc	_	_
+12	desempeñarse	desempeñar él	VERB	_	_	10	conj	_	_
+13	bien	bien	ADV	_	_	12	advmod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	escuela	escuela	NOUN	_	_	12	obl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	pobre	pobre	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	nunca	nunca	ADV	_	_	8	advmod	_	_
+8	tuvo	tener	VERB	_	_	5	conj	_	_
+9	muchos	mucho	DET	_	_	10	det	_	_
+10	artículos	artículo	NOUN	_	_	8	obj	_	_
+11	para	para	ADP	_	_	12	case	_	_
+12	ella	él	PRON	_	_	10	nmod	_	_
+13	cuando	cuando	SCONJ	_	_	14	mark	_	_
+14	crecía	crecer	VERB	_	_	8	advcl	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Fue	ser	AUX	_	_	4	cop	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	universidad	universidad	PROPN	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Vietnam	Vietnam	PROPN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	fue	ser	AUX	_	_	9	aux	_	_
+9	costurera	costurero	ADJ	_	_	4	conj	_	_
+10	durante	durante	ADP	_	_	12	case	_	_
+11	algunos	alguno	DET	_	_	12	det	_	_
+12	años	año	NOUN	_	_	9	obl	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	su	su	DET	_	_	15	det	_	_
+15	carrera	carrera	NOUN	_	_	12	nmod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	era	ser	AUX	_	_	3	cop	_	_
+3	maestra	maestra	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	escuela	escuela	NOUN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	fue	ser	AUX	_	_	9	cop	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	carrera	carrera	NOUN	_	_	3	conj	_	_
+10	que	que	PRON	_	_	11	nsubj	_	_
+11	disfrutó	disfrutar	VERB	_	_	9	acl	_	_
+12	mucho	mucho	ADV	_	_	11	advmod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Por	por	ADP	_	_	3	case	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	experiencia	experiencia	NOUN	_	_	7	obl	_	_
+4	como	como	SCONJ	_	_	5	mark	_	_
+5	maestra	maestra	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	decidió	decidir	VERB	_	_	0	ROOT	_	_
+8	tener	tener	VERB	_	_	7	xcomp	_	_
+9	hijos	hijo	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Después	después	ADV	_	_	21	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	casarse	casar él	VERB	_	_	1	advcl	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	padre	padre	NOUN	_	_	3	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	comenzar	comenzar	VERB	_	_	3	conj	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	criar	criar	VERB	_	_	8	xcomp	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	hermana	hermana	NOUN	_	_	8	obj	_	_
+14	mayor	mayor	ADJ	_	_	13	amod	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	mí	yo	PRON	_	_	13	conj	_	_
+18	,	,	PUNCT	_	_	1	punct	_	_
+19	nuestra	nuestro	DET	_	_	20	det	_	_
+20	familia	familia	NOUN	_	_	21	nsubj	_	_
+21	llegó	llegar	VERB	_	_	0	ROOT	_	_
+22	a	a	ADP	_	_	24	case	_	_
+23	los	el	DET	_	_	24	det	_	_
+24	Estados	Estados	PROPN	_	_	21	obl	_	_
+25	Unidos	Unidos	PROPN	_	_	24	flat	_	_
+26	.	.	PUNCT	_	_	21	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	dueña	dueño	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	su	su	DET	_	_	7	det	_	_
+6	propio	propio	DET	_	_	7	amod	_	_
+7	negocio	negocio	NOUN	_	_	3	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	trabaja	trabajar	VERB	_	_	3	conj	_	_
+10	como	como	SCONJ	_	_	11	mark	_	_
+11	artista	artista	NOUN	_	_	9	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	uñas	uña	NOUN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	4	det	_	_
+3	buenos	buen	ADJ	_	_	4	amod	_	_
+4	recuerdos	recuerdo	NOUN	_	_	1	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	ella	él	PRON	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Está	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	ocupada	ocupado	ADJ	_	_	0	ROOT	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	trabajo	trabajo	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	siempre	siempre	ADV	_	_	10	advmod	_	_
+10	tiene	tener	VERB	_	_	3	conj	_	_
+11	tiempo	tiempo	NOUN	_	_	10	obj	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	ayudarme	ayudar yo	VERB	_	_	10	advcl	_	_
+14	a	a	ADP	_	_	15	mark	_	_
+15	sentir	sentir	VERB	_	_	13	xcomp	_	_
+16	que	que	SCONJ	_	_	18	mark	_	_
+17	soy	ser	AUX	_	_	18	cop	_	_
+18	importante	importante	ADJ	_	_	15	ccomp	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	hace	hacer	VERB	_	_	0	ROOT	_	_
+3	comidas	comida	NOUN	_	_	2	obj	_	_
+4	caseras	casero	ADJ	_	_	3	amod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	2	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	limpia	limpia	VERB	_	_	2	advcl	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	casa	casa	NOUN	_	_	8	nsubj	_	_
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	puede	poder	AUX	_	_	14	aux	_	_
+14	arreglar	arreglar	VERB	_	_	2	xcomp	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	ropa	ropa	NOUN	_	_	14	obj	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	tiene	tener	VERB	_	_	14	conj	_	_
+19	muchos	mucho	DET	_	_	21	det	_	_
+20	otros	otro	DET	_	_	19	det	_	_
+21	talentos	talento	NOUN	_	_	18	obj	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	0	ROOT	_	_
+5	maravillosa	maravilloso	ADJ	_	_	4	amod	_	_
+6	que	que	PRON	_	_	8	nsubj	_	_
+7	puede	poder	AUX	_	_	8	aux	_	_
+8	escuchar	escuchar	VERB	_	_	4	acl	_	_
+9	sus	su	DET	_	_	10	det	_	_
+10	pensamientos	pensamiento	NOUN	_	_	8	obj	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	cuidado	cuidado	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	encanta	encantar	VERB	_	_	0	ROOT	_	_
+4	leer	leer	VERB	_	_	3	csubj	_	_
+5	novelas	novela	NOUN	_	_	4	obj	_	_
+6	románticas	romántico	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	escuchar	escuchar	VERB	_	_	4	conj	_	_
+9	música	música	NOUN	_	_	8	obj	_	_
+10	pop	pop	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	ve	ver	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	vida	vida	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	manera	manera	NOUN	_	_	4	nmod	_	_
+8	que	que	SCONJ	_	_	12	mark	_	_
+9	muchas	mucho	DET	_	_	10	det	_	_
+10	personas	persona	NOUN	_	_	12	nsubj	_	_
+11	no	no	ADV	_	_	12	advmod	_	_
+12	pueden	poder	AUX	_	_	7	acl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	mamá	mamá	NOUN	_	_	1	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	0	ROOT	_	_
+5	única	único	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	vida	vida	NOUN	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	mucho	mucho	ADV	_	_	11	advmod	_	_
+11	mejor	mejor	ADJ	_	_	4	conj	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	ella	él	PRON	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+

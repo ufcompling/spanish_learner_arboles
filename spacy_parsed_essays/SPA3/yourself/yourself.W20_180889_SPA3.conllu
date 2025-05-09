@@ -1,0 +1,244 @@
+# Unnamed: 0 = 74
+# id = 180889
+# prompt = yourself
+# quarter = W20
+# course = SPA 3
+# age = 30
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nope
+# language(s) used at home = NO
+# language(s) studied = Cambodian 7 years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola mi llamo es *FIRST_NAME* *LAST_NAME*. Soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en Psicología con especialización en envejecimiento y desarrollo de adultos. [Yo]{}<pr:su:pron> tengo *AGE* años; Mido cinco pies y cinco pulgadas. Tengo el pelo negro y los ojos marrones. Tengo diez dedos y dedos de los pies, una nariz, dos orejas, una boca y dos ojos. Originalmente me inscribí en []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY* en el otoño de 2007. Me especialicé en Bioquímica y Biología Molecular. Aprendí que no me gusta la bioquímica y la biología molecular, terminé dejando a *CITY* por unos años para trabajar y descubrir mi carrera. De alguna manera conseguí un trabajo trabajando en una farmacia durante unos años. Este trabajo me ayudó a conocer a muchas personas en la profesión médica. Estuve expuesto a muchos problemas de salud mental y me ayudó a darme cuenta de que quiero contribuir a la salud mental. Es por eso que decidí regresar a *CITY* y especializarme en Psicología con especialización en envejecimiento y desarrollo de adultos. Quiero comenzar una carrera en la comunidad de []{la}<ab:det:art:def> salud mental.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola mi llamo es *FIRST_NAME* *LAST_NAME*. Soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en Psicología con especialización en envejecimiento y desarrollo de adultos. [Yo]{}<pr:su:pron> tengo *AGE* años; Mido cinco pies y cinco pulgadas. Tengo el pelo negro y los ojos marrones. Tengo diez dedos y dedos de los pies, una nariz, dos orejas, una boca y dos ojos. Originalmente me inscribí en *UNIVERSITY* *UNIVERSITY* en el otoño de 2007. Me especialicé en Bioquímica y Biología Molecular. Aprendí que no me gusta la bioquímica y la biología molecular, terminé dejando a *CITY* por unos años para trabajar y descubrir mi carrera. De alguna manera conseguí un trabajo trabajando en una farmacia durante unos años. Este trabajo me ayudó a conocer a muchas personas en la profesión médica. Estuve expuesto a muchos problemas de salud mental y me ayudó a darme cuenta de que quiero contribuir a la salud mental. Es por eso que decidí regresar a *CITY* y especializarme en Psicología con especialización en envejecimiento y desarrollo de adultos. Quiero comenzar una carrera en la comunidad de salud mental.
+# verbs annotation ann2 = nan
+# corrected1 = Hola mi nombre es *FIRST_NAME* *LAST_NAME*. Soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en Psicología con especialización en envejecimiento y desarrollo de adultos. Tengo *AGE* años. Mido cinco pies y cinco pulgadas. Tengo el pelo negro y los ojos marrones. Tengo diez dedos y dedos de los pies, una nariz, dos orejas, una boca y dos ojos. Originalmente me inscribí en la *UNIVERSITY* *UNIVERSITY* en el otoño de 2007. Me especialicé en Bioquímica y Biología Molecular. Aprendí que no me gusta la Bioquímica y la Biología Molecular, terminé dejando *CITY* por unos años para trabajar y descubrir mi carrera. De alguna manera conseguí un trabajo en una farmacia durante unos años. Este trabajo me ayudó a conocer a muchas personas en la profesión médica. Estuve expuesto a muchos problemas de salud mental y me ayudó a darme cuenta de que quiero contribuir a la salud mental. Es por eso que decidí regresar a *CITY* y especializarme en Psicología con especialización en envejecimiento y desarrollo de adultos. Quiero comenzar una carrera en el campo de la salud mental.
+# corrected2 = nan
+# text = Hola mi llamo es *FIRST_NAME* *LAST_NAME*. Soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en Psicología con especialización en envejecimiento y desarrollo de adultos. Yo tengo *AGE* años; Mido cinco pies y cinco pulgadas. Tengo el pelo negro y los ojos marrones. Tengo diez dedos y dedos de los pies, una nariz, dos orejas, una boca y dos ojos. Originalmente me inscribí en *UNIVERSITY* *UNIVERSITY* en el otoño de 2007. Me especialicé en Bioquímica y Biología Molecular. Aprendí que no me gusta la bioquímica y la biología molecular, terminé dejando a *CITY* por unos años para trabajar y descubrir mi carrera. De alguna manera conseguí un trabajo trabajando en una farmacia durante unos años. Este trabajo me ayudó a conocer a muchas personas en la profesión médica. Estuve expuesto a muchos problemas de salud mental y me ayudó a darme cuenta de que quiero contribuir a la salud mental. Es por eso que decidí regresar a *CITY* y especializarme en Psicología con especialización en envejecimiento y desarrollo de adultos. Quiero comenzar una carrera en la comunidad de salud mental.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	5	nsubj	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	llamo	llamo	NOUN	_	_	1	flat	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+6	*LAST_NAME*	last_name	VERB	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	Universidad	Universidad	PROPN	_	_	2	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	2	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	3	obj	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	especializando	especializar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Psicología	Psicología	PROPN	_	_	3	obl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	especialización	especialización	NOUN	_	_	3	obl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	envejecimiento	envejecimiento	NOUN	_	_	7	nmod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	desarrollo	desarrollo	NOUN	_	_	9	conj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	adultos	adulto	NOUN	_	_	9	nmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	;	;	PUNCT	_	_	6	punct	_	_
+6	Mido	Mido	PROPN	_	_	2	obj	_	_
+7	cinco	cinco	NUM	_	_	6	nummod	_	_
+8	pies	pie	NOUN	_	_	6	amod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	cinco	cinco	NUM	_	_	11	nummod	_	_
+11	pulgadas	pulgada	ADJ	_	_	6	conj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	negro	negro	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	ojos	ojo	NOUN	_	_	1	conj	_	_
+8	marrones	marrón	NOUN	_	_	7	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	diez	diez	NUM	_	_	3	nummod	_	_
+3	dedos	dedo	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	dedos	dedo	NOUN	_	_	3	conj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	pies	pie	NOUN	_	_	3	nmod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	nariz	nariz	NOUN	_	_	8	appos	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	dos	dos	NUM	_	_	14	nummod	_	_
+14	orejas	oreja	NOUN	_	_	8	appos	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	una	uno	DET	_	_	17	det	_	_
+17	boca	boca	NOUN	_	_	8	appos	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	dos	dos	NUM	_	_	20	nummod	_	_
+20	ojos	ojo	NOUN	_	_	17	conj	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Originalmente	originalmente	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	obj	_	_
+3	inscribí	inscribir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	obl	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	otoño	otoño	NOUN	_	_	3	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	2007	2007	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	especialicé	especialicé	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Bioquímica	Bioquímica	PROPN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Biología	Biología	PROPN	_	_	4	conj	_	_
+7	Molecular	Molecular	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Aprendí	aprender	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	1	ccomp	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	bioquímica	bioquímica	NOUN	_	_	5	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	biología	biología	NOUN	_	_	7	conj	_	_
+11	molecular	molecular	ADJ	_	_	10	amod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	terminé	terminé	NOUN	_	_	14	aux	_	_
+14	dejando	dejar	VERB	_	_	5	advcl	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	*CITY*	CITY	PROPN	_	_	14	obl	_	_
+17	por	por	ADP	_	_	19	case	_	_
+18	unos	uno	DET	_	_	19	det	_	_
+19	años	año	NOUN	_	_	14	obl	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	trabajar	trabajar	VERB	_	_	19	acl	_	_
+22	y	y	CCONJ	_	_	23	cc	_	_
+23	descubrir	descubrir	VERB	_	_	21	conj	_	_
+24	mi	mi	DET	_	_	25	det	_	_
+25	carrera	carrera	NOUN	_	_	23	obj	_	_
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+1	De	de	ADP	_	_	3	case	_	_
+2	alguna	alguno	DET	_	_	3	det	_	_
+3	manera	manera	NOUN	_	_	4	obl	_	_
+4	conseguí	conseguí	VERB	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	trabajo	trabajo	NOUN	_	_	4	obj	_	_
+7	trabajando	trabajar	VERB	_	_	6	acl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	farmacia	farmacia	NOUN	_	_	7	obl	_	_
+11	durante	durante	ADP	_	_	13	case	_	_
+12	unos	uno	DET	_	_	13	det	_	_
+13	años	año	NOUN	_	_	7	obl	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	trabajo	trabajo	NOUN	_	_	4	nsubj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	ayudó	ayudar	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	conocer	conocer	VERB	_	_	4	compound	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	muchas	mucho	DET	_	_	9	det	_	_
+9	personas	persona	NOUN	_	_	4	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	profesión	profesión	NOUN	_	_	4	obl	_	_
+13	médica	médico	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estuve	estuve	AUX	_	_	2	aux	_	_
+2	expuesto	exponer	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	muchos	mucho	DET	_	_	5	det	_	_
+5	problemas	problema	NOUN	_	_	2	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	salud	salud	NOUN	_	_	5	nmod	_	_
+8	mental	mental	ADJ	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	ayudó	ayudar	VERB	_	_	2	conj	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	darme	dar yo	VERB	_	_	11	xcomp	_	_
+14	cuenta	cuenta	NOUN	_	_	13	compound	_	_
+15	de	de	ADP	_	_	17	mark	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	quiero	querer	VERB	_	_	13	ccomp	_	_
+18	contribuir	contribuir	VERB	_	_	17	xcomp	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	la	el	DET	_	_	21	det	_	_
+21	salud	salud	NOUN	_	_	18	obj	_	_
+22	mental	mental	ADJ	_	_	21	amod	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	por	por	ADP	_	_	3	case	_	_
+3	eso	ese	PRON	_	_	0	ROOT	_	_
+4	que	que	PRON	_	_	5	obl	_	_
+5	decidí	decidir	VERB	_	_	3	acl	_	_
+6	regresar	regresar	VERB	_	_	5	xcomp	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	especializarme	especializar yo	VERB	_	_	5	conj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	Psicología	Psicología	PROPN	_	_	10	obl	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	especialización	especialización	NOUN	_	_	10	obl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	envejecimiento	envejecimiento	NOUN	_	_	14	nmod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	desarrollo	desarrollo	NOUN	_	_	16	conj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	adultos	adulto	NOUN	_	_	16	nmod	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	comenzar	comenzar	VERB	_	_	1	xcomp	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	carrera	carrera	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	comunidad	comunidad	NOUN	_	_	2	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	salud	salud	NOUN	_	_	7	nmod	_	_
+10	mental	mental	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+

@@ -1,0 +1,355 @@
+# Unnamed: 0 = 145
+# id = 177553
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 21
+# gender = Female
+# l1 language = 2
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy *FIRST_NAME* *LAST_NAME*. Tengo *AGE* años y soy una estudiante de los ciencias políticas en la universidad de *UNIVERSITY*. Quiero ser una abogada cuando me gradúe de la universidad. Quiero ir a la escuela de abogadas. Soy muy baja y tengo pelo moreno. Mis ojos son morenos también. Tengo uñas cortas. Me gusta usar ropa informal porque me gusta jugar los deportivos. Pero, me gusta ropa arreglado también. Siempre llevo pantalones cortos, una camisa, un par de tenis, un par de gafas de sol, y una gorra de béisbol. Siempre llevo mi mochila y una botella de agua. Mis interesas incluyo los deportivos y pasar el rato con mis amigos. Mis amigos y yo siempre vamos a restaurantes. A veces voy con mi familia también. En mi familia, tengo un hermano mayor, un hermano menor, y mis dos padres. Mi hermano mayor se llama *FIRST_NAME* y tiene *AGE* años de edad. Mi hermano menor se llama *FIRST_NAME* y tiene *AGE* años. Mis padres se llaman *FIRST_NAME* y *FIRST_NAME* y ellos tienen *AGE* años. A veces mi abuela se queda con nosotros. Mi abuela se llama *FIRST_NAME* y tiene *AGE* años. También tengo un perro. Mi perro se llama *FIRST_NAME* y tiene *AGE* meses. Mi perro es tan bonito. Le gusta jugar afuera conmigo. Vivo en *CITY*, *STATE*. Ésta en *PLACE* *PLACE* *PLACE*. Siempre está calor en el verano. Siempre hace frío en el invierno. Vivo en una casa café color. Mi casa tiene cuatro cuartos y tres baños. Vivó en mi casa toda mi vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+4	*LAST_NAME*	last_name	VERB	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	soy	ser	AUX	_	_	7	cop	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	estudiante	estudiante	NOUN	_	_	1	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	ciencias	ciencia	NOUN	_	_	7	nmod	_	_
+11	políticas	política	ADJ	_	_	10	amod	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	universidad	universidad	NOUN	_	_	7	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	ser	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	abogada	abogada	NOUN	_	_	1	xcomp	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	me	yo	PRON	_	_	7	expl:pv	_	_
+7	gradúe	gradúe	VERB	_	_	4	advcl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	universidad	universidad	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	escuela	escuela	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	abogadas	abogada	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	baja	bajo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tengo	tener	VERB	_	_	3	conj	_	_
+6	pelo	pelo	NOUN	_	_	5	obj	_	_
+7	moreno	moreno	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	ojos	ojo	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	morenos	moreno	ADJ	_	_	0	ROOT	_	_
+5	también	también	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	uñas	uña	NOUN	_	_	1	obj	_	_
+3	cortas	corto	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	usar	usar	VERB	_	_	2	csubj	_	_
+4	ropa	ropa	NOUN	_	_	3	obj	_	_
+5	informal	informal	ADJ	_	_	4	amod	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gusta	gustar	VERB	_	_	2	advcl	_	_
+9	jugar	jugar	VERB	_	_	8	csubj	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	deportivos	deportivo	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	ropa	ropa	NOUN	_	_	4	nsubj	_	_
+6	arreglado	arreglado	ADJ	_	_	5	amod	_	_
+7	también	también	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	llevo	llevar	VERB	_	_	0	ROOT	_	_
+3	pantalones	pantalón	NOUN	_	_	2	obj	_	_
+4	cortos	corto	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	camisa	camisa	NOUN	_	_	3	appos	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	par	par	NOUN	_	_	3	appos	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	tenis	tenis	NOUN	_	_	10	nmod	_	_
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	un	uno	DET	_	_	15	det	_	_
+15	par	par	NOUN	_	_	2	obj	_	_
+16	de	de	ADP	_	_	15	case	_	_
+17	gafas	gafa	NOUN	_	_	15	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	sol	sol	NOUN	_	_	17	nmod	_	_
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	y	y	CCONJ	_	_	23	cc	_	_
+22	una	uno	DET	_	_	23	det	_	_
+23	gorra	gorra	NOUN	_	_	15	conj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	béisbol	béisbol	NOUN	_	_	23	nmod	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	llevo	llevar	VERB	_	_	0	ROOT	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	mochila	mochila	PROPN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	botella	botella	NOUN	_	_	2	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	agua	agua	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	interesas	interesas	VERB	_	_	3	nsubj	_	_
+3	incluyo	incluyo	VERB	_	_	0	ROOT	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	deportivos	deportivo	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	pasar	pasar	VERB	_	_	3	conj	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	rato	rato	NOUN	_	_	7	obj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	_	12	det	_	_
+12	amigos	amigo	NOUN	_	_	7	obl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	amigos	amigo	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	6	cc	_	_
+4	yo	yo	PRON	_	_	6	nsubj	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	vamos	ir	AUX	_	_	2	conj	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	restaurantes	restaurante	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	3	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	voy	ir	VERB	_	_	0	ROOT	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	3	obl	_	_
+7	también	también	ADV	_	_	3	advmod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	tengo	tener	VERB	_	_	0	ROOT	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	hermano	hermano	NOUN	_	_	5	obj	_	_
+8	mayor	mayor	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	hermano	hermano	NOUN	_	_	7	appos	_	_
+12	menor	menor	ADJ	_	_	11	amod	_	_
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	mis	mi	DET	_	_	17	det	_	_
+16	dos	dos	NUM	_	_	15	nummod	_	_
+17	padres	padre	NOUN	_	_	7	conj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	5	nsubj	_	_
+3	mayor	mayor	ADJ	_	_	2	amod	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tiene	tener	VERB	_	_	5	conj	_	_
+9	*AGE*	AGE	PROPN	_	_	8	obj	_	_
+10	años	año	NOUN	_	_	9	flat	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	edad	edad	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	5	nsubj	_	_
+3	menor	menor	ADJ	_	_	2	amod	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tiene	tener	VERB	_	_	5	conj	_	_
+9	*AGE*	AGE	PROPN	_	_	8	obj	_	_
+10	años	año	NOUN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	padres	padre	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llaman	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	ellos	él	PRON	_	_	10	nsubj	_	_
+10	tienen	tener	VERB	_	_	4	conj	_	_
+11	*AGE*	AGE	PROPN	_	_	10	obj	_	_
+12	años	año	NOUN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	6	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	abuela	abuela	NOUN	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	queda	quedar	VERB	_	_	0	ROOT	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	nosotros	yo	PRON	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	4	conj	_	_
+8	*AGE*	AGE	PROPN	_	_	7	obj	_	_
+9	años	año	NOUN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	4	conj	_	_
+8	*AGE*	AGE	PROPN	_	_	7	obj	_	_
+9	meses	mes	NOUN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	tan	tanto	ADV	_	_	5	advmod	_	_
+5	bonito	bonito	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	csubj	_	_
+4	afuera	afuero	ADJ	_	_	2	advcl	_	_
+5	conmigo	conmigo	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	*STATE*	STATE	PROPN	_	_	1	appos	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ésta	este	PRON	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	1	nmod	_	_
+4	*PLACE*	PLACE	PROPN	_	_	3	flat	_	_
+5	*PLACE*	PLACE	PROPN	_	_	3	flat	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	calor	calor	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	verano	verano	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	hace	hacer	VERB	_	_	0	ROOT	_	_
+3	frío	frío	NOUN	_	_	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	invierno	invierno	NOUN	_	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	casa	casa	NOUN	_	_	1	obl	_	_
+5	café	café	NOUN	_	_	4	amod	_	_
+6	color	color	ADJ	_	_	4	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	casa	casa	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuatro	cuatro	NUM	_	_	5	nummod	_	_
+5	cuartos	cuarto	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	tres	tres	NUM	_	_	8	nummod	_	_
+8	baños	baño	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vivó	vivó	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	casa	casa	NOUN	_	_	1	obl	_	_
+5	toda	todo	DET	_	_	6	det	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	vida	vida	NOUN	_	_	1	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+

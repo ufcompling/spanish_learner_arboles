@@ -1,0 +1,354 @@
+# Unnamed: 0 = 57
+# id = 124446
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 21
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Este pasado acción de gracias mi novio y yo fuimos a el parque nacional de *PLACE*. Está lejos de *CITY* y tienes que conducir casi 7 horas hasta allí. El miércoles nos preparamos muy bien para este viaje. Compramos muchos alimentos porque íbamos a cocinar en el Airbnb. Fue un día soleado en *CITY* cuando llegamos en la carretera. Cuando nos acercamos a *CITY*, el clima cambió. Pronto empezó a llover. Usted sabe que es difícil conducir en días lluviosos. Además, la carretera *NUMBER* es carretera de montaña con zona de tobogán frecuente. Lamentablemente tenemos una llanta desinflada por las rocas. Cuando vimos la roca era demasiado peligroso para detener rápidamente porque el camino es resbaladizo y podría causar un accidente. También había un coche que venía del otro lado. No pudimos evitar pisar las rocas. Esperamos fuera durante cuatro horas para el camión de remolque para venir. Estaba helada afuera. Hubo un accidente más grave ocurrido y por lo que esperamos tanto tiempo. Cuando nuestro coche fue remolcado ya era muy tarde. Es acción de gracias por lo que no había taller de reparación abierto. Tuvimos que estar en otra ciudad por una noche con un costo adicional. El segundo día, caminamos hasta el taller de reparaciones, pero nos enteramos lo peor fue el taller de reparaciones que se supone que ir cerrado en el viernes negro.Nuestro coche tiene un neumático plano de funcionamiento por lo que todavía podría conducir por 50 millas. Tuvimos que conducir con llantas planas para varias millas a otra tienda. ¡Qué pesadilla! Pero creo que si me encontré con la situación de nuevo, estaría muy tranquilo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+2	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+3	acción	acción	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	novio	novio	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	parque	parque	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	nacional	nacional	ADJ	_	Number=Sing	13	amod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*PLACE*	*place*	PROPN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	lejos	lejos	ADV	_	_	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	que	que	SCONJ	_	_	8	cc	_	_
+8	conducir	conducir	VERB	_	VerbForm=Inf	6	conj	_	_
+9	casi	casi	ADV	_	_	11	advmod	_	_
+10	7	7	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+11	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	hasta	hasta	ADP	_	_	13	case	_	_
+13	allí	allí	ADV	_	_	8	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	miércoles	miércoles	NOUN	_	AdvType=Tim	4	obl	_	_
+3	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	preparamos	preparar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	bien	bien	ADV	_	_	4	advmod	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Compramos	comprar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	alimentos	alimento	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	íbamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	cocinar	cocinar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Airbnb	Airbnb	PROPN	_	_	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	soleado	soleado	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	*city*	PROPN	_	_	3	nmod	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	acercamos	acercar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*CITY*	*City*	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	clima	clima	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	cambió	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Pronto	pronto	ADV	_	_	2	advmod	_	_
+2	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	llover	llover	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Usted	tú	PRON	_	Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	2	nsubj	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	difícil	difícil	ADJ	_	Number=Sing	2	ccomp	_	_
+6	conducir	conducir	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+9	lluviosos	lluvioso	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Además	además	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	*NUMBER*	*number*	PUNCT	_	_	4	punct	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	zona	zona	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	tobogán	tobogán	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	frecuente	frecuente	ADJ	_	Number=Sing	11	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Lamentablemente	lamentablemente	ADV	_	_	2	advmod	_	_
+2	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	llanta	llanta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	desinflada	desinflado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	rocas	roca	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	roca	roca	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	demasiado	demasiado	ADV	_	_	7	advmod	_	_
+7	peligroso	peligroso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	detener	detener	VERB	_	VerbForm=Inf	7	acl	_	_
+10	rápidamente	rápidamente	ADV	_	_	9	advmod	_	_
+11	porque	porque	SCONJ	_	_	15	mark	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	camino	camino	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	resbaladizo	resbaladizo	ADJ	_	Gender=Masc|Number=Sing	7	advcl	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	18	aux	_	_
+18	causar	causar	VERB	_	VerbForm=Inf	15	conj	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	coche	coche	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	venía	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
+7	del	de	ADP	_	_	9	case	_	_
+8	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	lado	lado	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	pudimos	puder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	evitar	evitar	VERB	_	VerbForm=Inf	0	root	_	_
+4	pisar	pisar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	rocas	roca	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Esperamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fuera	fuera	ADV	_	_	1	advmod	_	_
+3	durante	durante	ADP	_	_	5	case	_	_
+4	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	camión	camión	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	remolque	remolque	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	venir	venir	VERB	_	VerbForm=Inf	1	advcl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	helada	helado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+3	afuera	afuera	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	grave	grave	ADJ	_	Number=Sing	3	amod	_	_
+6	ocurrido	ocurrido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
+10	que	que	PRON	_	PronType=Rel	11	obl	_	_
+11	esperamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	13	det	_	_
+13	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	5	mark	_	_
+2	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	coche	coche	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	remolcado	remolcar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+6	ya	ya	ADV	_	_	9	advmod	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	tarde	tarde	ADV	_	Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	acción	acción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+5	por	por	ADP	_	_	9	mark	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+7	que	que	PRON	_	PronType=Rel	9	obl	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl	_	_
+10	taller	taller	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	reparación	reparación	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	estar	estar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	costo	costo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+13	adicional	adicional	ADJ	_	Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	hasta	hasta	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	taller	taller	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	reparaciones	reparación	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	enteramos	enterar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+15	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
+16	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	19	amod	_	_
+17	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	taller	taller	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	reparaciones	reparación	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	_
+22	que	que	PRON	_	PronType=Rel	24	nsubj	_	_
+23	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	expl	_	_
+24	supone	suponer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+25	que	que	SCONJ	_	_	26	mark	_	_
+26	ir	ir	VERB	_	VerbForm=Inf	24	csubj	_	_
+27	cerrado	cerrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	26	obj	_	_
+28	en	en	ADP	_	_	30	case	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	viernes	viernes	NOUN	_	AdvType=Tim	26	obl	_	_
+31	negro	negro	ADJ	_	Gender=Masc|Number=Sing	30	amod	_	_
+32	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	coche	coche	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	neumático	neumático	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+6	plano	plano	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	funcionamiento	funcionamiento	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	por	por	ADP	_	_	14	mark	_	_
+10	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
+11	que	que	PRON	_	PronType=Rel	14	obl	_	_
+12	todavía	todavía	ADV	_	_	14	advmod	_	_
+13	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	14	aux	_	_
+14	conducir	conducir	VERB	_	VerbForm=Inf	3	advcl	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	50	50	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
+17	millas	milla	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	conducir	conducir	VERB	_	VerbForm=Inf	1	conj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	llantas	llanta	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+6	planas	plano	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	millas	milla	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	Qué	qué	DET	_	PronType=Int	3	det	_	_
+3	pesadilla	pesadilla	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+5	Pero	pero	CCONJ	_	_	6	cc	_	_
+6	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	que	que	SCONJ	_	_	19	mark	_	_
+8	si	si	SCONJ	_	_	10	mark	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	encontré	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	19	advcl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	situación	situación	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	de	de	ADP	_	_	10	advmod	_	_
+15	nuevo	nuevo	ADJ	_	_	14	fixed	_	_
+16	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+17	estaría	estar	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	cop	_	_
+18	muy	mucho	ADV	_	_	19	advmod	_	_
+19	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	6	ccomp	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

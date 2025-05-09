@@ -1,0 +1,335 @@
+# Unnamed: 0 = 57
+# id = 151385
+# prompt = special
+# quarter = W19
+# course = SPA 3
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = Vietnamese
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi hermano, *FIRST_NAME*. *FIRST_NAME* es mi hermano mayor. Siempre ha estado allí para mí y siempre me ha enseñado muchas cosas. *FIRST_NAME* a veces actúa como una figura paterna para mí. Eso es porque mi padre ha trabajado en otro Estado desde que era más joven. Mi mamá siempre estaría en el trabajo y *FIRST_NAME* sería el único que jugará conmigo o me llevará al cine. A los dos nos gusta mucho ver las películas. Cada vez que sale una nueva película, *FIRST_NAME* me llevaría a verla. Mi hermano realmente me ama. Me cuida y me da el mejor Consejo. Cuando me metió en problemas en la escuela o con mi mamá, *FIRST_NAME* siempre estaría allí para defenderme. Siempre me soportaría. Él también siempre me alegraría cuando estoy abajo y me lleve a conseguir la comida. Él siempre me haría reír, incluso si significa avergonzarse a sí mismo. *FIRST_NAME* tiene mucha sabiduría y me ha enseñado muchas lecciones creciendo. Él me ha dado diferentes perspectivas y me ha enseñado a ser compasivo y comprensivo. Al crecer, él empuja mis límites y me ayuda a hacer mi mejor esfuerzo. Él es uno de mis mayores partidarios en mi vida. A pesar de que no lo muestra, siempre me está animando y cree en mi capacidad para tener éxito en todo lo que hago. Aunque luchamos mucho, nos amamos mucho. Mi hermano es mi mejor amigo. Él es un modelo a seguir en mi vida. Él es mi superhéroe.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	hermano	hermano	NOUN	_	_	0	ROOT	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	appos	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	hermano	hermano	NOUN	_	_	0	ROOT	_	_
+5	mayor	mayor	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	ha	haber	AUX	_	_	3	aux	_	_
+3	estado	estar	AUX	_	_	0	ROOT	_	_
+4	allí	allí	ADV	_	_	3	advmod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	siempre	siempre	ADV	_	_	11	advmod	_	_
+9	me	yo	PRON	_	_	11	iobj	_	_
+10	ha	haber	AUX	_	_	11	aux	_	_
+11	enseñado	enseñar	VERB	_	_	3	conj	_	_
+12	muchas	mucho	DET	_	_	13	det	_	_
+13	cosas	cosa	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	4	advmod	_	_
+2	a	a	ADP	_	_	4	advmod	_	_
+3	veces	veces	NOUN	_	_	2	fixed	_	_
+4	actúa	actuar	VERB	_	_	0	ROOT	_	_
+5	como	como	SCONJ	_	_	7	mark	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	figura	figura	NOUN	_	_	4	obl	_	_
+8	paterna	paterno	ADJ	_	_	7	amod	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	mí	yo	PRON	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Eso	ese	PRON	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	7	mark	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	padre	padre	NOUN	_	_	7	nsubj	_	_
+6	ha	haber	AUX	_	_	7	aux	_	_
+7	trabajado	trabajar	VERB	_	_	2	ccomp	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	otro	otro	DET	_	_	10	det	_	_
+10	Estado	Estado	PROPN	_	_	7	obl	_	_
+11	desde	desde	ADP	_	_	15	mark	_	_
+12	que	que	SCONJ	_	_	15	mark	_	_
+13	era	ser	AUX	_	_	15	cop	_	_
+14	más	más	ADV	_	_	15	advmod	_	_
+15	joven	joven	ADJ	_	_	7	advcl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	estaría	estar	AUX	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	trabajo	trabajo	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	nsubj	_	_
+10	sería	ser	AUX	_	_	4	conj	_	_
+11	el	el	DET	_	_	14	det	_	_
+12	único	único	ADJ	_	_	14	amod	_	_
+13	que	que	PRON	_	_	14	nsubj	_	_
+14	jugará	jugar	VERB	_	_	10	ccomp	_	_
+15	conmigo	conmigo	NOUN	_	_	14	obj	_	_
+16	o	o	CCONJ	_	_	18	cc	_	_
+17	me	yo	PRON	_	_	18	iobj	_	_
+18	llevará	llevar	VERB	_	_	14	conj	_	_
+19	al	al	ADP	_	_	20	case	_	_
+20	cine	cine	NOUN	_	_	18	obl	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	dos	dos	NUM	_	_	5	obl	_	_
+4	nos	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	ver	ver	VERB	_	_	5	csubj	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	películas	película	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Cada	cada	DET	_	_	2	det	_	_
+2	vez	vez	NOUN	_	_	11	obl	_	_
+3	que	que	SCONJ	_	_	4	obl	_	_
+4	sale	salir	VERB	_	_	2	acl	_	_
+5	una	uno	DET	_	_	7	det	_	_
+6	nueva	nuevo	ADJ	_	_	7	amod	_	_
+7	película	película	NOUN	_	_	4	nsubj	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	11	nsubj	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	llevaría	llevar	VERB	_	_	0	ROOT	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	verla	ver él	VERB	_	_	11	xcomp	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	5	nsubj	_	_
+3	realmente	realmente	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	_	5	obj	_	_
+5	ama	amar	VERB	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	cuida	cuidar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	da	dar	VERB	_	_	2	conj	_	_
+6	el	el	DET	_	_	8	det	_	_
+7	mejor	mejor	ADJ	_	_	8	amod	_	_
+8	Consejo	Consejo	PROPN	_	_	5	nsubj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	metió	meter	VERB	_	_	16	advcl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	problemas	problema	NOUN	_	_	3	obl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	escuela	escuela	NOUN	_	_	3	obl	_	_
+9	o	o	CCONJ	_	_	12	cc	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	mamá	mamá	NOUN	_	_	8	conj	_	_
+13	,	,	PUNCT	_	_	3	punct	_	_
+14	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	16	nsubj	_	_
+15	siempre	siempre	ADV	_	_	16	advmod	_	_
+16	estaría	estar	VERB	_	_	0	ROOT	_	_
+17	allí	allí	ADV	_	_	16	advmod	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	defenderme	defender yo	VERB	_	_	17	advcl	_	_
+20	.	.	PUNCT	_	_	16	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	obj	_	_
+3	soportaría	soportar	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	5	nsubj	_	_
+2	también	también	ADV	_	_	5	advmod	_	_
+3	siempre	siempre	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	alegraría	alegrar	VERB	_	_	0	ROOT	_	_
+6	cuando	cuando	SCONJ	_	_	8	mark	_	_
+7	estoy	estar	AUX	_	_	8	cop	_	_
+8	abajo	abajo	ADV	_	_	5	advcl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	lleve	llevar	VERB	_	_	5	conj	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	conseguir	conseguir	VERB	_	_	11	xcomp	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	comida	comida	NOUN	_	_	13	obj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	siempre	siempre	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	haría	hacer	VERB	_	_	0	ROOT	_	_
+5	reír	reír	VERB	_	_	4	xcomp	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	incluso	incluso	ADV	_	_	9	advmod	_	_
+8	si	si	SCONJ	_	_	9	mark	_	_
+9	significa	significar	VERB	_	_	4	advcl	_	_
+10	avergonzarse	avergonzar él	VERB	_	_	9	xcomp	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	sí	él	PRON	_	_	10	obj	_	_
+13	mismo	mismo	DET	_	_	12	det	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	mucha	mucho	DET	_	_	4	det	_	_
+4	sabiduría	sabiduría	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	me	yo	PRON	_	_	8	iobj	_	_
+7	ha	haber	AUX	_	_	8	aux	_	_
+8	enseñado	enseñar	VERB	_	_	2	conj	_	_
+9	muchas	mucho	DET	_	_	10	det	_	_
+10	lecciones	lección	NOUN	_	_	8	obj	_	_
+11	creciendo	crecer	VERB	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	me	yo	PRON	_	_	4	iobj	_	_
+3	ha	haber	AUX	_	_	4	aux	_	_
+4	dado	dar	VERB	_	_	0	ROOT	_	_
+5	diferentes	diferente	DET	_	_	6	det	_	_
+6	perspectivas	perspectiva	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	me	yo	PRON	_	_	10	iobj	_	_
+9	ha	haber	AUX	_	_	10	aux	_	_
+10	enseñado	enseñar	VERB	_	_	4	conj	_	_
+11	a	a	ADP	_	_	13	mark	_	_
+12	ser	ser	AUX	_	_	13	cop	_	_
+13	compasivo	compasivo	ADJ	_	_	10	xcomp	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	comprensivo	comprensivo	ADJ	_	_	13	conj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Al	al	ADP	_	_	2	case	_	_
+2	crecer	crecer	VERB	_	_	5	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	él	él	PRON	_	_	5	nsubj	_	_
+5	empuja	empujar	VERB	_	_	0	ROOT	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	límites	límite	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	ayuda	ayudar	VERB	_	_	5	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	hacer	hacer	VERB	_	_	10	xcomp	_	_
+13	mi	mi	DET	_	_	15	det	_	_
+14	mejor	mejor	ADJ	_	_	15	amod	_	_
+15	esfuerzo	esfuerzo	NOUN	_	_	12	obj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	uno	uno	PRON	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	mis	mi	DET	_	_	7	det	_	_
+6	mayores	mayor	ADJ	_	_	7	amod	_	_
+7	partidarios	partidario	NOUN	_	_	3	nmod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	vida	vida	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	7	mark	_	_
+2	pesar	pesar	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
+5	no	no	ADV	_	_	7	advmod	_	_
+6	lo	él	PRON	_	_	7	obj	_	_
+7	muestra	mostrar	VERB	_	_	0	ROOT	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	siempre	siempre	ADV	_	_	12	advmod	_	_
+10	me	yo	PRON	_	_	12	expl:pass	_	_
+11	está	estar	AUX	_	_	12	aux	_	_
+12	animando	animar	VERB	_	_	7	advcl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	cree	creer	VERB	_	_	7	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	capacidad	capacidad	NOUN	_	_	14	obj	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	tener	tener	VERB	_	_	14	advcl	_	_
+20	éxito	éxito	NOUN	_	_	19	obj	_	_
+21	en	en	ADP	_	_	25	mark	_	_
+22	todo	todo	DET	_	_	23	det	_	_
+23	lo	él	PRON	_	_	25	det	_	_
+24	que	que	PRON	_	_	25	obj	_	_
+25	hago	hacer	VERB	_	_	19	advcl	_	_
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	2	mark	_	_
+2	luchamos	luchar	VERB	_	_	6	advcl	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	nos	yo	PRON	_	_	6	expl:pv	_	_
+6	amamos	amar	VERB	_	_	0	ROOT	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	6	nsubj	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	mi	mi	DET	_	_	6	det	_	_
+5	mejor	mejor	ADJ	_	_	6	amod	_	_
+6	amigo	amigo	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	modelo	modelo	NOUN	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	seguir	seguir	VERB	_	_	4	acl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	vida	vida	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	superhéroe	superhéroe	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+

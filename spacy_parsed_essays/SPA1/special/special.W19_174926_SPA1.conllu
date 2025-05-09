@@ -1,0 +1,227 @@
+# Unnamed: 0 = 51
+# id = 174926
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = no
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = [un]{una}<ga:det> persona special in mi vida es mi papa. mi papa es muy simpatico y trabajador. mi papa es mi persona favorita. mi papa es alto. mi papa se llama es *FIRST_NAME*. el tiene la piel de [moreno]{morena}<ga:adj> y clara. [el]{}<pr:su:pron> tiene vitiligo. [el]{}<pr:su:pron> es calvo pero tiene [un]{}<pr:det:art:indef> barba y bigote. [el]{}<pr:su:pron> tiene los ojos de marron y lleva [los]{}<pr:det:art:def> gafas. [el]{}<pr:su:pron> es [un]{}<pr:det:art:indef> carpintero, [el]{}<pr:su:pron> es [un]{}<pr:det:art:indef> empresario. mi papa es muy severs pero es muy carinoso. mi papa le gusta []{las}<ab:det:art:def> novelas de familia y accion. mi papa tiene cuatro ninos. mi papa solo lleva [uno]{}<pr:det:art:indef> pantalones de azul o gris y lleva [un]{una}<ga:det> camisa al trabajo. mi papa tiene dos trabajos. el trabajo de el clinico en el Centro de *CITY*. mi papa le gusta su trabajo. mi papa y yo [mejor]{mejores}<na:adj> amigos. mi papa es muy tonto y fuerte y inteligente. mi papa es Viejo pero es muy fuerte. quiero mi papa.
+# updated annotation ann2 = ﻿[un]{una}<ga:det> persona special in mi vida es mi papa. mi papa es muy simpatico y trabajador. mi papa es mi persona favorita. mi papa es alto. mi papa se llama es *FIRST_NAME*. [el]{}<pr:su:pron> tiene la piel de moreno y clara. [el]{}<pr:su:pron> tiene vitiligo. [el]{}<pr:su:pron> es calvo pero tiene [un]{}<pr:det:art:indef> barba y bigote. [el]{}<pr:su:pron> tiene los ojos de marron y lleva [los]{}<pr:det:art:def> gafas. [el]{}<pr:su:pron> es [un]{}<pr:det:art:indef> carpintero, [el]{}<pr:su:pron> es [un]{}<pr:det:art:indef> empresario. mi papa es muy severs pero es muy carinoso. mi papa le [gusta]{gustan}<fs:st:pn> novelas de familia y accion. mi papa tiene cuatro ninos. mi papa solo lleva [uno]{unos}<na:det> pantalones de azul o gris y lleva [un]{una}<ga:det> camisa al trabajo. mi papa tiene dos trabajos. el trabajo de el clinico en el Centro de *CITY*. mi papa le gusta su trabajo. mi papa y yo [mejor]{mejores}<na:adj> amigos. mi papa es muy tonto y fuerte y inteligente. mi papa es Viejo pero es muy fuerte. quiero mi papa.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial en mi vida es mi papá. Mi papá es muy simpático y trabajador. Mi papá es mi persona favorita. Mi papá es alto. Mi papá se llama *FIRST_NAME*. Él tiene la piel morena y clara. Tiene vitíligo. Es calvo, pero tiene barba y bigote. Tiene los ojos de color marrón y lleva gafas. Es carpintero y es empresario. Mi papá es muy severo, pero es muy cariñoso. A mi papá le gustan las novelas de familia y acción. Mi papá tiene cuatro niños. Mi papá solo lleva pantalones de color azul o gris y lleva una camisa al trabajo. Mi papá tiene dos trabajos. El trabajo de la clínica es en el centro de *CITY*. A mi papá le gusta su trabajo. Mi papá y yo somos mejores amigos. Mi papá es muy tonto, fuerte e inteligente. Mi papá es viejo, pero es muy fuerte. Quiero a mi papá.
+# corrected2 = nan
+# text = un persona special in mi vida es mi papa. mi papa es muy simpatico y trabajador. mi papa es mi persona favorita. mi papa es alto. mi papa se llama es *FIRST_NAME*. el tiene la piel de moreno y clara. el tiene vitiligo. el es calvo pero tiene un barba y bigote. el tiene los ojos de marron y lleva los gafas. el es un carpintero, el es un empresario. mi papa es muy severs pero es muy carinoso. mi papa le gusta novelas de familia y accion. mi papa tiene cuatro ninos. mi papa solo lleva uno pantalones de azul o gris y lleva un camisa al trabajo. mi papa tiene dos trabajos. el trabajo de el clinico en el Centro de *CITY*. mi papa le gusta su trabajo. mi papa y yo mejor amigos. mi papa es muy tonto y fuerte y inteligente. mi papa es Viejo pero es muy fuerte. quiero mi papa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	un	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	special	special	ADJ	_	_	2	amod	_	_
+4	in	in	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	papa	papa	PROPN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	simpatico	simpatico	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabajador	trabajador	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	favorita	favorito	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	alto	alto	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	6	csubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	el	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	piel	piel	NOUN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	moreno	moreno	PROPN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	clara	claro	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	el	el	DET	_	_	2	det	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	vitiligo	vitiligo	NOUN	_	_	2	iobj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	el	el	DET	_	_	3	det	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	calvo	calvo	NOUN	_	_	0	ROOT	_	_
+4	pero	pero	CCONJ	_	_	5	cc	_	_
+5	tiene	tener	VERB	_	_	3	conj	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	barba	barba	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	bigote	bigote	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	el	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	marron	marron	VERB	_	_	2	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	lleva	llevar	VERB	_	_	2	conj	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	gafas	gafa	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	el	el	DET	_	_	4	det	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	carpintero	carpintero	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	el	el	DET	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	empresario	empresario	NOUN	_	_	4	advcl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	severs	sever	ADJ	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	carinoso	carinoso	ADJ	_	_	5	conj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	novelas	novela	NOUN	_	_	4	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	familia	familia	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	accion	accion	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuatro	cuatro	NUM	_	_	5	nummod	_	_
+5	ninos	nino	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	solo	solo	ADV	_	_	4	advmod	_	_
+4	lleva	llevar	VERB	_	_	0	ROOT	_	_
+5	uno	uno	NUM	_	_	6	nummod	_	_
+6	pantalones	pantalón	NOUN	_	_	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	azul	azul	NOUN	_	_	6	nmod	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	gris	gris	ADJ	_	_	8	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	lleva	llevar	VERB	_	_	4	conj	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	camisa	camisa	NOUN	_	_	12	obj	_	_
+15	al	al	ADP	_	_	16	case	_	_
+16	trabajo	trabajo	NOUN	_	_	12	obj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	dos	dos	NUM	_	_	5	nummod	_	_
+5	trabajos	trabajo	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	el	el	DET	_	_	2	det	_	_
+2	trabajo	trabajo	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	clinico	clinico	NOUN	_	_	2	nmod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	Centro	Centro	PROPN	_	_	2	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	flat	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	trabajo	trabajo	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	_	2	conj	_	_
+5	mejor	mejor	ADJ	_	_	6	amod	_	_
+6	amigos	amigo	NOUN	_	_	2	appos	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	tonto	tonto	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	fuerte	fuerte	ADJ	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	inteligente	inteligente	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Viejo	Viejo	PROPN	_	_	0	ROOT	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	fuerte	fuerte	ADJ	_	_	4	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	quiero	querer	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	papa	papa	PROPN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+

@@ -1,0 +1,336 @@
+# Unnamed: 0 = 41
+# id = 225471
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = 2
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola mi nombre es *FIRST_NAME* *LAST_NAME*. Soy *AGE* anos y yo vivo en el *PLACE* *PLACE* en *STATE*. Mi madre es de *PLACE* y mi padre es de *PLACE*, entonces yo hablo arabe, pero Ingles es mi primer linguaje. I apprende Ingles de mi madre y padre y en el escuela. En la escuela secundaria yo necessito aprende espaonol para dos anos pero me gusta espanol asi que yo tome espanol para dos anos mas. Yo soy una persona athletica, adventuera, alta, carinosa y amable. Estoy un poco nerviosa porque yo tengo mucha tarea, examenes y pruebas la proxima semana. Yo estudio mucho por que yo quiero ser una abogada. My mejor es psiciologia y mi minor es en la ciencias politicas. Yo quiero ir a la escuela de ley en *STATE* pero yo necessito mas tiempo para ser una abogada. Tambien yo queiro ayudar mucha gente con la ley. Estoy tomando muchas clases dificil pero me gusta la clase de espanol porque mis companeros y mu profesor son comicos y amables. Nosotoros hablamos en espanol sobre nuestros semanas a sobre nuestros vidas. Es un clase muy intersante. En mu libre tiempo me gusta hacer ejercicio come jugar voleibol futbol, badminton y ballencesto. Tambien my gusta correr, nadar, y caminar. En el fin de semana me gusta hacer muchas actividas. Por ejempl, me gusta comprar en el centre de commercial, comprar comida de *PLACE* *PLACE*, comer en restaurantes nuevos, hablar con mis amigos y ver peliculas comicas. En el futuro, ojala que viajar todo el mundo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	5	nsubj	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	nombre	nombre	NOUN	_	_	1	obj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+6	*LAST_NAME*	last_name	VERB	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	*AGE*	AGE	PROPN	_	_	0	ROOT	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	vivo	vivir	VERB	_	_	2	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	*PLACE*	PLACE	PROPN	_	_	6	obl	_	_
+10	*PLACE*	PLACE	PROPN	_	_	9	flat	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*STATE*	STATE	PROPN	_	_	6	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	padre	padre	NOUN	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*PLACE*	PLACE	PROPN	_	_	5	conj	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	entonces	entonces	ADV	_	_	15	advmod	_	_
+14	yo	yo	PRON	_	_	15	nsubj	_	_
+15	hablo	hablar	VERB	_	_	5	advcl	_	_
+16	arabe	arabe	PROPN	_	_	15	xcomp	_	_
+17	,	,	PUNCT	_	_	23	punct	_	_
+18	pero	pero	CCONJ	_	_	23	cc	_	_
+19	Ingles	Ingles	PROPN	_	_	23	nsubj	_	_
+20	es	ser	AUX	_	_	23	cop	_	_
+21	mi	mi	DET	_	_	23	det	_	_
+22	primer	primero	ADJ	_	_	23	amod	_	_
+23	linguaje	linguaje	NOUN	_	_	5	conj	_	_
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+1	I	i	CCONJ	_	_	2	advmod	_	_
+2	apprende	apprendir	VERB	_	_	0	ROOT	_	_
+3	Ingles	Ingles	PROPN	_	_	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	mi	mi	PROPN	_	_	3	flat	_	_
+6	madre	madre	NOUN	_	_	3	flat	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	padre	padre	NOUN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	escuela	escuela	NOUN	_	_	3	conj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	escuela	escuela	NOUN	_	_	7	obl	_	_
+4	secundaria	secundario	ADJ	_	_	3	amod	_	_
+5	yo	yo	PROPN	_	_	7	nsubj	_	_
+6	necessito	necessito	PROPN	_	_	5	flat	_	_
+7	aprende	aprender	VERB	_	_	0	ROOT	_	_
+8	espaonol	espaonol	ADV	_	_	7	obj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	dos	dos	NUM	_	_	11	nummod	_	_
+11	anos	ano	NOUN	_	_	7	obl	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	me	yo	PRON	_	_	14	iobj	_	_
+14	gusta	gustar	VERB	_	_	7	conj	_	_
+15	espanol	espanol	NOUN	_	_	14	obj	_	_
+16	asi	asi	PROPN	_	_	14	nsubj	_	_
+17	que	que	PRON	_	_	19	mark	_	_
+18	yo	yo	PRON	_	_	19	nsubj	_	_
+19	tome	tomar	VERB	_	_	14	csubj	_	_
+20	espanol	espanol	NOUN	_	_	19	obj	_	_
+21	para	para	ADP	_	_	23	case	_	_
+22	dos	dos	NUM	_	_	23	nummod	_	_
+23	anos	ano	NOUN	_	_	19	obl	_	_
+24	mas	mas	ADV	_	_	23	advmod	_	_
+25	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	0	ROOT	_	_
+5	athletica	athletico	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	adventuera	adventuera	NOUN	_	_	4	appos	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	alta	alto	ADJ	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	carinosa	carinós	ADJ	_	_	7	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	amable	amable	ADJ	_	_	7	conj	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	estar	VERB	_	_	4	cop	_	_
+2	un	uno	DET	_	_	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	nerviosa	nervioso	ADJ	_	_	0	ROOT	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	tengo	tener	VERB	_	_	4	advcl	_	_
+8	mucha	mucho	DET	_	_	9	det	_	_
+9	tarea	tarea	NOUN	_	_	7	obj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	examenes	examen	NOUN	_	_	9	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	pruebas	prueba	NOUN	_	_	9	conj	_	_
+14	la	el	DET	_	_	16	det	_	_
+15	proxima	proxima	NOUN	_	_	16	amod	_	_
+16	semana	semana	NOUN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	por	por	ADP	_	_	7	mark	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	quiero	querer	VERB	_	_	2	advcl	_	_
+8	ser	ser	AUX	_	_	10	cop	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	abogada	abogada	NOUN	_	_	7	ccomp	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	My	my	DET	_	_	2	det	_	_
+2	mejor	mejor	ADJ	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	psiciologia	psiciologia	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	minor	minor	NOUN	_	_	4	conj	_	_
+8	es	ser	AUX	_	_	11	cop	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	ciencias	ciencia	NOUN	_	_	4	advcl	_	_
+12	politicas	politica	ADJ	_	_	11	amod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	xcomp	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	escuela	escuela	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	ley	ley	NOUN	_	_	6	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*STATE*	STATE	PROPN	_	_	3	obl	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	yo	yo	PRON	_	_	13	nsubj	_	_
+13	necessito	necessitir	VERB	_	_	2	conj	_	_
+14	mas	mos	DET	_	_	15	advmod	_	_
+15	tiempo	tiempo	NOUN	_	_	13	obj	_	_
+16	para	para	ADP	_	_	19	mark	_	_
+17	ser	ser	AUX	_	_	19	cop	_	_
+18	una	uno	DET	_	_	19	det	_	_
+19	abogada	abogada	NOUN	_	_	13	advcl	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	3	nsubj	_	_
+2	yo	yo	PRON	_	_	3	nsubj	_	_
+3	queiro	queirir	VERB	_	_	0	ROOT	_	_
+4	ayudar	ayudar	VERB	_	_	3	xcomp	_	_
+5	mucha	mucho	DET	_	_	6	det	_	_
+6	gente	gente	NOUN	_	_	4	obj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	ley	ley	NOUN	_	_	4	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	tomando	tomar	VERB	_	_	0	ROOT	_	_
+3	muchas	mucho	DET	_	_	4	det	_	_
+4	clases	clase	NOUN	_	_	2	obj	_	_
+5	dificil	dificil	ADJ	_	_	4	amod	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gusta	gustar	VERB	_	_	2	conj	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	clase	clase	NOUN	_	_	8	nsubj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	espanol	espanol	NOUN	_	_	10	nmod	_	_
+13	porque	porque	SCONJ	_	_	20	mark	_	_
+14	mis	mi	DET	_	_	15	det	_	_
+15	companeros	companero	NOUN	_	_	20	nsubj	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	mu	mu	PROPN	_	_	18	det	_	_
+18	profesor	profesor	NOUN	_	_	15	conj	_	_
+19	son	ser	AUX	_	_	20	cop	_	_
+20	comicos	comico	ADJ	_	_	8	advcl	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	amables	amable	ADJ	_	_	20	conj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nosotoros	Nosotoros	PROPN	_	_	2	nsubj	_	_
+2	hablamos	hablar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	espanol	espanol	NOUN	_	_	2	obl	_	_
+5	sobre	sobre	ADP	_	_	7	case	_	_
+6	nuestros	nuestro	DET	_	_	7	det	_	_
+7	semanas	semana	NOUN	_	_	2	obl	_	_
+8	a	a	ADP	_	_	11	case	_	_
+9	sobre	sobre	ADP	_	_	8	fixed	_	_
+10	nuestros	nuestro	DET	_	_	11	det	_	_
+11	vidas	vida	NOUN	_	_	2	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	clase	clase	NOUN	_	_	0	ROOT	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	intersante	intersante	ADJ	_	_	3	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	mu	mu	NOUN	_	_	4	det	_	_
+3	libre	libre	ADJ	_	_	4	amod	_	_
+4	tiempo	tiempo	NOUN	_	_	6	obl	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	hacer	hacer	VERB	_	_	6	csubj	_	_
+8	ejercicio	ejercicio	NOUN	_	_	7	obj	_	_
+9	come	comar	VERB	_	_	6	csubj	_	_
+10	jugar	jugar	VERB	_	_	9	xcomp	_	_
+11	voleibol	voleibol	NOUN	_	_	10	obj	_	_
+12	futbol	futbol	NOUN	_	_	10	obj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	badminton	badminton	PROPN	_	_	6	dep	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	ballencesto	ballencesto	NOUN	_	_	14	conj	_	_
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Tambien	Tambien	PROPN	_	_	3	nsubj	_	_
+2	my	my	DET	_	_	1	dep	_	_
+3	gusta	gusta	NOUN	_	_	0	ROOT	_	_
+4	correr	correr	VERB	_	_	3	xcomp	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	nadar	nadar	VERB	_	_	4	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	caminar	caminar	VERB	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	fin	fin	NOUN	_	_	7	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	_	3	nmod	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	gusta	gustar	VERB	_	_	0	ROOT	_	_
+8	hacer	hacer	VERB	_	_	7	csubj	_	_
+9	muchas	mucho	DET	_	_	10	det	_	_
+10	actividas	activida	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	ejempl	ejempl	NOUN	_	_	5	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	comprar	comprar	VERB	_	_	5	csubj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	centre	centre	NOUN	_	_	6	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	commercial	commercial	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	comprar	comprar	VERB	_	_	5	advcl	_	_
+14	comida	comida	NOUN	_	_	13	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*PLACE*	PLACE	PROPN	_	_	14	nmod	_	_
+17	*PLACE*	PLACE	PROPN	_	_	16	flat	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	comer	comer	VERB	_	_	13	advcl	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	restaurantes	restaurante	NOUN	_	_	19	obl	_	_
+22	nuevos	nuevo	ADJ	_	_	21	amod	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	hablar	hablar	VERB	_	_	19	advcl	_	_
+25	con	con	ADP	_	_	27	case	_	_
+26	mis	mi	DET	_	_	27	det	_	_
+27	amigos	amigo	NOUN	_	_	24	obl	_	_
+28	y	y	CCONJ	_	_	29	cc	_	_
+29	ver	ver	VERB	_	_	19	conj	_	_
+30	peliculas	pelicula	NOUN	_	_	29	obj	_	_
+31	comicas	comica	ADJ	_	_	30	amod	_	_
+32	.	.	PUNCT	_	_	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	futuro	futuro	NOUN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ojala	ojala	NOUN	_	_	3	appos	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	viajar	viajar	VERB	_	_	5	acl	_	_
+8	todo	todo	DET	_	_	9	det	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	mundo	mundo	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+

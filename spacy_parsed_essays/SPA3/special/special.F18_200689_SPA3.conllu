@@ -1,0 +1,342 @@
+# Unnamed: 0 = 157
+# id = 200689
+# prompt = special
+# quarter = F18
+# course = SPA 3
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi novio *FIRST_NAME*. Èl es muy honesto, carinoso, y amable. Conocí a *FIRST_NAME* cuando tenía 13 años. *FIRST_NAME* tuvo càncer, y no fue a la escuela por dos meses. Cuando regresó, *FIRST_NAME* y yo estemos en la clase de música juntos. En esta clase, nos hicimos buenos amigos. Me gusté él mucho, y *FIRST_NAME* me gusté mucho también. Me pidió que fui su novio cuando tenía 14 años. Mi madre no sepa por seis meses porque ella no quieró que yo tuve un novio. *FIRST_NAME* me llevó a muchos lugares, incluyendo parques de atracciones nuevas ciudades. También estuvimos juntos en la clase de música por cinco años. También fue el Drum Major y el presidente en nuestra banda. Él preparó nuestra banda para competiciones y fue un líder increíble. Hicimos todo juntos, y fue increíble. *FIRST_NAME* también me ayuda cuando estoy triste y me hace feliz. Mi vida en mi casa nunca fue buena, pero me hizo olvidarlo cada vez que estaba con él. *FIRST_NAME* también tiene una familia muy buena y me ayuda mucho. *FIRST_NAME* y yo somos los mejores amigos ahora, y *FIRST_NAME* me pidió que me casara con él hace tres meses. Dije que sí, y nos vamos a casar en agosto de 2020. Estoy muy feliz de que estar con *FIRST_NAME* por el resto de mi vida. En general, *FIRST_NAME* es una persona muy importante en mi vida. Lo amo porque me hace feliz y es una persona increíble. Yo no puedo vivir sin él.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	novio	novio	NOUN	_	_	0	ROOT	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	appos	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Èl	Èl	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	honesto	honesto	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	carinoso	carinoso	ADJ	_	_	4	advmod	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	amable	amable	ADJ	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Conocí	conocer	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	obj	_	_
+4	cuando	cuando	SCONJ	_	_	5	mark	_	_
+5	tenía	tener	VERB	_	_	1	advcl	_	_
+6	13	13	NUM	_	_	7	nummod	_	_
+7	años	año	NOUN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	tuvo	tener	VERB	_	_	0	ROOT	_	_
+3	càncer	càncer	VERB	_	_	2	xcomp	_	_
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	no	no	ADV	_	_	10	advmod	_	_
+7	fue	ser	AUX	_	_	10	cop	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	escuela	escuela	NOUN	_	_	2	conj	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	dos	dos	NUM	_	_	13	nummod	_	_
+13	meses	mes	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	regresó	regresar	VERB	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	estemos	estemos	VERB	_	_	2	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	clase	clase	NOUN	_	_	7	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	música	música	NOUN	_	_	10	nmod	_	_
+13	juntos	junto	ADJ	_	_	10	amod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	esta	este	DET	_	_	3	det	_	_
+3	clase	clase	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	nos	yo	PRON	_	_	6	iobj	_	_
+6	hicimos	hicir	VERB	_	_	0	ROOT	_	_
+7	buenos	buen	ADJ	_	_	8	amod	_	_
+8	amigos	amigo	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusté	gusté	VERB	_	_	0	ROOT	_	_
+3	él	él	PRON	_	_	2	nsubj	_	_
+4	mucho	mucho	ADV	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	nsubj	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	gusté	gusté	VERB	_	_	2	conj	_	_
+10	mucho	mucho	ADV	_	_	11	advmod	_	_
+11	también	también	ADV	_	_	9	advmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	pidió	pedir	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	fui	ir	VERB	_	_	6	cop	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	novio	novio	NOUN	_	_	2	ccomp	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	tenía	tener	VERB	_	_	6	advcl	_	_
+9	14	14	NUM	_	_	10	nummod	_	_
+10	años	año	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	0	ROOT	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	sepa	sepa	PROPN	_	_	2	amod	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	seis	seis	NUM	_	_	7	nummod	_	_
+7	meses	mes	NOUN	_	_	4	nmod	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	ella	él	PRON	_	_	11	nsubj	_	_
+10	no	no	ADV	_	_	11	advmod	_	_
+11	quieró	quierar	VERB	_	_	2	acl	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	yo	yo	PRON	_	_	14	nsubj	_	_
+14	tuve	tener	VERB	_	_	11	ccomp	_	_
+15	un	uno	DET	_	_	16	det	_	_
+16	novio	novio	NOUN	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	llevó	llevar	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	muchos	mucho	DET	_	_	6	det	_	_
+6	lugares	lugar	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	incluyendo	incluir	VERB	_	_	3	advcl	_	_
+9	parques	parque	NOUN	_	_	8	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	atracciones	atracción	NOUN	_	_	9	nmod	_	_
+12	nuevas	nuevo	ADJ	_	_	13	amod	_	_
+13	ciudades	ciudad	NOUN	_	_	8	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	estuvimos	estuvir	AUX	_	_	3	cop	_	_
+3	juntos	junto	ADJ	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	clase	clase	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	música	música	NOUN	_	_	6	nmod	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	cinco	cinco	NUM	_	_	11	nummod	_	_
+11	años	año	NOUN	_	_	3	obl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	fue	ser	AUX	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	Drum	Drum	PROPN	_	_	2	nsubj	_	_
+5	Major	Major	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	presidente	presidente	NOUN	_	_	4	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	nuestra	nuestro	DET	_	_	11	det	_	_
+11	banda	banda	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	preparó	preparar	VERB	_	_	0	ROOT	_	_
+3	nuestra	nuestro	DET	_	_	4	det	_	_
+4	banda	banda	NOUN	_	_	2	obj	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	competiciones	competición	NOUN	_	_	2	obl	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	fue	ser	AUX	_	_	10	cop	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	líder	líder	NOUN	_	_	2	conj	_	_
+11	increíble	increíble	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hicimos	hacer	VERB	_	_	0	ROOT	_	_
+2	todo	todo	PRON	_	_	1	obj	_	_
+3	juntos	junto	ADJ	_	_	1	amod	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	fue	ser	AUX	_	_	7	cop	_	_
+7	increíble	increíble	ADJ	_	_	1	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	también	también	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	ayuda	ayudar	VERB	_	_	0	ROOT	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	estoy	estar	AUX	_	_	7	cop	_	_
+7	triste	triste	ADJ	_	_	4	advcl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	hace	hacer	VERB	_	_	7	conj	_	_
+11	feliz	feliz	ADJ	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	vida	vida	NOUN	_	_	8	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	casa	casa	NOUN	_	_	2	nmod	_	_
+6	nunca	nunca	ADV	_	_	8	advmod	_	_
+7	fue	ser	AUX	_	_	8	cop	_	_
+8	buena	buen	ADJ	_	_	0	ROOT	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	hizo	hacer	VERB	_	_	8	conj	_	_
+13	olvidarlo	olvidar él	VERB	_	_	12	xcomp	_	_
+14	cada	cada	DET	_	_	15	det	_	_
+15	vez	vez	NOUN	_	_	13	obl	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	estaba	estar	AUX	_	_	15	acl	_	_
+18	con	con	ADP	_	_	19	case	_	_
+19	él	él	PRON	_	_	17	obl	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	familia	familia	NOUN	_	_	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	buena	buen	ADJ	_	_	5	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	ayuda	ayudar	VERB	_	_	3	conj	_	_
+11	mucho	mucho	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	0	ROOT	_	_
+2	y	y	CCONJ	_	_	7	cc	_	_
+3	yo	yo	PRON	_	_	7	nsubj	_	_
+4	somos	ser	AUX	_	_	7	cop	_	_
+5	los	el	DET	_	_	7	det	_	_
+6	mejores	mejor	ADJ	_	_	7	amod	_	_
+7	amigos	amigo	NOUN	_	_	1	conj	_	_
+8	ahora	ahora	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	13	nsubj	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	pidió	pedir	VERB	_	_	1	conj	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	me	yo	PRON	_	_	16	obj	_	_
+16	casara	casar	VERB	_	_	13	ccomp	_	_
+17	con	con	ADP	_	_	18	case	_	_
+18	él	él	PRON	_	_	16	obl	_	_
+19	hace	hacer	VERB	_	_	16	advcl	_	_
+20	tres	tres	NUM	_	_	21	nummod	_	_
+21	meses	mes	NOUN	_	_	19	obj	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Dije	decir	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	sí	sí	INTJ	_	_	1	ccomp	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	nos	yo	PRON	_	_	9	iobj	_	_
+7	vamos	ir	AUX	_	_	9	aux	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	casar	casar	VERB	_	_	1	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	agosto	agosto	NOUN	_	_	9	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	2020	2020	NUM	_	_	11	compound	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	mark	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	estar	estar	VERB	_	_	3	acl	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	obl	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	resto	resto	NOUN	_	_	6	obl	_	_
+12	de	de	ADP	_	_	11	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	vida	vida	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	7	advmod	_	_
+2	general	general	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	persona	persona	NOUN	_	_	0	ROOT	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	importante	importante	ADJ	_	_	7	amod	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	vida	vida	NOUN	_	_	7	nmod	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	hace	hacer	VERB	_	_	2	advcl	_	_
+6	feliz	feliz	ADJ	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	persona	persona	NOUN	_	_	5	conj	_	_
+11	increíble	increíble	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	puedo	poder	AUX	_	_	4	aux	_	_
+4	vivir	vivir	VERB	_	_	0	ROOT	_	_
+5	sin	sin	ADP	_	_	6	case	_	_
+6	él	él	PRON	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+

@@ -1,0 +1,93 @@
+# Unnamed: 0 = 141
+# id = 207499
+# prompt = special
+# quarter = W19
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = no
+# language(s) used at home = Mandarin
+# language(s) studied = no
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un [un]{una}<ga:det> persona especial de mi vida es mi pero. El [él]{}<pr:su:pron> vuelve [vuelve]{vino}<fs:st:t> a mi familiar cuando tengo [tengo]{tenía}<fs:st:t> 10 anós. El [él]{}<pr:su:pron>  tiene 2 mes. El [él]{}<pr:su:pron> tiene el pelo café y rizado. Su [su]{sus}<na:det> ojos negros y brillante [brillante]{brillantes}<na:adj>, y tiene piernas lagras. El [él]{}<pr:su:pron> es [es]{está}<conf:v:seta> siempre enérgico y se gusta saltar encima de []{la}<ab:det:art:def> mesa y nosotros camas.
+# updated annotation ann2 = [Un]{Una}<ga:det> persona especial de mi vida es mi pero. El [vuelve]{volvió}<fs:st:t> a mi familiar cuando tengo 10 anós. El [tiene]{tenía}<fs:st:t> 2 [mes]{meses}<na:noun>. El tiene el pelo café y rizado. Su ojos negros y [brillante]{brillantes}<na:adj>, y tiene []{las}<ab:det:art:def> piernas lagras. El [es]{está}<conf:v:seta> siempre enérgico y se gusta saltar encima de []{la}<ab:det:art:def> mesa y nosotros camas.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial de mi vida es mi perro. Él vino a mi familia cuando tenía 10 años. Él tenía dos meses. Tiene el pelo café y rizado. Los ojos negros y brillantes, y tiene patas largas. Siempre está enérgico y le gusta saltar encima de la mesa y nuestras camas.
+# corrected2 = nan
+# text = Un persona especial de mi vida es mi pero. El vuelve a mi familiar cuando tengo 10 anós. El tiene 2 mes. El tiene el pelo café y rizado. Su ojos negros y brillante, y tiene piernas lagras. El es siempre enérgico y se gusta saltar encima de mesa y nosotros camas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	8	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	pero	pero	CCONJ	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	vuelve	vuelve	NOUN	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	familiar	familiar	ADJ	_	_	2	amod	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	tengo	tener	VERB	_	_	2	advcl	_	_
+8	10	10	NUM	_	_	9	nummod	_	_
+9	anós	anós	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	2	2	NUM	_	_	4	nummod	_	_
+4	mes	mes	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	café	café	NOUN	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	ojos	ojo	NOUN	_	_	0	ROOT	_	_
+3	negros	negro	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	brillante	brillante	ADJ	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tiene	tener	VERB	_	_	2	conj	_	_
+9	piernas	pierna	NOUN	_	_	10	amod	_	_
+10	lagras	lagra	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	enérgico	enérgico	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	_	7	expl:pass	_	_
+7	gusta	gustar	VERB	_	_	4	conj	_	_
+8	saltar	saltar	VERB	_	_	7	csubj	_	_
+9	encima	encima	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	mesa	mesa	NOUN	_	_	8	obl	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	nosotros	yo	PRON	_	_	11	conj	_	_
+14	camas	cama	NOUN	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+

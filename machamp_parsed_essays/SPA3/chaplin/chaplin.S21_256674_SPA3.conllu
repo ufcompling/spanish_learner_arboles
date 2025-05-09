@@ -1,0 +1,361 @@
+# Unnamed: 0 = 52
+# id = 256674
+# prompt = chaplin
+# quarter = S21
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Charles Chaplin está en este video. Parece ser un video mudo. Decía "culo incómodo" al principio. Estaba fumando. Hay música de fondo todo el tiempo. Es muy molesto. Tira sus guantes a la basura. Ve un bebé. Le da el bebé a una mujer. Ella no lo quiere. Intenta devolver al bebé. Está atrapado. Le da el bebé a un hombre. ¡Él huye! El otro hombre le vuelve a dar el bebé a la mujer. La mujer golpea a Charles Chaplin con un paraguas en la cabeza. Ella esta muy enojada. Tenía que recuperar al bebé. El policía seguía a Charles Chaplin por toda la ciudad. Iba a poner al bebé bajo tierra. Estaba sentado y jugando con el bebé al costado de la carretera. Encontró una nota en el bebé. Decía "por favor ame y cuide a mi hijo". Charles Chaplin estaba triste. El niño era huérfano. ¡Sus padres lo dejaron junto a un bote de basura! Muy triste. Le sonrió al bebé y quiere que sea su bebé. Se puso de pie con el bebé. Se fue con él. Creo que probablemente se llevó al bebé a casa y lo convirtió en su bebé.Pero no estoy seguro porque el clip no tuvo final. Todo lo que vi fue a él corriendo mucho con el bebé. Fue muy triste que el bebé no tuviera padres y fuera huérfano.La música también cambió de feliz a triste cuando Charles Chaplin se dio cuenta de que tenía que cuidar al bebé porque no tenía madre ni padre.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Charles	Charles	PROPN	_	_	3	nsubj	_	_
+2	Chaplin	Chaplin	PROPN	_	_	1	flat	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	video	video	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	_	Gender=Masc|Number=Sing	1	xcomp	_	_
+5	mudo	mudo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Decía	decíer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+3	culo	culo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	incómodo	incómodo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+6	al	a	ADP	_	_	1	case	_	_
+7	principio	principio	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	fumando	fumar	VERB	_	VerbForm=Ger	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	música	música	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	de	de	ADP	_	_	2	advmod	_	_
+4	fondo	fondo	NOUN	_	_	3	fixed	_	_
+5	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	6	det	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tira	tirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	guantes	guante	NOUN	_	Number=Plur	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	basura	basura	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Intenta	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	devolver	devolver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	atrapado	atrapado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	huye	huir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	1	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+5	vuelve	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	dar	dar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	golpea	golpear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Charles	Charles	PROPN	_	_	3	obj	_	_
+6	Chaplin	Chaplin	PROPN	_	_	5	flat	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	paraguas	paragua	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	cabeza	cabeza	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	enojada	enojado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	recuperar	recuperar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	policía	policía	NOUN	_	Number=Sing	3	nsubj	_	_
+3	seguía	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Charles	Charles	PROPN	_	_	3	obj	_	_
+6	Chaplin	Chaplin	PROPN	_	_	5	flat	_	_
+7	por	por	ADP	_	_	10	case	_	_
+8	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	9	det	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	poner	poner	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	bajo	bajo	ADP	_	_	7	case	_	_
+7	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	sentado	sentado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	jugando	jugar	VERB	_	VerbForm=Ger	2	conj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	al	a	ADP	_	_	7	case	_	_
+9	costado	costado	NOUN	_	_	8	fixed	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Encontró	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	nota	nota	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Decía	decíer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+3	por	por	ADP	_	_	5	advmod	_	_
+4	favor	favor	NOUN	_	_	3	fixed	_	_
+5	ame	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cuide	cuidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+11	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Charles	Charles	PROPN	_	_	4	nsubj	_	_
+2	Chaplin	Chaplin	PROPN	_	_	1	flat	_	_
+3	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	niño	niño	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	huérfano	huérfano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	5	punct	_	_
+2	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	dejaron	dejar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	junto	junto	ADJ	_	_	9	case	_	_
+7	a	a	ADP	_	_	6	fixed	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bote	bote	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	basura	basura	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+
+1	Muy	mucho	ADV	_	_	2	advmod	_	_
+2	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	sonrió	senrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	6	ccomp	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	pie	pie	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	probablemente	probablemente	ADV	_	_	5	advmod	_	_
+4	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	obl	_	_
+5	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	convirtió	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	seguro	seguro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	clip	clip	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	final	final	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+2	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	csubj	_	_
+5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+8	corriendo	correr	VERB	_	VerbForm=Ger	5	xcomp	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	csubj	_	_
+9	padres	padre	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	huérfano	huérfano	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	música	música	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	cambió	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	feliz	feliz	ADJ	_	Number=Sing	4	advmod	_	_
+7	a	a	ADP	_	_	8	cc	_	_
+8	triste	triste	ADJ	_	Number=Sing	6	conj	_	_
+9	cuando	cuando	SCONJ	_	_	13	mark	_	_
+10	Charles	Charles	PROPN	_	_	13	nsubj	_	_
+11	Chaplin	Chaplin	PROPN	_	_	10	flat	_	_
+12	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+14	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	13	compound	_	_
+15	de	de	ADP	_	_	17	mark	_	_
+16	que	que	SCONJ	_	_	19	mark	_	_
+17	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
+18	que	que	SCONJ	_	_	19	cc	_	_
+19	cuidar	cuidar	VERB	_	VerbForm=Inf	17	conj	_	_
+20	al	a	ADP	_	_	21	case	_	_
+21	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	porque	porque	SCONJ	_	_	24	mark	_	_
+23	no	no	ADV	_	Polarity=Neg	24	advmod	_	_
+24	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	advcl	_	_
+25	madre	madre	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+26	ni	ni	CCONJ	_	_	27	cc	_	_
+27	padre	padre	NOUN	_	Gender=Masc|Number=Sing	25	conj	_	_
+28	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

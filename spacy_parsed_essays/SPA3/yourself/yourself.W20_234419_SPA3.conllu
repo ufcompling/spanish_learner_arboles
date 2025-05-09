@@ -1,0 +1,158 @@
+# Unnamed: 0 = 136
+# id = 234419
+# prompt = yourself
+# quarter = W20
+# course = SPA 3
+# age = 18
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = French 2 years
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis [examen]{exámenes}<na:noun> que van a pasar [este]{esta}<ga:adj> semana. Si me gusta []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la [mayoridades]{mayoría}<na:noun> de mis clases tienen casi [dos cientos]{doscientas}<ga:adj> personas que también quieren hacer [todo]{todas}<ga:na:adj> sus tareas y exámenes [perfecto]{perfectos}<na:adj>. [Yo]{}<pr:su:pron> no siento que es fácil tener []{unos}<ab:det:art:indef> grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, quiere graduar (Sorry if this turns out a bit late)
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis [examen]{exámenes}<na:noun> que van a pasar [este]{esta}<ga:det> semana. Si me gusta *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la mayoridades de mis clases tienen casi [dos cientos]{doscientas}<ga:adj> personas que también quieren hacer [todo]{todas}<ga:na:det> sus tareas y exámenes [perfecto]{perfectos}<na:adj>. [Yo]{}<pr:su:pron> no siento que [es]{sea}<fs:st:mo> fácil tener grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, [quiere]{quiero}<fs:st:pn> graduar (Sorry if this turns out a bit late)
+# verbs annotation ann2 = nan
+# corrected1 = Tengo muchas cosas que hacer hoy. Tengo que hacer la tarea de la clase de Español, la tarea de Matemáticas y también necesito estudiar para mis exámenes, que son esta semana. Me gusta la *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil sacar muy buenas notas aquí porque en la mayoría de mis clases hay casi doscientas personas que también quieren hacer todas sus tareas y exámenes perfectos. No creo que sea fácil sacar unas notas buenísimas y, aunque estudio muchas horas cada día, me resulta difícil. Pero, de todos modos, aquí estoy y aquí me voy a quedar porque quiero graduarme (Sorry if this turns out a bit late). 
+# corrected2 = nan
+# text = Tengo muchas cosas a hacer hoy. Tengo mi tarea de mi clase de español, mí tarea de math, y también necesito a estudiar para mis examen que van a pasar este semana. Si me gusta *UNIVERSITY* *UNIVERSITY*, pero es cierto que es muy difícil tener grados muy buenos aquí porque la mayoridades de mis clases tienen casi dos cientos personas que también quieren hacer todo sus tareas y exámenes perfecto. Yo no siento que es fácil tener grados perfectos, y aunque estudio por muchas horas cada día, todavía es una lucha. Pero de todos modos aquí estoy y aquí me voy a quedar, quiere graduar (Sorry if this turns out a bit late)
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	cosas	cosa	NOUN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	hacer	hacer	VERB	_	_	3	acl	_	_
+6	hoy	hoy	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tarea	tarea	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	clase	clase	NOUN	_	_	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	español	español	NOUN	_	_	6	nmod	_	_
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	mí	yo	PRON	_	_	11	nsubj	_	_
+11	tarea	tarear	VERB	_	_	1	advcl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	math	math	NOUN	_	_	11	nmod	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	también	también	ADV	_	_	17	advmod	_	_
+17	necesito	necesitar	VERB	_	_	1	conj	_	_
+18	a	a	ADP	_	_	19	mark	_	_
+19	estudiar	estudiar	VERB	_	_	17	xcomp	_	_
+20	para	para	ADP	_	_	22	case	_	_
+21	mis	mi	DET	_	_	22	det	_	_
+22	examen	examen	NOUN	_	_	19	obl	_	_
+23	que	que	PRON	_	_	26	nsubj	_	_
+24	van	ir	AUX	_	_	26	aux	_	_
+25	a	a	ADP	_	_	26	mark	_	_
+26	pasar	pasar	VERB	_	_	22	acl	_	_
+27	este	este	DET	_	_	28	det	_	_
+28	semana	semana	NOUN	_	_	26	obl	_	_
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Si	si	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	nsubj	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	cierto	cierto	ADJ	_	_	3	conj	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	difícil	difícil	ADJ	_	_	9	csubj	_	_
+14	tener	tener	VERB	_	_	13	csubj	_	_
+15	grados	grado	NOUN	_	_	14	obj	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	buenos	buen	ADJ	_	_	15	amod	_	_
+18	aquí	aquí	ADV	_	_	14	advmod	_	_
+19	porque	porque	SCONJ	_	_	25	mark	_	_
+20	la	el	DET	_	_	21	det	_	_
+21	mayoridades	mayoridad	NOUN	_	_	25	nsubj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	mis	mi	DET	_	_	24	det	_	_
+24	clases	clase	NOUN	_	_	21	nmod	_	_
+25	tienen	tener	VERB	_	_	14	advcl	_	_
+26	casi	casi	ADV	_	_	29	advmod	_	_
+27	dos	dos	NUM	_	_	26	nummod	_	_
+28	cientos	ciento	NUM	_	_	26	nummod	_	_
+29	personas	persona	NOUN	_	_	25	obj	_	_
+30	que	que	PRON	_	_	32	nsubj	_	_
+31	también	también	ADV	_	_	32	advmod	_	_
+32	quieren	querer	VERB	_	_	29	acl	_	_
+33	hacer	hacer	VERB	_	_	32	xcomp	_	_
+34	todo	todo	DET	_	_	35	det	_	_
+35	sus	su	DET	_	_	36	det	_	_
+36	tareas	tarea	NOUN	_	_	33	obj	_	_
+37	y	y	CCONJ	_	_	38	cc	_	_
+38	exámenes	examen	NOUN	_	_	36	conj	_	_
+39	perfecto	perfecto	ADJ	_	_	38	amod	_	_
+40	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	siento	sentir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	fácil	fácil	ADJ	_	_	3	ccomp	_	_
+7	tener	tener	VERB	_	_	6	csubj	_	_
+8	grados	grado	NOUN	_	_	7	obj	_	_
+9	perfectos	perfecto	ADJ	_	_	8	amod	_	_
+10	,	,	PUNCT	_	_	23	punct	_	_
+11	y	y	CCONJ	_	_	23	cc	_	_
+12	aunque	aunque	SCONJ	_	_	13	mark	_	_
+13	estudio	estudiar	VERB	_	_	23	advcl	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	muchas	mucho	DET	_	_	16	det	_	_
+16	horas	hora	NOUN	_	_	13	obl	_	_
+17	cada	cada	DET	_	_	18	det	_	_
+18	día	día	NOUN	_	_	23	obl	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	todavía	todavía	ADV	_	_	23	advmod	_	_
+21	es	ser	AUX	_	_	23	cop	_	_
+22	una	uno	DET	_	_	23	det	_	_
+23	lucha	lucha	NOUN	_	_	3	conj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	14	advmod	_	_
+2	de	de	ADP	_	_	6	advmod	_	_
+3	todos	todos	NOUN	_	_	2	fixed	_	_
+4	modos	modo	NOUN	_	_	2	fixed	_	_
+5	aquí	aquí	ADV	_	_	6	advmod	_	_
+6	estoy	estar	AUX	_	_	14	advcl	_	_
+7	y	y	CCONJ	_	_	12	cc	_	_
+8	aquí	aquí	ADV	_	_	12	advmod	_	_
+9	me	yo	PRON	_	_	12	obj	_	_
+10	voy	ir	AUX	_	_	12	aux	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	quedar	quedar	VERB	_	_	6	conj	_	_
+13	,	,	PUNCT	_	_	6	punct	_	_
+14	quiere	querer	VERB	_	_	0	ROOT	_	_
+15	graduar	graduar	VERB	_	_	14	xcomp	_	_
+16	(	(	PUNCT	_	_	18	punct	_	_
+17	Sorry	Sorry	PROPN	_	_	18	nsubj	_	_
+18	if	if	VERB	_	_	14	parataxis	_	_
+19	this	this	NOUN	_	_	18	obj	_	_
+20	turns	turns	ADJ	_	_	18	advcl	_	_
+21	out	out	PROPN	_	_	20	obj	_	_
+22	a	a	ADP	_	_	23	case	_	_
+23	bit	bit	NOUN	_	_	20	obl	_	_
+24	late	late	PROPN	_	_	23	flat	_	_
+25	)	)	PUNCT	_	_	18	punct	_	_
+

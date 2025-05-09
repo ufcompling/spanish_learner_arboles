@@ -1,0 +1,146 @@
+# Unnamed: 0 = 128
+# id = 175774
+# prompt = yourself
+# quarter = W21
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = 0
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy de *STATE*, Estados Unidos pero origen es en *PLACE*. Ahora soy vivo en *CITY*. Soy tengo *AGE* años y mi fecha de nacimiento es *BIRTH_DATE* de *BIRTH_DATE*. Yo soy estudio en la universidad de *UNIVERSITY*. Mi especialización es Food Science. Estoy nerviosa en la clase de Español pero soy ilusionada aprender Español. Me gusta estudio idiomas. Me gusta jugar fútbol y tenis. Me gusta badminton también. En general, yo soy muy activa y aventurera, pero soy tímida y trabajadora también. En clase, estoy contenta pero soy cansada y sed también.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	de	de	ADP	_	_	6	case	_	_
+4	*STATE*	*state*	SYM	_	_	6	flat	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	Estados	Estados	PROPN	_	_	0	root	_	_
+7	Unidos	Unidos	PROPN	_	_	6	flat	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	origen	origen	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	en	en	ADP	_	_	6	case	_	_
+12	*PLACE*	*place*	PUNCT	_	_	6	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vivo	vivo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	SYM	_	_	4	flat	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	nacimiento	nacimiento	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	7	punct	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Food	Food	PROPN	_	_	0	root	_	_
+5	Science	Science	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Español	Español	PROPN	_	_	5	nmod	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	ilusionada	ilusionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+11	aprender	aprender	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	Español	Español	PROPN	_	_	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	estudio	estudio	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jugar	jugar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tenis	tenis	NOUN	_	Gender=Masc	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	badminton	badminton	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	también	también	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	7	advmod	_	_
+2	general	general	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	activa	activo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	aventurera	aventurero	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	13	conj	_	_
+16	también	también	ADV	_	_	13	advmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	cansada	cansado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	sed	sedr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	también	también	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

@@ -1,0 +1,235 @@
+# Unnamed: 0 = 100
+# id = 173959
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin, Cantonese
+# language(s) studied = American Sign Language: 2 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi mamá se llama *FIRST_NAME*. Su apellido se *LAST_NAME*. Ella tiene *AGE*. Su cumpleaños es 6 de abril. Ella es simpática y guapo. Ella está activa y interesante. Ella está no gorda. Ella está gelgado. Ella más baja que yo. Ella más alta que mi hermana. Ella tiene el pelo largo y rizado. Ella tiene el pelo marrones. Ella tiene los ojos negros. Ella es de nacionalidad china. Ella vive en china. Su profesión es artista. Ella baila y escribe. Mi mamá y yo bebemos café. Nosotras bebemos café en el parque. Nosotras leemos libros en parque y en la biblioteca. Mi mamá escribe en una case. Hay unas sillas y ventanas. Hay unas mesas y plantas. Ella lleva unos pantalones blanco y una chaqueta verdes. Ella lleva un anillo y unos aretes amarillo. Ella lleva un reloj azules. Su número de teléfono es *NUMBER*. Su dirección de e-mail es *EMAIL*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	apellido	apellido	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	*LAST_NAME*	last_name	VERB	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	6	6	NUM	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	abril	abril	NOUN	_	_	4	compound	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	guapo	guapo	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	activa	activo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	interesante	interesante	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	está	estar	AUX	_	_	4	cop	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	gorda	gordo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	gelgado	gelgado	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	más	más	ADV	_	_	3	advmod	_	_
+3	baja	bajo	ADJ	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	yo	yo	PRON	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	0	ROOT	_	_
+2	más	más	ADV	_	_	3	advmod	_	_
+3	alta	alto	ADJ	_	_	1	amod	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	hermana	hermana	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	largo	largo	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	ADP	_	_	2	obj	_	_
+5	marrones	marrón	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	negros	negro	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	nacionalidad	nacionalidad	NOUN	_	_	0	ROOT	_	_
+5	china	chino	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	china	china	NOUN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	profesión	profesión	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	artista	artista	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	0	ROOT	_	_
+2	baila	baila	PROPN	_	_	1	flat	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	escribe	escribir	VERB	_	_	1	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	bebemos	beber	VERB	_	_	2	conj	_	_
+6	café	café	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nosotras	Nosotras	PROPN	_	_	3	nsubj	_	_
+2	bebemos	beber	VERB	_	_	3	cop	_	_
+3	café	café	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nosotras	nosotra	ADJ	_	_	2	nsubj	_	_
+2	leemos	leer	VERB	_	_	0	ROOT	_	_
+3	libros	libro	NOUN	_	_	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	parque	parque	NOUN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	biblioteca	biblioteca	NOUN	_	_	3	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	escribe	escribir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	case	case	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	unas	uno	DET	_	_	3	det	_	_
+3	sillas	silla	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ventanas	ventana	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	unas	uno	DET	_	_	3	det	_	_
+3	mesas	mesa	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	plantas	planta	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	lleva	llevar	VERB	_	_	0	ROOT	_	_
+3	unos	uno	DET	_	_	4	det	_	_
+4	pantalones	pantalón	NOUN	_	_	2	obj	_	_
+5	blanco	blanco	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	chaqueta	chaqueta	NOUN	_	_	4	conj	_	_
+9	verdes	verde	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	lleva	llevar	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	anillo	anillo	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	unos	uno	DET	_	_	7	det	_	_
+7	aretes	aret	NOUN	_	_	4	conj	_	_
+8	amarillo	amarillo	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	lleva	llevar	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	reloj	reloj	NOUN	_	_	2	obj	_	_
+5	azules	azul	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	número	número	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	teléfono	teléfono	NOUN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*NUMBER*	NUMBER	PROPN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	dirección	dirección	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	e-mail	e-mail	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*EMAIL*	EMAIL	PROPN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+

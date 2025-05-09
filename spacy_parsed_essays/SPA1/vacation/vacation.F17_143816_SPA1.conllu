@@ -1,0 +1,223 @@
+# Unnamed: 0 = 96
+# id = 143816
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Hindi
+# language(s) used at home = Hindi
+# language(s) studied = French for 5 years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Quiero ir a Maldivas con mis familia. Me gusta bucear y snorekelling. Yo quiero ir alli en verano. me encantan la playa y la arena. Me gusta baño de sol y juego con mi hermano. Mi madre y mi padre gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia.
+
+ Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y ella tiene mi edad. Me encanta recibir masajes y relajarme durante la vacation. 
+
+El mar está muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.
+# a personal annotator2 = Quiero ir a Maldivas con mis familia. Me gusta bucear y snorekelling. Yo quiero ir alli en verano. me encantan la playa y la arena. Me gusta baño de sol y juego con mi hermano. Mi madre y mi padre gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia.
+
+Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y ella tiene mi edad. Me encanta recibir masajes y relajarme durante la vacation. 
+
+El mar está muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.
+# gender-number annotator1 = Quiero ir a Maldivas con [mis]{mi}<na:sp:det:an> familia. Me gusta bucear y snorekelling. Yo quiero ir alli en verano. me encantan la playa y la arena. Me gusta baño de sol y juego con mi hermano. Mi madre y mi padre gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia.
+
+ Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y ella tiene mi edad. Me encanta recibir masajes y relajarme durante la vacation. 
+
+El mar está muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Quiero ir a Maldivas con mis familia. Me gusta bucear y snorekelling. [Yo]{}<pr:su:pron> quiero ir alli en verano. me encantan la playa y la arena. Me gusta []{el}<ab:det:art:def> baño de sol y []{el}<ab:det:art:def> juego con mi hermano. Mi madre y mi padre gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia.  Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y ella tiene mi edad. Me encanta recibir masajes y relajarme durante [la]{las}<in:det> [vacation]{vacaciones}<in:noun>.  El mar [está]{es}<conf:v:seta> muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.  
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Quiero ir a Maldivas con mi familia. Me gusta bucear y snorekelling. Quiero ir allí en verano. Me encantá la playa y la arena. Me gusta tomar el sol y juegar con mi hermano. A mi madre y mi padre les gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia.  Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y tiene mi edad. Me encanta recibir masajes y relajarme durante la vacación.  El mar está muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.  
+# corrected2 = nan
+# text = Quiero ir a Maldivas con mis familia. Me gusta bucear y snorekelling. Yo quiero ir alli en verano. me encantan la playa y la arena. Me gusta baño de sol y juego con mi hermano. Mi madre y mi padre gusta caminar y beber de noche en la playa. Nos encanta pasar tiempo con la familia. Me encanta comprar en Male y ver su cultura. Mi familia es vegetariana, pero de vacaciones comemos pescado. Me encanta la comida picante de las Maldivas. Es como la comida del sur de la India. Quiero viajar en hidroavión y tomar fotos de las islas. Mi prima también quiere ir con nosotros. La amo y ella tiene mi edad. Me encanta recibir masajes y relajarme durante la vacation. El mar está muy claro en Maldivas y los tiburones bebé vienen a la playa. Vemos las piedras en lo profundo de la mar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Maldivas	Maldivas	PROPN	_	_	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	bucear	bucear	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	snorekelling	snorekelling	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	xcomp	_	_
+4	alli	alli	VERB	_	_	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	verano	verano	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	me	yo	PRON	_	_	2	iobj	_	_
+2	encantan	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	playa	playa	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	arena	arena	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	baño	baño	NOUN	_	_	2	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	sol	sol	NOUN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	juego	juego	NOUN	_	_	3	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	hermano	hermano	NOUN	_	_	2	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	padre	padre	NOUN	_	_	2	conj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	caminar	caminar	VERB	_	_	6	xcomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	beber	beber	VERB	_	_	7	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	noche	noche	NOUN	_	_	9	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	playa	playa	NOUN	_	_	7	obl	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	pasar	pasar	VERB	_	_	2	xcomp	_	_
+4	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	comprar	comprar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Male	Male	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ver	ver	VERB	_	_	3	conj	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	cultura	cultura	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	vegetariana	vegetarián	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	vacaciones	vacación	NOUN	_	_	9	obj	_	_
+9	comemos	comer	VERB	_	_	4	conj	_	_
+10	pescado	pescado	ADJ	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	comida	comida	NOUN	_	_	2	nsubj	_	_
+5	picante	picante	ADV	_	_	4	amod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	las	el	DET	_	_	8	det	_	_
+8	Maldivas	Maldivas	PROPN	_	_	4	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	como	como	SCONJ	_	_	4	mark	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	comida	comida	NOUN	_	_	0	ROOT	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	sur	sur	NOUN	_	_	4	nmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	India	India	PROPN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	viajar	viajar	VERB	_	_	1	xcomp	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	hidroavión	hidroavión	NOUN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tomar	tomar	VERB	_	_	2	conj	_	_
+7	fotos	foto	NOUN	_	_	6	obj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	islas	isla	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	prima	prima	NOUN	_	_	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	quiere	querer	VERB	_	_	0	ROOT	_	_
+5	ir	ir	VERB	_	_	4	xcomp	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	nosotros	yo	PRON	_	_	5	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	amo	amar	VERB	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	ella	él	PRON	_	_	2	conj	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	edad	edad	NOUN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	recibir	recibir	VERB	_	_	2	csubj	_	_
+4	masajes	masaje	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	relajarme	relajarme	VERB	_	_	3	conj	_	_
+7	durante	durante	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	vacation	vacation	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	mar	mar	NOUN	_	_	5	nsubj	_	_
+3	está	estar	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	claro	claro	ADJ	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	Maldivas	Maldivas	PROPN	_	_	5	obl	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	tiburones	tiburón	NOUN	_	_	12	nsubj	_	_
+11	bebé	bebé	ADJ	_	_	10	amod	_	_
+12	vienen	venir	VERB	_	_	5	conj	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	playa	playa	NOUN	_	_	12	obj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Vemos	ver	VERB	_	_	0	ROOT	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	piedras	piedra	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	lo	él	PRON	_	_	6	det	_	_
+6	profundo	profundo	ADJ	_	_	1	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	mar	mar	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+

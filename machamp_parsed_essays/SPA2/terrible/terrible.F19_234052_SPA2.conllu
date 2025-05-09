@@ -1,0 +1,324 @@
+# Unnamed: 0 = 126
+# id = 234052
+# prompt = terrible
+# quarter = F19
+# course = SPA 2
+# age = 17 years old.
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Yes, Cantonese.
+# language(s) studied = I studied mandarin for 10 years for 3 hours every Saturday.
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = La tortuga, el elefante y el mango en Nueva york Estaba la tortuga en su casa aburrida, ella tiene un árbol de mango a la izquierda de su casa, en ese momento ella pensó que quería comer un mango, entonces fue a buscar uno al árbol, pero se dio cuenta de que no habían más mangos en el árbol, la tortuga vive cerca de un elefante, el elefante no come mangos en su dieta, sólo come papayas. El elefante vio a la tortuga preocupada, entonces le preguntó lo que pasaba, la tortuga compartió sus problemas con el elefante, el elefante decidió ayudar a la tortuga para encontrar un mango, el siguiente día los dos saldrían a buscarlo, entonces fueron a dormir para descansar. Temprano los dos fueron a la ciudad de Nueva york buscando un mango, pero es una tarea muy difícil en una ciudad grande, la tortuga y el elefante descansaron en una tienda de papayas, porque el elefante come muchas papayas, después buscaron mangos en la ciudad por todo el día. No encontraron un mango y fueron a descansar, para buscar el siguiente día. Otra vez empezaron a buscar un mango en la mañana, caminando por todas las calles y lugares de la ciudad, la tortuga estaba triste por no encontrar un mango en toda la ciudad, a las 5 de la tarde todavía no encontraban un mango, entonces caminaron por última vez las calles, no había mucha luz a esta hora en la ciudad, entonces la tortuga y el elefante fueron a dormir, y no encontraron un mango.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mango	mango	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Nueva	Nueva	PROPN	_	_	12	obl	_	_
+11	york	york	PROPN	_	_	10	flat	_	_
+12	Estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+18	aburrida	aburrido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	17	amod	_	_
+19	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+20	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+21	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	mango	mango	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+26	a	a	ADP	_	_	28	case	_	_
+27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	izquierda	izquierda	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+29	de	de	ADP	_	_	31	case	_	_
+30	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
+31	casa	casa	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
+32	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+33	en	en	ADP	_	_	35	case	_	_
+34	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	35	det	_	_
+35	momento	momento	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	_
+36	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	_
+37	pensó	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	advcl	_	_
+38	que	que	SCONJ	_	_	39	mark	_	_
+39	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	37	ccomp	_	_
+40	comer	comer	VERB	_	VerbForm=Inf	39	xcomp	_	_
+41	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
+42	mango	mango	NOUN	_	Gender=Masc|Number=Sing	40	obj	_	_
+43	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+44	entonces	entonces	ADV	_	_	45	advmod	_	_
+45	fue	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	advcl	_	_
+46	a	a	ADP	_	_	47	mark	_	_
+47	buscar	buscar	VERB	_	VerbForm=Inf	45	xcomp	_	_
+48	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	47	obj	_	_
+49	al	a	ADP	_	_	50	case	_	_
+50	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	47	obl	_	_
+51	,	,	PUNCT	_	PunctType=Comm	54	punct	_	_
+52	pero	pero	CCONJ	_	_	54	cc	_	_
+53	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	54	expl	_	_
+54	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	conj	_	_
+55	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	54	compound	_	_
+56	de	de	ADP	_	_	59	mark	_	_
+57	que	que	SCONJ	_	_	59	mark	_	_
+58	no	no	ADV	_	Polarity=Neg	59	advmod	_	_
+59	habían	haber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	54	ccomp	_	_
+60	más	más	ADV	_	Degree=Cmp	61	advmod	_	_
+61	mangos	mango	NOUN	_	Gender=Masc|Number=Plur	59	obj	_	_
+62	en	en	ADP	_	_	64	case	_	_
+63	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	64	det	_	_
+64	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	59	obl	_	_
+65	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+66	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	67	det	_	_
+67	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	68	nsubj	_	_
+68	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	advcl	_	_
+69	cerca	cerca	ADV	_	_	68	advmod	_	_
+70	de	de	ADP	_	_	72	case	_	_
+71	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	72	det	_	_
+72	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	69	obl	_	_
+73	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+74	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	75	det	_	_
+75	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	77	nsubj	_	_
+76	no	no	ADV	_	Polarity=Neg	77	advmod	_	_
+77	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+78	mangos	mango	NOUN	_	Gender=Masc|Number=Plur	77	obj	_	_
+79	en	en	ADP	_	_	81	case	_	_
+80	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	81	det	_	_
+81	dieta	dieta	NOUN	_	Gender=Fem|Number=Sing	77	obl	_	_
+82	,	,	PUNCT	_	PunctType=Comm	77	punct	_	_
+83	sólo	sólo	ADV	_	_	84	advmod	_	_
+84	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	advcl	_	_
+85	papayas	papaya	NOUN	_	Gender=Fem|Number=Plur	84	obj	_	_
+86	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	preocupada	preocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	entonces	entonces	ADV	_	_	11	advmod	_	_
+10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+11	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+12	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
+13	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+14	pasaba	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+15	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+18	compartió	compartir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+19	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+24	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
+27	decidió	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
+28	ayudar	ayudar	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	a	a	ADP	_	_	31	case	_	_
+30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
+32	para	para	ADP	_	_	33	mark	_	_
+33	encontrar	encontrar	VERB	_	VerbForm=Inf	28	advcl	_	_
+34	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	mango	mango	NOUN	_	Gender=Masc|Number=Sing	33	obj	_	_
+36	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+38	siguiente	siguiente	ADJ	_	Number=Sing	39	amod	_	_
+39	día	día	NOUN	_	Gender=Masc|Number=Sing	42	obl	_	_
+40	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	_
+41	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	42	nsubj	_	_
+42	saldrían	saldií	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	3	advcl	_	_
+43	a	a	ADP	_	_	44	mark	_	_
+44	buscarlo	buscar	VERB	_	VerbForm=Inf	42	advcl	_	_
+45	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+46	entonces	entonces	ADV	_	_	47	advmod	_	_
+47	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+48	a	a	ADP	_	_	49	mark	_	_
+49	dormir	dormir	VERB	_	VerbForm=Inf	47	xcomp	_	_
+50	para	para	ADP	_	_	51	mark	_	_
+51	descansar	descansar	VERB	_	VerbForm=Inf	47	advcl	_	_
+52	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Temprano	temprano	ADV	_	_	4	advmod	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nsubj	_	_
+4	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Nueva	Nueva	PROPN	_	_	7	nmod	_	_
+10	york	york	PROPN	_	_	9	flat	_	_
+11	buscando	buscar	VERB	_	VerbForm=Ger	4	xcomp	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mango	mango	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	pero	pero	CCONJ	_	_	18	cc	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	difícil	difícil	ADJ	_	Number=Sing	18	amod	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+24	grande	grande	ADJ	_	Number=Sing	23	amod	_	_
+25	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
+26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
+28	y	y	CCONJ	_	_	30	cc	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	27	conj	_	_
+31	descansaron	descansar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+32	en	en	ADP	_	_	34	case	_	_
+33	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	_
+35	de	de	ADP	_	_	36	case	_	_
+36	papayas	papaya	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	_
+37	,	,	PUNCT	_	PunctType=Comm	41	punct	_	_
+38	porque	porque	SCONJ	_	_	41	mark	_	_
+39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	41	nsubj	_	_
+41	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	advcl	_	_
+42	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	43	det	_	_
+43	papayas	papaya	NOUN	_	Gender=Fem|Number=Plur	41	obj	_	_
+44	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
+45	después	después	ADV	_	_	46	advmod	_	_
+46	buscaron	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	31	advcl	_	_
+47	mangos	mango	NOUN	_	Gender=Masc|Number=Plur	46	obj	_	_
+48	en	en	ADP	_	_	50	case	_	_
+49	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	_
+50	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	46	obl	_	_
+51	por	por	ADP	_	_	54	case	_	_
+52	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	53	det	_	_
+53	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
+54	día	día	NOUN	_	Gender=Masc|Number=Sing	46	obl	_	_
+55	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	encontraron	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mango	mango	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	descansar	descansar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	buscar	buscar	VERB	_	VerbForm=Inf	8	advcl	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	siguiente	siguiente	ADJ	_	Number=Sing	14	amod	_	_
+14	día	día	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+3	empezaron	empezar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	buscar	buscar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mango	mango	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	caminando	caminar	VERB	_	VerbForm=Ger	5	advcl	_	_
+13	por	por	ADP	_	_	16	case	_	_
+14	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	15	det	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	calles	calle	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+22	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	26	nsubj	_	_
+25	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
+26	triste	triste	ADJ	_	Number=Sing	3	advcl	_	_
+27	por	por	ADP	_	_	29	mark	_	_
+28	no	no	ADV	_	Polarity=Neg	29	advmod	_	_
+29	encontrar	encontrar	VERB	_	VerbForm=Inf	26	acl	_	_
+30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	mango	mango	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	_
+32	en	en	ADP	_	_	35	case	_	_
+33	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	34	det	_	_
+34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
+35	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
+36	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
+37	a	a	ADP	_	_	39	case	_	_
+38	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_
+39	5	5	NUM	_	NumForm=Digit|NumType=Card	45	obl	_	_
+40	de	de	ADP	_	_	42	case	_	_
+41	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
+42	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	39	nmod	_	_
+43	todavía	todavía	ADV	_	_	45	advmod	_	_
+44	no	no	ADV	_	Polarity=Neg	45	advmod	_	_
+45	encontraban	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
+46	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
+47	mango	mango	NOUN	_	Gender=Masc|Number=Sing	45	obj	_	_
+48	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
+49	entonces	entonces	ADV	_	_	50	advmod	_	_
+50	caminaron	caminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	45	advcl	_	_
+51	por	por	ADP	_	_	53	case	_	_
+52	última	último	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	53	amod	_	_
+53	vez	vez	NOUN	_	Gender=Fem|Number=Sing	50	obl	_	_
+54	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	55	det	_	_
+55	calles	calle	NOUN	_	Gender=Fem|Number=Plur	50	obj	_	_
+56	,	,	PUNCT	_	PunctType=Comm	50	punct	_	_
+57	no	no	ADV	_	Polarity=Neg	58	advmod	_	_
+58	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	50	advcl	_	_
+59	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	60	det	_	_
+60	luz	luz	NOUN	_	Gender=Fem|Number=Sing	58	obj	_	_
+61	a	a	ADP	_	_	63	case	_	_
+62	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	63	det	_	_
+63	hora	hora	NOUN	_	Gender=Fem|Number=Sing	58	obl	_	_
+64	en	en	ADP	_	_	66	case	_	_
+65	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	66	det	_	_
+66	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	58	obl	_	_
+67	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+68	entonces	entonces	ADV	_	_	74	advmod	_	_
+69	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	70	det	_	_
+70	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	80	nsubj	_	_
+71	y	y	CCONJ	_	_	73	cc	_	_
+72	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	73	det	_	_
+73	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	70	conj	_	_
+74	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	76	advcl	_	_
+75	a	a	ADP	_	_	76	mark	_	_
+76	dormir	dormir	VERB	_	VerbForm=Inf	3	advcl	_	_
+77	,	,	PUNCT	_	PunctType=Comm	80	punct	_	_
+78	y	y	CCONJ	_	_	80	cc	_	_
+79	no	no	ADV	_	Polarity=Neg	80	advmod	_	_
+80	encontraron	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	76	conj	_	_
+81	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	82	det	_	_
+82	mango	mango	NOUN	_	Gender=Masc|Number=Sing	80	obj	_	_
+83	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

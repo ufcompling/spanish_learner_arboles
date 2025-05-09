@@ -1,0 +1,354 @@
+# Unnamed: 0 = 119
+# id = 202301
+# prompt = special
+# quarter = F18
+# course = SPA 23
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona que me importa mucho es mi madre. Ella se llama *FIRST_NAME* y nació en Polania. Cuando tenga ocho años, salió Polania con su mama. Los dos mudaron a *CITY* porque a la tiempo, Polonia era un paiz muy pobre y habia mucha conflicta. Ella vivó alli por todo su jovendad. Cuando tenga diece ocho años, mudó a *CITY* para ir a *UNIVERSITY*. Estudió Ingles alli, y trabajó en un centre de ambiento. Dispues de graduó, conozcó mi papa por el primer tiempo. Los dos ver por el primer vez en las classes de Artes Martiales. También, ella fue a la escuela de ley. Dispues de graduó, ella empiezó a trabajar como una abogada. Ella tiene tres niños. Uno, que se llama *FIRST_NAME*, que tiene *AGE* años. Al otro se llama *FIRST_NAME*, que tiene *AGE* años. !Y también yo! Mi mama es muy talentosa. Ella es un escrita muy talentosa, y también es un cocinera incredible. Le gusta nadar y pasar tiempo en la naturaliza. Ella mantiene un garden con mi papa. Pero más que nada, mi mama es una madre superguay. Siempre me ayuda y dame consejos. Mi mama me enseña mucho de yo se. Me enseña como ser dedicada y amable. Ella nunca pierde la esperanza. Tambien, a pesar de todo, ella siempre esta positiva en el fin de la dia. Desde salí por universidad, me falta mi mama mucho. Nos llamamos todas las dias para hablar sobre nuetras días. Mi mama es unas de las personas más importante en mi vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	importa	importar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	madre	madre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Polania	Polania	PROPN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	ocho	ocho	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Polania	Polania	PROPN	_	_	6	nsubj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	mama	mama	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nsubj	_	_
+3	mudaron	mudar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*CITY*	*City*	PROPN	_	_	3	dep	_	_
+6	porque	porque	SCONJ	_	_	14	mark	_	_
+7	a	a	ADP	_	_	14	advmod	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
+9	tiempo	tiempo	NOUN	_	_	7	fixed	_	_
+10	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+11	Polonia	Polonia	PROPN	_	_	14	nsubj	_	_
+12	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	paiz	paiz	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_
+15	muy	mucho	ADV	_	_	16	advmod	_	_
+16	pobre	pobre	ADJ	_	Number=Sing	14	amod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	habia	habiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	conj	_	_
+19	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	20	det	_	_
+20	conflicta	conflicta	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vivó	vivar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	alli	alli	NOUN	_	_	2	obj	_	_
+4	por	por	ADP	_	_	7	case	_	_
+5	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	6	det	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	jovendad	jovendad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	diece	diece	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+4	ocho	ocho	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	mudó	mudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*CITY*	*city*	PUNCT	_	_	7	nmod	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	*university*	PROPN	_	_	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Estudió	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	Ingles	Ingles	PROPN	_	_	1	obj	_	_
+3	alli	alli	NOUN	_	_	2	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	trabajó	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	centre	centre	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	ambiento	ambiento	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Dispues	dispue	ADV	_	_	3	case	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	graduó	graduó	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	conozcó	conozcar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	papa	papa	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	por	por	ADP	_	_	11	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	obj	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+4	por	por	ADP	_	_	7	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
+7	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	classes	class	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	Artes	Artes	PROPN	_	_	10	nmod	_	_
+13	Martiales	Martiales	PROPN	_	_	12	flat	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ley	ley	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Dispues	dispue	ADV	_	_	3	case	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	graduó	graduó	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	empiezó	empiezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	trabajar	trabajar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	como	como	SCONJ	_	_	11	mark	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	abogada	abogada	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	niños	niño	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	1	punct	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
+10	*AGE*	*age*	PUNCT	_	_	11	punct	_	_
+11	años	año	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Al	a	ADP	_	_	2	case	_	_
+2	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	*AGE*	*age*	PUNCT	_	_	10	punct	_	_
+10	años	año	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+2	Y	y	CCONJ	_	_	4	cc	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	dep	_	_
+5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+6	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	mama	mama	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	talentosa	talentoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	escrita	escrita	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	talentosa	talentoso	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	también	también	ADV	_	_	12	advmod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cocinera	cocinera	NOUN	_	Number=Sing	4	conj	_	_
+13	incredible	incredible	ADJ	_	Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nadar	nadar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	pasar	pasar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	naturaliza	naturaliza	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	mantiene	mantener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	garden	garden	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	papa	papa	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	10	advmod	_	_
+2	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	nada	nada	PRON	_	Number=Sing|PronType=Neg	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	mama	mama	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	madre	madre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	superguay	superguay	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	dame	damir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	consejos	consejo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+8	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	det	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	ser	ser	AUX	_	VerbForm=Inf	5	aux	_	_
+5	dedicada	dedicado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advcl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	amable	amable	ADJ	_	Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	nunca	nunca	ADV	_	_	3	advmod	_	_
+3	pierde	perder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	esperanza	esperanza	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	3	fixed	_	_
+2	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+3	a	a	ADP	_	_	11	advmod	_	_
+4	pesar	pesar	NOUN	_	_	3	fixed	_	_
+5	de	de	ADP	_	_	3	fixed	_	_
+6	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	fixed	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	siempre	siempre	ADV	_	_	11	advmod	_	_
+10	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	positiva	positivo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	fin	fin	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	dia	dia	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Desde	desde	ADP	_	_	2	case	_	_
+2	salí	salí	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	falta	faltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mama	mama	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+10	mucho	mucho	ADV	_	_	7	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	dias	dia	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	hablar	hablar	VERB	_	VerbForm=Inf	2	advcl	_	_
+8	sobre	sobre	ADP	_	_	10	case	_	_
+9	nuetras	nuetra	DET	_	Gender=Fem|Number=Plur	10	nummod	_	_
+10	días	día	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	unas	uno	PRON	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	importante	importante	ADJ	_	Number=Sing	7	amod	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	vida	vida	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

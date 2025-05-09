@@ -1,0 +1,240 @@
+# Unnamed: 0 = 97
+# id = 202301
+# prompt = special
+# quarter = W19
+# course = SPA 24
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Este es un ensayo breve sobre mi amiga, mi insperación, la luz de mi mundo, y mi compañero de mi dormitorio. Se llama *FIRST_NAME* *LAST_NAME*. *FIRST_NAME* *LAST_NAME* es de *CITY*, *STATE*. Es cerca de *CITY* pero ella dice que *CITY* tiene más ancianos. Antes de vive en *CITY*, *FIRST_NAME* vivó en *STATE*. *FIRST_NAME* es una mujer increible. Es gracisosa, humilde, y simpatica. Le gusta nadar, tocar guitara, dibujar y sacar fotos, pero más que nada, le gusta los gatos y todas las cosas linda. *FIRST_NAME* esta estudiando las siencias de computadora y es super intelegente. Al primer de assistir *UNIVERSITY*, quería estudiar Ingeniería Biomédica pero decidió que lo oidio. Nos se hacemos amigas porque somos compañeras de dormitorio. No nos decidimos a ser en la misma cuarto, fue por aleatorio. Ella es un compañera de dormitorio perfecta: ambos le gusta tomar muchas siestas, y le gustamos decorar en la mista manera. Más que nada, le gustamos la misma música. Ahora, estoy escribiendo desde el tren por
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Este	este	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	ensayo	ensayo	NOUN	_	_	0	ROOT	_	_
+5	breve	breve	ADJ	_	_	4	amod	_	_
+6	sobre	sobre	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	amiga	amiga	NOUN	_	_	4	nmod	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	insperación	insperación	NOUN	_	_	8	appos	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	luz	luz	NOUN	_	_	4	appos	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	mundo	mundo	NOUN	_	_	14	nmod	_	_
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	mi	mi	DET	_	_	21	det	_	_
+21	compañero	compañero	NOUN	_	_	4	conj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	mi	mi	DET	_	_	24	det	_	_
+24	dormitorio	dormitorio	NOUN	_	_	21	nmod	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+4	*LAST_NAME*	last_name	VERB	_	_	2	punct	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	advmod	_	_
+2	*LAST_NAME*	LAST_NAME	PROPN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*STATE*	STATE	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Es	ser	AUX	_	_	0	ROOT	_	_
+2	cerca	cerca	ADV	_	_	1	advmod	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	ella	él	PRON	_	_	7	nsubj	_	_
+7	dice	decir	VERB	_	_	1	conj	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	*CITY*	CITY	PROPN	_	_	10	nsubj	_	_
+10	tiene	tener	VERB	_	_	7	ccomp	_	_
+11	más	más	ADV	_	_	12	advmod	_	_
+12	ancianos	anciano	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Antes	antes	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	vive	vivir	VERB	_	_	1	obl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	nsubj	_	_
+8	vivó	vivar	VERB	_	_	0	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*STATE*	STATE	PROPN	_	_	8	obl	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	mujer	mujer	NOUN	_	_	0	ROOT	_	_
+5	increible	increible	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	gracisosa	gracisós	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	humilde	humilde	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	simpatica	simpatico	ADJ	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	nadar	nadar	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	tocar	tocar	VERB	_	_	3	xcomp	_	_
+6	guitara	guitara	PROPN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	dibujar	dibujar	VERB	_	_	3	advcl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	sacar	sacar	VERB	_	_	8	conj	_	_
+11	fotos	foto	NOUN	_	_	10	obj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	pero	pero	CCONJ	_	_	14	cc	_	_
+14	más	más	ADV	_	_	19	advmod	_	_
+15	que	que	SCONJ	_	_	16	mark	_	_
+16	nada	nada	PRON	_	_	14	obl	_	_
+17	,	,	PUNCT	_	_	14	punct	_	_
+18	le	él	PRON	_	_	19	obj	_	_
+19	gusta	gustar	VERB	_	_	2	csubj	_	_
+20	los	el	DET	_	_	21	det	_	_
+21	gatos	gato	NOUN	_	_	19	nsubj	_	_
+22	y	y	CCONJ	_	_	25	cc	_	_
+23	todas	todo	DET	_	_	24	det	_	_
+24	las	el	DET	_	_	25	det	_	_
+25	cosas	cosa	NOUN	_	_	21	conj	_	_
+26	linda	lindo	ADJ	_	_	25	amod	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	0	ROOT	_	_
+2	esta	este	DET	_	_	3	obj	_	_
+3	estudiando	estudiar	VERB	_	_	1	advcl	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	siencias	siencia	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	computadora	computadora	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	super	super	AUX	_	_	3	conj	_	_
+11	intelegente	intelegente	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Al	al	ADP	_	_	2	case	_	_
+2	primer	primer	NOUN	_	_	7	obl	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	assistir	assistir	VERB	_	_	2	acl	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	quería	querer	VERB	_	_	0	ROOT	_	_
+8	estudiar	estudiar	VERB	_	_	7	xcomp	_	_
+9	Ingeniería	Ingeniería	PROPN	_	_	8	obj	_	_
+10	Biomédica	Biomédica	PROPN	_	_	9	flat	_	_
+11	pero	pero	CCONJ	_	_	12	cc	_	_
+12	decidió	decidir	VERB	_	_	7	conj	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	lo	él	PRON	_	_	15	det	_	_
+15	oidio	oidio	ADJ	_	_	12	ccomp	_	_
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Nos	yo	PRON	_	_	3	expl:pass	_	_
+2	se	él	PRON	_	_	3	expl:pass	_	_
+3	hacemos	hacer	VERB	_	_	0	ROOT	_	_
+4	amigas	amiga	NOUN	_	_	3	obj	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	somos	ser	AUX	_	_	7	cop	_	_
+7	compañeras	compañera	NOUN	_	_	3	advcl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	dormitorio	dormitorio	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	expl:pv	_	_
+3	decidimos	decidir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ser	ser	AUX	_	_	9	cop	_	_
+6	en	en	ADP	_	_	9	case	_	_
+7	la	el	DET	_	_	9	det	_	_
+8	misma	mismo	DET	_	_	7	det	_	_
+9	cuarto	cuarto	NOUN	_	_	3	obj	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	fue	ser	AUX	_	_	13	cop	_	_
+12	por	por	ADP	_	_	13	case	_	_
+13	aleatorio	aleatorio	ADJ	_	_	3	advcl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	compañera	compañera	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	dormitorio	dormitorio	NOUN	_	_	4	nmod	_	_
+7	perfecta	perfecto	ADJ	_	_	6	amod	_	_
+8	:	:	PUNCT	_	_	11	punct	_	_
+9	ambos	ambos	NUM	_	_	11	nsubj	_	_
+10	le	él	PRON	_	_	11	iobj	_	_
+11	gusta	gustar	VERB	_	_	4	advcl	_	_
+12	tomar	tomar	VERB	_	_	11	csubj	_	_
+13	muchas	mucho	DET	_	_	14	det	_	_
+14	siestas	siesta	NOUN	_	_	12	obj	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	le	él	PRON	_	_	18	obj	_	_
+18	gustamos	gustar	VERB	_	_	11	conj	_	_
+19	decorar	decorar	VERB	_	_	18	xcomp	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	la	el	DET	_	_	22	det	_	_
+22	mista	mista	NOUN	_	_	19	obl	_	_
+23	manera	manera	NOUN	_	_	22	appos	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Más	más	ADV	_	_	6	advmod	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	nada	nada	PRON	_	_	1	obl	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	gustamos	gustar	VERB	_	_	0	ROOT	_	_
+7	la	el	DET	_	_	9	det	_	_
+8	misma	mismo	DET	_	_	7	det	_	_
+9	música	música	NOUN	_	_	6	obj	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	estoy	estar	AUX	_	_	4	aux	_	_
+4	escribiendo	escribir	VERB	_	_	0	ROOT	_	_
+5	desde	desde	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	tren	tren	NOUN	_	_	4	obl	_	_
+8	por	por	ADP	_	_	4	punct	_	_
+

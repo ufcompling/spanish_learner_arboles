@@ -1,0 +1,220 @@
+# Unnamed: 0 = 73
+# id = 196132
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Male
+# l1 language = English
+# other l1 language(s) = none
+# language(s) used at home = none
+# language(s) studied = none
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y [ella]{}<pr:su:pron> es mi mejor amiga. Siempre nos reímos juntos y [divertirse]{nos divertimos}<fs:st:t>. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. [Es]{Está}<conf:v:seta> loca, la extraño mucho. [Ella]{}<pr:su:pron> es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. [Ella]{}<pr:su:pron> es la mejor persona que conozco. [Yo]{}<pr:su:pron> [amarla]{la amo}<fs:st:t>. [Ella]{}<pr:su:pron> es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.                            
+# updated annotation ann2 = Hola! Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y ella es mi mejor amiga. Siempre nos reímos juntos [juntos]{juntas}<gat:adv> y divertirse [divertirse]{nos divertimos}<fs:st:pn:t>. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Es [es]{está}<conf:v:seta> loca, la extraño mucho. Ella es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Ella es la mejor persona que conozco. Yo amarla [amarla]{la amo}<fs:st:pn:t>. Ella [ella]{}<pr:su:pron> es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.  
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! ¿Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y es mi mejor amiga. Siempre nos reímos juntos y nos divertimos. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Está loca, la extraño mucho. Es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Es la mejor persona que conozco. La amo. Es muy generosa, inteligente, divertida y hermosa. La mejor parte es que podemos no hacer nada y seguir divirtiéndonos juntos. También la forma en la que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.                       
+# corrected2 = nan
+# text = Hola! Quién es una persona especial en tu vida? Su nombre es *FIRST_NAME* y ella es mi mejor amiga. Siempre nos reímos juntos y divertirse. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Es loca, la extraño mucho. Ella es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Ella es la mejor persona que conozco. Yo amarla. Ella es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	6	nsubj	_	_
+2	!	!	PROPN	_	_	1	flat	_	_
+3	Quién	quién	PRON	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	persona	persona	NOUN	_	_	0	ROOT	_	_
+7	especial	especial	ADJ	_	_	6	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	tu	tu	DET	_	_	10	det	_	_
+10	vida	vida	NOUN	_	_	6	nmod	_	_
+11	?	?	PUNCT	_	_	6	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	ella	él	PRON	_	_	10	nsubj	_	_
+7	es	ser	AUX	_	_	10	cop	_	_
+8	mi	mi	DET	_	_	10	det	_	_
+9	mejor	mejor	ADJ	_	_	10	amod	_	_
+10	amiga	amiga	NOUN	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	expl:pv	_	_
+3	reímos	reímos	VERB	_	_	0	ROOT	_	_
+4	juntos	junto	ADJ	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertirse	divertir él	VERB	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hemos	haber	AUX	_	_	2	aux	_	_
+2	estado	estar	AUX	_	_	0	ROOT	_	_
+3	dentro	dentro	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	fuera	fuera	ADV	_	_	3	conj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	relación	relación	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	4	advmod	_	_
+2	nos	yo	PRON	_	_	4	obj	_	_
+3	divertimos	divertir	AUX	_	_	4	aux	_	_
+4	jugando	jugar	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	agua	agua	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	kayak	kayak	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	obj	_	_
+2	vemos	ver	VERB	_	_	0	ROOT	_	_
+3	solo	solo	ADV	_	_	2	advmod	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	vez	vez	NOUN	_	_	2	obl	_	_
+6	al	al	ADP	_	_	7	case	_	_
+7	año	año	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	obj	_	_
+2	vemos	ver	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	verano	verano	NOUN	_	_	2	obl	_	_
+6	la	el	DET	_	_	8	det	_	_
+7	misma	mismo	DET	_	_	6	det	_	_
+8	semana	semana	NOUN	_	_	2	obl	_	_
+9	todos	todo	DET	_	_	10	det	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	años	año	NOUN	_	_	2	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	loca	loca	NOUN	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	extraño	extraño	NOUN	_	_	2	appos	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	especial	especial	ADJ	_	_	0	ROOT	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	nos	yo	PRON	_	_	6	expl:pv	_	_
+6	comunicamos	comunicar	VERB	_	_	3	advcl	_	_
+7	bien	bien	ADV	_	_	6	advmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	la	él	PRON	_	_	11	obj	_	_
+10	he	haber	AUX	_	_	11	aux	_	_
+11	conocido	conocer	VERB	_	_	3	conj	_	_
+12	toda	todo	DET	_	_	14	det	_	_
+13	mi	mi	DET	_	_	12	det	_	_
+14	vida	vida	NOUN	_	_	11	obj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	expl:pv	_	_
+3	divertimos	divertir	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estamos	estar	AUX	_	_	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	buenos	buen	ADJ	_	_	8	amod	_	_
+8	términos	término	NOUN	_	_	5	obl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	sin	sin	ADP	_	_	11	case	_	_
+11	resentimientos	resentimiento	NOUN	_	_	5	obl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tenemos	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	chistes	chiste	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	5	case	_	_
+2	relación	relación	NOUN	_	_	1	fixed	_	_
+3	la	el	DET	_	_	5	det	_	_
+4	mayor	mayor	ADJ	_	_	5	amod	_	_
+5	parte	parte	NOUN	_	_	10	obl	_	_
+6	ha	haber	AUX	_	_	10	aux	_	_
+7	sido	ser	AUX	_	_	10	cop	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	larga	largo	ADJ	_	_	10	amod	_	_
+10	distancia	distancia	NOUN	_	_	0	ROOT	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	la	el	DET	_	_	5	det	_	_
+4	mejor	mejor	ADJ	_	_	5	amod	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	que	que	PRON	_	_	7	obj	_	_
+7	conozco	conocer	VERB	_	_	5	acl	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	amarla	amar él	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	generosa	generoso	ADJ	_	_	0	ROOT	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	divertida	divertido	ADJ	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	hermosa	hermoso	ADJ	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	3	det	_	_
+2	mejor	mejor	ADJ	_	_	3	amod	_	_
+3	parte	parte	NOUN	_	_	4	nsubj	_	_
+4	es	ser	AUX	_	_	0	ROOT	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	podemos	poder	AUX	_	_	8	aux	_	_
+8	hacer	hacer	VERB	_	_	4	ccomp	_	_
+9	nada	nada	PRON	_	_	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	seguir	seguir	VERB	_	_	8	conj	_	_
+12	divirtiéndonos	divirtiéndono	NOUN	_	_	11	obj	_	_
+13	juntos	junto	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	forma	forma	NOUN	_	_	10	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	que	que	PRON	_	_	7	obl	_	_
+6	nos	yo	PRON	_	_	7	expl:pv	_	_
+7	comunicamos	comunicar	VERB	_	_	3	acl	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	mejor	mejor	ADJ	_	_	0	ROOT	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	nos	yo	PRON	_	_	13	expl:pv	_	_
+13	entendemos	entender	VERB	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	seremos	serer	VERB	_	_	0	ROOT	_	_
+3	amigos	amigo	NOUN	_	_	2	obj	_	_
+4	al	al	ADP	_	_	2	advmod	_	_
+5	menos	menos	ADV	_	_	4	fixed	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

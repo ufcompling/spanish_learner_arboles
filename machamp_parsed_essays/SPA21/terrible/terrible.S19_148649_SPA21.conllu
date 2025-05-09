@@ -1,0 +1,422 @@
+# Unnamed: 0 = 83
+# id = 148649
+# prompt = terrible
+# quarter = S19
+# course = SPA 21
+# age = 20 
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No 
+# language(s) studied = I studied French in high school for three years 
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Esta es una historia real que sucedió hace unas pocas semanas. Finalmente me había adaptado a la zona horaria en Italia, pero ya era hora de irme. Tuve que llegar al aeropuerto temprano en la mañana y tuvimos que caminar desde el hotel hasta el agua para tomar nuestro taxi acuático al aeropuerto. Mi abuela y su amiga estaban luchando con su equipaje, así que todos tuvimos que detenernos y asegurarnos de que estuvieran bien. Luego, la amiga de mi abuela se cayó porque llevaba tacones altos y las calles de Venecia son de adoquines. Tenía miedo de que ella no pudiera caminar, pero terminó estando bien. Cuando llegamos a la zona del taxi acuático, ya era hora de abordar y estaba triste porque tenía que decirle a mi tío. Se despidió de todos los demás primero y me salvó para el final. Lo pasé muy bien en Italia y me entristeció que todo hubiera terminado tan pronto. El viaje en bote al aeropuerto me hizo sentir mal, pero cuando finalmente me bajé, me di cuenta de que también estaba increíblemente cansado, ya que me había despertado a las 4 o 5 de la mañana. Después de despedirme de mi abuela y su amiga, que se estaban yendo a París, llegó el momento de registrarme en mi vuelo. La gente de la recepción dijo que había un terrible error y que necesitaban llamar a los Estados Unidos para obtener nuestros boletos. Tenía miedo de perder nuestro vuelo. Dormí todo el tiempo en el aeropuerto esperando nuestras tarjetas de embarque. Después de casi dos horas, obtuvimos las tarjetas de embarque, pero luego tuvimos que acelerar el control de pasaportes y seguridad porque nuestro vuelo iba a embarcarse pronto. Nos subimos al avión con facilidad, pero luego algo estaba mal con los baños del avión, así que tuvimos que esperar otros treinta minutos antes de poder despegar. Finalmente, regresamos a casa después de más de 24 horas de viaje, pero no cambiaría nada sobre el viaje. Espero recordarlo por el resto de mi vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	real	real	ADJ	_	Number=Sing	4	amod	_	_
+6	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+7	sucedió	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+8	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+10	pocas	poco	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+11	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	adaptado	adaptar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	zona	zona	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	horaria	horario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Italia	Italia	PROPN	_	_	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	ya	ya	ADV	_	_	15	advmod	_	_
+14	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+15	hora	hora	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+16	de	de	ADP	_	_	17	mark	_	_
+17	irme	ir	VERB	_	VerbForm=Inf	15	acl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	llegar	llegar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	temprano	temprano	ADV	_	_	3	advmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	que	que	SCONJ	_	_	13	cc	_	_
+13	caminar	caminar	VERB	_	VerbForm=Inf	11	conj	_	_
+14	desde	desde	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+17	hasta	hasta	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	agua	agua	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	tomar	tomar	VERB	_	VerbForm=Inf	13	advcl	_	_
+22	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	acuático	acuático	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
+25	al	a	ADP	_	_	26	case	_	_
+26	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+6	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	luchando	luchar	VERB	_	VerbForm=Ger	0	root	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	equipaje	equipaje	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+12	así	así	ADV	_	_	15	mark	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
+14	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	17	nsubj	_	_
+15	tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+16	que	que	SCONJ	_	_	17	cc	_	_
+17	detenernos	detener	VERB	_	VerbForm=Inf	15	conj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	asegurarnos	asegurar	VERB	_	VerbForm=Inf	15	conj	_	_
+20	de	de	ADP	_	_	23	mark	_	_
+21	que	que	SCONJ	_	_	23	mark	_	_
+22	estuvieran	estunr	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+23	bien	bien	ADV	_	_	19	ccomp	_	_
+24	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Luego	luego	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	cayó	caer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	porque	porque	SCONJ	_	_	11	mark	_	_
+11	llevaba	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+12	tacones	tacón	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+13	altos	alto	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
+14	y	y	CCONJ	_	_	21	cc	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	calles	calle	NOUN	_	Gender=Fem|Number=Plur	21	nsubj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	Venecia	Venecia	PROPN	_	_	16	nmod	_	_
+19	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	adoquines	adoquón	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	de	de	ADP	_	_	8	mark	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	pudiera	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	caminar	caminar	VERB	_	VerbForm=Inf	2	acl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	terminó	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	estando	estar	VERB	_	VerbForm=Ger	13	cop	_	_
+13	bien	bien	ADV	_	_	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	acuático	acuático	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+10	ya	ya	ADV	_	_	12	advmod	_	_
+11	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	hora	hora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	abordar	abordar	VERB	_	VerbForm=Inf	12	acl	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	triste	triste	ADJ	_	Number=Sing	12	conj	_	_
+18	porque	porque	SCONJ	_	_	21	mark	_	_
+19	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+20	que	que	SCONJ	_	_	21	cc	_	_
+21	decirle	decir	VERB	_	VerbForm=Inf	19	conj	_	_
+22	a	a	ADP	_	_	24	case	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	tío	tío	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	despidió	despedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	6	case	_	_
+4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	demás	demás	PRON	_	Number=Plur|PronType=Ind	2	obl	_	_
+7	primero	primero	ADV	_	_	2	advmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	salvó	salvar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+11	para	para	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	final	final	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	pasé	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bien	bien	ADV	_	_	2	advmod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Italia	Italia	PROPN	_	_	2	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	entristeció	entristecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	13	nsubj	_	_
+12	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	terminado	terminar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+14	tan	tanto	ADV	_	_	15	advmod	_	_
+15	pronto	pronto	ADV	_	_	13	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	bote	bote	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	sentir	sentir	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	mal	mal	ADV	_	_	8	advmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+12	pero	pero	CCONJ	_	_	19	cc	_	_
+13	cuando	cuando	SCONJ	_	_	16	mark	_	_
+14	finalmente	finalmente	ADV	_	_	16	advmod	_	_
+15	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	obl	_	_
+16	bajé	bajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	19	advcl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+18	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	conj	_	_
+20	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	19	compound	_	_
+21	de	de	ADP	_	_	26	mark	_	_
+22	que	que	SCONJ	_	_	26	mark	_	_
+23	también	también	ADV	_	_	26	advmod	_	_
+24	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
+25	increíblemente	increíblemente	ADV	_	_	26	advmod	_	_
+26	cansado	cansado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	19	ccomp	_	_
+27	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
+28	ya	ya	ADV	_	_	32	mark	_	_
+29	que	que	SCONJ	_	_	28	fixed	_	_
+30	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	32	obj	_	_
+31	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	32	aux	_	_
+32	despertado	despertar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	advcl	_	_
+33	a	a	ADP	_	_	35	case	_	_
+34	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
+35	4	4	NUM	_	NumForm=Digit|NumType=Card	32	obl	_	_
+36	o	o	CCONJ	_	_	37	cc	_	_
+37	5	5	NUM	_	NumForm=Digit|NumType=Card	35	conj	_	_
+38	de	de	ADP	_	_	40	case	_	_
+39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
+40	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	35	nmod	_	_
+41	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Después	después	ADV	_	_	18	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	despedirme	despedir	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+11	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+12	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+13	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	yendo	yer	VERB	_	VerbForm=Ger	6	acl	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	París	París	PROPN	_	_	14	obl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+18	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	momento	momento	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+21	de	de	ADP	_	_	22	mark	_	_
+22	registrarme	registrar	VERB	_	VerbForm=Inf	20	acl	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	_
+25	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	recepción	recepción	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	terrible	terrible	ADJ	_	Number=Sing	11	amod	_	_
+11	error	error	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	necesitaban	necesitar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+15	llamar	llamar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	Estados	Estados	PROPN	_	_	15	obj	_	_
+19	Unidos	Unidos	PROPN	_	_	18	flat	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	obtener	obtener	VERB	_	VerbForm=Inf	15	advcl	_	_
+22	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	boletos	boleto	NOUN	_	Gender=Masc|Number=Plur	21	obj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	perder	perder	VERB	_	VerbForm=Inf	2	acl	_	_
+5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Dormí	dormir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	esperando	esperar	VERB	_	VerbForm=Ger	1	advcl	_	_
+9	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	tarjetas	tarjeta	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	embarque	embarque	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	casi	casi	ADV	_	_	5	advmod	_	_
+4	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	obtuvimos	obtir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	tarjetas	tarjeta	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	embarque	embarque	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+13	pero	pero	CCONJ	_	_	15	cc	_	_
+14	luego	luego	ADV	_	_	17	advmod	_	_
+15	tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	conj	_	_
+16	que	que	SCONJ	_	_	17	cc	_	_
+17	acelerar	acelerar	VERB	_	VerbForm=Inf	15	conj	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	control	control	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	pasaportes	pasaporte	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	_
+22	y	y	CCONJ	_	_	23	cc	_	_
+23	seguridad	seguridad	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	_
+24	porque	porque	SCONJ	_	_	27	mark	_	_
+25	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
+27	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+28	a	a	ADP	_	_	29	mark	_	_
+29	embarcarse	embarcar	VERB	_	VerbForm=Inf	27	xcomp	_	_
+30	pronto	pronto	ADV	_	_	27	advmod	_	_
+31	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	subimos	subir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	avión	avión	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	facilidad	facilidad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	luego	luego	ADV	_	_	12	advmod	_	_
+10	algo	algo	PRON	_	Number=Sing|PronType=Ind	12	nsubj	_	_
+11	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	mal	mal	ADV	_	_	2	conj	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	baños	baño	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+16	del	de	ADP	_	_	17	case	_	_
+17	avión	avión	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+19	así	así	ADV	_	_	21	mark	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
+21	tuvimos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	12	advcl	_	_
+22	que	que	SCONJ	_	_	23	cc	_	_
+23	esperar	esperar	VERB	_	VerbForm=Inf	21	conj	_	_
+24	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	26	det	_	_
+25	treinta	treinta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	_
+26	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	_
+27	antes	antes	ADV	_	_	23	advmod	_	_
+28	de	de	ADP	_	_	30	mark	_	_
+29	poder	poder	AUX	_	VerbForm=Inf	30	aux	_	_
+30	despegar	despegar	VERB	_	VerbForm=Inf	27	advcl	_	_
+31	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	regresamos	regresar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	después	después	ADV	_	_	3	advmod	_	_
+7	de	de	ADP	_	_	11	case	_	_
+8	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
+9	de	de	ADP	_	_	8	case	_	_
+10	24	24	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
+11	horas	hora	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	pero	pero	CCONJ	_	_	17	cc	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	cambiaría	cambiar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	conj	_	_
+18	nada	nada	PRON	_	Number=Sing|PronType=Neg	17	obj	_	_
+19	sobre	sobre	ADP	_	_	21	case	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	recordarlo	recordar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	resto	resto	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

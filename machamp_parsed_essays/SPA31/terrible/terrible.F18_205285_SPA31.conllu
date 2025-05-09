@@ -1,0 +1,319 @@
+# Unnamed: 0 = 82
+# id = 205285
+# prompt = terrible
+# quarter = F18
+# course = SPA 31
+# age = I am 18.
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Yes, I speak Spanish.
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Había una muchacha que tenía once años y que se había mudado a *STATE* de *STATE* para poder pasar más tiempo con su familia. La transición fue muy difícil para ella porque ya tenía su vida establecida en *STATE* y tuvo que dejar todo atrás para empezar su nueva vida. Pero sabía que iba a ver a su familia más y que sus papás iban a ser más felices en *STATE* y eso la consolaba. Una fría mañana sus papás recibieron una triste noticia sobre su abuelo. Fueron muy rápidamente hacia el hospital y les dijeron que tenía cáncer en el colon. También les dijeron que porque ya tenía más complicaciones graves en su cuerpo, iba ser difícil superar la terrible enfermedad. Esta fue una noticia muy fuerte para el papá de la muchacha especialmente, porque se había mudado para estar más tiempo con su padre. Pasaron meses en el hospital con él para animarlo y para alegrarle el día. Sus nietos le leían cuentos, todos hablaban de viejas memorias que habían pasado en México y contaban chistes. La familia tenía que parecer feliz aunque en realidad se sentían muy nerviosos porque podría ser la última vez que pasaban tiempo con él por su enfermedad. Llegó el día en el que murió el abuelito de la muchacha y una gran tristeza vino a la familia por mucho tiempo. Ya nadie contaba chistes ni fingía ser feliz. Este evento le enseñó que se tiene que apreciar a la vida a lo máximo porque nunca se sabe cuando se va a acabar esa dicha.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	muchacha	muchacha	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+5	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
+6	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	años	año	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+11	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	mudado	mudar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	*STATE*	*state*	PROPN	_	_	12	obl	_	_
+15	de	de	ADP	_	_	14	case	_	_
+16	*STATE*	*state*	PROPN	_	_	14	punct	_	_
+17	para	para	ADP	_	_	19	mark	_	_
+18	poder	poder	AUX	_	VerbForm=Inf	19	aux	_	_
+19	pasar	pasar	VERB	_	VerbForm=Inf	12	advcl	_	_
+20	más	más	ADV	_	Degree=Cmp	21	advmod	_	_
+21	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	con	con	ADP	_	_	24	case	_	_
+23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+24	familia	familia	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	transición	transición	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	ya	ya	ADV	_	_	10	advmod	_	_
+10	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	vida	vida	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	establecida	establecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	amod	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*STATE*	*STATE*	PROPN	_	_	13	obl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+18	que	que	SCONJ	_	_	19	cc	_	_
+19	dejar	dejar	VERB	_	VerbForm=Inf	17	conj	_	_
+20	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	19	obj	_	_
+21	atrás	atrás	ADV	_	_	19	advmod	_	_
+22	para	para	ADP	_	_	23	mark	_	_
+23	empezar	empezar	VERB	_	VerbForm=Inf	19	advcl	_	_
+24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
+25	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
+26	vida	vida	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	advmod	_	_
+2	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	xcomp	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	ver	ver	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	que	que	SCONJ	_	_	15	mark	_	_
+13	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	papás	papá	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+15	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+16	a	a	ADP	_	_	19	case	_	_
+17	ser	ser	AUX	_	VerbForm=Inf	15	cop	_	_
+18	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+19	felices	feliz	ADJ	_	Number=Plur	15	xcomp	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	*STATE*	*state*	PUNCT	_	_	19	punct	_	_
+22	y	y	CCONJ	_	_	25	cc	_	_
+23	eso	ese	PRON	_	Number=Sing|PronType=Dem	25	nsubj	_	_
+24	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	25	obj	_	_
+25	consolaba	consolar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+26	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	fría	frío	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+3	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	papás	papá	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+6	recibieron	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	triste	triste	ADJ	_	Number=Sing	9	amod	_	_
+9	noticia	noticia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	sobre	sobre	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	rápidamente	rápidamente	ADV	_	_	1	advmod	_	_
+4	hacia	hacia	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+9	dijeron	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
+12	cáncer	cáncer	NOUN	_	Gender=Fem	11	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	colon	colon	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+3	dijeron	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	15	mark	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	ya	ya	ADV	_	_	7	advmod	_	_
+7	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	complicaciones	complicación	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	graves	grave	ADJ	_	Number=Plur	9	amod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	cuerpo	cuerpo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+15	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+16	ser	ser	AUX	_	VerbForm=Inf	15	cop	_	_
+17	difícil	difícil	ADJ	_	Number=Sing	15	xcomp	_	_
+18	superar	superar	VERB	_	VerbForm=Inf	15	csubj	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	terrible	terrible	ADJ	_	Number=Sing	21	amod	_	_
+21	enfermedad	enfermedad	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	noticia	noticia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	fuerte	fuerte	ADJ	_	Number=Sing	4	amod	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	papá	papá	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	muchacha	muchacha	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	especialmente	especialmente	ADV	_	_	9	advmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	porque	porque	SCONJ	_	_	18	mark	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl	_	_
+17	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	mudado	mudar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+19	para	para	ADP	_	_	20	mark	_	_
+20	estar	estar	VERB	_	VerbForm=Inf	18	advcl	_	_
+21	más	más	ADV	_	Degree=Cmp	22	advmod	_	_
+22	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+23	con	con	ADP	_	_	25	case	_	_
+24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
+25	padre	padre	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	meses	mes	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	animarlo	animar	VERB	_	VerbForm=Inf	1	advcl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	alegrarle	alegrar	VERB	_	VerbForm=Inf	9	conj	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	día	día	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nietos	nieto	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	leían	leer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	cuentos	cuento	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	8	nsubj	_	_
+8	hablaban	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	viejas	viejo	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+11	memorias	memoria	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+13	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	pasado	pasar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	México	México	PROPN	_	_	14	obl	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	contaban	contar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+19	chistes	chiste	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	parecer	parecer	VERB	_	VerbForm=Inf	3	conj	_	_
+6	feliz	feliz	ADJ	_	Number=Sing	5	xcomp	_	_
+7	aunque	aunque	SCONJ	_	_	11	mark	_	_
+8	en	en	ADP	_	_	11	advmod	_	_
+9	realidad	realidad	NOUN	_	_	8	fixed	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	sentían	sentir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	nerviosos	nervioso	ADJ	_	Gender=Masc|Number=Plur	11	obj	_	_
+14	porque	porque	SCONJ	_	_	19	mark	_	_
+15	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux	_	_
+16	ser	ser	AUX	_	VerbForm=Inf	19	cop	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+18	última	último	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	19	amod	_	_
+19	vez	vez	NOUN	_	Gender=Fem|Number=Sing	5	advcl	_	_
+20	que	que	PRON	_	PronType=Rel	21	obl	_	_
+21	pasaban	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl	_	_
+22	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+23	con	con	ADP	_	_	24	case	_	_
+24	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
+25	por	por	ADP	_	_	27	case	_	_
+26	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
+27	enfermedad	enfermedad	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
+28	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	que	que	PRON	_	PronType=Rel	7	obl	_	_
+7	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	abuelito	abuelito	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	muchacha	muchacha	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	y	y	CCONJ	_	_	17	cc	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	gran	gran	ADJ	_	Number=Sing	16	amod	_	_
+16	tristeza	tristeza	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+17	vino	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	familia	familia	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	por	por	ADP	_	_	23	case	_	_
+22	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	23	det	_	_
+23	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ya	ya	ADV	_	_	3	advmod	_	_
+2	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	3	nsubj	_	_
+3	contaba	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	chistes	chiste	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	ni	ni	CCONJ	_	_	6	cc	_	_
+6	fingía	finger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+7	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
+8	feliz	feliz	ADJ	_	Number=Sing	6	xcomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	evento	evento	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+4	enseñó	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	que	que	SCONJ	_	_	9	cc	_	_
+9	apreciar	apreciar	VERB	_	VerbForm=Inf	7	conj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vida	vida	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+13	a	a	ADP	_	_	9	advmod	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	fixed	_	_
+15	máximo	máximo	NOUN	_	_	13	fixed	_	_
+16	porque	porque	SCONJ	_	_	19	mark	_	_
+17	nunca	nunca	ADV	_	_	19	advmod	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+20	cuando	cuando	SCONJ	_	_	22	mark	_	_
+21	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl	_	_
+22	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+23	a	a	ADP	_	_	24	mark	_	_
+24	acabar	acabar	VERB	_	VerbForm=Inf	22	xcomp	_	_
+25	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
+26	dicha	dicha	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

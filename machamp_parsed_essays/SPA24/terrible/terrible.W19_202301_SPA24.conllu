@@ -1,0 +1,448 @@
+# Unnamed: 0 = 81
+# id = 202301
+# prompt = terrible
+# quarter = W19
+# course = SPA 24
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = punto de vista del hijo: Es el año dos mil nueve. Estas sentado en su dormitorio y estas empiezo a jugar en su sito de web favorito: El club de pengünos. Su papa, Jaime esta en el piso debajo, preparando por su mudarse. Todo esta bien. En dies minutos, vas a ir a la cocina para comer Gushers y un Lunchable. Estas próspero. De repente: oigas una ruido extraño. Conoces este ruido. Es la canción de el club de pengüinos. Corres al piso debajo y noticas algo extraño. Hay un caja con algo morado encima. Además, donde esta su papa? El punto de vista de su papa: Estas preperando para la proxima muda de su familia a vermont. Estas organizando todos las cajas cuando ves algo extraño. Ver una caja con una substancia marron y extraña. Pero, cuando tratas de ver mejor, estas envolvado por la caja. Por lo que parace como años, estas volando entre la substancia morado y ;a cancion de en club de pengüinos esta tocando con mucho fuerte. De repente, estas en el mundo del juego de video, el club de pengüino. Un pengüino con una camisa rojo entro. Dice en un voz terrible, "Hola Jaime. Soy yo. El diablo del el club de pengüinos. Si quieras ver su hijo, necicitas convertirse a la reina de el club de pengüinos." Digas, "Qué? Estoy confundida? Comó puede ser la reina de una juego de videos?". Pero el diablo ha desaparacida. Estas triste, nunca vas a ver su hijo. No puedes convertirse a la reina. El punto de vista de el hijo: Estas muy confundido. Dondé esta su papa? Y qué es este caja extraño? Acercarse a la caja de carton cuando de repente estas envolvado por la caja. Por lo que parace como años, estas volando entre la substancia morado. Lo que va a occurir? Es posssible que el Jaime y su hijo van a reuinirse? Nadie sabe.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	punto	punto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	vista	vista	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+6	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
+7	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	año	año	NOUN	_	Gender=Masc|Number=Sing	1	acl	_	_
+10	dos	dos	NUM	_	NumForm=Word|NumType=Card	9	appos	_	_
+11	mil	mil	NUM	_	NumForm=Word|NumType=Card	10	compound	_	_
+12	nueve	nueve	NUM	_	NumForm=Word|NumType=Card	10	compound	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	obj	_	_
+2	sentado	sentado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	8	obl	_	_
+8	empiezo	empiezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	jugar	jugar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	sito	sito	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	web	web	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+16	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17	:	:	PUNCT	_	PunctType=Colo	19	punct	_	_
+18	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	club	club	PROPN	_	_	13	appos	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	pengünos	pengünos	NOUN	_	_	18	flat	_	_
+22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	papa	papa	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	Jaime	Jaime	PROPN	_	_	2	appos	_	_
+5	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	piso	piso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	debajo	debajo	ADV	_	_	8	advmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	preparando	preparar	VERB	_	VerbForm=Ger	5	advcl	_	_
+12	por	por	ADP	_	_	14	mark	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	mudarse	mudar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	bien	bien	NOUN	_	_	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	dies	dies	NOUN	_	_	7	obl	_	_
+3	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	2	compound	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	ir	ir	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	comer	comer	VERB	_	VerbForm=Inf	7	advcl	_	_
+13	Gushers	Gushers	PROPN	_	_	12	obj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Lunchable	Lunchable	PROPN	_	_	13	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	próspero	próspero	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	De	de	ADP	_	_	0	root	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	:	:	PUNCT	_	PunctType=Colo	4	punct	_	_
+4	oigas	oigar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ruido	ruido	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Conoces	conocer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	canción	canción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	club	club	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	pengüinos	pengüino	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Corres	corresr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	piso	piso	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	debajo	debajo	ADV	_	_	3	advmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	noticas	noticar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	algo	algo	PRON	_	Number=Sing|PronType=Ind	6	obj	_	_
+8	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	caja	caja	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	algo	algo	PRON	_	Number=Sing|PronType=Ind	3	nmod	_	_
+6	morado	morado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	encima	encima	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	donde	donde	ADV	_	PronType=Rel	4	advmod	_	_
+4	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	punto	punto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	vista	vista	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
+9	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	appos	_	_
+10	preperando	preperar	VERB	_	VerbForm=Ger	9	acl	_	_
+11	para	para	ADP	_	_	14	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	proxima	proximo	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+14	muda	muda	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	familia	familia	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+18	a	a	ADP	_	_	19	case	_	_
+19	vermont	vermont	NOUN	_	_	14	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	obj	_	_
+2	organizando	organizar	VERB	_	VerbForm=Ger	0	root	_	_
+3	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	4	det	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	cajas	caja	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	ves	ver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	algo	algo	PRON	_	Number=Sing|PronType=Ind	7	obj	_	_
+9	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	caja	caja	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	substancia	substancia	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	marron	marron	ADJ	_	Number=Sing	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	extraña	extraño	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	tratas	tratar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	ver	ver	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	mejor	mejor	ADV	_	_	6	advmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	estas	este	AUX	_	Gender=Fem|Number=Plur|PronType=Dem	10	cop	_	_
+10	envolvado	envolvado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	caja	caja	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Por	por	ADP	_	_	4	mark	_	_
+2	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
+3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+4	parace	paracer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	4	advcl	_	_
+9	volando	volar	VERB	_	VerbForm=Ger	4	advcl	_	_
+10	entre	entre	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	substancia	substancia	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	morado	morado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	amod	_	_
+14	y	y	CCONJ	_	_	24	cc	_	_
+15	;	;	PUNCT	_	PunctType=Semi	4	punct	_	_
+16	a	a	ADP	_	_	24	advmod	_	_
+17	cancion	cancion	NOUN	_	_	16	fixed	_	_
+18	de	de	ADP	_	_	16	fixed	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	club	club	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	pengüinos	pengüino	NOUN	_	Gender=Masc|Number=Plur	20	nmod	_	_
+23	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	24	aux	_	_
+24	tocando	tocar	VERB	_	VerbForm=Ger	4	advcl	_	_
+25	con	con	ADP	_	_	27	case	_	_
+26	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	27	det	_	_
+27	fuerte	fuerte	ADJ	_	Number=Sing	24	advmod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	De	de	ADP	_	_	4	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	juego	juego	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	video	video	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	club	club	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	pengüino	pengüino	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pengüino	pengüino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	camisa	camisa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	rojo	rojo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	entro	entro	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	voz	voz	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+8	Hola	hola	PROPN	_	_	1	obj	_	_
+9	Jaime	Jaime	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	diablo	diablo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	del	de	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	club	club	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	pengüinos	pengüino	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	quieras	quiraer	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	necicitas	necicitar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	convertirse	convertir	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	reina	reina	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	club	club	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	pengüinos	pengüino	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	Digas	dacir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+5	Qué	qué	PRON	_	Number=Sing|PronType=Int	2	obj	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	confundida	confundido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+3	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	Comó	comó	INTJ	_	_	5	nsubj	_	_
+2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	reina	reina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	juego	juego	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	videos	video	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+11	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	5	punct	_	_
+12	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	diablo	diablo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	desaparacida	desaparacir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	triste	triste	ADJ	_	Number=Sing	5	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	nunca	nunca	ADV	_	_	5	advmod	_	_
+5	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	convertirse	convertir	VERB	_	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	reina	reina	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	punto	punto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	vista	vista	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
+9	Estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	appos	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	confundido	confundido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Dondé	dondé	INTJ	_	_	0	root	_	_
+2	esta	este	AUX	_	Gender=Fem|Number=Sing|PronType=Dem	4	cop	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	papa	papa	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+
+1	Y	y	CCONJ	_	_	2	cc	_	_
+2	qué	qué	PRON	_	Number=Sing|PronType=Int	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	caja	caja	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+6	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	Acercarse	acercar	VERB	_	VerbForm=Inf	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	caja	caja	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	carton	carton	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	cuando	cuando	SCONJ	_	_	10	mark	_	_
+8	de	de	ADP	_	_	11	advmod	_	_
+9	repente	repente	NOUN	_	_	8	fixed	_	_
+10	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	1	advcl	_	_
+11	envolvado	envolvado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	amod	_	_
+12	por	por	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	caja	caja	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	4	mark	_	_
+2	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
+3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+4	parace	paracer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	estas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	9	obj	_	_
+9	volando	volar	VERB	_	VerbForm=Ger	4	advcl	_	_
+10	entre	entre	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	substancia	substancia	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	morado	morado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
+2	que	que	PRON	_	PronType=Rel	3	nsubj	_	_
+3	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	occurir	occurir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	posssible	posssible	ADJ	_	Number=Sing	0	root	_	_
+3	que	que	SCONJ	_	_	9	mark	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Jaime	Jaime	PROPN	_	_	9	nsubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+9	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	reuinirse	reuinir	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	Nadie	nadie	PRON	_	Number=Sing|PronType=Neg	2	nsubj	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

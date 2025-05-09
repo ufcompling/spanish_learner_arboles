@@ -1,0 +1,229 @@
+# Unnamed: 0 = 10
+# id = 229338
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un Dia Muy Divertido  Es un dia [bonita]{bonito}<ga:adj> en [el]{}<pr:det:art:def> verano. Hoy es 4 de julio y mi familia y yo vamos a la playa en *CITY*. Tomamos el auto y pasamos por todas las playas. Hay muchas personas en el mar y parece divertido. Finalmente, [nosotros]{}<pr:su:pron> paramos en una playa. [Yo]{}<pr:su:pron> corro al agua y veo un delfín! En facto, hay cuatro delfines! [Ellos]{}<pr:su:pron> son muy bonitos. Voy a nadar y disfruto del frío y el agua brillante. La playa es mi lugar favorito. Después mi nadar, mi familia y yo tenemos un picnic en la arena. Tenemos sandwiches, papas fritas, galletas, y mas! [Es]{Está}<conf:v:seta> muy delicioso. Después del picnic, mis hermanos y yo vamos a surfear. Mas tarde esa noche, porque era el dia de la independencia, miramos los fuegos artificiales. Los fuegos artificiales en la playa son los mejores. [Nosotros]{}<pr:su:pron> hacemos s'mores y nos preparamos para volver a casa. Fue un dia muy divertido!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Un Dia Muy Divertido  Es un [dia]{día}<gat:noun> [bonita]{bonito}<gat:adj> en el verano. Hoy es 4 de julio y mi familia y yo vamos a la playa en *CITY*. Tomamos el auto y pasamos por todas las playas. Hay muchas personas en el mar y parece divertido. Finalmente, nosotros paramos en una playa. [Yo]{}<pr:su:pron> corro al agua y veo un delfín! En facto, hay cuatro delfines! [Ellos]{}<pr:su:pron> son muy bonitos. Voy a nadar y disfruto del frío y el agua brillante. La playa es mi lugar favorito. Después mi nadar, mi familia y yo tenemos un picnic en la arena. Tenemos sandwiches, papas fritas, galletas, y mas! Es muy delicioso. Después del picnic, mis hermanos y yo vamos a surfear. Mas tarde esa noche, porque [era]{es}<fs:st:t> el dia de la independencia, miramos los fuegos artificiales. Los fuegos artificiales en la playa son los mejores. [Nosotros]{}<pr:su:pron> hacemos s'mores y nos preparamos para volver a casa. Fue un dia muy divertido!
+# verbs annotation ann2 = nan
+# corrected1 = Un día muy divertido  Es un día bonito de verano. Hoy es 4 de julio y mi familia y yo vamos a la playa de Monterrey. Tomamos el auto y pasamos por todas las playas. Hay muchas personas en el mar y parece divertido. Finalmente, paramos en una de las playas. ¡Corro al agua y veo un delfín! ¡De hecho, hay cuatro delfines! Son muy bonitos. Voy a nadar y disfruto del agua brillante y fría. La playa es mi lugar favorito. Después de nadar, mi familia y yo hacemos un picnic y comemos en la arena. Tenemos sándwiches, papas fritas, galletas… ¡y más! Está todo delicioso. Después del picnic, mis hermanos y yo vamos a surfear. Más tarde esa noche, como es el Día de la Independencia, vemos los fuegos artificiales. Ver os fuegos artificiales desde la playa es lo mejor. Comemos s'mores para cenar y nos preparamos para volver a casa. ¡Ha sido un día muy divertido! 
+# corrected2 = nan
+# text = Un Dia Muy Divertido Es un dia bonita en el verano. Hoy es 4 de julio y mi familia y yo vamos a la playa en *CITY*. Tomamos el auto y pasamos por todas las playas. Hay muchas personas en el mar y parece divertido. Finalmente, nosotros paramos en una playa. Yo corro al agua y veo un delfín! En facto, hay cuatro delfines! Ellos son muy bonitos. Voy a nadar y disfruto del frío y el agua brillante. La playa es mi lugar favorito. Después mi nadar, mi familia y yo tenemos un picnic en la arena. Tenemos sandwiches, papas fritas, galletas, y mas! Es muy delicioso. Después del picnic, mis hermanos y yo vamos a surfear. Mas tarde esa noche, porque era el dia de la independencia, miramos los fuegos artificiales. Los fuegos artificiales en la playa son los mejores. Nosotros hacemos s'mores y nos preparamos para volver a casa. Fue un dia muy divertido!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Dia	Dia	PROPN	_	_	7	nsubj	_	_
+3	Muy	Muy	ADV	_	_	2	flat	_	_
+4	Divertido	Divertido	PROPN	_	_	2	flat	_	_
+5	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dia	dia	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	verano	verano	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	4	4	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	julio	julio	NOUN	_	_	3	compound	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	playa	playa	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	*CITY*	*city*	PROPN	_	_	3	compound	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tomamos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	auto	auto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	por	por	ADP	_	_	9	case	_	_
+7	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	playas	playa	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mar	mar	NOUN	_	Number=Sing	1	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	xcomp	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	paramos	parar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	playa	playa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	corro	corrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	agua	agua	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	delfín	delfín	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	En	en	ADP	_	_	4	advmod	_	_
+2	facto	facto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	delfines	delfén	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonitos	bonito	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	nadar	nadar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	disfruto	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	frío	frío	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	agua	agua	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	brillante	brillante	ADJ	_	Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	playa	playa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Después	después	ADV	_	_	3	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	nadar	nadar	NOUN	_	VerbForm=Inf	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	picnic	picnic	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	arena	arena	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sandwiches	sandwiches	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	papas	papa	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+5	fritas	frito	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	galletas	galleta	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	mas	mas	ADV	_	_	1	conj	_	_
+11	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+12	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	delicioso	delicioso	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	9	advmod	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	picnic	picnic	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	conj	_	_
+9	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	surfear	surfear	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mas	mas	CCONJ	_	_	14	advmod	_	_
+2	tarde	tarde	ADV	_	_	14	advmod	_	_
+3	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	noche	noche	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dia	dia	NOUN	_	Gender=Masc|Number=Sing	14	advcl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	independencia	independencia	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+14	miramos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	fuegos	fuego	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+17	artificiales	artificial	ADJ	_	Number=Plur	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	fuegos	fuego	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+3	artificiales	artificial	ADJ	_	Number=Plur	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	hacemos	hacer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	s'mores	s'mores	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	preparamos	preparar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	volver	volver	VERB	_	VerbForm=Inf	6	advcl	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	dia	dia	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+

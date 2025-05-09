@@ -1,0 +1,334 @@
+# Unnamed: 0 = 322
+# id = 172971
+# prompt = special
+# quarter = F18
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Cantonese
+# language(s) studied = Mandarin (1 year)
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi hermano es mi persona especial en la vida. Él es *AGE* años, dos años mayor, y va a *UNIVERSITY* porque major en mechanical engineering. Mi hermano va a la escuela en carro Toyota y trabaja en la piscina. Él es un lifeguard y quiere ser un sheriff en el futuro. Él es muy trabajador, alto, estudioso, divertido y fuerte. Yo no visto ello en *CITY* porque estoy en *CITY* estudiando psychology. A mi hermano le gusta comer tacos, arroz, y carne. Ello come mucho. Él es mi persona especial porque yo admiro ello y es mi uno hermano. También ello es Prom King en *PLACE* y popular en high escuela. Nadamos para nadar en clubs, corrimos medias marathons y compitimos en triathlons. Él es mi mejor amigo. Le gusta coleccionar Hot Wheels y tiene más cien carros. También salimos a comer con nuestros primos o sus amigos. Vamos a comer una Korean barbeque, un sushi o un restaurante chino. Yo no voy a comer con mi hermano porque yo estoy en *CITY*, pero lo visite a mi casa en *CITY* para Christmas. En el futuro, quiero viajar con mi hermano y mis padres a Vietnam y Cambodia porque donde son mis padres. También mi hermano Dolores favorito es azul y yo también porque colores es bonita. Hablamos en FaceTime en semanas, pero él se molesta mucho. Mis padres nos aman mucho, pero mi perro me ama más porque yo doy a mi perro mucha comida buena. Ese es mi hermano.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	especial	especial	ADJ	_	Number=Sing	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	*AGE*	*age*	SYM	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	años	año	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+8	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	4	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	*university*	PROPN	_	_	11	obj	_	_
+14	porque	porque	SCONJ	_	_	15	mark	_	_
+15	major	major	ADJ	_	Number=Sing	11	advcl	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	mechanical	mechanical	NOUN	_	_	15	nmod	_	_
+18	engineering	engineering	NOUN	_	_	15	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	carro	carro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	Toyota	Toyota	PROPN	_	_	8	appos	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	piscina	piscina	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lifeguard	lifeguard	NOUN	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sheriff	sheriff	NOUN	_	Gender=Masc|Number=Sing	6	xcomp	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	alto	alto	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	estudioso	estudioso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	fuerte	fuerte	ADJ	_	Number=Sing	4	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	*city*	PROPN	_	_	3	obl	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	11	punct	_	_
+11	estudiando	estudiar	VERB	_	VerbForm=Ger	3	advcl	_	_
+12	psychology	psychology	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	comer	comer	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	tacos	taco	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	carne	carne	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	especial	especial	ADJ	_	Number=Sing	4	amod	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	admiro	admirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+13	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	conj	_	_
+14	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Prom	Prom	PROPN	_	_	0	root	_	_
+5	King	King	PROPN	_	_	4	flat	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*PLACE*	*place*	PROPN	_	_	4	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	popular	popular	ADJ	_	Number=Sing	4	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	high	high	ADJ	_	_	9	nmod	_	_
+12	escuela	escuela	NOUN	_	_	11	compound	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nadamos	naer	PRON	_	Number=Sing|PronType=Neg	0	root	_	_
+2	para	para	ADP	_	_	3	mark	_	_
+3	nadar	nadar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	clubs	club	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	corrimos	correr	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	medias	medio	ADJ	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	marathons	marathon	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	compitimos	compiter	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	triathlons	triathlon	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+5	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	coleccionar	coleccionar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	Hot	Hot	PROPN	_	_	3	obj	_	_
+5	Wheels	Wheels	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
+9	cien	cien	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	carros	carro	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	salimos	salir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	comer	comer	VERB	_	VerbForm=Inf	2	advcl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	primos	primo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	o	o	CCONJ	_	_	10	cc	_	_
+9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Korean	korean	PROPN	_	_	3	obj	_	_
+6	barbeque	barbeque	ADJ	_	Number=Sing	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	sushi	sushi	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+10	o	o	CCONJ	_	_	12	cc	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	restaurante	restaurante	NOUN	_	Number=Sing	5	conj	_	_
+13	chino	chino	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	comer	comer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*CITY*	*city*	PROPN	_	_	3	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	pero	pero	CCONJ	_	_	17	cc	_	_
+16	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
+17	visite	visitar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	casa	casa	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	en	en	ADP	_	_	24	case	_	_
+22	*CITY*	*City*	PROPN	_	_	17	dep	_	_
+23	para	para	ADP	_	_	24	case	_	_
+24	Christmas	Christmas	PROPN	_	_	17	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	viajar	viajar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	padres	padre	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	Vietnam	Vietnam	PROPN	_	_	6	obl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	Cambodia	Cambodia	PROPN	_	_	14	conj	_	_
+17	porque	porque	SCONJ	_	_	19	mark	_	_
+18	donde	donde	ADV	_	PronType=Rel	19	advmod	_	_
+19	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+20	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	padres	padre	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	También	también	ADV	_	_	7	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	Dolores	Dolores	PROPN	_	_	3	appos	_	_
+5	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	azul	azul	ADJ	_	Number=Sing	0	root	_	_
+8	y	y	CCONJ	_	_	14	cc	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+10	también	también	ADV	_	_	9	advmod	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	colores	color	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Hablamos	hablar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	FaceTime	Facetime	PROPN	_	_	1	obl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	molesta	molestar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	mucho	mucho	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	aman	amar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	perro	perro	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	ama	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
+13	porque	porque	SCONJ	_	_	15	mark	_	_
+14	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	doy	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	perro	perro	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+19	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	20	det	_	_
+20	comida	comida	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+21	buena	buen	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ese	ese	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

@@ -1,0 +1,221 @@
+# Unnamed: 0 = 213
+# id = 196920
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Just English 
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy de *CITY* pero, viven en *CITY* *CITY*. Soy la hija más grande de 4. Vivo co mi madre y mi hermana menor. Mi color favorito es el morado. Durante mi tiempo libre me gusta salir con mi novio, salir con mis amigos y domir. Actualmente asisto a la escuela y trabajo en *PLAC*PLACE** E *PLACE*. Me especializo en psicología y quiero ser [un]{}<pr:det:art:def> trabajo social. Me encanta la comida, mi [favorito]{favorita}<ga:adj> son los tacos. Soy de piel clara con ojos marrones y cabello castaño corto. No muy [alto]{alta}<ga:adj>. [Yo]{}<pr:su:pron> también uso lentes. Tengo un tatuaje a juego con mi madre en mi brazo. Tengo una sonrisa blanca perfecta y nunca tuve frenillos. A veces me hago las uñas, los pies y las cejas para sentirme aún más bonita. Me pongo maquillaje en ocasiones especiales. Mis atuendos suelen ser cómodos o casuales. Cuando sea grande quiero casarme, tener hijos y viajar por el mundo.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de *CITY* pero, [viven]{vivo}<fs:st:pn> en *CITY* *CITY*. Soy la hija más grande de 4. Vivo co mi madre y mi hermana menor. Mi color favorito es el morado. Durante mi tiempo libre me gusta salir con mi novio, salir con mis amigos y [domir]{dormir}<fs:st:r>. Actualmente asisto a la escuela y trabajo en *PLAC*PLACE** E *PLACE*. Me especializo en []{la}<ab:det:art:def> psicología y quiero ser un trabajo social. Me encanta la comida, mi [favorito]{favorita}<ga:adj> son los tacos. Soy de piel clara con ojos marrones y cabello castaño corto. No muy [alto]{alta}<ga:adj>. [Yo]{}<pr:su:pron> también uso lentes. Tengo un tatuaje a juego con mi madre en mi brazo. Tengo una sonrisa blanca perfecta y nunca tuve frenillos. A veces me hago las uñas, los pies y las cejas para sentirme aún más bonita. Me pongo maquillaje en ocasiones especiales. Mis atuendos suelen ser cómodos o casuales. Cuando sea grande quiero casarme, tener hijos y viajar por el mundo.
+# verbs annotation ann2 = nan
+# corrected1 = Soy de *CITY*, pero vivo en *CITY* *CITY*. Soy la hija más grande de 4. Vivo con mi madre y mi hermana menor. Mi color favorito es el morado. Durante mi tiempo libre me gusta salir con mi novio, salir con mis amigos y dormir. Actualmente asisto a la escuela y trabajo en “*PLAC*PLACE** E *PLACE*”. Me especializo en Psicología y quiero ser trabajadora social. Me encanta la comida, mi favorita son los tacos. Soy de piel clara con ojos marrones y cabello castaño corto. No soy muy alta. También uso lentes. Tengo un tatuaje a juego con mi madre en mi brazo. Tengo una sonrisa blanca perfecta y nunca tuve frenillos. A veces me hago las uñas, los pies y las cejas para sentirme aún más bonita. Me pongo maquillaje en ocasiones especiales. Mis atuendos suelen ser cómodos o casuales. Cuando sea grande quiero casarme, tener hijos y viajar por el mundo.
+# corrected2 = nan
+# text = Soy de *CITY* pero, viven en *CITY* *CITY*. Soy la hija más grande de 4. Vivo co mi madre y mi hermana menor. Mi color favorito es el morado. Durante mi tiempo libre me gusta salir con mi novio, salir con mis amigos y domir. Actualmente asisto a la escuela y trabajo en *PLACE* *PLACE* *PLACE*. Me especializo en psicología y quiero ser un trabajo social. Me encanta la comida, mi favorito son los tacos. Soy de piel clara con ojos marrones y cabello castaño corto. No muy alto. Yo también uso lentes. Tengo un tatuaje a juego con mi madre en mi brazo. Tengo una sonrisa blanca perfecta y nunca tuve frenillos. A veces me hago las uñas, los pies y las cejas para sentirme aún más bonita. Me pongo maquillaje en ocasiones especiales. Mis atuendos suelen ser cómodos o casuales. Cuando sea grande quiero casarme, tener hijos y viajar por el mundo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	viven	vivir	VERB	_	_	3	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	*CITY*	CITY	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	hija	hija	NOUN	_	_	0	ROOT	_	_
+4	más	más	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	_	3	amod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	4	4	NUM	_	_	3	nummod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	co	co	NOUN	_	_	1	flat	_	_
+3	mi	mi	PROPN	_	_	4	det	_	_
+4	madre	madre	NOUN	_	_	1	flat	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	hermana	hermana	NOUN	_	_	1	conj	_	_
+8	menor	menor	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	morado	morado	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	6	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	salir	salir	VERB	_	_	6	csubj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	novio	novio	NOUN	_	_	7	obl	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	salir	salir	VERB	_	_	7	advcl	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	mis	mi	DET	_	_	15	det	_	_
+15	amigos	amigo	NOUN	_	_	12	obl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	domir	domir	VERB	_	_	12	conj	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Actualmente	actualmente	ADV	_	_	2	advmod	_	_
+2	asisto	asisto	ADJ	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	escuela	escuela	NOUN	_	_	2	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabajo	trabajo	NOUN	_	_	5	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*PLACE*	PLACE	PROPN	_	_	2	obl	_	_
+10	*PLACE*	PLACE	PROPN	_	_	9	flat	_	_
+11	*PLACE*	PLACE	PROPN	_	_	9	flat	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	especializo	especializar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	psicología	psicología	NOUN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiero	querer	VERB	_	_	2	conj	_	_
+7	ser	ser	AUX	_	_	9	cop	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	trabajo	trabajo	NOUN	_	_	6	xcomp	_	_
+10	social	social	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	comida	comida	NOUN	_	_	2	nsubj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	favorito	favorito	ADJ	_	_	10	nsubj	_	_
+8	son	ser	AUX	_	_	10	cop	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	tacos	taco	NOUN	_	_	2	advcl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	piel	piel	NOUN	_	_	0	ROOT	_	_
+4	clara	claro	ADJ	_	_	3	amod	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	ojos	ojo	NOUN	_	_	7	amod	_	_
+7	marrones	marrón	NOUN	_	_	3	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	cabello	cabello	NOUN	_	_	7	conj	_	_
+10	castaño	castaño	NOUN	_	_	7	appos	_	_
+11	corto	corto	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	alto	alto	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	uso	uso	NOUN	_	_	0	ROOT	_	_
+4	lentes	lent	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	tatuaje	tatuaje	NOUN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	juego	juego	NOUN	_	_	3	nmod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	madre	madre	NOUN	_	_	1	obl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	brazo	brazo	NOUN	_	_	1	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	sonrisa	sonrisa	NOUN	_	_	1	obj	_	_
+4	blanca	blanco	ADJ	_	_	3	amod	_	_
+5	perfecta	perfecto	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	nunca	nunca	ADV	_	_	8	advmod	_	_
+8	tuve	tener	VERB	_	_	1	conj	_	_
+9	frenillos	frenillo	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	4	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	hago	hacer	VERB	_	_	0	ROOT	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	uñas	uña	NOUN	_	_	4	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	pies	pie	NOUN	_	_	6	appos	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	las	el	DET	_	_	12	det	_	_
+12	cejas	ceja	NOUN	_	_	6	conj	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	sentirme	sentir yo	VERB	_	_	4	advcl	_	_
+15	aún	aún	ADV	_	_	17	advmod	_	_
+16	más	más	ADV	_	_	17	advmod	_	_
+17	bonita	bonito	ADJ	_	_	14	obj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	pongo	poner	VERB	_	_	0	ROOT	_	_
+3	maquillaje	maquillaje	NOUN	_	_	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	ocasiones	ocasión	NOUN	_	_	2	obl	_	_
+6	especiales	especial	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	atuendos	atuendo	NOUN	_	_	3	nsubj	_	_
+3	suelen	soler	VERB	_	_	0	ROOT	_	_
+4	ser	ser	AUX	_	_	5	cop	_	_
+5	cómodos	cómodo	ADJ	_	_	3	xcomp	_	_
+6	o	o	CCONJ	_	_	7	cc	_	_
+7	casuales	casual	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	sea	ser	AUX	_	_	3	cop	_	_
+3	grande	grande	ADJ	_	_	4	advcl	_	_
+4	quiero	querer	VERB	_	_	0	ROOT	_	_
+5	casarme	casar yo	VERB	_	_	4	xcomp	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	tener	tener	VERB	_	_	4	advcl	_	_
+8	hijos	hijo	NOUN	_	_	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	viajar	viajar	VERB	_	_	8	conj	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	mundo	mundo	NOUN	_	_	10	obl	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+

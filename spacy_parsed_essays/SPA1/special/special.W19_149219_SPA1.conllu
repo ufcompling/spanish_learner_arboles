@@ -1,0 +1,232 @@
+# Unnamed: 0 = 122
+# id = 149219
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = Japanese - 2 months
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi madre es mi favorita. Mi madre es muy [activo]{activa}<ga:adj>. Mi madre se llama *FIRST_NAME*. Mi madre es trabajadora. Ella tiene el pelo negro. Siempre lleva un reloj todos los dias. Su color [favorita]{favorito}<ga:adj> es []{el}<ab:det:art:def> rosado. Mi madre corre en la manana. Ella gusta arroz. Mi madre es muy feliz pero triste hoy. Mi madre gusta cocinar todos los dias. Mi madre vive en *CITY*. Mi madre lleva un vestido en la noche. Mi madre encanta mi padre. Mi padre es simpatica, sincera, y intelligente. Mi madre habla Vietnamese y Ingles. Mi madre gusta cafe. Mi madre mira television en la noche. Mi madre [gusta]{gustan}<fs:st:pn> []{los}<ab:det:art:def> perros pero no [gusta]{gustan}<fs:st:pn> []{los}<ab:det:art:def> gatos. Mi madre [gusta]{gustan}<fs:st:pn> []{los}<ab:det:art:def> perros grandes. Mi made bebe agua todos los dias. Mi madre lee [todos]{todas}<gat:adj> [los]{las}<gat:det> noches<gat:noun>. Mi madre practica yoga todos los dias. Mi madre nesecita caminar todos los dias. Mi madre es baja. Mi madre gusta []{el}<ab:det:art:def> pollo.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi madre es mi favorita. Mi madre es muy activa. Mi madre se llama *FIRST_NAME*. Mi madre es trabajadora. Tiene el pelo negro. Siempre lleva un reloj todos los días. Su color favorito es rosado. Mi madre corre en la mañana. Le gusta el arroz. Mi madre es muy feliz pero está triste hoy. A mi madre gusta cocinar todos los días. Mi madre vive en *CITY*. Mi madre lleva un vestido en la noche. A mi madre le encanta mi padre. Mi padre es simpático, sincero, e inteligente. Mi madre habla vietnamés e inglés. A mi madre gusta el café. Mi madre mira la televisión en la noche. A mi madre le gustan los perros pero no le gustan los gatos. A mi madre le gustan los perros grandes. Mi madre bebe agua todos los días. Mi madre lee todas las noches. Mi madre practica yoga todos los días. Mi madre necesita caminar todos los días. Mi madre es baja. A mi madre le gusta el pollo.
+# corrected2 = nan
+# text = Mi madre es mi favorita. Mi madre es muy activo. Mi madre se llama *FIRST_NAME*. Mi madre es trabajadora. Ella tiene el pelo negro. Siempre lleva un reloj todos los dias. Su color favorita es rosado. Mi madre corre en la manana. Ella gusta arroz. Mi madre es muy feliz pero triste hoy. Mi madre gusta cocinar todos los dias. Mi madre vive en *CITY*. Mi madre lleva un vestido en la noche. Mi madre encanta mi padre. Mi padre es simpatica, sincera, y intelligente. Mi madre habla Vietnamese y Ingles. Mi madre gusta cafe. Mi madre mira television en la noche. Mi madre gusta perros pero no gusta gatos. Mi madre gusta perros grandes. Mi made bebe agua todos los dias. Mi madre lee todos los noches. Mi madre practica yoga todos los dias. Mi madre nesecita caminar todos los dias. Mi madre es baja. Mi madre gusta pollo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	5	nsubj	_	_
+2	madre	madre	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	favorita	favorita	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	activo	activo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	negro	negro	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	lleva	llevar	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	reloj	reloj	NOUN	_	_	2	obj	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dias	dia	NOUN	_	_	2	nsubj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	5	nsubj	_	_
+3	favorita	favorita	NOUN	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	rosado	rosado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	corre	correr	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	manana	manana	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	arroz	arroz	ADJ	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	triste	triste	ADJ	_	_	5	conj	_	_
+8	hoy	hoy	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	cocinar	cocinar	VERB	_	_	3	xcomp	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dias	dia	NOUN	_	_	4	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	lleva	llevar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	vestido	vestido	NOUN	_	_	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	noche	noche	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	encanta	encantar	VERB	_	_	0	ROOT	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	padre	padre	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	simpatica	simpatico	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	sincera	sincero	ADJ	_	_	4	appos	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	intelligente	intelligente	ADJ	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	habla	hablar	VERB	_	_	0	ROOT	_	_
+4	Vietnamese	Vietnamese	PROPN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Ingles	Ingles	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	cafe	cafe	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	mira	mira	NOUN	_	_	0	ROOT	_	_
+4	television	television	PROPN	_	_	3	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	noche	noche	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	perros	perro	NOUN	_	_	3	obj	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	gusta	gustar	VERB	_	_	3	conj	_	_
+8	gatos	gato	ADJ	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	perros	perro	NOUN	_	_	3	obj	_	_
+5	grandes	grande	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	made	made	PROPN	_	_	3	nsubj	_	_
+3	bebe	beber	VERB	_	_	0	ROOT	_	_
+4	agua	agua	NOUN	_	_	3	obj	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dias	dia	NOUN	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	lee	leer	VERB	_	_	0	ROOT	_	_
+4	todos	todo	DET	_	_	5	det	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	noches	noche	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	practica	practicar	VERB	_	_	2	amod	_	_
+4	yoga	yogar	VERB	_	_	0	ROOT	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dias	dia	NOUN	_	_	4	obj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	nesecita	nesecitar	VERB	_	_	2	amod	_	_
+4	caminar	caminar	VERB	_	_	0	ROOT	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dias	dia	NOUN	_	_	4	obj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	baja	bajo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	pollo	pollo	ADJ	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+

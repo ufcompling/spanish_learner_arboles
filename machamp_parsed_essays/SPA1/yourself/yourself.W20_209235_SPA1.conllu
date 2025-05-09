@@ -1,0 +1,183 @@
+# Unnamed: 0 = 200
+# id = 209235
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 22
+# gender = I do not identify with either genders
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = Japanese (formally 2 years in high school), French (formally 2 quarters in college)
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Buenos días.  [Yo]{}<pr:su:pron> tengo *AGE* años.  Mi cumpliaños es en *BIRTH_DATE*.  [Yo]{}<pr:su:pron> soy rubia. [Yo]{}<pr:su:pron> soy de *CITY*, *STATE*.  [Yo]{}<pr:su:pron> vivo en *CITY*, también . [Yo]{}<pr:su:pron> tengo dos gatos y un perro.  Me gusta mucho los animales. [Yo]{}<pr:su:pron> hablo dos idiomas, [están]{son}<conf:v:seta> []{el}<ab:det:art:def> japonés y []{el}<ab:det:art:def> francés.  Mi especialidad es [la]{las}<na:det> [ciencia]{Ciencias}<in:noun> [política]{políticas}<in:adj>. Me gusta los idiomas y la historia. Mi trimestre es difícil.  [Yo]{}<pr:su:pron> necesito estudiar pero [yo]{}<pr:su:pron> estoy muy ocupada. [Yo]{}<pr:su:pron> tengo quatre classes. [Yo]{}<pr:su:pron> soy trabajadora pero soy sedentaria.  Me gusta madrugar. [Yo]{}<pr:su:pron> estudio español porque es un idioma international. Ahora [yo]{}<pr:su:pron> estoy emocionada por esta investigación.  [Esta]{Este}<ga:adj> 'examen' es muy difícil, lo siento por [mi]{mis}<na:adj> errores.  Muchas  gracias.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Buenos días.  [Yo]{}<pr:su:pron> tengo *AGE* años.  Mi cumpliaños es en *BIRTH_DATE*.  [Yo]{}<pr:su:pron> soy rubia. [Yo]{}<pr:su:pron> soy de *CITY*, *STATE*.  [Yo]{}<pr:su:pron> vivo en *CITY*, también . [Yo]{}<pr:su:pron> tengo dos gatos y un perro.  Me [gusta]{gustan}<fs:st:pn> mucho los animales. [Yo]{}<pr:su:pron> hablo dos idiomas, [están]{son}<conf:v:seta> []{el}<ab:det:art:def> japonés y []{el}<ab:det:art:def> francés.  Mi especialidad es la ciencia política. Me [gusta]{gustan}<fs:st:pn> los idiomas y la historia. Mi trimestre es difícil.  [Yo]{}<pr:su:pron> necesito estudiar pero [yo]{}<pr:su:pron> estoy muy ocupada. [Yo]{}<pr:su:pron> tengo quatre classes. [Yo]{}<pr:su:pron> soy trabajadora pero soy sedentaria.  Me gusta madrugar. [Yo]{}<pr:su:pron> estudio español porque es un idioma international. Ahora [yo]{}<pr:su:pron> estoy emocionada por esta investigación.  [Esta]{Este}<ga:det> 'examen' es muy difícil, lo siento por [mi]{mis}<na:det> errores.  Muchas  gracias.
+# verbs annotation ann2 = nan
+# corrected1 = Buenos días. Tengo *AGE* años. Mi cumpleaños es en *BIRTH_DATE*. Soy rubia. Soy de *CITY*, *STATE*.  Vivo en *CITY* también. Tengo dos gatos y un perro. Me gustan mucho los animales. Hablo dos idiomas, que son el japonés y el francés. Estudio Ciencias políticas en la universidad. Me gustan los idiomas y la historia. Este trimestre es difícil. Necesito estudiar, pero estoy muy ocupada. Tengo cuatro clases. Soy trabajadora, pero soy sedentaria. Me gusta madrugar. Estudio español porque es un idioma internacional. Ahora estoy entusiasmada con esta investigación.  Este 'examen' es muy difícil, lo siento por mis errores. Muchas gracias. 
+# corrected2 = nan
+# text = Buenos días. Yo tengo *AGE* años. Mi cumpliaños es en *BIRTH_DATE*. Yo soy rubia. Yo soy de *CITY*, *STATE*. Yo vivo en *CITY*, también . Yo tengo dos gatos y un perro. Me gusta mucho los animales. Yo hablo dos idiomas, están japonés y francés. Mi especialidad es la ciencia política. Me gusta los idiomas y la historia. Mi trimestre es difícil. Yo necesito estudiar pero yo estoy muy ocupada. Yo tengo quatre classes. Yo soy trabajadora pero soy sedentaria. Me gusta madrugar. Yo estudio español porque es un idioma international. Ahora yo estoy emocionada por esta investigación. Esta 'examen' es muy difícil, lo siento por mi errores. Muchas gracias.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Buenos	bueno	ADJ	_	Gender=Masc|Number=Plur	2	nummod	_	_
+2	días	día	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpliaños	cumpliaños	NOUN	_	Gender=Masc	0	root	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	6	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	rubia	rubio	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	SYM	_	_	1	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	*STATE*	*state*	SYM	_	_	4	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	también	también	ADV	_	_	2	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	perro	perro	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	animales	animal	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	japonés	japonés	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	francés	francés	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	política	política	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	estudiar	estudiar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	pero	pero	CCONJ	_	_	8	cc	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	ocupada	ocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quatre	quatre	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	classes	classe	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	sedentaria	sedentario	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	madrugar	madrugar	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	español	español	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	idioma	idioma	NOUN	_	Gender=Masc|Number=Sing	2	advcl	_	_
+8	international	international	ADJ	_	Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	investigación	investigación	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	'	'	PUNCT	_	PunctType=Quot	3	punct	_	_
+3	examen	examen	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	'	'	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	errores	error	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

@@ -1,0 +1,366 @@
+# Unnamed: 0 = 3
+# id = 200887
+# prompt = yourself
+# quarter = W21
+# course = SPA 111N
+# age = 21
+# gender = Male
+# l1 language = 3
+# other l1 language(s) = Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely uncomfortable
+# reading comprehension = Extremely uncomfortable
+# speaking ability = Extremely uncomfortable
+# writing ability = Extremely uncomfortable
+# study abroad = Yes. More than 2 years.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME* *LAST_NAME*, tengo *AGE* años, y provengo de *CITY* *CITY*. Mi familia consiste de 2 hermanos y mi madre. Tengo un hermano que es 2 años mayor y el más chico es 5 años menor. Esto me convierte en el hijo del medio que para muchos es usualmente el hijo “olvidado”, pero en mi opinión personal ser el de medio te convierte en el más interesante. Cuando tenía *AGE* años mi madre y mis hermanos decidimos mudarnos a los Estados Unidos. Actualmente, vivimos en la ciudad de *CITY* en el condado de *CITY* *CITY*. Hemos estado residiendo en la ciudad de *CITY* desde el año 2010 que fue cuando emigramos a los Estados Unidos. En mi casa actualmente nos comunicamos mayormente en español porque mi mama lo comprende, pero no lo habla muy bien. Sin embargo, la dinámica con mis hermanos es diferente porque hablo mayormente inglés con ellos. A mis dos hermanos les encanta jugar y practicar deportes en su tiempo libre. Sin embargo, soy aficionado de los deportes, pero no practico mucho ya que tengo otros pasatiempos. Uno de mis pasatiempos favoritos es tocar la guitarra casi todos los días. Aprendí a tocar la guitarra cuando tenía *AGE* años y desde entonces le tomé mucho cariño y aprecio a la música. Llevo casi 6 años practicando la guitarra y aunque he aprendido a tocar muchas canciones, todavía me falta mucho más que aprender. Otro de mis pasatiempos incluye hacer ejercicio. Al igual que la guitarra empecé a hacer ejercicio cuando tenía *AGE* años y desde entonces me gusto mucho aprender mucho acerca la nutrición y cómo funciona el cuerpo. Hoy en día, práctico ambos pasatiempo y todavía sigue aprendiendo más acerca los campos de música y nutrición.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	*LAST_NAME*	last_name	ADV	_	_	4	flat	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	tengo	tener	VERB	_	_	4	advcl	_	_
+8	*AGE*	AGE	PROPN	_	_	7	obj	_	_
+9	años	año	NOUN	_	_	8	flat	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	provengo	provenir	VERB	_	_	7	conj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*CITY*	CITY	PROPN	_	_	12	nmod	_	_
+15	*CITY*	CITY	PROPN	_	_	14	flat	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	3	nsubj	_	_
+3	consiste	consistir	VERB	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	2	2	NUM	_	_	6	nummod	_	_
+6	hermanos	hermano	NOUN	_	_	3	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	madre	madre	NOUN	_	_	6	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	2	2	NUM	_	_	7	nummod	_	_
+7	años	año	NOUN	_	_	3	acl	_	_
+8	mayor	mayor	ADJ	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	el	el	DET	_	_	12	det	_	_
+11	más	más	ADV	_	_	12	advmod	_	_
+12	chico	chico	ADJ	_	_	15	nsubj	_	_
+13	es	ser	AUX	_	_	15	cop	_	_
+14	5	5	NUM	_	_	15	nummod	_	_
+15	años	año	NOUN	_	_	1	advcl	_	_
+16	menor	menor	ADJ	_	_	15	amod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Esto	este	PRON	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	obj	_	_
+3	convierte	convertir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	hijo	hijo	NOUN	_	_	3	obj	_	_
+7	del	del	ADP	_	_	8	case	_	_
+8	medio	medio	NOUN	_	_	6	nmod	_	_
+9	que	que	SCONJ	_	_	15	mark	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	muchos	mucho	PRON	_	_	15	obl	_	_
+12	es	ser	AUX	_	_	15	cop	_	_
+13	usualmente	usualmente	ADV	_	_	15	advmod	_	_
+14	el	el	DET	_	_	15	det	_	_
+15	hijo	hijo	NOUN	_	_	3	ccomp	_	_
+16	“	“	NOUN	_	_	15	nmod	_	_
+17	olvidado	olvidado	ADJ	_	_	15	amod	_	_
+18	”	”	PUNCT	_	_	15	punct	_	_
+19	,	,	PUNCT	_	_	26	punct	_	_
+20	pero	pero	CCONJ	_	_	26	cc	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	mi	mi	DET	_	_	23	det	_	_
+23	opinión	opinión	NOUN	_	_	26	obl	_	_
+24	personal	personal	ADJ	_	_	23	amod	_	_
+25	ser	ser	AUX	_	_	26	cop	_	_
+26	el	el	DET	_	_	3	conj	_	_
+27	de	de	ADP	_	_	26	case	_	_
+28	medio	medio	NOUN	_	_	27	fixed	_	_
+29	te	tú	PRON	_	_	30	expl:pv	_	_
+30	convierte	convertir	VERB	_	_	26	advcl	_	_
+31	en	en	ADP	_	_	34	case	_	_
+32	el	el	DET	_	_	34	det	_	_
+33	más	más	ADV	_	_	34	advmod	_	_
+34	interesante	interesante	ADJ	_	_	30	obj	_	_
+35	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	_	10	advcl	_	_
+3	*AGE*	AGE	PROPN	_	_	2	nsubj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	madre	madre	NOUN	_	_	3	flat	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mis	mi	DET	_	_	9	det	_	_
+9	hermanos	hermano	NOUN	_	_	10	nsubj	_	_
+10	decidimos	decidir	VERB	_	_	0	ROOT	_	_
+11	mudarnos	mudarno	ADJ	_	_	10	obj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	los	el	DET	_	_	14	det	_	_
+14	Estados	Estados	PROPN	_	_	10	obj	_	_
+15	Unidos	Unidos	PROPN	_	_	14	flat	_	_
+16	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Actualmente	actualmente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	vivimos	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	ciudad	ciudad	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	nmod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	condado	condado	NOUN	_	_	3	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*CITY*	CITY	PROPN	_	_	11	nmod	_	_
+14	*CITY*	CITY	PROPN	_	_	13	flat	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hemos	haber	AUX	_	_	3	aux	_	_
+2	estado	estar	AUX	_	_	3	aux	_	_
+3	residiendo	residir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	ciudad	ciudad	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	nmod	_	_
+9	desde	desde	ADP	_	_	11	case	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	año	año	NOUN	_	_	3	obl	_	_
+12	2010	2010	NUM	_	_	11	compound	_	_
+13	que	que	PRON	_	_	14	nsubj	_	_
+14	fue	ser	AUX	_	_	11	acl	_	_
+15	cuando	cuando	SCONJ	_	_	16	mark	_	_
+16	emigramos	emigrar	VERB	_	_	14	ccomp	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	los	el	DET	_	_	19	det	_	_
+19	Estados	Estados	PROPN	_	_	16	obj	_	_
+20	Unidos	Unidos	PROPN	_	_	19	flat	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	casa	casa	NOUN	_	_	6	obl	_	_
+4	actualmente	actualmente	ADV	_	_	6	advmod	_	_
+5	nos	yo	PRON	_	_	6	iobj	_	_
+6	comunicamos	comunicar	VERB	_	_	0	ROOT	_	_
+7	mayormente	mayormente	NOUN	_	_	6	compound	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	español	español	NOUN	_	_	6	obl	_	_
+10	porque	porque	SCONJ	_	_	14	mark	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	mama	mama	NOUN	_	_	14	nsubj	_	_
+13	lo	él	PRON	_	_	14	obj	_	_
+14	comprende	comprender	VERB	_	_	6	advcl	_	_
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	pero	pero	CCONJ	_	_	19	cc	_	_
+17	no	no	ADV	_	_	19	advmod	_	_
+18	lo	él	PRON	_	_	19	obj	_	_
+19	habla	hablar	VERB	_	_	14	conj	_	_
+20	muy	mucho	ADV	_	_	21	advmod	_	_
+21	bien	bien	ADV	_	_	19	advmod	_	_
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Sin	sin	ADP	_	_	10	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	dinámica	dinámica	NOUN	_	_	10	nsubj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	hermanos	hermano	NOUN	_	_	5	nmod	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	diferente	diferente	ADJ	_	_	0	ROOT	_	_
+11	porque	porque	SCONJ	_	_	12	mark	_	_
+12	hablo	hablar	VERB	_	_	10	advcl	_	_
+13	mayormente	mayormente	NOUN	_	_	12	obj	_	_
+14	inglés	inglés	ADJ	_	_	12	obj	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	ellos	él	PRON	_	_	12	obl	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+1	A	a	ADP	_	_	4	case	_	_
+2	mis	mi	DET	_	_	4	det	_	_
+3	dos	dos	NUM	_	_	2	nummod	_	_
+4	hermanos	hermano	NOUN	_	_	6	obj	_	_
+5	les	él	PRON	_	_	6	iobj	_	_
+6	encanta	encantar	VERB	_	_	0	ROOT	_	_
+7	jugar	jugar	VERB	_	_	6	xcomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	practicar	practicar	VERB	_	_	7	conj	_	_
+10	deportes	deporte	NOUN	_	_	9	obj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	su	su	DET	_	_	13	det	_	_
+13	tiempo	tiempo	NOUN	_	_	9	obl	_	_
+14	libre	libre	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Sin	sin	ADP	_	_	5	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	soy	ser	AUX	_	_	5	cop	_	_
+5	aficionado	aficionado	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	deportes	deporte	NOUN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	no	no	ADV	_	_	12	advmod	_	_
+12	practico	practicar	VERB	_	_	5	conj	_	_
+13	mucho	mucho	ADV	_	_	12	advmod	_	_
+14	ya	ya	ADV	_	_	16	mark	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
+16	tengo	tener	VERB	_	_	12	advcl	_	_
+17	otros	otro	DET	_	_	18	det	_	_
+18	pasatiempos	pasatiempo	NOUN	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Uno	uno	PRON	_	_	6	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	pasatiempos	pasatiempo	NOUN	_	_	1	nmod	_	_
+5	favoritos	favorito	NOUN	_	_	4	amod	_	_
+6	es	ser	AUX	_	_	0	ROOT	_	_
+7	tocar	tocar	VERB	_	_	6	ccomp	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	guitarra	guitarra	NOUN	_	_	7	obj	_	_
+10	casi	casi	ADV	_	_	13	advmod	_	_
+11	todos	todo	DET	_	_	12	det	_	_
+12	los	el	DET	_	_	13	det	_	_
+13	días	día	NOUN	_	_	7	obl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Aprendí	aprender	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	tocar	tocar	VERB	_	_	1	xcomp	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	guitarra	guitarra	NOUN	_	_	3	obj	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	tenía	tener	VERB	_	_	3	advcl	_	_
+8	*AGE*	AGE	PROPN	_	_	7	nsubj	_	_
+9	años	año	NOUN	_	_	8	flat	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	desde	desde	ADP	_	_	12	case	_	_
+12	entonces	entonces	ADV	_	_	14	advmod	_	_
+13	le	él	PRON	_	_	14	obj	_	_
+14	tomé	tomé	VERB	_	_	1	conj	_	_
+15	mucho	mucho	DET	_	_	16	det	_	_
+16	cariño	cariño	NOUN	_	_	14	nsubj	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	aprecio	aprecio	NOUN	_	_	16	conj	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	la	el	DET	_	_	21	det	_	_
+21	música	música	NOUN	_	_	18	nmod	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Llevo	llevar	VERB	_	_	0	ROOT	_	_
+2	casi	casi	ADV	_	_	4	advmod	_	_
+3	6	6	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	1	obj	_	_
+5	practicando	practicar	VERB	_	_	1	advcl	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	guitarra	guitarra	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	aunque	aunque	SCONJ	_	_	11	mark	_	_
+10	he	haber	AUX	_	_	11	aux	_	_
+11	aprendido	aprender	VERB	_	_	1	conj	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	tocar	tocar	VERB	_	_	11	xcomp	_	_
+14	muchas	mucho	DET	_	_	15	det	_	_
+15	canciones	canción	NOUN	_	_	13	obj	_	_
+16	,	,	PUNCT	_	_	1	punct	_	_
+17	todavía	todavía	ADV	_	_	19	advmod	_	_
+18	me	yo	PRON	_	_	19	iobj	_	_
+19	falta	faltar	VERB	_	_	1	advcl	_	_
+20	mucho	mucho	ADV	_	_	21	advmod	_	_
+21	más	más	ADV	_	_	19	advmod	_	_
+22	que	que	SCONJ	_	_	23	mark	_	_
+23	aprender	aprender	VERB	_	_	21	advcl	_	_
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Otro	otro	PRON	_	_	5	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	pasatiempos	pasatiempo	NOUN	_	_	1	nmod	_	_
+5	incluye	incluir	VERB	_	_	0	ROOT	_	_
+6	hacer	hacer	VERB	_	_	5	xcomp	_	_
+7	ejercicio	ejercicio	NOUN	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Al	al	ADP	_	_	6	mark	_	_
+2	igual	igual	ADJ	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	guitarra	guitarra	NOUN	_	_	6	nsubj	_	_
+6	empecé	empezar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	hacer	hacer	VERB	_	_	6	xcomp	_	_
+9	ejercicio	ejercicio	NOUN	_	_	8	obj	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	tenía	tener	VERB	_	_	6	advcl	_	_
+12	*AGE*	AGE	PROPN	_	_	11	obj	_	_
+13	años	año	NOUN	_	_	12	flat	_	_
+14	y	y	CCONJ	_	_	18	cc	_	_
+15	desde	desde	ADP	_	_	16	case	_	_
+16	entonces	entonces	ADV	_	_	18	advmod	_	_
+17	me	yo	PRON	_	_	18	iobj	_	_
+18	gusto	gustar	VERB	_	_	8	conj	_	_
+19	mucho	mucho	ADV	_	_	20	advmod	_	_
+20	aprender	aprender	VERB	_	_	18	csubj	_	_
+21	mucho	mucho	ADV	_	_	20	advmod	_	_
+22	acerca	acerca	ADP	_	_	24	case	_	_
+23	la	el	DET	_	_	24	det	_	_
+24	nutrición	nutrición	NOUN	_	_	20	obl	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	cómo	cómo	PRON	_	_	27	obl	_	_
+27	funciona	funcionar	VERB	_	_	18	conj	_	_
+28	el	el	DET	_	_	29	det	_	_
+29	cuerpo	cuerpo	NOUN	_	_	27	nsubj	_	_
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	5	advmod	_	_
+2	en	en	ADP	_	_	1	fixed	_	_
+3	día	día	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	práctico	práctico	ADJ	_	_	0	ROOT	_	_
+6	ambos	ambos	NUM	_	_	7	nummod	_	_
+7	pasatiempo	pasatiempo	NOUN	_	_	5	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	todavía	todavía	ADV	_	_	10	advmod	_	_
+10	sigue	seguir	VERB	_	_	5	conj	_	_
+11	aprendiendo	aprender	VERB	_	_	10	xcomp	_	_
+12	más	más	ADV	_	_	15	advmod	_	_
+13	acerca	acerca	ADP	_	_	15	case	_	_
+14	los	el	DET	_	_	15	det	_	_
+15	campos	campo	NOUN	_	_	11	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	música	música	NOUN	_	_	15	nmod	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	nutrición	nutrición	NOUN	_	_	17	conj	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+

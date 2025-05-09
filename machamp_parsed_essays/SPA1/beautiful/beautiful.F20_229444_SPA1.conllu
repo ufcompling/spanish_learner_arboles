@@ -1,0 +1,213 @@
+# Unnamed: 0 = 44
+# id = 229444
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Esta historia comenzar en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque []{el}<ab:det:art:def> coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío llevó a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero [ella]{}<pr:su:pron> sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Esta historia [comenzar]{comienza}<fs:st:t> en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque []{el}<ab:det:art:def> coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío [llevó]{llevaron}<fs:st:pn> a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero [ella]{}<pr:su:pron> sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# verbs annotation ann2 = nan
+# corrected1 = Esta historia comienza en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos por el coronavirus. Mi familia decidió que se mudarían con nosotros a *STATE*. Mi tía y tío llevaron a mis abuelos a nuestra casa. Mi abuela tiene demencia y mi abuelo tiene Alzheimer. Mi abuela siempre está confundida pero sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo sigue alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de ella y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# corrected2 = nan
+# text = Esta historia comenzar en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío llevó a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero ella sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	historia	historia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	comenzar	comenzar	VERB	_	VerbForm=Inf	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	abril	abril	NOUN	_	AdvType=Tim	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vivían	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	advmod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	momento	momento	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	solos	solo	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	coronavirus	coronavirus	NOUN	_	Gender=Masc	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	decidimos	decidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	mudarían	mudar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	3	ccomp	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*STATE*	*state*	PUNCT	_	_	6	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	tía	tía	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tío	tío	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	abuelos	abuelo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dimentia	dimentia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	Alzheimer's	Alzheimer's	PROPN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	siempre	siempre	ADV	_	_	5	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	confundida	confundido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	quiénes	quién	PRON	_	Number=Plur|PronType=Int	10	nsubj	_	_
+10	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	quiénes	quién	PRON	_	Number=Plur|PronType=Int	4	nsubj	_	_
+6	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quién	quién	PRON	_	Number=Sing|PronType=Int	7	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	revisa	revisar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	ofrece	ofrecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+8	para	para	ADP	_	_	11	mark	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	sienta	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+12	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
+13	cómoda	cómodo	ADJ	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	meses	mes	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	trasladó	trasladar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	instalación	instalación	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+15	alojado	alojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	conj	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	visitarla	visitar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	emociona	emocionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	última	último	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	que	que	PRON	_	PronType=Rel	5	obl	_	_
+5	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	acl	_	_
+6	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	“	“	PUNCT	_	PunctType=Quot	12	punct	_	_
+8	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	12	punct	_	_
+9	Esa	ese	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	6	ccomp	_	_
+13	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	12	punct	_	_
+14	”	”	PUNCT	_	PunctType=Quot	12	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	historia	historia	NOUN	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	siempre	siempre	ADV	_	_	11	advmod	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	acuerda	aoerdar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	obl	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	siempre	siempre	ADV	_	_	16	advmod	_	_
+16	cuida	cuidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	siempre	siempre	ADV	_	_	5	advmod	_	_
+5	recordaré	recordar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	advcl	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+7	mucho	mucho	ADV	_	_	11	advmod	_	_
+8	que	que	PRON	_	PronType=Rel	11	obj	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	ama	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

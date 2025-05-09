@@ -1,0 +1,234 @@
+# Unnamed: 0 = 27
+# id = 171259
+# prompt = vacation
+# quarter = W18
+# course = SPA 1
+# age = Female
+# gender = 18
+# l1 language = Mandarin
+# other l1 language(s) = I speak mandarin.
+# language(s) used at home = Mandarin
+# language(s) studied = English  I have learned English for about eight years.
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Yo voy a tener una vacación perfecta. Yo voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser para China por avión.
+
+Nosotras vamos a tomar fotos en los parques guapos. Nosotras vamos a ver los museos, los acuarios y el centro memorial. Además, vamos a ir a los zoológicos porque nosotras nos gustan animales. A mi me gustan los pandas y *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigers. Las jirafas son guapos y lindos. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos.
+
+A mi me gusta nadar. Me gustaría nadar en el mar. Nosotras nos gustan comida y vamos a comer comidas deliciosas.
+
+Yo voy a visitar []{a}<az:do:an> mis abuelos y viven en China.
+
+¡Espero que vamos a tener un viaje muy perfecto y fantástica!
+# a personal annotator2 = nan
+# gender-number annotator1 = Yo voy a tener una [vacación]{vacaciones}<in:s:noun:inan> perfecta. Yo voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser para China por avión.
+
+Nosotras vamos a tomar fotos en los parques guapos. Nosotras vamos a ver los museos, los acuarios y el centro memorial. Además, vamos a ir a los zoológicos porque nosotras nos gustan animales. A mi me gustan los pandas y *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigers. Las jirafas<gat:noun:inan> son [guapos]{guapas}<ga:fm:adj:an> y [lindos]{lindas}<ga:fm:adj:an>. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos.
+
+A mi me gusta nadar. Me gustaría nadar en el mar. Nosotras nos gustan comida y vamos a comer comidas deliciosas.
+
+Yo voy a visitar mis abuelos y viven en China.
+
+¡Espero que vamos a tener un viaje muy perfecto y [fantástica]{fantástico}<ga:mf:adj:inan>!"
+
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo voy a tener [una]{unas}<in:det:art:indef> [vacación]{vacaciones}<in:noun> [perfecta]{perfectas}<in:adj>. Yo voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser para China por avión.  Nosotras vamos a tomar fotos en los parques guapos. Nosotras vamos a ver los museos, los acuarios y el centro memorial. Además, vamos a ir a los zoológicos porque nosotras nos gustan []{los}<ab:det:art:def> animales. A mi me gustan los pandas y *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigers. Las jirafas son [guapos]{guapas}<ga:adj> y [lindos]{lindas}<ga:adj>. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos.  A mi me gusta nadar. Me gustaría nadar en el mar. Nosotras nos gustan comida y vamos a comer comidas deliciosas.  Yo voy a visitar mis abuelos y viven en China.  ¡Espero que [vamos]{vayamos}<fs:st:mo> a tener un viaje muy perfecto y [fantástica]{fantástico}<ga:adj>!
+# updated annotation ann2 = ﻿[Yo]{}<pr:su:pron> voy a tener [una]{unas}<in:det> [vacación]{vacaciones}<in:noun> [perfecta]{perfectas}<in:adj>. [Yo]{}<pr:su:pron> voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser para China por avión.  [Nosotras]{}<pr:su:pron> vamos a tomar fotos en los parques guapos. [Nosotras]{}<pr:su:pron> vamos a ver [los]{}<pr:det:art:def> museos, [los]{}<pr:det:art:def> acuarios y [el]{}<pr:det:art:def> centro memorial. Además, vamos a ir a [los]{}<pr:det:art:def> zoológicos porque [nosotras]{}<pr:su:pron> nos gustan animales. A mi me gustan los pandas y *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigers. Las jirafas son [guapos]{guapas}<ga:adj> y [lindos]{lindas}<ga:adj>. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos.  A mi me gusta nadar. Me gustaría nadar en el mar. [Nosotras]{}<pr:su:pron> nos [gustan]{gusta}<fs:st:pn> []{la}<ab:det:art:def> comida y vamos a comer comidas deliciosas.  [Yo]{}<pr:su:pron> voy a visitar mis abuelos y viven en China.  ¡Espero que vamos a tener un viaje muy perfecto y [fantástica]{fantástico}<ga:adj>!
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Yo voy a tener unas vacaciones perfectas. Yo voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser a China en avión.  Nosotras vamos a tomar fotos en los parques guapos. Nosotras vamos a ver los museos, los acuarios y el centro memorial. Además, vamos a ir a los zoológicos porque a nosotras nos gustan los animales. A mí me gustan los pandas y a *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigres. Las jirafas son guapas y lindas. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos.  A mí me gusta nadar. Me gustaría nadar en el mar. A nosotras nos gusta la comida y vamos a comer comidas deliciosas.  Yo voy a visitar a mis abuelos que viven en China.  ¡Espero que vayamos a tener un viaje muy perfecto y fantástico!
+# corrected2 = nan
+# text = Yo voy a tener una vacación perfecta. Yo voy a ir con mis amigas. Mis amigas son *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Nuestro viaje va a ser para China por avión. Nosotras vamos a tomar fotos en los parques guapos. Nosotras vamos a ver los museos, los acuarios y el centro memorial. Además, vamos a ir a los zoológicos porque nosotras nos gustan animales. A mi me gustan los pandas y *FIRST_NAME* le gustan las jirafas. A *FIRST_NAME* le gusta el pavo real y a *FIRST_NAME* le gustan los tigers. Las jirafas son guapos y lindos. El pavo es bonito. Pero los pandas son mis favoritos porque son simpáticos. A mi me gusta nadar. Me gustaría nadar en el mar. Nosotras nos gustan comida y vamos a comer comidas deliciosas. Yo voy a visitar mis abuelos y viven en China. ¡Espero que vamos a tener un viaje muy perfecto y fantástica!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	voy	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	tener	tener	VERB	_	_	0	ROOT	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	vacación	vacación	NOUN	_	_	4	obj	_	_
+7	perfecta	perfecto	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	voy	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ir	ir	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	amigas	amiga	NOUN	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	amigas	amiga	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nuestro	nuestro	DET	_	_	2	det	_	_
+2	viaje	viaje	NOUN	_	_	7	nsubj	_	_
+3	va	ir	AUX	_	_	7	aux	_	_
+4	a	a	ADP	_	_	7	case	_	_
+5	ser	ser	AUX	_	_	7	cop	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	China	China	PROPN	_	_	0	ROOT	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	avión	avión	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Nosotras	Nosotras	PROPN	_	_	4	nsubj	_	_
+2	vamos	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	tomar	tomar	VERB	_	_	0	ROOT	_	_
+5	fotos	foto	NOUN	_	_	4	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	parques	parque	NOUN	_	_	4	obl	_	_
+9	guapos	guapo	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nosotras	Nosotras	PROPN	_	_	4	nsubj	_	_
+2	vamos	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ver	ver	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	museos	museo	NOUN	_	_	4	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	acuarios	acuario	NOUN	_	_	6	appos	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	centro	centro	NOUN	_	_	6	conj	_	_
+13	memorial	memorial	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Además	además	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	vamos	ir	AUX	_	_	5	aux	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ir	ir	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	zoológicos	zoológico	NOUN	_	_	5	obl	_	_
+9	porque	porque	SCONJ	_	_	12	mark	_	_
+10	nosotras	nosotra	ADJ	_	_	12	nsubj	_	_
+11	nos	yo	PRON	_	_	12	iobj	_	_
+12	gustan	gustar	VERB	_	_	5	advcl	_	_
+13	animales	animal	NOUN	_	_	12	obj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	DET	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	pandas	panda	NOUN	_	_	4	nsubj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	nsubj	_	_
+9	le	él	PRON	_	_	10	obj	_	_
+10	gustan	gustar	VERB	_	_	4	conj	_	_
+11	las	el	DET	_	_	12	det	_	_
+12	jirafas	jirafa	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	pavo	pavo	NOUN	_	_	4	nsubj	_	_
+7	real	real	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	obj	_	_
+11	le	él	PRON	_	_	12	obj	_	_
+12	gustan	gustar	VERB	_	_	4	conj	_	_
+13	los	el	DET	_	_	14	det	_	_
+14	tigers	tiger	NOUN	_	_	12	nsubj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	jirafas	jirafa	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	guapos	guapo	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	lindos	lindo	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	pavo	pavo	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	bonito	bonito	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	pandas	panda	NOUN	_	_	6	nsubj	_	_
+4	son	ser	AUX	_	_	6	cop	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	favoritos	favorito	NOUN	_	_	0	ROOT	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	son	ser	AUX	_	_	9	cop	_	_
+9	simpáticos	simpático	ADJ	_	_	6	advcl	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	DET	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	nadar	nadar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustaría	gustar	VERB	_	_	0	ROOT	_	_
+3	nadar	nadar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	mar	mar	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nosotras	Nosotras	PROPN	_	_	3	nsubj	_	_
+2	nos	yo	PRON	_	_	3	iobj	_	_
+3	gustan	gustar	VERB	_	_	0	ROOT	_	_
+4	comida	comida	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	vamos	ir	AUX	_	_	8	aux	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	comer	comer	VERB	_	_	3	conj	_	_
+9	comidas	comida	NOUN	_	_	8	obj	_	_
+10	deliciosas	deliciosa	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	voy	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	visitar	visitar	VERB	_	_	0	ROOT	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	abuelos	abuelo	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	viven	vivir	VERB	_	_	4	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	China	China	PROPN	_	_	8	obl	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	¡	¡	PUNCT	_	_	2	punct	_	_
+2	Espero	esperar	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	vamos	ir	AUX	_	_	6	aux	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	tener	tener	VERB	_	_	2	xcomp	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	viaje	viaje	NOUN	_	_	6	obj	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	perfecto	perfecto	ADJ	_	_	8	amod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	fantástica	fantástico	ADJ	_	_	10	conj	_	_
+13	!	!	PUNCT	_	_	2	punct	_	_
+

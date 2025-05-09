@@ -1,0 +1,218 @@
+# Unnamed: 0 = 158
+# id = 198908
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = none
+# language(s) used at home = No, I speak English at home.
+# language(s) studied = I took Chinese for 4 years in high school. I have studied Spanish on my own for about a year. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mañana voy a ir al dentista. No me gusta el dentista porque puede tocar mis dientes. Creo que la boca del ser humano es un lugar repugnante. Esta cita es de la película Nemo. El dentista puede limpiar tu boca, pero es muy doloroso. Tiene harramientas puntiagudas, fuerte agua [fuerte agua]{agua fuerte}<col:adj> que duele en la boca, y pasta dental que entumece la boca. A veces tienes caries dentales, y el dentista necesita limpiarlas. Cuando eres un chico el dentista es mas suave porque no quiere asustarte. Después el dentista termina, los padres toman los niños a la oficina de []{del}<ab:det:art:def> dentista. Luego, los niños toman dulces. Creo que es malo porque los dulces empeoran las caries. Los dentistas deben darles libros, pegatinas, o puzzles en vez de dulces. Cuando los dentistas dan comida mala para los niños, les dicen que es buena. En definitiva, creo que no me gusta ir al dentista. Nunca.  
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mañana voy a ir al dentista. No me gusta el dentista porque puede tocar mis dientes. Creo que la boca del ser humano es un lugar repugnante. Esta cita es de la película Nemo. El dentista puede limpiar tu boca, pero es muy doloroso. Tiene herramientas puntiagudas, agua fuerte que duele en la boca y pasta dental que entumece la boca. A veces tienes caries y el dentista necesita limpiarlas. Cuando eres un niño el dentista es más suave porque no quiere asustarte. Después de que el dentista termine, los padres llevan a los niños a la oficina de dentista. Luego, los niños toman dulces. Creo que es malo porque los dulces empeoran las caries. Los dentistas deben darles libros, pegatinas o puzles en vez de dulces. Cuando los dentistas dan comida mala para los niños les dicen que es buena. En definitiva, creo que no me gusta ir al dentista. Nunca.  
+# corrected2 = nan
+# text = Mañana voy a ir al dentista. No me gusta el dentista porque puede tocar mis dientes. Creo que la boca del ser humano es un lugar repugnante. Esta cita es de la película Nemo. El dentista puede limpiar tu boca, pero es muy doloroso. Tiene harramientas puntiagudas, fuerte agua que duele en la boca, y pasta dental que entumece la boca. A veces tienes caries dentales, y el dentista necesita limpiarlas. Cuando eres un chico el dentista es mas suave porque no quiere asustarte. Después el dentista termina, los padres toman los niños a la oficina de dentista. Luego, los niños toman dulces. Creo que es malo porque los dulces empeoran las caries. Los dentistas deben darles libros, pegatinas, o puzzles en vez de dulces. Cuando los dentistas dan comida mala para los niños, les dicen que es buena. En definitiva, creo que no me gusta ir al dentista. Nunca.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mañana	mañana	ADV	_	_	4	advmod	_	_
+2	voy	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ir	ir	VERB	_	_	0	ROOT	_	_
+5	al	al	ADP	_	_	6	case	_	_
+6	dentista	dentista	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	dentista	dentista	NOUN	_	_	3	nsubj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	puede	poder	AUX	_	_	8	aux	_	_
+8	tocar	tocar	VERB	_	_	3	advcl	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	dientes	diente	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	10	mark	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	boca	boca	NOUN	_	_	10	nsubj	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	ser	ser	NOUN	_	_	4	nmod	_	_
+7	humano	humano	ADJ	_	_	6	amod	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	lugar	lugar	NOUN	_	_	1	ccomp	_	_
+11	repugnante	repugnante	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	cita	cita	NOUN	_	_	6	nsubj	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	película	película	NOUN	_	_	0	ROOT	_	_
+7	Nemo	Nemo	PROPN	_	_	6	appos	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	dentista	dentista	NOUN	_	_	4	nsubj	_	_
+3	puede	poder	AUX	_	_	4	aux	_	_
+4	limpiar	limpiar	VERB	_	_	0	ROOT	_	_
+5	tu	tu	DET	_	_	6	det	_	_
+6	boca	boca	NOUN	_	_	4	obj	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	doloroso	doloroso	ADJ	_	_	4	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	harramientas	harramienta	NOUN	_	_	1	obj	_	_
+3	puntiagudas	puntiaguda	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	fuerte	fuerte	ADJ	_	_	6	amod	_	_
+6	agua	agua	NOUN	_	_	2	appos	_	_
+7	que	que	PRON	_	_	8	nsubj	_	_
+8	duele	doler	VERB	_	_	6	acl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	boca	boca	NOUN	_	_	8	obl	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	pasta	pasta	NOUN	_	_	1	conj	_	_
+15	dental	dental	ADJ	_	_	14	amod	_	_
+16	que	que	PRON	_	_	17	obj	_	_
+17	entumece	entumecir	VERB	_	_	14	acl	_	_
+18	la	el	DET	_	_	19	det	_	_
+19	boca	boca	NOUN	_	_	17	nsubj	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	3	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	tienes	tener	VERB	_	_	0	ROOT	_	_
+4	caries	cari	NOUN	_	_	3	obj	_	_
+5	dentales	dental	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	dentista	dentista	NOUN	_	_	10	nsubj	_	_
+10	necesita	necesitar	VERB	_	_	3	conj	_	_
+11	limpiarlas	limpiarla	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	eres	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	chico	chico	NOUN	_	_	9	obl	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	dentista	dentista	NOUN	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mas	mas	ADV	_	_	9	advmod	_	_
+9	suave	suave	ADJ	_	_	0	ROOT	_	_
+10	porque	porque	SCONJ	_	_	12	mark	_	_
+11	no	no	ADV	_	_	12	advmod	_	_
+12	quiere	querer	VERB	_	_	9	advcl	_	_
+13	asustarte	asustarte	ADV	_	_	12	compound	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Después	después	ADV	_	_	4	advmod	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	dentista	dentista	NOUN	_	_	4	nsubj	_	_
+4	termina	terminar	VERB	_	_	8	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	padres	padre	NOUN	_	_	8	nsubj	_	_
+8	toman	tomar	VERB	_	_	0	ROOT	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	niños	niño	NOUN	_	_	8	obj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	oficina	oficina	NOUN	_	_	8	obj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	dentista	dentista	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Luego	luego	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	niños	niño	NOUN	_	_	5	nsubj	_	_
+5	toman	tomar	VERB	_	_	0	ROOT	_	_
+6	dulces	dulce	ADJ	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	malo	malo	ADJ	_	_	1	ccomp	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dulces	dulz	NOUN	_	_	8	nsubj	_	_
+8	empeoran	empeoran	VERB	_	_	4	advcl	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	caries	cari	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	dentistas	dentista	NOUN	_	_	4	nsubj	_	_
+3	deben	deber	AUX	_	_	4	aux	_	_
+4	darles	dar él	VERB	_	_	0	ROOT	_	_
+5	libros	libro	NOUN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	pegatinas	pegatina	ADJ	_	_	5	amod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	puzzles	puzzl	ADJ	_	_	5	conj	_	_
+11	en	en	ADP	_	_	14	case	_	_
+12	vez	vez	NOUN	_	_	11	fixed	_	_
+13	de	de	ADP	_	_	11	fixed	_	_
+14	dulces	dulce	ADJ	_	_	10	nmod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	dentistas	dentista	NOUN	_	_	4	nsubj	_	_
+4	dan	dar	VERB	_	_	12	advcl	_	_
+5	comida	comida	NOUN	_	_	4	obj	_	_
+6	mala	malo	ADJ	_	_	5	amod	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	niños	niño	NOUN	_	_	4	obl	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	les	él	PRON	_	_	12	iobj	_	_
+12	dicen	decir	VERB	_	_	0	ROOT	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	es	ser	AUX	_	_	15	cop	_	_
+15	buena	buen	ADJ	_	_	12	ccomp	_	_
+16	.	.	PUNCT	_	_	12	punct	_	_
+
+1	En	en	ADP	_	_	4	advmod	_	_
+2	definitiva	definitiva	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	creo	creer	VERB	_	_	0	ROOT	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gusta	gustar	VERB	_	_	4	ccomp	_	_
+9	ir	ir	VERB	_	_	8	csubj	_	_
+10	al	al	ADP	_	_	11	case	_	_
+11	dentista	dentista	NOUN	_	_	8	advcl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+

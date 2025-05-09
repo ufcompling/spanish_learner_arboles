@@ -1,0 +1,234 @@
+# Unnamed: 0 = 34
+# id = 172042
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 18
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = French - 5.5 years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Oprah Winfrey es mucha inteligenta. Ella es moy famosa. Su pelo es morroe y ella pelo es mucha rizado. Ella tiene los ojos marrones. Ella tiene un sunrisa bonita.  Normalmente, ella es feliz pero hoy, ella esta triste. Winfrey tiene labios grande y ella es mucha guapa. Ella es un poco gorda.  Ella no es baja, pero ella no es alto. Ella tiene piel negra. Normalment, ella no tiene las gafas, pero hoy ella llava les gafas. Ella llava pendientes. Ella no tiene un barbo y ella no tiene un bigote. Ella no es calda. Oprah Winfrey es elegante, paciente, y generosa. Ella es un poco gorda. Ella no es perezoso. Ella esta casada. Ella no esta solterola y ella no esta divorcida. Ella tiene sesenta y cuatro. Ella es una actriz. Ella llava un reloj. Ella vive en Los Angeles,pero ella de Mississippi. Oprah Winfrey es African- Americano.
+# a personal annotator2 = nan
+# gender-number annotator1 = Oprah Winfrey es mucha [inteligenta]{inteligente}<ig:f:adj:an>. Ella es moy famosa. Su pelo es morroe y ella pelo es mucha rizado. Ella tiene los ojos marrones. Ella tiene [un]{una}<ga:fm:det:inan> sunrisa bonita.  Normalmente, ella es feliz pero hoy, ella esta triste. Winfrey tiene labios [grande]{grandes}<na:ps:adj:inan> y ella es mucha guapa. Ella es un poco gorda.  Ella no es baja, pero ella no es [alto]{alta}<ga:fm:adj:an>. Ella tiene piel negra. Normalment, ella no tiene las gafas, pero hoy ella llava les gafas. Ella llava pendientes. Ella no tiene un [barbo]{barba}<ig:m:noun:inan> y ella no tiene un bigote. Ella no es calda. Oprah Winfrey es elegante, paciente, y generosa. Ella es un poco gorda. Ella no es [perezoso]{perezosa}<ga:fm:adj:an>. Ella esta casada. Ella no esta solterola y ella no esta divorcida. Ella tiene sesenta y cuatro. Ella es una actriz. Ella llava un reloj. Ella vive en Los Angeles,pero ella de Mississippi. Oprah Winfrey es African- [Americano]{americana}<ga:fm:adj:an>.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Oprah Winfrey es mucha inteligenta. Ella es moy famosa. Su pelo es morroe y ella pelo es mucha rizado. Ella tiene los ojos marrones. Ella tiene un sunrisa bonita. Normalmente, ella es feliz pero hoy, ella esta triste. Winfrey tiene labios grande y ella es mucha guapa. Ella es un poco gorda. Ella no es baja, pero ella no es alto. Ella tiene piel negra. Normalment, ella no tiene las gafas, pero hoy ella llava les gafas. Ella llava pendientes. Ella no tiene un barbo y ella no tiene un bigote. Ella no es calda. Oprah Winfrey es elegante, paciente, y generosa. Ella es un poco gorda. Ella no es perezoso. Ella esta casada. Ella no esta solterola y ella no esta divorcida. Ella tiene sesenta y cuatro. Ella es una actriz. Ella llava un reloj. Ella vive en Los Angeles,pero ella de Mississippi. Oprah Winfrey es African- Americano.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Oprah	Oprah	PROPN	_	_	5	nsubj	_	_
+2	Winfrey	Winfrey	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mucha	mucho	DET	_	_	5	det	_	_
+5	inteligenta	inteligenta	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	moy	moy	NOUN	_	_	0	ROOT	_	_
+4	famosa	famoso	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	pelo	pelo	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	morroe	morroe	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	ella	él	PRON	_	_	7	det	_	_
+7	pelo	pelo	PROPN	_	_	10	nsubj	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	mucha	mucho	DET	_	_	10	det	_	_
+10	rizado	rizado	ADJ	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	marrones	marrón	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	sunrisa	sunrisa	NOUN	_	_	2	obj	_	_
+5	bonita	bonito	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Normalmente	normalmente	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	11	cc	_	_
+7	hoy	hoy	ADV	_	_	11	advmod	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	ella	él	PRON	_	_	11	nsubj	_	_
+10	esta	este	DET	_	_	11	det	_	_
+11	triste	triste	ADJ	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Winfrey	Winfrey	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	labios	labio	NOUN	_	_	2	obj	_	_
+4	grande	grande	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	ella	él	PRON	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mucha	mucho	DET	_	_	9	det	_	_
+9	guapa	guapo	ADJ	_	_	2	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	un	uno	DET	_	_	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	gorda	gordo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	baja	bajo	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	ella	él	PRON	_	_	10	nsubj	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	alto	alto	ADJ	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	piel	piel	NOUN	_	_	2	obj	_	_
+4	negra	negro	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Normalment	Normalment	PROPN	_	_	5	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	5	nsubj	_	_
+4	no	no	ADV	_	_	5	advmod	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	las	el	DET	_	_	7	det	_	_
+7	gafas	gafa	NOUN	_	_	5	obj	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	hoy	hoy	ADV	_	_	12	advmod	_	_
+11	ella	él	PRON	_	_	12	nsubj	_	_
+12	llava	llair	VERB	_	_	5	conj	_	_
+13	les	él	PRON	_	_	14	det	_	_
+14	gafas	gafa	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	llava	llair	VERB	_	_	0	ROOT	_	_
+3	pendientes	pendiente	ADJ	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	barbo	barbo	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	ella	él	PRON	_	_	9	nsubj	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	tiene	tener	VERB	_	_	3	conj	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	bigote	bigote	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	calda	caldo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Oprah	Oprah	PROPN	_	_	4	nsubj	_	_
+2	Winfrey	Winfrey	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	elegante	elegante	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	paciente	paciente	ADJ	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	generosa	generoso	ADJ	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	un	uno	DET	_	_	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	gorda	gordo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	perezoso	perezoso	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	0	ROOT	_	_
+2	esta	este	DET	_	_	3	det	_	_
+3	casada	casado	ADJ	_	_	1	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	esta	este	DET	_	_	4	det	_	_
+4	solterola	solterola	NOUN	_	_	9	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	ella	él	PRON	_	_	4	conj	_	_
+7	no	no	ADV	_	_	9	advmod	_	_
+8	esta	este	DET	_	_	9	det	_	_
+9	divorcida	divorcida	NOUN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	sesenta	sesenta	NUM	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cuatro	cuatro	NUM	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	actriz	actriz	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	llava	llair	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	reloj	reloj	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	Los	el	DET	_	_	5	det	_	_
+5	Angeles	Angeles	PROPN	_	_	2	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	ella	él	PRON	_	_	2	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Mississippi	Mississippi	PROPN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Oprah	Oprah	PROPN	_	_	4	nsubj	_	_
+2	Winfrey	Winfrey	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	African-	African-	PROPN	_	_	0	ROOT	_	_
+5	Americano	Americano	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+

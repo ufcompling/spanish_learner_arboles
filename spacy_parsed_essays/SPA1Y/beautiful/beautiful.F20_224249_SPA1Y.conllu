@@ -1,0 +1,224 @@
+# Unnamed: 0 = 0
+# id = 224249
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 19
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 3
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hay una mujer y un hombre. La mujer es muy hermosa. Tiene el pelo castaño largo y tiene []{los}<ab:det:art:def> [grande ojos marrones]{ojos grandes y marrones}<col:adj><na:adj>. El hombre es muy hermoso. Tiene el pelo negro, tiene ojos verdes, y es [alta]{alto}<ga:adj>. La mujer está bebe café en un hermoso restaurante de café. Entonces, el hombre entró el hermoso restaurante. El hermoso hombre ver la hermosa mujer y la hermosa mujer ver el hermoso hombre. Hablaron para horas en el hermoso restaurante. El hombre y la mujer salir el restaurante y hablaron más por teléfono. Durante los próximos meses, el hermoso hombre y la hermosa mujer fueron a una hermosa playa, [una]{un}<gat:det> [hermosa]{hermoso}<gat:adj> cine, un hermoso parque, un hermoso museo, y una hermosa exposición de arte. El hermoso hombre amar a la hermosa mujer y la hermosa mujer amar a el hermoso hombre. El hermoso hombre propuesto. La hermosa mujer dijo que sí. El hermoso hombre y la hermosa mujer viven una hermosa vida.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hay una mujer y un hombre. La mujer es muy hermosa. Tiene el pelo castaño largo y tiene [grande]{grandes}<na:adj> ojos marrones. El hombre es muy hermoso. Tiene el pelo negro, tiene ojos verdes, y es [alta]{alto}<ga:adj>. La mujer está [bebe]{bebiendo}<fs:st:t> café en un hermoso restaurante de café. Entonces, el hombre entró el hermoso restaurante. El hermoso hombre [ver]{vio}<fs:st:t> la hermosa mujer y la hermosa mujer [ver]{vio}<fs:st:t> el hermoso hombre. Hablaron [para]{por}<conf:prep:popa> horas en el hermoso restaurante. El hombre y la mujer [salir]{salieron}<fs:st:t> el restaurante y hablaron más por teléfono. Durante los próximos meses, el hermoso hombre y la hermosa mujer fueron a una hermosa playa, [una]{un}<gat:det> [hermosa]{hermoso}<gat:adj> [cine]{cine}<gat:noun>, un hermoso parque, un hermoso museo, y una hermosa exposición de arte. El hermoso hombre [amar]{ama}<fs:st:t> a la hermosa mujer y la hermosa mujer [amar]{ama}<fs:st:t> a el hermoso hombre. El hermoso hombre [propuesto]{propuso}<fs:st:t>. La hermosa mujer dijo que sí. El hermoso hombre y la hermosa mujer viven una hermosa vida.
+# verbs annotation ann2 = nan
+# corrected1 = Hay una mujer y un hombre. La mujer es muy hermosa. Tiene el pelo castaño largo y tiene los ojos grandes y marrones. El hombre es muy hermoso. Tiene el pelo negro, tiene ojos verdes, y es alto. La mujer está bebiendo café en un hermoso restaurante de café. Entonces, el hombre entró en el hermoso restaurante. El hermoso hombre vio a la hermosa mujer y la hermosa mujer vio el hermoso hombre. Hablaron durante horas en el hermoso restaurante. El hombre y la mujer salieron del restaurante y hablaron más por teléfono. Durante los próximos meses, el hermoso hombre y la hermosa mujer fueron a una hermosa playa, un hermos cine, un hermoso parque, un hermoso museo, y una hermosa exposición de arte. El hermoso hombre amaba a la hermosa mujer y la hermosa mujer amaba al hermoso hombre. El hermoso hombre se propuso. La hermosa mujer dijo que sí. El hermoso hombre y la hermosa mujer vivieron una hermosa vida.
+# corrected2 = nan
+# text = Hay una mujer y un hombre. La mujer es muy hermosa. Tiene el pelo castaño largo y tiene grande ojos marrones. El hombre es muy hermoso. Tiene el pelo negro, tiene ojos verdes, y es alta. La mujer está bebe café en un hermoso restaurante de café. Entonces, el hombre entró el hermoso restaurante. El hermoso hombre ver la hermosa mujer y la hermosa mujer ver el hermoso hombre. Hablaron para horas en el hermoso restaurante. El hombre y la mujer salir el restaurante y hablaron más por teléfono. Durante los próximos meses, el hermoso hombre y la hermosa mujer fueron a una hermosa playa, una hermosa cine, un hermoso parque, un hermoso museo, y una hermosa exposición de arte. El hermoso hombre amar a la hermosa mujer y la hermosa mujer amar a el hermoso hombre. El hermoso hombre propuesto. La hermosa mujer dijo que sí. El hermoso hombre y la hermosa mujer viven una hermosa vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	mujer	mujer	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	hombre	hombre	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mujer	mujer	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	hermosa	hermoso	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	castaño	castaño	ADJ	_	_	3	amod	_	_
+5	largo	largo	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	1	conj	_	_
+8	grande	grande	ADJ	_	_	9	amod	_	_
+9	ojos	ojo	NOUN	_	_	7	obj	_	_
+10	marrones	marrón	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	hermoso	hermoso	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	negro	negro	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	tiene	tener	VERB	_	_	1	advcl	_	_
+7	ojos	ojo	NOUN	_	_	6	obj	_	_
+8	verdes	verde	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	es	ser	AUX	_	_	12	cop	_	_
+12	alta	alto	ADJ	_	_	1	conj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mujer	mujer	NOUN	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	bebe	beber	VERB	_	_	0	ROOT	_	_
+5	café	café	NOUN	_	_	4	obj	_	_
+6	en	en	ADP	_	_	9	case	_	_
+7	un	uno	DET	_	_	9	det	_	_
+8	hermoso	hermoso	ADJ	_	_	9	amod	_	_
+9	restaurante	restaurante	NOUN	_	_	4	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	café	café	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	hombre	hombre	NOUN	_	_	5	nsubj	_	_
+5	entró	entrar	VERB	_	_	0	ROOT	_	_
+6	el	el	DET	_	_	8	det	_	_
+7	hermoso	hermoso	ADJ	_	_	8	amod	_	_
+8	restaurante	restaurante	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	hermoso	hermoso	ADJ	_	_	3	amod	_	_
+3	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+4	ver	ver	VERB	_	_	3	acl	_	_
+5	la	el	DET	_	_	7	det	_	_
+6	hermosa	hermoso	ADJ	_	_	7	amod	_	_
+7	mujer	mujer	NOUN	_	_	4	obj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	la	el	DET	_	_	11	det	_	_
+10	hermosa	hermoso	ADJ	_	_	11	amod	_	_
+11	mujer	mujer	NOUN	_	_	7	conj	_	_
+12	ver	ver	VERB	_	_	4	xcomp	_	_
+13	el	el	DET	_	_	15	det	_	_
+14	hermoso	hermoso	ADJ	_	_	15	amod	_	_
+15	hombre	hombre	NOUN	_	_	12	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hablaron	hablar	VERB	_	_	0	ROOT	_	_
+2	para	para	ADP	_	_	3	case	_	_
+3	horas	hora	NOUN	_	_	1	obl	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	el	el	DET	_	_	7	det	_	_
+6	hermoso	hermoso	ADJ	_	_	7	amod	_	_
+7	restaurante	restaurante	NOUN	_	_	1	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	mujer	mujer	NOUN	_	_	2	conj	_	_
+6	salir	salir	VERB	_	_	0	ROOT	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	restaurante	restaurante	NOUN	_	_	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	hablaron	hablar	VERB	_	_	6	conj	_	_
+11	más	más	ADV	_	_	13	advmod	_	_
+12	por	por	ADP	_	_	13	case	_	_
+13	teléfono	teléfono	NOUN	_	_	10	obj	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Durante	durante	ADP	_	_	4	case	_	_
+2	los	el	DET	_	_	4	det	_	_
+3	próximos	próximo	ADJ	_	_	4	amod	_	_
+4	meses	mes	NOUN	_	_	17	obl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	el	el	DET	_	_	8	det	_	_
+7	hermoso	hermoso	ADJ	_	_	8	amod	_	_
+8	hombre	hombre	NOUN	_	_	17	nsubj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	la	el	DET	_	_	12	det	_	_
+11	hermosa	hermoso	ADJ	_	_	12	amod	_	_
+12	mujer	mujer	NOUN	_	_	8	conj	_	_
+13	fueron	ser	AUX	_	_	17	cop	_	_
+14	a	a	ADP	_	_	17	case	_	_
+15	una	uno	DET	_	_	17	det	_	_
+16	hermosa	hermoso	ADJ	_	_	17	amod	_	_
+17	playa	playa	NOUN	_	_	0	ROOT	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	una	uno	DET	_	_	21	det	_	_
+20	hermosa	hermoso	ADJ	_	_	21	amod	_	_
+21	cine	cine	NOUN	_	_	17	appos	_	_
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	un	uno	DET	_	_	25	det	_	_
+24	hermoso	hermoso	ADJ	_	_	25	amod	_	_
+25	parque	parque	NOUN	_	_	21	appos	_	_
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	un	uno	DET	_	_	29	det	_	_
+28	hermoso	hermoso	ADJ	_	_	29	amod	_	_
+29	museo	museo	NOUN	_	_	25	appos	_	_
+30	,	,	PUNCT	_	_	34	punct	_	_
+31	y	y	CCONJ	_	_	34	cc	_	_
+32	una	uno	DET	_	_	34	det	_	_
+33	hermosa	hermoso	ADJ	_	_	34	amod	_	_
+34	exposición	exposición	NOUN	_	_	17	conj	_	_
+35	de	de	ADP	_	_	36	case	_	_
+36	arte	arte	NOUN	_	_	34	nmod	_	_
+37	.	.	PUNCT	_	_	17	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	hermoso	hermoso	ADJ	_	_	3	amod	_	_
+3	hombre	hombre	NOUN	_	_	4	nsubj	_	_
+4	amar	amar	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	8	case	_	_
+6	la	el	DET	_	_	8	det	_	_
+7	hermosa	hermoso	ADJ	_	_	8	amod	_	_
+8	mujer	mujer	NOUN	_	_	4	obj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	la	el	DET	_	_	12	det	_	_
+11	hermosa	hermoso	ADJ	_	_	12	amod	_	_
+12	mujer	mujer	NOUN	_	_	8	conj	_	_
+13	amar	amar	VERB	_	_	4	xcomp	_	_
+14	a	a	ADP	_	_	17	case	_	_
+15	el	el	DET	_	_	17	det	_	_
+16	hermoso	hermoso	ADJ	_	_	17	amod	_	_
+17	hombre	hombre	NOUN	_	_	13	obj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	hermoso	hermoso	ADJ	_	_	3	amod	_	_
+3	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+4	propuesto	propuesto	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	3	det	_	_
+2	hermosa	hermoso	ADJ	_	_	3	amod	_	_
+3	mujer	mujer	NOUN	_	_	4	nsubj	_	_
+4	dijo	decir	VERB	_	_	0	ROOT	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	sí	sí	ADV	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	hermoso	hermoso	ADJ	_	_	3	amod	_	_
+3	hombre	hombre	NOUN	_	_	8	nsubj	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	la	el	DET	_	_	7	det	_	_
+6	hermosa	hermoso	ADJ	_	_	7	amod	_	_
+7	mujer	mujer	NOUN	_	_	3	conj	_	_
+8	viven	vivir	VERB	_	_	0	ROOT	_	_
+9	una	uno	DET	_	_	11	det	_	_
+10	hermosa	hermoso	ADJ	_	_	11	amod	_	_
+11	vida	vida	NOUN	_	_	8	nsubj	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+

@@ -1,0 +1,460 @@
+# Unnamed: 0 = 65
+# id = 205130
+# prompt = chaplin
+# quarter = S21
+# course = SPA 3
+# age = 21
+# gender = Female
+# l1 language = 2
+# other l1 language(s) = Mandarin
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un día, un hombre con barba camina por la calle. Está vestido con corbata y traje y usa un sombrero redondo. La calle está sucia y ruidosa. Los trabajadores que trabajan en las casas a veces arrojan basura desde arriba. Las cenizas vuelan por todas partes. Cuando finalmente llega al final de la calle, saca un cigarrillo y fuma. Mira a su alrededor. De repente, encuentra a un bebé llorando en la esquina de la calle. Por curiosidad, recoge a la bebé para comprobar su estado. Mira de arriba abajo y se pregunta de dónde viene el bebé. Mientras tanto, una señora que empuja una cuna pasa junto a él, pensando que ha dejado caer a su bebé. Rápidamente la alcanza y coloca al bebé en la cuna. La mujer se niega a reclamar que el bebé es suyo y grita al hombre con gestos exagerados. La mujer se aleja enojada. El hombre regresa al rincón donde encuentra al bebé y lo coloca en el mismo lugar. La policía camina silenciosamente detrás de él. Al ver a la policía, sin decir una palabra, vuelve a levantar al bebé y se aleja rápidamente. Mientras camina un poco, ve a un anciano que camina frente a él y le entrega al bebé mientras finge atarse los zapatos. Huye y se esconde en un rincón. El anciano lo persigue con el bebé en la mano, pero no lo encuentra. Cuando el anciano ve una cuna, pone al bebé en la cuna y se aleja. Es la misma cuna que el hombre ha encontrado antes. El hombre tiene la suerte de deshacerse del bebé cuando la mujer ve al mismo bebé en su cuna y atrapa al hombre en su traje. Empiezan a discutir en voz alta y atraen a la policía. Sin elección, el hombre toma al bebé y se aleja. No sabe qué hacer con el bebé. Se sienta en la calle y se pregunta qué hacer. De repente, encuentra una nota sobre el bebé: "Por favor, ame y cuide a este niño huérfano". El bebé le sonríe. En este momento, decide quedarse con el bebé.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	barba	barba	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	camina	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	calle	calle	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vestido	vestido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	corbata	corbata	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	traje	traje	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	usa	usar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sombrero	sombrero	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	redondo	redondo	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	calle	calle	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	sucia	sucio	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	ruidosa	ruidoso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+4	trabajan	trabajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	casas	casa	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	a	a	ADP	_	_	4	advmod	_	_
+9	veces	veces	NOUN	_	_	8	fixed	_	_
+10	arrojan	arrojar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	basura	basura	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+12	desde	desde	ADP	_	_	13	case	_	_
+13	arriba	arriba	ADV	_	_	10	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	cenizas	ceniza	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	vuelan	volar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	partes	parte	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	finalmente	finalmente	ADV	_	_	3	advmod	_	_
+3	llega	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	final	final	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	calle	calle	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+10	saca	sacar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cigarrillo	cigarrillo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	fuma	fumar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	alrededor	alrededor	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	De	de	ADP	_	_	4	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+8	llorando	llorar	VERB	_	VerbForm=Ger	4	advcl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	esquina	esquina	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	calle	calle	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	curiosidad	curiosidad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	recoge	recoger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Number=Sing	4	obj	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	comprobar	comprobar	VERB	_	VerbForm=Inf	4	advcl	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	estado	estado	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mira	mirar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	arriba	arriba	ADV	_	_	1	advmod	_	_
+4	abajo	abajo	ADV	_	_	3	fixed	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obl	_	_
+7	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	dónde	dónde	ADV	_	PronType=Int	10	advmod	_	_
+10	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mientras	mientras	CCONJ	_	_	10	advmod	_	_
+2	tanto	tanto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	señora	señora	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+7	empuja	empujar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	junto	junto	ADJ	_	_	13	case	_	_
+12	a	a	ADP	_	_	11	fixed	_	_
+13	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	pensando	pensar	VERB	_	VerbForm=Ger	10	advcl	_	_
+16	que	que	SCONJ	_	_	18	mark	_	_
+17	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	dejado	dejar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	xcomp	_	_
+19	caer	caer	VERB	_	VerbForm=Inf	18	xcomp	_	_
+20	a	a	ADP	_	_	22	case	_	_
+21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
+22	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Rápidamente	rápidamente	ADV	_	_	3	advmod	_	_
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	alcanza	alcanzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	coloca	colocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	niega	negar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	reclamar	reclamar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+7	que	que	SCONJ	_	_	11	mark	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	suyo	suyo	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	ccomp	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	grita	gritar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	al	a	ADP	_	_	15	case	_	_
+15	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	gestos	gesto	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+18	exagerados	exagerado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	17	amod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	aleja	alejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	enojada	enojado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	regresa	regresar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	rincón	rincón	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	donde	donde	ADV	_	PronType=Rel	7	advmod	_	_
+7	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+8	al	a	ADP	_	_	9	case	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	coloca	colocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	en	en	ADP	_	_	16	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+16	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	policía	policía	NOUN	_	Number=Sing	3	nsubj	_	_
+3	camina	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	silenciosamente	silenciosamente	ADV	_	_	3	advmod	_	_
+5	detrás	detrás	ADV	_	_	7	case	_	_
+6	de	de	ADP	_	_	5	fixed	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Al	a	ADP	_	_	2	case	_	_
+2	ver	ver	VERB	_	VerbForm=Inf	14	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	policía	policía	NOUN	_	Number=Sing	2	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	sin	sin	ADP	_	_	8	mark	_	_
+8	decir	decir	VERB	_	VerbForm=Inf	2	advcl	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	palabra	palabra	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+12	vuelve	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	levantar	levantar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	al	a	ADP	_	_	16	case	_	_
+16	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	obj	_	_
+19	aleja	alejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+20	rápidamente	rápidamente	ADV	_	_	19	advmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Mientras	mientras	SCONJ	_	_	2	mark	_	_
+2	camina	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	anciano	anciano	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+11	camina	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+12	frente	frente	NOUN	_	_	11	advmod	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	entrega	entregar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+18	al	a	ADP	_	_	19	case	_	_
+19	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+20	mientras	mientras	SCONJ	_	_	21	mark	_	_
+21	finge	finger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+22	atarse	atar	VERB	_	VerbForm=Inf	21	xcomp	_	_
+23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	zapatos	zapato	NOUN	_	Gender=Masc|Number=Plur	22	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Huye	hoer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	y	y	CCONJ	_	_	4	cc	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	esconde	esconder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	rincón	rincón	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	anciano	anciano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	persigue	persiguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mano	mano	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	anciano	anciano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	aleja	alejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+4	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	que	que	PRON	_	PronType=Rel	9	obj	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+10	antes	antes	ADV	_	_	9	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	deshacerse	deshacer	VERB	_	VerbForm=Inf	5	acl	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+10	cuando	cuando	SCONJ	_	_	13	mark	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	al	a	ADP	_	_	16	case	_	_
+15	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	cuna	cuna	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	atrapa	atrapar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+22	al	a	ADP	_	_	23	case	_	_
+23	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
+26	traje	traje	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Empiezan	empiezar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	discutir	discutir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	voz	voz	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	alta	alto	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	atraen	atraer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	policía	policía	NOUN	_	Number=Sing	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sin	sin	ADP	_	_	2	case	_	_
+2	elección	elección	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	toma	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	_	_
+11	aleja	alejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	4	obj	_	_
+4	hacer	hacer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sienta	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	calle	calle	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	obl	_	_
+8	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	qué	qué	PRON	_	Number=Sing|PronType=Int	10	obj	_	_
+10	hacer	hacer	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	De	de	ADP	_	_	4	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	nota	nota	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	sobre	sobre	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	:	:	PUNCT	_	PunctType=Colo	15	punct	_	_
+11	"	"	PUNCT	_	PunctType=Quot	15	punct	_	_
+12	Por	por	ADP	_	_	15	advmod	_	_
+13	favor	favor	NOUN	_	_	12	fixed	_	_
+14	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+15	ame	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	cuide	cuidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
+20	niño	niño	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+21	huérfano	huérfano	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_
+22	"	"	PUNCT	_	PunctType=Quot	15	punct	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	sonríe	sooíer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	momento	momento	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	decide	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quedarse	quedar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

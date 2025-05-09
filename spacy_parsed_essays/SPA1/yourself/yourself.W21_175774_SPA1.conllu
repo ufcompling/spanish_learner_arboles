@@ -1,0 +1,146 @@
+# Unnamed: 0 = 128
+# id = 175774
+# prompt = yourself
+# quarter = W21
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = 0
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy de *STATE*, Estados Unidos pero origen es en *PLACE*. Ahora soy vivo en *CITY*. Soy tengo *AGE* años y mi fecha de nacimiento es *BIRTH_DATE* de *BIRTH_DATE*. Yo soy estudio en la universidad de *UNIVERSITY*. Mi especialización es Food Science. Estoy nerviosa en la clase de Español pero soy ilusionada aprender Español. Me gusta estudio idiomas. Me gusta jugar fútbol y tenis. Me gusta badminton también. En general, yo soy muy activa y aventurera, pero soy tímida y trabajadora también. En clase, estoy contenta pero soy cansada y sed también.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*STATE*	STATE	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Estados	Estados	PROPN	_	_	4	conj	_	_
+7	Unidos	Unidos	PROPN	_	_	6	flat	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	origen	origen	NOUN	_	_	12	nsubj	_	_
+10	es	ser	AUX	_	_	12	cop	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*PLACE*	PLACE	PROPN	_	_	4	conj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	vivo	vivo	ADJ	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	aux	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	fecha	fecha	NOUN	_	_	3	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	nacimiento	nacimiento	NOUN	_	_	7	nmod	_	_
+10	es	ser	AUX	_	_	11	cop	_	_
+11	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	2	conj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	estudio	estudio	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	universidad	universidad	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialización	especialización	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Food	Food	PROPN	_	_	0	ROOT	_	_
+5	Science	Science	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	clase	clase	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Español	Español	PROPN	_	_	5	nmod	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	soy	ser	AUX	_	_	10	cop	_	_
+10	ilusionada	ilusionado	ADJ	_	_	2	conj	_	_
+11	aprender	aprender	VERB	_	_	10	csubj	_	_
+12	Español	Español	PROPN	_	_	11	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	estudio	estudio	NOUN	_	_	2	nsubj	_	_
+4	idiomas	idioma	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	csubj	_	_
+4	fútbol	fútbol	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tenis	tenis	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	badminton	badminton	PROPN	_	_	2	nsubj	_	_
+4	también	también	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	7	advmod	_	_
+2	general	general	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	yo	yo	PRON	_	_	7	nsubj	_	_
+5	soy	ser	AUX	_	_	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	activa	activo	ADJ	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	aventurera	aventurero	ADJ	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	soy	ser	AUX	_	_	13	cop	_	_
+13	tímida	tímido	ADJ	_	_	7	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	trabajadora	trabajadorar	VERB	_	_	13	conj	_	_
+16	también	también	ADV	_	_	15	advmod	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	clase	clase	NOUN	_	_	5	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	estoy	estar	AUX	_	_	5	cop	_	_
+5	contenta	contentar	VERB	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	soy	ser	AUX	_	_	8	cop	_	_
+8	cansada	cansado	ADJ	_	_	5	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	sed	sed	PROPN	_	_	8	conj	_	_
+11	también	también	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+

@@ -1,0 +1,93 @@
+# Unnamed: 0 = 141
+# id = 207499
+# prompt = special
+# quarter = W19
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = no
+# language(s) used at home = Mandarin
+# language(s) studied = no
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un [un]{una}<ga:det> persona especial de mi vida es mi pero. El [él]{}<pr:su:pron> vuelve [vuelve]{vino}<fs:st:t> a mi familiar cuando tengo [tengo]{tenía}<fs:st:t> 10 anós. El [él]{}<pr:su:pron>  tiene 2 mes. El [él]{}<pr:su:pron> tiene el pelo café y rizado. Su [su]{sus}<na:det> ojos negros y brillante [brillante]{brillantes}<na:adj>, y tiene piernas lagras. El [él]{}<pr:su:pron> es [es]{está}<conf:v:seta> siempre enérgico y se gusta saltar encima de []{la}<ab:det:art:def> mesa y nosotros camas.
+# updated annotation ann2 = [Un]{Una}<ga:det> persona especial de mi vida es mi pero. El [vuelve]{volvió}<fs:st:t> a mi familiar cuando tengo 10 anós. El [tiene]{tenía}<fs:st:t> 2 [mes]{meses}<na:noun>. El tiene el pelo café y rizado. Su ojos negros y [brillante]{brillantes}<na:adj>, y tiene []{las}<ab:det:art:def> piernas lagras. El [es]{está}<conf:v:seta> siempre enérgico y se gusta saltar encima de []{la}<ab:det:art:def> mesa y nosotros camas.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial de mi vida es mi perro. Él vino a mi familia cuando tenía 10 años. Él tenía dos meses. Tiene el pelo café y rizado. Los ojos negros y brillantes, y tiene patas largas. Siempre está enérgico y le gusta saltar encima de la mesa y nuestras camas.
+# corrected2 = nan
+# text = Un persona especial de mi vida es mi pero. El vuelve a mi familiar cuando tengo 10 anós. El tiene 2 mes. El tiene el pelo café y rizado. Su ojos negros y brillante, y tiene piernas lagras. El es siempre enérgico y se gusta saltar encima de mesa y nosotros camas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+9	pero	pero	CCONJ	_	_	8	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	vuelve	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	familiar	familiar	NOUN	_	Number=Sing	2	obl	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	10	10	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	anós	anó	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	2	2	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	mes	mes	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	café	café	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	negros	negro	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	brillante	brillante	ADJ	_	Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	piernas	pierna	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	lagras	lagro	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	enérgico	enérgico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	saltar	saltar	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	encima	encima	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	mesa	mesa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	conj	_	_
+14	camas	camar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

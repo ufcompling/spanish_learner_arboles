@@ -1,0 +1,344 @@
+# Unnamed: 0 = 180
+# id = 241914
+# prompt = terrible
+# quarter = F19
+# course = SPA 23
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = I consider English my native language.
+# language(s) used at home = Yes, Spanish
+# language(s) studied = I speak Spanish at home, but it is not my native language. I do not speak Spanish that well, which is why I am taking the course, but I do understand it very well. My weakness in Spanish is speaking it.
+# listening comprehension = 5.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hay muchas tiroteos en las escuelas que ha ocurrido estos años pasados aquí en los Estados Unidos. También no nomas pasan en las escuelas pero en general, pasan en lugares en donde hay mucha gente, por ejemplo, en la festival de ajo en *CITY*, *STATE*. Yo vivo en una ciudad que está como unos 30 minutos lejos de *CITY*. Yo siempre e oido de las tiroteos que ha pasado en otros estados aquí o en otros países, pero gracias a dios, ninguno ha pasado cercas de mi y esta era la primera. Si teníamos simulacros o lecciones de qué hacer si hubiera un tiroteo en la escuela. Sin embargo, en mi escuela secundaria, si teníamos una amenaza de que alguien iba ser un tiroteo, pero no se lo tomaron en serio. Lo bueno era que nada paso, pero lo más triste de estas circunstancias es que ahora es necesario entrenar o saber qué hacer si algo pasaría. Yo conoci una muchacha en mi escuela secundaria que tiene un hermano más joven y él está en la escuela primaria. Ella nos contó que la escuela de su hermanito recibieron una amenaza de un tiroteo y nomas era una escuela primaria. Los niños que tienen cinco o seis años, apenas se están saliendo de los brazos de sus papás, tienen que saber cómo prepararse si un tiroteo ocurriera. Unos de esos niños apenas están aprendiendo cómo leer o escribir, pero ya están obteniendo los miedos de que si van a la escuela, hay la posibilidad que no van a regresar a sus casas. Yo quiero creer que esto nomas es una historia terrible, pero desafortunadamente, es la realidad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	tiroteos	tiroteo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+7	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+8	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	ocurrido	ocurrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+10	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	años	año	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+12	pasados	pasado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	11	amod	_	_
+13	aquí	aquí	ADV	_	_	9	advmod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	Estados	Estados	PROPN	_	_	9	obl	_	_
+17	Unidos	Unidos	PROPN	_	_	16	flat	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	nomas	noma	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	pasan	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	en	en	ADP	_	_	12	advmod	_	_
+10	general	general	NOUN	_	_	9	fixed	_	_
+11	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+12	pasan	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	donde	donde	ADV	_	PronType=Rel	17	advmod	_	_
+17	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
+18	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	19	det	_	_
+19	gente	gente	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
+20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+21	por	por	ADP	_	_	26	advmod	_	_
+22	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	21	fixed	_	_
+23	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	festival	festival	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	ajo	ajo	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_
+29	en	en	ADP	_	_	30	case	_	_
+30	*CITY*	*city*	PROPN	_	_	26	nmod	_	_
+31	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
+32	*STATE*	*state*	PUNCT	_	_	30	punct	_	_
+33	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+7	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+8	como	como	SCONJ	_	_	11	mark	_	_
+9	unos	uno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	10	nmod	_	_
+10	30	30	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+12	lejos	lejos	ADV	_	_	7	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*CITY*	*city*	PROPN	_	_	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	siempre	siempre	ADV	_	_	0	root	_	_
+3	e	e	CCONJ	_	_	4	cc	_	_
+4	oido	oido	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	tiroteos	tiroteo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+9	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	pasado	pasar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	estados	estado	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+14	aquí	aquí	ADV	_	_	13	advmod	_	_
+15	o	o	CCONJ	_	_	18	cc	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+18	países	país	NOUN	_	Gender=Masc|Number=Plur	14	conj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
+20	pero	pero	CCONJ	_	_	27	cc	_	_
+21	gracias	gracias	NOUN	_	_	23	case	_	_
+22	a	a	ADP	_	_	21	fixed	_	_
+23	dios	dios	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
+24	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+25	ninguno	ninguno	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	27	nsubj	_	_
+26	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
+27	pasado	pasar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+28	cercas	cercas	ADV	_	_	27	advmod	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	28	obl	_	_
+31	y	y	CCONJ	_	_	35	cc	_	_
+32	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	35	nsubj	_	_
+33	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	cop	_	_
+34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
+35	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	27	conj	_	_
+36	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	teníamos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	simulacros	simulacro	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	o	o	CCONJ	_	_	5	cc	_	_
+5	lecciones	lección	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	qué	qué	PRON	_	Number=Sing|PronType=Int	8	obl	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+9	si	si	SCONJ	_	_	10	mark	_	_
+10	hubiera	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	tiroteo	tiroteo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Sin	sin	ADP	_	_	10	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+7	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+9	si	si	SCONJ	_	_	10	mark	_	_
+10	teníamos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	amenaza	amenaza	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	19	mark	_	_
+14	que	que	SCONJ	_	_	19	mark	_	_
+15	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	16	nsubj	_	_
+16	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl	_	_
+17	ser	ser	AUX	_	VerbForm=Inf	19	cop	_	_
+18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	tiroteo	tiroteo	NOUN	_	Gender=Masc|Number=Sing	12	acl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+21	pero	pero	CCONJ	_	_	25	cc	_	_
+22	no	no	ADV	_	Polarity=Neg	25	advmod	_	_
+23	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	obl	_	_
+24	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	25	obj	_	_
+25	tomaron	tomar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+26	en	en	ADP	_	_	25	advmod	_	_
+27	serio	serio	NOUN	_	_	26	fixed	_	_
+28	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
+2	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	nada	nada	PRON	_	Number=Sing|PronType=Neg	6	nsubj	_	_
+6	paso	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+8	pero	pero	CCONJ	_	_	15	cc	_	_
+9	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
+11	triste	triste	ADJ	_	Number=Sing	15	nsubj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	14	det	_	_
+14	circunstancias	circunstancia	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+16	que	que	SCONJ	_	_	19	mark	_	_
+17	ahora	ahora	ADV	_	_	19	advmod	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	necesario	necesario	ADJ	_	Gender=Masc|Number=Sing	15	ccomp	_	_
+20	entrenar	entrenar	VERB	_	VerbForm=Inf	19	csubj	_	_
+21	o	o	CCONJ	_	_	24	cc	_	_
+22	saber	saber	AUX	_	VerbForm=Inf	24	aux	_	_
+23	qué	qué	PRON	_	Number=Sing|PronType=Int	24	obj	_	_
+24	hacer	hacer	VERB	_	VerbForm=Inf	20	conj	_	_
+25	si	si	SCONJ	_	_	27	mark	_	_
+26	algo	algo	PRON	_	Number=Sing|PronType=Ind	27	nsubj	_	_
+27	pasaría	pasar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	24	advcl	_	_
+28	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	conoci	conocir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	muchacha	muchacha	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	más	más	ADV	_	Degree=Cmp	14	advmod	_	_
+14	joven	joven	ADJ	_	Number=Sing	12	amod	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	10	mark	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermanito	hermanito	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	recibieron	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	amenaza	amenaza	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tiroteo	tiroteo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	nomas	noma	NOUN	_	Gender=Fem|Number=Plur	20	conj	_	_
+18	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+21	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	niños	niño	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+4	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+6	o	o	CCONJ	_	_	7	cc	_	_
+7	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	conj	_	_
+8	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	apenas	apenas	ADV	_	_	13	advmod	_	_
+11	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+12	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	saliendo	salir	VERB	_	VerbForm=Ger	2	acl	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	brazos	brazo	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	papás	papá	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
+20	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+21	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	que	que	SCONJ	_	_	23	cc	_	_
+23	saber	saber	VERB	_	VerbForm=Inf	21	conj	_	_
+24	cómo	cómo	PRON	_	PronType=Ind	25	obl	_	_
+25	prepararse	preparar	VERB	_	VerbForm=Inf	23	ccomp	_	_
+26	si	si	SCONJ	_	_	29	mark	_	_
+27	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	tiroteo	tiroteo	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	_
+29	ocurriera	ocurrir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	advcl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	21	punct	_	_
+
+1	Unos	uno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+4	niños	niño	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+5	apenas	apenas	ADV	_	_	7	advmod	_	_
+6	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	aprendiendo	aprender	VERB	_	VerbForm=Ger	0	root	_	_
+8	cómo	cómo	PRON	_	PronType=Ind	9	obl	_	_
+9	leer	leer	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	o	o	CCONJ	_	_	11	cc	_	_
+11	escribir	escribir	VERB	_	VerbForm=Inf	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	pero	pero	CCONJ	_	_	16	cc	_	_
+14	ya	ya	ADV	_	_	16	advmod	_	_
+15	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	obteniendo	obtener	VERB	_	VerbForm=Ger	7	conj	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	miedos	miedo	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+19	de	de	ADP	_	_	27	mark	_	_
+20	que	que	SCONJ	_	_	27	mark	_	_
+21	si	si	SCONJ	_	_	22	mark	_	_
+22	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	_
+23	a	a	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
+26	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+27	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
+28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	posibilidad	posibilidad	NOUN	_	Gender=Fem|Number=Sing	27	obj	_	_
+30	que	que	SCONJ	_	_	32	mark	_	_
+31	no	no	ADV	_	Polarity=Neg	32	advmod	_	_
+32	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl	_	_
+33	a	a	ADP	_	_	34	mark	_	_
+34	regresar	regresar	VERB	_	VerbForm=Inf	32	xcomp	_	_
+35	a	a	ADP	_	_	37	case	_	_
+36	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
+37	casas	casa	NOUN	_	Gender=Fem|Number=Plur	34	obl	_	_
+38	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	creer	creer	VERB	_	VerbForm=Inf	2	ccomp	_	_
+4	que	que	SCONJ	_	_	9	mark	_	_
+5	esto	este	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
+6	nomas	nomasr	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	historia	historia	NOUN	_	Gender=Fem|Number=Sing	3	ccomp	_	_
+10	terrible	terrible	ADJ	_	Number=Sing	9	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+12	pero	pero	CCONJ	_	_	17	cc	_	_
+13	desafortunadamente	desafortunadamente	ADV	_	_	17	advmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

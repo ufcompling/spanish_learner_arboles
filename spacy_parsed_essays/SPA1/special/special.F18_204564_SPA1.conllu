@@ -1,0 +1,238 @@
+# Unnamed: 0 = 162
+# id = 204564
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = I am 18
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = I speak Arabic
+# language(s) used at home = I speak Arabic within my household but I also speak English a lot of the time
+# language(s) studied = I only took Arabic and English since I was in preschool and until high school
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mamá es muy especial. Amo a mi mamá mucho. [Ella]{}<pr:su:pron> es [el]{}{pr:det:art:def> la mejor!! Mi mamá tiene *AGE* años. Su nombre es *FIRST_NAME* y su apellido es *FIRST_NAME*. Su nombre significa nube de lluvia.    Ella es muy simpática y [divertido]{divertida}<ga:adj>. Siento que tenemos un vinculo especial. Mi mama es muy guapa. Ella{}<pr:su:pron> es alta y [delegado]{delgada}<ga:adj>. También, [ella]{}<pr:su:pron> tiene el pelo marrón, corto y rizado. Además, [ella]{}<pr:su:pron> tiene los ojos grandes, audaces y marrones oscuros. Mi mamá me hace muy feliz y contenta. [Ella]{}<pr:su:pron> [es]{está}<conf:v:seta> [satisfecho]{satisfecha}<ga:adj> y en paz con el mundo que la rodea.  [Ella]{}<pr:su:pron> es lista también. Mi mamá siempre hace mi sonrisa.    Realmente extraño a mi mamá. [Ella]{}<pr:su:pron> vive en Amman, la capital de Jordania. Su nacionalidad es Jordana y palestina. [Ella]{}<pr:su:pron> era periodista. Mi mamá es la mejor periodista. Pero ahora [ella]{}<pr:su:pron> no tiene trabajo. [Ella]{}<pr:su:pron> también es una buena pintora. Yo estoy [exitado]{estusiasmada}<ga:adj> y [afortunado]{afortunada}<ga:adj> de verla en navidad!!
+# updated annotation ann2 = Mi mamá es muy especial. Amo a mi mamá mucho. Ella [ella]{}<pr:su:pron> es el [el]{la}<ga:det> la mejor!! Mi mamá tiene *AGE* años. Su nombre es *FIRST_NAME* y su apellido es *FIRST_NAME*. Su nombre significa nube de lluvia.    Ella [ella]{}<pr:su:pron>es muy simpática y divertido [divertido]{divertida}<ga:adj>. Siento que tenemos un vinculo especial. Mi mama es muy guapa. Ella [ella]{}<pr:su:pron> es alta y delegado [delgado]{delgada}<ga:adj>. También, ella [ella]{}<pr:su:pron> tiene el pelo marrón, corto y rizado. Además, ella [ella]{}<pr:su:pron> tiene los ojos grandes, audaces y marrones oscuros. Mi mamá me hace muy feliz y contenta. Ella [ella]{}<pr:su:pron> es [es]{está}<conf:v:seta> satisfecho [satisfecho]{satisfecha}<ga:adj> y en paz con el mundo que la rodea.  Ella [ella]{}<pr:su:pron> es lista también. Mi mamá siempre hace mi sonrisa.    Realmente extraño a mi mamá. Ella [ella]{}<pr:su:pron> vive en Amman, la capital de Jordania. Su nacionalidad es Jordana y palestina. Ella [ella]{}<pr:su:pron> era periodista. Mi mamá es la mejor periodista. Pero ahora ella [ella]{}<pr:su:pron>no tiene trabajo. Ella [ella]{}<pr:su:pron> también es una buena pintora. Yo estoy exitado [excitado]{excitada}<ga:adj> y afortunado [afortunado]{afortunada}<ga:adj>  de verla en navidad!!
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es muy especial. Amo a mi mamá mucho. ¡Es la mejor! Mi mamá tiene *AGE* años. Su nombre es *FIRST_NAME* y su apellido es *FIRST_NAME*. Su nombre significa nube de lluvia.    Ella es muy simpática y divertida. Siento que tenemos un vínculo especial. Mi mamá es muy guapa. Es alta y delgada. Tiene el pelo marrón, corto y rizado. Además, tiene los ojos grandes, audaces y marrones oscuros. Mi mamá me hace muy feliz y contenta. Está satisfecha y en paz con el mundo que la rodea.  Es liEta también. Mi mamá siempre me hace sonreír.    Realmente extraño a mi mamá. Vive en Amman, la capital de Jordania. Su nacionalidad es jordana y palestina. Era periodista. Mi mamá es la mejor periodista, pero ahora no tiene trabajo. También es una buena pintora. ¡Yo estoy entusiasmada y soy afortunada por verla en Navidad!
+# corrected2 = nan
+# text = Mi mamá es muy especial. Amo a mi mamá mucho. Ella es el la mejor!! Mi mamá tiene *AGE* años. Su nombre es *FIRST_NAME* y su apellido es *FIRST_NAME*. Su nombre significa nube de lluvia. Ella es muy simpática y divertido. Siento que tenemos un vinculo especial. Mi mama es muy guapa. Ella es alta y delegado. También, ella tiene el pelo marrón, corto y rizado. Además, ella tiene los ojos grandes, audaces y marrones oscuros. Mi mamá me hace muy feliz y contenta. Ella es satisfecho y en paz con el mundo que la rodea. Ella es lista también. Mi mamá siempre hace mi sonrisa. Realmente extraño a mi mamá. Ella vive en Amman, la capital de Jordania. Su nacionalidad es Jordana y palestina. Ella era periodista. Mi mamá es la mejor periodista. Pero ahora ella no tiene trabajo. Ella también es una buena pintora. Yo estoy exitado y afortunado de verla en navidad!!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	especial	especial	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	mamá	mamá	NOUN	_	_	1	obj	_	_
+5	mucho	mucho	ADV	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	mejor	mejor	ADJ	_	_	0	ROOT	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	!	!	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	apellido	apellido	NOUN	_	_	4	conj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	3	nsubj	_	_
+3	significa	significar	VERB	_	_	0	ROOT	_	_
+4	nube	nube	PROPN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	lluvia	lluvia	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertido	divertido	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Siento	sentir	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	tenemos	tener	VERB	_	_	1	ccomp	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	vinculo	vinculo	NOUN	_	_	3	obj	_	_
+6	especial	especial	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	guapa	guapo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delegado	delegado	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	4	nsubj	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	pelo	pelo	NOUN	_	_	4	obj	_	_
+7	marrón	marrón	ADJ	_	_	6	amod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	corto	corto	ADJ	_	_	7	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	rizado	rizado	ADJ	_	_	7	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	4	nsubj	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	ojos	ojo	NOUN	_	_	4	obj	_	_
+7	grandes	grande	ADJ	_	_	6	amod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	audaces	audaz	NOUN	_	_	7	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	marrones	marrón	NOUN	_	_	7	conj	_	_
+12	oscuros	oscuro	ADJ	_	_	11	amod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	hace	hacer	VERB	_	_	0	ROOT	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	feliz	feliz	ADJ	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	contenta	contentar	VERB	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	satisfecho	satisfecho	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	paz	paz	NOUN	_	_	3	conj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	mundo	mundo	NOUN	_	_	3	obl	_	_
+10	que	que	PRON	_	_	12	nsubj	_	_
+11	la	él	PRON	_	_	12	obj	_	_
+12	rodea	rodea	NOUN	_	_	9	acl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	lista	lista	NOUN	_	_	0	ROOT	_	_
+4	también	también	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	hace	hacer	VERB	_	_	0	ROOT	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	sonrisa	sonrisa	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Realmente	realmente	ADV	_	_	2	advmod	_	_
+2	extraño	extraño	ADJ	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	mamá	mamá	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Amman	Amman	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	capital	capital	NOUN	_	_	4	appos	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Jordania	Jordania	PROPN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nacionalidad	nacionalidad	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Jordana	Jordana	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	palestina	palestino	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	era	ser	AUX	_	_	3	cop	_	_
+3	periodista	periodista	NOUN	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	6	nsubj	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	la	el	DET	_	_	6	det	_	_
+5	mejor	mejor	ADJ	_	_	6	amod	_	_
+6	periodista	periodista	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	ahora	ahora	ADV	_	_	5	advmod	_	_
+3	ella	él	PRON	_	_	5	nsubj	_	_
+4	no	no	ADV	_	_	5	advmod	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	trabajo	trabajo	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	6	nsubj	_	_
+2	también	también	ADV	_	_	6	advmod	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	una	uno	DET	_	_	6	det	_	_
+5	buena	buen	ADJ	_	_	6	amod	_	_
+6	pintora	pintora	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	exitado	exitado	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	afortunado	afortunado	ADJ	_	_	3	conj	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	verla	ver él	VERB	_	_	5	xcomp	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	navidad	navidad	NOUN	_	_	7	obl	_	_
+10	!	!	PUNCT	_	_	3	punct	_	_
+11	!	!	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,230 @@
+# Unnamed: 0 = 109
+# id = 125695
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 21
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = I speak Cantonese at home with my parents and grandma but english with my siblings. I am not fluent in cantonese either. 
+# language(s) studied = In high school I took Chinese for at least two years, it may have been all four but I can't remember clearly. 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Él te llamo Leonid Afremov y él es pintor. Él está talentoso, trabajador, sobre todo muy artístico. Él tiene sesenta y tres años y vive en la ciudad Quintana Roo en Mexíco. Él es menos gordo y viejo. Mucho importante es él no es perezoso. Él es artista y mi me gusta su trabajador. Él tiene el pelo calvo y lleva gafas. Él pintar []{a}<az:do:an> mucho gente, flora, ciudad, perro y gatos, y a veces frutas. Mi favorito de el su pinto es llamo " Farewell to anger". Mi me llamo el mucho colores para ejemplo roja, azul, verde, y amarillo. Él es chino tiene muy problema. Él tiene una gato. El gato es muy guapo y gordo. A mi me gusta mira []{a}<az:do:an>r el su pinto. Yo buscar a día viajar Leonid y pasar un rato con Leonid. Yo me gusta estudiar y compartir Leonid pinto con mis amigos y mi familia. Leonid es una de mi favorito pintar.
+# a personal annotator2 = nan
+# gender-number annotator1 = Él te llamo Leonid Afremov y él es pintor. Él está talentoso, trabajador, sobre todo muy artístico. Él tiene sesenta y tres años y vive en la ciudad Quintana Roo en Mexíco. Él es menos gordo y viejo. Mucho importante es él no es perezoso. Él es artista y mi me gusta su trabajador. Él tiene el pelo calvo y lleva gafas. Él pintar [mucho]{mucha}<ga:fm:det:an> gente, flora, ciudad, [perro]{perros}<na:ps:noun:inan> y gatos, y a veces frutas. Mi favorito de el su pinto es llamo " Farewell to anger". Mi me llamo [el]{los}<na:ps:det:inan> [mucho]{muchos}<na:ps:det:inan> colores para ejemplo [roja]{rojo}<ga:mf:noun:inan>, azul, verde, y amarillo. Él es chino tiene muy problema. Él tiene [una]{un}<ga:mf:det:inan> gato. El gato es muy guapo y gordo. A mi me gusta mirar el su pinto. Yo buscar a día viajar Leonid y pasar un rato con Leonid. Yo me gusta estudiar y compartir Leonid pinto con mis amigos y mi familia. Leonid es [una]{uno}<ga:mf:pron:an> de mi favorito pintar.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Él te llamo Leonid Afremov y él es pintor. Él está talentoso, trabajador, sobre todo muy artístico. Él tiene sesenta y tres años y vive en la ciudad Quintana Roo en Mexíco. Él es menos gordo y viejo. Mucho importante es él no es perezoso. Él es artista y mi me gusta su trabajador. Él tiene el pelo calvo y lleva gafas. Él pintar mucho gente, flora, ciudad, perro y gatos, y a veces frutas. Mi favorito de el su pinto es llamo " Farewell to anger". Mi me llamo el mucho colores para ejemplo roja, azul, verde, y amarillo. Él es chino tiene muy problema. Él tiene una gato. El gato es muy guapo y gordo. A mi me gusta mirar el su pinto. Yo buscar a día viajar Leonid y pasar un rato con Leonid. Yo me gusta estudiar y compartir Leonid pinto con mis amigos y mi familia. Leonid es una de mi favorito pintar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Leonid	Leonid	PROPN	_	_	3	obj	_	_
+5	Afremov	Afremov	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	pintor	pintor	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	talentoso	talentoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	sobre	sobre	ADP	_	_	10	advmod	_	_
+8	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	7	fixed	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	artístico	artístico	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sesenta	sesenta	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tres	tres	NUM	_	NumForm=Word|NumType=Card	3	compound	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	Quintana	Quintana	PROPN	_	_	11	appos	_	_
+13	Roo	Roo	PROPN	_	_	12	flat	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	Mexíco	Mexíco	PROPN	_	_	8	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	menos	menos	ADV	_	Degree=Cmp	4	advmod	_	_
+4	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	viejo	viejo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mucho	mucho	ADV	_	_	2	advmod	_	_
+2	importante	importante	ADJ	_	Number=Sing	7	advcl	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	perezoso	perezoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	artista	artista	NOUN	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	obl	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	trabajador	trabajador	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	calvo	calvo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	pintar	pintar	VERB	_	VerbForm=Inf	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	gente	gente	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	flora	flora	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	perro	perro	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	a	a	ADP	_	_	17	advmod	_	_
+16	veces	veces	NOUN	_	_	15	fixed	_	_
+17	frutas	fruta	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	de	de	ADP	_	_	6	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	pinto	pinto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	llamo	llamo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+10	Farewell	farewell	PROPN	_	_	8	appos	_	_
+11	to	to	ADP	_	_	10	flat	_	_
+12	anger	anger	PROPN	_	_	10	flat	_	_
+13	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obl	_	_
+3	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+6	colores	color	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	roja	rojo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	azul	azul	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	verde	verde	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	amarillo	amarillo	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	chino	chino	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	problema	problema	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gato	gato	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	gato	gato	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mirar	mirar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	pinto	pinto	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	buscar	buscar	VERB	_	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	_	_	5	advmod	_	_
+4	día	día	NOUN	_	_	3	fixed	_	_
+5	viajar	viajar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+6	Leonid	Leonid	PROPN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	pasar	pasar	VERB	_	VerbForm=Inf	5	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	rato	rato	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	Leonid	Leonid	PROPN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	estudiar	estudiar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	compartir	compartir	VERB	_	VerbForm=Inf	4	conj	_	_
+7	Leonid	Leonid	PROPN	_	_	6	obj	_	_
+8	pinto	pinto	NOUN	_	_	7	flat	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	familia	familia	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Leonid	Leonid	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+4	de	de	ADP	_	_	7	mark	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+6	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	pintar	pintar	VERB	_	VerbForm=Inf	3	csubj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

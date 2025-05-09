@@ -1,0 +1,316 @@
+# Unnamed: 0 = 169
+# id = 204971
+# prompt = terrible
+# quarter = F18
+# course = SPA 24
+# age = 18
+# gender = nan
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 5.0
+# writing ability = 5.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una experencia terrible que yo pase fue antes de las vaciones de acción de gracias hace apenas unos días. Hace unos días, hubo un gran incendió en *CITY*, *STATE*, y tristemente causo muchas muerte y la destrucción de un pueblo entero. Aunque este incidente ocurrió unas horas de aquí, la mayor parte de el estado tuvo una experiencia única lamentable. Por días y días consecutivos, los incendios causaron la formación de humo por el fuego. Todo el aire que respirábamos estaba contaminada del humo, y no era nada saludable para nadie. Los primeros días, el aire olía al humo, pero no se miraba de lo lejos. Aunque mucha gente salía como nada al aire, no era saludable por el olor. Hubo un día en específico que el aire se miraba tan oscuro por el humo, que la mayoría de los estudiantes aquí en *CITY* tuvieron una masara de aire para evitar respirar el humo. Las clases estaban cancelas por una semana entera, y muchos de los estudiantes estaban encerrados en sus cuartos, evitando salir a fuera y no oler el humo. Muchos de los estudiantes estaban frustrados con la administración, porque iban a ser obligados a presentarse en sus clases aunque no era saludable ni recomendado por los expertos. Esta ha sido una de las peores experiencias que lo he tenido que pasar, porque nuestra salud esta en riesgo y no pude salir afuera a tomar el aire fresco. Yo tuve mucho preocupación porque era algo peligroso para mucha gente.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	experencia	experencia	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	terrible	terrible	ADJ	_	Number=Sing	2	amod	_	_
+4	que	que	PRON	_	_	6	mark	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	pase	pasar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	antes	antes	ADV	_	_	0	root	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	vaciones	vación	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	acción	acción	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+16	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+17	apenas	apenas	ADV	_	_	19	advmod	_	_
+18	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	días	día	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	gran	gran	ADJ	_	Number=Sing	8	nsubj	_	_
+8	incendió	incender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	SYM	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	*STATE*	*state*	PUNCT	_	_	10	punct	_	_
+13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	tristemente	tristemente	ADV	_	_	16	advmod	_	_
+16	causo	caoner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+17	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	18	det	_	_
+18	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	destrucción	destrucción	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+25	entero	entero	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	4	mark	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	incidente	incidente	NOUN	_	Number=Sing	4	nsubj	_	_
+4	ocurrió	ocurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+5	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	horas	hora	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	aquí	aquí	ADV	_	_	6	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	12	amod	_	_
+12	parte	parte	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	estado	estado	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+16	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	única	único	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	_
+20	lamentable	lamentable	ADJ	_	Number=Sing	18	amod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	días	día	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	días	día	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+5	consecutivos	consecutivo	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	incendios	incendio	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	causaron	causar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	formación	formación	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	humo	humo	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	fuego	fuego	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	aire	aire	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	respirábamos	respirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	acl	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	contaminada	contaminado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	humo	humo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+13	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+14	nada	nada	ADV	_	_	15	advmod	_	_
+15	saludable	saludable	ADJ	_	Number=Sing	7	conj	_	_
+16	para	para	ADP	_	_	17	case	_	_
+17	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	15	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	aire	aire	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	olía	oliar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	al	a	ADP	_	_	9	case	_	_
+9	humo	humo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+11	pero	pero	CCONJ	_	_	14	cc	_	_
+12	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+13	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	miraba	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
+17	lejos	lejos	ADV	_	_	14	advmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	4	mark	_	_
+2	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	salía	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	nada	nada	PRON	_	Number=Sing|PronType=Neg	4	obl	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	aire	aire	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	saludable	saludable	ADJ	_	Number=Sing	0	root	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	olor	olor	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	en	en	ADP	_	_	3	advmod	_	_
+5	específico	específico	ADJ	_	_	4	fixed	_	_
+6	que	que	PRON	_	PronType=Rel	10	obl	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	aire	aire	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	miraba	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
+11	tan	tanto	ADV	_	_	12	advmod	_	_
+12	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	humo	humo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+17	que	que	SCONJ	_	_	26	mark	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	_
+20	de	de	ADP	_	_	19	case	_	_
+21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+22	estudiantes	estudiante	NOUN	_	Number=Plur	26	nsubj	_	_
+23	aquí	aquí	ADV	_	_	26	advmod	_	_
+24	en	en	ADP	_	_	25	case	_	_
+25	*CITY*	*city*	PROPN	_	_	23	obl	_	_
+26	tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+27	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	masara	masara	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	aire	aire	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_
+31	para	para	ADP	_	_	32	mark	_	_
+32	evitar	evitar	VERB	_	VerbForm=Inf	26	advcl	_	_
+33	respirar	respirar	VERB	_	VerbForm=Inf	32	xcomp	_	_
+34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	humo	humo	NOUN	_	Gender=Masc|Number=Sing	33	obj	_	_
+36	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	clases	clase	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	cancelas	cancelo	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	semana	semana	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	entera	entero	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+10	y	y	CCONJ	_	_	16	cc	_	_
+11	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	16	nsubj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	estudiantes	estudiante	NOUN	_	Number=Plur	11	nmod	_	_
+15	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+16	encerrados	encerrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	4	conj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+21	evitando	evitar	VERB	_	VerbForm=Ger	16	advcl	_	_
+22	salir	salir	VERB	_	VerbForm=Inf	21	xcomp	_	_
+23	a	a	ADP	_	_	24	case	_	_
+24	fuera	fuera	ADV	_	_	22	advmod	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
+27	oler	oler	VERB	_	VerbForm=Inf	22	conj	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	humo	humo	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	_
+30	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	6	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	estudiantes	estudiante	NOUN	_	Number=Plur	1	nmod	_	_
+5	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	frustrados	frustrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	administración	administración	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	porque	porque	SCONJ	_	_	12	mark	_	_
+12	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+13	a	a	ADP	_	_	15	mark	_	_
+14	ser	ser	AUX	_	VerbForm=Inf	12	cop	_	_
+15	obligados	obligar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	xcomp	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	presentarse	presentar	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	clases	clase	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	_
+21	aunque	aunque	SCONJ	_	_	24	mark	_	_
+22	no	no	ADV	_	Polarity=Neg	24	advmod	_	_
+23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	cop	_	_
+24	saludable	saludable	ADJ	_	Number=Sing	12	advcl	_	_
+25	ni	ni	CCONJ	_	_	26	cc	_	_
+26	recomendado	recomendado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	24	conj	_	_
+27	por	por	ADP	_	_	29	case	_	_
+28	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	expertos	experto	NOUN	_	Gender=Masc|Number=Plur	26	obl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	_
+4	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+5	de	de	ADP	_	_	8	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	peores	peor	ADJ	_	Degree=Cmp|Number=Plur	8	amod	_	_
+8	experiencias	experiencia	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+9	que	que	PRON	_	PronType=Rel	14	obl	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
+11	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+12	tenido	tener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+13	que	que	SCONJ	_	_	14	cc	_	_
+14	pasar	pasar	VERB	_	VerbForm=Inf	8	acl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+16	porque	porque	SCONJ	_	_	21	mark	_	_
+17	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	salud	salud	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	_
+19	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	riesgo	riesgo	NOUN	_	Gender=Masc|Number=Sing	14	advcl	_	_
+22	y	y	CCONJ	_	_	25	cc	_	_
+23	no	no	ADV	_	Polarity=Neg	25	advmod	_	_
+24	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	25	aux	_	_
+25	salir	salir	VERB	_	VerbForm=Inf	21	conj	_	_
+26	afuera	afuera	ADV	_	_	25	advmod	_	_
+27	a	a	ADP	_	_	28	mark	_	_
+28	tomar	tomar	VERB	_	VerbForm=Inf	25	advcl	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	aire	aire	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
+31	fresco	fresco	ADJ	_	Gender=Masc|Number=Sing	30	amod	_	_
+32	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	preocupación	preocupación	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	algo	algo	PRON	_	Number=Sing|PronType=Ind	8	advcl	_	_
+8	peligroso	peligroso	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	11	det	_	_
+11	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

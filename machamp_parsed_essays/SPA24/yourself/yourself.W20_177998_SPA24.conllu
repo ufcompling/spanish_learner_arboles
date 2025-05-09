@@ -1,0 +1,137 @@
+# Unnamed: 0 = 231
+# id = 177998
+# prompt = yourself
+# quarter = W20
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = English 16+years 
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y ha estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. Ha estado ahí por  13 años.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y [ha estado]{he estado}<fs:ct:aux:pn> aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. [Ha estado]{He estado}<fs:ct:aux:pn> ahí por  13 años.
+# verbs annotation ann2 = nan
+# corrected1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos y hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años: mi cumpleaños es el *BIRTH_DATE* de diciembre y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y he estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica, pero es un pueblo en donde todos se conocen. Nací en *CITY* José, pero crecí en *CITY*. Ha estado ahí por 13 años.
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y ha estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. Ha estado ahí por 13 años.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	crecí	crecir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	papas	papa	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	_
+16	/	/	PUNCT	_	PunctType=Colo	17	punct	_	_
+17	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	15	appos	_	_
+18	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	11	cc	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	cumpleaños	cumpleaños	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+8	*BIRTH_DATE*	*birth_date*	SYM	_	_	3	nmod	_	_
+9	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	nací	nacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	año	año	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	14	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llegue	llegar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	año	año	NOUN	_	_	1	obl	_	_
+7	2017	2017	NUM	_	NumForm=Digit|NumType=Card	6	compound	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	estado	estar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+11	aquí	aquí	ADV	_	_	10	advmod	_	_
+12	por	por	ADP	_	_	14	case	_	_
+13	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	_
+14	años	año	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Vengo	vengar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	bien	bien	ADV	_	_	6	advmod	_	_
+6	chiquito	chiquito	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
+13	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	bien	bien	ADV	_	_	5	advmod	_	_
+5	chica	chico	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	donde	donde	ADV	_	PronType=Rel	14	advmod	_	_
+12	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	14	nsubj	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	conocen	conocer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nací	nacir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	*City*	PROPN	_	_	1	dep	_	_
+4	*CITY*	*city*	PUNCT	_	_	3	punct	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	crecí	crecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	*city*	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	estado	estar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	ahí	ahí	ADV	_	_	2	advmod	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	13	13	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

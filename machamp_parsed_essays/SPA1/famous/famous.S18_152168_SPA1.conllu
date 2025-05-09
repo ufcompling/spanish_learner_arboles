@@ -1,0 +1,227 @@
+# Unnamed: 0 = 9
+# id = 152168
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 19
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = No other languages
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Mi cantante favorito es Changmin. Él es coreano y muy famoso en Corea. Habla el coreano y japonés. Tiene veintinueve años, pero más joven de lo que es. Es muy guapo y alto. Tiene el pelo marrón y corto. Tiene los ojos muy grande y atractivo. Los miembros de su familia son dos hermamas, papá y mamá. Su papá es maestro de coreano. Su concierto es muy maravilloso. Más de cincuenta mil personas van a el concierto cada años. La mayoria de concierto es en japón. ¡Quiero voy mucho! Tambien está compositor excelentes. Yo gusto la letra muy bien.  La mayoría de las veces las letras son triste, pero el más reciente está no triste. Él gusta cocinar y compartir las fotos de comida en Instagram muy a menudo. Estoy hambriento después ver las fotos. Tambien gusta leer. Él tiene un estente grande en su casa. Tambien compartir las fotos de libros en Instagram. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Mi cantante favorito es Changmin. Él es coreano y muy famoso en Corea. Habla el coreano y japonés. Tiene veintinueve años, pero más joven de lo que es. Es muy guapo y alto. Tiene el pelo marrón y corto. Tiene los ojos muy [grande]{grandes}<na:ps:adj:inan> y [atractivo]{atractivos}<na:ps:adj:inan>. Los miembros de su familia son dos hermamas, papá y mamá. Su papá es maestro de coreano. Su concierto es muy maravilloso. Más de cincuenta mil personas van a el concierto cada [años]{año}<na:sp:noun:inan>. La mayoria de concierto es en japón. ¡Quiero voy mucho! Tambien está [compositor]{compositores}<na:ps:noun:an> excelentes. Yo gusto la letra muy bien.  La mayoría de las veces las letras son [triste]{tristes}<na:ps:adj:inan>, pero [el]{la}<ga:fm:det:inan> más reciente está no triste. Él gusta cocinar y compartir las fotos de comida en Instagram muy a menudo. Estoy hambriento después ver las fotos. Tambien gusta leer. Él tiene un estente grande en su casa. Tambien compartir las fotos de libros en Instagram. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi cantante favorito es Changmin. Él es coreano y muy famoso en Corea. Habla el coreano y japonés. Tiene veintinueve años, pero más joven de lo que es. Es muy guapo y alto. Tiene el pelo marrón y corto. Tiene los ojos muy grande y atractivo. Los miembros de su familia son dos hermamas, papá y mamá. Su papá es maestro de coreano. Su concierto es muy maravilloso. Más de cincuenta mil personas van a el concierto cada años. La mayoria de concierto es en japón. ¡Quiero voy mucho! Tambien está compositor excelentes. Yo gusto la letra muy bien. La mayoría de las veces las letras son triste, pero el más reciente está no triste. Él gusta cocinar y compartir las fotos de comida en Instagram muy a menudo. Estoy hambriento después ver las fotos. Tambien gusta leer. Él tiene un estente grande en su casa. Tambien compartir las fotos de libros en Instagram.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cantante	cantante	NOUN	_	Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Changmin	Changmin	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	coreano	coreano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Corea	Corea	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coreano	coreano	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	japonés	japonés	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	veintinueve	veintinueve	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+7	joven	joven	ADJ	_	Number=Sing	1	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
+10	que	que	PRON	_	PronType=Rel	7	acl	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	alto	alto	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	marrón	marrón	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	corto	corto	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	atractivo	atractivo	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	familia	familia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	hermamas	hermama	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	papá	papá	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	papá	papá	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	maestro	maestro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	coreano	coreano	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	concierto	concierto	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	maravilloso	maravilloso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+2	de	de	ADP	_	_	1	case	_	_
+3	cincuenta	cincuenta	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+4	mil	mil	NUM	_	NumForm=Word|NumType=Card	3	compound	_	_
+5	personas	persona	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+6	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	concierto	concierto	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	cada	cada	DET	_	Number=Sing|PronType=Tot	11	det	_	_
+11	años	año	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mayoria	mayoria	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	concierto	concierto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	japón	japón	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+6	Tambien	tambien	ADV	_	_	8	advmod	_	_
+7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	compositor	compositor	NOUN	_	Gender=Masc|Number=Sing	2	advcl	_	_
+9	excelentes	excelente	ADJ	_	Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	gusto	gustar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	letra	letra	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	bien	bien	ADV	_	_	2	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+3	de	de	ADP	_	_	2	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+5	veces	vez	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	letras	letra	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+10	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+11	pero	pero	CCONJ	_	_	17	cc	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	más	más	ADV	_	Degree=Cmp	14	advmod	_	_
+14	reciente	reciente	ADJ	_	Number=Sing	17	nsubj	_	_
+15	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	triste	triste	ADJ	_	Number=Sing	9	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cocinar	cocinar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	compartir	compartir	VERB	_	VerbForm=Inf	3	conj	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	Instagram	Instagram	PROPN	_	_	7	nmod	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	a	a	ADP	_	_	2	advmod	_	_
+14	menudo	menudo	NOUN	_	_	13	fixed	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	hambriento	hambriento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	después	después	ADV	_	_	2	advmod	_	_
+4	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	2	advmod	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estente	estente	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	grande	grande	ADJ	_	Number=Sing	4	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	2	advmod	_	_
+2	compartir	compartir	VERB	_	VerbForm=Inf	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Instagram	Instagram	PROPN	_	_	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

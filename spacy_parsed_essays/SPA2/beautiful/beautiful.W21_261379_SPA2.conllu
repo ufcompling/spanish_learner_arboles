@@ -1,0 +1,465 @@
+# Unnamed: 0 = 21
+# id = 261379
+# prompt = beautiful
+# quarter = W21
+# course = SPA 2
+# age = 18
+# gender = I do not identify with either gender
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = De niña, mi abuelito contó a mi prima, mi hermana y yo sobre su vida en *PLACE*. Aprendimos que no vivió con los padres, no tuvo mucho dinero y fue muy difícil para él. Mi abuelito, se llama *FIRST_NAME*, y su hermana robaron muchas tiendas porque no tenían suficiente dinero para comer. Él fue un alborotador y no fue a la escuela mucho porque quiso hacer surf y pasar tiempo con sus amigos en las playas. Vivió en *PLACE* y más tarde, en un barco pequeño, pero no estuvo allí mucho. La isla era su casa. Amó su isla, pero sus guardias eran personas peligrosas y quiso ir. Decidió estar en el ejército y fue a *STATE* para ser un autor. Todavía mi abuelito tiene mucho dolor de su vida en *PLACE*, pero siempre tiene buenas cosas para compartir sobre su infancia en *CITY*. Mi primer viaje a *PLACE* fue en 2018. *FIRST_NAME* no pudo venir con nosotros porque tenía *AGE* años, pero me dijo sobre lugares que me quiso visitar. Me parecí como un sueño ver su escuela secundaria y las calles de viajes. Recuerdo cuando vi “*PLACE* *PLACE*,” y estuve emocionada porque él vivió cerca de allí. Quise hacer lo que *FIRST_NAME* hizo cuando vivía en *PLACE*. Comí la comida que le gusta, como mochi casero, verduras al vapor, “saimin” y pescado a la parrilla. Tuvo razón, los mariscos en *PLACE* eran excelentes. Escribí una entrada en mi diario sobre mi primer viaje. Escribí que “Es nuestro primer día aquí, pero siento la magia de las historias de mi abuelito. Hoy visitamos muchas tiendas viejas, como una tienda de “*PLACE* *PLACE*” que a *FIRST_NAME* le gusta, porque no la podemos encontrar aquí. Probamos restaurantes que a él le gustan, como “*PLACE* *PLACE*'', y lugares clásicos como “*PLACE*”. Entiendo su amor por las playas. Decidí hacer surf porque recordé que a *FIRST_NAME* lo disfruta. Tenía miedo, pero cuando nadaba, vi una tortuga y ahora, pienso que la envió para protegerme”. Estas vacaciones todavía son muy importantes para mí. Pude entender a mi abuelito porque finalmente conocí a su amor, *PLACE*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	De	de	ADP	_	_	2	case	_	_
+2	niña	niña	NOUN	_	_	6	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	abuelito	abuelito	NOUN	_	_	6	nsubj	_	_
+6	contó	contar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	prima	prima	NOUN	_	_	6	obj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	hermana	hermana	NOUN	_	_	6	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	yo	yo	PRON	_	_	6	conj	_	_
+15	sobre	sobre	ADP	_	_	17	case	_	_
+16	su	su	DET	_	_	17	det	_	_
+17	vida	vida	NOUN	_	_	14	nmod	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	*PLACE*	PLACE	PROPN	_	_	17	nmod	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Aprendimos	aprendimos	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	vivió	vivir	VERB	_	_	1	ccomp	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	padres	padre	NOUN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	no	no	ADV	_	_	10	advmod	_	_
+10	tuvo	tener	VERB	_	_	1	advcl	_	_
+11	mucho	mucho	DET	_	_	12	det	_	_
+12	dinero	dinero	NOUN	_	_	10	obj	_	_
+13	y	y	CCONJ	_	_	16	cc	_	_
+14	fue	ser	AUX	_	_	16	cop	_	_
+15	muy	mucho	ADV	_	_	16	advmod	_	_
+16	difícil	difícil	ADJ	_	_	10	conj	_	_
+17	para	para	ADP	_	_	18	case	_	_
+18	él	él	PRON	_	_	16	nmod	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuelito	abuelito	NOUN	_	_	5	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	hermana	hermana	NOUN	_	_	11	nsubj	_	_
+11	robaron	robar	VERB	_	_	5	conj	_	_
+12	muchas	mucho	DET	_	_	13	det	_	_
+13	tiendas	tienda	NOUN	_	_	11	obj	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	no	no	ADV	_	_	16	advmod	_	_
+16	tenían	tener	VERB	_	_	11	advcl	_	_
+17	suficiente	suficiente	ADJ	_	_	18	amod	_	_
+18	dinero	dinero	NOUN	_	_	16	obj	_	_
+19	para	para	ADP	_	_	20	mark	_	_
+20	comer	comer	VERB	_	_	18	acl	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	fue	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	alborotador	alborotador	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	fue	ser	AUX	_	_	10	cop	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	escuela	escuela	NOUN	_	_	4	nmod	_	_
+11	mucho	mucho	ADV	_	_	10	amod	_	_
+12	porque	porque	SCONJ	_	_	13	mark	_	_
+13	quiso	querer	VERB	_	_	4	advcl	_	_
+14	hacer	hacer	VERB	_	_	13	xcomp	_	_
+15	surf	surf	NOUN	_	_	14	obj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	pasar	pasar	VERB	_	_	14	conj	_	_
+18	tiempo	tiempo	NOUN	_	_	17	obj	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	sus	su	DET	_	_	21	det	_	_
+21	amigos	amigo	NOUN	_	_	17	obl	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	las	el	DET	_	_	24	det	_	_
+24	playas	playa	NOUN	_	_	17	obl	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Vivió	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	1	obl	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	más	más	ADV	_	_	6	advmod	_	_
+6	tarde	tarde	ADV	_	_	1	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	barco	barco	NOUN	_	_	1	obl	_	_
+11	pequeño	pequeño	ADJ	_	_	10	amod	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	pero	pero	CCONJ	_	_	15	cc	_	_
+14	no	no	ADV	_	_	15	advmod	_	_
+15	estuvo	estar	VERB	_	_	1	conj	_	_
+16	allí	allí	ADV	_	_	17	advmod	_	_
+17	mucho	mucho	ADV	_	_	15	advmod	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	isla	isla	NOUN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	casa	casa	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Amó	amó	VERB	_	_	0	ROOT	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	isla	isla	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	pero	pero	CCONJ	_	_	9	cc	_	_
+6	sus	su	DET	_	_	7	det	_	_
+7	guardias	guardia	NOUN	_	_	9	nsubj	_	_
+8	eran	ser	AUX	_	_	9	cop	_	_
+9	personas	persona	NOUN	_	_	1	conj	_	_
+10	peligrosas	peligroso	ADJ	_	_	9	amod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	quiso	querer	VERB	_	_	9	conj	_	_
+13	ir	ir	VERB	_	_	12	xcomp	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decidió	decidir	VERB	_	_	0	ROOT	_	_
+2	estar	estar	VERB	_	_	1	xcomp	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	ejército	ejército	NOUN	_	_	2	obl	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	fue	ser	AUX	_	_	9	cop	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*STATE*	STATE	PROPN	_	_	1	conj	_	_
+10	para	para	ADP	_	_	13	mark	_	_
+11	ser	ser	AUX	_	_	13	cop	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	autor	autor	NOUN	_	_	9	advcl	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	4	advmod	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	abuelito	abuelito	NOUN	_	_	4	nsubj	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	mucho	mucho	DET	_	_	6	det	_	_
+6	dolor	dolor	NOUN	_	_	4	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	vida	vida	NOUN	_	_	6	nmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	*PLACE*	PLACE	PROPN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	pero	pero	CCONJ	_	_	15	cc	_	_
+14	siempre	siempre	ADV	_	_	15	advmod	_	_
+15	tiene	tener	VERB	_	_	4	conj	_	_
+16	buenas	buena	ADJ	_	_	17	amod	_	_
+17	cosas	cosa	NOUN	_	_	15	obj	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	compartir	compartir	VERB	_	_	17	acl	_	_
+20	sobre	sobre	ADP	_	_	22	case	_	_
+21	su	su	DET	_	_	22	det	_	_
+22	infancia	infancia	NOUN	_	_	19	obl	_	_
+23	en	en	ADP	_	_	24	case	_	_
+24	*CITY*	CITY	PROPN	_	_	22	nmod	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	primer	primero	ADJ	_	_	3	amod	_	_
+3	viaje	viaje	NOUN	_	_	8	nsubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*PLACE*	PLACE	PROPN	_	_	3	nmod	_	_
+6	fue	ser	AUX	_	_	8	cop	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	2018	2018	NOUN	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	pudo	poder	AUX	_	_	4	aux	_	_
+4	venir	venir	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	nosotros	yo	PRON	_	_	4	obl	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	tenía	tener	VERB	_	_	4	advcl	_	_
+9	*AGE*	AGE	PROPN	_	_	8	nsubj	_	_
+10	años	año	NOUN	_	_	9	flat	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	me	yo	PRON	_	_	14	iobj	_	_
+14	dijo	decir	VERB	_	_	4	conj	_	_
+15	sobre	sobre	ADP	_	_	16	case	_	_
+16	lugares	lugar	NOUN	_	_	14	obl	_	_
+17	que	que	PRON	_	_	19	nsubj	_	_
+18	me	yo	PRON	_	_	19	iobj	_	_
+19	quiso	querer	VERB	_	_	16	acl	_	_
+20	visitar	visitar	VERB	_	_	19	xcomp	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	parecí	parecer	VERB	_	_	0	ROOT	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	sueño	sueño	NOUN	_	_	2	obl	_	_
+6	ver	ver	VERB	_	_	2	xcomp	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	escuela	escuela	NOUN	_	_	6	obj	_	_
+9	secundaria	secundario	ADJ	_	_	8	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	las	el	DET	_	_	12	det	_	_
+12	calles	calle	NOUN	_	_	8	conj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	viajes	viaje	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Recuerdo	recordar	VERB	_	_	0	ROOT	_	_
+2	cuando	cuando	SCONJ	_	_	3	mark	_	_
+3	vi	ver	VERB	_	_	1	advcl	_	_
+4	“	“	NOUN	_	_	5	punct	_	_
+5	*PLACE*	PLACE	PROPN	_	_	3	obj	_	_
+6	*PLACE*	PLACE	PROPN	_	_	5	flat	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	”	”	PUNCT	_	_	5	conj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	estuve	estar	AUX	_	_	11	aux	_	_
+11	emocionada	emocionar	VERB	_	_	1	conj	_	_
+12	porque	porque	SCONJ	_	_	14	mark	_	_
+13	él	él	PRON	_	_	14	nsubj	_	_
+14	vivió	vivir	VERB	_	_	11	advcl	_	_
+15	cerca	cerca	ADV	_	_	14	advmod	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	allí	allí	ADV	_	_	15	advmod	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quise	querer	VERB	_	_	0	ROOT	_	_
+2	hacer	hacer	VERB	_	_	1	xcomp	_	_
+3	lo	él	PRON	_	_	6	det	_	_
+4	que	que	PRON	_	_	6	obj	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	nsubj	_	_
+6	hizo	hacer	VERB	_	_	2	ccomp	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	vivía	vivir	VERB	_	_	6	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*PLACE*	PLACE	PROPN	_	_	8	obl	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Comí	Comí	PROPN	_	_	17	advmod	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	comida	comida	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	6	nsubj	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	gusta	gustar	VERB	_	_	3	acl	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	como	como	SCONJ	_	_	9	mark	_	_
+9	mochi	mochi	NOUN	_	_	6	obl	_	_
+10	casero	casero	PROPN	_	_	9	amod	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	verduras	verdura	NOUN	_	_	3	amod	_	_
+13	al	al	ADP	_	_	14	case	_	_
+14	vapor	vapor	NOUN	_	_	12	nmod	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	“	“	PROPN	_	_	17	nsubj	_	_
+17	saimin	saimin	VERB	_	_	0	ROOT	_	_
+18	”	”	PROPN	_	_	17	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	pescado	pescado	ADJ	_	_	18	conj	_	_
+21	a	a	ADP	_	_	23	case	_	_
+22	la	el	DET	_	_	23	det	_	_
+23	parrilla	parrilla	NOUN	_	_	20	obj	_	_
+24	.	.	PUNCT	_	_	17	punct	_	_
+
+1	Tuvo	tener	VERB	_	_	0	ROOT	_	_
+2	razón	razón	NOUN	_	_	1	obj	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	mariscos	marisco	NOUN	_	_	9	nsubj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*PLACE*	PLACE	PROPN	_	_	5	nmod	_	_
+8	eran	ser	AUX	_	_	9	cop	_	_
+9	excelentes	excelente	ADJ	_	_	1	advcl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Escribí	escribir	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	entrada	entrada	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	diario	diario	NOUN	_	_	3	nmod	_	_
+7	sobre	sobre	ADP	_	_	10	case	_	_
+8	mi	mi	DET	_	_	10	det	_	_
+9	primer	primero	ADJ	_	_	10	amod	_	_
+10	viaje	viaje	NOUN	_	_	3	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Escribí	Escribí	PROPN	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	“	“	PROPN	_	_	1	ccomp	_	_
+4	Es	ser	AUX	_	_	7	cop	_	_
+5	nuestro	nuestro	DET	_	_	7	det	_	_
+6	primer	primero	ADJ	_	_	7	amod	_	_
+7	día	día	NOUN	_	_	8	obl	_	_
+8	aquí	aquí	ADV	_	_	3	advmod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	siento	sentir	VERB	_	_	3	conj	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	magia	magia	NOUN	_	_	11	obj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	las	el	DET	_	_	16	det	_	_
+16	historias	historia	NOUN	_	_	13	nmod	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	abuelito	abuelito	NOUN	_	_	16	nmod	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	2	advmod	_	_
+2	visitamos	visitar	VERB	_	_	0	ROOT	_	_
+3	muchas	mucho	DET	_	_	4	det	_	_
+4	tiendas	tienda	NOUN	_	_	2	obj	_	_
+5	viejas	viejo	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	como	como	SCONJ	_	_	9	mark	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	tienda	tienda	NOUN	_	_	2	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	“	“	PROPN	_	_	9	nmod	_	_
+12	*PLACE*	PLACE	PROPN	_	_	11	flat	_	_
+13	*PLACE*	PLACE	PROPN	_	_	12	flat	_	_
+14	”	”	PUNCT	_	_	11	punct	_	_
+15	que	que	PRON	_	_	19	obj	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	19	obj	_	_
+18	le	él	PRON	_	_	19	obj	_	_
+19	gusta	gustar	VERB	_	_	9	acl	_	_
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	porque	porque	SCONJ	_	_	25	mark	_	_
+22	no	no	ADV	_	_	25	advmod	_	_
+23	la	él	PRON	_	_	25	obj	_	_
+24	podemos	poder	AUX	_	_	25	aux	_	_
+25	encontrar	encontrar	VERB	_	_	19	advcl	_	_
+26	aquí	aquí	ADV	_	_	25	advmod	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Probamos	probar	VERB	_	_	0	ROOT	_	_
+2	restaurantes	restaurante	NOUN	_	_	1	nsubj	_	_
+3	que	que	PRON	_	_	7	nsubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	él	él	PRON	_	_	7	obj	_	_
+6	le	él	PRON	_	_	7	obj	_	_
+7	gustan	gustar	VERB	_	_	2	acl	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	como	como	SCONJ	_	_	13	mark	_	_
+10	“	“	NOUN	_	_	13	punct	_	_
+11	*PLACE*	PLACE	PROPN	_	_	10	flat	_	_
+12	*PLACE*	PLACE	PROPN	_	_	11	flat	_	_
+13	''	''	PROPN	_	_	7	obl	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	lugares	lugar	NOUN	_	_	2	conj	_	_
+17	clásicos	clásico	ADJ	_	_	16	amod	_	_
+18	como	como	SCONJ	_	_	19	mark	_	_
+19	“	“	PROPN	_	_	16	nmod	_	_
+20	*PLACE*	PLACE	PROPN	_	_	19	flat	_	_
+21	”	”	PUNCT	_	_	1	punct	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Entiendo	entender	VERB	_	_	0	ROOT	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	amor	amor	NOUN	_	_	1	obj	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	playas	playa	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decidí	decidir	VERB	_	_	0	ROOT	_	_
+2	hacer	hacer	VERB	_	_	1	xcomp	_	_
+3	surf	surf	NOUN	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	recordé	recordar	VERB	_	_	1	advcl	_	_
+6	que	que	SCONJ	_	_	10	mark	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	obj	_	_
+9	lo	él	PRON	_	_	10	obj	_	_
+10	disfruta	disfrutar	VERB	_	_	5	ccomp	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	miedo	miedo	NOUN	_	_	1	obj	_	_
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	pero	pero	CCONJ	_	_	8	cc	_	_
+5	cuando	cuando	SCONJ	_	_	6	mark	_	_
+6	nadaba	nadar	VERB	_	_	8	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	vi	ver	VERB	_	_	14	advcl	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	tortuga	tortuga	NOUN	_	_	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	ahora	ahora	ADV	_	_	8	conj	_	_
+13	,	,	PUNCT	_	_	8	punct	_	_
+14	pienso	pensar	VERB	_	_	1	advcl	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	la	él	PRON	_	_	17	obj	_	_
+17	envió	enviar	VERB	_	_	14	ccomp	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	protegerme	protegerme	VERB	_	_	17	advcl	_	_
+20	”	”	PUNCT	_	_	14	punct	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estas	este	DET	_	_	2	det	_	_
+2	vacaciones	vacación	NOUN	_	_	6	nsubj	_	_
+3	todavía	todavía	ADV	_	_	6	advmod	_	_
+4	son	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	importantes	importante	ADJ	_	_	0	ROOT	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	mí	yo	PRON	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Pude	poder	AUX	_	_	2	aux	_	_
+2	entender	entender	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	abuelito	abuelito	NOUN	_	_	2	obj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	finalmente	finalmente	ADV	_	_	8	advmod	_	_
+8	conocí	conocí	VERB	_	_	2	advcl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	su	su	DET	_	_	11	det	_	_
+11	amor	amor	NOUN	_	_	8	obj	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	*PLACE*	PLACE	PROPN	_	_	11	appos	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+

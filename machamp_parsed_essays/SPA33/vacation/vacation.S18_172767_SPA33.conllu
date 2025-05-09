@@ -1,0 +1,316 @@
+# Unnamed: 0 = 21
+# id = 172767
+# prompt = vacation
+# quarter = S18
+# course = SPA 33
+# age = Female
+# gender = 19
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Un viaje al estado de Nueva York sería una vacación perfecta. Existe una variedad de actividades que puedes hacer durante tu tiempo en Nueva York. Para la gente que les encantan el teatre, pueden comprar boletos para mirar una obra de Broadway. Un paseo por Times Square sería muy interesante porque es algo completamente diferente de la experiencia de vivir en un ciudad pequeña. Siempre hay mucha gente y tráfico, y es imposible mirar en una dirección donde no hay un edificio grande. Si no te interesa ir a Times Square, puedes pasear por Central Park y relajar en el "Conservatory Garden" o mirar la naturaleza. Los entusiastas del arte pueden visitar el Solomon R. Guggenheim Museum para ver el arte de artistas como Pablo Picasso y Wassily Kandinsky o al Metropolitan Museum of Art. Si tienes dinero para gastar, puedes ir al famoso Fifth Avenue para ir de compras en tiendas como Tiffany & Co., Ann Taylor, y Saks Fifth Avenue. Hay muchos opciones en lo que puedes hacer durante tu tiempo en Nueva York y si es bastante díficil a decidir que hacer, puedes subirte en un autobús turístico para ver muchas cosas. Algo que me gustaría ser es ver el espectáculo de Saturday Night Live porque me encanta la comedia. Si tuviera el tiempo y el dinero me gustaría hacer todas las actividades que he mencionado anteriormente. Nueva York es una destino popular para vacaciones porque personas con diferente intereses pueden encontrar a algo que les gusta en la ciudad.
+# a personal annotator2 = nan
+# gender-number annotator1 = Un viaje al estado de Nueva York sería una [vacación]{vacaciones}<in:s:noun:inan> perfecta. Existe una variedad de actividades que puedes hacer durante tu tiempo en Nueva York. Para la gente que [les]{le}<na:sp:pron:an> encantan el [teatre]{teatro}<ig:e:noun:inan>, pueden comprar boletos para mirar una obra de Broadway. Un paseo por Times Square sería muy interesante porque es algo completamente diferente de la experiencia de vivir en [un]{una}<ga:fm:det:inan> ciudad pequeña. Siempre hay mucha gente y tráfico, y es imposible mirar en una dirección donde no hay un edificio grande. Si no te interesa ir a Times Square, puedes pasear por Central Park y relajar en el "Conservatory Garden" o mirar la naturaleza. Los entusiastas del arte pueden visitar el Solomon R. Guggenheim Museum para ver el arte de artistas como Pablo Picasso y Wassily Kandinsky o al Metropolitan Museum of Art. Si tienes dinero para gastar, puedes ir al famoso Fifth Avenue para ir de compras en tiendas como Tiffany & Co., Ann Taylor, y Saks Fifth Avenue. Hay [muchos]{muchas}<ga:fm:det:inan> opciones en lo que puedes hacer durante tu tiempo en Nueva York y si es bastante díficil a decidir que hacer, puedes subirte en un autobús turístico para ver muchas cosas. Algo que me gustaría ser es ver el espectáculo de Saturday Night Live porque me encanta la comedia. Si tuviera el tiempo y el dinero me gustaría hacer todas las actividades que he mencionado anteriormente. Nueva York es [una]{un}<ga:mf:det:inan> destino popular para vacaciones porque personas con [diferente]{diferentes}<na:ps:det:inan> intereses pueden encontrar a algo que les gusta en la ciudad.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un viaje al estado de Nueva York sería una vacación perfecta. Existe una variedad de actividades que puedes hacer durante tu tiempo en Nueva York. Para la gente que les encantan el teatre, pueden comprar boletos para mirar una obra de Broadway. Un paseo por Times Square sería muy interesante porque es algo completamente diferente de la experiencia de vivir en un ciudad pequeña. Siempre hay mucha gente y tráfico, y es imposible mirar en una dirección donde no hay un edificio grande. Si no te interesa ir a Times Square, puedes pasear por Central Park y relajar en el "Conservatory Garden" o mirar la naturaleza. Los entusiastas del arte pueden visitar el Solomon R. Guggenheim Museum para ver el arte de artistas como Pablo Picasso y Wassily Kandinsky o al Metropolitan Museum of Art. Si tienes dinero para gastar, puedes ir al famoso Fifth Avenue para ir de compras en tiendas como Tiffany & Co., Ann Taylor, y Saks Fifth Avenue. Hay muchos opciones en lo que puedes hacer durante tu tiempo en Nueva York y si es bastante díficil a decidir que hacer, puedes subirte en un autobús turístico para ver muchas cosas. Algo que me gustaría ser es ver el espectáculo de Saturday Night Live porque me encanta la comedia. Si tuviera el tiempo y el dinero me gustaría hacer todas las actividades que he mencionado anteriormente. Nueva York es una destino popular para vacaciones porque personas con diferente intereses pueden encontrar a algo que les gusta en la ciudad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	estado	estado	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Nueva	Nueva	PROPN	_	_	4	nmod	_	_
+7	York	York	PROPN	_	_	6	flat	_	_
+8	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vacación	vacación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	perfecta	perfecto	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	variedad	variedad	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	actividades	actividad	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+6	que	que	PRON	_	PronType=Rel	8	obj	_	_
+7	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	5	acl	_	_
+9	durante	durante	ADP	_	_	11	case	_	_
+10	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	11	det	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	Nueva	Nueva	PROPN	_	_	8	obl	_	_
+14	York	York	PROPN	_	_	13	flat	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Para	para	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	gente	gente	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+4	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+5	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	teatre	teatre	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+10	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	comprar	comprar	VERB	_	VerbForm=Inf	0	root	_	_
+12	boletos	boleto	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	mirar	mirar	VERB	_	VerbForm=Inf	11	advcl	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	obra	obra	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	Broadway	Broadway	PROPN	_	_	16	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	paseo	paseo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	Times	Times	PROPN	_	_	2	nmod	_	_
+5	Square	Square	PROPN	_	_	4	flat	_	_
+6	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	interesante	interesante	ADJ	_	Number=Sing	0	root	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	algo	algo	PRON	_	Number=Sing|PronType=Ind	8	advcl	_	_
+12	completamente	completamente	ADV	_	_	13	advmod	_	_
+13	diferente	diferente	ADJ	_	Number=Sing	11	amod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+17	de	de	ADP	_	_	18	mark	_	_
+18	vivir	vivir	VERB	_	VerbForm=Inf	16	acl	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+22	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	gente	gente	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	imposible	imposible	ADJ	_	Number=Sing	2	conj	_	_
+11	mirar	mirar	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	dirección	dirección	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	donde	donde	ADV	_	PronType=Rel	17	advmod	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
+18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	edificio	edificio	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	grande	grande	ADJ	_	Number=Sing	19	amod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Si	si	SCONJ	_	_	4	mark	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	interesa	interesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	Times	Times	PROPN	_	_	5	obl	_	_
+8	Square	Square	PROPN	_	_	7	flat	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	pasear	pasear	VERB	_	VerbForm=Inf	0	root	_	_
+12	por	por	ADP	_	_	13	case	_	_
+13	Central	Central	PROPN	_	_	11	obl	_	_
+14	Park	Park	PROPN	_	_	13	flat	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	relajar	relajar	VERB	_	VerbForm=Inf	11	conj	_	_
+17	en	en	ADP	_	_	20	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	"	"	PUNCT	_	PunctType=Quot	20	punct	_	_
+20	Conservatory	Conservatory	PROPN	_	_	16	obl	_	_
+21	Garden	Garden	PROPN	_	_	20	flat	_	_
+22	"	"	PUNCT	_	PunctType=Quot	20	punct	_	_
+23	o	o	CCONJ	_	_	24	cc	_	_
+24	mirar	mirar	VERB	_	VerbForm=Inf	11	conj	_	_
+25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	entusiastas	entusiasta	NOUN	_	Number=Plur	6	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	arte	arte	NOUN	_	Number=Sing	2	nmod	_	_
+5	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	visitar	visitar	VERB	_	VerbForm=Inf	0	root	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Solomon	Solomon	PROPN	_	_	6	obj	_	_
+9	R.	R.	PROPN	_	_	8	flat	_	_
+10	Guggenheim	Guggenheim	PROPN	_	_	8	flat	_	_
+11	Museum	Museum	PROPN	_	_	8	flat	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	ver	ver	VERB	_	VerbForm=Inf	6	advcl	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	arte	arte	NOUN	_	Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	artistas	artista	NOUN	_	Number=Plur	15	nmod	_	_
+18	como	como	SCONJ	_	_	19	mark	_	_
+19	Pablo	Pablo	PROPN	_	_	17	nmod	_	_
+20	Picasso	Picasso	PROPN	_	_	19	flat	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	Wassily	Wassily	PROPN	_	_	19	conj	_	_
+23	Kandinsky	Kandinsky	PROPN	_	_	22	flat	_	_
+24	o	o	CCONJ	_	_	26	cc	_	_
+25	al	a	ADP	_	_	26	case	_	_
+26	Metropolitan	Metropolitan	PROPN	_	_	19	conj	_	_
+27	Museum	Museum	PROPN	_	_	26	flat	_	_
+28	of	of	PROPN	_	_	26	flat	_	_
+29	Art	Art	PROPN	_	_	26	flat	_	_
+30	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	gastar	gastar	VERB	_	VerbForm=Inf	3	acl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	ir	ir	VERB	_	VerbForm=Inf	0	root	_	_
+9	al	a	ADP	_	_	11	case	_	_
+10	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	Fifth	Fifth	PROPN	_	_	8	obl	_	_
+12	Avenue	Avenue	PROPN	_	_	11	flat	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	ir	ir	VERB	_	VerbForm=Inf	8	advcl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	compras	compra	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
+19	como	como	SCONJ	_	_	20	mark	_	_
+20	Tiffany	Tiffany	PROPN	_	_	18	nmod	_	_
+21	&	&	PROPN	_	_	20	flat	_	_
+22	Co	Co	PROPN	_	_	20	flat	_	_
+23	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+2	Ann	Ann	PROPN	_	_	0	root	_	_
+3	Taylor	Taylor	PROPN	_	_	2	flat	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Saks	Saks	PROPN	_	_	2	conj	_	_
+7	Fifth	Fifth	PROPN	_	_	6	flat	_	_
+8	Avenue	Avenue	PROPN	_	_	6	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	opciones	opción	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	8	mark	_	_
+5	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	_
+6	que	que	PRON	_	PronType=Rel	8	obj	_	_
+7	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+9	durante	durante	ADP	_	_	11	case	_	_
+10	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	11	det	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	Nueva	Nueva	PROPN	_	_	8	obl	_	_
+14	York	York	PROPN	_	_	13	flat	_	_
+15	y	y	CCONJ	_	_	26	cc	_	_
+16	si	si	SCONJ	_	_	19	mark	_	_
+17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	bastante	bastante	ADV	_	_	19	advmod	_	_
+19	díficil	díficil	ADJ	_	Number=Sing	26	advcl	_	_
+20	a	a	ADP	_	_	21	mark	_	_
+21	decidir	decidir	VERB	_	VerbForm=Inf	19	acl	_	_
+22	que	que	SCONJ	_	_	23	mark	_	_
+23	hacer	hacer	VERB	_	VerbForm=Inf	21	xcomp	_	_
+24	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+25	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	subirte	subir	VERB	_	VerbForm=Inf	1	conj	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	autobús	autobús	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	_
+30	turístico	turístico	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	_
+31	para	para	ADP	_	_	32	mark	_	_
+32	ver	ver	VERB	_	VerbForm=Inf	26	advcl	_	_
+33	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	34	det	_	_
+34	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	32	obj	_	_
+35	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Algo	algo	PRON	_	Number=Sing|PronType=Ind	6	nsubj	_	_
+2	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	acl	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	4	csubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	6	ccomp	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	espectáculo	espectáculo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Saturday	Saturday	PROPN	_	_	9	nmod	_	_
+12	Night	Night	PROPN	_	_	11	flat	_	_
+13	Live	Live	PROPN	_	_	11	flat	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	comedia	comedia	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+10	hacer	hacer	VERB	_	VerbForm=Inf	9	csubj	_	_
+11	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	12	det	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	actividades	actividad	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+14	que	que	PRON	_	PronType=Rel	16	obj	_	_
+15	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	mencionado	mencionar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+17	anteriormente	anteriormente	ADV	_	_	16	advmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Nueva	Nueva	PROPN	_	_	5	nsubj	_	_
+2	York	York	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	destino	destino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	popular	popular	ADJ	_	Number=Sing	5	amod	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+9	porque	porque	SCONJ	_	_	15	mark	_	_
+10	personas	persona	NOUN	_	Gender=Fem|Number=Plur	15	nsubj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	diferente	diferente	ADJ	_	Number=Sing	13	amod	_	_
+13	intereses	interés	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+14	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	encontrar	encontrar	VERB	_	VerbForm=Inf	5	advcl	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	algo	algo	PRON	_	Number=Sing|PronType=Ind	15	obj	_	_
+18	que	que	PRON	_	PronType=Rel	20	nsubj	_	_
+19	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	20	obj	_	_
+20	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

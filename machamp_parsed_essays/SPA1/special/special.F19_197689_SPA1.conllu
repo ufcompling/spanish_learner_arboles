@@ -1,0 +1,179 @@
+# Unnamed: 0 = 23
+# id = 197689
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no 
+# language(s) studied = none
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi madre es una persona importante en mi vida. Mi madra es muy importante porque ella simepre eschucha [me]{mis}<na:det> problemas y habla da consejo. Ella es una [mejor]{mejores}<na:adj> amigas y [nosotros]{}<pr:su:pron> pasamos [mucha]{mucho}<ga:adj> tiempo juntas. Algunas cosas mi madre y yo [hacen]{hacemos}<fs:st:pn> es [nosotros]{}<pr:su:pron> caminar mi perro, Eddie, en el parque, [compramos]{comprar}<fs:st:t> en el centro comercial, y [ccocinamos]{cocinar}<fs:st:t> mucha comida. [Las]{La}<na:det> [comidas]{comida}<na:noun> [favoritas]{favorita}<na:adj> [roja pasta]{pasta roja}<col:adj> con carne. Mi abuela, *FIRST_NAME*, [enseña]{enseñó}<fs:st:t> mi madre y yo la receta. *FIRST_NAME* [aprenda]{aprendió}<fs:st:t:mo> la receta por ella abuela. Cuando en la escuela de *CITY* [yo]{}<pr:su:pron> extraño my madre y padre mucho pero [yo]{}<pr:su:pron> vivo una hora para mi casa y [yo]{}<pr:su:pron> puedo montar el tren. Por []{el}<ab:det:art:def> mi madres cumpleanos ella y yo simpre compramos y comamos combia [bueno]{buena}<ga:adj> en [la]{el}<ga:det> resturante.
+# updated annotation ann2 = Mi madre es una persona importante en mi vida. Mi madra es muy importante porque ella [ella]{}<pr:su:pron> simepre eschucha me problemas y habla da consejo. Ella es una mejor amigas [amigas]{amiga}<na:noun> y nosotros [nosotros]{nosotras}<gat:pron> pasamos mucha [mucha]{mucho}{ga:det> tiempo juntas. Algunas cosas mi madre y yo hacen [hacen]{hacemos}<fs:st:pn> es [es]{son}<fs:st:pn> nosotros [nosotros]{nosotras}<gat:pron> caminar [caminar]{paseamos}<fs:st:t> mi perro, Eddie, en el parque, compramos en el centro comercial, y ccocinamos mucha comida. Las [las]{la}<in:det> comidas [comidas]{comida}<in:noun> favoritas [favoritas]{favorita}<in:adj> roja pasta [roja pasta]{pasta roja}<col:adj> con carne. Mi abuela, *FIRST_NAME*, enseña [enseña]{enseñó}<fs:st:t> mi madre y yo la receta. *FIRST_NAME* aprenda [aprenda]{aprende}<fs:st:mo> la receta por ella abuela. Cuando en la escuela de *CITY* yo extraño my madre y padre mucho pero yo [yo]{}<pr:su:pron> vivo una hora para mi casa y yo puedo montar el tren. Por mi madres cumpleanos ella y yo simpre compramos y comamos [comamos]{comemos}<fs:st:mo> combia bueno [bueno]{buena}<ga:adj> en la [la]{el}<ga: det> resturante.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi madre es una persona importante en mi vida. Mi madre es muy importante porque ella siempre escucha mis problemas y me da consejo. Ella es una de mis mejores amigas y pasamos mucho tiempo juntas. Algunas cosas que mi madre y yo hacemos es pasear a mi perro, Eddie, en el parque, comprar en el centro comercial y cocinar mucha comida. Nuestra comida favorita es pasta roja con carne. Mi abuela, *FIRST_NAME*, nos enseñó a mi madre y a mí la receta. *FIRST_NAME* aprendió la receta por su abuela. Cuando estoy en la escuela de *CITY* extraño a mi madre y a mi padre mucho, pero vivo a una hora de mi casa y puedo ir en tren. Por el cumpleaños de mi madre, ella y yo siempre compramos y comemos comida buena en el restaurante.
+# corrected2 = nan
+# text = Mi madre es una persona importante en mi vida. Mi madra es muy importante porque ella simepre eschucha me problemas y habla da consejo. Ella es una mejor amigas y nosotros pasamos mucha tiempo juntas. Algunas cosas mi madre y yo hacen es nosotros caminar mi perro, Eddie, en el parque, compramos en el centro comercial, y ccocinamos mucha comida. Las comidas favoritas roja pasta con carne. Mi abuela, *FIRST_NAME*, enseña mi madre y yo la receta. *FIRST_NAME* aprenda la receta por ella abuela. Cuando en la escuela de *CITY* yo extraño my madre y padre mucho pero yo vivo una hora para mi casa y yo puedo montar el tren. Por mi madres cumpleanos ella y yo simpre compramos y comamos combia bueno en la resturante.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	importante	importante	ADJ	_	Number=Sing	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madra	madra	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	simepre	simepre	NOUN	_	_	7	flat	_	_
+9	eschucha	eschuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+11	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+14	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	consejo	consejo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+5	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	juntas	junto	ADJ	_	Gender=Fem|Number=Plur	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	0	root	_	_
+10	caminar	caminar	VERB	_	VerbForm=Inf	9	acl	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	perro	perro	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	Eddie	Eddie	PROPN	_	_	12	appos	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	parque	parque	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+20	compramos	comprar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	centro	centro	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+24	comercial	comercial	ADJ	_	Number=Sing	23	amod	_	_
+25	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	ccocinamos	ccocinar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	conj	_	_
+28	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	29	det	_	_
+29	comida	comida	NOUN	_	Gender=Fem|Number=Sing	27	obj	_	_
+30	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	roja	rojo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	carne	carne	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	appos	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	madre	madre	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+11	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	receta	recetar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	aprenda	aprendar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	receta	receta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+7	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	8	mark	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*CITY*	*City*	PROPN	_	_	4	nmod	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	extraño	extrañar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	padre	padre	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+13	mucho	mucho	ADV	_	_	8	advmod	_	_
+14	pero	pero	CCONJ	_	_	16	cc	_	_
+15	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	hora	hora	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+19	para	para	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	casa	casa	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+22	y	y	CCONJ	_	_	25	cc	_	_
+23	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+24	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	montar	montar	VERB	_	VerbForm=Inf	16	conj	_	_
+26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	tren	tren	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	_
+28	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Por	por	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	madres	madre	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+4	cumpleanos	cumplear	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	simpre	simpre	NOUN	_	_	9	advmod	_	_
+9	compramos	comprar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	comamos	comar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	combia	combia	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+13	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	resturante	resturante	NOUN	_	Number=Sing	12	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

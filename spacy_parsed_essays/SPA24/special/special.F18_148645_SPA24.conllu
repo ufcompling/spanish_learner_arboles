@@ -1,0 +1,314 @@
+# Unnamed: 0 = 190
+# id = 148645
+# prompt = special
+# quarter = F18
+# course = SPA 24
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una "persona" especial en mi vida es mi perrita *FIRST_NAME*. *FIRST_NAME* es una mezcla de Chihuahua y Spaniel y tiene cinco años. Ella es una perra perfecta y [nosotros]{}<pr:su:pron> [son]{somos}<fs:st:pn> muchas buenas amigas. Ella es siempre amorosa conmigo y [ella]{}<pr:su:pron> le gusta salir conmigo a la calle o la playa. [Ella]{}<pr:su:pron> encanta la playa pero no mucho con otros perros porque [ella]{}<pr:su:pron> le gusta a las personas mas que los animales. Su playa favorita es en el *PLACE* porque el agua no es de sal y también es más privada que en *CITY*. Pero también, ella le gusta el mar pero no le gusta el sabor [de la]{del}<ga:det> agua. Cuando [ella]{}<pr:su:pron> era más poquito, mi familia y yo vuelan con ella pero recientemente [ella]{}<pr:su:pron> no le [gusta]{gustan}<fs:st:pn> los aviones porque es necesario quedar en el suelo pero ella quiere sentar con nosotros. También [ella]{}<pr:su:pron> le encanta caminar con mi o mi familia. [Ella]{}<pr:su:pron> le gusta [ola]{oler}<fs:st:t> a todas de las plantas y cosas en el suelo y ladra a otros perros y personas en [el]{la}<ga:det> calle. Recientemente, puse su collar en *FIRST_NAME* porque pienso que es muy linda pero usualmente *FIRST_NAME* queda en mi casa y no le gusta su collar pero ahora, [ella]{}<pr:su:pron> lo gusta más. Es bien por dos razones porque es más seguro así que ella esta [perdido]{perdida}<ga:adj> y también ella es (si es posible) más linda que antes. Me encanta mi perrita porque [ella]{}<pr:su:pron> es muy amable y da a mi mucho apoyo cuando puede sentir mi tristeza.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una "persona" especial en mi vida es mi perrita *FIRST_NAME*. *FIRST_NAME* es una mezcla de Chihuahua y Spaniel y tiene cinco años. Es una perra perfecta y somos muy buenas amigas. Siempre es amorosa conmigo y a ella le gusta salir conmigo a la calle o la playa. Le encanta la playa pero no mucho con otros perros porque le gustan las personas más que los animales. Su playa favorita está en el *PLACE* porque el agua no es de sal y también es más privada que en *CITY*. Pero también, a ella le gusta el mar pero no le gusta el sabor del agua. Cuando era más pequeña, mi familia y yo volábamos con ella pero recientemente a ella no le gustan los aviones porque es necesario quedar en el suelo pero ella quiere sentarse con nosotros. También a ella le encanta caminar conmigo o mi familia. Le gusta oler todas las plantas y cosas en el suelo y ladra a otros perros y personas en la calle. Recientemente, puse su collar en *FIRST_NAME* porque pienso que es muy linda pero usualmente *FIRST_NAME* se queda en mi casa y no le gusta su collar pero ahora, a ella le gusta más. Está bien por dos razones porque es más seguro así si se pierde y también está (si es posible) más linda que antes. Me encanta mi perrita porque es muy amable y me da a mi mucho apoyo cuando puede sentir mi tristeza.
+# corrected2 = nan
+# text = Una "persona" especial en mi vida es mi perrita *FIRST_NAME*. *FIRST_NAME* es una mezcla de Chihuahua y Spaniel y tiene cinco años. Ella es una perra perfecta y nosotros son muchas buenas amigas. Ella es siempre amorosa conmigo y ella le gusta salir conmigo a la calle o la playa. Ella encanta la playa pero no mucho con otros perros porque ella le gusta a las personas mas que los animales. Su playa favorita es en el *PLACE* porque el agua no es de sal y también es más privada que en *CITY*. Pero también, ella le gusta el mar pero no le gusta el sabor de la agua. Cuando ella era más poquito, mi familia y yo vuelan con ella pero recientemente ella no le gusta los aviones porque es necesario quedar en el suelo pero ella quiere sentar con nosotros. También ella le encanta caminar con mi o mi familia. Ella le gusta ola a todas de las plantas y cosas en el suelo y ladra a otros perros y personas en el calle. Recientemente, puse su collar en *FIRST_NAME* porque pienso que es muy linda pero usualmente *FIRST_NAME* queda en mi casa y no le gusta su collar pero ahora, ella lo gusta más. Es bien por dos razones porque es más seguro así que ella esta perdido y también ella es (si es posible) más linda que antes. Me encanta mi perrita porque ella es muy amable y da a mi mucho apoyo cuando puede sentir mi tristeza.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	3	det	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
+3	persona	persona	NOUN	_	_	11	nsubj	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	especial	especial	ADJ	_	_	3	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	vida	vida	NOUN	_	_	3	nmod	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	mi	mi	DET	_	_	11	nsubj	_	_
+11	perrita	perritar	VERB	_	_	0	ROOT	_	_
+12	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	11	nsubj	_	_
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	mezcla	mezcla	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Chihuahua	Chihuahua	PROPN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	Spaniel	Spaniel	PROPN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tiene	tener	VERB	_	_	4	conj	_	_
+11	cinco	cinco	NUM	_	_	12	nummod	_	_
+12	años	año	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	perra	perra	NOUN	_	_	0	ROOT	_	_
+5	perfecta	perfecto	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	nosotros	yo	PRON	_	_	11	nsubj	_	_
+8	son	ser	AUX	_	_	11	cop	_	_
+9	muchas	mucho	DET	_	_	11	det	_	_
+10	buenas	buena	ADJ	_	_	11	amod	_	_
+11	amigas	amiga	NOUN	_	_	4	amod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	amorosa	amoroso	ADJ	_	_	0	ROOT	_	_
+5	conmigo	conmigo	NOUN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	ella	él	PRON	_	_	9	nsubj	_	_
+8	le	él	PRON	_	_	9	iobj	_	_
+9	gusta	gustar	VERB	_	_	4	conj	_	_
+10	salir	salir	VERB	_	_	9	csubj	_	_
+11	conmigo	yo	PRON	_	_	14	case	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	calle	calle	NOUN	_	_	10	obl	_	_
+15	o	o	CCONJ	_	_	17	cc	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	playa	playa	NOUN	_	_	14	conj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	playa	playa	NOUN	_	_	2	obj	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	mucho	mucho	ADV	_	_	4	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	otros	otro	DET	_	_	10	det	_	_
+10	perros	perro	NOUN	_	_	2	obj	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	ella	él	PRON	_	_	14	nsubj	_	_
+13	le	él	PRON	_	_	14	obj	_	_
+14	gusta	gustar	VERB	_	_	2	advcl	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	las	el	DET	_	_	17	det	_	_
+17	personas	persona	NOUN	_	_	14	obj	_	_
+18	mas	mas	ADV	_	_	17	amod	_	_
+19	que	que	SCONJ	_	_	21	mark	_	_
+20	los	el	DET	_	_	21	det	_	_
+21	animales	animal	NOUN	_	_	17	nmod	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	playa	playa	NOUN	_	_	4	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+8	porque	porque	SCONJ	_	_	14	mark	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	agua	agua	NOUN	_	_	14	nsubj	_	_
+11	no	no	ADV	_	_	14	advmod	_	_
+12	es	ser	AUX	_	_	14	cop	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	sal	sal	NOUN	_	_	7	advcl	_	_
+15	y	y	CCONJ	_	_	19	cc	_	_
+16	también	también	ADV	_	_	19	advmod	_	_
+17	es	ser	AUX	_	_	19	cop	_	_
+18	más	más	ADV	_	_	19	advmod	_	_
+19	privada	privado	ADJ	_	_	14	conj	_	_
+20	que	que	SCONJ	_	_	22	mark	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	*CITY*	CITY	PROPN	_	_	19	obl	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	también	también	ADV	_	_	6	advmod	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ella	él	PRON	_	_	6	nsubj	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	mar	mar	NOUN	_	_	6	nsubj	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	_	12	advmod	_	_
+11	le	él	PRON	_	_	12	obj	_	_
+12	gusta	gustar	VERB	_	_	6	conj	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	sabor	sabor	NOUN	_	_	12	nsubj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	agua	agua	NOUN	_	_	14	nmod	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	5	mark	_	_
+2	ella	él	PRON	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	más	más	ADV	_	_	5	advmod	_	_
+5	poquito	poquito	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	familia	familia	NOUN	_	_	5	dep	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	yo	yo	PRON	_	_	11	nsubj	_	_
+11	vuelan	vuelir	VERB	_	_	5	conj	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	ella	él	PRON	_	_	11	obl	_	_
+14	pero	pero	CCONJ	_	_	19	cc	_	_
+15	recientemente	recientemente	ADV	_	_	19	advmod	_	_
+16	ella	él	PRON	_	_	19	nsubj	_	_
+17	no	no	ADV	_	_	19	advmod	_	_
+18	le	él	PRON	_	_	19	obj	_	_
+19	gusta	gustar	VERB	_	_	11	conj	_	_
+20	los	el	DET	_	_	21	det	_	_
+21	aviones	avión	NOUN	_	_	19	nsubj	_	_
+22	porque	porque	SCONJ	_	_	24	mark	_	_
+23	es	ser	AUX	_	_	24	cop	_	_
+24	necesario	necesario	ADJ	_	_	19	advcl	_	_
+25	quedar	quedar	VERB	_	_	24	csubj	_	_
+26	en	en	ADP	_	_	28	case	_	_
+27	el	el	DET	_	_	28	det	_	_
+28	suelo	suelo	NOUN	_	_	25	obl	_	_
+29	pero	pero	CCONJ	_	_	31	cc	_	_
+30	ella	él	PRON	_	_	31	nsubj	_	_
+31	quiere	querer	VERB	_	_	24	conj	_	_
+32	sentar	sentar	VERB	_	_	31	xcomp	_	_
+33	con	con	ADP	_	_	34	case	_	_
+34	nosotros	yo	PRON	_	_	32	obl	_	_
+35	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	ella	él	PRON	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	encanta	encantar	VERB	_	_	0	ROOT	_	_
+5	caminar	caminar	VERB	_	_	4	csubj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	mi	mi	DET	_	_	5	obj	_	_
+8	o	o	CCONJ	_	_	10	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	familia	familia	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	ola	ola	NOUN	_	_	3	obj	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	todas	todas	NOUN	_	_	3	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	plantas	planta	NOUN	_	_	6	nmod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	cosas	cosa	NOUN	_	_	9	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	suelo	suelo	NOUN	_	_	6	nmod	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	ladra	ladra	NOUN	_	_	14	conj	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	otros	otro	DET	_	_	19	det	_	_
+19	perros	perro	NOUN	_	_	3	obj	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	personas	persona	NOUN	_	_	19	conj	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	el	el	DET	_	_	24	det	_	_
+24	calle	calle	NOUN	_	_	3	obl	_	_
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Recientemente	recientemente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	puse	poner	VERB	_	_	0	ROOT	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	collar	collar	NOUN	_	_	3	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	obl	_	_
+8	porque	porque	SCONJ	_	_	9	mark	_	_
+9	pienso	pensar	VERB	_	_	3	advcl	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	linda	lindo	ADJ	_	_	9	ccomp	_	_
+14	pero	pero	CCONJ	_	_	17	cc	_	_
+15	usualmente	usualmente	ADV	_	_	16	advmod	_	_
+16	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	17	nsubj	_	_
+17	queda	quedar	VERB	_	_	13	conj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	mi	mi	DET	_	_	20	det	_	_
+20	casa	casa	NOUN	_	_	17	obl	_	_
+21	y	y	CCONJ	_	_	24	cc	_	_
+22	no	no	ADV	_	_	24	advmod	_	_
+23	le	él	PRON	_	_	24	obj	_	_
+24	gusta	gustar	VERB	_	_	13	conj	_	_
+25	su	su	DET	_	_	26	det	_	_
+26	collar	collar	NOUN	_	_	24	nsubj	_	_
+27	pero	pero	CCONJ	_	_	32	cc	_	_
+28	ahora	ahora	ADV	_	_	32	advmod	_	_
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	ella	él	PRON	_	_	32	nsubj	_	_
+31	lo	él	PRON	_	_	32	obj	_	_
+32	gusta	gustar	VERB	_	_	24	conj	_	_
+33	más	más	ADV	_	_	32	advmod	_	_
+34	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	bien	bien	ADV	_	_	25	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	dos	dos	NUM	_	_	5	nummod	_	_
+5	razones	razón	NOUN	_	_	2	obl	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	más	más	ADV	_	_	9	advmod	_	_
+9	seguro	seguro	ADJ	_	_	2	advcl	_	_
+10	así	así	ADV	_	_	9	advmod	_	_
+11	que	que	SCONJ	_	_	18	mark	_	_
+12	ella	él	PRON	_	_	18	nsubj	_	_
+13	esta	este	DET	_	_	14	det	_	_
+14	perdido	perdido	ADJ	_	_	12	nsubj	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	también	también	ADV	_	_	17	advmod	_	_
+17	ella	él	PRON	_	_	14	conj	_	_
+18	es	ser	AUX	_	_	9	csubj	_	_
+19	(	(	PUNCT	_	_	22	punct	_	_
+20	si	si	SCONJ	_	_	22	mark	_	_
+21	es	ser	AUX	_	_	22	cop	_	_
+22	posible	posible	ADJ	_	_	25	advcl	_	_
+23	)	)	PUNCT	_	_	22	punct	_	_
+24	más	más	ADV	_	_	25	advmod	_	_
+25	linda	lindo	ADJ	_	_	0	ROOT	_	_
+26	que	que	SCONJ	_	_	27	mark	_	_
+27	antes	antes	ADV	_	_	25	advmod	_	_
+28	.	.	PUNCT	_	_	25	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	mi	mi	DET	_	_	4	nsubj	_	_
+4	perrita	perritar	VERB	_	_	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	ella	él	PRON	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	amable	amable	ADJ	_	_	4	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	da	dar	VERB	_	_	9	conj	_	_
+12	a	a	ADP	_	_	15	case	_	_
+13	mi	mi	DET	_	_	15	det	_	_
+14	mucho	mucho	DET	_	_	15	amod	_	_
+15	apoyo	apoyo	NOUN	_	_	11	obj	_	_
+16	cuando	cuando	SCONJ	_	_	18	mark	_	_
+17	puede	poder	AUX	_	_	18	aux	_	_
+18	sentir	sentir	VERB	_	_	11	advcl	_	_
+19	mi	mi	DET	_	_	20	det	_	_
+20	tristeza	tristeza	NOUN	_	_	18	nsubj	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+

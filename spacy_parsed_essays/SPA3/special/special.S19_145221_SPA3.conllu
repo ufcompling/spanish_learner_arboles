@@ -1,0 +1,326 @@
+# Unnamed: 0 = 53
+# id = 145221
+# prompt = special
+# quarter = S19
+# course = SPA 3
+# age = 22
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Hindi
+# language(s) used at home = Hindi
+# language(s) studied = English-17 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mamá es la persona más especial de mi vida. Nació el *BIRTH_DATE* en la India y ahora tiene *AGE* años. [Ella]{}<pr:su:pron> tiene 1 hermana y 1 hermano. [Ella]{}<pr:su:pron> es la hija mayor de sus padres. Se casó cuando tenía dieciocho años hasta mi día. Cuando tenía 19 años,me dio a luz y un año después a mi hermano. [Ella]{}<pr:su:pron> tiene el pelo corto y negro y una cara redonda. [Ella]{}<pr:su:pron> tiene una piel clara. [Ella]{}<pr:su:pron> es una persona social y le encanta hacer nuevos amigos. Le encanta viajar con su familia y amigos. Además de eso, a ella también le encanta comer, pero puede comer comida picante porque [ella]{}<pr:su:pron> tiene un problema enla boca. En su tiempo libre, ve películas o habla con sus amigos y familiares. Mi mamá también es muy emocional y sensible. Cuando ve una película triste empieza a llorar.A mi mamá también le gusta cocinar y sabe hacer muchos platos como pasta, pizza, fideos y comida india. [Ella]{}<pr:su:pron> también tiene un diente dulce. Le encanta comer dulces pero tiene diabetes, por lo que no puede comerlos tanto. Mi madre también tiene asma, por lo que todo lo que la rodea necesita estar limpio, de lo contrario se enferma de polvo. Mi madre es maestra en la escuela para niños con problemas de desarrollo neurológico. A ella le encanta trabajar con niños en la escuela. Amo a mi madre mucho porque [ella]{}<pr:su:pron> es la mejor y [ella]{}<pr:su:pron> también me quiere mucho.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es la persona más especial de mi vida. Nació el *BIRTH_DATE* en la India y ahora tiene *AGE* años. Tiene 1 hermana y 1 hermano.  Es la hija mayor de sus padres. Se casó cuando tenía dieciocho años hasta mi día. Cuando tenía 19 años,me dio a luz y un año después a mi hermano.  Tiene el pelo corto y negro y una cara redonda.   Tiene una piel clara.  Es una persona social y le encanta hacer nuevos amigos. Le encanta viajar con su familia y amigos. Además de eso, a ella también le encanta comer, pero no puede comer comida picante porque  tiene un problema en la boca. En su tiempo libre, ve películas o habla con sus amigos y familiares. Mi mamá también es muy emocional y sensible. Cuando ve una película triste empieza a llorar.A mi mamá también le gusta cocinar y sabe hacer muchos platos como pasta, pizza, fideos y comida india.  También tiene un diente dulce. Le encanta comer dulces pero tiene diabetes, por lo que no puede comerlos tanto. Mi madre también tiene asma, por lo que todo lo que la rodea necesita estar limpio, de lo contrario se enferma de polvo. Mi madre es maestra en la escuela para niños con problemas de desarrollo neurológico. A ella le encanta trabajar con niños en la escuela. Amo a mi madre mucho porque  es la mejor y  también me quiere mucho.
+# corrected2 = nan
+# text = Mi mamá es la persona más especial de mi vida. Nació el *BIRTH_DATE* en la India y ahora tiene *AGE* años. Ella tiene 1 hermana y 1 hermano. Ella es la hija mayor de sus padres. Se casó cuando tenía dieciocho años hasta mi día. Cuando tenía 19 años,me dio a luz y un año después a mi hermano. Ella tiene el pelo corto y negro y una cara redonda. Ella tiene una piel clara. Ella es una persona social y le encanta hacer nuevos amigos. Le encanta viajar con su familia y amigos. Además de eso, a ella también le encanta comer, pero puede comer comida picante porque ella tiene un problema enla boca. En su tiempo libre, ve películas o habla con sus amigos y familiares. Mi mamá también es muy emocional y sensible. Cuando ve una película triste empieza a llorar.A mi mamá también le gusta cocinar y sabe hacer muchos platos como pasta, pizza, fideos y comida india. Ella también tiene un diente dulce. Le encanta comer dulces pero tiene diabetes, por lo que no puede comerlos tanto. Mi madre también tiene asma, por lo que todo lo que la rodea necesita estar limpio, de lo contrario se enferma de polvo. Mi madre es maestra en la escuela para niños con problemas de desarrollo neurológico. A ella le encanta trabajar con niños en la escuela. Amo a mi madre mucho porque ella es la mejor y ella también me quiere mucho.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	más	más	ADV	_	_	7	advmod	_	_
+7	especial	especial	ADJ	_	_	5	amod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	vida	vida	NOUN	_	_	5	nmod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Nació	nacer	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	1	nsubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	India	India	PROPN	_	_	1	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	ahora	ahora	ADV	_	_	9	advmod	_	_
+9	tiene	tener	VERB	_	_	1	conj	_	_
+10	*AGE*	AGE	PROPN	_	_	9	nsubj	_	_
+11	años	año	NOUN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	1	1	NUM	_	_	4	nummod	_	_
+4	hermana	hermana	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	1	1	NUM	_	_	7	nummod	_	_
+7	hermano	hermano	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	hija	hija	NOUN	_	_	0	ROOT	_	_
+5	mayor	mayor	ADJ	_	_	4	amod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	sus	su	DET	_	_	8	det	_	_
+8	padres	padre	NOUN	_	_	4	nmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	casó	casar	VERB	_	_	0	ROOT	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	tenía	tener	VERB	_	_	2	advcl	_	_
+5	dieciocho	dieciocho	NUM	_	_	6	nummod	_	_
+6	años	año	NOUN	_	_	4	obj	_	_
+7	hasta	hasta	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	día	día	NOUN	_	_	4	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	_	7	advcl	_	_
+3	19	19	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	dio	dar	VERB	_	_	0	ROOT	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	luz	luz	NOUN	_	_	7	obl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	año	año	NOUN	_	_	13	obl	_	_
+13	después	después	ADV	_	_	7	conj	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	_	16	det	_	_
+16	hermano	hermano	NOUN	_	_	13	obl	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	corto	corto	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	negro	negro	ADJ	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	cara	cara	NOUN	_	_	4	conj	_	_
+11	redonda	redondo	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	piel	piel	NOUN	_	_	2	obj	_	_
+5	clara	claro	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	0	ROOT	_	_
+5	social	social	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	le	él	PRON	_	_	8	obj	_	_
+8	encanta	encantar	VERB	_	_	4	conj	_	_
+9	hacer	hacer	VERB	_	_	8	xcomp	_	_
+10	nuevos	nuevo	ADJ	_	_	11	amod	_	_
+11	amigos	amigo	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	xcomp	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	amigos	amigo	NOUN	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Además	además	ADV	_	_	3	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	eso	ese	PRON	_	_	9	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	ella	él	PRON	_	_	9	obj	_	_
+7	también	también	ADV	_	_	9	advmod	_	_
+8	le	él	PRON	_	_	9	obj	_	_
+9	encanta	encantar	VERB	_	_	0	ROOT	_	_
+10	comer	comer	VERB	_	_	9	csubj	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	puede	poder	AUX	_	_	14	aux	_	_
+14	comer	comer	VERB	_	_	9	conj	_	_
+15	comida	comida	NOUN	_	_	14	obj	_	_
+16	picante	picante	ADV	_	_	14	advmod	_	_
+17	porque	porque	SCONJ	_	_	19	mark	_	_
+18	ella	él	PRON	_	_	19	nsubj	_	_
+19	tiene	tener	VERB	_	_	14	advcl	_	_
+20	un	uno	DET	_	_	21	det	_	_
+21	problema	problema	NOUN	_	_	19	obj	_	_
+22	enla	enla	ADJ	_	_	21	amod	_	_
+23	boca	boco	ADJ	_	_	21	amod	_	_
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	6	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	ve	ver	VERB	_	_	0	ROOT	_	_
+7	películas	película	NOUN	_	_	6	obj	_	_
+8	o	o	CCONJ	_	_	9	cc	_	_
+9	habla	hablar	VERB	_	_	6	conj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	sus	su	DET	_	_	12	det	_	_
+12	amigos	amigo	NOUN	_	_	9	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	familiares	familiar	NOUN	_	_	12	conj	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	6	nsubj	_	_
+3	también	también	ADV	_	_	6	advmod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	emocional	emocional	ADJ	_	_	0	ROOT	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	sensible	sensible	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	ve	ver	VERB	_	_	6	advcl	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	película	película	NOUN	_	_	2	obj	_	_
+5	triste	triste	ADJ	_	_	4	amod	_	_
+6	empieza	empezar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	llorar	llorar	VERB	_	_	6	xcomp	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	mamá	mamá	NOUN	_	_	6	obl	_	_
+4	también	también	ADV	_	_	6	advmod	_	_
+5	le	él	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	cocinar	cocinar	VERB	_	_	6	csubj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	sabe	saber	VERB	_	_	6	conj	_	_
+10	hacer	hacer	VERB	_	_	9	xcomp	_	_
+11	muchos	mucho	DET	_	_	12	det	_	_
+12	platos	plato	NOUN	_	_	10	obj	_	_
+13	como	como	SCONJ	_	_	14	mark	_	_
+14	pasta	pasta	NOUN	_	_	12	nmod	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	pizza	pizza	PROPN	_	_	14	conj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	fideos	fideo	NOUN	_	_	14	conj	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	comida	comida	NOUN	_	_	14	conj	_	_
+21	india	indio	ADJ	_	_	20	amod	_	_
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	diente	diente	NOUN	_	_	3	obj	_	_
+6	dulce	dulce	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	comer	comer	VERB	_	_	2	csubj	_	_
+4	dulces	dulce	ADJ	_	_	3	obj	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	_	2	conj	_	_
+7	diabetes	diabetes	NOUN	_	_	6	obj	_	_
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	por	por	ADP	_	_	14	mark	_	_
+10	lo	él	PRON	_	_	14	det	_	_
+11	que	que	PRON	_	_	14	obl	_	_
+12	no	no	ADV	_	_	14	advmod	_	_
+13	puede	poder	AUX	_	_	14	aux	_	_
+14	comerlos	comer él	VERB	_	_	6	advcl	_	_
+15	tanto	tanto	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	asma	asma	NOUN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	15	punct	_	_
+7	por	por	ADP	_	_	15	mark	_	_
+8	lo	él	PRON	_	_	15	det	_	_
+9	que	que	PRON	_	_	15	obl	_	_
+10	todo	todo	DET	_	_	11	det	_	_
+11	lo	él	PRON	_	_	15	det	_	_
+12	que	que	PRON	_	_	15	obj	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	rodea	rodea	NOUN	_	_	15	nsubj	_	_
+15	necesita	necesitar	VERB	_	_	4	advcl	_	_
+16	estar	estar	AUX	_	_	17	cop	_	_
+17	limpio	limpio	ADJ	_	_	15	xcomp	_	_
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	de	de	ADP	_	_	23	advmod	_	_
+20	lo	él	PRON	_	_	19	fixed	_	_
+21	contrario	contrario	NOUN	_	_	19	fixed	_	_
+22	se	él	PRON	_	_	23	expl:pv	_	_
+23	enferma	enfermar	VERB	_	_	15	advcl	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	polvo	polvo	NOUN	_	_	23	obl	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	maestra	maestra	NOUN	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	escuela	escuela	NOUN	_	_	4	obl	_	_
+8	para	para	ADP	_	_	9	case	_	_
+9	niños	niño	NOUN	_	_	4	obl	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	problemas	problema	NOUN	_	_	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	desarrollo	desarrollo	NOUN	_	_	11	nmod	_	_
+14	neurológico	neurológico	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	encanta	encantar	VERB	_	_	0	ROOT	_	_
+5	trabajar	trabajar	VERB	_	_	4	csubj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	niños	niño	NOUN	_	_	5	obl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	escuela	escuela	NOUN	_	_	5	obl	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	madre	madre	NOUN	_	_	1	obj	_	_
+5	mucho	mucho	ADV	_	_	1	advmod	_	_
+6	porque	porque	SCONJ	_	_	10	mark	_	_
+7	ella	él	PRON	_	_	10	nsubj	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	mejor	mejor	ADJ	_	_	1	advcl	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	ella	él	PRON	_	_	15	nsubj	_	_
+13	también	también	ADV	_	_	15	advmod	_	_
+14	me	yo	PRON	_	_	15	iobj	_	_
+15	quiere	querer	VERB	_	_	10	conj	_	_
+16	mucho	mucho	ADV	_	_	15	advmod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+

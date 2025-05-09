@@ -1,0 +1,225 @@
+# Unnamed: 0 = 205
+# id = 196936
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Tamil
+# language(s) used at home = Tamil
+# language(s) studied = Hindi- 12 years
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un día decidí ir al cine con mis amigos. Reservamos para la película que comienza a las dos de la tarde. Nosotros ver una película terrible. Despues tenemos comida. La comida que pedimos también fue terrible. Pedimos batidos porque nuestra comida era mala. El camarero ensució nuestro pedido. Todos nosotros estábamos muy molestos. Despues decidemos volver a casa. Luego reservamos un taxi. El taxi venir despues de veinte minutos. Nos quedamos astascados en el tráfico durante una hora. Debido al trafíco que decidimos caminar. Luego emepzó a llover. Todos nosotros nos empapamos por la lluvia. Despues de eso caminamos a una parada de autobús. El autobús tambien llego tarde. Luego el autobús nos llevó a la calle equivocada. Llegamos a casa a las nueve de la noche. Pero nuestros padres salieron. Luego fuimos al parque. Nuestros padres vinieron a las diez de la noche. Luego me levante y fue un sueño.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+3	decidí	decidir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	cine	cine	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Reservamos	reservar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	para	para	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	película	película	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	película	película	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Despues	despues	ADV	_	_	2	advmod	_	_
+2	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	pedimos	pedir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	también	también	ADV	_	_	7	advmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Pedimos	pedir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	batidos	batido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	1	obj	_	_
+3	porque	porque	SCONJ	_	_	7	mark	_	_
+4	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	mala	malo	ADJ	_	Gender=Fem|Number=Sing	1	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	camarero	camarero	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ensució	ensuciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	pedido	pedido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+3	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	molestos	molesto	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Despues	despues	ADV	_	_	2	mark	_	_
+2	decidemos	decid	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	volver	volver	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	reservamos	reservar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	venir	venir	VERB	_	VerbForm=Inf	0	root	_	_
+4	despues	despues	NOUN	_	_	3	mark	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	veinte	veinte	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	quedamos	quedar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	astascados	astascado	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	durante	durante	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hora	hora	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Debido	debido	ADJ	_	Gender=Masc|Number=Sing	3	case	_	_
+2	al	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trafíco	trafíco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	que	que	PRON	_	PronType=Rel	5	obl	_	_
+5	decidimos	decidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	_
+6	caminar	caminar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	emepzó	emepzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	llover	llover	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	empapamos	empapar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	lluvia	lluvia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Despues	despues	NOUN	_	_	3	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	obl	_	_
+4	caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	parada	parada	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	autobús	autobús	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	autobús	autobús	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	tambien	tambien	ADV	_	_	4	advmod	_	_
+4	llego	lleer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tarde	tarde	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	autobús	autobús	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	calle	calle	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	equivocada	equivocado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	nueve	nueve	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	salieron	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	parque	parque	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vinieron	viner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	levante	levantar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sueño	sueño	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

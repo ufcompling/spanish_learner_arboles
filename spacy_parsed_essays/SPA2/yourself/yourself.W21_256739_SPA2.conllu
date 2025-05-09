@@ -1,0 +1,360 @@
+# Unnamed: 0 = 31
+# id = 256739
+# prompt = yourself
+# quarter = W21
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Extremely comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola. Me llama es *FIRST_NAME*. Mi apellido es *LAST_NAME*. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE* *BIRTH_DATE* *BIRTH_DATE*. Tengo *AGE* años. Mi pelo es rubio. Tengo muchas pecas. Soy baja (mucha baja que mi mamá, papá, hermana, y hermano) y me gusta practicar yoga con mi mamá. Me gusta practicar pilates también. Hago ejercicio dos o tres días de la semana. No prefiero correr. Soy simpática, organizada, divertida, generosa, trabajadora, y muy extrovertida. No soy perezosa. Estoy soltera. Mi mamá se llama *FIRST_NAME*, mi papá se llama *FIRST_NAME*, mi hermano se llama *FIRST_NAME* también, mi hermana se llama *FIRST_NAME*, mi perra se llama *FIRST_NAME*, y mi gato se llama *FIRST_NAME*. Estoy contenta y emocionada. Mi comida favorita es sushi y mi restaurante favorito es *PLACE*. *PLACE* está cerca de un restaurante de *PLACE*. Mi color favorito es azul. Mi profesora favorita se llama *FIRST_NAME*. *FIRST_NAME* enseña español uno. Tengo cuarto clases en mi horario. Uno clase es nutrición. También tengo geología, inglés, y español dos. Nutrición es a las ocho de la mañana en lunes y miércoles. Geología es a las dos y diez de la tarde en lunes y miércoles también. Inglés es a las diez de la mañana en martes y jueves. Español dos es a las tres de la tarde en martes y a las dos y media de la tarde en jueves. No tengo clase en viernes. En mi tiempo libre, me gusta pasar tiempo con mis amigas. Mis amigas favoritas se llamen *FIRST_NAME* y *FIRST_NAME*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	llama	llamar	VERB	_	_	4	csubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	apellido	apellido	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*LAST_NAME*	last_name	VERB	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	flat	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	nmod	_	_
+10	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	9	flat	_	_
+11	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	punct	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	pelo	pelo	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	rubio	rubio	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	pecas	peca	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	baja	bajo	ADJ	_	_	0	ROOT	_	_
+3	(	(	PUNCT	_	_	5	punct	_	_
+4	mucha	mucho	DET	_	_	5	det	_	_
+5	baja	baja	NOUN	_	_	2	advmod	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	mamá	mamá	NOUN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	papá	papá	NOUN	_	_	8	conj	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	hermana	hermana	NOUN	_	_	8	conj	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	hermano	hermano	NOUN	_	_	8	conj	_	_
+16	)	)	PUNCT	_	_	5	punct	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	me	yo	PRON	_	_	19	iobj	_	_
+19	gusta	gustar	VERB	_	_	2	conj	_	_
+20	practicar	practicar	VERB	_	_	19	csubj	_	_
+21	yoga	yoga	PROPN	_	_	20	obj	_	_
+22	con	con	ADP	_	_	24	case	_	_
+23	mi	mi	DET	_	_	24	det	_	_
+24	mamá	mamá	NOUN	_	_	19	obl	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	practicar	practicar	VERB	_	_	2	csubj	_	_
+4	pilates	pilat	ADJ	_	_	3	obj	_	_
+5	también	también	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hago	hacer	VERB	_	_	0	ROOT	_	_
+2	ejercicio	ejercicio	NOUN	_	_	1	obj	_	_
+3	dos	dos	NUM	_	_	6	nummod	_	_
+4	o	o	CCONJ	_	_	5	cc	_	_
+5	tres	tres	NUM	_	_	3	conj	_	_
+6	días	día	NOUN	_	_	1	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	semana	semana	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	prefiero	preferir	VERB	_	_	0	ROOT	_	_
+3	correr	correr	VERB	_	_	2	xcomp	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	organizada	organizado	ADJ	_	_	2	conj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	divertida	divertido	ADJ	_	_	4	amod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	generosa	generoso	ADJ	_	_	2	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	trabajadora	trabajador	ADJ	_	_	2	conj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	extrovertida	extrovertido	ADJ	_	_	2	conj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	perezosa	perezós	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	soltera	soltero	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	papá	papá	NOUN	_	_	10	nsubj	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	llama	llamar	VERB	_	_	4	advcl	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	obj	_	_
+12	,	,	PUNCT	_	_	4	punct	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	hermano	hermano	NOUN	_	_	16	nsubj	_	_
+15	se	él	PRON	_	_	16	expl:pv	_	_
+16	llama	llamar	VERB	_	_	4	advcl	_	_
+17	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	16	obj	_	_
+18	también	también	ADV	_	_	16	advmod	_	_
+19	,	,	PUNCT	_	_	16	punct	_	_
+20	mi	mi	DET	_	_	21	det	_	_
+21	hermana	hermana	NOUN	_	_	23	nsubj	_	_
+22	se	él	PRON	_	_	23	expl:pv	_	_
+23	llama	llamar	VERB	_	_	16	advcl	_	_
+24	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	23	obj	_	_
+25	,	,	PUNCT	_	_	4	punct	_	_
+26	mi	mi	DET	_	_	27	det	_	_
+27	perra	perra	NOUN	_	_	29	nsubj	_	_
+28	se	él	PRON	_	_	29	expl:pv	_	_
+29	llama	llamar	VERB	_	_	4	advcl	_	_
+30	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	29	obj	_	_
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	y	y	CCONJ	_	_	36	cc	_	_
+33	mi	mi	DET	_	_	34	det	_	_
+34	gato	gato	NOUN	_	_	36	nsubj	_	_
+35	se	él	PRON	_	_	36	expl:pv	_	_
+36	llama	llamar	VERB	_	_	29	conj	_	_
+37	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	36	obj	_	_
+38	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	Estoy	PROPN	_	_	2	cop	_	_
+2	contenta	contentar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	emocionada	emocionado	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	sushi	sushi	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	restaurante	restaurante	NOUN	_	_	5	conj	_	_
+9	favorito	favorito	ADJ	_	_	8	amod	_	_
+10	es	ser	AUX	_	_	11	cop	_	_
+11	*PLACE*	PLACE	PROPN	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*PLACE*	PLACE	PROPN	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	cerca	cerca	ADV	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	restaurante	restaurante	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*PLACE*	PLACE	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	azul	azul	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	profesora	profesora	NOUN	_	_	5	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	det	_	_
+2	enseña	enseño	ADJ	_	_	0	ROOT	_	_
+3	español	español	ADJ	_	_	2	amod	_	_
+4	uno	uno	PRON	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cuarto	cuarto	ADJ	_	_	3	amod	_	_
+3	clases	clase	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	horario	horario	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Uno	uno	PRON	_	_	2	det	_	_
+2	clase	clase	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	nutrición	nutrición	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	geología	geología	NOUN	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	inglés	inglés	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	español	español	ADJ	_	_	3	conj	_	_
+9	dos	dos	NUM	_	_	8	nummod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nutrición	Nutrición	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	ocho	ocho	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	lunes	lunes	NOUN	_	_	5	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	miércoles	miércoles	NOUN	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Geología	Geología	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	dos	dos	NUM	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	diez	diez	NUM	_	_	5	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	tarde	tarde	NOUN	_	_	7	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	lunes	lunes	NOUN	_	_	5	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	miércoles	miércoles	NOUN	_	_	12	conj	_	_
+15	también	también	ADV	_	_	5	advmod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Inglés	Inglés	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	diez	diez	NUM	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	martes	martes	NOUN	_	_	5	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	jueves	jueves	NOUN	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Español	Español	PROPN	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	1	nummod	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	tres	tres	NUM	_	_	1	nummod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	tarde	tarde	NOUN	_	_	6	nmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	martes	martes	NOUN	_	_	6	obl	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	las	el	DET	_	_	15	det	_	_
+15	dos	dos	NUM	_	_	6	conj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	media	medio	NUM	_	_	15	conj	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	tarde	tarde	NOUN	_	_	15	nmod	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	jueves	jueves	NOUN	_	_	15	nmod	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	clase	clase	NOUN	_	_	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	viernes	viernes	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	7	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	gusta	gustar	VERB	_	_	0	ROOT	_	_
+8	pasar	pasar	VERB	_	_	7	csubj	_	_
+9	tiempo	tiempo	NOUN	_	_	8	obj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	_	12	det	_	_
+12	amigas	amiga	NOUN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	amigas	amiga	NOUN	_	_	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llamen	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	nsubj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+

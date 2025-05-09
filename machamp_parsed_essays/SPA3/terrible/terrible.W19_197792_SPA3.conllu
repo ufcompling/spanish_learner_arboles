@@ -1,0 +1,365 @@
+# Unnamed: 0 = 135
+# id = 197792
+# prompt = terrible
+# quarter = W19
+# course = SPA 3
+# age = 18
+# gender = nan
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un día mi hermano y yo estábamos en la casa. Estábamos hablando y jugando videojuegos. Mi mamá se fue a trabajar. Era de noche. Mi hermano es muy amable. Me ayuda mucho en la tarea. Es alto y tiene cabello castaño. Soy muy extrovertida También soy simpática y divertida. En la noche, estaba muy oscuro afuera. De repente hubo un ruido muy fuerte. Mi hermano y yo nos asustamos mucho. Estábamos tratando de averiguar de dónde venía el ruido. Subimos las escaleras y nos fuimos a su habitación. Llamamos a nuestra madre y tratamos de decirle qué sucedió, pero ella no quiso contestar. Estaba muy ocupada con su trabajo. Ella trabaja muy duro. Ella es una persona muy agradable y organizada. Nuestro papá no estaba en la ciudad. No sabíamos a quién llamar. El ruido es muy largo. Tenemos más miedo. Ahora, mi hermano y yo vivimos en el dormitiorio. Llamamos a la policía. Dijeron que vendrían en medio. Caminamos a la cocina para conseguir una sartén. Queríamos luchar si es necesario. Empecé a llorar. Estaba muy triste de que esto estuviera pasando. Cuando llego al policia, abrieron la puerta. Escuchamos un grito fuerte. Luego un disparo de pistola. Corrimos escaleras abajo. Había un hombre. Él iba a robar nuestra casa. Cuado mi mama llego, ella era muy cansado que ella no llamo a mi hermano y yo. Una vez que la policia se fue, todos estábamos felices. Ninguno fue herido. Fue una situación muy aterradora que ocurrió. Nos alegra que haya terminado.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+7	estábamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	hablando	hablar	VERB	_	VerbForm=Ger	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	jugando	jugar	VERB	_	VerbForm=Ger	2	conj	_	_
+5	videojuegos	videojuego	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obl	_	_
+4	fue	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	trabajar	trabajar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	amable	amable	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	cabello	cabello	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	castaño	castaño	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	extrovertida	extrovertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	También	también	ADV	_	_	6	advmod	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	simpática	simpático	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	afuera	afuera	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	De	de	ADP	_	_	3	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	fuerte	fuerte	ADJ	_	Number=Sing	5	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	asustamos	asustar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	tratando	tratar	VERB	_	VerbForm=Ger	0	root	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	averiguar	averiguar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	dónde	dónde	ADV	_	PronType=Int	7	advmod	_	_
+7	venía	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Subimos	subir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	escaleras	escalera	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tratamos	tratar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	decirle	decir	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	qué	qué	PRON	_	Number=Sing|PronType=Int	10	nsubj	_	_
+10	sucedió	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	quiso	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+16	contestar	contestar	VERB	_	VerbForm=Inf	15	xcomp	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	ocupada	ocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	duro	duro	ADV	_	Gender=Masc|Number=Sing	2	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	agradable	agradable	ADJ	_	Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	organizada	organizado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papá	papá	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabíamos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	quién	quién	PRON	_	Number=Sing|PronType=Int	5	obl	_	_
+5	llamar	llamar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	más	más	ADV	_	Degree=Cmp	3	advmod	_	_
+3	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+7	vivimos	vivir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	dormitiorio	dormitiorio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	policía	policía	NOUN	_	Number=Sing	1	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Dijeron	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	vendrían	venrí	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	1	ccomp	_	_
+4	en	en	ADP	_	_	3	advmod	_	_
+5	medio	medio	NOUN	_	_	4	fixed	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	conseguir	conseguir	VERB	_	VerbForm=Inf	1	advcl	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	sartén	sartén	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Queríamos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	luchar	luchar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	si	si	SCONJ	_	_	5	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	necesario	necesario	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Empecé	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	llorar	llorar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	8	mark	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	esto	este	PRON	_	Number=Sing|PronType=Dem	8	nsubj	_	_
+7	estuviera	estar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	pasando	pasar	VERB	_	VerbForm=Ger	3	acl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llego	llegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	policia	policia	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	abrieron	abrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Escuchamos	escuchar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	grito	grito	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	fuerte	fuerte	ADJ	_	Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	disparo	disparo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	pistola	pistola	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Corrimos	corrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	escaleras	escalera	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	abajo	abajo	ADV	_	_	1	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	robar	robar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuado	cuado	ADV	_	PronType=Int	4	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	llego	llegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	cansado	cansado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	csubj	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	conj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	mark	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	policia	policia	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	fue	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	11	nsubj	_	_
+10	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	felices	feliz	ADJ	_	Number=Plur	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Ninguno	ninguno	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	3	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	herido	herir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	situación	situación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	aterradora	aterrador	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+7	ocurrió	ocurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	alegra	alegrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	terminado	terminar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

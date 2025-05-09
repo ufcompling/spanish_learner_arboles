@@ -1,0 +1,221 @@
+# Unnamed: 0 = 184
+# id = 239439
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Hindi
+# language(s) studied = Latin - 5 years
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Hola. [Yo]{}<pr:su:pron> soy una chica. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> canto. Estoy contenta y occupada. Soy generosa porque es muy importante to be kind to otras personas. Soy pequeña y tengo negro larga cabello. Mi etnicidad es *PLACE*. Soy de United States of America, y el estado de *STATE*, y [el]{la}<ga:det> ciudad de *CITY*. [Yo]{}<pr:su:pron> soy estudiodosa y voy []{la}<ab:det:art:def> escuela a []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY*. [Soy]{Estoy}<conf:v:seta> es en mi primero año a el universidad. [Yo]{}<pr:su:pron> tengo una hermosa y un papa y una mama. No tengo un perro o [otra]{otros}<ga:na:adj> animales en mi casa. [Yo]{}<pr:su:pron> soy muy ambitious. [Yo]{}<pr:su:pron> quiero una cantante when yo graduate de []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY*. I have released some musica este año y [soy]{estoy}<conf:v:seta> muy orgullosa. Yo want to trabajo en a studio y on a stage. Mi musica favorita a canta es R&B. [Yo]{}<pr:su:pron> tengo cuatro [mejor]{mejores}<na:adj> amigas. [Mi]{Mis}<na:dete> amigas y mi hermana son intellegentes.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola. [Yo]{}<pr:su:pron> soy una chica. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> canto. Estoy contenta y occupada. Soy generosa porque es muy importante to be kind to otras personas. Soy pequeña y tengo []{el}<ab:det:art:def> [negro larga cabello]{cabello negro largo}<col:adj> [negro larga cabello]{cabello negro largo}<ga:adj>. Mi etnicidad es *PLACE*. Soy de United States of America, y el estado de *STATE*, y [el]{la}<ga:det> ciudad de *CITY*. [Yo]{}<pr:su:pron> soy estudiodosa y voy escuela a []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY*. [Soy]{Estoy}<conf:v:seta> es en mi primero año a [el]{la}<ga:det> universidad. [Yo]{}<pr:su:pron> tengo una hermosa y un papa y una mama. No tengo un perro o [otra]{otros}<ga:na:det> animales en mi casa. [Yo]{}<pr:su:pron> soy muy ambitious. [Yo]{}<pr:su:pron> quiero una cantante when [yo]{}<pr:su:pron> graduate de Universidad de *UNIVERSITY*, *UNIVERSITY*. I have released some musica este año y [soy]{estoy}<conf:v:seta> muy orgullosa. [Yo]{}<pr:su:pron> want to [trabajo]{trabajar}<fs:st:t> en a studio y on a stage. Mi musica favorita a [canta]{cantar}<fs:st:t> es []{el}<ab:det:art:def> R&B. [Yo]{}<pr:su:pron> tengo cuatro [mejor]{mejores}<na:adj> amigas. [Mi]{Mis}<na:det> amigas y mi hermana son intellegentes.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Hola. Soy una chica. Tengo *AGE* años. Canto. Estoy contenta y ocupada. Soy generosa porque es muy importante ser amable con otras personas. Soy pequeña y tengo el cabello negro y largo. Mi etnicidad es india. Soy de Estados Unidos de América, y el estado de *STATE*, y la ciudad de *CITY*. Soy estudiosa y voy a la escuela a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estoy es en mi primer año de universidad. Tengo una hermosa y un papá y una mamá. No tengo un perro u otros animales en mi casa. Soy muy ambiciosa. Quiero una cantante cuando me gradúe de la Universidad de *UNIVERSITY*, *UNIVERSITY*. I he sacado algo de música este año y estoy muy orgullosa. Quiero trabajar en un estudio y en un escenario. Mi música favorita para cantar es R&B. Tengo cuatro mejores amigas. Mis amigas y mi hermana son inteligentes. 
+# corrected2 = nan
+# text = Hola. Yo soy una chica. Yo tengo *AGE* años. Yo canto. Estoy contenta y occupada. Soy generosa porque es muy importante to be kind to otras personas. Soy pequeña y tengo negro larga cabello. Mi etnicidad es *PLACE*. Soy de United States of America, y el estado de *STATE*, y el ciudad de *CITY*. Yo soy estudiodosa y voy escuela a Universidad de *UNIVERSITY*, *UNIVERSITY*. Soy es en mi primero año a el universidad. Yo tengo una hermosa y un papa y una mama. No tengo un perro o otra animales en mi casa. Yo soy muy ambitious. Yo quiero una cantante when yo graduate de Universidad de *UNIVERSITY*, *UNIVERSITY*. I have released some musica este año y soy muy orgullosa. Yo want to trabajo en a studio y on a stage. Mi musica favorita a canta es R&B. Yo tengo cuatro mejor amigas. Mi amigas y mi hermana son intellegentes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	chica	chica	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	0	ROOT	_	_
+2	canto	canto	NOUN	_	_	1	appos	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	Estoy	PROPN	_	_	2	nsubj	_	_
+2	contenta	contentar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	occupada	occupado	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	generosa	generoso	ADJ	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	6	mark	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	importante	importante	ADJ	_	_	2	advcl	_	_
+7	to	to	PROPN	_	_	6	nsubj	_	_
+8	be	be	PROPN	_	_	7	flat	_	_
+9	kind	kind	PROPN	_	_	7	flat	_	_
+10	to	to	VERB	_	_	2	advcl	_	_
+11	otras	otro	DET	_	_	12	det	_	_
+12	personas	persona	NOUN	_	_	2	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	pequeña	pequeño	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tengo	tener	VERB	_	_	2	conj	_	_
+5	negro	negro	ADJ	_	_	7	amod	_	_
+6	larga	largo	ADJ	_	_	7	amod	_	_
+7	cabello	cabello	NOUN	_	_	4	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	etnicidad	etnicidad	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	United	United	PROPN	_	_	0	ROOT	_	_
+4	States	States	PROPN	_	_	3	flat	_	_
+5	of	of	PROPN	_	_	3	flat	_	_
+6	America	America	PROPN	_	_	3	flat	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	estado	estado	NOUN	_	_	3	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*STATE*	STATE	PROPN	_	_	10	nmod	_	_
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	el	el	DET	_	_	16	det	_	_
+16	ciudad	ciudad	NOUN	_	_	3	conj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	*CITY*	CITY	PROPN	_	_	16	nmod	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	estudiodosa	estudiodós	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	voy	ir	VERB	_	_	3	conj	_	_
+6	escuela	escuela	NOUN	_	_	5	obj	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	Universidad	Universidad	PROPN	_	_	5	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	8	flat	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	8	flat	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	es	ser	AUX	_	_	9	cop	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	mi	mi	DET	_	_	6	det	_	_
+5	primero	primero	ADJ	_	_	6	amod	_	_
+6	año	año	NOUN	_	_	2	obl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	universidad	universidad	PROPN	_	_	1	nsubj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hermosa	hermoso	ADJ	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	papa	papa	NOUN	_	_	4	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	mama	mama	NOUN	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	o	o	CCONJ	_	_	7	cc	_	_
+6	otra	otro	DET	_	_	7	det	_	_
+7	animales	animal	NOUN	_	_	4	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	casa	casa	NOUN	_	_	2	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	ambitious	ambitious	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	cantante	cantante	NOUN	_	_	2	obj	_	_
+5	when	when	ADJ	_	_	4	appos	_	_
+6	yo	yo	PRON	_	_	5	flat	_	_
+7	graduate	graduate	NOUN	_	_	5	flat	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Universidad	Universidad	PROPN	_	_	5	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	9	flat	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	I	i	CCONJ	_	_	11	advmod	_	_
+2	have	have	NOUN	_	_	1	amod	_	_
+3	released	released	PROPN	_	_	1	flat	_	_
+4	some	some	PROPN	_	_	3	flat	_	_
+5	musica	musico	ADJ	_	_	3	amod	_	_
+6	este	este	DET	_	_	7	det	_	_
+7	año	año	NOUN	_	_	1	conj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	soy	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	orgullosa	orgulloso	ADJ	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	want	want	PROPN	_	_	1	flat	_	_
+3	to	to	PROPN	_	_	1	appos	_	_
+4	trabajo	trabajo	NOUN	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	studio	studio	NOUN	_	_	4	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	on	on	ADJ	_	_	7	conj	_	_
+10	a	a	ADP	_	_	9	case	_	_
+11	stage	stage	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	musica	musico	ADJ	_	_	3	amod	_	_
+3	favorita	favoritar	VERB	_	_	7	nsubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	canta	canta	NOUN	_	_	3	obl	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	R&B.	R&B.	PROPN	_	_	0	ROOT	_	_
+8	Yo	yo	PRON	_	_	9	nsubj	_	_
+9	tengo	tener	VERB	_	_	7	advcl	_	_
+10	cuatro	cuatro	NUM	_	_	12	nummod	_	_
+11	mejor	mejor	ADJ	_	_	12	amod	_	_
+12	amigas	amiga	NOUN	_	_	9	obj	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amigas	amiga	NOUN	_	_	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	hermana	hermana	NOUN	_	_	2	conj	_	_
+6	son	ser	AUX	_	_	7	cop	_	_
+7	intellegentes	intellegent	ADJ	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+

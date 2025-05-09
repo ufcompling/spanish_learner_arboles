@@ -1,0 +1,157 @@
+# Unnamed: 0 = 104
+# id = 267542
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = 0
+# other l1 language(s) = Other
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = El lugar que no me gusta es *CITY*, *PLACE*. La comida no es para me apetite. Y la comida en *CITY* es muy cara. Part of personas en *CITY* no son muy amigables. El clima en *CITY* no es bueno. No me gusta clima en *CITY*. Aire comtaminacion en *CITY* es muy grave. La comtaminacion del aire en *CITY* es el mas serio en *PLACE*. La gente esta ocupado, cansado y sedentario. La gente se levanta a las 6 de la manana y se va a trabajar a las 7. Salen del trabajar a las 10 pm. La gente esta bajo mucha presion.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+8	*CITY*	*city*	PUNCT	_	_	2	punct	_	_
+9	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+10	*PLACE*	*place*	SYM	_	_	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	para	para	ADP	_	_	7	mark	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	apetite	apetite	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	comida	comida	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	cara	caro	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Part	part	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+2	of	of	ADP	_	_	1	nmod	_	_
+3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	amigables	amigable	ADJ	_	Number=Plur	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clima	clima	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	nmod	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	clima	clima	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	*city*	PROPN	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Aire	aire	ADJ	_	Number=Sing	2	amod	_	_
+2	comtaminacion	comtaminacion	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	grave	grave	ADJ	_	Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	comtaminacion	comtaminacion	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	aire	aire	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	*city*	PUNCT	_	_	2	punct	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	mas	mas	ADV	_	_	10	advmod	_	_
+10	serio	serio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*PLACE*	*place*	PUNCT	_	_	10	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ocupado	ocupado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	cansado	cansado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	sedentario	sedentario	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	levanta	levantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	6	6	NUM	_	NumForm=Digit|NumType=Card	4	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	manana	manana	NOUN	_	_	7	compound	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	a	a	ADP	_	_	15	mark	_	_
+15	trabajar	trabajar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	7	7	NOUN	_	AdvType=Tim	15	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Salen	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	trabajar	trabajar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	10	10	NUM	_	NumForm=Digit|NumType=Card	1	obl	_	_
+7	pm	pm	NOUN	_	_	6	compound	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	bajo	bajo	ADP	_	_	6	case	_	_
+5	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	presion	presion	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

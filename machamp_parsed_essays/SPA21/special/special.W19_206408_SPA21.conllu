@@ -1,0 +1,205 @@
+# Unnamed: 0 = 171
+# id = 206408
+# prompt = special
+# quarter = W19
+# course = SPA 21
+# age = 18
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Gujarati
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = [Yo]{}<pr:su:pron> también tengo tres hermanos en mi familia Me [encanta]{encantan}<fs:st:pn> mucho y son personas increíbles Uno de mis hermanos es fisioterapeuta y [el]{}<pr:det:art:def> otro es optometrista y el otro es gerente de oficina.Una persona especial en mi vida es mi padre porque [el]{}<pr:su:pron> pone una sonrisa en mi cara todo el tiempo. Aunque [yo]{}<pr:su:pron> estoy a 500 millas de mi papa pero el todavía no deja de poner una sonrisa en mi cara. Mi padre ha trabajado muy duro para llevarme a la universidad y espero poder cuidarlo en el futuro. Ahora vivo muy lejos de mi papa, y lo extraño mucho. Mi papa siempre sabe como animarme, por eso lo llamo cuando tengo un mal día. [Él]{}<pr:su:pron> es un hombre divertido en general, pero se siente más especial cuando sonríe porque soy su hija. Desearía que mis hermanos estuvieran aquí conmigo hoy porque ha sido un fin de semana largo y quiero contarles todo sobre esto.
+# updated annotation ann2 = Yo también tengo tres hermanos en mi familia Me encanta [encanta]{encantan}<fs:st:pn> mucho y son personas increíbles Uno de mis hermanos es fisioterapeuta y el otro es optometrista y el otro es gerente de oficina.Una persona especial en mi vida es mi padre porque el pone una sonrisa en mi cara todo el tiempo. Aunque yo estoy a 500 millas de mi papa pero el todavía no deja de poner una sonrisa en mi cara. Mi padre ha trabajado muy duro para llevarme a la universidad y espero poder cuidarlo en el futuro. Ahora vivo muy lejos de mi papa, y lo extraño mucho. Mi papa siempre sabe como animarme, por eso lo llamo cuando tengo un mal día. Él es un hombre divertido en general, pero se siente más especial cuando sonríe porque soy su hija. Desearía que mis hermanos estuvieran aquí conmigo hoy porque ha sido un fin de semana largo y quiero contarles todo sobre esto.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Tengo tres hermanos en mi familia. Me encantan y son personas increíbles. Uno de mis hermanos es fisioterapeuta, otro es optometrista y el otro es gerente de oficina. Una persona especial en mi vida es mi padre, porque pone una sonrisa en mi cara todo el tiempo. Aunque estoy a 500 millas de mi papá, él todavía no deja de poner una sonrisa en mi cara. Mi padre ha trabajado muy duro para llevarme a la universidad y espero poder cuidarlo en el futuro. Ahora vivo muy lejos de mi papá, y lo extraño mucho. Mi papá siempre sabe cómo animarme, por eso lo llamo cuando tengo un mal día. Es un hombre divertido en general, pero se siente más especial cuando sonríe porque soy su hija. Desearía que mis hermanos estuvieran aquí conmigo hoy porque ha sido un fin de semana largo y quiero contarles todo sobre esto.
+# corrected2 = nan
+# text = Yo también tengo tres hermanos en mi familia Me encanta mucho y son personas increíbles Uno de mis hermanos es fisioterapeuta y el otro es optometrista y el otro es gerente de oficina.Una persona especial en mi vida es mi padre porque el pone una sonrisa en mi cara todo el tiempo. Aunque yo estoy a 500 millas de mi papa pero el todavía no deja de poner una sonrisa en mi cara. Mi padre ha trabajado muy duro para llevarme a la universidad y espero poder cuidarlo en el futuro. Ahora vivo muy lejos de mi papa, y lo extraño mucho. Mi papa siempre sabe como animarme, por eso lo llamo cuando tengo un mal día. Él es un hombre divertido en general, pero se siente más especial cuando sonríe porque soy su hija. Desearía que mis hermanos estuvieran aquí conmigo hoy porque ha sido un fin de semana largo y quiero contarles todo sobre esto.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	mucho	mucho	ADV	_	_	10	advmod	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	personas	persona	NOUN	_	Gender=Fem|Number=Plur	10	conj	_	_
+15	increíbles	increíble	ADJ	_	Number=Plur	14	amod	_	_
+16	Uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	nsubj	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
+20	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	fisioterapeuta	fisioterapeuta	NOUN	_	Gender=Fem|Number=Sing	10	advcl	_	_
+22	y	y	CCONJ	_	_	26	cc	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	26	nsubj	_	_
+25	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+26	optometrista	optometrista	NOUN	_	Number=Sing	21	conj	_	_
+27	y	y	CCONJ	_	_	31	cc	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	31	nsubj	_	_
+30	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
+31	gerente	gerente	NOUN	_	Number=Sing	26	conj	_	_
+32	de	de	ADP	_	_	33	case	_	_
+33	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	31	nmod	_	_
+34	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	padre	padre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	porque	porque	SCONJ	_	_	12	mark	_	_
+11	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	obj	_	_
+12	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	cara	cara	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+18	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	19	det	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	500	500	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	millas	milla	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	papa	papa	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	pero	pero	CCONJ	_	_	14	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+12	todavía	todavía	ADV	_	_	14	advmod	_	_
+13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+14	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+15	de	de	ADP	_	_	16	mark	_	_
+16	poner	poner	VERB	_	VerbForm=Inf	14	xcomp	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	cara	cara	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	trabajado	trabajar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	duro	duro	ADJ	_	Gender=Masc|Number=Sing	4	advmod	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	llevarme	llevar	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	poder	poder	AUX	_	VerbForm=Inf	15	aux	_	_
+15	cuidarlo	cuidar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	lejos	lejos	ADV	_	_	2	advmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	extraño	extrañar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	mucho	mucho	ADV	_	_	11	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	como	SCONJ	_	_	6	obl	_	_
+6	animarme	animar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	eso	ese	PRON	_	Number=Sing|PronType=Dem	11	obl	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+12	cuando	cuando	SCONJ	_	_	13	mark	_	_
+13	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	mal	mal	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+16	día	día	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+6	en	en	ADP	_	_	4	advmod	_	_
+7	general	general	NOUN	_	_	6	fixed	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	pero	pero	CCONJ	_	_	11	cc	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
+13	especial	especial	ADJ	_	Number=Sing	11	obj	_	_
+14	cuando	cuando	SCONJ	_	_	15	mark	_	_
+15	sonríe	sonriar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+16	porque	porque	SCONJ	_	_	19	mark	_	_
+17	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	hija	hija	NOUN	_	Gender=Fem|Number=Sing	15	advcl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Desearía	desear	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	estuvieran	estuviear	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+6	aquí	aquí	ADV	_	_	5	advmod	_	_
+7	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	5	obl	_	_
+8	hoy	hoy	ADV	_	_	5	advmod	_	_
+9	porque	porque	SCONJ	_	_	13	mark	_	_
+10	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	cop	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	fin	fin	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	semana	semana	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+16	largo	largo	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+19	contarles	contar	VERB	_	VerbForm=Inf	18	xcomp	_	_
+20	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	19	obj	_	_
+21	sobre	sobre	ADP	_	_	22	case	_	_
+22	esto	este	PRON	_	Number=Sing|PronType=Dem	19	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

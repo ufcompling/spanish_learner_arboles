@@ -1,0 +1,409 @@
+# Unnamed: 0 = 131
+# id = 235776
+# prompt = yourself
+# quarter = W21
+# course = SPA 24
+# age = 20 years old
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Tengo *AGE* años y soy un estudiante y estudia ciencias biologías. Cuando estoy estudiando en mu universidad, vivo en *CITY*. Vivo en un apartamento con cuatro compañeros de cuarto. Cuando escuela no está en sesión, vivo en el área de *PLACE* en *STATE* con mis padres. Tengo dos hermanos quien viven con nosotros también. Mi hermano mayor tiene *AGE* *AGE* años y juega fútbol a su universidad dónde estudia financia y administración deportiva. Mi hermana menor tiene *AGE* años y asiste escuela secundaria. Tenemos una perra quien tiene *AGE* años. Mi perra es una perra marrón y grande y ella es tan amble y mona. Mi madre es de *STATE* y mi padre es de *PLACE* pero se mudó a *STATE* cuando era un niño. Mi padre es un entrenador de fútbol y era un jugador. Cuando mis hermanos y yo estaban niños, todos nosotros jugábamos fútbol y muchas deportes para nuestras escuelas. Hoy, me gusta jugar fútbol todavía y me gusta correr. En mi tiempo libre me gusta leer, pasar tiempo con mis amigos, y me encanta ver películas. También me gusta cantar y estaba en mi coro en escuela secundaria. Yo soy un estudiante en mi segundo ano, aquí al Universidad de *UNIVERSITY* *UNIVERSITY*. He estado estudiando español desde que estaba en el séptimo grado, cuando tenía *AGE* años. Mi padre hable español también, pero no en casa. Durante mi niñez, vivía en los estados de *STATE* y *STATE*, y he oído español desde que era una niña. Durante el verano después de mi año final de escuela secundaria, viajé a Argentina por pocos semanas con mi coro. Después, viajamos a Uruguay también. Mas tarde en el verano, viajé a España y vivía allí con mi familia española por un mes. Cuando estaba allí, practiqué usando mi español mucho. Ojalá que mi español va a mejorar durante mi tiempo estudiando en *UNIVERSITY* y mis habilidades crece.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	soy	ser	AUX	_	_	7	cop	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	estudiante	estudiante	NOUN	_	_	1	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	estudia	estudiar	VERB	_	_	7	conj	_	_
+10	ciencias	ciencia	NOUN	_	_	9	obj	_	_
+11	biologías	biología	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	estudiando	estudiar	VERB	_	_	8	advcl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mu	mu	ADJ	_	_	6	det	_	_
+6	universidad	universidad	PROPN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	vivo	vivo	ADJ	_	_	0	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	obl	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	apartamento	apartamento	NOUN	_	_	1	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	cuatro	cuatro	NUM	_	_	7	nummod	_	_
+7	compañeros	compañero	NOUN	_	_	4	nmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	cuarto	cuarto	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	6	mark	_	_
+2	escuela	escuela	NOUN	_	_	6	nsubj	_	_
+3	no	no	ADV	_	_	6	advmod	_	_
+4	está	estar	AUX	_	_	6	cop	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	sesión	sesión	NOUN	_	_	8	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	vivo	vivo	ADJ	_	_	0	ROOT	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	área	área	NOUN	_	_	8	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*PLACE*	PLACE	PROPN	_	_	11	nmod	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*STATE*	STATE	PROPN	_	_	11	nmod	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	mis	mi	DET	_	_	18	det	_	_
+18	padres	padre	NOUN	_	_	8	obl	_	_
+19	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	quien	quien	PRON	_	_	5	nsubj	_	_
+5	viven	vivir	VERB	_	_	3	acl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	nosotros	yo	PRON	_	_	5	obl	_	_
+8	también	también	ADV	_	_	5	advmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	4	nsubj	_	_
+3	mayor	mayor	ADJ	_	_	2	amod	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	*AGE*	AGE	PROPN	_	_	4	obj	_	_
+6	*AGE*	AGE	PROPN	_	_	5	flat	_	_
+7	años	año	NOUN	_	_	5	flat	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	juega	jugar	VERB	_	_	4	conj	_	_
+10	fútbol	fútbol	NOUN	_	_	9	obj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	su	su	DET	_	_	13	det	_	_
+13	universidad	universidad	NOUN	_	_	9	obj	_	_
+14	dónde	dónde	PRON	_	_	15	obl	_	_
+15	estudia	estudiar	VERB	_	_	9	ccomp	_	_
+16	financia	financia	NOUN	_	_	15	obj	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	administración	administración	NOUN	_	_	16	conj	_	_
+19	deportiva	deportivo	ADJ	_	_	18	amod	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	4	nsubj	_	_
+3	menor	menor	ADJ	_	_	2	amod	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	*AGE*	AGE	PROPN	_	_	4	nsubj	_	_
+6	años	año	NOUN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	asiste	asiste	PROPN	_	_	4	conj	_	_
+9	escuela	escuela	PROPN	_	_	8	obj	_	_
+10	secundaria	secundario	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tenemos	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	perra	perra	NOUN	_	_	1	obj	_	_
+4	quien	quien	PRON	_	_	5	nsubj	_	_
+5	tiene	tener	VERB	_	_	3	acl	_	_
+6	*AGE*	AGE	PROPN	_	_	5	nsubj	_	_
+7	años	año	NOUN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	perra	perra	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	perra	perra	NOUN	_	_	0	ROOT	_	_
+6	marrón	marrón	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	grande	grande	ADJ	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	ella	él	PRON	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	tan	tanto	ADV	_	_	13	advmod	_	_
+13	amble	amble	ADJ	_	_	5	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	mona	mona	NOUN	_	_	13	conj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*STATE*	STATE	PROPN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	padre	padre	NOUN	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*PLACE*	PLACE	PROPN	_	_	5	conj	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	se	él	PRON	_	_	14	expl:pv	_	_
+14	mudó	mudar	VERB	_	_	5	conj	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	*STATE*	STATE	PROPN	_	_	14	obj	_	_
+17	cuando	cuando	SCONJ	_	_	20	mark	_	_
+18	era	ser	AUX	_	_	20	cop	_	_
+19	un	uno	DET	_	_	20	det	_	_
+20	niño	niño	NOUN	_	_	14	advcl	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	entrenador	entrenador	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	fútbol	fútbol	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	era	ser	AUX	_	_	11	cop	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	jugador	jugador	NOUN	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	11	mark	_	_
+2	mis	mi	DET	_	_	3	det	_	_
+3	hermanos	hermano	NOUN	_	_	11	nsubj	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	yo	yo	PRON	_	_	7	nsubj	_	_
+6	estaban	estar	AUX	_	_	7	cop	_	_
+7	niños	niño	NOUN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	todos	todo	DET	_	_	10	det	_	_
+10	nosotros	yo	PRON	_	_	11	nsubj	_	_
+11	jugábamos	jugábar	VERB	_	_	0	ROOT	_	_
+12	fútbol	fútbol	NOUN	_	_	11	obj	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	muchas	mucho	DET	_	_	15	det	_	_
+15	deportes	deporte	NOUN	_	_	11	conj	_	_
+16	para	para	ADP	_	_	18	case	_	_
+17	nuestras	nuestro	DET	_	_	18	det	_	_
+18	escuelas	escuela	NOUN	_	_	15	nmod	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	jugar	jugar	VERB	_	_	4	csubj	_	_
+6	fútbol	fútbol	NOUN	_	_	5	obj	_	_
+7	todavía	todavía	ADV	_	_	6	advmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	gusta	gustar	VERB	_	_	4	conj	_	_
+11	correr	correr	VERB	_	_	10	csubj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	6	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	leer	leer	VERB	_	_	6	csubj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	pasar	pasar	VERB	_	_	6	advcl	_	_
+10	tiempo	tiempo	NOUN	_	_	9	obj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mis	mi	DET	_	_	13	det	_	_
+13	amigos	amigo	NOUN	_	_	9	obl	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	me	yo	PRON	_	_	17	iobj	_	_
+17	encanta	encantar	VERB	_	_	6	conj	_	_
+18	ver	ver	VERB	_	_	17	csubj	_	_
+19	películas	película	NOUN	_	_	18	obj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	cantar	cantar	VERB	_	_	3	csubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	estaba	estar	VERB	_	_	4	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	coro	coro	NOUN	_	_	4	obl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	escuela	escuela	NOUN	_	_	4	obl	_	_
+12	secundaria	secundario	ADJ	_	_	11	amod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	mi	mi	DET	_	_	8	det	_	_
+7	segundo	segundo	ADJ	_	_	8	amod	_	_
+8	ano	ano	NOUN	_	_	4	nmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	aquí	aquí	ADV	_	_	8	advmod	_	_
+11	al	al	ADP	_	_	12	case	_	_
+12	Universidad	Universidad	PROPN	_	_	10	obl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	12	flat	_	_
+15	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	flat	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	He	haber	AUX	_	_	3	aux	_	_
+2	estado	estar	AUX	_	_	3	aux	_	_
+3	estudiando	estudiar	VERB	_	_	0	ROOT	_	_
+4	español	español	ADJ	_	_	3	obj	_	_
+5	desde	desde	ADP	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	estaba	estar	VERB	_	_	3	advcl	_	_
+8	en	en	ADP	_	_	11	case	_	_
+9	el	el	DET	_	_	11	det	_	_
+10	séptimo	séptimo	ADJ	_	_	11	amod	_	_
+11	grado	grado	NOUN	_	_	7	obl	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	cuando	cuando	SCONJ	_	_	14	mark	_	_
+14	tenía	tener	VERB	_	_	3	advcl	_	_
+15	*AGE*	AGE	PROPN	_	_	14	nsubj	_	_
+16	años	año	NOUN	_	_	15	flat	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	3	nsubj	_	_
+3	hable	hable	ADJ	_	_	0	ROOT	_	_
+4	español	español	NOUN	_	_	3	obj	_	_
+5	también	también	ADV	_	_	3	advmod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	no	no	ADV	_	_	3	conj	_	_
+9	en	en	ADP	_	_	8	case	_	_
+10	casa	casa	NOUN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	niñez	niñez	PROPN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	vivía	vivir	VERB	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	estados	estado	NOUN	_	_	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*STATE*	STATE	PROPN	_	_	8	nmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	*STATE*	STATE	PROPN	_	_	10	conj	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	he	haber	AUX	_	_	16	aux	_	_
+16	oído	oer	VERB	_	_	5	conj	_	_
+17	español	español	ADJ	_	_	16	obj	_	_
+18	desde	desde	ADP	_	_	22	mark	_	_
+19	que	que	SCONJ	_	_	22	mark	_	_
+20	era	ser	AUX	_	_	22	cop	_	_
+21	una	uno	DET	_	_	22	det	_	_
+22	niña	niña	NOUN	_	_	16	advcl	_	_
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	verano	verano	NOUN	_	_	4	obl	_	_
+4	después	después	ADV	_	_	13	advmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	año	año	NOUN	_	_	4	obl	_	_
+8	final	final	ADJ	_	_	7	amod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	escuela	escuela	NOUN	_	_	7	nmod	_	_
+11	secundaria	secundario	ADJ	_	_	10	amod	_	_
+12	,	,	PUNCT	_	_	4	punct	_	_
+13	viajé	viajé	ADJ	_	_	0	ROOT	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	Argentina	Argentina	PROPN	_	_	13	obj	_	_
+16	por	por	ADP	_	_	18	case	_	_
+17	pocos	poco	DET	_	_	18	det	_	_
+18	semanas	semana	NOUN	_	_	13	obl	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	_	21	det	_	_
+21	coro	coro	NOUN	_	_	13	obl	_	_
+22	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Después	después	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	viajamos	viajamos	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Uruguay	Uruguay	PROPN	_	_	3	obj	_	_
+6	también	también	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mas	mas	VERB	_	_	7	advmod	_	_
+2	tarde	tarde	ADV	_	_	1	advmod	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	verano	verano	NOUN	_	_	1	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	viajé	viajer	VERB	_	_	0	ROOT	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	España	España	PROPN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	vivía	vivir	VERB	_	_	7	conj	_	_
+12	allí	allí	ADV	_	_	11	advmod	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	familia	familia	NOUN	_	_	11	obl	_	_
+16	española	español	ADJ	_	_	15	amod	_	_
+17	por	por	ADP	_	_	19	case	_	_
+18	un	uno	DET	_	_	19	det	_	_
+19	mes	mes	NOUN	_	_	11	obl	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	estaba	estar	VERB	_	_	6	advcl	_	_
+3	allí	allí	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	practiqué	practiqué	PRON	_	_	6	aux	_	_
+6	usando	usar	VERB	_	_	0	ROOT	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	español	español	NOUN	_	_	6	obj	_	_
+9	mucho	mucho	ADV	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ojalá	ojalá	INTJ	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	español	español	NOUN	_	_	7	nsubj	_	_
+5	va	ir	AUX	_	_	7	aux	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	mejorar	mejorar	VERB	_	_	1	xcomp	_	_
+8	durante	durante	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	tiempo	tiempo	NOUN	_	_	7	obl	_	_
+11	estudiando	estudiar	VERB	_	_	7	advcl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	11	obl	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	mis	mi	DET	_	_	16	det	_	_
+16	habilidades	habilidades	PROPN	_	_	17	nsubj	_	_
+17	crece	crecer	VERB	_	_	1	conj	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+

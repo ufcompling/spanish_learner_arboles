@@ -1,0 +1,251 @@
+# Unnamed: 0 = 256
+# id = 170548
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Chinese
+# language(s) studied = I started to learn English when I was six, so I have learned English for 14 years.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿¡Hola¡ Me llamo xxx. Soy de [*CITY*]{China}<gat:noun>. Es estudiante en Estados Unidos. [Yo]{}<pr:su:pron> vivo en la *CITY* de *STATE*. Tengo *AGE* años. Me gusta escuchar música. Me gusta el museo. Me gusta el arte. Me gusta la exposicion de arte. Me gustan las culturas indigenas. Me gusta la ciudad. Me gusta la playa. Me gusta las montañas. Me gusta la selva. Me gusta el arbol. Me gusta el volcan. Me gusta el pajaro. Me mucho gusta el oceano. Me gustan los animales. Me gusta la comida japonesa. Me gustan [la]{las}<na:det> [serie]{series}<na:noun>. Me gustan el yoga. Me gusta el cafe. Me gusta los festicales de musica. Me gusta abril. Me gusta mayo. Me gusta junio. Me gusta la primavera. Me gusta el verano. Me gusta viajar con amigos. Me gusta caminar y ver flores en los arboles. Me gusta ver flores en los arboles. Me mucho gusta leer novelas romanticas. Me gusta la economia.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola¡ Me llamo xxx. Soy de [*CITY*]{China}<gat:noun>. [Es]{Soy}<fs:st:pn> estudiante en Estados Unidos. [Yo]{}<pr:su:pron> vivo en la *CITY* de *STATE*. Tengo *AGE* años. Me gusta escuchar música. Me [gusta]{gustan}<fs:st:pn> [el]{los}<in:det> [museo]{museos}<in:noun>. Me gusta el arte. Me [gusta]{gustan}<fs:st:pn> [la]{las}<in:det> [exposicion]{exposiciones}<in:noun> de arte. Me gustan las culturas indigenas. Me gusta la ciudad. Me gusta la playa. Me [gusta]{gustan}<fs:st:pn> las montañas. Me gusta la selva. Me gusta el arbol. Me gusta el volcan. Me gusta el pajaro. Me mucho gusta el oceano. Me gustan los animales. Me gusta la comida japonesa. Me gustan [la]{las}<na:det> [serie]{series}<na:noun>. Me [gustan]{gusta}<fs:st:pn> el yoga. Me gusta el cafe. Me [gusta]{gustan}<fs:st:pn> los festicales de musica. Me gusta abril. Me gusta mayo. Me gusta junio. Me gusta la primavera. Me gusta el verano. Me gusta viajar con amigos. Me gusta caminar y ver flores en los arboles. Me gusta ver flores en los arboles. Me mucho gusta leer novelas romanticas. Me gusta la economia.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿¡Hola¡ me llamo xxx. Soy de China. Soy estudiante en Estados Unidos.  Vivo en *CITY*, *STATE*. Tengo *AGE* años. Me gusta escuchar música. Me gusta el museo. Me gusta el arte. Me gusta la exposición de arte. Me gustan las culturas indígenas. Me gusta la ciudad. Me gusta la playa. Me gustan las montañas. Me gusta la selva. Me gusta el árbol. Me gusta el volcán. Me gusta el pájaro. Me mucho gusta el océano. Me gustan los animales. Me gusta la comida japonesa. Me gustan las series. Me gusta el yoga. Me gusta el café. Me gustan los festivales de música. Me gusta abril. Me gusta mayo. Me gusta junio. Me gusta la primavera. Me gusta el verano. Me gusta viajar con amigos. Me gusta caminar y ver flores en los árboles. Me gusta ver flores en los árboles. Me mucho gusta leer novelas románticas. Me gusta la economía. 
+# corrected2 = nan
+# text = ¡Hola¡ Me llamo xxx. Soy de *CITY*. Es estudiante en Estados Unidos. Yo vivo en la *CITY* de *STATE*. Tengo *AGE* años. Me gusta escuchar música. Me gusta el museo. Me gusta el arte. Me gusta la exposicion de arte. Me gustan las culturas indigenas. Me gusta la ciudad. Me gusta la playa. Me gusta las montañas. Me gusta la selva. Me gusta el arbol. Me gusta el volcan. Me gusta el pajaro. Me mucho gusta el oceano. Me gustan los animales. Me gusta la comida japonesa. Me gustan la serie. Me gustan el yoga. Me gusta el cafe. Me gusta los festicales de musica. Me gusta abril. Me gusta mayo. Me gusta junio. Me gusta la primavera. Me gusta el verano. Me gusta viajar con amigos. Me gusta caminar y ver flores en los arboles. Me gusta ver flores en los arboles. Me mucho gusta leer novelas romanticas. Me gusta la economia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	_	5	punct	_	_
+2	Hola	Hola	PROPN	_	_	5	nsubj	_	_
+3	¡	¡	PUNCT	_	_	5	punct	_	_
+4	Me	yo	PRON	_	_	5	iobj	_	_
+5	llamo	llamar	VERB	_	_	0	ROOT	_	_
+6	xxx	xxx	PROPN	_	_	5	nsubj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Estados	Estados	PROPN	_	_	2	nmod	_	_
+5	Unidos	Unidos	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	vivo	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*STATE*	STATE	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	escuchar	escuchar	VERB	_	_	2	csubj	_	_
+4	música	música	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	museo	museo	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	arte	arte	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	exposicion	exposicion	PROPN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	arte	arte	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	culturas	cultura	NOUN	_	_	2	nsubj	_	_
+5	indigenas	indigena	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	ciudad	ciudad	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	playa	playa	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	montañas	montaña	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	selva	selva	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	arbol	arbol	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	volcan	volcan	VERB	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pajaro	pajaro	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	3	expl:pass	_	_
+2	mucho	mucho	ADV	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	oceano	oceano	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	animales	animal	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	comida	comida	NOUN	_	_	2	nsubj	_	_
+5	japonesa	japonés	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	serie	serie	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	yoga	yoga	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	cafe	cafe	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	festicales	festical	NOUN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	musica	musica	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	abril	abril	NOUN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mayo	mayo	NOUN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	junio	junio	NOUN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	primavera	primavera	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	verano	verano	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	amigos	amigo	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	caminar	caminar	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ver	ver	VERB	_	_	3	conj	_	_
+6	flores	flor	NOUN	_	_	3	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	arboles	arbol	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	flores	flor	NOUN	_	_	3	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	arboles	arbol	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	3	cop	_	_
+2	mucho	mucho	DET	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	leer	leer	VERB	_	_	3	csubj	_	_
+5	novelas	novela	NOUN	_	_	4	obj	_	_
+6	romanticas	romantica	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	economia	economia	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+

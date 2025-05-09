@@ -1,0 +1,239 @@
+# Unnamed: 0 = 41
+# id = 182095
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 28 veinteocho
+# gender = I do not identify with either genders
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Japanese... self study... on off for 12 years.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Mi madre y hermana son [muy importante gente]{gente muy importante}<col:adj> en mi vida. Mi madre se llama es *FIRST_NAME* *LAST_NAME*. [Ellas]{}<pr:su:pron> es de *STATE*, Estados Unidos. [Ella]{}<pr:su:pron> es alta, gorda, blanca, con pelo rubio y ojos azules. Madre es inteligente, trabajadora, y muy sedentaria. [Ella]{}<pr:su:pron> trabaja secretaria en bufete de Abogados. Madre gusta la ley, []{la}<ab:det:art:def> musica, ver [programa]{programas}<gat:noun> de televisión, y no gusta anime. También pero me gusta anime y sociología. Madre usa anteojos y [tener]{tiene}<fs:st:pn:t:mo> dos perros. los nombres de los perros son Princess y Bella. Mi madre [vives]{vive}<fs:st:pn> con might hermana y son dos perros juntos. Mi hermana se llama es *FIRST_NAME* o *FIRST_NAME* *LAST_NAME*. [Ellas]{}<pr:su:pron> es de *CITY*, *STATE* en Estados Unidos. También es de *CITY*. Mi hermana es alta, gorda, blanca con pelo [morena]{moreno}<ga:adj> y ojos azules. También pelo [morena]{moreno}<ga:adj> y ojos azules. [Ella]{}<pr:su:pron> trabaja en *PLACE* y se pone maquillaje todas las mañanas antes de salir de la casa. Mi hermana es cómica, inteligente y muy sedentaria en casa.
+# updated annotation ann2 = Mi madre y hermana son [muy importante gente]{gente muy importante}<col:adj> en mi vida. Mi madre se llama es *FIRST_NAME* *LAST_NAME*. [Ellas]{}<pr:su:pron> es de *STATE*, Estados Unidos. [Ella]{}<pr:su:pron> es alta, gorda, blanca, con []{el}<ab:det:art:def> pelo rubio y []{los}<ab:det:art:def> ojos azules. Madre es inteligente, trabajadora, y muy sedentaria. [Ella]{}<pr:su:pron> trabaja secretaria en []{un}<ab:det:art:indef> bufete de Abogados. Madre gusta la ley, []{la}<ab:det:art:def> musica, ver programa de televisión, y no gusta []{el}<ab:det:art:def> anime. También pero me gusta []{el}<ab:det:art:def> anime y []{la}<ab:det:art:def> sociología. Madre usa anteojos y [tener]{tiene}<fs:st:t> dos perros. los nombres de los perros son Princess y Bella. Mi madre [vives]{fs:st:pn} con might hermana y son dos perros juntos. Mi hermana se llama es *FIRST_NAME* o *FIRST_NAME* *LAST_NAME*. [Ellas]{}<pr:su:pron> es de *CITY*, *STATE* en Estados Unidos. También es de *CITY*. Mi hermana es alta, gorda, blanca con []{el}<ab:det:art:def> pelo [morena]{moreno}<ga:adj> y []{los}<ab:det:art:def> ojos azules. También []{el}<ab:det:art:def> pelo [morena]{moreno}<ga:adj> y []{los}<ab:det:art:def> ojos azules. Ella trabaja en *PLACE* y se pone maquillaje todas las mañanas antes de salir de la casa. Mi hermana es cómica, inteligente y muy sedentaria en casa.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi madre y mi hermana son gente muy importante en mi vida. Mi madre se llama *FIRST_NAME* *LAST_NAME*. Es de *STATE*, Estados Unidos. Es alta, gorda, blanca, con el pelo rubio y los ojos azules. Madre es inteligente, trabajadora y muy sedentaria. Trabaja como secretaria en un bufete de abogados. Le gusta la ley, la música, ver programas de televisión, y no le gusta el anime. A mí también, pero me gusta el anime y la sociología. Mi madre usa anteojos y tiene dos perros. Los nombres de los perros son Princess y Bella. Mi madre vive junto con mi hermana y sus dos perros. Mi hermana se llama *FIRST_NAME* o *FIRST_NAME* *LAST_NAME*. Es de *CITY*, *STATE* en Estados Unidos. También es de *CITY*. Mi hermana es alta, gorda, blanca con el pelo moreno y los ojos azules. También tengo el pelo moreno y los ojos azules. Ella trabaja en *PLACE* y se pone maquillaje todas las mañanas antes de salir de la casa. Mi hermana es cómica, inteligente y muy sedentaria en casa.  
+# corrected2 = nan
+# text = Mi madre y hermana son muy importante gente en mi vida. Mi madre se llama es *FIRST_NAME* *LAST_NAME*. Ellas es de *STATE*, Estados Unidos. Ella es alta, gorda, blanca, con pelo rubio y ojos azules. Madre es inteligente, trabajadora, y muy sedentaria. Ella trabaja secretaria en bufete de Abogados. Madre gusta la ley, musica, ver programa de televisión, y no gusta anime. También pero me gusta anime y sociología. Madre usa anteojos y tener dos perros. los nombres de los perros son Princess y Bella. Mi madre vives con might hermana y son dos perros juntos. Mi hermana se llama es *FIRST_NAME* o *FIRST_NAME* *LAST_NAME*. Ellas es de *CITY*, *STATE* en Estados Unidos. También es de *CITY*. Mi hermana es alta, gorda, blanca con pelo morena y ojos azules. También pelo morena y ojos azules. Ella trabaja en *PLACE* y se pone maquillaje todas las mañanas antes de salir de la casa. Mi hermana es cómica, inteligente y muy sedentaria en casa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	importante	importante	ADJ	_	Number=Sing	8	amod	_	_
+8	gente	gente	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	*FIRST_NAME*	*first_name*	SYM	_	_	5	obl	_	_
+7	*LAST_NAME*	*last_name*	PUNCT	_	_	6	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ellas	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*STATE*	*state*	SYM	_	_	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	Estados	Estados	PROPN	_	_	4	flat	_	_
+7	Unidos	Unidos	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	gorda	gordo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+11	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
+14	azules	azul	ADJ	_	Number=Plur	13	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Madre	Madre	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	sedentaria	sedentario	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	secretaria	secretaria	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	bufete	bufete	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Abogados	Abogados	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Madre	Madre	PROPN	_	_	2	nsubj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ley	ley	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	musica	musica	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	2	advcl	_	_
+9	programa	programa	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+16	anime	anime	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	0	root	_	_
+2	pero	pero	CCONJ	_	_	4	cc	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	anime	anime	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	sociología	sociología	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Madre	Madre	PROPN	_	_	2	nsubj	_	_
+2	usa	usar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	anteojos	anteojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tener	tener	VERB	_	VerbForm=Inf	2	conj	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	perros	perro	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	perros	perro	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	Princess	Princess	PROPN	_	_	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	Bella	Bella	PROPN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vives	vivir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	might	might	NOUN	_	_	3	obl	_	_
+6	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	compound	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+11	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	*FIRST_NAME*	*first_name*	PROPN	_	_	5	obl	_	_
+9	*LAST_NAME*	*last_name*	PUNCT	_	_	8	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ellas	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	SYM	_	_	8	flat	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	*STATE*	*state*	PUNCT	_	_	8	flat	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Estados	Estados	PROPN	_	_	0	root	_	_
+9	Unidos	Unidos	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	gorda	gordo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	morena	morena	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
+14	azules	azul	ADJ	_	Number=Plur	13	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	morena	morena	ADJ	_	Number=Sing	2	appos	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+6	azules	azul	ADJ	_	Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*PLACE*	*place*	PROPN	_	_	2	nmod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obl	_	_
+7	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	maquillaje	maquillaje	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	10	det	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	mañanas	mañana	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+12	antes	antes	ADV	_	_	7	advmod	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	salir	salir	VERB	_	VerbForm=Inf	12	advcl	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	casa	casa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	sedentaria	sedentario	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

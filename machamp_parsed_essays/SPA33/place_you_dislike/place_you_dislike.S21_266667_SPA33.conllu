@@ -1,0 +1,379 @@
+# Unnamed: 0 = 26
+# id = 266667
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 33
+# age = 18
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 3
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Extremely comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un lugar donde tengo una relación amor-odio es la ciudad en la que crecí. De joven no estaba expuesta a las cualidades malas porque no tenía la capacidad de entenderlos. Pero con tiempo y madures la ciudad que amaba se me hacía más y más real y me hacía expuesta a esas cualidades malas. Es obvio cuando vas por las vecindades de este pueblo que fue fundada en *NUMBER* que tiene líneas racistas. Mi abuelo ha vivido en este pueble desde que inmigró a los *PLACE* *PLACE* en los *NUMBER*. Es un hombre muy reservado y no habla mucho, pero una historia que me sobresale es cuando un día estaba hablando sobre su experiencia con el racismo y segregación que perduro. Hablo sobre hombres viéndolo como menos de humano y forzándolo que use la puerta de atrás para poder entrar a un restaurante porque todos los demás tenían señales que decían "No *PLACE* Allowed" en las puertas. Y este tono de racismo se ha quedado con la ciudad en mi opinión. Los días de señales en las puertas prohibiendo personas de entrar a lugares ya pasaron, pero fueron remplazados con banderas de MAGA. Vecindarios son mayoría blancos, no porque no dejan a otras rasas entrar, pero porque las otras razas no pueden pagar por casas de medio millón de dólares porque son campesinos. O si no son campesinos sus padres fueron y ellos son primera generación americana que estadísticamente no van a tener los mismos lujos que la gente que ha vivido aquí por cientos de años. En una manera amo donde crecí porque ahí esta mi familia y ahí es donde hice muchas memorias. Pero al mismo tiempo no ay lugares sin fallas y la historia de racismo en el pueblo donde crecí y en una manera el continuo de este racismo me hace reevaluar que es lo que me gusta y lo que odio de este lugar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	donde	donde	ADV	_	PronType=Rel	4	advmod	_	_
+4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	relación	relación	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	amor-odio	amor-odio	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	que	que	PRON	_	PronType=Rel	14	obl	_	_
+14	crecí	crecir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	De	de	ADP	_	_	2	case	_	_
+2	joven	joven	NOUN	_	Number=Sing	5	obl	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	expuesta	expuesto	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cualidades	cualidad	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+9	malas	malo	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
+10	porque	porque	SCONJ	_	_	12	mark	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	capacidad	capacidad	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	de	de	ADP	_	_	16	mark	_	_
+16	entenderlos	entender	VERB	_	VerbForm=Inf	14	acl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	12	advmod	_	_
+2	con	con	ADP	_	_	3	case	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	madures	maduz	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+8	que	que	PRON	_	PronType=Rel	9	obj	_	_
+9	amaba	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+13	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	más	más	ADV	_	Degree=Cmp	13	conj	_	_
+16	real	real	ADJ	_	Number=Sing	12	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obj	_	_
+19	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
+20	expuesta	expuesto	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	19	xcomp	_	_
+21	a	a	ADP	_	_	23	case	_	_
+22	esas	ese	DET	_	Gender=Fem|Number=Plur|PronType=Dem	23	det	_	_
+23	cualidades	cualidad	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	_
+24	malas	malo	ADJ	_	Gender=Fem|Number=Plur	23	amod	_	_
+25	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	obvio	obvio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	vecindades	vecindad	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	fundada	fundar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*NUMBER*	*number*	PUNCT	_	_	13	punct	_	_
+16	que	que	PRON	_	PronType=Rel	17	nsubj	_	_
+17	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	_
+18	líneas	línea	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
+19	racistas	racista	ADJ	_	Number=Plur	18	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	pueble	pueble	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	desde	desde	ADP	_	_	10	mark	_	_
+9	que	que	SCONJ	_	_	10	mark	_	_
+10	inmigró	inmigrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	*PLACE*	*place*	PROPN	_	_	10	obl	_	_
+14	*PLACE*	*place*	PUNCT	_	_	13	punct	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	*NUMBER*	*number*	PUNCT	_	_	13	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	reservado	reservado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+11	pero	pero	CCONJ	_	_	17	cc	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	historia	historia	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	sobresale	sobresalir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
+17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+18	cuando	cuando	SCONJ	_	_	22	mark	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	día	día	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+21	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	hablando	hablar	VERB	_	VerbForm=Ger	17	ccomp	_	_
+23	sobre	sobre	ADP	_	_	25	case	_	_
+24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
+25	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
+26	con	con	ADP	_	_	28	case	_	_
+27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+29	y	y	CCONJ	_	_	30	cc	_	_
+30	segregación	segregación	NOUN	_	Gender=Fem|Number=Sing	28	conj	_	_
+31	que	que	PRON	_	PronType=Rel	32	nsubj	_	_
+32	perduro	perdurar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	acl	_	_
+33	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sobre	sobre	ADP	_	_	3	case	_	_
+3	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	viéndolo	viar	VERB	_	VerbForm=Ger	1	advcl	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	menos	menos	ADV	_	Degree=Cmp	4	advmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	humano	humano	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	forzándolo	forzar	VERB	_	VerbForm=Ger	4	conj	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	use	usar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	atrás	atrás	ADV	_	_	12	advmod	_	_
+17	para	para	ADP	_	_	19	mark	_	_
+18	poder	poder	AUX	_	VerbForm=Inf	19	aux	_	_
+19	entrar	entrar	VERB	_	VerbForm=Inf	12	advcl	_	_
+20	a	a	ADP	_	_	22	case	_	_
+21	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	restaurante	restaurante	NOUN	_	Number=Sing	19	obj	_	_
+23	porque	porque	SCONJ	_	_	27	mark	_	_
+24	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	25	det	_	_
+25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	demás	demás	PRON	_	Number=Plur|PronType=Ind	30	nsubj	_	_
+27	tenían	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+28	señales	señal	NOUN	_	Gender=Fem|Number=Plur	27	obj	_	_
+29	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
+30	decían	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	28	acl	_	_
+31	"	"	PUNCT	_	PunctType=Quot	32	punct	_	_
+32	No	no	PART	_	Polarity=Neg	30	obj	_	_
+33	*PLACE*	*Place*	PROPN	_	_	32	flat	_	_
+34	Allowed	allowed	PROPN	_	_	32	flat	_	_
+35	"	"	PUNCT	_	PunctType=Quot	32	punct	_	_
+36	en	en	ADP	_	_	38	case	_	_
+37	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	_
+38	puertas	puerta	NOUN	_	Gender=Fem|Number=Plur	30	obl	_	_
+39	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	tono	tono	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+7	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	quedado	quedar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	días	día	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	señales	señal	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	puertas	puerta	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+8	prohibiendo	prohibir	VERB	_	VerbForm=Ger	2	acl	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	entrar	entrar	VERB	_	VerbForm=Inf	9	acl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+14	ya	ya	ADV	_	_	15	advmod	_	_
+15	pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+17	pero	pero	CCONJ	_	_	19	cc	_	_
+18	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
+19	remplazados	remplazar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	conj	_	_
+20	con	con	ADP	_	_	21	case	_	_
+21	banderas	bandera	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	MAGA	MAGA	PROPN	_	_	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
+
+1	Vecindarios	vecindario	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	blancos	blanco	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	dejan	dejar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	rasas	rasa	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+13	entrar	entrar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+14	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+15	pero	pero	CCONJ	_	_	22	cc	_	_
+16	porque	porque	SCONJ	_	_	22	mark	_	_
+17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
+19	razas	raza	NOUN	_	Gender=Fem|Number=Plur	22	nsubj	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	pagar	pagar	VERB	_	VerbForm=Inf	9	conj	_	_
+23	por	por	ADP	_	_	24	case	_	_
+24	casas	casa	NOUN	_	Gender=Fem|Number=Plur	22	obl	_	_
+25	de	de	ADP	_	_	27	case	_	_
+26	medio	medio	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	27	nummod	_	_
+27	millón	millón	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	_
+28	de	de	ADP	_	_	29	case	_	_
+29	dólares	dólar	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	_
+30	porque	porque	SCONJ	_	_	32	mark	_	_
+31	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+32	campesinos	campesino	NOUN	_	Gender=Masc|Number=Plur	22	advcl	_	_
+33	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	O	o	CCONJ	_	_	5	cc	_	_
+2	si	si	SCONJ	_	_	5	mark	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	campesinos	campesino	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+8	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+11	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
+13	generación	generación	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+14	americana	americano	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	que	que	PRON	_	PronType=Rel	18	nsubj	_	_
+16	estadísticamente	estadísticamente	ADV	_	_	18	advmod	_	_
+17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+18	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
+19	a	a	ADP	_	_	20	mark	_	_
+20	tener	tener	VERB	_	VerbForm=Inf	18	xcomp	_	_
+21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	mismos	mismo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	21	det	_	_
+23	lujos	lujo	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
+24	que	que	SCONJ	_	_	26	nmod	_	_
+25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	gente	gente	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+27	que	que	PRON	_	PronType=Rel	29	nsubj	_	_
+28	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+29	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	acl	_	_
+30	aquí	aquí	ADV	_	_	29	advmod	_	_
+31	por	por	ADP	_	_	34	case	_	_
+32	cientos	ciento	NUM	_	Number=Plur|NumForm=Word|NumType=Card	29	obl	_	_
+33	de	de	ADP	_	_	34	case	_	_
+34	años	año	NOUN	_	Gender=Masc|Number=Plur	29	obl	_	_
+35	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	manera	manera	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+4	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	donde	donde	SCONJ	_	_	6	advmod	_	_
+6	crecí	crecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	ahí	ahí	ADV	_	_	9	obj	_	_
+9	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	ahí	ahí	ADV	_	_	9	conj	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
+16	hice	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	14	csubj	_	_
+17	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	18	det	_	_
+18	memorias	memoria	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	al	a	ADP	_	_	4	case	_	_
+3	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	ay	ay	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	sin	sin	ADP	_	_	9	case	_	_
+9	fallas	falla	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
+10	y	y	CCONJ	_	_	30	cc	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	historia	historia	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+18	donde	donde	ADV	_	PronType=Rel	19	advmod	_	_
+19	crecí	crecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	acl	_	_
+20	y	y	CCONJ	_	_	23	cc	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	manera	manera	NOUN	_	Gender=Fem|Number=Sing	19	conj	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	continuo	continuo	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
+28	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+29	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	30	obl	_	_
+30	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+31	reevaluar	reevaluar	VERB	_	VerbForm=Inf	30	xcomp	_	_
+32	que	que	SCONJ	_	_	33	mark	_	_
+33	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	_
+34	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	det	_	_
+35	que	que	PRON	_	PronType=Rel	37	nsubj	_	_
+36	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	37	obl	_	_
+37	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	ccomp	_	_
+38	y	y	CCONJ	_	_	41	cc	_	_
+39	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	41	det	_	_
+40	que	que	PRON	_	PronType=Rel	41	obj	_	_
+41	odio	odiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	37	conj	_	_
+42	de	de	ADP	_	_	44	case	_	_
+43	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	44	det	_	_
+44	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	_
+45	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

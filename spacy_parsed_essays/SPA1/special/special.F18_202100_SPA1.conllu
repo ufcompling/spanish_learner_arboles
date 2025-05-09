@@ -1,0 +1,226 @@
+# Unnamed: 0 = 147
+# id = 202100
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = I choose Mandarin in the last question.
+# language(s) used at home = Mandarin
+# language(s) studied = English. About 12 years.
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Me llamo *FIRST_NAME*. Soy estudiante en []{la}<ab:det:art:def> Universidad de *UNIVERSITY*. Mi abuela es importante. Es muy simpática es interesante. Es un poco gorda es bajo [bajo]{baja}<ga:adj>. Es médica en el ejército. Sus los [los]{}<pr:det:art:def> ojos negros y el pelo blanco. Tiene *AGE* años. Es ama de casa Mi madre con padre son [son]{están}<conf:v:seta> muy ocupados. No tienen tiempo. Mi abuela es de china. El [él]{ella}<gat:pron> vive en mi casa. Hay que cocinar todos los días. Hay dos perros y siete gatos. Mi abuela tiene que cuidar de ellos. Ella [ella]{}<pr:su:pron> tiene que levantarse a las cinco de la mañana. Tiene que cocinar y preparar en la mañana. En la tarde ella  [ella]{}<pr:su:pron> tiene que cocinar y lavar la ropa. Tiene que hacer las tareas domésticas. Pero nuestra casa es grande y tiene dos pisos. Mi abuela es muy difícil. Sus piernas no son [son]{están}<conf:v:seta> buenas. Ella  [ella]{}<pr:su:pron> es muy importante y muy buena para mí. Yo amo a mi abuela
+# updated annotation ann2 = Me llamo *FIRST_NAME*. Soy estudiante en []{la}<ab:det:art:def> Universidad de *UNIVERSITY*. Mi abuela es importante. Es muy simpática es interesante. Es un poco gorda es [bajo]{baja}<ga:adj>. [Es]{Era}<fs:st:t> médica en el ejército. Sus los ojos negros y el pelo blanco. Tiene *AGE* años. Es ama de casa Mi madre con padre [son]{están}<conf:v:seta> muy ocupados. No tienen tiempo. Mi abuela es de china. [El]{}<pr:su:pron> vive en mi casa. Hay que cocinar todos los días. Hay dos perros y siete gatos. Mi abuela tiene que cuidar de ellos. Ella tiene que levantarse a las cinco de la mañana. Tiene que cocinar y preparar en la mañana. En la tarde [ella]{}<pr:su:pron> tiene que cocinar y lavar la ropa. Tiene que hacer las tareas domésticas. Pero nuestra casa es grande y tiene dos pisos. Mi abuela es muy difícil. Sus piernas no [son]{están}<conf:v:seta> buenas. Ella es muy importante y muy buena para mí. Yo amo a mi abuela
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Me llamo *FIRST_NAME*. Soy estudiante en la Universidad de *UNIVERSITY*. Mi abuela es importante. Es muy simpática y es interesante. Es un poco gorda y es baja. Era médica en el ejército. Tiene los ojos son negros y el pelo blanco. Tiene *AGE* años. Es ama de casa Mi madre y mi padre están muy ocupados. No tienen tiempo. Mi abuela es de China. Ella vive en mi casa. Tiene que cocinar todos los días. Tenemos dos perros y siete gatos. Mi abuela tiene que cuidar de ellos. Tiene que levantarse a las cinco de la mañana. Tiene que cocinar y preparar cosas en la mañana. En la tarde ella tiene que cocinar y lavar la ropa. Tiene que hacer las tareas domésticas. Pero nuestra casa es grande y tiene dos pisos. Mi abuela es muy duras. Sus piernas no están bien. Ella es muy importante y buena para mí. Yo amo a mi abuela
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME*. Soy estudiante en Universidad de *UNIVERSITY*. Mi abuela es importante. Es muy simpática es interesante. Es un poco gorda es bajo. Es médica en el ejército. Sus los ojos negros y el pelo blanco. Tiene *AGE* años. Es ama de casa Mi madre con padre son muy ocupados. No tienen tiempo. Mi abuela es de china. El vive en mi casa. Hay que cocinar todos los días. Hay dos perros y siete gatos. Mi abuela tiene que cuidar de ellos. Ella tiene que levantarse a las cinco de la mañana. Tiene que cocinar y preparar en la mañana. En la tarde ella tiene que cocinar y lavar la ropa. Tiene que hacer las tareas domésticas. Pero nuestra casa es grande y tiene dos pisos. Mi abuela es muy difícil. Sus piernas no son buenas. Ella es muy importante y muy buena para mí. Yo amo a mi abuela
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	llamo	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Universidad	Universidad	PROPN	_	_	2	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	importante	importante	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	interesante	interesante	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	un	uno	DET	_	_	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	gorda	gordo	ADJ	_	_	6	nsubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	bajo	bajo	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	médica	médico	ADJ	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	ejército	ejército	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sus	su	DET	_	_	3	det	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	0	ROOT	_	_
+4	negros	negro	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	3	conj	_	_
+8	blanco	blanco	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	ama	ama	NOUN	_	_	11	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	casa	casa	NOUN	_	_	2	nmod	_	_
+5	Mi	Mi	PROPN	_	_	2	appos	_	_
+6	madre	madre	PROPN	_	_	5	flat	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	padre	padre	NOUN	_	_	2	nmod	_	_
+9	son	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	ocupados	ocupado	ADJ	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tienen	tener	VERB	_	_	0	ROOT	_	_
+3	tiempo	tiempo	NOUN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	china	china	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	casa	casa	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	cocinar	cocinar	VERB	_	_	1	conj	_	_
+4	todos	todo	DET	_	_	5	det	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	días	día	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	perros	perro	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	siete	siete	NUM	_	_	6	nummod	_	_
+6	gatos	gato	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	5	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	cuidar	cuidar	VERB	_	_	3	conj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	ellos	él	PRON	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	4	cc	_	_
+4	levantarse	levantar él	VERB	_	_	2	conj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	_	7	det	_	_
+7	cinco	cinco	NUM	_	_	4	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	mañana	mañana	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	cocinar	cocinar	VERB	_	_	1	conj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	preparar	preparar	VERB	_	_	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	tarde	tarde	NOUN	_	_	7	obl	_	_
+4	ella	él	PRON	_	_	7	nsubj	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	que	que	SCONJ	_	_	7	cc	_	_
+7	cocinar	cocinar	VERB	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	lavar	lavar	VERB	_	_	7	conj	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	ropa	ropa	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	hacer	hacer	VERB	_	_	1	conj	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	tareas	tarea	NOUN	_	_	3	obj	_	_
+6	domésticas	doméstico	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	nuestra	nuestro	DET	_	_	3	det	_	_
+3	casa	casa	NOUN	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	grande	grande	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	5	conj	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	pisos	piso	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	piernas	pierna	NOUN	_	_	5	nsubj	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	buenas	buena	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	importante	importante	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	buena	buen	ADJ	_	_	4	conj	_	_
+8	para	para	ADP	_	_	9	case	_	_
+9	mí	yo	PRON	_	_	4	obl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	abuela	abuela	NOUN	_	_	2	obj	_	_
+

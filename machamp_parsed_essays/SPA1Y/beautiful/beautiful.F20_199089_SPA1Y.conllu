@@ -1,0 +1,223 @@
+# Unnamed: 0 = 123
+# id = 199089
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. [Ella]{}<pr:su:pron> es alta y athletica. Todos los domingos [ella]{}<pr:su:pron> sale a correr. [Ella]{}<pr:su:pron> corre por lo hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y [ella]{}<pr:su:pron> no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. [El]{}<pr:su:pron> es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de var [al]{a}<pr:det:art:def> *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. [Ella]{}<pr:su:pron> es alta y athletica. Todos los domingos [ella]{}<pr:su:pron> sale a correr. [Ella]{}<pr:su:pron> corre por [lo]{el}<ga:det> hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y [ella]{}<pr:su:pron> no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. El es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de [var]{ver}<fs:st:r> [al]{a}<pr:det:art:def> *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos
+# verbs annotation ann2 = nan
+# corrected1 = Hay una chica muy bonita y su nombre es *FIRST_NAME*. Es alta y atlética. Todos los domingos sale a correr. Corre por el hermoso arboretum en el campus de UC Davis. *FIRST_NAME* corrió el domingo pasado pero se hizo de noche muy temprano. Durante la noche se vuelve muy aterrador porque es difícil ver. *FIRST_NAME* no pudo ver y se tropezó (tripped). Su tobillo le dolía mucho y no podía caminar. Como era de noche, no había quien la ayudara. Pero la clase salió tarde para *FIRST_NAME*. Es un hombre guapo. *FIRST_NAME* escuchó a una persona llorar. Así que fue a ver qué era. Luego vió a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenía miedo al ver a *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudó a *FIRST_NAME*. *FIRST_NAME* llevó a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y Jackson se hicieron amigos.
+# corrected2 = nan
+# text = Hay una chica muy bonita y su nombre es *FIRST_NAME*. Ella es alta y athletica. Todos los domingos ella sale a correr. Ella corre por lo hermoso arboretum en el campus de U *PLACE* *PLACE*. *FIRST_NAME* corrio el domingo pasado pero se hizo de noche muy tomprano. Durante la noche se vuelve muy alterrador porque es dificil de ver. *FIRST_NAME* no pudo ver y tropezo (tripped). Su tobillo le dolia mucho y ella no podia caminar. Como era de noche, no habia quien ayudara. Pero la clase salio tarde para *FIRST_NAME*. El es un hombre guapo. *FIRST_NAME* escucho a una persona llorar. Asi que fue a ver que era. Luego vio a *FIRST_NAME* junto al arroyo. *FIRST_NAME* tenia miedo de var al *FIRST_NAME*. Pero *FIRST_NAME* fue muy agradable y ayudo a *FIRST_NAME*. *FIRST_NAME* llevo a *FIRST_NAME* a su casa. *FIRST_NAME* estaba agradecida de llegar a casa a salvo. Luego *FIRST_NAME* y *FIRST_NAME* se hicieron amigos
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	chica	chica	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	*FIRST_NAME*	*first_name*	PUNCT	_	_	1	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	athletica	athletico	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	domingos	domingo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	sale	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	correr	correr	VERB	_	VerbForm=Inf	5	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	corre	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	6	case	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	det	_	_
+5	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+6	arboretum	arboretum	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	campus	campus	NOUN	_	Gender=Masc	2	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	U	U	PROPN	_	_	9	nmod	_	_
+12	*PLACE*	*PlacE*	PROPN	_	_	11	flat	_	_
+13	*PLACE*	*place*	PUNCT	_	_	11	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	corrio	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	domingo	domingo	NOUN	_	AdvType=Tim	2	obl	_	_
+5	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	noche	noche	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	tomprano	tomprano	ADJ	_	Number=Sing	8	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	vuelve	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	alterrador	alterrador	ADJ	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	dificil	dificil	ADJ	_	Number=Sing	5	advcl	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	ver	ver	VERB	_	VerbForm=Inf	10	acl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tropezo	tropezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	8	punct	_	_
+8	tripped	tripped	NOUN	_	Gender=Masc|Number=Sing	4	dep	_	_
+9	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	tobillo	tobillo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	dolia	dolir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	podia	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	caminar	caminar	VERB	_	VerbForm=Inf	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Como	como	SCONJ	_	_	4	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	noche	noche	NOUN	_	Gender=Fem|Number=Sing	7	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	habia	habei	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quien	quien	PRON	_	Number=Sing|PronType=Rel	9	nsubj	_	_
+9	ayudara	ayudar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	csubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	salio	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	tarde	tarde	ADV	_	_	4	advmod	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	escucho	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	llorar	llorar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Asi	asi	ADV	_	_	3	advmod	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ver	ver	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	que	que	SCONJ	_	_	3	mark	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	7	case	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+5	junto	junto	ADJ	_	Gender=Masc|Number=Sing	7	case	_	_
+6	al	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	arroyo	arroyo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	var	var	VERB	_	VerbForm=Inf	3	acl	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	nsubj	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	agradable	agradable	ADJ	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ayudo	ayudo	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+8	a	a	ADP	_	_	7	case	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	llevo	llevar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	2	case	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	2	punct	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	agradecida	agradecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	llegar	llegar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	a	a	ADP	_	_	5	advmod	_	_
+9	salvo	salvo	NOUN	_	_	8	fixed	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	6	advmod	_	_
+2	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	ccomp	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	hicieron	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+

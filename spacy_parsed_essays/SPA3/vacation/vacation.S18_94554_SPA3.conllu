@@ -1,0 +1,272 @@
+# Unnamed: 0 = 55
+# id = 94554
+# prompt = vacation
+# quarter = S18
+# course = SPA 3
+# age = Female
+# gender = 24
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = I have studied only Spanish for 3 years.
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Me encanta Centroamérica. El lugar es hermoso. Una vez viajé a Honduras para un viaje.
+
+El cielo era tan azul. Los árboles eran de color verde brillante. La gente era muy agradable.
+
+Me encantaba Honduras pero me encantaría visitar Sudamérica. Todo el país es tan hermoso.
+
+Mis vacaciones perfectas sería viajar por todo Sudamérica.
+
+Me gustaría visitar Brasil, Bolivia, Colombia, Perú, Argentina, Chile y Venezuela. He oído que todos estos lugares son bonitos.
+
+Mis vacaciones perfectas sería viajar a todos estos lugares con mi esposo. Me gustaría viajar con mi marido durante dos meses. Pasaríamos una semana en cada país. Probamos comida de cada lugar. 
+
+A mi esposo y a mí nos encanta bailar. Así que tratamos de aprender los diferentes bailes en cada país. 
+
+ 
+
+Visitamos museos. Veríamos el arte en los museos. También viajamos por el son en bicicletas. Estoy emocionado por la comida. Me encanta probar comida de diferentes culturas. Me encantaría experimentar diferentes tipos de comida."
+
+# a personal annotator2 = nan
+# gender-number annotator1 = Me encanta Centroamérica. El lugar es hermoso. Una vez viajé a Honduras para un viaje.
+
+El cielo era tan azul. Los árboles eran de color verde brillante. La gente era muy agradable.
+
+Me encantaba Honduras pero me encantaría visitar Sudamérica. Todo el país es tan hermoso.
+
+Mis vacaciones perfectas sería viajar por [todo]{toda}<ga:fm:det:inan> Sudamérica.
+
+Me gustaría visitar Brasil, Bolivia, Colombia, Perú, Argentina, Chile y Venezuela. He oído que todos estos lugares son bonitos.
+
+Mis vacaciones perfectas sería viajar a todos estos lugares con mi esposo. Me gustaría viajar con mi marido durante dos meses. Pasaríamos una semana en cada país. Probamos comida de cada lugar. 
+
+A mi esposo y a mí nos encanta bailar. Así que tratamos de aprender los diferentes bailes en cada país. 
+
+ 
+
+Visitamos museos. Veríamos el arte en los museos. También viajamos por el son en bicicletas. Estoy emocionado por la comida. Me encanta probar comida de diferentes culturas. Me encantaría experimentar diferentes tipos de comida."
+
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Me encanta Centroamérica. El lugar es hermoso. Una vez viajé a Honduras para un viaje. El cielo era tan azul. Los árboles eran de color verde brillante. La gente era muy agradable. Me encantaba Honduras pero me encantaría visitar Sudamérica. Todo el país es tan hermoso. Mis vacaciones perfectas sería viajar por todo Sudamérica. Me gustaría visitar Brasil, Bolivia, Colombia, Perú, Argentina, Chile y Venezuela. He oído que todos estos lugares son bonitos. Mis vacaciones perfectas sería viajar a todos estos lugares con mi esposo. Me gustaría viajar con mi marido durante dos meses. Pasaríamos una semana en cada país. Probamos comida de cada lugar. A mi esposo y a mí nos encanta bailar. Así que tratamos de aprender los diferentes bailes en cada país. Visitamos museos. Veríamos el arte en los museos. También viajamos por el son en bicicletas. Estoy emocionado por la comida. Me encanta probar comida de diferentes culturas. Me encantaría experimentar diferentes tipos de comida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	Centroamérica	Centroamérica	PROPN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	lugar	lugar	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	hermoso	hermoso	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Una	uno	DET	_	_	2	det	_	_
+2	vez	vez	NOUN	_	_	3	obl	_	_
+3	viajé	viajer	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Honduras	Honduras	PROPN	_	_	3	obj	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	viaje	viaje	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	cielo	cielo	NOUN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	tan	tanto	ADV	_	_	5	advmod	_	_
+5	azul	azul	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	árboles	árbol	NOUN	_	_	5	nsubj	_	_
+3	eran	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	color	color	NOUN	_	_	0	ROOT	_	_
+6	verde	verde	ADJ	_	_	5	amod	_	_
+7	brillante	brillante	ADJ	_	_	5	amod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	gente	gente	NOUN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	agradable	agradable	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encantaba	encantar	VERB	_	_	0	ROOT	_	_
+3	Honduras	Honduras	PROPN	_	_	2	nsubj	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	encantaría	encantar	VERB	_	_	2	conj	_	_
+7	visitar	visitar	VERB	_	_	6	xcomp	_	_
+8	Sudamérica	Sudamérica	PROPN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Todo	todo	DET	_	_	2	det	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	país	país	NOUN	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	tan	tanto	ADV	_	_	6	advmod	_	_
+6	hermoso	hermoso	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	vacaciones	vacación	NOUN	_	_	4	nsubj	_	_
+3	perfectas	perfecto	ADJ	_	_	2	amod	_	_
+4	sería	ser	AUX	_	_	0	ROOT	_	_
+5	viajar	viajar	VERB	_	_	4	ccomp	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	todo	todo	DET	_	_	8	det	_	_
+8	Sudamérica	Sudamérica	PROPN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustaría	gustar	VERB	_	_	0	ROOT	_	_
+3	visitar	visitar	VERB	_	_	2	csubj	_	_
+4	Brasil	Brasil	PROPN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Bolivia	Bolivia	PROPN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Colombia	Colombia	PROPN	_	_	4	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Perú	Perú	PROPN	_	_	4	conj	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Argentina	Argentina	PROPN	_	_	4	conj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	Chile	Chile	PROPN	_	_	4	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	Venezuela	Venezuela	PROPN	_	_	4	conj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	He	haber	AUX	_	_	2	aux	_	_
+2	oído	oer	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	8	mark	_	_
+4	todos	todo	DET	_	_	5	det	_	_
+5	estos	este	DET	_	_	6	det	_	_
+6	lugares	lugar	NOUN	_	_	8	nsubj	_	_
+7	son	ser	AUX	_	_	8	cop	_	_
+8	bonitos	bonito	ADJ	_	_	2	ccomp	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	vacaciones	vacación	NOUN	_	_	4	nsubj	_	_
+3	perfectas	perfecto	ADJ	_	_	2	amod	_	_
+4	sería	ser	AUX	_	_	0	ROOT	_	_
+5	viajar	viajar	VERB	_	_	4	ccomp	_	_
+6	a	a	ADP	_	_	9	case	_	_
+7	todos	todo	DET	_	_	8	det	_	_
+8	estos	este	DET	_	_	9	det	_	_
+9	lugares	lugar	NOUN	_	_	5	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	esposo	esposo	NOUN	_	_	5	obl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustaría	gustar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	marido	marido	NOUN	_	_	3	obl	_	_
+7	durante	durante	ADP	_	_	9	case	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	meses	mes	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pasaríamos	pasaríamos	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	semana	semana	NOUN	_	_	1	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	cada	cada	DET	_	_	6	det	_	_
+6	país	país	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Probamos	probar	VERB	_	_	0	ROOT	_	_
+2	comida	comida	NOUN	_	_	1	obj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	cada	cada	DET	_	_	5	det	_	_
+5	lugar	lugar	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	esposo	esposo	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	8	obj	_	_
+7	nos	yo	PRON	_	_	8	iobj	_	_
+8	encanta	encantar	VERB	_	_	3	conj	_	_
+9	bailar	bailar	VERB	_	_	8	xcomp	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Así	así	ADV	_	_	3	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	tratamos	tratar	VERB	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	aprender	aprender	VERB	_	_	3	xcomp	_	_
+6	los	el	DET	_	_	8	det	_	_
+7	diferentes	diferente	DET	_	_	8	amod	_	_
+8	bailes	bail	ADJ	_	_	5	obj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	cada	cada	DET	_	_	11	det	_	_
+11	país	país	NOUN	_	_	5	obl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Visitamos	visitar	VERB	_	_	0	ROOT	_	_
+2	museos	museo	NOUN	_	_	1	obj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Veríamos	veríar	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	arte	arte	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	museos	museo	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	viajamos	viajamos	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	son	son	NOUN	_	_	2	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	bicicletas	bicicleta	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	emocionado	emocionado	ADJ	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	comida	comida	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	probar	probar	VERB	_	_	2	xcomp	_	_
+4	comida	comida	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	diferentes	diferente	DET	_	_	7	det	_	_
+7	culturas	cultura	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encantaría	encantar	VERB	_	_	0	ROOT	_	_
+3	experimentar	experimentar	VERB	_	_	2	csubj	_	_
+4	diferentes	diferente	DET	_	_	5	det	_	_
+5	tipos	tipo	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	comida	comida	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+

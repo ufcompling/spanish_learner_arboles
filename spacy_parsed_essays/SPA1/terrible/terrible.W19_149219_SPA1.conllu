@@ -1,0 +1,226 @@
+# Unnamed: 0 = 102
+# id = 149219
+# prompt = terrible
+# quarter = W19
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = Japanese - 2 months
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = [Yo]{}<pr:su:pron> estoy comiendo en un restaurante con mi familia. El mesero no habla Espanol! [Yo]{}<pr:su:pron> tengo hambre. Mi hermano no quiere comer carne. La música en el restaurante no es interesante. Hay Hay un perro en el restaurante. [Yo]{}<pr:su:pron> no tengo dinero. Mi mama esta muy furiosa. El mesero está ocupado y no habla para mi familia. Mi familia y yo salimos el restaurante y vamos a un parque. Hace mucho frío en el parque. [Yo]{}<pr:su:pron> no tengo una chaqueta. [Yo]{}<pr:su:pron> llevo una camiseta. [Yo]{}<pr:su:pron> tengo [muchos]{muchas}<ga:det> tareas para mi clase de matemáticas. [Yo]{}<pr:su:pron> quiero ir a mi casa pero mi familia quieren caminar. [Yo]{}<pr:su:pron> tambien quiero levantar pesas. [Yo]{}<pr:su:pron> necesito beber agua. [Yo]{}<pr:su:pron> no miro agua beber. [Yo]{}<pr:su:pron> tambien necesito comer porque el restaurante no tiene comida buena. Cuando [yo]{}<pr:su:pron> [voy]{vaya}<fs:st:mo> a mi casa, [yo]{}<pr:su:pron> voy a comer, beber agua, y hacer []{la}<ab:det:art:def> tarea. [Yo]{}<pr:su:pron> necesito dormir porque [yo]{}<pr:su:pron> tengo clase en la mañana.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Estoy comiendo en un restaurante con mi familia. ¡El mesero no habla español! Tengo hambre. Mi hermano no quiere comer carne. La música en el restaurante no es interesante. Hay un perro en el restaurante. No tengo dinero. Mi mamá está muy furiosa. El mesero está ocupado y no habla con mi familia. Mi familia y yo salimos del restaurante y vamos a un parque. Hace mucho frío en el parque. No tengo una chaqueta. Llevo una camiseta. Tengo muchas tareas para mi clase de matemáticas. Quiero ir a mi casa pero mi familia quiere caminar. También quiero levantar pesas. Necesito beber agua. No encuentro agua para beber. También necesito comer porque el restaurante no tiene comida buena. Cuando voy a mi casa, voy a comer, beber agua, y hacer la tarea. Necesito dormir porque tengo clase en la mañana.
+# corrected2 = nan
+# text = Yo estoy comiendo en un restaurante con mi familia. El mesero no habla Espanol! Yo tengo hambre. Mi hermano no quiere comer carne. La música en el restaurante no es interesante. Hay Hay un perro en el restaurante. Yo no tengo dinero. Mi mama esta muy furiosa. El mesero está ocupado y no habla para mi familia. Mi familia y yo salimos el restaurante y vamos a un parque. Hace mucho frío en el parque. Yo no tengo una chaqueta. Yo llevo una camiseta. Yo tengo muchos tareas para mi clase de matemáticas. Yo quiero ir a mi casa pero mi familia quieren caminar. Yo tambien quiero levantar pesas. Yo necesito beber agua. Yo no miro agua beber. Yo tambien necesito comer porque el restaurante no tiene comida buena. Cuando yo voy a mi casa, yo voy a comer, beber agua, y hacer tarea. Yo necesito dormir porque yo tengo clase en la mañana.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	comiendo	comer	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	restaurante	restaurante	NOUN	_	_	3	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	mesero	mesero	PROPN	_	_	4	nsubj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	habla	hablar	VERB	_	_	0	ROOT	_	_
+5	Espanol	Espanol	PROPN	_	_	4	obj	_	_
+6	!	!	PUNCT	_	_	4	punct	_	_
+7	Yo	yo	PRON	_	_	8	nsubj	_	_
+8	tengo	tener	VERB	_	_	4	advcl	_	_
+9	hambre	hambre	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	4	nsubj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	quiere	querer	VERB	_	_	0	ROOT	_	_
+5	comer	comer	VERB	_	_	4	xcomp	_	_
+6	carne	carne	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	música	música	NOUN	_	_	8	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	restaurante	restaurante	NOUN	_	_	2	nmod	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	interesante	interesante	ADJ	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Hay	haber	AUX	_	_	2	aux	_	_
+2	Hay	haber	AUX	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	restaurante	restaurante	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	dinero	dinero	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	0	ROOT	_	_
+3	esta	este	DET	_	_	5	det	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	furiosa	furioso	ADJ	_	_	2	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	mesero	mesero	ADJ	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	ocupado	ocupado	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	habla	hablar	VERB	_	_	4	conj	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	familia	familia	NOUN	_	_	7	obl	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	_	2	conj	_	_
+5	salimos	salir	VERB	_	_	0	ROOT	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	restaurante	restaurante	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	vamos	ir	VERB	_	_	5	conj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	parque	parque	NOUN	_	_	9	obl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Hace	hacer	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	ADV	_	_	3	advmod	_	_
+3	frío	frío	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	chaqueta	chaqueta	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	llevo	llevar	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	camiseta	camiseta	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	muchos	mucho	DET	_	_	4	det	_	_
+4	tareas	tarea	NOUN	_	_	2	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	clase	clase	NOUN	_	_	2	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	matemáticas	matemática	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	xcomp	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	3	obl	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	10	nsubj	_	_
+10	quieren	querer	VERB	_	_	2	conj	_	_
+11	caminar	caminar	VERB	_	_	10	xcomp	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	tambien	tambien	AUX	_	_	3	iobj	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	levantar	levantar	VERB	_	_	3	xcomp	_	_
+5	pesas	pesa	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	necesito	necesitar	VERB	_	_	0	ROOT	_	_
+3	beber	beber	VERB	_	_	2	xcomp	_	_
+4	agua	agua	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	miro	mirar	VERB	_	_	0	ROOT	_	_
+4	agua	agua	NOUN	_	_	3	obj	_	_
+5	beber	beber	VERB	_	_	3	xcomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	tambien	tambien	AUX	_	_	3	nsubj	_	_
+3	necesito	necesitar	VERB	_	_	0	ROOT	_	_
+4	comer	comer	VERB	_	_	3	xcomp	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	restaurante	restaurante	NOUN	_	_	9	nsubj	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	tiene	tener	VERB	_	_	4	advcl	_	_
+10	comida	comida	NOUN	_	_	9	obj	_	_
+11	buena	buen	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	yo	yo	PRON	_	_	3	nsubj	_	_
+3	voy	ir	VERB	_	_	11	advcl	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	yo	yo	PRON	_	_	11	nsubj	_	_
+9	voy	ir	AUX	_	_	11	aux	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	comer	comer	VERB	_	_	0	ROOT	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	beber	beber	VERB	_	_	11	advcl	_	_
+14	agua	agua	NOUN	_	_	13	obj	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	hacer	hacer	VERB	_	_	11	conj	_	_
+18	tarea	tarea	NOUN	_	_	17	obj	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	necesito	necesitar	VERB	_	_	0	ROOT	_	_
+3	dormir	dormir	VERB	_	_	2	xcomp	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	tengo	tener	VERB	_	_	3	advcl	_	_
+7	clase	clase	NOUN	_	_	6	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	mañana	mañana	NOUN	_	_	6	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+

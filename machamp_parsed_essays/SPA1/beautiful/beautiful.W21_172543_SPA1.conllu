@@ -1,0 +1,228 @@
+# Unnamed: 0 = 128
+# id = 172543
+# prompt = beautiful
+# quarter = W21
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = 0
+# other l1 language(s) = English,Other
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = *FIRST_NAME* es muy bonita, generosa, trabajadora, y inteligente. *FIRST_NAME* tiene *AGE* años y está muy contenta porque su familia está en estado de Hawaii para vacaciones. En el día una, *FIRST_NAME* corre en el gimnasio en la playa. *FIRST_NAME* corrió junto a *FIRST_NAME*. *FIRST_NAME* preguntó a *FIRST_NAME* "tienes planes? ¿Qué tal tomar algo con mi?" *FIRST_NAME* respondió “Buena idea! ¿Qué tal tomar algo y cenar el domingo por la noche?” *FIRST_NAME* respondió si con su número de teléfono. *FIRST_NAME* y *FIRST_NAME* cenar el domingo por la noche y ir al cine. A *FIRST_NAME* le gusta *FIRST_NAME* y quedar con *FIRST_NAME* y su familia. A *FIRST_NAME* familia le gusta *FIRST_NAME* porque *FIRST_NAME* es cómico, inteligente, trabajadora, y atlético. *FIRST_NAME* está muy emocionada porque a su familia les gusta *FIRST_NAME*. *FIRST_NAME* también le gusta *FIRST_NAME*. *FIRST_NAME* y *FIRST_NAME* son trabajadores y inteligente y estudian la medicina también. *FIRST_NAME* y *FIRST_NAME* se quedan juntos durante los próximos años.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*FIRST_NAME*	*first_name*	SYM	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+9	porque	porque	SCONJ	_	_	12	mark	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+12	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	estado	estado	NOUN	_	Gender=Masc|Number=Sing	8	advcl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	Hawaii	Hawaii	PROPN	_	_	14	nmod	_	_
+17	para	para	ADP	_	_	18	case	_	_
+18	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+7	corre	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	playa	playa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	corrió	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	junto	junto	ADJ	_	_	5	case	_	_
+4	a	a	ADP	_	_	3	fixed	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nmod	_	_
+5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+6	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	planes	plan	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	_
+2	Qué	qué	PRON	_	PronType=Int	5	nmod	_	_
+3	tal	tal	PRON	_	Number=Sing|PronType=Int	2	compound	_	_
+4	tomar	tomar	VERB	_	VerbForm=Inf	0	root	_	_
+5	algo	algo	PRON	_	Number=Sing|PronType=Ind	4	obj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+8	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+9	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	respondió	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	“	“	PUNCT	_	PunctType=Quot	2	punct	_	_
+4	Buena	bueno	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	idea	idea	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	_
+2	Qué	qué	PRON	_	PronType=Int	5	nmod	_	_
+3	tal	tal	PRON	_	Number=Sing|PronType=Dem	2	compound	_	_
+4	tomar	tomar	VERB	_	VerbForm=Inf	0	root	_	_
+5	algo	algo	PRON	_	Number=Sing|PronType=Ind	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cenar	cenar	VERB	_	VerbForm=Inf	4	conj	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	domingo	domingo	NOUN	_	AdvType=Tim	7	obl	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+14	”	”	PUNCT	_	PunctType=Quot	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	respondió	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	si	si	SCONJ	_	_	6	mark	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	número	número	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	conj	_	_
+4	cenar	cenar	VERB	_	VerbForm=Inf	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	domingo	domingo	NOUN	_	AdvType=Tim	4	obl	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	4	conj	_	_
+12	al	a	ADP	_	_	13	case	_	_
+13	cine	cine	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	quedar	quedar	VERB	_	VerbForm=Inf	4	conj	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	nmod	_	_
+3	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+7	porque	porque	SCONJ	_	_	10	mark	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	5	advcl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	inteligente	inteligente	ADJ	_	Number=Sing	10	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	trabajadora	trabajadora	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	atlético	atlético	ADJ	_	Gender=Masc|Number=Sing	10	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	porque	porque	SCONJ	_	_	10	mark	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+9	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	nsubj	_	_
+2	también	también	ADV	_	_	4	advmod	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	conj	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	inteligente	inteligente	NOUN	_	Number=Sing	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	estudian	estudiar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	medicina	medicina	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	también	también	ADV	_	_	9	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	conj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	quedan	quedar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	durante	durante	ADP	_	_	10	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	próximos	próximo	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+10	años	año	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

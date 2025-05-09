@@ -1,0 +1,137 @@
+# Unnamed: 0 = 14
+# id = 101815
+# prompt = famous
+# quarter = SU17
+# course = SPA 1
+# age = 23
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Chinese 5 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Carlos Santana es famoso guitarra musico. Carlos Santana tiene sesenta y nueve anos. El cumpleanos es el junio veinte, uno nueve quatro seite. Carlos Santana soy Mexicano. Jugo en WoodStock. Serio, pero divertido y callado. Carlos Santana es viejo, no joven. 
+
+Yo soy feliz cuando escho su musica. Carlos Santana tiene mas famoso canciones. Uno famoso canciones es ""Smooth"". ""Smooth"" cumpleanos es el veinti nueve de junio, Uno Nueve Nueve Nueve. 
+
+# a personal annotator2 = Carlos Santana es famoso guitarra musico. Carlos Santana tiene sesenta y nueve anos. El cumpleanos es el junio veinte, uno nueve quatro seite. Carlos Santana soy Mexicano. Jugo en WoodStock. Serio, pero divertido y callado. Carlos Santana es viejo, no joven. 
+
+Yo soy feliz cuando escho su musica. Carlos Santana tiene mas famoso canciones. Uno famoso canciones es ""Smooth"". ""Smooth"" cumpleanos es el veinti nueve de junio, Uno Nueve Nueve Nueve. 
+
+# gender-number annotator1 = Carlos Santana es famoso guitarra musico. Carlos Santana tiene sesenta y nueve anos. El cumpleanos es el junio veinte, uno nueve quatro seite. Carlos Santana soy Mexicano. Jugo en WoodStock. Serio, pero divertido y callado. Carlos Santana es viejo, no joven. 
+
+Yo soy feliz cuando escho su musica. Carlos Santana tiene mas [famoso]{famosas}<ga:na:fm:ps:adj:inan> canciones. [Uno]{una}<ga:fm:det:inan> [famoso]{famosa}<ga:fm:adj:inan> [canciones]{canción}<na:sp:gat:noun:inan> es ""Smooth"". ""Smooth"" cumpleanos es el veinti nueve de junio, Uno Nueve Nueve Nueve. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Carlos Santana es famoso guitarra musico. Carlos Santana tiene sesenta y nueve anos. El cumpleanos es el junio veinte, uno nueve quatro seite. Carlos Santana soy Mexicano. Jugo en WoodStock. Serio, pero divertido y callado. Carlos Santana es viejo, no joven. Yo soy feliz cuando escho su musica. Carlos Santana tiene mas famoso canciones. Uno famoso canciones es "Smooth". "Smooth" cumpleanos es el veinti nueve de junio, Uno Nueve Nueve Nueve.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Carlos	Carlos	PROPN	_	_	5	nsubj	_	_
+2	Santana	Santana	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	famoso	famoso	ADJ	_	_	5	amod	_	_
+5	guitarra	guitarra	NOUN	_	_	0	ROOT	_	_
+6	musico	musico	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Carlos	Carlos	PROPN	_	_	3	nsubj	_	_
+2	Santana	Santana	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	sesenta	sesenta	NUM	_	_	7	nummod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	nueve	nueve	NUM	_	_	4	conj	_	_
+7	anos	ano	NOUN	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	cumpleanos	cumpleanos	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	junio	junio	NOUN	_	_	0	ROOT	_	_
+6	veinte	veinte	NUM	_	_	5	compound	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	uno	uno	PRON	_	_	5	appos	_	_
+9	nueve	nueve	NUM	_	_	8	nummod	_	_
+10	quatro	quatro	NOUN	_	_	11	nsubj	_	_
+11	seite	seitar	VERB	_	_	5	advcl	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Carlos	Carlos	PROPN	_	_	4	nsubj	_	_
+2	Santana	Santana	PROPN	_	_	1	flat	_	_
+3	soy	ser	AUX	_	_	4	cop	_	_
+4	Mexicano	Mexicano	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Jugo	Jugo	PROPN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	WoodStock	WoodStock	PROPN	_	_	1	nmod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Serio	Serio	PROPN	_	_	0	ROOT	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	pero	pero	CCONJ	_	_	4	cc	_	_
+4	divertido	divertido	ADJ	_	_	1	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	callado	callado	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Carlos	Carlos	PROPN	_	_	4	nsubj	_	_
+2	Santana	Santana	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	viejo	viejo	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	joven	joven	ADJ	_	_	4	advcl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+4	cuando	cuando	SCONJ	_	_	5	mark	_	_
+5	escho	escho	VERB	_	_	3	advcl	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	musica	musico	ADJ	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Carlos	Carlos	PROPN	_	_	3	nsubj	_	_
+2	Santana	Santana	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	famoso	famoso	ADJ	_	_	6	amod	_	_
+6	canciones	canción	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Uno	uno	PRON	_	_	3	det	_	_
+2	famoso	famoso	ADJ	_	_	3	amod	_	_
+3	canciones	canción	NOUN	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	"	"	PUNCT	_	_	6	punct	_	_
+6	Smooth	Smooth	PROPN	_	_	0	ROOT	_	_
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	"	"	PUNCT	_	_	7	punct	_	_
+2	Smooth	Smooth	PROPN	_	_	7	nsubj	_	_
+3	"	"	PUNCT	_	_	2	punct	_	_
+4	cumpleanos	cumpleano	NOUN	_	_	2	appos	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	veinti	veinti	NOUN	_	_	0	ROOT	_	_
+8	nueve	nueve	NUM	_	_	7	compound	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	junio	junio	NOUN	_	_	8	compound	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Uno	Uno	PROPN	_	_	7	obj	_	_
+13	Nueve	nueve	NUM	_	_	12	flat	_	_
+14	Nueve	nueve	NUM	_	_	12	nmod	_	_
+15	Nueve	Nueve	PROPN	_	_	12	flat	_	_
+16	.	.	PUNCT	_	_	7	punct	_	_
+

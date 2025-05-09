@@ -1,0 +1,348 @@
+# Unnamed: 0 = 10
+# id = 171696
+# prompt = special
+# quarter = S19
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = I answered English.
+# language(s) used at home = No.
+# language(s) studied = French (5 years)
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi mejor amigo es *FIRST_NAME* *LAST_NAME*. Él es un hombre qui estudie la ciencia medioambiental en *UNIVERSITY*. Él es de *CITY* y su familia es pequeño. Él tiene una hermana qui se llama *FIRST_NAME* o "Michy." Él es chino, grande, y un poco gordo pero él haces ejercijo con mi todos los días. Nosotros vivimos juntos en un apartamento. Él es muy divertido y amable. Él tiene el pelo negro y corto. Él tiene la piel clara. A él le gusta ayudar sus amigos. El Lunes, él tiene las clases hasta ocho de la noche. Él no le gusta los lunes porque trabaje mucho. El martes, él tiene las clases despues a las once de la mañana. Él mira los videos en YouTube despues a las dos de la tarde hasta cuatro de la tarde. Él estudie para las clases a las cuatro de la tarde despues siete de la noche. El miércoles, el tiene dos clases. No sé que él hace por la mañana o la tarde. Por la noche, él se duerme a las once de la noche. El jueves, él tiene las clases despues cuatro de la tarde. El viernes, él juega los videojuegos con mi novio, *FIRST_NAME*, por la noche. A él le gusta las comidas y comer. Él come mucho, por ejemplo el come el pollo, el arroz, las verduras, y las fruitas. Su cumpleaños es en junio pero yo no sé que comprarle. Yo sabe que él le gustan lindos animales de peluche. Yo quiero darle alguno único.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+3	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	*FIRST_NAME*	*first_name*	SYM	_	_	0	root	_	_
+6	*LAST_NAME*	*last_name*	PUNCT	_	_	5	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_
+6	estudie	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	medioambiental	medioambiental	ADJ	_	Number=Sing	8	amod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	0	flat	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	4	parataxis	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	11	punct	_	_
+9	o	o	CCONJ	_	_	11	cc	_	_
+10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	_
+11	Michy	Michy	PROPN	_	_	7	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	chino	chino	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	grande	grande	ADJ	_	Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	advmod	_	_
+10	poco	poco	ADV	_	_	9	fixed	_	_
+11	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	haces	hacer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+15	ejercijo	ejercijo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+16	con	con	ADP	_	_	20	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+18	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	19	det	_	_
+19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	días	día	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivimos	vivir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	apartamento	apartamento	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	amable	amable	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	corto	corto	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	piel	piel	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	clara	claro	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ayudar	ayudar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Lunes	Lunes	NOUN	_	AdvType=Tim	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	clases	clase	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	hasta	hasta	ADP	_	_	9	case	_	_
+9	ocho	ocho	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	lunes	lunes	NOUN	_	AdvType=Tim	4	obl	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	trabaje	trabajar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	martes	martes	NOUN	_	AdvType=Tim	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	clases	clase	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	despues	despuo	NOUN	_	Gender=Fem|Number=Plur|VerbForm=Part	5	advmod	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	videos	video	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	YouTube	Youtube	PROPN	_	_	2	obl	_	_
+7	despues	despue	NOUN	_	_	4	amod	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	hasta	hasta	ADP	_	_	15	case	_	_
+15	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	obl	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	15	compound	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	estudie	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	para	para	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	clases	clase	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	despues	despues	NOUN	_	_	8	advcl	_	_
+13	siete	siete	NUM	_	AdvType=Tim	8	compound	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	noche	noche	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	miércoles	miércoles	NOUN	_	AdvType=Tim	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	clases	clase	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	o	o	CCONJ	_	_	11	cc	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Por	por	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	duerme	duermir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	noche	noche	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	jueves	jueves	NOUN	_	AdvType=Tim	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	clases	clase	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	despues	despues	ADP	_	_	9	advmod	_	_
+9	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	9	compound	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	viernes	viernes	NOUN	_	AdvType=Tim	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	videojuegos	videojuego	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	novio	novio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	appos	_	_
+13	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	noche	noche	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	comer	comer	VERB	_	VerbForm=Inf	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	por	por	ADP	_	_	8	advmod	_	_
+6	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	verduras	verdura	NOUN	_	Gender=Fem|Number=Plur	10	appos	_	_
+17	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	fruitas	fruita	NOUN	_	Gender=Fem|Number=Plur	10	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	junio	junio	NOUN	_	AdvType=Tim	0	root	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	comprarle	comprar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	lindos	lindo	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+8	animales	animal	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	peluche	peluche	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	darle	dar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	alguno	alguno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
+5	único	único	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

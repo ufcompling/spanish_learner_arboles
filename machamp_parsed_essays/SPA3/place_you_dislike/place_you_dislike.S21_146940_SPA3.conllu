@@ -1,0 +1,248 @@
+# Unnamed: 0 = 102
+# id = 146940
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 3
+# age = 23
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Other
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy una limpiadora y una recepionista en un hotel en *PLACE*, *STATE*. Aunque me gusta mi trabajo porque me encuentro personas diversas de ciudades diferentes todos los días en el escritorio, alungas personas puedan ser muy [mala]{malas}<in:adj> y [enojado]{enojadas}<ga:in:adj>. ¡Un trabajo como una limpiadora y una recepionista es no trabajo facíl! No me gustan los cuartos sucios porque muchas personas son [desorganizada]{desorganizadas}<in:adj> y no [agradecido]{agradecidas}<ga:in:adj> por el trabajo de hotel trabajadores o salario-minimó trabajadores. El significado de un dolár es differente para []{las}<ab:det:art:def> personas de experiencias [varios]{varias}<ga:adj> de vida, pero tenien que apreciar los esfuerzos de []{los}<ab:det:art:def> trabajadores de azul-colar. Creo que las personas que [quedar]{quedan}<fs:st:t> en mi lugar de trabajar no aprecian el servicio de [mi]{mis}<na:det> compañeros de trabajar porque [estos]{estas}<ga:det> personas tienen [un]{una}<ga:det> actitud negativa. ¡NO POSITIVA¡ No solo no me gusta este lugar por la gente con malas actitudes, pero también porque los trabajadores como yo no ganan mucho dinero por el trabajo duro que hacen todos los días. No muchos estudiantes van a limpiar cuartos de hotel como limpiadoras, pero para estudiantes como yo que viven en una pequeña comunidad en el norte de *STATE*, este tipo de trabajo es la sola opción.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Soy una limpiadora y una recepionista en un hotel en *PLACE*, *STATE*. Aunque me gusta mi trabajo porque me encuentro personas diversas de ciudades diferentes todos los días en el escritorio, alungas personas puedan ser muy mala y enojado. ¡Un trabajo como una limpiadora y una recepionista es no trabajo facíl! No me gustan los cuartos sucios porque muchas personas son desorganizada y no agradecido por el trabajo de hotel trabajadores o salario-minimó trabajadores. El significado de un dolár es differente para personas de experiencias varios de vida, pero tenien que apreciar los esfuerzos de trabajadores de azul-colar. Creo que las personas que quedar en mi lugar de trabajar no aprecian el servicio de mi compañeros de trabajar porque estos personas tienen un actitud negativa. ¡NO POSITIVA¡ No solo no me gusta este lugar por la gente con malas actitudes, pero también porque los trabajadores como yo no ganan mucho dinero por el trabajo duro que hacen todos los días. No muchos estudiantes van a limpiar cuartos de hotel como limpiadoras, pero para estudiantes como yo que viven en una pequeña comunidad en el norte de *STATE*, este tipo de trabajo es la sola opción.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	limpiadora	limpiadora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	recepionista	recepionista	NOUN	_	Number=Sing	3	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+10	en	en	ADP	_	_	9	case	_	_
+11	*PLACE*	*place*	SYM	_	_	3	dep	_	_
+12	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+13	*STATE*	*state*	PUNCT	_	_	11	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	expl	_	_
+8	encuentro	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+10	diversas	diverso	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+13	diferentes	diferente	ADJ	_	Number=Plur	12	amod	_	_
+14	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	15	det	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	días	día	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	escritorio	escritorio	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+21	alungas	alunga	NOUN	_	Gender=Fem|Number=Plur	26	nsubj	_	_
+22	personas	persona	NOUN	_	Gender=Fem|Number=Plur	21	nsubj	_	_
+23	puedan	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+24	ser	ser	AUX	_	VerbForm=Inf	26	cop	_	_
+25	muy	mucho	ADV	_	_	26	advmod	_	_
+26	mala	malo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	enojado	enojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	26	conj	_	_
+29	.	.	PUNCT	_	PunctType=Peri	26	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	12	punct	_	_
+2	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	limpiadora	limpiadora	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	recepionista	recepionista	NOUN	_	Number=Sing	6	conj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+13	facíl	facíl	ADJ	_	Number=Sing	12	amod	_	_
+14	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	12	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	sucios	sucio	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
+10	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	desorganizada	desorganizr	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	3	advcl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+14	agradecido	agradecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	11	conj	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	19	appos	_	_
+21	o	o	CCONJ	_	_	22	cc	_	_
+22	salario-minimó	salario-minimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+23	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	22	nsubj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	significado	significado	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dolár	dolár	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	differente	differente	ADJ	_	Number=Sing	0	root	_	_
+8	para	para	ADP	_	_	9	case	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	experiencias	experiencia	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+12	varios	varios	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	vida	vida	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+16	pero	pero	CCONJ	_	_	17	cc	_	_
+17	tenien	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+18	que	que	SCONJ	_	_	19	mark	_	_
+19	apreciar	apreciar	VERB	_	VerbForm=Inf	17	conj	_	_
+20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	esfuerzos	esfuerzo	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	azul-colar	azul-colar	NOUN	_	_	23	nmod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	13	mark	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	nsubj	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	quedar	quedar	VERB	_	VerbForm=Inf	4	acl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	trabajar	trabajar	VERB	_	VerbForm=Inf	9	acl	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	aprecian	apreciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	_
+19	de	de	ADP	_	_	20	mark	_	_
+20	trabajar	trabajar	VERB	_	VerbForm=Inf	18	acl	_	_
+21	porque	porque	SCONJ	_	_	24	mark	_	_
+22	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	23	det	_	_
+23	personas	persona	NOUN	_	Gender=Fem|Number=Plur	24	nsubj	_	_
+24	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	actitud	actitud	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+27	negativa	negativo	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	NO	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	POSITIVA	positiva	ADJ	_	_	9	dep	_	_
+4	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	9	punct	_	_
+5	No	no	PART	_	_	9	cc	_	_
+6	solo	solo	ADV	_	_	5	fixed	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+12	por	por	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	gente	gente	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	malas	malo	ADJ	_	Gender=Fem|Number=Plur	17	amod	_	_
+17	actitudes	actitud	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
+19	pero	pero	CCONJ	_	_	27	cc	_	_
+20	también	también	ADV	_	_	9	conj	_	_
+21	porque	porque	SCONJ	_	_	27	mark	_	_
+22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	27	nsubj	_	_
+24	como	como	SCONJ	_	_	25	mark	_	_
+25	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nmod	_	_
+26	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
+27	ganan	ganar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+28	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	29	det	_	_
+29	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	_
+30	por	por	ADP	_	_	32	case	_	_
+31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
+33	duro	duro	ADJ	_	Gender=Masc|Number=Sing	32	amod	_	_
+34	que	que	PRON	_	PronType=Rel	35	obj	_	_
+35	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	acl	_	_
+36	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	37	det	_	_
+37	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	38	det	_	_
+38	días	día	NOUN	_	Gender=Masc|Number=Plur	35	obl	_	_
+39	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	4	advmod	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	estudiantes	estudiante	NOUN	_	Number=Plur	4	nsubj	_	_
+4	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	limpiar	limpiar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	como	como	SCONJ	_	_	11	mark	_	_
+11	limpiadoras	limpiadora	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
+13	pero	pero	CCONJ	_	_	37	cc	_	_
+14	para	para	ADP	_	_	15	case	_	_
+15	estudiantes	estudiante	NOUN	_	Number=Plur	37	obl	_	_
+16	como	como	SCONJ	_	_	17	mark	_	_
+17	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nmod	_	_
+18	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+19	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl	_	_
+20	en	en	ADP	_	_	23	case	_	_
+21	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	_
+23	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	norte	norte	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	*STATE*	*state*	PROPN	_	_	26	nmod	_	_
+29	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+30	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
+31	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	37	nsubj	_	_
+32	de	de	ADP	_	_	33	case	_	_
+33	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	_
+34	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
+35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+36	sola	solo	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
+37	opción	opción	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+38	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

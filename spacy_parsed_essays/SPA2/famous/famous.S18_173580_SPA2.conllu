@@ -1,0 +1,367 @@
+# Unnamed: 0 = 204
+# id = 173580
+# prompt = famous
+# quarter = S18
+# course = SPA 2
+# age = Female
+# gender = 18
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = I took Spanish 1 and 2 my freshman and sophomore year in high school. 
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Hola! Me llamo *FIRST_NAME* y me gusta ver peliculas en la cine. Mis peliculas favoritas son “The Great Gatsby”, “The Wolf of Wall Street”, “Shutter Island” y “Titanic”. Todos tiene Leonardo Dicaprio. Leonardo Dicaprio es un actor.El es muy famoso. Tiene pelo cuarto y rubio. Tiene los ojos azules. El es alto y ni gorda ni delgada. El es agradable. No es joven ni viejo.Tiene cuarenta y tres anos. El es de Hollywood, California y vive in Los Angeles California. Tiene uno hermano, se llama Adam. Adam no es famoso.Tiene dos padres tambien. Se llaman Irmelin y George. El y su familia son Italian. El no tiene una esposa y no tiene los ninos pero tiene una grande casa. El tiene muchas casas y coches. Le gusta conducer un Prius pero tiene un Frisker Karma coche tambien. El coche es Bueno para el enterno. Me gusta Leonardo Dicaprio porque es divertido. El es un actor por mucho tiempo. El puede jugar diferente roles. En “The Great Gatsby” el es rico y tiene todo pero puede amor con Daisy. En “The Wolf of Wall Street” le encanta los drogas y esta loco en la mayor de la pelicula. En “Shutter Island”, el es un loco persona. Y en “Titanic” el es un joven enamorado. En el Verano le gusta ir a la playa. No se que mas le gusta hacer pero puedo mirar en internet. Quiero conocer  []{a}<az:do:an>Leonardo Dicaprio en el future porque el es un tipo genial y juega en muchas peliculas.
+# a personal annotator2 = nan
+# gender-number annotator1 = Hola! Me llamo *FIRST_NAME* y me gusta ver peliculas en [la]{el}<ga:mf:det:inan> cine. Mis peliculas favoritas son “The Great Gatsby”, “The Wolf of Wall Street”, “Shutter Island” y “Titanic”. [Todos]{todas}<ga:fm:pron:inan> tiene Leonardo Dicaprio. Leonardo Dicaprio es un actor.El es muy famoso. Tiene pelo cuarto y rubio. Tiene los ojos azules. El es alto y ni [gorda]{gordo}<ga:mf:adj:an> ni [delgada]{delgado}<ga:mf:adj:an>. El es agradable. No es joven ni viejo.Tiene cuarenta y tres anos. El es de Hollywood, California y vive in Los Angeles California. Tiene uno hermano, se llama Adam. Adam no es famoso.Tiene dos padres tambien. Se llaman Irmelin y George. El y su familia son Italian. El no tiene una esposa y no tiene los ninos pero tiene una grande casa. El tiene muchas casas y coches. Le gusta conducer un Prius pero tiene un Frisker Karma coche tambien. El coche es Bueno para el enterno. Me gusta Leonardo Dicaprio porque es divertido. El es un actor por mucho tiempo. El puede jugar [diferente]{diferentes}<na:ps:det:inan> roles. En “The Great Gatsby” el es rico y tiene todo pero puede amor con Daisy. En “The Wolf of Wall Street” le encanta [los]{las}<ga:fm:det:inan> drogas y esta loco en la mayor de la pelicula. En “Shutter Island”, el es [un]{una}<ga:fm:det:an> [loco]{loca}<ga:fm:adj:an> persona<gat:noun:an>. Y en “Titanic” el es un joven enamorado. En el Verano le gusta ir a la playa. No se que mas le gusta hacer pero puedo mirar en internet. Quiero conocer Leonardo Dicaprio en el future porque el es un tipo genial y juega en muchas peliculas. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola! Me llamo *FIRST_NAME* y me gusta ver peliculas en la cine. Mis peliculas favoritas son “The Great Gatsby”, “The Wolf of Wall Street”, “Shutter Island” y “Titanic”. Todos tiene Leonardo Dicaprio. Leonardo Dicaprio es un actor.El es muy famoso. Tiene pelo cuarto y rubio. Tiene los ojos azules. El es alto y ni gorda ni delgada. El es agradable. No es joven ni viejo.Tiene cuarenta y tres anos. El es de Hollywood, California y vive in Los Angeles California. Tiene uno hermano, se llama Adam. Adam no es famoso.Tiene dos padres tambien. Se llaman Irmelin y George. El y su familia son Italian. El no tiene una esposa y no tiene los ninos pero tiene una grande casa. El tiene muchas casas y coches. Le gusta conducer un Prius pero tiene un Frisker Karma coche tambien. El coche es Bueno para el enterno. Me gusta Leonardo Dicaprio porque es divertido. El es un actor por mucho tiempo. El puede jugar diferente roles. En “The Great Gatsby” el es rico y tiene todo pero puede amor con Daisy. En “The Wolf of Wall Street” le encanta los drogas y esta loco en la mayor de la pelicula. En “Shutter Island”, el es un loco persona. Y en “Titanic” el es un joven enamorado. En el Verano le gusta ir a la playa. No se que mas le gusta hacer pero puedo mirar en internet. Quiero conocer Leonardo Dicaprio en el future porque el es un tipo genial y juega en muchas peliculas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	!	!	PROPN	_	_	1	flat	_	_
+3	Me	yo	PRON	_	_	4	iobj	_	_
+4	llamo	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gusta	gustar	VERB	_	_	4	conj	_	_
+9	ver	ver	VERB	_	_	8	csubj	_	_
+10	peliculas	pelicula	NOUN	_	_	9	obj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	cine	cine	NOUN	_	_	9	obl	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	peliculas	pelicula	NOUN	_	_	6	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	6	cop	_	_
+5	“	“	PROPN	_	_	6	punct	_	_
+6	The	The	PROPN	_	_	0	ROOT	_	_
+7	Great	Great	PROPN	_	_	6	flat	_	_
+8	Gatsby	Gatsby	PROPN	_	_	6	flat	_	_
+9	”	”	PROPN	_	_	6	flat	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	“	“	PROPN	_	_	6	dep	_	_
+12	The	The	PROPN	_	_	11	flat	_	_
+13	Wolf	Wolf	PROPN	_	_	12	flat	_	_
+14	of	of	PROPN	_	_	12	flat	_	_
+15	Wall	Wall	PROPN	_	_	12	flat	_	_
+16	Street	Street	PROPN	_	_	12	flat	_	_
+17	”	”	PROPN	_	_	11	punct	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	“	“	PROPN	_	_	6	conj	_	_
+20	Shutter	Shutter	PROPN	_	_	19	flat	_	_
+21	Island	Island	PROPN	_	_	20	flat	_	_
+22	”	”	PROPN	_	_	19	punct	_	_
+23	y	y	CCONJ	_	_	25	cc	_	_
+24	“	“	PROPN	_	_	25	punct	_	_
+25	Titanic	Titanic	PROPN	_	_	19	conj	_	_
+26	”	”	PROPN	_	_	25	flat	_	_
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Todos	todo	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	Leonardo	Leonardo	PROPN	_	_	2	obj	_	_
+4	Dicaprio	Dicaprio	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Leonardo	Leonardo	PROPN	_	_	5	nsubj	_	_
+2	Dicaprio	Dicaprio	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	actor	actor	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	famoso	famoso	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	pelo	pelo	NOUN	_	_	1	obj	_	_
+3	cuarto	cuarto	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	rubio	rubio	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	azules	azul	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alto	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	ni	ni	CCONJ	_	_	6	cc	_	_
+6	gorda	gorda	NOUN	_	_	3	conj	_	_
+7	ni	ni	CCONJ	_	_	8	cc	_	_
+8	delgada	delgado	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	agradable	agradable	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	joven	joven	ADJ	_	_	0	ROOT	_	_
+4	ni	ni	CCONJ	_	_	5	cc	_	_
+5	viejo	viejo	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	cuarenta	cuarenta	NUM	_	_	5	nummod	_	_
+3	y	y	CCONJ	_	_	2	compound	_	_
+4	tres	tres	NUM	_	_	2	compound	_	_
+5	anos	ano	NOUN	_	_	1	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	0	ROOT	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Hollywood	Hollywood	PROPN	_	_	1	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	California	California	PROPN	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	vive	vivir	VERB	_	_	4	conj	_	_
+9	in	in	ADP	_	_	11	case	_	_
+10	Los	el	DET	_	_	11	det	_	_
+11	Angeles	Angeles	PROPN	_	_	8	obj	_	_
+12	California	California	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	uno	uno	PRON	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	llama	llamar	VERB	_	_	1	advcl	_	_
+7	Adam	Adam	PROPN	_	_	6	nsubj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Adam	Adam	PROPN	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	famoso	famoso	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	padres	padre	NOUN	_	_	1	obj	_	_
+4	tambien	tambien	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llaman	llamar	VERB	_	_	0	ROOT	_	_
+3	Irmelin	Irmelin	PROPN	_	_	2	nsubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	George	George	PROPN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	6	det	_	_
+2	y	y	CCONJ	_	_	6	cc	_	_
+3	su	su	DET	_	_	4	det	_	_
+4	familia	familia	NOUN	_	_	6	nsubj	_	_
+5	son	ser	AUX	_	_	6	cop	_	_
+6	Italian	Italian	PROPN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	esposa	esposa	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	tiene	tener	VERB	_	_	3	conj	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	ninos	nino	NOUN	_	_	8	obj	_	_
+11	pero	pero	CCONJ	_	_	12	cc	_	_
+12	tiene	tener	VERB	_	_	8	conj	_	_
+13	una	uno	DET	_	_	15	det	_	_
+14	grande	grande	ADJ	_	_	15	amod	_	_
+15	casa	casa	NOUN	_	_	12	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	muchas	mucho	DET	_	_	4	det	_	_
+4	casas	casa	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	coches	coche	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	conducer	conducer	VERB	_	_	2	csubj	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	Prius	Prius	PROPN	_	_	3	obj	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	2	conj	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	Frisker	Frisker	PROPN	_	_	7	obj	_	_
+10	Karma	Karma	PROPN	_	_	9	flat	_	_
+11	coche	coche	NOUN	_	_	9	flat	_	_
+12	tambien	tambien	ADV	_	_	9	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	coche	coche	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Bueno	bueno	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	enterno	enterno	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	Leonardo	Leonardo	PROPN	_	_	2	nsubj	_	_
+4	Dicaprio	Dicaprio	PROPN	_	_	3	flat	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	divertido	divertido	ADJ	_	_	2	advcl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	actor	actor	NOUN	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	mucho	mucho	DET	_	_	7	det	_	_
+7	tiempo	tiempo	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	3	obj	_	_
+2	puede	poder	AUX	_	_	3	aux	_	_
+3	jugar	jugar	VERB	_	_	0	ROOT	_	_
+4	diferente	diferente	ADJ	_	_	5	amod	_	_
+5	roles	rol	ADJ	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	“	“	PROPN	_	_	9	obl	_	_
+3	The	The	PROPN	_	_	2	flat	_	_
+4	Great	Great	PROPN	_	_	3	flat	_	_
+5	Gatsby	Gatsby	PROPN	_	_	3	flat	_	_
+6	”	”	PROPN	_	_	3	flat	_	_
+7	el	el	DET	_	_	9	obj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	rico	rico	ADJ	_	_	0	ROOT	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	tiene	tener	VERB	_	_	9	conj	_	_
+12	todo	todo	PRON	_	_	11	obj	_	_
+13	pero	pero	CCONJ	_	_	15	cc	_	_
+14	puede	poder	AUX	_	_	15	aux	_	_
+15	amor	amor	VERB	_	_	11	conj	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	Daisy	Daisy	PROPN	_	_	15	obj	_	_
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	“	“	PROPN	_	_	10	obl	_	_
+3	The	The	PROPN	_	_	2	flat	_	_
+4	Wolf	Wolf	PROPN	_	_	3	flat	_	_
+5	of	of	PROPN	_	_	3	flat	_	_
+6	Wall	Wall	PROPN	_	_	3	flat	_	_
+7	Street	Street	PROPN	_	_	3	flat	_	_
+8	”	”	PROPN	_	_	3	flat	_	_
+9	le	él	PRON	_	_	10	obj	_	_
+10	encanta	encantar	VERB	_	_	0	ROOT	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	drogas	droga	NOUN	_	_	10	nsubj	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	esta	este	DET	_	_	15	det	_	_
+15	loco	loco	PROPN	_	_	12	conj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	mayor	mayor	ADJ	_	_	10	obl	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	la	el	DET	_	_	21	det	_	_
+21	pelicula	pelicula	NOUN	_	_	18	nmod	_	_
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	“	“	PROPN	_	_	10	obl	_	_
+3	Shutter	Shutter	PROPN	_	_	2	flat	_	_
+4	Island	Island	PROPN	_	_	3	flat	_	_
+5	”	”	PROPN	_	_	3	flat	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	el	el	DET	_	_	10	nsubj	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	loco	loco	ADJ	_	_	0	ROOT	_	_
+11	persona	persón	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Y	y	CCONJ	_	_	9	advmod	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	“	“	PROPN	_	_	9	obl	_	_
+4	Titanic	Titanic	PROPN	_	_	3	flat	_	_
+5	”	”	PROPN	_	_	4	flat	_	_
+6	el	el	DET	_	_	9	obj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	joven	joven	NOUN	_	_	0	ROOT	_	_
+10	enamorado	enamorado	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	Verano	Verano	PROPN	_	_	5	obl	_	_
+4	le	él	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	ir	ir	VERB	_	_	5	csubj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	playa	playa	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	se	él	PRON	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	mas	mas	ADV	_	_	6	advmod	_	_
+5	le	él	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	2	ccomp	_	_
+7	hacer	hacer	VERB	_	_	6	csubj	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	puedo	poder	AUX	_	_	10	aux	_	_
+10	mirar	mirar	VERB	_	_	7	conj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	internet	internet	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	conocer	conocer	VERB	_	_	1	xcomp	_	_
+3	Leonardo	Leonardo	PROPN	_	_	2	obj	_	_
+4	Dicaprio	Dicaprio	PROPN	_	_	3	flat	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	future	future	NOUN	_	_	2	obl	_	_
+8	porque	porque	SCONJ	_	_	12	mark	_	_
+9	el	el	DET	_	_	12	nsubj	_	_
+10	es	ser	AUX	_	_	12	cop	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	tipo	tipo	NOUN	_	_	2	advcl	_	_
+13	genial	genial	ADJ	_	_	12	amod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	juega	jugar	VERB	_	_	1	conj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	muchas	mucho	DET	_	_	18	det	_	_
+18	peliculas	pelicula	NOUN	_	_	15	obl	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+

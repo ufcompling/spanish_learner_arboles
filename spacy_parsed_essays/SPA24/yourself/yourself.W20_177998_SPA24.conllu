@@ -1,0 +1,137 @@
+# Unnamed: 0 = 231
+# id = 177998
+# prompt = yourself
+# quarter = W20
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = English 16+years 
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y ha estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. Ha estado ahí por  13 años.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y [ha estado]{he estado}<fs:ct:aux:pn> aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. [Ha estado]{He estado}<fs:ct:aux:pn> ahí por  13 años.
+# verbs annotation ann2 = nan
+# corrected1 = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos y hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años: mi cumpleaños es el *BIRTH_DATE* de diciembre y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y he estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica, pero es un pueblo en donde todos se conocen. Nací en *CITY* José, pero crecí en *CITY*. Ha estado ahí por 13 años.
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME* y crecí en una casa con mis papas y mis hermanos/hermanas. Tengo dos hermanos y cinco hermanas. Tengo *AGE* años y mi cumpleaños es *BIRTH_DATE* *BIRTH_DATE* y nací en el año *BIRTH_DATE*. Llegue a *CITY* en el año 2017 y ha estado aquí por tres años. Vengo de un pueblo bien chiquito y es un pueblo de muchos hispanos. Es una comunidad bien chica pero es un pueblo en donde todos se conocen. Nací en *CITY* *CITY* pero crecí en *CITY*. Ha estado ahí por 13 años.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	crecí	crecer	VERB	_	_	4	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	casa	casa	NOUN	_	_	6	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	_	12	det	_	_
+12	papas	papas	NOUN	_	_	6	obl	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	mis	mi	DET	_	_	15	det	_	_
+15	hermanos	hermano	NOUN	_	_	12	conj	_	_
+16	/	/	PUNCT	_	_	4	dep	_	_
+17	hermanas	hermana	NOUN	_	_	4	nsubj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	cinco	cinco	NUM	_	_	6	nummod	_	_
+6	hermanas	hermana	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	cumpleaños	cumpleaños	NOUN	_	_	8	nsubj	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	1	conj	_	_
+9	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	8	flat	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	nací	nací	PROPN	_	_	9	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	año	año	NOUN	_	_	8	obl	_	_
+15	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	8	flat	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Llegue	llegar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	año	año	NOUN	_	_	1	obl	_	_
+7	2017	2017	NUM	_	_	6	compound	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	ha	haber	AUX	_	_	10	aux	_	_
+10	estado	estar	VERB	_	_	1	conj	_	_
+11	aquí	aquí	ADV	_	_	10	advmod	_	_
+12	por	por	ADP	_	_	14	case	_	_
+13	tres	tres	NUM	_	_	14	nummod	_	_
+14	años	año	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Vengo	venir	VERB	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	pueblo	pueblo	NOUN	_	_	1	obl	_	_
+5	bien	bien	ADV	_	_	6	advmod	_	_
+6	chiquito	chiquito	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	pueblo	pueblo	NOUN	_	_	1	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	muchos	mucho	DET	_	_	13	det	_	_
+13	hispanos	hispano	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	comunidad	comunidad	NOUN	_	_	0	ROOT	_	_
+4	bien	bien	ADV	_	_	5	advmod	_	_
+5	chica	chico	ADJ	_	_	3	amod	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	pueblo	pueblo	NOUN	_	_	3	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	donde	donde	PRON	_	_	14	obl	_	_
+12	todos	todo	PRON	_	_	14	nsubj	_	_
+13	se	él	PRON	_	_	14	expl:pv	_	_
+14	conocen	conocer	VERB	_	_	9	acl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nací	Nací	PROPN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	crecí	crecer	VERB	_	_	1	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ha	haber	AUX	_	_	3	aux	_	_
+2	estado	estar	AUX	_	_	3	cop	_	_
+3	ahí	ahí	ADV	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	13	13	NUM	_	_	6	nummod	_	_
+6	años	año	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+

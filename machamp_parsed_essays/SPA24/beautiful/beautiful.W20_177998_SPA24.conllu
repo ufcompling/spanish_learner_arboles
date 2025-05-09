@@ -1,0 +1,72 @@
+# Unnamed: 0 = 205
+# id = 177998
+# prompt = beautiful
+# quarter = W20
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = English 16+years 
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando era pequeña tenia una tortuga. Esa tortuga era mi mejor amiga. Siempre la sacava de su casita y me la llevava a todas las partes. Pero era tan niña que se me olvido lavarme las manos
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	4	advcl	_	_
+4	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	tortuga	tortuga	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	6	amod	_	_
+6	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	sacava	sacar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	casita	casita	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+9	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	llevava	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+11	a	a	ADP	_	_	14	case	_	_
+12	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	13	det	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	partes	parte	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	tan	tanto	ADV	_	_	4	advmod	_	_
+4	niña	niña	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	olvido	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	lavarme	lavar	VERB	_	VerbForm=Inf	8	csubj	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	manos	mano	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+

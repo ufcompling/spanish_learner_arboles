@@ -1,0 +1,243 @@
+# Unnamed: 0 = 272
+# id = 199490
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 17
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Yes, I speak Chinese at home.
+# language(s) studied = Before studying Spanish, I have been learning English for 12 years. 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 =   Hay un hombre especial para mí.  Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro él que es super incomparable. Eso [eso]{ese}<ga:det> hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. Él [él]{}<pr:su:pron> tiene el pelo negro y rizado, y los ojos negros grandes. Él [él]{}<pr:su:pron>  es muy guapo, alto y fuerte.  Sus físicas características [físicas características]{características físicas}<col:adj> son perfectas, pero sus [sus]{su}<na:det> personalidades [personalidades]{personalidad}<na:noun> también son [son]{es}<fs:st:pn> importantes [importantes]{importante}<in:adj> para mí. Él [él]{}<pr:su:pron> es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y él él]{}<pr:su:pron> también es una estrella popular en Internet.  Nosotros pasamos mucho tiempo. Siempre estudio [estudio]{estudiamos}<fs:st>pn> en la escuela. Hablamos del futuro. Él alienta mí, y igualmente.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas.  Somos el sol y el viento, y estamos muy bien.
+# updated annotation ann2 =   Hay un hombre especial para mí.  Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro [él]{}<pr:su:pron> que es super incomparable. Eso hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. [Él]{}<pr:su:pron> tiene el pelo negro y rizado, y los ojos negros grandes. [Él]{}<pr:su:pron> es muy guapo, alto y fuerte.  Sus [físicas características]{características físicas}<col:adj> son perfectas, pero [sus]{su}<in:det> [personalidades]{personalidad}<in:noun> también [son]{es}<fs:st:pn> [importantes]{importante}<in:adj> para mí. [Él]{}<pr:su:pron> es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y [él]{}<pr:su:pron> también es una estrella popular en Internet.  [Nosotros]{}<pr:su:pron> pasamos mucho tiempo. Siempre estudio en la escuela. Hablamos del futuro. Él alienta mí, y igualmente.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas.  Somos el sol y el viento, y estamos muy bien.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 =   Llamarlo "especial" significa que él hace algo super único en primer lugar. Y, en segundo lugar, valoro que es super incomparable. Ese hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. Tiene el pelo negro y rizado y los ojos negros grandes. Es muy guapo, alto y fuerte.  Sus características físicas son perfectas, pero su personalidad también es importante para mí. Es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y también es una estrella popular en Internet. Pasamos mucho tiempo juntos. Siempre estudio en la escuela. Hablamos del futuro. Él me alienta mí y yo le aliento a él.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro por las mañanas. Ahora soy humorístico, inteligente y paciente con todos los problemas.  Somos el sol y el viento y estamos muy bien.
+# corrected2 = nan
+# text = Hay un hombre especial para mí. Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro él que es super incomparable. Eso hombre especial encaja me descripción. Él es mi amigo que tiene *AGE* años. Él tiene el pelo negro y rizado, y los ojos negros grandes. Él es muy guapo, alto y fuerte. Sus físicas características son perfectas, pero sus personalidades también son importantes para mí. Él es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y él también es una estrella popular en Internet. Nosotros pasamos mucho tiempo. Siempre estudio en la escuela. Hablamos del futuro. Él alienta mí, y igualmente. Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas. Somos el sol y el viento, y estamos muy bien.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hombre	hombre	NOUN	_	_	1	obj	_	_
+4	especial	especial	ADJ	_	_	3	amod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Llamar	llamar	VERB	_	_	5	nsubj	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
+3	Especial	especial	ADJ	_	_	1	obj	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	significa	significar	VERB	_	_	0	ROOT	_	_
+6	él	él	PRON	_	_	5	nsubj	_	_
+7	hace	hacer	VERB	_	_	5	advcl	_	_
+8	algo	algo	ADV	_	_	9	advmod	_	_
+9	super	super	NOUN	_	_	7	obj	_	_
+10	único	único	ADJ	_	_	9	amod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	primer	primero	ADJ	_	_	7	obl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Y	y	CCONJ	_	_	5	advmod	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	segundo	segundo	ADJ	_	_	5	nmod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	valoro	valoro	NOUN	_	_	0	ROOT	_	_
+6	él	él	PRON	_	_	5	appos	_	_
+7	que	que	PRON	_	_	9	nsubj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	super	super	AUX	_	_	5	acl	_	_
+10	incomparable	incomparable	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Eso	ese	PRON	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	4	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	encaja	encajar	VERB	_	_	0	ROOT	_	_
+5	me	yo	PRON	_	_	6	nmod	_	_
+6	descripción	descripción	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	amigo	amigo	NOUN	_	_	0	ROOT	_	_
+5	que	que	PRON	_	_	6	obj	_	_
+6	tiene	tener	VERB	_	_	4	acl	_	_
+7	*AGE*	AGE	PROPN	_	_	6	nsubj	_	_
+8	años	año	NOUN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	negro	negro	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	ojos	ojo	NOUN	_	_	2	conj	_	_
+12	negros	negro	ADJ	_	_	11	amod	_	_
+13	grandes	grande	ADJ	_	_	11	amod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	guapo	guapo	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	alto	alto	ADJ	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	fuerte	fuerte	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Sus	su	DET	_	_	3	det	_	_
+2	físicas	físico	ADJ	_	_	3	amod	_	_
+3	características	característica	NOUN	_	_	5	nsubj	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	perfectas	perfecto	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	pero	pero	CCONJ	_	_	12	cc	_	_
+8	sus	su	DET	_	_	9	det	_	_
+9	personalidades	personalidad	NOUN	_	_	12	nsubj	_	_
+10	también	también	ADV	_	_	12	advmod	_	_
+11	son	ser	AUX	_	_	12	cop	_	_
+12	importantes	importante	ADJ	_	_	5	conj	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	mí	yo	PRON	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	extrovertido	extrovertido	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	amable	amable	ADJ	_	_	3	parataxis	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	trabajador	trabajador	ADJ	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	paciente	paciente	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	escribir	escribir	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	leer	leer	VERB	_	_	2	csubj	_	_
+6	libros	libro	NOUN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	tomar	tomar	VERB	_	_	2	advcl	_	_
+9	fotos	foto	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	amigos	amigo	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	1	advmod	_	_
+5	realidad	realidad	NOUN	_	_	4	fixed	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	él	él	PRON	_	_	11	nsubj	_	_
+8	también	también	ADV	_	_	11	advmod	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	estrella	estrella	NOUN	_	_	1	conj	_	_
+12	popular	popular	ADJ	_	_	11	amod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	Internet	Internet	PROPN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	2	nsubj	_	_
+2	pasamos	pasar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	DET	_	_	4	det	_	_
+4	tiempo	tiempo	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	estudio	estudio	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	escuela	escuela	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hablamos	hablar	VERB	_	_	0	ROOT	_	_
+2	del	del	ADP	_	_	3	case	_	_
+3	futuro	futuro	NOUN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	alienta	alentar	VERB	_	_	0	ROOT	_	_
+3	mí	yo	PRON	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	igualmente	igualmente	ADV	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	días	día	NOUN	_	_	16	obl	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	él	él	PRON	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	cambio	cambio	NOUN	_	_	3	dep	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	visión	visión	NOUN	_	_	7	appos	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	mundo	mundo	NOUN	_	_	9	nmod	_	_
+12	:	:	PUNCT	_	_	16	punct	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	mundo	mundo	NOUN	_	_	16	nsubj	_	_
+15	es	ser	AUX	_	_	16	cop	_	_
+16	complicado	complicar	VERB	_	_	0	ROOT	_	_
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	por	por	ADP	_	_	22	mark	_	_
+19	lo	él	PRON	_	_	22	dep	_	_
+20	que	que	PRON	_	_	24	obl	_	_
+21	todos	todo	PRON	_	_	24	nsubj	_	_
+22	tienen	tener	VERB	_	_	16	advcl	_	_
+23	que	que	SCONJ	_	_	24	cc	_	_
+24	tener	tener	VERB	_	_	22	conj	_	_
+25	un	uno	DET	_	_	26	det	_	_
+26	corazón	corazón	NOUN	_	_	24	obj	_	_
+27	puro	puro	ADJ	_	_	26	amod	_	_
+28	de	de	ADP	_	_	30	case	_	_
+29	las	el	DET	_	_	30	det	_	_
+30	mañanas	mañana	NOUN	_	_	26	nmod	_	_
+31	.	.	PUNCT	_	_	16	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	ahora	ahora	ADV	_	_	3	advmod	_	_
+3	humorístico	humorístico	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	inteligente	inteligente	ADJ	_	_	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	paciente	paciente	ADJ	_	_	3	conj	_	_
+8	de	de	ADP	_	_	11	case	_	_
+9	todos	todo	DET	_	_	10	det	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	problemas	problema	NOUN	_	_	3	nmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Somos	ser	AUX	_	_	3	cop	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	sol	sol	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	viento	viento	NOUN	_	_	3	conj	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	estamos	estar	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bien	bien	ADV	_	_	3	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+

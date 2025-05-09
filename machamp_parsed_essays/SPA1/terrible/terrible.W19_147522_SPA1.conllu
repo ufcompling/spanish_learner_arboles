@@ -1,0 +1,225 @@
+# Unnamed: 0 = 21
+# id = 147522
+# prompt = terrible
+# quarter = W19
+# course = SPA 1
+# age = 20 
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = ASL- 3 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Todos los fines de semana mi mamá, my papá, mis dos hermanos, mi perro y yo vamos a la playa. [Nosotros]{}<pr:su:pron> comemos, caminamos por la playa, y jugamos voleibol. A mi perro le encanta correr por el agua. A mi me encanta tomar siestas al sol. Es muy divertido, pero el fin de semana pasado no fue divertido. Cuando llegamos a la playa, empezó a llover. [Yo]{}<pr:su:pron> [tengo]{tenía}<fs:st:t> [fría]{frío}<gat:noun> y [estoy]{estaba}<gat:noun> mojado. Un pájaro [come]{comió}<fs:st:t> nuestra comida y mi perro se escapó. Mi hermano menor [va]{fue}<fs:st:t> [a la]{al}<ga:det> baño. [Él]{}<pr:su:pron> se [resbala]{resbaló}<fs:st:t> y se [lastima]{lastimó}<fs:st:t> la cabeza. Mi hermano mayor [juega]{jugó}<fs:st:t> voleibol y se [lastima]{lastimó}<fs:st:t> la muñeca. Mi mamá y mi papá [están]{estaban}<fs:st:t> muy preocupados. [Nosotros]{}<pr:su:pron> salimos de la playa y conducimos a casa. Cuando llegamos a casa, vemos que [nuestra]{nuestro}<gat:det> otro carro<gat:noun> [es]{fue}<fs:st:t> [robada]{robado}<gat:adj>. [Nosotros]{}<pr:su:pron> llamamos a la policía y [vienen]{vinieron}<fs:st:t> a ayudar. Nuestro divertido fin de semana en la playa convirtió en un mal día.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Todos los fines de semana mi mamá, mi papá, mis dos hermanos, mi perro y yo vamos a la playa. Comemos, caminamos por la playa, y jugamos al voleibol. A mi perro le encanta correr por el agua. A mí me encanta tomar siestas al sol. Es muy divertido, pero el fin de semana pasado no fue divertido. Cuando llegamos a la playa, empezó a llover. Tenía frío y estaba mojado. Un pájaro se comió nuestra comida y mi perro se escapó. Mi hermano menor fue al baño. Se resbaló y se lastimó la cabeza. Mi hermano mayor jugó al voleibol y se lastimó la muñeca. Mi mamá y mi papá estaban muy preocupados. Salimos de la playa y condujimos a casa. Cuando llegamos a casa, vimos que nuestro otro carro había sido robado. Llamamos a la policía y vinieron a ayudar. Nuestro divertido fin de semana en la playa se convirtió en un mal día.
+# corrected2 = nan
+# text = Todos los fines de semana mi mamá, my papá, mis dos hermanos, mi perro y yo vamos a la playa. Nosotros comemos, caminamos por la playa, y jugamos voleibol. A mi perro le encanta correr por el agua. A mi me encanta tomar siestas al sol. Es muy divertido, pero el fin de semana pasado no fue divertido. Cuando llegamos a la playa, empezó a llover. Yo tengo fría y estoy mojado. Un pájaro come nuestra comida y mi perro se escapó. Mi hermano menor va a la baño. Él se resbala y se lastima la cabeza. Mi hermano mayor juega voleibol y se lastima la muñeca. Mi mamá y mi papá están muy preocupados. Nosotros salimos de la playa y conducimos a casa. Cuando llegamos a casa, vemos que nuestra otro carro es robada. Nosotros llamamos a la policía y vienen a ayudar. Nuestro divertido fin de semana en la playa convirtió en un mal día.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	fines	fin	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	papá	papá	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+13	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
+14	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+15	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	perro	perro	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+20	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+21	a	a	ADP	_	_	23	case	_	_
+22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	playa	playa	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	comemos	comer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	playa	playa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	voleibol	voleibol	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	correr	correr	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	agua	agua	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tomar	tomar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	siestas	siesta	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	sol	sol	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+5	pero	pero	CCONJ	_	_	13	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	fin	fin	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	semana	semana	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
+11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+13	divertido	divertir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	llover	llover	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fría	fría	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	mojado	mojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pájaro	pájaro	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	perro	perro	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	escapó	escapar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	2	amod	_	_
+4	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	baño	baño	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	resbala	resbalar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	lastima	lastimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cabeza	cabeza	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	2	amod	_	_
+4	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	voleibol	voleibol	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	lastima	lastimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	muñeca	muñeca	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	papá	papá	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	preocupados	preocupado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	salimos	salir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	conducimos	conducir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	vemos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	12	mark	_	_
+8	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+10	carro	carro	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	robada	robar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	policía	policía	NOUN	_	Number=Sing	2	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	vienen	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	ayudar	ayudar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+3	fin	fin	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	playa	playa	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+9	convirtió	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	en	en	ADP	_	_	13	case	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	mal	mal	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+13	día	día	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+

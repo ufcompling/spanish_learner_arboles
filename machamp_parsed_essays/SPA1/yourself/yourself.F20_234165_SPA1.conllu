@@ -1,0 +1,220 @@
+# Unnamed: 0 = 157
+# id = 234165
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 4 or more
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* años y estoy en segundo año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Jugué muchos deportes cuando era más joven. Jugué tenis, fútbol y lacrosse. Soy muy trabajador. Me tomo muy en serio la escuela y quiero sacar muy buenas notas. También soy muy generoso. Me gusta ayudar a las personas cuando tienen problemas con la escuela. Me gusta estudiar con mis amigos en la biblioteca. A mis amigas y a mí también nos gusta ir a la playa y hacer viajes por carretera. Fuimos a *PLACE* *PLACE* hace dos semanas. Fue muy divertido y el agua [era]{estaba}<conf:v:seta>  muy bonita. También me gusta ir de viaje con mi familia y mis dos perros. Tengo dos hermanos, uno mayor y otro menor. Me encanta pasar tiempo con mi familia. Nos gusta reírnos mucho. Me gusta correr con mis perros. Los nombres de mis perros son *FIRST_NAME* y *FIRST_NAME*. Son muy divertidos para jugar.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* años y estoy en segundo año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Jugué muchos deportes cuando era más joven. Jugué tenis, fútbol y lacrosse. Soy muy [trabajador]{trabajadora}<ga:adj>. Me tomo muy en serio la escuela y quiero sacar muy buenas notas. También soy muy [generoso]{generosa}<ga:adj>. Me gusta ayudar a las personas cuando tienen problemas con la escuela. Me gusta estudiar con mis amigos en la biblioteca. A mis amigas y a mí también nos gusta ir a la playa y hacer viajes por carretera. Fuimos a *PLACE* *PLACE* hace dos semanas. Fue muy divertido y el agua era muy bonita. También me gusta ir de viaje con mi familia y mis dos perros. Tengo dos hermanos, uno mayor y otro menor. Me encanta pasar tiempo con mi familia. Nos gusta reírnos mucho. Me gusta correr con mis perros. Los nombres de mis perros son *FIRST_NAME* y *FIRST_NAME*. Son muy divertidos para jugar.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* años y estoy en segundo año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Jugué muchos deportes cuando era más joven. Jugué tenis, fútbol y lacrosse. Soy muy trabajador. Me tomo muy en serio la escuela y quiero sacar muy buenas notas. También soy muy generoso. Me gusta ayudar a las personas cuando tienen problemas con la escuela. Me gusta estudiar con mis amigos en la biblioteca. A mis amigas y a mí también nos gusta ir a la playa y hacer viajes por carretera. Fuimos a *PLACE* *PLACE* hace dos semanas. Fue muy divertido y el agua estaba muy bonita. También me gusta ir de viaje con mi familia y mis dos perros. Tengo dos hermanos, uno mayor y otro menor. Me encanta pasar tiempo con mi familia. Nos gusta reírnos mucho. Me gusta correr con mis perros. Los nombres de mis perros son *FIRST_NAME* y *FIRST_NAME*. Son muy divertidos para jugar.
+# corrected2 = nan
+# text = Tengo *AGE* años y estoy en segundo año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Jugué muchos deportes cuando era más joven. Jugué tenis, fútbol y lacrosse. Soy muy trabajador. Me tomo muy en serio la escuela y quiero sacar muy buenas notas. También soy muy generoso. Me gusta ayudar a las personas cuando tienen problemas con la escuela. Me gusta estudiar con mis amigos en la biblioteca. A mis amigas y a mí también nos gusta ir a la playa y hacer viajes por carretera. Fuimos a *PLACE* *PLACE* hace dos semanas. Fue muy divertido y el agua era muy bonita. También me gusta ir de viaje con mi familia y mis dos perros. Tengo dos hermanos, uno mayor y otro menor. Me encanta pasar tiempo con mi familia. Nos gusta reírnos mucho. Me gusta correr con mis perros. Los nombres de mis perros son *FIRST_NAME* y *FIRST_NAME*. Son muy divertidos para jugar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	año	año	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Universidad	Universidad	PROPN	_	_	5	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	*university*	PUNCT	_	_	11	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	*UNIVERSITY*	*university*	PUNCT	_	_	11	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Jugué	jugar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	cuando	cuando	SCONJ	_	_	7	mark	_	_
+5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+7	joven	joven	ADJ	_	Number=Sing	1	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Jugué	jugar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tenis	tenis	NOUN	_	Gender=Masc	1	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	lacrosse	lacrosse	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	tomo	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	en	en	ADP	_	_	2	advmod	_	_
+5	serio	serio	NOUN	_	_	4	fixed	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	sacar	sacar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	_
+13	notas	nota	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	generoso	generoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ayudar	ayudar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	personas	persona	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	estudiar	estudiar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	biblioteca	biblioteca	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	3	conj	_	_
+7	también	también	ADV	_	_	9	advmod	_	_
+8	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	ir	ir	VERB	_	VerbForm=Inf	9	csubj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	playa	playa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	hacer	hacer	VERB	_	VerbForm=Inf	10	conj	_	_
+16	viajes	viaje	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+17	por	por	ADP	_	_	18	case	_	_
+18	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*PLACE*	*place*	PROPN	_	_	1	obj	_	_
+4	*PLACE*	*place*	PUNCT	_	_	3	punct	_	_
+5	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	9	cc	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	agua	agua	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+12	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+13	perros	perro	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	appos	_	_
+6	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	conj	_	_
+9	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	reírnos	reír	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	correr	correr	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	perros	perro	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	divertidos	divertido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	jugar	jugar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

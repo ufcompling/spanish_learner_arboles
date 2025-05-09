@@ -1,0 +1,225 @@
+# Unnamed: 0 = 31
+# id = 200366
+# prompt = yourself
+# quarter = F20
+# course = SPA 1Y
+# age = 20 years old
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Yo soy un junior en *UNIVERSITY* *UNIVERSITY*. Tengo *AGE* años. Yo estudio en el Departamento de Psychology y Human Development en *UNIVERSITY* *UNIVERSITY*. Soy minoritaria en Public Health Sciences. El trabajo de mis sueños es ser Psychiatrist. Soy de *CITY* *CITY*, *STATE*. Yo soy *PLACE*-*PLACE* y puedo hablar inglés y chino. También sé un poco de lenguaje de señas americano. Tengo una perra llamada *FIRST_NAME* y ella es una German Spitz. Me encanta hacer yoga para relajarme, ver Netflix y leer cada vez que tengo tiempo libre. También amo pintar y dibujar cuando tengo tiempo libre. Me encanta dormir y tomar siestas los fines de semana. También me encanta pasar tiempo con mi familia. Me encantan [todas]{toda}<na:adj> [las]{la}<na:det:art:def> [cocinas]{cocina}<na:noun> [mexicanas]{mexicana}<na:adj>, especialmente los tamales y el pozole. He sido [vegana]{vegano}<ga:adj> durante dos años. También me interesa la jardinería y la cocina, especialmente desde que comenzó la pandemia. Espero viajar a Tahití o Bali en el futuro.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! [Yo]{}<pr:su:pron> soy [un]{una}<ga:det> junior en *UNIVERSITY* *UNIVERSITY*. Tengo *AGE* años. [Yo]{}<pr:su:pron> estudio en el Departamento de Psychology y Human Development en *UNIVERSITY* *UNIVERSITY*. Soy minoritaria en Public Health Sciences. El trabajo de mis sueños es ser Psychiatrist. Soy de *CITY* *CITY*, *STATE*. [Yo]{}<pr:su:pron> soy [*PLACE*-*PLACE*]{china-americana}<ga:adj> y puedo hablar inglés y chino. También sé un poco de lenguaje de señas americano. Tengo una perra llamada *FIRST_NAME* y ella es una German Spitz. Me encanta hacer yoga para relajarme, ver Netflix y leer cada vez que tengo tiempo libre. También amo pintar y dibujar cuando tengo tiempo libre. Me encanta dormir y tomar siestas los fines de semana. También me encanta pasar tiempo con mi familia. Me encantan todas las cocinas mexicanas, especialmente los tamales y el pozole. He sido vegana durante dos años. También me interesa la jardinería y la cocina, especialmente desde que comenzó la pandemia. Espero viajar a Tahití o Bali en el futuro.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Yo soy un junior en *UNIVERSITY* *UNIVERSITY*. Tengo *AGE* años. Yo estudio en el Departamento de Psicología y Desarrollo Humano en *UNIVERSITY* *UNIVERSITY*. Estudio Ciencias públicas de la salud como estudios secundarios. El trabajo de mis sueños es ser psiquiatra. Soy de *CITY* *CITY*, *STATE*. Yo soy *PLACE*-*PLACE* y puedo hablar inglés y chino. También sé un poco de lengua de señas americana. Tengo una perra llamada *FIRST_NAME* y ella es una German Spitz. Me encanta hacer yoga para relajarme, ver Netflix y leer cada vez que tengo tiempo libre. También amo pintar y dibujar cuando tengo tiempo libre. Me encanta dormir y tomar siestas los fines de semana. También me encanta pasar tiempo con mi familia. Me encanta toda la cocina mexicana, especialmente los tamales y el pozole. He sido vegano durante dos años. También me interesa la jardinería y la cocina, especialmente desde que comenzó la pandemia. Espero viajar a Tahití o Bali en el futuro.
+# corrected2 = nan
+# text = Hola! Yo soy un junior en *UNIVERSITY* *UNIVERSITY*. Tengo *AGE* años. Yo estudio en el Departamento de Psychology y Human Development en *UNIVERSITY* *UNIVERSITY*. Soy minoritaria en Public Health Sciences. El trabajo de mis sueños es ser Psychiatrist. Soy de *CITY* *CITY*, *STATE*. Yo soy *PLACE*-*PLACE* y puedo hablar inglés y chino. También sé un poco de lenguaje de señas americano. Tengo una perra llamada *FIRST_NAME* y ella es una German Spitz. Me encanta hacer yoga para relajarme, ver Netflix y leer cada vez que tengo tiempo libre. También amo pintar y dibujar cuando tengo tiempo libre. Me encanta dormir y tomar siestas los fines de semana. También me encanta pasar tiempo con mi familia. Me encantan todas las cocinas mexicanas, especialmente los tamales y el pozole. He sido vegana durante dos años. También me interesa la jardinería y la cocina, especialmente desde que comenzó la pandemia. Espero viajar a Tahití o Bali en el futuro.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	6	dep	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	junior	junior	NOUN	_	Number=Sing	0	root	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	*university*	PROPN	_	_	6	nmod	_	_
+9	*UNIVERSITY*	*university*	PUNCT	_	_	6	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Departamento	Departamento	PROPN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Psychology	Psychology	PROPN	_	_	5	flat	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	Human	Human	PROPN	_	_	7	conj	_	_
+10	Development	Development	PROPN	_	_	9	flat	_	_
+11	en	en	ADP	_	_	5	case	_	_
+12	*UNIVERSITY*	*university*	PROPN	_	_	5	nmod	_	_
+13	*UNIVERSITY*	*university*	PUNCT	_	_	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	minoritaria	minoritario	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Public	Public	PROPN	_	_	2	nmod	_	_
+5	Health	Health	PROPN	_	_	4	flat	_	_
+6	Sciences	Sciences	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	sueños	sueño	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
+8	Psychiatrist	Psychiatrist	PROPN	_	_	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	0	root	_	_
+4	*CITY*	*city*	PUNCT	_	_	3	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	*STATE*	*state*	SYM	_	_	3	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	*	*	PUNCT	_	_	4	punct	_	_
+4	PLACE*-*PLACE	PLACE*-*PLACE	NOUN	_	_	0	root	_	_
+5	*	*	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	hablar	hablar	VERB	_	VerbForm=Inf	2	conj	_	_
+9	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	chino	chino	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	2	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	lenguaje	lenguaje	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	señas	seña	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	americano	americano	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	perra	perra	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	llamada	llamado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	amod	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	10	punct	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	German	German	PROPN	_	_	1	conj	_	_
+11	Spitz	Spitz	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	yoga	yoga	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	relajarme	relajar	VERB	_	VerbForm=Inf	3	advcl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	Netflix	NETFLIX	PROPN	_	_	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	leer	leer	VERB	_	VerbForm=Inf	3	conj	_	_
+12	cada	cada	DET	_	Number=Sing|PronType=Tot	13	det	_	_
+13	vez	vez	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+14	que	que	PRON	_	PronType=Rel	15	obl	_	_
+15	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+17	libre	libre	ADJ	_	Number=Sing	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pintar	pintar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	dibujar	dibujar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	libre	libre	ADJ	_	Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dormir	dormir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tomar	tomar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	siestas	siesta	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	fines	fin	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	semana	semana	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pasar	pasar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	cocinas	cocina	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+6	mexicanas	mexicano	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	especialmente	especialmente	ADV	_	_	10	advmod	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	tamales	tamal	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	pozole	pozole	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	He	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
+3	vegana	vegana	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	interesa	interesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	jardinería	jardinería	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	especialmente	especialmente	ADV	_	_	3	advmod	_	_
+11	desde	desde	ADP	_	_	10	case	_	_
+12	que	que	SCONJ	_	_	13	mark	_	_
+13	comenzó	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	pandemia	pandemia	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	viajar	viajar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Tahití	Tahití	PROPN	_	_	2	obl	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	Bali	Bali	PROPN	_	_	4	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

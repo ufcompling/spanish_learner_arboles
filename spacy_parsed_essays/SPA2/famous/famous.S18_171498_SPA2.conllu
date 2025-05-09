@@ -1,0 +1,106 @@
+# Unnamed: 0 = 239
+# id = 171498
+# prompt = famous
+# quarter = S18
+# course = SPA 2
+# age = Female
+# gender = 19
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = I only speak English.
+# language(s) studied = I've only studied English.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = J. Cole es un muy famosa cantante. J. Cole es muy guapo. J. Cole tiene pelo oscuro, él tiene rastas largo. J. Cole escribiste mi favorito canción, el nombre de su canción es "Los Perdidos". Este canción es muy triste, porque J. Cole rompió con su novia. J. Cole es muy inteligente, él graduado de le secundaria con un 4.0 GPA
+# a personal annotator2 = nan
+# gender-number annotator1 = J. Cole es un muy [famosa]{famoso}<ga:mf:adj:an> cantante. J. Cole es muy guapo. J. Cole tiene pelo oscuro, él tiene rastas largo. J. Cole escribiste mi [favorito]{favorita}<ga:fm:adj:inan> canción, el nombre de su canción es "Los Perdidos". [Este]{esta}<ga:fm:det:inan> canción es muy triste, porque J. Cole rompió con su novia. J. Cole es muy inteligente, él graduado de le secundaria con un 4.0 GPA
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = J. Cole es un muy famosa cantante. J. Cole es muy guapo. J. Cole tiene pelo oscuro, él tiene rastas largo. J. Cole escribiste mi favorito canción, el nombre de su canción es "Los Perdidos". Este canción es muy triste, porque J. Cole rompió con su novia. J. Cole es muy inteligente, él graduado de le secundaria con un 4.0 GPA
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	J.	J.	PROPN	_	_	7	nsubj	_	_
+2	Cole	Cole	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	7	cop	_	_
+4	un	uno	DET	_	_	7	det	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	famosa	famoso	ADJ	_	_	7	amod	_	_
+7	cantante	cantante	NOUN	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	J.	J.	PROPN	_	_	5	nsubj	_	_
+2	Cole	Cole	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	guapo	guapo	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	J.	J.	PROPN	_	_	3	nsubj	_	_
+2	Cole	Cole	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	oscuro	oscuro	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	él	él	PRON	_	_	8	nsubj	_	_
+8	tiene	tener	VERB	_	_	3	advcl	_	_
+9	rastas	rasta	NOUN	_	_	8	obj	_	_
+10	largo	largo	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	J.	J.	PROPN	_	_	3	nsubj	_	_
+2	Cole	Cole	PROPN	_	_	1	flat	_	_
+3	escribiste	escribistir	VERB	_	_	0	ROOT	_	_
+4	mi	mi	DET	_	_	6	det	_	_
+5	favorito	favorito	ADJ	_	_	6	amod	_	_
+6	canción	canción	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	nombre	nombre	NOUN	_	_	16	nsubj	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	canción	canción	NOUN	_	_	9	nmod	_	_
+13	es	ser	AUX	_	_	16	cop	_	_
+14	"	"	PUNCT	_	_	15	punct	_	_
+15	Los	el	DET	_	_	16	det	_	_
+16	Perdidos	Perdidos	PROPN	_	_	3	obj	_	_
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	canción	canción	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	triste	triste	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	porque	porque	SCONJ	_	_	10	mark	_	_
+8	J.	J.	PROPN	_	_	10	nsubj	_	_
+9	Cole	Cole	PROPN	_	_	8	flat	_	_
+10	rompió	romper	VERB	_	_	5	advcl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	su	su	DET	_	_	13	det	_	_
+13	novia	novia	NOUN	_	_	10	obj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	J.	J.	PROPN	_	_	5	nsubj	_	_
+2	Cole	Cole	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	él	él	PRON	_	_	5	appos	_	_
+8	graduado	graduado	ADJ	_	_	7	amod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	le	él	PRON	_	_	11	obj	_	_
+11	secundaria	secundariar	VERB	_	_	8	obj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	4.0	4.0	NUM	_	_	8	obl	_	_
+15	GPA	GPA	PROPN	_	_	5	obj	_	_
+

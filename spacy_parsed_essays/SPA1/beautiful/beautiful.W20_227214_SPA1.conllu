@@ -1,0 +1,206 @@
+# Unnamed: 0 = 198
+# id = 227214
+# prompt = beautiful
+# quarter = W20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French- 3 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  Yo compraré limonada y fruta. Hay [muchas]{muchos}<ga:det> perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye en el viento. El mono de *FIRST_NAME* combinada con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola [yo]{}<pr:su:pron> me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  [Yo]{}<pr:su:pron> compraré limonada y fruta. Hay [muchas]{muchos}<ga:det> perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello [fluye]{fluirá}<fs:st:t> en el viento. El mono de *FIRST_NAME* [combinada]{combinado}<ga:adj> con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# verbs annotation ann2 = nan
+# corrected1 = Hola, me llamo *FIRST_NAME*. Hoy temprano subí a un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo llegamos a cimas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas.  Yo compraré limonada y fruta. Hay muchos perros y niños.  Más tarde me reuniré con mis otros amigos para cantar karaoke hasta alta horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye por el viento. El mono de Diego combina con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso día que acaba de suceder.
+# corrected2 = nan
+# text = Hola yo me llamo *FIRST_NAME*. Hoy temprano subí un gran árbol bonito. Había muchas ramas grandes y mis amigos y yo hicimos climas muy altas. El cielo era hermoso desde lo alto del árbol. Ahora estamos en el mercado de cosechas. Yo compraré limonada y fruta. Hay muchas perros y niños. Más tarde me reuniré con mis otros amigos para cantar karaoke hasta las tardes horas de la noche. Luego nos sentaremos en el césped y miraremos las estrellas. Mi cabello fluye en el viento. El mono de *FIRST_NAME* combinada con las vibraciones del día. I will later ride a horse into the sunset with blue hair. we will watch the sunset together as we smoke a cigarette together and listen mellow fellow in the grass. Regresaré a casa en la noche fresca y me sentaré en la cama y pensaré en el hermoso dí a que acaba de suceder.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	yo	yo	PRON	_	_	1	flat	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	llamo	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	2	advmod	_	_
+2	temprano	temprano	ADV	_	_	3	advmod	_	_
+3	subí	subí	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	gran	gran	ADJ	_	_	6	amod	_	_
+6	árbol	árbol	NOUN	_	_	3	obj	_	_
+7	bonito	bonito	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Había	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	ramas	rama	NOUN	_	_	1	obj	_	_
+4	grandes	grande	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	amigos	amigo	NOUN	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	yo	yo	PRON	_	_	10	nsubj	_	_
+10	hicimos	hicir	VERB	_	_	1	conj	_	_
+11	climas	clima	NOUN	_	_	10	obj	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	altas	alto	ADJ	_	_	11	amod	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	cielo	cielo	NOUN	_	_	4	nsubj	_	_
+3	era	ser	AUX	_	_	4	cop	_	_
+4	hermoso	hermoso	ADJ	_	_	0	ROOT	_	_
+5	desde	desde	ADP	_	_	7	case	_	_
+6	lo	él	PRON	_	_	7	det	_	_
+7	alto	alto	ADJ	_	_	4	obl	_	_
+8	del	del	ADP	_	_	9	case	_	_
+9	árbol	árbol	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	estamos	estar	AUX	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	mercado	mercado	NOUN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	cosechas	cosecha	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	compraré	comprar	VERB	_	_	0	ROOT	_	_
+3	limonada	limonado	ADJ	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	fruta	fruta	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	perros	perro	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	niños	niño	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Más	más	ADV	_	_	2	advmod	_	_
+2	tarde	tarde	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	_	4	expl:pv	_	_
+4	reuniré	reunir	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	8	case	_	_
+6	mis	mi	DET	_	_	8	det	_	_
+7	otros	otro	DET	_	_	6	det	_	_
+8	amigos	amigo	NOUN	_	_	4	obl	_	_
+9	para	para	ADP	_	_	10	mark	_	_
+10	cantar	cantar	VERB	_	_	4	advcl	_	_
+11	karaoke	karaoke	NOUN	_	_	10	obj	_	_
+12	hasta	hasta	ADP	_	_	14	case	_	_
+13	las	el	DET	_	_	14	det	_	_
+14	tardes	tarde	NOUN	_	_	10	obl	_	_
+15	horas	hora	NOUN	_	_	14	amod	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	noche	noche	NOUN	_	_	14	nmod	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	obj	_	_
+3	sentaremos	sentarer	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	césped	césped	NOUN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	miraremos	mirar	VERB	_	_	3	conj	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	estrellas	estrella	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cabello	cabello	NOUN	_	_	3	nsubj	_	_
+3	fluye	fluir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	viento	viento	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	mono	mono	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nmod	_	_
+5	combinada	combinado	ADJ	_	_	2	amod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	las	el	DET	_	_	8	det	_	_
+8	vibraciones	vibración	NOUN	_	_	5	obl	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	día	día	NOUN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	I	i	CCONJ	_	_	4	nsubj	_	_
+2	will	will	PROPN	_	_	1	flat	_	_
+3	later	later	PROPN	_	_	1	flat	_	_
+4	ride	ridir	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	horse	hor él	VERB	_	_	4	xcomp	_	_
+7	into	into	NOUN	_	_	6	obj	_	_
+8	the	the	PROPN	_	_	6	obj	_	_
+9	sunset	sunset	PROPN	_	_	8	flat	_	_
+10	with	with	PROPN	_	_	8	flat	_	_
+11	blue	blue	PROPN	_	_	8	flat	_	_
+12	hair	hair	PROPN	_	_	8	flat	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	we	we	PROPN	_	_	2	det	_	_
+2	will	will	PROPN	_	_	14	nsubj	_	_
+3	watch	watch	PROPN	_	_	2	flat	_	_
+4	the	the	PROPN	_	_	2	flat	_	_
+5	sunset	sunset	PROPN	_	_	2	flat	_	_
+6	together	together	NOUN	_	_	2	flat	_	_
+7	as	as	PROPN	_	_	2	flat	_	_
+8	we	we	PROPN	_	_	2	flat	_	_
+9	smoke	smoke	ADJ	_	_	2	flat	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	cigarette	cigarette	PROPN	_	_	2	flat	_	_
+12	together	together	NOUN	_	_	2	flat	_	_
+13	and	and	PROPN	_	_	2	flat	_	_
+14	listen	listir	VERB	_	_	0	ROOT	_	_
+15	mellow	mellow	PROPN	_	_	14	obj	_	_
+16	fellow	fellow	PROPN	_	_	14	obj	_	_
+17	in	in	ADP	_	_	18	case	_	_
+18	the	the	PROPN	_	_	16	obl	_	_
+19	grass	grass	PROPN	_	_	18	flat	_	_
+20	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Regresaré	regresar	VERB	_	_	19	nsubj	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	_	1	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	noche	noche	NOUN	_	_	1	obl	_	_
+7	fresca	fresco	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	expl:pv	_	_
+10	sentaré	sentar	VERB	_	_	1	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	cama	cama	NOUN	_	_	10	obl	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	pensaré	pensar	VERB	_	_	10	conj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	el	el	DET	_	_	18	det	_	_
+18	hermoso	hermoso	NOUN	_	_	15	obl	_	_
+19	dí	dí	VERB	_	_	0	ROOT	_	_
+20	a	a	ADP	_	_	22	mark	_	_
+21	que	que	SCONJ	_	_	22	mark	_	_
+22	acaba	acabar	VERB	_	_	19	ccomp	_	_
+23	de	de	ADP	_	_	24	mark	_	_
+24	suceder	suceder	VERB	_	_	22	xcomp	_	_
+25	.	.	PUNCT	_	_	19	punct	_	_
+

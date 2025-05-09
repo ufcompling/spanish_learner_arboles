@@ -1,0 +1,352 @@
+# Unnamed: 0 = 116
+# id = 149431
+# prompt = special
+# quarter = F18
+# course = SPA 2
+# age = I am 21 years old.
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, I only speak English at home.
+# language(s) studied = I have previously studied French for about 1 year. This is previous to me studying Spanish in High School for 4 years, and taking Spanish 2 this quarter. 
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un persona especial en mi vida es mi hermano *FIRST_NAME*. Mi hermano es *AGE* anos, y es muy simpatico, alto, cómico, y inteligente. *FIRST_NAME* esta en el once grado y gusta basquetbol. Mi hermano juega basquetbol a *PLACE* y quiere va a colegio a *UNIVERSITY* cuando el termine escuela secundaria. Los clases cual *FIRST_NAME* tome en escuela están, ingles, química, historia, y matemático, pero no le gusta química ni historia. El quiere ser un doctor cunado el termine colegio a *UNIVERSITY*. Mi hermano es cuatro anos debajo a mi, pero el mire a cuatro anos delante de mi. Cuando mi y mi hermano vamos a la supermercado, o al cine, o otro lugares, personas preguntan,¿ este tu hermano mayor?. Yo respondo, no, yo esta la hermana mayor, y la persona es muy sorprendido. Mi hermano *FIRST_NAME* siempre es simpatico a mi, y da dulces a mi, en mi mochila cuando yo no miro, y el compre comida para mi por dice gracias cuando yo manejo el alrededor a la cuidad. Cuando nosotros esta en mi carro, mi hermano juegue buen música en su teléfono, y cuando yo pregunto a el, ¿que canción es esta?, el textos la canción a mi. *FIRST_NAME* esta un bueno hermano a mi además sus pequeño hermana, y cuando el compre ropas y chaquetas en el computadora, y las ropas y chaquetas esta pequeña a el, el da las prendas de ropa a mi y sus hermana, porque el piense a mi y sus hermana nos gustaría los ropas. Esta es por que mi hermano es muy importante y especial a mi.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	*FIRST_NAME*	*first_name*	PUNCT	_	_	9	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+4	*AGE*	*age*	SYM	_	_	5	punct	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	alto	alto	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	inteligente	inteligente	ADJ	_	Number=Sing	10	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	esta	este	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	grado	grado	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	basquetbol	basquetbol	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	basquetbol	basquetbol	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	*PLACE*	*place*	PROPN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	*university*	PROPN	_	_	9	punct	_	_
+14	cuando	cuando	SCONJ	_	_	16	mark	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nsubj	_	_
+16	termine	terminar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+17	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+18	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	clases	clase	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+3	cual	cual	PRON	_	Number=Sing|PronType=Rel	5	nsubj	_	_
+4	*FIRST_NAME*	*first_name*	SYM	_	_	3	compound	_	_
+5	tome	tomar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	ingles	ingle	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	química	química	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	historia	historia	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	matemático	matemático	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+19	pero	pero	CCONJ	_	_	22	cc	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+22	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+23	química	química	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
+24	ni	ni	CCONJ	_	_	25	cc	_	_
+25	historia	historia	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	_
+26	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
+6	cunado	cunado	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	termine	terminar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+9	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	a	a	ADP	_	_	8	case	_	_
+11	*UNIVERSITY*	*university*	PUNCT	_	_	8	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	debajo	debajo	ADV	_	_	5	advmod	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mire	mire	VERB	_	Gender=Masc|Number=Sing	5	conj	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
+15	anos	ano	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+16	delante	delante	ADV	_	_	12	advmod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	6	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	supermercado	supermercado	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	o	o	CCONJ	_	_	13	cc	_	_
+12	al	a	ADP	_	_	13	case	_	_
+13	cine	cine	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	o	o	CCONJ	_	_	17	cc	_	_
+16	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
+17	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+18	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+19	personas	persona	NOUN	_	Gender=Fem|Number=Plur	20	nsubj	_	_
+20	preguntan	preguntar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+22	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	25	punct	_	_
+23	este	este	AUX	_	Gender=Masc|Number=Sing|PronType=Dem	25	cop	_	_
+24	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	25	det	_	_
+25	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+26	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	25	amod	_	_
+27	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	20	punct	_	_
+28	.	.	PUNCT	_	PunctType=Peri	20	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	respondo	responder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	2	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+7	esta	este	AUX	_	Gender=Fem|Number=Sing|PronType=Dem	9	cop	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
+10	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+12	y	y	CCONJ	_	_	17	cc	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	persona	persona	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	sorprendido	sorprendido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	*FIRST_NAME*	*First_name*	SYM	_	_	2	nmod	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	dulces	dulce	NOUN	_	Number=Plur	11	obj	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	obl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	mochila	mochila	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+19	cuando	cuando	SCONJ	_	_	22	mark	_	_
+20	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+22	miro	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+24	y	y	CCONJ	_	_	26	cc	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	compre	comprir	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	6	conj	_	_
+27	comida	comida	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	_
+28	para	para	ADP	_	_	29	case	_	_
+29	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	nmod	_	_
+30	por	por	ADP	_	_	31	mark	_	_
+31	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	_
+32	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	31	obj	_	_
+33	cuando	cuando	SCONJ	_	_	35	mark	_	_
+34	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
+35	manejo	manejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	advcl	_	_
+36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+37	alrededor	alrededor	NOUN	_	Gender=Masc|Number=Sing	35	obj	_	_
+38	a	a	ADP	_	_	40	case	_	_
+39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
+40	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	35	obl	_	_
+41	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	carro	carro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+10	juegue	jugar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	buen	buen	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+12	música	música	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+16	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
+17	y	y	CCONJ	_	_	32	cc	_	_
+18	cuando	cuando	SCONJ	_	_	20	mark	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+20	pregunto	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	32	advcl	_	_
+21	a	a	ADP	_	_	22	case	_	_
+22	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+23	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+24	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	28	punct	_	_
+25	que	que	SCONJ	_	_	26	mark	_	_
+26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
+27	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
+28	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	34	acl	_	_
+29	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	28	punct	_	_
+30	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	textos	texto	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	canción	canción	NOUN	_	Gender=Fem|Number=Sing	32	obj	_	_
+35	a	a	ADP	_	_	36	case	_	_
+36	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	nmod	_	_
+37	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	5	dep	_	_
+2	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	obl	_	_
+8	además	además	ADV	_	_	5	advmod	_	_
+9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+10	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
+13	y	y	CCONJ	_	_	35	cc	_	_
+14	cuando	cuando	SCONJ	_	_	16	mark	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nsubj	_	_
+16	compre	comprir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+17	ropas	ropa	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	chaquetas	chaqueta	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	computadora	computadora	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+23	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+24	y	y	CCONJ	_	_	35	cc	_	_
+25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+26	ropas	ropa	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	chaquetas	chaqueta	NOUN	_	Gender=Fem|Number=Plur	26	conj	_	_
+29	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
+30	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	35	nsubj	_	_
+31	a	a	ADP	_	_	32	case	_	_
+32	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+33	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+34	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+36	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
+37	prendas	prenda	NOUN	_	Gender=Fem|Number=Plur	35	obj	_	_
+38	de	de	ADP	_	_	39	case	_	_
+39	ropa	ropa	NOUN	_	Gender=Fem|Number=Sing	37	nmod	_	_
+40	a	a	ADP	_	_	41	case	_	_
+41	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	35	obl	_	_
+42	y	y	CCONJ	_	_	44	cc	_	_
+43	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	44	det	_	_
+44	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	41	conj	_	_
+45	,	,	PUNCT	_	PunctType=Comm	55	punct	_	_
+46	porque	porque	SCONJ	_	_	55	mark	_	_
+47	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
+48	piense	piosar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55	advcl	_	_
+49	a	a	ADP	_	_	50	case	_	_
+50	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	48	obl	_	_
+51	y	y	CCONJ	_	_	53	cc	_	_
+52	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	53	det	_	_
+53	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	48	conj	_	_
+54	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	55	obl	_	_
+55	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	35	advcl	_	_
+56	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	57	det	_	_
+57	ropas	ropa	NOUN	_	Gender=Fem|Number=Plur	55	obj	_	_
+58	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	9	mark	_	_
+4	que	que	SCONJ	_	_	9	mark	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	importante	importante	ADJ	_	Number=Sing	2	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	especial	especial	ADJ	_	Number=Sing	9	conj	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

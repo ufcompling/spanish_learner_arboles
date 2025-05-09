@@ -1,0 +1,113 @@
+# Unnamed: 0 = 17
+# id = 124622
+# prompt = vacation
+# quarter = S17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Marathi
+# language(s) used at home = Hindi and Marathi
+# language(s) studied = English (18 years)
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = Desde que era un nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi compañero de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# a personal annotator2 = Desde que era un nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi compañero de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# gender-number annotator1 = Desde que era [un]{una}<ga:fm:det:an> nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi compañero de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# gender-number annotator2 = Desde que era [un]{una}<ga:fm:det:an> nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi [compañero]{compañera}<ga:fm:noun:an> de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# updated anntoation ann1 = Desde que era un nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi compañero de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# updated annotation ann2 = Desde que era [un]{una}<ga:det> nina, siempre me gusta viajar. Este verano voy a []{una}<ab:det:art:indef> casa a la India. Mi [compañero]{compañera}<ga:noun> de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Desde que era un niña, siempre me ha gustado viajar. Este verano voy a mi casa en la India. Mi compañera de cuarto, que es de Macedonia, también vendrá conmigo. Ella no ha viajado a India. Primero vamos a ir a mi casa. Luego viajaremos por el país. Quiero mostrarle la arquitectura antigua y las diferentes playas y templos. También iremos a Singapur. Quiero explorar el mundo con mi amiga. 
+# corrected2 = Desde que era niña, siempre me ha gustado viajar. Este verano voy a una casa en la India. Mi compañera de cuarto que es de Macedonia también vendrá conmigo. Ella no ha viajado a India. Primero vamos a ir a mi casa. Luego viajamos por el país. Quiero mostrarle la arquitectura antigua y las diferentes playas y templos. También iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# text = Desde que era un nina, siempre me gusta viajar. Este verano voy a casa a la India. Mi compañero de cuarto que es de macedonia también vendrá conmigo. Ella no viajas India. Primero vamos a ir a mi casa. Luego viajamos por el pais. Quiero mostarle la arquitectura antiqua y las diferentes playas y templos. Tambien iremos a Singapur. Quiero explorar el mundo con mi amiga.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Desde	desde	ADP	_	_	5	mark	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	nina	nina	NOUN	_	_	9	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	siempre	siempre	ADV	_	_	9	advmod	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	gusta	gustar	VERB	_	_	0	ROOT	_	_
+10	viajar	viajar	VERB	_	_	9	csubj	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	verano	verano	NOUN	_	_	3	obl	_	_
+3	voy	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	_	3	obl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	India	India	PROPN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	compañero	compañero	NOUN	_	_	10	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cuarto	cuarto	ADJ	_	_	2	nmod	_	_
+5	que	que	PRON	_	_	8	nsubj	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	macedonia	macedonia	PROPN	_	_	2	acl	_	_
+9	también	también	ADV	_	_	10	advmod	_	_
+10	vendrá	venir	VERB	_	_	0	ROOT	_	_
+11	conmigo	conmigo	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	viajas	viajar	VERB	_	_	0	ROOT	_	_
+4	India	India	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Primero	primero	ADV	_	_	4	advmod	_	_
+2	vamos	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ir	ir	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	casa	casa	NOUN	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	viajamos	viajamos	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	pais	pais	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	mostarle	mostar él	VERB	_	_	1	xcomp	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	arquitectura	arquitectura	NOUN	_	_	2	obj	_	_
+5	antiqua	antiqua	NOUN	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	las	el	DET	_	_	9	det	_	_
+8	diferentes	diferente	ADJ	_	_	9	amod	_	_
+9	playas	playa	NOUN	_	_	5	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	templos	templo	NOUN	_	_	9	conj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	2	nsubj	_	_
+2	iremos	ir	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Singapur	Singapur	PROPN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	explorar	explorar	VERB	_	_	1	xcomp	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	mundo	mundo	NOUN	_	_	2	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	amiga	amiga	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+

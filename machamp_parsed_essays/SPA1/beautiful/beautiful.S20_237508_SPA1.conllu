@@ -1,0 +1,211 @@
+# Unnamed: 0 = 157
+# id = 237508
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = I studied Chinese for 3 years. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hoy contaré una historia sobre cuándo fui de excursión. Fui con mi madre y mi padre, y caminamos por *PLACE* *PLACE* en *CITY*, *STATE*. ¡Tenía tres millas y dos mil pies de altura! Era un día muy caluroso en [el]{}<pr:det:art:def> verano. Comenzamos la caminata a las nueve de la mañana. La caminata nos llevó dos horas. En nuestro camino hacia la montaña, vi un lago, flores y muchos árboles. Fue hermoso. También vi un halcón volar sobre mí. Cuando llegamos a la cima de la montaña, vi toda la ciudad. Caminar tres millas valió la pena. Mis padres y yo tomamos una foto en nuestro teléfono. Estábamos sonriendo y nos dimos un abrazo. Fue un día especial para nosotros porque era la primera vez que subíamos a *PLACE* *PLACE*. Bajar la montaña era más fácil que subir. Bajamos rápido y fuimos a almorzar al mediodía.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hoy contaré una historia sobre cuándo fui de excursión. Fui con mi madre y mi padre, y caminamos por *PLACE* *PLACE* en *CITY*, *STATE*. ¡Tenía tres millas y dos mil pies de altura! Era un día muy caluroso en el verano. Comenzamos la caminata a las nueve de la mañana. La caminata nos llevó dos horas. En nuestro camino hacia la montaña, vi un lago, flores y muchos árboles. Fue hermoso. También vi un halcón volar sobre mí. Cuando llegamos a la cima de la montaña, vi toda la ciudad. Caminar tres millas valió la pena. Mis padres y yo tomamos una foto en nuestro teléfono. Estábamos sonriendo y nos dimos un abrazo. Fue un día especial para nosotros porque era la primera vez que subíamos a *PLACE* *PLACE*. Bajar la montaña era más fácil que subir. Bajamos rápido y fuimos a almorzar al mediodía.
+# verbs annotation ann2 = nan
+# corrected1 = Hoy contaré una historia sobre una excursión que hice con mis padres. Hace unos meses, fuimos a *PLACE* *PLACE*, en *CITY*, *STATE*. ¡Tiene casi ochocientos metros de altura! Era un día muy caluroso de verano. Comenzamos la caminata a las nueve de la mañana y nos llevó dos horas llegar a la cima. En nuestro camino a pie hacia la montaña, vi un lago, flores y muchos árboles. Todo era precioso. También vi un halcón volando sobre mí. Cuando llegamos a la cima de la montaña, pudimos ver toda la ciudad de Fremont. Caminar tanto valió la pena. Mis padres y yo tomamos una foto con nuestro teléfono en la que salimos sonriendo. Estábamos muy contentos y nos dimos un abrazo. Fue un día especial para nosotros porque era la primera vez que subíamos a *PLACE* *PLACE*. Bajar la montaña fue más fácil que subirla. Bajamos rápido y fuimos a almorzar al mediodía. 
+# corrected2 = nan
+# text = Hoy contaré una historia sobre cuándo fui de excursión. Fui con mi madre y mi padre, y caminamos por *PLACE* *PLACE* en *CITY*, *STATE*. ¡Tenía tres millas y dos mil pies de altura! Era un día muy caluroso en el verano. Comenzamos la caminata a las nueve de la mañana. La caminata nos llevó dos horas. En nuestro camino hacia la montaña, vi un lago, flores y muchos árboles. Fue hermoso. También vi un halcón volar sobre mí. Cuando llegamos a la cima de la montaña, vi toda la ciudad. Caminar tres millas valió la pena. Mis padres y yo tomamos una foto en nuestro teléfono. Estábamos sonriendo y nos dimos un abrazo. Fue un día especial para nosotros porque era la primera vez que subíamos a *PLACE* *PLACE*. Bajar la montaña era más fácil que subir. Bajamos rápido y fuimos a almorzar al mediodía.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hoy	hoy	ADV	_	_	2	advmod	_	_
+2	contaré	contar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	sobre	sobre	ADP	_	_	9	mark	_	_
+6	cuándo	cuándo	ADV	_	PronType=Int	7	advmod	_	_
+7	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	excursión	excursión	NOUN	_	Gender=Fem|Number=Sing	4	acl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	caminamos	caminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	*PLACE*	*place*	PROPN	_	_	1	obj	_	_
+13	*PLACE*	*place*	PROPN	_	_	12	punct	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	*city*	PUNCT	_	_	12	punct	_	_
+16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+17	*STATE*	*state*	PUNCT	_	_	12	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	millas	milla	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	dos	dos	NUM	_	NumForm=Word|NumType=Card	8	nummod	_	_
+7	mil	mil	NUM	_	NumForm=Word|NumType=Card	6	compound	_	_
+8	pies	pie	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	altura	altura	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	caluroso	caluroso	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Comenzamos	comenzar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	caminata	caminata	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	nueve	nueve	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	caminata	caminata	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	horas	hora	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	camino	camino	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+4	hacia	hacia	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	lago	lago	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	flores	flor	NOUN	_	Gender=Fem|Number=Plur	10	appos	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	15	det	_	_
+15	árboles	árbol	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	halcón	halcón	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	volar	volar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+6	sobre	sobre	ADP	_	_	7	case	_	_
+7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cima	cima	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+10	vi	vir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	12	det	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Caminar	caminar	VERB	_	VerbForm=Inf	4	csubj	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	millas	milla	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+4	valió	valer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	pena	pena	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	tomamos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	foto	foto	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	sonriendo	sonrer	VERB	_	VerbForm=Ger	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	dimos	dar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	abrazo	abrazo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	especial	especial	ADJ	_	Number=Sing	3	amod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+10	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	_
+11	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	advcl	_	_
+12	que	que	PRON	_	PronType=Rel	13	obl	_	_
+13	subíamos	subir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	11	acl	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	*PLACE*	*place*	PROPN	_	_	13	dep	_	_
+16	*PLACE*	*place*	PUNCT	_	_	15	punct	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Bajar	bajar	VERB	_	VerbForm=Inf	6	csubj	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	más	más	ADV	_	Degree=Cmp	6	advmod	_	_
+6	fácil	fácil	ADJ	_	Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	subir	subir	VERB	_	VerbForm=Inf	6	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Bajamos	bajar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	rápido	rápido	ADV	_	_	1	advmod	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	almorzar	almorzar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	mediodía	mediodía	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

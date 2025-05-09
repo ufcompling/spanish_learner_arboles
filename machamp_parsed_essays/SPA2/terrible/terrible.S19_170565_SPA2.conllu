@@ -1,0 +1,463 @@
+# Unnamed: 0 = 38
+# id = 170565
+# prompt = terrible
+# quarter = S19
+# course = SPA 2
+# age = 19
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = Chinese. 
+# language(s) used at home = Chinese. 
+# language(s) studied = English.
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Tengo una familia maravillosa. Mi madre tiene *AGE* años, es muy alta y muy amable. Trabaja en un banco de 8am a 5 pm. Ella estaba muy preocupada por mis estudios cuando yo estaba creciendo. Ella simpre cocina para mi. Mi padre tiene *AGE* años y también trabaja en un banco, pero no es lo mismo que mi madre. Todos ellos viven en China. Tengo *AGE* años y estoy estudiando economía en la Universidad de *UNIVERSITY*. Ahora es mi segundo año aquí. Estoy nostálgico. Mi madre no está contenta porque voy a la escuela en los Estados Unidos y mi padre trabaja de 6 am a 12 pm. Se siente sola en la casa, no hay nada interesante para hacer durante el dia, porque mi padre y yo no estamos en casa para jugar con ella por ejemplo ver a la películas y escuchar música. Un día, cuando mi madre estaba cocinando en casa, escuché a alguien llamar a la puerta. Tenía mucha curiosidad porque nadie, excepto mi padre, regresó a nuestra casa para buscarla, pero en ese momento mi padre todavía estaba trabajando. Intentó mirar por la ventana, pero estaba oscuro y no podía ver a nadie. El hombre todavía está muy ansioso por llamar a la puerta. Mi madre está muy asustada. No se atrevió a hacer ruido porque temía que la persona fuera una mala persona. Después de unos minutos, escuchó a personas afuera tratando de abrir la puerta con la llave, pero no tuvo éxito. Mi madre piensa que esto es un ladrón. Así que se escondió en la habitación, cerró la puerta, llamó a mi padre y lo dejó ir a casa. Mi padre escuchó con mucha ansiedad y condujo a la casa diez minutos después de conducir. En ese momento, no había nadie afuera. Miraron a la cámara del ascensor y descubrieron que era un hombre bajo y delgado. Ellos determinaron que esta persona es un ladrón. Mi madre tiene miedo y lloró. Mi papá lo consoló y cambió la puerta nueva e instaló un sistema de alarma afuera de la puerta. Yo me graduaré el proximo ano y yo quiero vivir con mi madre para protegerla.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	maravillosa	maravilloso	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	alta	alto	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	amable	amable	ADJ	_	Number=Sing	9	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	banco	banco	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	8	8	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+7	am	am	NOUN	_	_	6	compound	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	5	5	NUM	_	NumForm=Digit|NumType=Card	10	nummod	_	_
+10	pm	pm	NOUN	_	AdvType=Tim	6	compound	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	preocupada	preocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	cuando	cuando	SCONJ	_	_	11	mark	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	creciendo	crecer	VERB	_	VerbForm=Ger	4	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	simpre	simprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*AGE*	*age*	SYM	_	_	5	punct	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	también	también	ADV	_	_	8	advmod	_	_
+8	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	banco	banco	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+13	pero	pero	CCONJ	_	_	17	cc	_	_
+14	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	conj	_	_
+17	mismo	mismo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	_
+18	que	que	SCONJ	_	_	20	mark	_	_
+19	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	madre	madre	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	China	China	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	estudiando	estudiar	VERB	_	VerbForm=Ger	1	conj	_	_
+7	economía	economía	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Universidad	Universidad	PROPN	_	_	6	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	*university*	PUNCT	_	_	10	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	aquí	aquí	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	nostálgico	nostálgico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Estados	Estados	PROPN	_	_	7	obl	_	_
+14	Unidos	Unidos	PROPN	_	_	13	flat	_	_
+15	y	y	CCONJ	_	_	18	cc	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padre	padre	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+18	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	6	6	NUM	_	NumForm=Digit|NumType=Card	18	obl	_	_
+21	am	am	NOUN	_	_	20	compound	_	_
+22	a	a	ADP	_	_	24	case	_	_
+23	12	12	NUM	_	NumForm=Digit|NumType=Card	24	nummod	_	_
+24	pm	pm	NOUN	_	_	20	compound	_	_
+25	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sola	solo	ADJ	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	nada	nada	PRON	_	Number=Sing|PronType=Neg	9	obj	_	_
+11	interesante	interesante	ADJ	_	Number=Sing	10	amod	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	hacer	hacer	VERB	_	VerbForm=Inf	10	acl	_	_
+14	durante	durante	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	dia	dia	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+18	porque	porque	SCONJ	_	_	24	mark	_	_
+19	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	padre	padre	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	conj	_	_
+23	no	no	ADV	_	Polarity=Neg	24	advmod	_	_
+24	estamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	casa	casa	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
+27	para	para	ADP	_	_	28	mark	_	_
+28	jugar	jugar	VERB	_	VerbForm=Inf	24	advcl	_	_
+29	con	con	ADP	_	_	30	case	_	_
+30	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	obl	_	_
+31	por	por	ADP	_	_	28	advmod	_	_
+32	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	31	fixed	_	_
+33	ver	ver	VERB	_	VerbForm=Inf	28	xcomp	_	_
+34	a	a	ADP	_	_	36	case	_	_
+35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	películas	película	NOUN	_	Gender=Fem|Number=Plur	33	obj	_	_
+37	y	y	CCONJ	_	_	38	cc	_	_
+38	escuchar	escuchar	VERB	_	VerbForm=Inf	33	conj	_	_
+39	música	música	NOUN	_	Gender=Fem|Number=Sing	38	obj	_	_
+40	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+4	cuando	cuando	ADV	_	PronType=Rel	8	advmod	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	cocinando	cocinar	VERB	_	VerbForm=Ger	2	acl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+12	escuché	escucar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	12	obl	_	_
+15	llamar	llamar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	curiosidad	curiosidad	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	porque	porque	SCONJ	_	_	11	mark	_	_
+5	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	11	nsubj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	excepto	excepto	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	regresó	regresar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	para	para	ADP	_	_	16	mark	_	_
+16	buscarla	buscar	VERB	_	VerbForm=Inf	11	advcl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+18	pero	pero	CCONJ	_	_	26	cc	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
+21	momento	momento	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	_
+22	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	padre	padre	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	_
+24	todavía	todavía	ADV	_	_	26	advmod	_	_
+25	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	aux	_	_
+26	trabajando	trabajar	VERB	_	VerbForm=Ger	1	conj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Intentó	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mirar	mirar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+12	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	ver	ver	VERB	_	VerbForm=Inf	9	conj	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	todavía	todavía	ADV	_	_	6	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	ansioso	ansioso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	por	por	ADP	_	_	8	mark	_	_
+8	llamar	llamar	VERB	_	VerbForm=Inf	6	acl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	atrevió	atreverse	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	temía	temer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+9	que	que	SCONJ	_	_	15	mark	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	persona	persona	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+12	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	mala	malo	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+15	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	ccomp	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	escuchó	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	personas	persona	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+9	afuera	afuera	ADV	_	_	8	advmod	_	_
+10	tratando	tratar	VERB	_	VerbForm=Ger	6	advcl	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	abrir	abrir	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	llave	llave	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+19	pero	pero	CCONJ	_	_	21	cc	_	_
+20	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
+21	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+22	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	piensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	esto	este	PRON	_	Number=Sing|PronType=Dem	8	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ladrón	ladrón	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Así	así	ADV	_	_	4	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	escondió	escondir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	cerró	cerrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	padre	padre	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
+19	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+20	ir	ir	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	a	a	ADP	_	_	22	case	_	_
+22	casa	casa	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	escuchó	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	ansiedad	ansiedad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	condujo	conducir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	13	nummod	_	_
+13	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+14	después	después	ADV	_	_	8	advmod	_	_
+15	de	de	ADP	_	_	16	mark	_	_
+16	conducir	conducir	VERB	_	VerbForm=Inf	14	advcl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	momento	momento	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	6	obj	_	_
+8	afuera	afuera	ADV	_	_	6	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Miraron	mirar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cámara	cámara	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	ascensor	ascensor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	descubrieron	descubrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+9	que	que	SCONJ	_	_	12	mark	_	_
+10	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	8	ccomp	_	_
+13	bajo	bajo	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	13	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	determinaron	determinar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	8	mark	_	_
+4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ladrón	ladrón	NOUN	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	lloró	llorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papá	papá	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	consoló	consolar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cambió	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	e	e	CCONJ	_	_	11	cc	_	_
+11	instaló	instalar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	alarma	alarma	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+16	afuera	afuera	ADV	_	_	15	advmod	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	puerta	puerta	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	graduaré	graduar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	proximo	proximo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+6	ano	ano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	vivir	vivir	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	madre	madre	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	protegerla	proteger	VERB	_	VerbForm=Inf	10	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

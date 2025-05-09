@@ -1,0 +1,152 @@
+# Unnamed: 0 = 17
+# id = 108890
+# prompt = famous
+# quarter = S17
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarian
+# language(s) studied = English, 14 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. Ella dona dinero para niños pobres en las zonas rurales. Ella tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+# a personal annotator2 = Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda [a] {}<za:do:inan> la caridad. Ella dona dinero para niños pobres en las zonas rurales. Ella tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+
+
+# gender-number annotator1 =  "Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. Ella dona dinero para niños pobres en las zonas rurales. Ella tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+
+# gender-number annotator2 = Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. Ella dona dinero para niños pobres en las zonas rurales. Ella tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+# updated anntoation ann1 = Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. [Ella]{}<pr:su:pron> dona dinero para niños pobres en las zonas rurales. [Ella]{}<pr:su:pron> tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+# updated annotation ann2 = ﻿Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que [está]{es}<conf:v:seta> []{La}<ab:det:art:def> leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. [Ella[{}<pr:su:pron> dona dinero para niños pobres en las zonas rurales. [Ella]{}<pr:su:pron> tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Li Sun es una actriz famosa en China. Li es bonita y está en forma. El drama más famoso en que está es Leyenda en Zhenhuan. Es una historia sobre la antigua China. El contexto es la dinastía Qing. Li muestra muy buen desempeño en esta actuación. Este show es tan popular que sigue emitiéndose ahora en Chin. Ella también es una buena persona que ayuda a la caridad. Dona dinero para niños pobres en las zonas rurales. Tiene dos hijos y un marido guapo. Viven en Shanghai. Esto es lo mejor que puedo escribir.
+# corrected2 = Li Sun es una actriz famosa en China.  Es bonita y formal. Actúa en una serie dramática muy famosa  que es La leyenda de Zhen Huan. Es una historia sobre la antigua China en el contexto de la dinastía Ging. Li muestra muy buen desempeño en esta serie. Este show es tan popular que se sigue emitiendo ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad.  Dona dinero para niños pobres en las zonas rurales.  Tiene dos hijos y un marido guapo. Viven en Shanghái. Esto es lo mejor que puedo escribir. 
+# text = Li Sun es una actriz famosa en China. Li es bonita y forma. Es el drama más famoso en que está leyenda en Zhenhuan. Es una historia sobre la antigua china. El contexto es la dinastía qing. Li muestra muy buen desempeño en este espectáculo. Este show es tan popular que sigue jugando ahora en China en algún momento. Ella también es una buena persona que ayuda a la caridad. Ella dona dinero para niños pobres en las zonas rurales. Ella tiene dos hijos y un marido guapo. Viven en Shanghai. Este es el mejor que puedo escribir
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Li	Li	PROPN	_	_	5	nsubj	_	_
+2	Sun	Sun	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	actriz	actriz	NOUN	_	_	0	ROOT	_	_
+6	famosa	famoso	ADJ	_	_	5	amod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	China	China	PROPN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Li	Li	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	bonita	bonito	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	forma	forma	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	drama	drama	NOUN	_	_	0	ROOT	_	_
+4	más	más	ADV	_	_	5	advmod	_	_
+5	famoso	famoso	ADJ	_	_	3	amod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	que	que	PRON	_	_	9	obl	_	_
+8	está	estar	AUX	_	_	9	cop	_	_
+9	leyenda	leyendo	ADJ	_	_	3	acl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	Zhenhuan	Zhenhuan	PROPN	_	_	9	obl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	historia	historia	NOUN	_	_	0	ROOT	_	_
+4	sobre	sobre	ADP	_	_	7	case	_	_
+5	la	el	DET	_	_	7	det	_	_
+6	antigua	antiguo	ADJ	_	_	7	amod	_	_
+7	china	china	NOUN	_	_	3	nmod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	contexto	contexto	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	dinastía	dinastía	NOUN	_	_	0	ROOT	_	_
+6	qing	qing	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Li	Li	PROPN	_	_	2	nsubj	_	_
+2	muestra	mostrar	VERB	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buen	buen	ADJ	_	_	5	amod	_	_
+5	desempeño	desempeño	NOUN	_	_	2	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	este	este	DET	_	_	8	det	_	_
+8	espectáculo	espectáculo	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	show	show	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	tan	tanto	ADV	_	_	5	advmod	_	_
+5	popular	popular	ADJ	_	_	0	ROOT	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	sigue	seguir	VERB	_	_	5	ccomp	_	_
+8	jugando	jugar	VERB	_	_	7	xcomp	_	_
+9	ahora	ahora	ADV	_	_	8	advmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	China	China	PROPN	_	_	7	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	algún	alguno	DET	_	_	14	det	_	_
+14	momento	momento	NOUN	_	_	7	obl	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	6	nsubj	_	_
+2	también	también	ADV	_	_	6	advmod	_	_
+3	es	ser	AUX	_	_	6	cop	_	_
+4	una	uno	DET	_	_	6	det	_	_
+5	buena	buen	ADJ	_	_	6	amod	_	_
+6	persona	persona	NOUN	_	_	0	ROOT	_	_
+7	que	que	PRON	_	_	8	nsubj	_	_
+8	ayuda	ayudar	VERB	_	_	6	acl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	caridad	caridad	NOUN	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	dona	donar	VERB	_	_	0	ROOT	_	_
+3	dinero	dinero	NOUN	_	_	2	obj	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	niños	niño	NOUN	_	_	3	nmod	_	_
+6	pobres	pobre	ADJ	_	_	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	zonas	zona	NOUN	_	_	5	nmod	_	_
+10	rurales	rural	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	hijos	hijo	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	marido	marido	NOUN	_	_	4	conj	_	_
+8	guapo	guapo	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Viven	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Shanghai	Shanghai	PROPN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Este	este	PRON	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	7	det	_	_
+4	mejor	mejor	ADJ	_	_	7	amod	_	_
+5	que	que	PRON	_	_	7	obj	_	_
+6	puedo	poder	AUX	_	_	7	aux	_	_
+7	escribir	escribir	VERB	_	_	2	ccomp	_	_
+

@@ -1,0 +1,204 @@
+# Unnamed: 0 = 175
+# id = 202332
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi hermana *FIRST_NAME* es muy importante para mi porque ella [ella]{}<pr:su:pron> es mi hermana y ella [ella]{}<pr:su:pron>  es mi favorita persona [favorita persona]{persona favorita}<col:adj>.  Yo amo ella porque [ella]{}<pr:su:pron> es divertida y muy cómica. Cuando yo triste ella [ella]{}<pr:su:pron>  habla muchas cosas divertidas y después ella [ella]{}<pr:su:pron>  habla con mi yo estoy feliz.  Mi hermana y yo hacen [hacen]{hacemos}<fs:st:pn> muchas actividades juntos. Cuando nosotros mas joven ella y mi fuimos [fuimos]{íbamos}<fs:st:t> la escuela juntos.  Mi hermana le gusta []{lo}<ab:det:art:def> Legos y []{las}<ab:det:art:def> películas de acción. Ella le gusta la película se llama "the thunderbirds" porque ella [ella]{}<pr:su:pron> piense [piense]{piensa}<fs:st:mo> es una película muy buena.  Ella vive en *CITY*, *STATE* porque ella [ella]{}<pr:su:pron>  estudie [estudie]{estudia}:fs:st:mo> el ingeniero en la universidad de *UNIVERSITY*. Ella le gusta la universidad porque ella [ella]{}<pr:su:pron>  tiene muchas [muchas]{muchos}<ga:det> amigos nuevos. Ella [ella]{}<pr:su:pron>  también practicar [practicar]{practica}<fs:st:t> deportes con equipos para la universidad.  La universidad de *UNIVERSITY* es [es]{esta}<conf:v:seta> my proximo [próximo]{próxima}<ga:adj> a la casa de mi abuela. Mi hermana voy [voy]{va}<fs:st:pn> a la casa de mi abuela mucho.
+# updated annotation ann2 = Mi hermana *FIRST_NAME* es muy importante para mi porque [ella]{}<pr:su:pron> es mi hermana y [ella]{}<pr:su:pron> es mi [favorita persona]{persona favorita}<col:adj>.  Yo amo a ella porque [ella]{}<pr:su:pron> es divertida y muy cómica. Cuando yo triste ella habla muchas cosas divertidas y después ella [habla]{hable}<fs:st:mo> con mi [yo]{}<pr:su:pron> estoy feliz.  Mi hermana y yo [hacen]{hacemos}<fs:st:pn> muchas actividades juntos. Cuando nosotros mas [joven]{jóvenes}<na:adj> ella y mi [fuimos]{íbamos}<fs:st:t> la escuela juntos.  Mi hermana [le gusta]{le gustan}<fs:st:pn> []{los}<ab:det:art:def> Legos y []{las}<ab:det:art:def> películas de acción. Ella le gusta la película se llama "the thunderbirds" porque ella [piense]{piensa}<fs:st:mo> es una película muy buena.  Ella vive en *CITY*, *STATE* porque [ella]{}<pr:su:pron> [estudie]{estudia]<fs:st:mo> [el]{}<pr:det:art:def> ingeniero en la universidad de *UNIVERSITY*. [Ella]{}<pr:su:pron> le gusta la universidad porque [ella]{}<pr:su:pron> tiene [muchas]{muchos}<ga:adj> amigos nuevos. [Ella]{}<pr:su:pron> también [practicar]{practica}<fs:st:t> deportes con [equipos]{equipo}<gat:noun> para la universidad.  La universidad de *UNIVERSITY* [es]{está}<conf:v:seta> my [proximo]{próxima}<ga:adj< a la casa de mi abuela. Mi hermana [voy]{va}<fs:st:pn> a la casa de mi abuela mucho.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi hermana *FIRST_NAME* es muy importante para mí porque es mi hermana y es mi persona favorita.  Yo amo a ella porque es divertida y muy cómica. Cuando estoy triste ella dice muchas cosas divertidas y después de que ella hable conmigo estoy feliz.  Mi hermana y yo hacemos muchas actividades juntos. Cuando nosotros éramos más jóvenes, ella y yo íbamos la escuela juntos.  A mi hermana le gustan los Legos y las películas de acción. A ella le gusta la película que se llama "The Thunderbirds" porque piensa que es una película muy buena.  Ella vive en *CITY*, *STATE* porque estudia ingeniería en la universidad de *UNIVERSITY*. Le gusta la universidad porque tiene muchos amigos nuevos. También practica deportes en equipo para la universidad.  La universidad de *UNIVERSITY* está muy próxima a la casa de mi abuela. Mi hermana va a la casa de mi abuela mucho.
+# corrected2 = nan
+# text = Mi hermana *FIRST_NAME* es muy importante para mi porque ella es mi hermana y ella es mi favorita persona. Yo amo ella porque ella es divertida y muy cómica. Cuando yo triste ella habla muchas cosas divertidas y después ella habla con mi yo estoy feliz. Mi hermana y yo hacen muchas actividades juntos. Cuando nosotros mas joven ella y mi fuimos la escuela juntos. Mi hermana le gusta Legos y películas de acción. Ella le gusta la película se llama "the thunderbirds" porque ella piense es una película muy buena. Ella vive en *CITY*, *STATE* porque ella estudie el ingeniero en la universidad de *UNIVERSITY*. Ella le gusta la universidad porque ella tiene muchas amigos nuevos. Ella también practicar deportes con equipos para la universidad. La universidad de *UNIVERSITY* es my proximo a la casa de mi abuela. Mi hermana voy a la casa de mi abuela mucho.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	*FIRST_NAME*	*first_name*	SYM	_	_	2	appos	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
+9	porque	porque	SCONJ	_	_	13	mark	_	_
+10	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	6	advcl	_	_
+14	y	y	CCONJ	_	_	19	cc	_	_
+15	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+18	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
+19	persona	persona	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advcl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	triste	triste	ADJ	_	Number=Sing	5	advcl	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+7	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	divertidas	divertido	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	7	amod	_	_
+9	y	y	CCONJ	_	_	17	cc	_	_
+10	después	después	ADV	_	_	12	advmod	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	obl	_	_
+15	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+16	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	feliz	feliz	ADJ	_	Number=Sing	5	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+7	actividades	actividad	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	5	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	mas	mas	ADV	_	_	4	advmod	_	_
+4	joven	joven	ADJ	_	Number=Sing	8	advcl	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	conj	_	_
+8	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Legos	Legos	PROPN	_	_	4	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	películas	película	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	acción	acción	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+8	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
+9	the	the	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	thunderbirds	thunderbirds	NOUN	_	_	7	obj	_	_
+11	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+12	porque	porque	SCONJ	_	_	17	mark	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	piense	penser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	csubj	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	película	película	NOUN	_	Gender=Fem|Number=Sing	7	advcl	_	_
+18	muy	mucho	ADV	_	_	19	advmod	_	_
+19	buena	buen	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*STATE*	*state*	SYM	_	_	4	punct	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	estudie	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ingeniero	ingeniero	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*UNIVERSITY*	*university*	PUNCT	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
+10	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	practicar	practicar	VERB	_	VerbForm=Inf	0	root	_	_
+4	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	equipos	equipo	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*UNIVERSITY*	*university*	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	my	my	INTJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	proximo	proximo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	mucho	mucho	ADV	_	_	3	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,288 @@
+# Unnamed: 0 = 99
+# id = 151392
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 22
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Uncomfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = * Me llamo *FIRST_NAME* *LAST_NAME*. Tengo *AGE* anos. Tengo pelo moreno y largo. Soy alta, y estudiosa Veo televisión y hago arte. Yo era nadadora pero el ano pasado fue mi último año * Mi madre se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos. Mi madre tiene pelo moreno y Es baja y pequena. Tambien, mi madre es generosa. Ella jardines en la escuela intermedia, y enseña sobre plantas a las estudiantes * Mi padre se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos Mi padre tiene pelo rubio. Es muy alto y cómico, y él sonrie mucho. Mi padre es inteligente y trabajador. el es un doctor de *PLACE* *PLACE* * Mi hermano se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y tiene las pecas. Es alto y fuerte, y atlético. Él es una atleta, y nada para la Universidad de *UNIVERSITY*. el estudia la computación. * Mu hermano menor se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y rizado. Es alto, fuerte, y atlético. Tambien, él es una atleta, y hace natación. Él es en el ultimo ano en la escuela secundaria. Le gustan la biología y el diseño gráfico
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*	*	SYM	_	_	3	advmod	_	_
+2	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+5	*LAST_NAME*	*last_name*	PUNCT	_	_	3	dep	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estudiosa	estudioso	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+6	Veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	arte	arte	NOUN	_	Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	nadadora	nadadora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	pero	pero	CCONJ	_	_	11	cc	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ano	ano	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+7	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	amod	_	_
+8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+10	último	último	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	año	año	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+12	*	*	PUNCT	_	_	16	mark	_	_
+13	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	madre	madre	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+17	*FIRST_NAME*	*first_name*	PROPN	_	_	16	obj	_	_
+18	*LAST_NAME*	*last_name*	PUNCT	_	_	16	punct	_	_
+19	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	1	dep	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	jardines	jardón	VERB	_	Gender=Masc|Number=Plur	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	intermedia	intermedio	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	sobre	sobre	ADP	_	_	11	case	_	_
+11	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	estudiantes	estudiante	NOUN	_	Number=Plur	9	obl	_	_
+15	*	*	PUNCT	_	_	19	punct	_	_
+16	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padre	padre	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+20	*FIRST_NAME*	*first_name*	PROPN	_	_	19	obl	_	_
+21	*LAST_NAME*	*last_name*	PUNCT	_	_	19	punct	_	_
+22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	SYM	_	_	1	obl	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+6	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	padre	padre	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	sonrie	sonriar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	mucho	mucho	ADV	_	_	9	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*PLACE*	*place*	PROPN	_	_	4	nmod	_	_
+7	*PLACE*	*place*	SYM	_	_	6	punct	_	_
+8	*	*	SYM	_	_	6	punct	_	_
+9	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+13	*FIRST_NAME*	*first_name*	PROPN	_	_	6	punct	_	_
+14	*LAST_NAME*	*last_name*	PUNCT	_	_	12	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	pecas	peca	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuerte	fuerte	ADJ	_	Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	atlético	atlético	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	atleta	atleta	NOUN	_	Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	nada	nada	PRON	_	Number=Sing|PronType=Neg	4	conj	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Universidad	Universidad	PROPN	_	_	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	*university*	PROPN	_	_	10	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	computación	computación	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*	*	SYM	_	_	6	nsubj	_	_
+2	Mu	mu	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	nmod	_	_
+8	*LAST_NAME*	*last_name*	PUNCT	_	_	6	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	fuerte	fuerte	ADJ	_	Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	atlético	atlético	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	atleta	atleta	NOUN	_	Number=Sing	0	root	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	natación	natación	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	ultimo	ultimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	ano	ano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	biología	biología	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	gráfico	gráfico	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+

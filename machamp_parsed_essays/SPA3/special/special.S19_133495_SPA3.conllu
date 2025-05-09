@@ -1,0 +1,347 @@
+# Unnamed: 0 = 170
+# id = 133495
+# prompt = special
+# quarter = S19
+# course = SPA 3
+# age = 21
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Hindko and Urdu/Hindi
+# language(s) studied = No other languages studied
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi hermanito es una persona especial en my vida. Yo tengo dos hermanas mas. Él tiene *AGE* años. Él es mas joven de la familia. Es un poco mimado porque es el mas joven. Estamos cartorce años de diferencia. Yo creo que proque está diferencia yo amo mas. Él es muy fuerte y energético. Él encanta los animales y los dinosaurios. Él gusta jugar con su pistola de juguete. Tambien él gusta jugar con nuestro gato. Él llama nuestro gato su hermanita. Yo creo que quiere ser un hermano mayor. Mis padres no gusta cuando él llama nuestro gato su hermanita porque ellos no quieren un gato ser su hija, especialmente mi papa. Mi papa no gusta nuestro gato porque él no gusta los animales. Por está mi hermanito es muy protector de nuestro gato. Él encanta los leones y los tigres, asi que él imagina que nuestro gato es uno. Estoy en la universidad, asi que no siempre tengo tiempo para jugar por él. Me siento mal por esta. Él juega mucho con nuestro gato porque mi hermana y yo estamos en la universidad. Mi otra hermana está en la escuela secundaria y ella no gusta jugar con él. Cuando venemos a casa, jugamos mucho con él. Él es unico porque le encanta ver documentales. Él vea documentales sobre la naturaleza y los dinosaurios. Él sabe muchos nombres de los dinosaurios. No se como pronunciar muchos de los nombres. Él quiere ser un científico cuando es mayor. Yo creo que él es inteligente como para ser un científico.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermanito	hermanito	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	especial	especial	ADJ	_	Number=Sing	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	mas	mas	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mas	mas	ADV	_	Degree=Cmp	4	advmod	_	_
+4	joven	joven	ADJ	_	Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	mimado	mimado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	mas	mas	ADV	_	_	9	advmod	_	_
+9	joven	joven	ADJ	_	Number=Sing	4	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	cartorce	cartorcer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	diferencia	diferencia	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	proque	proque	SCONJ	_	_	6	mark	_	_
+5	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	diferencia	diferencia	NOUN	_	Gender=Fem|Number=Sing	8	ccomp	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	mas	mas	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	fuerte	fuerte	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	energético	energético	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	animales	animal	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	dinosaurios	dinosaurio	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jugar	jugar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	pistola	pistola	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	juguete	juguete	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	3	advmod	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	jugar	jugar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	gato	gato	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	gato	gato	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermanita	hermanita	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+8	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	gato	gato	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	hermanita	hermanita	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+12	porque	porque	SCONJ	_	_	15	mark	_	_
+13	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	quieren	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	gato	gato	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	ser	ser	AUX	_	VerbForm=Inf	20	cop	_	_
+19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	hija	hija	NOUN	_	Gender=Fem|Number=Sing	17	acl	_	_
+21	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+22	especialmente	especialmente	ADV	_	_	24	advmod	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	papa	papa	NOUN	_	Gender=Masc|Number=Sing	20	appos	_	_
+25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	gato	gato	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	porque	porque	SCONJ	_	_	10	mark	_	_
+8	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	animales	animal	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermanito	hermanito	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	protector	protector	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	gato	gato	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	leones	león	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	tigres	tigre	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	asi	asi	ADV	_	_	12	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	imagina	imaginar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	que	que	SCONJ	_	_	17	mark	_	_
+14	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	gato	gato	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	12	ccomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	asi	asi	INTJ	_	_	1	obl	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	siempre	siempre	ADV	_	_	10	advmod	_	_
+10	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	jugar	jugar	VERB	_	VerbForm=Inf	11	acl	_	_
+14	por	por	ADP	_	_	15	case	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mal	mal	ADV	_	_	2	advmod	_	_
+4	por	por	ADP	_	_	5	case	_	_
+5	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	juega	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	gato	gato	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	porque	porque	SCONJ	_	_	12	mark	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	conj	_	_
+12	estamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	1	det	_	_
+3	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	jugar	jugar	VERB	_	VerbForm=Inf	12	csubj	_	_
+14	con	con	ADP	_	_	15	case	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	venemos	vener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	unico	unico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	documentales	documental	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vea	vear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	documentales	documental	ADJ	_	Number=Plur	2	obj	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	dinosaurios	dinosaurio	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	dinosaurios	dinosaurio	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	como	como	SCONJ	_	_	4	mark	_	_
+4	pronunciar	pronunciar	VERB	_	VerbForm=Inf	0	root	_	_
+5	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	científico	científico	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
+6	cuando	cuando	SCONJ	_	_	8	mark	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	2	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	2	ccomp	_	_
+7	como	como	SCONJ	_	_	11	mark	_	_
+8	para	para	ADP	_	_	11	mark	_	_
+9	ser	ser	AUX	_	VerbForm=Inf	11	cop	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	científico	científico	NOUN	_	Gender=Masc|Number=Sing	6	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

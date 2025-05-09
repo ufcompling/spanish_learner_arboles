@@ -1,0 +1,219 @@
+# Unnamed: 0 = 73
+# id = 264762
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 23
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 4 or more
+# speaking ability = Yes. 1 to 3 months.
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Mi nombre es *FIRST_NAME* *FIRST_NAME* y mi apellido es *LAST_NAME* *LAST_NAME*. Soy tengo *AGE* años. Mi correo electrónico es *EMAIL* y mi teléfono es *NUMBER*. Nací en *PLACE*, la ciudad es *CITY*. Mi feche de cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy cómico, atlético y activo. Pero no soy inteligente, tímido y aventurero. Estoy en *STATE* y viviré con mi madre. [Yo]{}<pr:su:pron> tengo sueño ahora. [Yo]{}<pr:su:pron> tengo una hermana y [ella]{}<pr:su:pron> vive en *STATE*. Me gustan los deportes extremos, como el paracaidismo, el buceo y el parapente. También me encanta hacer voluntariado en otro país, porque no solo puedo ayudar a las comunidades sino que también puedo viajar a diferentes lugares. Mi especialidad es economía, el menor es contabilidad. Tengo un gran interés en la industria de servicios bancarios, financieros y contables. Estoy buscando una pasantía este trimestre y espero poder obtener una oferta antes del trimestre de invierno.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! Mi nombre es *FIRST_NAME* *FIRST_NAME* y mi apellido es *LAST_NAME* *LAST_NAME*. Soy tengo *AGE* años. Mi correo electrónico es *EMAIL* y mi teléfono es *NUMBER*. Nací en *PLACE*, la ciudad es *CITY*. Mi feche de cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy cómico, atlético y activo. Pero no soy inteligente, tímido y aventurero. Estoy en *STATE* y [viviré]{vivo}<fs:st:t> con mi madre. [Yo]{}<pr:su:pron> tengo sueño ahora. [Yo]{}<pr:su:pron> tengo una hermana y [ella]{}<pr:su:pron> vive en *STATE*. Me gustan los deportes extremos, como el paracaidismo, el buceo y el parapente. También me encanta hacer [voluntariado]{voluntariados}<in:noun> en [otro]{otros}<in:det> [país]{países}<in:noun>, porque no solo puedo ayudar a las comunidades sino que también puedo viajar a diferentes lugares. Mi especialidad es []{la}<ab:det:art:def> economía, el menor es contabilidad. Tengo un gran interés en la industria de servicios bancarios, financieros y contables. Estoy buscando una pasantía este trimestre y espero poder obtener una oferta antes del trimestre de invierno.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Mi nombre es *FIRST_NAME* *FIRST_NAME* y mi apellido es *LAST_NAME* *LAST_NAME*. Tengo *AGE* años. Mi correo electrónico es *EMAIL* y mi teléfono es *NUMBER*. Nací en *PLACE*, la ciudad es *CITY*. Mi fecha de cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy cómico, atlético y activo. Pero no soy inteligente, tímido ni aventurero. Estoy en *STATE* y viviré con mi madre. Tengo sueño ahora. Tengo una hermana y vive en *STATE*. Me gustan los deportes extremos, como el paracaidismo, el buceo y el parapente. También me encanta hacer voluntariado en otro país, porque no solo puedo ayudar a las comunidades sino que también puedo viajar a diferentes lugares. Mi especialidad es economía, el menor es contabilidad. Tengo un gran interés en la industria de servicios bancarios, financieros y contables. Estoy buscando una pasantía este trimestre y espero poder obtener una oferta antes del trimestre de invierno.
+# corrected2 = nan
+# text = Hola! Mi nombre es *FIRST_NAME* *FIRST_NAME* y mi apellido es *LAST_NAME* *LAST_NAME*. Soy tengo *AGE* años. Mi correo electrónico es *EMAIL* y mi teléfono es *NUMBER*. Nací en *PLACE*, la ciudad es *CITY*. Mi feche de cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy cómico, atlético y activo. Pero no soy inteligente, tímido y aventurero. Estoy en *STATE* y viviré con mi madre. Yo tengo sueño ahora. Yo tengo una hermana y ella vive en *STATE*. Me gustan los deportes extremos, como el paracaidismo, el buceo y el parapente. También me encanta hacer voluntariado en otro país, porque no solo puedo ayudar a las comunidades sino que también puedo viajar a diferentes lugares. Mi especialidad es economía, el menor es contabilidad. Tengo un gran interés en la industria de servicios bancarios, financieros y contables. Estoy buscando una pasantía este trimestre y espero poder obtener una oferta antes del trimestre de invierno.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	*FIRST_NAME*	*first_name*	PROPN	_	_	1	compound	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	apellido	apellido	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+12	*LAST_NAME*	*last_name*	PROPN	_	_	1	punct	_	_
+13	*LAST_NAME*	*last_name*	PUNCT	_	_	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	correo	correo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	electrónico	electrónico	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+5	*EMAIL*	*email*	PUNCT	_	_	2	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	*NUMBER*	*number*	PUNCT	_	_	11	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nací	nací	ADV	_	_	6	amod	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	*PLACE*	*place*	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	*CITY*	*city*	PUNCT	_	_	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	feche	feche	NOUN	_	Number=Sing	12	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	0	flat	_	_
+10	de	de	ADP	_	_	9	case	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	9	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	atlético	atlético	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	activo	activo	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	tímido	tímido	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	aventurero	aventurero	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	viviré	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sueño	sueño	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	ahora	ahora	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*STATE*	*state*	PUNCT	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	extremos	extremo	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	como	como	SCONJ	_	_	9	mark	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	paracaidismo	paracaidismo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	buceo	buceo	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	parapente	parapente	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	hacer	hacer	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	voluntariado	voluntariado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+8	país	país	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+10	porque	porque	SCONJ	_	_	14	mark	_	_
+11	no	no	PART	_	_	14	cc	_	_
+12	solo	solo	ADV	_	_	11	fixed	_	_
+13	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	ayudar	ayudar	VERB	_	VerbForm=Inf	3	advcl	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	comunidades	comunidad	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
+18	sino	sino	CCONJ	_	_	22	cc	_	_
+19	que	que	SCONJ	_	_	18	fixed	_	_
+20	también	también	ADV	_	_	22	advmod	_	_
+21	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	viajar	viajar	VERB	_	VerbForm=Inf	10	conj	_	_
+23	a	a	ADP	_	_	25	case	_	_
+24	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	25	det	_	_
+25	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	22	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	economía	economía	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	4	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	contabilidad	contabilidad	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	gran	gran	ADJ	_	Number=Sing	4	amod	_	_
+4	interés	interés	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	industria	industria	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	servicios	servicio	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+10	bancarios	bancario	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	financieros	financiero	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	contables	contable	ADJ	_	Number=Plur	10	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	buscando	buscar	VERB	_	VerbForm=Ger	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	pasantía	pasantía	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	poder	poder	AUX	_	VerbForm=Inf	10	aux	_	_
+10	obtener	obtener	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	oferta	oferta	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	antes	antes	ADV	_	_	10	advmod	_	_
+14	del	de	ADP	_	_	15	case	_	_
+15	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

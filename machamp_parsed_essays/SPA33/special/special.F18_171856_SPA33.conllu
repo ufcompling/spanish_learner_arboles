@@ -1,0 +1,334 @@
+# Unnamed: 0 = 298
+# id = 171856
+# prompt = special
+# quarter = F18
+# course = SPA 33
+# age = 19
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona muy especial para mí es mi compañero de trabajo *FIRST_NAME* *LAST_NAME*. Este verano obtení un trabajo en T-Mobile y aprendi muchas cosas. Aprendi como dar el mejor sevicio para clientes, como controlar situaciones con tranquilidad, como ser más responsable, y, lo mas importante, como controlar mi tiempo. La persona que me ayudo más con mi trabajo fue *FIRST_NAME*. Cuando tenia preguntas, él siempre me contestaba todo y tenia mucha pacencia conmigo. Cuando necesitaba ayuda en como reaccionar con un cliente, él siempre estaba allí para no dejarme verme perdida y sin idea de lo que esta pasando porque si un cliente me nota perdida, no tendría credibilidad para que me confían con promociones y información. También, cuando abrimos o cerramos la tiendo, tiene paciencia conmigo al enseñarme como usar la maquina para contar dinero, como aguardar teléfonos, donde va el papeleo, etc. Ademas, en el trabajo hay metas que uno tiene que alcanzar. Por ejemplo, uno tiene que vender x tabletas o un cierto aumento de accesorios, etc. En vez de que *FIRST_NAME* sea competitivo conmigo, si el se da cuenta que estoy batallando en mis números, aveces sacrificio que el no agarre el crédito para dármelo a mi, en ese caso, yo puedo alcanzar mis metas. Su paciencia me ayudo sentirme con más confianza porque, si no me hubiera tenido paciencia, me hubiera estresado y no hubiera aprendido tan adecuadamente como lo hice. Por toda su ayuda, mi primer mes trabajando gane la empleada del mes por mi impresionante esfuerzo y números (las ventas que hice).
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nmod	_	_
+13	*LAST_NAME*	*last_name*	PUNCT	_	_	9	dep	_	_
+14	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+3	obtení	obtener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	T-Mobile	T-mobile	PROPN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	aprendi	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+10	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
+11	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Aprendi	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	como	como	SCONJ	_	_	3	mark	_	_
+3	dar	dar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	6	amod	_	_
+6	sevicio	sevicio	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	clientes	cliente	NOUN	_	Number=Plur	3	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	como	como	SCONJ	_	_	11	mark	_	_
+11	controlar	controlar	VERB	_	VerbForm=Inf	3	advcl	_	_
+12	situaciones	situación	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	tranquilidad	tranquilidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+16	como	como	SCONJ	_	_	19	mark	_	_
+17	ser	ser	AUX	_	VerbForm=Inf	19	cop	_	_
+18	más	más	ADV	_	Degree=Cmp	19	advmod	_	_
+19	responsable	responsable	ADJ	_	Number=Sing	3	advcl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+21	y	y	CCONJ	_	_	25	cc	_	_
+22	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+23	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	25	det	_	_
+24	mas	mas	ADV	_	Degree=Cmp	25	advmod	_	_
+25	importante	importante	ADJ	_	Number=Sing	1	conj	_	_
+26	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+27	como	como	SCONJ	_	_	28	mark	_	_
+28	controlar	controlar	VERB	_	VerbForm=Inf	25	acl	_	_
+29	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	30	det	_	_
+30	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
+31	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	ayudo	ayuar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+3	preguntas	pregunta	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	siempre	siempre	ADV	_	_	8	advmod	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	contestaba	contestar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+12	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	13	det	_	_
+13	pacencia	pacencia	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+3	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	6	mark	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	reaccionar	reaccionar	VERB	_	VerbForm=Inf	3	acl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	cliente	cliente	NOUN	_	Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	siempre	siempre	ADV	_	_	13	advmod	_	_
+13	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	allí	allí	ADV	_	_	13	advmod	_	_
+15	para	para	ADP	_	_	17	mark	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	dejarme	dejar	VERB	_	VerbForm=Inf	13	advcl	_	_
+18	verme	ver	VERB	_	VerbForm=Inf	17	xcomp	_	_
+19	perdida	perdido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	18	obj	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	sin	sin	ADP	_	_	22	case	_	_
+22	idea	idea	NOUN	_	Gender=Fem|Number=Sing	19	conj	_	_
+23	de	de	ADP	_	_	27	mark	_	_
+24	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	det	_	_
+25	que	que	PRON	_	PronType=Rel	27	nsubj	_	_
+26	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
+27	pasando	pasar	VERB	_	VerbForm=Ger	22	acl	_	_
+28	porque	porque	SCONJ	_	_	37	mark	_	_
+29	si	si	SCONJ	_	_	33	mark	_	_
+30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	cliente	cliente	NOUN	_	Number=Sing	33	nsubj	_	_
+32	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	33	obj	_	_
+33	nota	notar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	advcl	_	_
+34	perdida	perdido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	33	obj	_	_
+35	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
+36	no	no	ADV	_	Polarity=Neg	37	advmod	_	_
+37	tendría	tener	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	advcl	_	_
+38	credibilidad	credibilidad	NOUN	_	Gender=Fem|Number=Sing	37	obj	_	_
+39	para	para	ADP	_	_	42	mark	_	_
+40	que	que	SCONJ	_	_	42	mark	_	_
+41	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	42	expl	_	_
+42	confían	confiar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	acl	_	_
+43	con	con	ADP	_	_	44	case	_	_
+44	promociones	promoción	NOUN	_	Gender=Fem|Number=Plur	42	obl	_	_
+45	y	y	CCONJ	_	_	46	cc	_	_
+46	información	información	NOUN	_	Gender=Fem|Number=Sing	44	conj	_	_
+47	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	También	también	ADV	_	_	10	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	abrimos	abrar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	cerramos	cerrar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	tiendo	tiendo	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	paciencia	paciencia	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+12	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	nmod	_	_
+13	al	a	ADP	_	_	14	case	_	_
+14	enseñarme	enseñar	VERB	_	VerbForm=Inf	10	advcl	_	_
+15	como	como	SCONJ	_	_	16	mark	_	_
+16	usar	usar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	maquina	maquina	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	para	para	ADP	_	_	20	mark	_	_
+20	contar	contar	VERB	_	VerbForm=Inf	16	advcl	_	_
+21	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+22	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+23	como	como	SCONJ	_	_	24	mark	_	_
+24	aguardar	aguardar	VERB	_	VerbForm=Inf	16	advcl	_	_
+25	teléfonos	teléfono	NOUN	_	Gender=Masc|Number=Plur	24	obj	_	_
+26	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+27	donde	donde	ADV	_	PronType=Rel	28	advmod	_	_
+28	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	papeleo	papeleo	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	_
+31	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+32	etc.	etc.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Ademas	ademas	NOUN	_	_	6	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+6	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	metas	meta	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+8	que	que	PRON	_	PronType=Rel	12	obj	_	_
+9	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+11	que	que	SCONJ	_	_	12	cc	_	_
+12	alcanzar	alcanzar	VERB	_	VerbForm=Inf	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	_	_	7	cc	_	_
+7	vender	vender	VERB	_	VerbForm=Inf	5	conj	_	_
+8	x	x	NOUN	_	_	9	appos	_	_
+9	tabletas	tableta	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	o	o	CCONJ	_	_	13	cc	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	cierto	cierto	ADJ	_	Gender=Masc|Number=Sing	11	det	_	_
+13	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	accesorios	accesorio	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+17	etc.	etc.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	7	mark	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	nsubj	_	_
+6	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	competitivo	competitivo	ADJ	_	Gender=Masc|Number=Sing	22	advcl	_	_
+8	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+10	si	si	SCONJ	_	_	13	mark	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+14	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	13	compound	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	batallando	batallar	VERB	_	VerbForm=Ger	13	csubj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	números	número	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
+21	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+22	aveces	vecir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+23	sacrificio	sacrificio	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+24	que	que	SCONJ	_	_	27	mark	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
+27	agarre	agarrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	crédito	crédito	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	_
+30	para	para	ADP	_	_	31	mark	_	_
+31	dármelo	dárme	VERB	_	VerbForm=Inf	27	advcl	_	_
+32	a	a	ADP	_	_	33	case	_	_
+33	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	31	obl	_	_
+34	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
+35	en	en	ADP	_	_	37	case	_	_
+36	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	37	det	_	_
+37	caso	caso	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	_
+38	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
+39	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	41	nsubj	_	_
+40	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	41	aux	_	_
+41	alcanzar	alcanzar	VERB	_	VerbForm=Inf	22	advcl	_	_
+42	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	43	det	_	_
+43	metas	meta	NOUN	_	Gender=Fem|Number=Plur	41	obj	_	_
+44	.	.	PUNCT	_	PunctType=Peri	22	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	paciencia	paciencia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	ayudo	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	sentirme	sentir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	confianza	confianza	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	porque	porque	SCONJ	_	_	20	mark	_	_
+10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+11	si	si	SCONJ	_	_	15	mark	_	_
+12	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+13	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl	_	_
+14	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+15	tenido	tener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
+16	paciencia	paciencia	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+18	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	obj	_	_
+19	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	estresado	estresar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
+21	y	y	CCONJ	_	_	24	cc	_	_
+22	no	no	ADV	_	Polarity=Neg	24	advmod	_	_
+23	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux	_	_
+24	aprendido	aprender	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	conj	_	_
+25	tan	tanto	ADV	_	_	26	advmod	_	_
+26	adecuadamente	adecuadamente	ADV	_	_	24	advmod	_	_
+27	como	como	SCONJ	_	_	29	mark	_	_
+28	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
+29	hice	hac	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Por	por	ADP	_	_	4	case	_	_
+2	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	mes	mes	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	trabajando	trabajar	VERB	_	VerbForm=Ger	8	acl	_	_
+10	gane	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	empleada	empleada	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	del	de	ADP	_	_	14	case	_	_
+14	mes	mes	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	por	por	ADP	_	_	18	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+17	impresionante	impresionante	ADJ	_	Number=Sing	18	amod	_	_
+18	esfuerzo	esfuerzo	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	números	número	NOUN	_	Gender=Masc|Number=Plur	18	conj	_	_
+21	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	23	punct	_	_
+22	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	ventas	venta	NOUN	_	Gender=Fem|Number=Plur	18	appos	_	_
+24	que	que	PRON	_	PronType=Rel	25	obj	_	_
+25	hice	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	acl	_	_
+26	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	23	punct	_	_
+27	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+

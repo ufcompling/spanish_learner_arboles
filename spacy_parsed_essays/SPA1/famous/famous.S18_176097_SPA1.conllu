@@ -1,0 +1,231 @@
+# Unnamed: 0 = 192
+# id = 176097
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 20 
+# l1 language = Mandarin
+# other l1 language(s) = Chinese
+# language(s) used at home = Chinese 
+# language(s) studied = English. 3 years 
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Ella se llama Lady Gaga y es una famosa cantante estadounidense. Lady Gaga tiene treinta y dos años y su cumpleaños es el veintiocho de marzo. Su mama y papa son italianos, pero viven en Nueva York. Ella tiene una hermana y se llama Natali. Lady Gaga es bonita. Ella es alta y delgada. Ella tiene el pelo negro y largo y tiene los ojos marrones. Su color favorita es azul y comida favorita es la pizza. A ella le gusta mucho escuchar música pop y le gusta leer libros en el ocio. Además, le gustan los gatos.
+
+Lady Gaga tiene un buen hábito de vida. Ella levanta un las siete de la mañana todos los diás. A ella le gusta cocinar comida, como pescado, huevos y jamón. Ella puede tocar el piano muy bien y componer canciones. A las cinco de la tarde ell va a tomar un café con sus amigas. A las ocho de la noche va a cenar."
+
+# a personal annotator2 = nan
+# gender-number annotator1 = Ella se llama Lady Gaga y es una famosa cantante estadounidense. Lady Gaga tiene treinta y dos años y su cumpleaños es el veintiocho de marzo. Su mama y papa son italianos, pero viven en Nueva York. Ella tiene una hermana y se llama Natali. Lady Gaga es bonita. Ella es alta y delgada. Ella tiene el pelo negro y largo y tiene los ojos marrones. Su color [favorita]{favorito}<ga:mf:adj:inan> es azul y comida favorita es la pizza. A ella le gusta mucho escuchar música pop y le gusta leer libros en el ocio. Además, le gustan los gatos.
+
+Lady Gaga tiene un buen hábito de vida. Ella levanta un las siete de la mañana todos los diás. A ella le gusta cocinar comida, como pescado, huevos y jamón. Ella puede tocar el piano muy bien y componer canciones. A las cinco de la tarde ell va a tomar un café con sus amigas. A las ocho de la noche va a cenar.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Ella se llama Lady Gaga y es una famosa cantante estadounidense. Lady Gaga tiene treinta y dos años y su cumpleaños es el veintiocho de marzo. Su mama y papa son italianos, pero viven en Nueva York. Ella tiene una hermana y se llama Natali. Lady Gaga es bonita. Ella es alta y delgada. Ella tiene el pelo negro y largo y tiene los ojos marrones. Su color favorita es azul y comida favorita es la pizza. A ella le gusta mucho escuchar música pop y le gusta leer libros en el ocio. Además, le gustan los gatos. Lady Gaga tiene un buen hábito de vida. Ella levanta un las siete de la mañana todos los diás. A ella le gusta cocinar comida, como pescado, huevos y jamón. Ella puede tocar el piano muy bien y componer canciones. A las cinco de la tarde ell va a tomar un café con sus amigas. A las ocho de la noche va a cenar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	llama	llamar	VERB	_	_	0	ROOT	_	_
+4	Lady	Lady	PROPN	_	_	3	obj	_	_
+5	Gaga	Gaga	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	es	ser	AUX	_	_	10	cop	_	_
+8	una	uno	DET	_	_	10	det	_	_
+9	famosa	famoso	ADJ	_	_	10	amod	_	_
+10	cantante	cantante	NOUN	_	_	3	conj	_	_
+11	estadounidense	estadounidense	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Lady	Lady	PROPN	_	_	3	nsubj	_	_
+2	Gaga	Gaga	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	treinta	treinta	NUM	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	dos	dos	NUM	_	_	7	nummod	_	_
+7	años	año	NOUN	_	_	4	conj	_	_
+8	y	y	CCONJ	_	_	13	cc	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	cumpleaños	cumpleaños	NOUN	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	veintiocho	veintiocho	NOUN	_	_	3	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	marzo	marzo	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	papa	papa	PROPN	_	_	2	conj	_	_
+5	son	ser	AUX	_	_	6	cop	_	_
+6	italianos	italiano	ADJ	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	viven	vivir	VERB	_	_	6	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	Nueva	Nueva	PROPN	_	_	9	obl	_	_
+12	York	York	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hermana	hermana	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	llama	llamar	VERB	_	_	2	conj	_	_
+8	Natali	Natali	PROPN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Lady	Lady	PROPN	_	_	4	nsubj	_	_
+2	Gaga	Gaga	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	bonita	bonito	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgada	delgado	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	negro	negro	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	largo	largo	ADJ	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	_	2	conj	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	ojos	ojo	NOUN	_	_	9	obj	_	_
+12	marrones	marrón	NOUN	_	_	9	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	5	nsubj	_	_
+3	favorita	favorita	NOUN	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	azul	azul	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	comida	comida	NOUN	_	_	5	conj	_	_
+8	favorita	favoritar	VERB	_	_	7	amod	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	pizza	pizza	PROPN	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	mucho	mucho	ADV	_	_	6	advmod	_	_
+6	escuchar	escuchar	VERB	_	_	4	csubj	_	_
+7	música	música	NOUN	_	_	6	obj	_	_
+8	pop	pop	ADJ	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	le	él	PRON	_	_	11	obj	_	_
+11	gusta	gustar	VERB	_	_	4	conj	_	_
+12	leer	leer	VERB	_	_	11	csubj	_	_
+13	libros	libro	NOUN	_	_	12	obj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	el	el	DET	_	_	16	det	_	_
+16	ocio	ocio	NOUN	_	_	12	obl	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	gatos	gato	NOUN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Lady	Lady	PROPN	_	_	3	nsubj	_	_
+2	Gaga	Gaga	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	buen	buen	ADJ	_	_	6	amod	_	_
+6	hábito	hábito	NOUN	_	_	3	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	vida	vida	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	levanta	levantar	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	siete	siete	NUM	_	_	2	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	nmod	_	_
+9	todos	todo	DET	_	_	10	det	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	diás	diá	NOUN	_	_	2	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	cocinar	cocinar	VERB	_	_	4	csubj	_	_
+6	comida	comida	NOUN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	como	como	SCONJ	_	_	9	mark	_	_
+9	pescado	pescado	NOUN	_	_	4	obl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	huevos	huevo	NOUN	_	_	9	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	jamón	jamón	NOUN	_	_	9	conj	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	puede	poder	AUX	_	_	3	aux	_	_
+3	tocar	tocar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	piano	piano	NOUN	_	_	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bien	bien	ADV	_	_	5	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	componer	componer	VERB	_	_	3	conj	_	_
+10	canciones	canción	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	cinco	cinco	NUM	_	_	10	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	tarde	tarde	NOUN	_	_	3	nmod	_	_
+7	ell	ell	ADJ	_	_	10	nsubj	_	_
+8	va	ir	AUX	_	_	10	aux	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	tomar	tomar	VERB	_	_	0	ROOT	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	café	café	NOUN	_	_	10	obj	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	sus	su	DET	_	_	15	det	_	_
+15	amigas	amiga	NOUN	_	_	10	obl	_	_
+16	.	.	PUNCT	_	_	10	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	ocho	ocho	NOUN	_	_	9	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	noche	noche	NOUN	_	_	3	nmod	_	_
+7	va	ir	AUX	_	_	9	aux	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	cenar	cenar	VERB	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+

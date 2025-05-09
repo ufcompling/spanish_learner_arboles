@@ -1,0 +1,249 @@
+# Unnamed: 0 = 108
+# id = 205483
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = N/A 
+# language(s) used at home = Mandarin Chinese
+# language(s) studied = Japanese - 1 year 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy de la cuidad de *CITY*, *STATE*. [Yo]{}<pr:su:pron> trabajo en la hospital. Yo soy athético y no sedentario. Me gusta []{el}<ab:det:def> tenis porque soy atlético.  Mi especialización es biología. Mi cursos es difícil.  Mis cursos son espaolñ, química y física. Estoy tomando [la]{los}<ga:na:det> cursos en línea. Tengo muchos examenes.  Tengo cuatro exámenes en abril.  Me gusta la música por que es relejante. Tengo *AGE* años.  Me sienta viejo ahora. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE* *BIRTH_DATE*. [Yo]{}<pr:su:pron> soy inteligente. [Yo]{}<pr:su:pron> estoy ocupado. Aprendo rápido. [Yo]{}<pr:su:pron> parte del club de matemáticas de mi universidad. Soy voluntario para el hospital y resuelvo problemas [de]{del}<ab:det:art:def> departamento.  Mi horario [es]{está}<conf:v:seta> ocupado. Duermo a las 2 am de la noche. Durante mi tiempo libre, me gusta cantar y bailar. Me gusta cantar porque me gusta la música. Mi comida favorita es [la]{los}<ga:na:det> tacos. No comer sano. También tengo un hermano y [uno]{una}<ga:det> hermana. Vivo con me mamá y me papá. Me gusta vivir con ellos.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de la cuidad de *CITY*, *STATE*. [Yo]{}<pr:su:pron> trabajo en [la]{el}<ga:det> hospital. [Yo]{}<pr:su:pron> soy athético y no sedentario. Me gusta []{el}<ab:det:art:def> tenis porque soy atlético.  Mi especialización es []{la}<ab:det:art:def> biología. [Mi]{Mis}<na:det> cursos [es]{son}<fs:st:pn> [difícil]{difíciles}<na:adj>.  Mis cursos son espaolñ, química y física. Estoy tomando [la]{los}<ga:na:det> cursos en línea. Tengo muchos examenes.  Tengo cuatro exámenes en abril.  Me gusta la música por que es relejante. Tengo *AGE* años.  [Me sienta]{Me siento}<fs:st:t:mo> viejo ahora. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* [de]{del}<ab:det:art:def> *BIRTH_DATE* *BIRTH_DATE*. [Yo]{}<pr:su:pron> soy inteligente. [Yo]{}<pr:su:pron> estoy ocupado. Aprendo rápido. [Yo]{}<pr:su:pron> parte del club de matemáticas de mi universidad. Soy voluntario para el hospital y resuelvo problemas de departamento.  Mi horario es ocupado. Duermo a las 2 am de la noche. Durante mi tiempo libre, me gusta cantar y bailar. Me gusta cantar porque me gusta la música. Mi comida favorita [es]{son}<fs:st:pn> [la]{los}<ga:na:det> tacos. No [comer]{como}<fs:st:t> sano. También tengo un hermano y [uno]{una}<ga:det> hermana. Vivo con me mamá y me papá. Me gusta vivir con ellos.
+# verbs annotation ann2 = nan
+# corrected1 = Soy de la cuidad de *CITY*, *STATE*. Trabajo en el hospital. Soy atlético y no sedentario. Me gusta el tenis porque soy atlético. Mi especialización es Biología. Mi cursos es difícil. Mis asignaturas son Español, Química y Física. Estoy tomando las clases en línea. Tengo muchos exámenes. Tengo cuatro exámenes en abril.  Me gusta la música porque es relajante. Tengo *AGE* años.  Me siento viejo ahora. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy inteligente. Estoy ocupado. Aprendo rápido. Soy parte del club de matemáticas de mi universidad. Soy voluntario en el hospital y resuelvo problemas del departamento. Mi horario está ocupado. Duermo a las 2 am de la noche. Durante mi tiempo libre, me gusta cantar y bailar. Me gusta cantar porque me gusta la música. Mi comida favorita son los tacos. No como sano. También tengo un hermano y una hermana. Vivo con mi mamá y mi papá. Me gusta vivir con ellos.
+# corrected2 = nan
+# text = Soy de la cuidad de *CITY*, *STATE*. Yo trabajo en la hospital. Yo soy athético y no sedentario. Me gusta tenis porque soy atlético. Mi especialización es biología. Mi cursos es difícil. Mis cursos son espaolñ, química y física. Estoy tomando la cursos en línea. Tengo muchos examenes. Tengo cuatro exámenes en abril. Me gusta la música por que es relejante. Tengo *AGE* años. Me sienta viejo ahora. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE* *BIRTH_DATE*. Yo soy inteligente. Yo estoy ocupado. Aprendo rápido. Yo parte del club de matemáticas de mi universidad. Soy voluntario para el hospital y resuelvo problemas de departamento. Mi horario es ocupado. Duermo a las 2 am de la noche. Durante mi tiempo libre, me gusta cantar y bailar. Me gusta cantar porque me gusta la música. Mi comida favorita es la tacos. No comer sano. También tengo un hermano y uno hermana. Vivo con me mamá y me papá. Me gusta vivir con ellos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	4	cop	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cuidad	cuidad	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*CITY*	CITY	PROPN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*STATE*	STATE	PROPN	_	_	4	appos	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	trabajo	trabajar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	hospital	hospital	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	athético	athético	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	sedentario	sedentario	ADJ	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	tenis	tenis	NOUN	_	_	2	nsubj	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	soy	ser	AUX	_	_	6	cop	_	_
+6	atlético	atlético	ADJ	_	_	2	advcl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialización	especialización	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	biología	biología	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cursos	curso	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	cursos	curso	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	espaolñ	espaolñ	VERB	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	química	químico	ADJ	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	física	físico	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	tomando	tomar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cursos	curso	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	línea	línea	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	examenes	examen	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cuatro	cuatro	NUM	_	_	3	nummod	_	_
+3	exámenes	examen	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	abril	abril	NOUN	_	_	1	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	música	música	NOUN	_	_	2	nsubj	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	que	que	SCONJ	_	_	8	obl	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	relejante	relejante	ADJ	_	_	4	acl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	sienta	sentar	VERB	_	_	0	ROOT	_	_
+3	viejo	viejo	ADJ	_	_	2	obj	_	_
+4	ahora	ahora	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	flat	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	nmod	_	_
+10	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	ocupado	ocupado	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Aprendo	aprendo	VERB	_	_	0	ROOT	_	_
+2	rápido	rápido	ADJ	_	_	1	advmod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	parte	partir	VERB	_	_	0	ROOT	_	_
+3	del	del	ADP	_	_	4	case	_	_
+4	club	club	NOUN	_	_	2	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	matemáticas	matemática	NOUN	_	_	4	nmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	universidad	universidad	PROPN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	voluntario	voluntario	ADJ	_	_	0	ROOT	_	_
+3	para	para	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	hospital	hospital	NOUN	_	_	2	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	resuelvo	resolver	VERB	_	_	8	case	_	_
+8	problemas	problema	NOUN	_	_	2	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	departamento	departamento	NOUN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	horario	horario	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	ocupado	ocupado	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Duermo	Duermo	PROPN	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	2	2	NUM	_	_	1	obl	_	_
+5	am	am	ADV	_	_	1	advmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	noche	noche	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	7	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	gusta	gustar	VERB	_	_	0	ROOT	_	_
+8	cantar	cantar	VERB	_	_	7	csubj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	bailar	bailar	VERB	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	cantar	cantar	VERB	_	_	2	csubj	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	2	csubj	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	música	música	NOUN	_	_	6	nsubj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	tacos	taco	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	comer	comer	VERB	_	_	0	ROOT	_	_
+3	sano	sano	ADJ	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hermano	hermano	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	uno	uno	PRON	_	_	7	det	_	_
+7	hermana	hermán	ADJ	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	me	yo	PRON	_	_	4	expl:pv	_	_
+4	mamá	mamá	ADJ	_	_	1	advmod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	papá	papá	VERB	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	vivir	vivir	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	ellos	él	PRON	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

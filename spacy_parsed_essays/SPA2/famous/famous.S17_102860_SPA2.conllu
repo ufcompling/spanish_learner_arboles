@@ -1,0 +1,97 @@
+# Unnamed: 0 = 127
+# id = 102860
+# prompt = famous
+# quarter = S17
+# course = SPA 2
+# age = 21
+# gender = Male
+# l1 language = Mandarin,Other
+# other l1 language(s) = Japanese
+# language(s) used at home = Yes: Japanese and Chinese
+# language(s) studied = English: ~12 (Since early grade school)
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Tengo respeto por algunos personajes famosos. Respeto muchas jugador de deportes profesionales. Ellos pone en el muchos esfuerzo y cree en ellos mismos. No tengo respeto [a]{a}<aa:do:an>  ellos porque ellos están famoso. Respeto [a]{a}<aa:do:an>  ellos porque su calidad. entre todos personajes yo respeto, tengo muchas luchadors y jugador de baloncesto porque me gusta estos deportes. 
+# a personal annotator2 = Tengo respeto por algunos personajes famosos. Respeto []{a}<az:do:an> muchas jugador de deportes profesionales. Ellos pone en el muchos esfuerzo y cree en ellos mismos. No tengo respeto [a]{a}<aa:do:an> ellos porque ellos están famoso. Respeto [a]{a}<aa:do:an> ellos porque su calidad. entre todos personajes yo respeto, tengo muchas luchadors y jugador de baloncesto porque me gusta estos deportes. 
+# gender-number annotator1 = Tengo respeto por algunos personajes famosos. Respeto [muchas]{muchos}<ga:na:mf:sp:det:an> [jugador]{jugadores}<na:ps:noun:an> de deportes profesionales. Ellos pone en el [muchos]{mucho}<na:sp:det:inan> esfuerzo y cree en ellos mismos. No tengo respeto a ellos porque ellos están [famoso]{famosos}<na:ps:adj:an>. Respeto a ellos porque su calidad. entre todos personajes yo respeto, tengo [muchas]{muchos}<ga:mf:det:an> luchadors y [jugador]{jugadores}<na:ps:noun:an> de baloncesto porque me gusta estos deportes. 
+
+# gender-number annotator2 = Tengo respeto por algunos personajes famosos. Respeto [muchas]{muchos}<ga:mf:det:an> [jugador]{jugadores}<na:ps:adj:an> de deportes profesionales. Ellos pone en el [muchos]{mucho}<na:sp:det:inan> esfuerzo y cree en ellos mismos. No tengo respeto a ellos porque ellos están [famoso]{famosos}<na:ps:adj:an>. Respeto a ellos porque su calidad. entre todos personajes yo respeto, tengo [muchas]{muchos}<ga:mf:det:an> luchadors y [jugador]{jugadores}<na:ps:adj:an> de baloncesto porque me gusta estos deportes. 
+# updated anntoation ann1 = Tengo respeto por algunos personajes famosos. Respeto [muchas]{muchos}<gat:adv> [jugador]{jugadores}<gat:in:noun> de deportes profesionales. Ellos pone en el muchos esfuerzo y cree en ellos mismos. No []{les}<ab:pron> tengo respeto a [ellos]{}<pr:pron> porque ellos [están]{sean}<conf:v:seta> [famoso]{famosos}<na:adj>. []{los}<ab:pron> Respeto a [ellos]{}<pr:pron> porque su calidad. entre todos personajes yo respeto, tengo [muchas]{muchos}<gat:in:adv> [luchadors]{luchadores}<gat:in:noun> y [jugador]{jugadores}<gat:in:noun> de baloncesto porque me gusta estos deportes.
+# updated annotation ann2 = ﻿Tengo respeto por algunos personajes famosos. Respeto [muchas]{muchos}<ga:adj> [jugador]{jugadores}<na:noun> de deportes profesionales. [Ellos]{}<pr:su:pron> pone en el [muchos]{mucho}<na:adj> esfuerzo y cree en ellos mismos. No tengo respeto a ellos porque [ellos]{}<pr:su:pron> [están]{sean}<conf:v:seta> [famoso]{famosos}<na:adj>. Respeto a ellos porque su calidad. entre todos []{los}<ab:det:art:def> personajes yo respeto, tengo [muchas]{muchos}<ga:adj> luchadors y [jugador]{jugadores}<na:noun> de baloncesto porque me gusta estos deportes.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Tengo respeto por algunos personajes famosos. Respeto muchos jugadores de deportes profesionales. Ellos se esfuerzan mucho y creen en ellos mismos. No les tengo respeto porque sean famosos. Los respeto por su calidad. Entre todos los personajes que respeto hay muchos luchadores y jugadores de baloncesto porque me gustan estos deportes.
+# corrected2 = Tengo respeto por algunos personajes famosos. Respeto a muchos jugadores de deportes profesionales. Ponen mucho esfuerzo y cree en ellos mismos. No tengo respeto por ellos porque sean famosos. Los respeto por su calidad. Entre todos los personajes que yo respeto, hay muchos luchadores y jugadores de baloncesto porque me gustan estos deportes. 
+# text = Tengo respeto por algunos personajes famosos. Respeto muchas jugador de deportes profesionales. Ellos pone en el muchos esfuerzo y cree en ellos mismos. No tengo respeto a ellos porque ellos están famoso. Respeto a ellos porque su calidad. entre todos personajes yo respeto, tengo muchas luchadors y jugador de baloncesto porque me gusta estos deportes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	2	aux	_	_
+2	respeto	respetar	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	algunos	alguno	DET	_	_	5	det	_	_
+5	personajes	personaje	NOUN	_	_	2	obj	_	_
+6	famosos	famoso	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Respeto	respetar	VERB	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	jugador	jugador	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	deportes	deporte	NOUN	_	_	3	nmod	_	_
+6	profesionales	profesional	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	pone	poner	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	el	el	DET	_	_	6	det	_	_
+5	muchos	mucho	DET	_	_	4	det	_	_
+6	esfuerzo	esfuerzo	NOUN	_	_	2	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	cree	creer	VERB	_	_	2	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	ellos	él	PRON	_	_	8	obj	_	_
+11	mismos	mismo	PRON	_	_	10	appos	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	respeto	respeto	NOUN	_	_	2	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	ellos	él	PRON	_	_	3	obj	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	ellos	él	PRON	_	_	9	nsubj	_	_
+8	están	estar	AUX	_	_	9	cop	_	_
+9	famoso	famoso	ADJ	_	_	3	advcl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Respeto	respetar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	ellos	él	PRON	_	_	1	obj	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	calidad	calidad	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	entre	entre	ADP	_	_	3	case	_	_
+2	todos	todo	DET	_	_	3	det	_	_
+3	personajes	personaje	NOUN	_	_	5	obl	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	respeto	respetar	VERB	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	tengo	tener	VERB	_	_	5	advcl	_	_
+8	muchas	mucho	DET	_	_	9	det	_	_
+9	luchadors	luchadors	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	jugador	jugador	NOUN	_	_	9	conj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	baloncesto	baloncesto	NOUN	_	_	11	nmod	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	me	yo	PRON	_	_	16	iobj	_	_
+16	gusta	gustar	VERB	_	_	7	advcl	_	_
+17	estos	este	DET	_	_	18	det	_	_
+18	deportes	deporte	NOUN	_	_	16	nsubj	_	_
+19	.	.	PUNCT	_	_	5	punct	_	_
+

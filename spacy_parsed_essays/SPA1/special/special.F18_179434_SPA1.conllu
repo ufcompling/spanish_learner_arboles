@@ -1,0 +1,228 @@
+# Unnamed: 0 = 79
+# id = 179434
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 24
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = 2 years ASL (american sign language)
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una [instructor]{instructora}<ga:noun> muy [bueno]{buena}<ga:adj>. Mi mama tiene []{el}<ab:det:art:def> pelo largo y marron y muy rizado. Mi mama es [penqueno]{pequeña}<ga:adj>, y [delgado]{delgada}<ga:adj>. Mi mama es cincuenta y seis anos, pero [ella]{}<pr:su:pron> es muy bonita, y [ella]{}<pr:su:pron> tiene []{la}<ab:det:art:def> piel muy [bueno]{buena}<ga:adj>. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native [Americano]{americana}<ga:adj>. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es []{el}<ab:det:art:def> vientitres de febrio. mi mama es []{un}<ab:det:art:indef> poco timida. mi mama tiene [una]{un}<ab:det:art:indef> reloj, pero no se gusta. Mi mama [vives]{vive}<fs:st:pn> *STATE*. Mi mama es [americano]{americana}<ga:adj>. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# updated annotation ann2 = ﻿Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una [instructor]{instructora}<ga:adj> muy [bueno]{buena}<ga:adj>. Mi mama tiene pelo largo y marron y muy rizado. Mi mama es [penqueno]{pequeña}<ga:adj>, y [delgado]{delgada}<ga:adj>. Mi mama es cincuenta y seis anos, pero [ella]{}<pr:su:pron> es muy bonita, y [ella]{}<pr:su:pron> tiene piel muy [bueno]{buena}<ga:adj>. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native [Americano]{americana}<ga:adj>. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es vientitres de febrio. mi mama es poco timida. mi mama tiene [una]{un}<ga:det> reloj, pero no se gusta. Mi mama [vives]{vive}<fs:st:pn> *STATE*. Mi mama es [americano]{americana}<ga:adj>. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es especial para mí. Mi mamá se llama *FIRST_NAME*. Mi mamá es una instructora muy buena. Mi mamá tiene el pelo largo y marrón y muy rizado. Mi mamá es pequeña y delgada. Mi mamá tiene cincuenta y seis años, pero es muy bonita, y tiene la piel muy buena. Mi mamá es muy simpática y muy inteligente. Mi mamá estudia italiano. Mi mamá es nativa americana. A mi mamá le gusta ver "I Love Lucy" en la televisión. A mi mamá no le gusta cocinar. A mi mamá le gusta comer pastel. Mi mama es muy valiente y es muy trabajadora. El cumpleaños de mi mamá es el veintitrés de febrero. Mi mamá es un poco tímida. Mi mamá tiene un reloj, pero no le gusta. Mi mamá vive en *STATE*. Mi mamá es americana. A mi mamá le gustan los gatos y los perros muy bonitos. A mi mamá le gusta dormir mucho, pero le gusta trabajar mucho. 
+# corrected2 = nan
+# text = Mi mama es especial para mi. Mi mama se llama *FIRST_NAME*. Mi mama es una instructor muy bueno. Mi mama tiene pelo largo y marron y muy rizado. Mi mama es penqueno, y delgado. Mi mama es cincuenta y seis anos, pero ella es muy bonita, y ella tiene piel muy bueno. Mi mama es muy simpatica y muy inteligente. Mi mama estudia itaiano. mi mama es Native Americano. Mi mama se gusta ver I Love Lucy en la television. Mi mama no se gusta cocinar. Mi mama se gusta comer pastel. Mi mama es muy valiente, y es mu trabajara. El cumpleanos de me mama es vientitres de febrio. mi mama es poco timida. mi mama tiene una reloj, pero no se gusta. Mi mama vives *STATE*. Mi mama es americano. Mi mama se gusta los catos y los perros muy bonitos. mi mama se gusta dormir mucho, perro se gusta trabajara mucho.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	especial	especial	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	instructor	instructor	NOUN	_	_	0	ROOT	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bueno	bueno	ADJ	_	_	5	amod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	largo	largo	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	marron	marron	VERB	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	rizado	rizado	ADJ	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	penqueno	penqueno	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	delgado	delgado	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	cincuenta	cincuenta	NUM	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	seis	seis	NUM	_	_	7	nummod	_	_
+7	anos	ano	NOUN	_	_	4	conj	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	pero	pero	CCONJ	_	_	13	cc	_	_
+10	ella	él	PRON	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	bonita	bonito	ADJ	_	_	4	conj	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	ella	él	PRON	_	_	17	nsubj	_	_
+17	tiene	tener	VERB	_	_	13	conj	_	_
+18	piel	piel	NOUN	_	_	17	obj	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	bueno	bueno	ADJ	_	_	18	amod	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	simpatica	simpatico	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	inteligente	inteligente	ADJ	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	estudia	estudia	PROPN	_	_	0	ROOT	_	_
+4	itaiano	itaiano	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Native	Native	PROPN	_	_	0	ROOT	_	_
+5	Americano	Americano	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pass	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	ver	ver	VERB	_	_	4	csubj	_	_
+6	I	I	CCONJ	_	_	5	obj	_	_
+7	Love	Love	PROPN	_	_	6	flat	_	_
+8	Lucy	Lucy	PROPN	_	_	6	flat	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	television	television	PROPN	_	_	5	obl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	se	él	PRON	_	_	5	expl:pass	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	cocinar	cocinar	VERB	_	_	5	csubj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pass	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	comer	comer	VERB	_	_	4	csubj	_	_
+6	pastel	pastel	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	valiente	valiente	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	mu	mu	ADV	_	_	10	case	_	_
+10	trabajara	trabajar	VERB	_	_	5	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	cumpleanos	cumpleano	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	mama	mama	NOUN	_	_	2	appos	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	vientitres	vientitr	NOUN	_	_	0	ROOT	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	febrio	febrio	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	poco	poco	ADV	_	_	5	advmod	_	_
+5	timida	temer	VERB	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	reloj	reloj	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	gusta	gustar	VERB	_	_	3	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	0	ROOT	_	_
+3	vives	vives	ADJ	_	_	2	amod	_	_
+4	*STATE*	STATE	PROPN	_	_	2	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	americano	americano	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pass	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	catos	cato	NOUN	_	_	4	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	perros	perro	NOUN	_	_	6	conj	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bonitos	bonito	ADJ	_	_	9	amod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pass	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	dormir	dormir	VERB	_	_	4	csubj	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	perro	perro	PROPN	_	_	10	nsubj	_	_
+9	se	él	PRON	_	_	10	expl:pass	_	_
+10	gusta	gustar	VERB	_	_	4	advcl	_	_
+11	trabajara	trabajar	VERB	_	_	10	csubj	_	_
+12	mucho	mucho	ADV	_	_	11	advmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+

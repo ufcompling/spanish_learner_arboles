@@ -1,0 +1,218 @@
+# Unnamed: 0 = 63
+# id = 235669
+# prompt = yourself
+# quarter = S20
+# course = SPA 23
+# age = 18
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Tamil and English equally 
+# language(s) used at home = Tamil
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿[Yo]{}<pr:su:pron> soy un estudiante de biotecnología en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Quiero trabajar para una compañía de biotecnología después de []{la}<ab:det:art:def> graduación. Durante la cuarentena, he estado viendo muchos programas de televisión. Me gusta los programas con humor y drama. [Yo]{}<pr:su:pron> [estoy]{soy}<conf:v:seta> de una ciudad pequeña en *STATE*; *CITY*. *CITY* no tiene muchas cosas, pero me encantan algunas personas aquí. Durante el verano, [yo]{}<pr:su:pron> trabajo en la alberca como [una]{un}<ga:det> salvavidas. Tengo muchos amigos de mi trabajo. Mis padres no les gusta mi trabajo porque [yo]{}<pr:su:pron> obtengo mucho sol. En la escuela, [yo]{}<pr:su:pron> tengo un trabajo en un laboratorio de plantas. Yo trabajo con plantas de nuez. En el futuro, quiero un trabajo más competitivo y difícil. Aunque tenemos la cuarentena, yo trabajo. En el laboratorio, las reglas dicen que no podemos tener más que una persona en el cuarto. [Yo]{}<pr:su:pron> quiero que esta cuarentena termine pronta porque extraño mis colegas.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> soy [un]{una}<ga:det> estudiante de biotecnología en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Quiero trabajar para una compañía de biotecnología después de []{la}<ab:det:art:def> graduación. Durante la cuarentena, he estado viendo muchos programas de televisión. Me [gusta]{gustan}<fs:st:pn> los programas con humor y drama. [Yo]{}<pr:su:pron> [estoy]{soy}<conf:v:seta> de una ciudad pequeña en *STATE*; *CITY*. *CITY* no tiene muchas cosas, pero me encantan algunas personas aquí. Durante el verano, [yo]{}<pr:su:pron> trabajo en la alberca como [una]{}<pr:det:art:indef> salvavidas. Tengo muchos amigos de mi trabajo. Mis padres no les gusta mi trabajo porque [yo]{}<pr:su:pron> obtengo mucho sol. En la escuela, [yo]{}<pr:su:pron> tengo un trabajo en un laboratorio de plantas. [Yo]{}<pr:su:pron> trabajo con plantas de nuez. En el futuro, quiero un trabajo más competitivo y difícil. Aunque tenemos la cuarentena, [yo]{}<pr:su:pron> trabajo. En el laboratorio, las reglas dicen que no podemos tener más que una persona en el cuarto. [Yo]{}<pr:su:pron> quiero que esta cuarentena termine [pronta]{pronto}<gat:adv> porque extraño mis colegas.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Soy un estudiante de biotecnología en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Quiero trabajar para una compañía de biotecnología después de la graduación. Durante la cuarentena, he estado viendo muchos programas de televisión. Me gustan los programas con humor y drama.  Soy de una ciudad pequeña en *STATE*; *CITY*. *CITY* no tiene muchas cosas, pero me encantan algunas personas aquí. Durante el verano, trabajo en la alberca como un salvavidas. Tengo muchos amigos de mi trabajo. A mis padres no les gusta mi trabajo porque obtengo mucho sol. En la escuela, tengo un trabajo en un laboratorio de plantas. Trabajo con plantas de nuez. En el futuro, quiero un trabajo más competitivo y difícil. Aunque tenemos la cuarentena, yo trabajo. En el laboratorio, las reglas dicen que no podemos tener más que una persona en el cuarto. Quiero que esta cuarentena termine pronto porque extraño a mis colegas. 
+# corrected2 = nan
+# text = Yo soy un estudiante de biotecnología en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Quiero trabajar para una compañía de biotecnología después de graduación. Durante la cuarentena, he estado viendo muchos programas de televisión. Me gusta los programas con humor y drama. Yo estoy de una ciudad pequeña en *STATE*; *CITY*. *CITY* no tiene muchas cosas, pero me encantan algunas personas aquí. Durante el verano, yo trabajo en la alberca como una salvavidas. Tengo muchos amigos de mi trabajo. Mis padres no les gusta mi trabajo porque yo obtengo mucho sol. En la escuela, yo tengo un trabajo en un laboratorio de plantas. Yo trabajo con plantas de nuez. En el futuro, quiero un trabajo más competitivo y difícil. Aunque tenemos la cuarentena, yo trabajo. En el laboratorio, las reglas dicen que no podemos tener más que una persona en el cuarto. Yo quiero que esta cuarentena termine pronta porque extraño mis colegas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	biotecnología	biotecnología	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Universidad	Universidad	PROPN	_	_	4	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	*university*	PROPN	_	_	9	flat	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	*UNIVERSITY*	*university*	PUNCT	_	_	9	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	trabajar	trabajar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	para	para	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	compañía	compañía	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	biotecnología	biotecnología	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	después	después	ADV	_	_	2	advmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	graduación	graduación	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cuarentena	cuarentena	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	estado	estar	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	_
+7	viendo	ver	VERB	_	VerbForm=Ger	0	root	_	_
+8	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	programas	programa	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	programas	programa	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	humor	humor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	drama	drama	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	en	en	ADP	_	_	5	case	_	_
+8	*STATE*	*state*	SYM	_	_	5	appos	_	_
+9	;	;	PUNCT	_	PunctType=Semi	8	punct	_	_
+10	*CITY*	*city*	SYM	_	_	5	dep	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*CITY*	*city*	PROPN	_	_	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	11	det	_	_
+11	personas	persona	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	aquí	aquí	ADV	_	_	9	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	alberca	alberca	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	como	como	SCONJ	_	_	12	mark	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	salvavidas	salvavidas	NOUN	_	Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	obtengo	obtener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
+12	sol	sol	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	laboratorio	laboratorio	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	nuez	nuez	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	competitivo	competitivo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	difícil	difícil	ADJ	_	Number=Sing	9	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	2	mark	_	_
+2	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cuarentena	cuarentena	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	laboratorio	laboratorio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	reglas	regla	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+7	dicen	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	tener	tener	VERB	_	VerbForm=Inf	7	xcomp	_	_
+12	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	persona	persona	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	cuarentena	cuarentena	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	termine	terminar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	pronta	pronto	ADJ	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	porque	porque	SCONJ	_	_	9	mark	_	_
+9	extraño	extrañar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+10	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	colegas	colega	NOUN	_	Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

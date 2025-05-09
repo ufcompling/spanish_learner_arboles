@@ -1,0 +1,325 @@
+# Unnamed: 0 = 167
+# id = 148080
+# prompt = terrible
+# quarter = F18
+# course = SPA 31
+# age = 19
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = spanish
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = En noviembre del 2016, yo estaba en mi dormitorio en *UNIVERSITY*. Estaba nerviosa de los resultados que iban a pasar mas al rato. Para poder distraer me, fue a visitar una amiga que vivia en los dormitorios a traves de mi. A pesar de lo que estaba pasando y la importancia de la noche, mi amiga y yo escojimos olvidarnos de lo que estaba pasando por unos momentos. Platicamos afuera por unas horas, compartemos chismes y bromas y por unos momentos todo estaba bien. Yo tenia fe que los resultados iban a ser buenos, o por lo menos reze que todo iba saler bien. Yo de veras nunca cree que la gente de los estados unidos tenia la capacitad de elejir a una persona tan ignorotante y racista. Tienia fe que la gente iba ser la eleccion correcta. En pasar tiempo con mi amiga, se me calmo nos nervios un poco, en todo ese tiempo no estaba checando los resultados o mirrando las actualizaciones; me senti mejor durante ese tiempo pero luego regrese a mi cuarto. Yo tenia mi propio cuarto, y recuerdo que cuando entre, me acoste en mi cama y use mi telefono para mirar los reslutados y mire que Donald Trump gano las eleciones presidenciales. Me siente decepcionada y sorpriendidia; de veras nunca cree que Trump iba ser elejado porque se me sia algo impossable, que una gente de un pais podrian pensar que Trump fuera alguien capaz de gobernar un pais. Una de las experiencas mas terrible que yo he experimentado, es la elecion de Trump.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	En	en	ADP	_	_	2	case	_	_
+2	noviembre	noviembre	NOUN	_	_	7	obl	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	2016	2016	NUM	_	NumForm=Digit|NumType=Card	2	compound	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	*university*	PUNCT	_	_	7	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+7	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	pasar	pasar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	mas	mas	ADV	_	_	11	advmod	_	_
+11	al	a	ADP	_	_	9	case	_	_
+12	rato	rato	NOUN	_	_	11	fixed	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Para	para	ADP	_	_	3	mark	_	_
+2	poder	poder	AUX	_	VerbForm=Inf	3	aux	_	_
+3	distraer	distraer	VERB	_	VerbForm=Inf	6	advcl	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	visitar	visitar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+12	vivia	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	dormitorios	dormitorio	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+16	a	a	ADP	_	_	19	case	_	_
+17	traves	traves	NOUN	_	_	16	fixed	_	_
+18	de	de	ADP	_	_	16	fixed	_	_
+19	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	A	a	ADP	_	_	7	mark	_	_
+2	pesar	pesar	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+7	pasando	pasar	VERB	_	VerbForm=Ger	19	ccomp	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	importancia	importancia	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	noche	noche	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	conj	_	_
+19	escojimos	escir	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+20	olvidarnos	olvidar	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	de	de	ADP	_	_	25	mark	_	_
+22	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	25	det	_	_
+23	que	que	PRON	_	PronType=Rel	25	nsubj	_	_
+24	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	_
+25	pasando	pasar	VERB	_	VerbForm=Ger	20	ccomp	_	_
+26	por	por	ADP	_	_	28	case	_	_
+27	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	25	obl	_	_
+29	.	.	PUNCT	_	PunctType=Peri	19	punct	_	_
+
+1	Platicamos	platicar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	afuera	afuera	ADV	_	_	1	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	compartemos	compartar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+8	chismes	chisme	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	bromas	broma	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
+11	y	y	CCONJ	_	_	17	cc	_	_
+12	por	por	ADP	_	_	14	case	_	_
+13	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
+15	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	17	nsubj	_	_
+16	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+17	bien	bien	ADV	_	_	1	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	fe	fe	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+7	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	xcomp	_	_
+8	a	a	ADP	_	_	10	mark	_	_
+9	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+10	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	7	xcomp	_	_
+11	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+12	o	o	CCONJ	_	_	16	cc	_	_
+13	por	por	ADP	_	_	16	advmod	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	fixed	_	_
+15	menos	menos	ADV	_	Degree=Cmp	13	fixed	_	_
+16	reze	rezar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
+17	que	que	SCONJ	_	_	19	mark	_	_
+18	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	19	nsubj	_	_
+19	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	ccomp	_	_
+20	saler	saler	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	bien	bien	ADV	_	_	19	advmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	de	de	ADP	_	_	5	advmod	_	_
+3	veras	veras	NOUN	_	_	2	fixed	_	_
+4	nunca	nunca	ADV	_	_	5	advmod	_	_
+5	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	_	_	13	mark	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	gente	gente	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	estados	estado	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	11	amod	_	_
+13	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	capacitad	capacitad	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	17	mark	_	_
+17	elejir	elejir	VERB	_	VerbForm=Inf	15	acl	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	persona	persona	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
+21	tan	tanto	ADV	_	_	22	advmod	_	_
+22	ignorotante	ignorotante	ADJ	_	Number=Sing	20	amod	_	_
+23	y	y	CCONJ	_	_	24	cc	_	_
+24	racista	racista	ADJ	_	Number=Sing	22	conj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tienia	tieniar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fe	fe	NOUN	_	Gender=Fem|Number=Sing	1	compound	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	csubj	_	_
+7	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	eleccion	eleccion	NOUN	_	Gender=Fem|Number=Sing	6	xcomp	_	_
+10	correcta	correcto	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	2	mark	_	_
+2	pasar	pasar	VERB	_	VerbForm=Inf	10	advcl	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	calmo	calmar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	nos	yo	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	nervios	nervio	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	advmod	_	_
+14	poco	poco	ADV	_	_	13	fixed	_	_
+15	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+16	en	en	ADP	_	_	19	case	_	_
+17	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	18	det	_	_
+18	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+19	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	checando	checar	VERB	_	VerbForm=Ger	10	advcl	_	_
+23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	22	obj	_	_
+25	o	o	CCONJ	_	_	26	cc	_	_
+26	mirrando	mirrar	VERB	_	VerbForm=Ger	22	conj	_	_
+27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
+28	actualizaciones	actualización	NOUN	_	Gender=Fem|Number=Plur	26	obj	_	_
+29	;	;	PUNCT	_	PunctType=Semi	31	punct	_	_
+30	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl	_	_
+31	senti	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	advcl	_	_
+32	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	31	obj	_	_
+33	durante	durante	ADP	_	_	35	case	_	_
+34	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	35	det	_	_
+35	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	31	obl	_	_
+36	pero	pero	CCONJ	_	_	38	cc	_	_
+37	luego	luego	ADV	_	_	38	advmod	_	_
+38	regrese	regresar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	_
+39	a	a	ADP	_	_	41	case	_	_
+40	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	41	det	_	_
+41	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	_
+42	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	propio	propio	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	recuerdo	recordar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	que	que	SCONJ	_	_	14	mark	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	entre	entrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+13	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	obl	_	_
+14	acoste	acostar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	cama	cama	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	use	usar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	telefono	telefono	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	para	para	ADP	_	_	23	mark	_	_
+23	mirar	mirar	VERB	_	VerbForm=Inf	19	advcl	_	_
+24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	reslutados	reslutado	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	mire	mirar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	14	conj	_	_
+28	que	que	SCONJ	_	_	31	mark	_	_
+29	Donald	Donald	PROPN	_	_	31	nsubj	_	_
+30	Trump	Trump	PROPN	_	_	29	flat	_	_
+31	gano	ganar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	ccomp	_	_
+32	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
+33	eleciones	eleción	NOUN	_	Gender=Fem|Number=Plur	31	obj	_	_
+34	presidenciales	presidencial	ADJ	_	Number=Plur	33	amod	_	_
+35	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	decepcionada	decepcionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	sorpriendidia	sorpriendidio	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	;	;	PUNCT	_	PunctType=Semi	2	punct	_	_
+7	de	de	ADP	_	_	10	advmod	_	_
+8	veras	veras	NOUN	_	_	7	fixed	_	_
+9	nunca	nunca	ADV	_	_	10	advmod	_	_
+10	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+11	que	que	SCONJ	_	_	13	mark	_	_
+12	Trump	Trump	PROPN	_	_	13	nsubj	_	_
+13	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+14	ser	ser	AUX	_	VerbForm=Inf	13	aux	_	_
+15	elejado	elejar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	_
+16	porque	porque	SCONJ	_	_	20	mark	_	_
+17	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl	_	_
+18	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	obl	_	_
+19	sia	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	algo	algo	PRON	_	Number=Sing|PronType=Ind	13	advcl	_	_
+21	impossable	impossable	ADJ	_	Number=Sing	20	amod	_	_
+22	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
+23	que	que	SCONJ	_	_	30	mark	_	_
+24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	gente	gente	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	pais	pais	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+29	podrian	poder	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	30	aux	_	_
+30	pensar	pensar	VERB	_	VerbForm=Inf	13	advcl	_	_
+31	que	que	SCONJ	_	_	34	mark	_	_
+32	Trump	Trump	PROPN	_	_	34	nsubj	_	_
+33	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	34	cop	_	_
+34	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	30	ccomp	_	_
+35	capaz	capaz	ADJ	_	Number=Sing	34	amod	_	_
+36	de	de	ADP	_	_	37	mark	_	_
+37	gobernar	gobernar	VERB	_	VerbForm=Inf	35	acl	_	_
+38	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	pais	pais	NOUN	_	Gender=Masc|Number=Sing	37	obj	_	_
+40	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	14	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	experiencas	experienca	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+5	mas	mas	ADV	_	_	6	advmod	_	_
+6	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+7	que	que	PRON	_	PronType=Rel	10	obj	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	experimentado	experimentar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	elecion	elecion	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	Trump	Trump	PROPN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+

@@ -1,0 +1,328 @@
+# Unnamed: 0 = 36
+# id = 184852
+# prompt = famous
+# quarter = S18
+# course = SPA 2
+# age = Female
+# gender = 18
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Chinese- first 4 years of childhood 
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Me gusta las estrellas del cine. Uno de mis actores favoritos es Jim Carrey. Él es muy cómico y es un gran actor. Me encantan sus películas y especialmente El Show de Truman. En esta película, todo en la vida de este hombre es parte de un programa de televisión. Las cameras y el público miran todo que él hace y el hombre no tiene idea. Pero, pronto él empieza encontrar la verdad. Es una muy buena película y yo lo recomiendo. Él ganó el premio de mejor actor para esta película y ganó muchos premios para otras películas durante su carrera. Jim Carrey tiene una cara expresivo y me hace reír. A veces, Carrey se viste en trajes muy ridiculos o imita  []{a}<az:do:an>  las personas. Estas películas son muy buenas y divertidas. También, Carrey es más que solo un actor. Él es un productor y un artista porque él es muy talentoso. Carrey pinta las pinturas muy grandes y generalmente estas pinturas son graciosas. Las personas pueden comprar su arte por mucho dinero. Jim Carrey vive cerca de Los Angeles, donde muchos estrellas del cine viven. Yo vivo en Los Angeles y espero que ver  []{a}<az:do:an>  Carrey in las calles de Los Angeles o Hollywood un día. Quiero hablar con él sobre sus películas y el arte y comó es ser una persona famosa. Me encanta este actor y sus películas fueron parte del niñez de mi y mi hermano. Mire las películas de Jim Carrey porque él es un hombre excelente y talentoso.
+# a personal annotator2 = nan
+# gender-number annotator1 = Me gusta las estrellas del cine. Uno de mis actores favoritos es Jim Carrey. Él es muy cómico y es un gran actor. Me encantan sus películas y especialmente El Show de Truman. En esta película, todo en la vida de este hombre es parte de un programa de televisión. Las cameras y el público miran todo que él hace y el hombre no tiene idea. Pero, pronto él empieza encontrar la verdad. Es una muy buena película y yo [lo]{la}<ga:fm:pron:inan> recomiendo. Él ganó el premio de mejor actor para esta película y ganó muchos premios para otras películas durante su carrera. Jim Carrey tiene una cara [expresivo]{expresiva}<ga:fm:adj:inan> y me hace reír. A veces, Carrey se viste en trajes muy ridiculos o imita las personas. Estas películas son muy buenas y divertidas. También, Carrey es más que solo un actor. Él es un productor y un artista porque él es muy talentoso. Carrey pinta las pinturas muy grandes y generalmente estas pinturas son graciosas. Las personas pueden comprar su arte por mucho dinero. Jim Carrey vive cerca de Los Angeles, donde [muchos]{muchas}<ga:fm:det:an> estrellas del cine viven. Yo vivo en Los Angeles y espero que ver Carrey in las calles de Los Angeles o Hollywood un día. Quiero hablar con él sobre sus películas y el arte y comó es ser una persona famosa. Me encanta este actor y sus películas fueron parte [del]{de la}<ga:fm:det:inan> niñez de mi y mi hermano. Mire las películas de Jim Carrey porque él es un hombre excelente y talentoso.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Me gusta las estrellas del cine. Uno de mis actores favoritos es Jim Carrey. Él es muy cómico y es un gran actor. Me encantan sus películas y especialmente El Show de Truman. En esta película, todo en la vida de este hombre es parte de un programa de televisión. Las cameras y el público miran todo que él hace y el hombre no tiene idea. Pero, pronto él empieza encontrar la verdad. Es una muy buena película y yo lo recomiendo. Él ganó el premio de mejor actor para esta película y ganó muchos premios para otras películas durante su carrera. Jim Carrey tiene una cara expresivo y me hace reír. A veces, Carrey se viste en trajes muy ridiculos o imita las personas. Estas películas son muy buenas y divertidas. También, Carrey es más que solo un actor. Él es un productor y un artista porque él es muy talentoso. Carrey pinta las pinturas muy grandes y generalmente estas pinturas son graciosas. Las personas pueden comprar su arte por mucho dinero. Jim Carrey vive cerca de Los Angeles, donde muchos estrellas del cine viven. Yo vivo en Los Angeles y espero que ver Carrey in las calles de Los Angeles o Hollywood un día. Quiero hablar con él sobre sus películas y el arte y comó es ser una persona famosa. Me encanta este actor y sus películas fueron parte del niñez de mi y mi hermano. Mire las películas de Jim Carrey porque él es un hombre excelente y talentoso.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	estrellas	estrella	NOUN	_	Number=Plur	2	nsubj	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	cine	cine	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	actores	actor	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+5	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	Jim	Jim	PROPN	_	_	0	root	_	_
+8	Carrey	Carrey	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	gran	gran	ADJ	_	Number=Sing	9	amod	_	_
+9	actor	actor	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	películas	película	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	especialmente	especialmente	ADV	_	_	8	advmod	_	_
+7	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Show	Show	PROPN	_	_	4	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Truman	Truman	PROPN	_	_	7	flat	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	película	película	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	13	nsubj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	parte	parte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	programa	programa	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	cameras	camera	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	público	público	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	miran	mirar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	6	obj	_	_
+8	que	que	PRON	_	PronType=Rel	10	obj	_	_
+9	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	idea	idea	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	pronto	pronto	ADV	_	_	5	advmod	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	empieza	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	encontrar	encontrar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buena	buen	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	recomiendo	recomender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	premio	premio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	7	amod	_	_
+7	actor	actor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	película	película	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+13	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+14	premios	premio	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+15	para	para	ADP	_	_	17	case	_	_
+16	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
+17	películas	película	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+18	durante	durante	ADP	_	_	20	case	_	_
+19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Jim	Jim	PROPN	_	_	3	nsubj	_	_
+2	Carrey	Carrey	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cara	cara	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	expresivo	expresivo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	reír	reír	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	A	a	ADP	_	_	6	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	Carrey	Carrey	PROPN	_	_	6	nsubj	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	_	_
+6	viste	vistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	trajes	traje	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	ridiculos	ridiculo	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+11	o	o	CCONJ	_	_	12	cc	_	_
+12	imita	imitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	personas	persona	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	películas	película	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	divertidas	divertido	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	También	también	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	Carrey	Carrey	PROPN	_	_	9	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+5	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	solo	solo	ADV	_	_	9	advmod	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	actor	actor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	productor	productor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	artista	artista	NOUN	_	Number=Sing	4	conj	_	_
+8	porque	porque	SCONJ	_	_	12	mark	_	_
+9	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	talentoso	talentoso	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Carrey	Carrey	PROPN	_	_	2	nsubj	_	_
+2	pinta	pintar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	pinturas	pintura	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	grandes	grande	ADJ	_	Number=Plur	4	amod	_	_
+7	y	y	CCONJ	_	_	12	cc	_	_
+8	generalmente	generalmente	ADV	_	_	12	advmod	_	_
+9	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	pinturas	pintura	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
+11	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	graciosas	gracioso	ADJ	_	Gender=Fem|Number=Plur	2	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	comprar	comprar	VERB	_	VerbForm=Inf	0	root	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	arte	arte	NOUN	_	Number=Sing	4	obj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
+9	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Jim	Jim	PROPN	_	_	3	nsubj	_	_
+2	Carrey	Carrey	PROPN	_	_	1	flat	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cerca	cerca	ADV	_	_	3	advmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Angeles	Angeles	PROPN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+9	donde	donde	ADV	_	PronType=Rel	14	advmod	_	_
+10	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
+11	estrellas	estrella	NOUN	_	Number=Plur	14	nsubj	_	_
+12	del	de	ADP	_	_	13	case	_	_
+13	cine	cine	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	Angeles	Angeles	PROPN	_	_	2	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	que	que	SCONJ	_	_	9	mark	_	_
+9	ver	ver	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	Carrey	Carrey	PROPN	_	_	9	obj	_	_
+11	in	in	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	calles	calle	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	Angeles	Angeles	PROPN	_	_	13	nmod	_	_
+17	o	o	CCONJ	_	_	18	cc	_	_
+18	Hollywood	Hollywood	PROPN	_	_	16	conj	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	día	día	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hablar	hablar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+5	sobre	sobre	ADP	_	_	7	case	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	películas	película	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	arte	arte	NOUN	_	Number=Sing	7	conj	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	comó	comar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+14	ser	ser	AUX	_	VerbForm=Inf	16	cop	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	persona	persona	NOUN	_	Gender=Fem|Number=Sing	13	ccomp	_	_
+17	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	actor	actor	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	películas	película	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	niñez	niñez	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mire	mirar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	películas	película	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Jim	Jim	PROPN	_	_	3	nmod	_	_
+6	Carrey	Carrey	PROPN	_	_	5	flat	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
+12	excelente	excelente	ADJ	_	Number=Sing	11	amod	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	talentoso	talentoso	ADJ	_	Gender=Masc|Number=Sing	12	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,211 @@
+# Unnamed: 0 = 225
+# id = 200894
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = A little Spanish
+# language(s) studied = I studied Spanish in high school for 1 year
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* años. Tengo el pelo corto y es color cafe con rayos amarillos. Mis ojos son cafe. Mi color favorito es []{el}<ab:det:art:def> morado. Atiendo la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estoy en mi segundo año de la escuela. Mi especializacion es []{la}<ab:det:art:def> psicología. Cuando me gradúe de la Universidad, quiero ir a la escuela de enfermeria por que quiero ser enfermera. Me gusta ayudar a la jente, especialmente en los momentos que lo necesiten mas. [Yo]{}<pr:su:pron> soy una chica adventurera, generosa, y muy trabajadora. Me gusta salir con mis amigas, pero tambien me gusta andar sola y estudiar. Mucho de mi día me la paso en la escuela, pero no me quejo por que nunca podria imaginar haciendo otra cosa nadamas que estudiar y ir a clase durante estos cuatro años de mi vida. [Yo]{}<pr:su:pron> estoy muy agradecida de poder atender y estudiar en una escuela que valora mis pensamientos y sueños.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* años. Tengo el pelo corto y es color cafe con [rayos]{rayas}<gat:noun> [amarillos]{amarillas}<gat:adj>. Mis ojos son cafe. Mi color favorito es []{el}<ab:det:art:def> morado. Atiendo la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estoy en mi segundo año de la escuela. Mi especializacion es []{la}<ab:det:art:def> psicología. Cuando me gradúe de la Universidad, quiero ir a la escuela de enfermeria por que quiero ser enfermera. Me gusta ayudar a la jente, especialmente en los momentos que lo [necesiten]{necesitan}<fs:st:mo> mas. [Yo]{}<pr:su:pron> soy una chica adventurera, generosa, y muy trabajadora. Me gusta salir con mis amigas, pero tambien me gusta andar sola y estudiar. Mucho de mi día me la paso en la escuela, pero no me quejo por que nunca podria imaginar haciendo otra cosa nadamas que estudiar y ir a clase durante estos cuatro años de mi vida. [Yo]{}<pr:su:pron> estoy muy agradecida de poder atender y estudiar en una escuela que valora mis pensamientos y sueños.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* años. Tengo el pelo corto y es color café con rayas amarillas. Mis ojos son color café. Mi color favorito es el morado. Asisto a la Universidad de *UNIVERSITY*, en *UNIVERSITY*. Estoy en mi segundo año de la carrera. Mi especialización es la Psicología. Cuando me gradúe de la Universidad, quiero ir a la Escuela de Enfermería porque quiero ser enfermera. Me gusta ayudar a la gente, especialmente en los momentos en que lo necesitan más. Soy una chica aventurera, generosa y muy trabajadora. Me gusta salir con mis amigas, pero también me gusta andar sola y estudiar. Mucho de mi día me lo paso en la escuela, pero no me quejo porque nunca podría imaginarme haciendo otra cosa más que estudiar e ir a clase durante estos cuatro años de mi vida. Estoy muy agradecida de poder atender y estudiar en una escuela que valora mis pensamientos y sueños.
+# corrected2 = nan
+# text = Tengo *AGE* años. Tengo el pelo corto y es color cafe con rayos amarillos. Mis ojos son cafe. Mi color favorito es morado. Atiendo la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estoy en mi segundo año de la escuela. Mi especializacion es psicología. Cuando me gradúe de la Universidad, quiero ir a la escuela de enfermeria por que quiero ser enfermera. Me gusta ayudar a la jente, especialmente en los momentos que lo necesiten mas. Yo soy una chica adventurera, generosa, y muy trabajadora. Me gusta salir con mis amigas, pero tambien me gusta andar sola y estudiar. Mucho de mi día me la paso en la escuela, pero no me quejo por que nunca podria imaginar haciendo otra cosa nadamas que estudiar y ir a clase durante estos cuatro años de mi vida. Yo estoy muy agradecida de poder atender y estudiar en una escuela que valora mis pensamientos y sueños.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	corto	corto	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	color	color	NOUN	_	_	1	conj	_	_
+8	cafe	cafe	NOUN	_	_	7	obj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	rayos	rayo	NOUN	_	_	11	det	_	_
+11	amarillos	amarillo	NOUN	_	_	7	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	ojos	ojo	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	cafe	cafe	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	morado	morado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Atiendo	ateir	VERB	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	Universidad	Universidad	PROPN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	flat	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	flat	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	mi	mi	DET	_	_	5	det	_	_
+4	segundo	segundo	ADJ	_	_	5	amod	_	_
+5	año	año	NOUN	_	_	1	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	escuela	escuela	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especializacion	especializacion	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	psicología	psicología	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	_	3	expl:pv	_	_
+3	gradúe	gradúe	VERB	_	_	8	advcl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	Universidad	Universidad	PROPN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	quiero	querer	VERB	_	_	0	ROOT	_	_
+9	ir	ir	VERB	_	_	8	xcomp	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	escuela	escuela	NOUN	_	_	9	obl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	enfermeria	enfermeria	NOUN	_	_	12	nmod	_	_
+15	por	por	ADP	_	_	17	mark	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	quiero	querer	VERB	_	_	8	ccomp	_	_
+18	ser	ser	AUX	_	_	19	cop	_	_
+19	enfermera	enfermera	NOUN	_	_	17	xcomp	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ayudar	ayudar	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	jente	jente	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	especialmente	especialmente	ADV	_	_	3	advmod	_	_
+9	en	en	ADP	_	_	8	case	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	momentos	momento	NOUN	_	_	8	nmod	_	_
+12	que	que	PRON	_	_	14	mark	_	_
+13	lo	él	PRON	_	_	14	obj	_	_
+14	necesiten	necesitar	VERB	_	_	11	acl	_	_
+15	mas	mas	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	chica	chica	NOUN	_	_	0	ROOT	_	_
+5	adventurera	adventurero	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	generosa	generoso	ADJ	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	trabajadora	trabajador	ADJ	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	salir	salir	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	amigas	amiga	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	tambien	tambien	ADV	_	_	11	nsubj	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	gusta	gustar	VERB	_	_	2	conj	_	_
+12	andar	andar	VERB	_	_	11	csubj	_	_
+13	sola	solo	ADJ	_	_	12	obj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	estudiar	estudiar	VERB	_	_	12	conj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mucho	mucho	ADV	_	_	7	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	día	día	NOUN	_	_	1	nmod	_	_
+5	me	yo	PRON	_	_	7	iobj	_	_
+6	la	él	PRON	_	_	7	obj	_	_
+7	paso	paso	NOUN	_	_	0	ROOT	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	escuela	escuela	NOUN	_	_	7	nmod	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	no	no	ADV	_	_	15	advmod	_	_
+14	me	yo	PRON	_	_	15	expl:pv	_	_
+15	quejo	quejar	VERB	_	_	7	conj	_	_
+16	por	por	ADP	_	_	19	mark	_	_
+17	que	que	SCONJ	_	_	19	mark	_	_
+18	nunca	nunca	ADV	_	_	19	advmod	_	_
+19	podria	podriar	VERB	_	_	15	ccomp	_	_
+20	imaginar	imaginar	VERB	_	_	19	csubj	_	_
+21	haciendo	hacer	VERB	_	_	20	xcomp	_	_
+22	otra	otro	DET	_	_	23	det	_	_
+23	cosa	cosa	NOUN	_	_	21	obj	_	_
+24	nadamas	nadama	NOUN	_	_	23	amod	_	_
+25	que	que	PRON	_	_	26	obj	_	_
+26	estudiar	estudiar	VERB	_	_	23	acl	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	ir	ir	VERB	_	_	26	conj	_	_
+29	a	a	ADP	_	_	30	case	_	_
+30	clase	clase	NOUN	_	_	26	obl	_	_
+31	durante	durante	ADP	_	_	34	case	_	_
+32	estos	este	DET	_	_	34	det	_	_
+33	cuatro	cuatro	NUM	_	_	32	nummod	_	_
+34	años	año	NOUN	_	_	26	obl	_	_
+35	de	de	ADP	_	_	37	case	_	_
+36	mi	mi	DET	_	_	37	det	_	_
+37	vida	vida	NOUN	_	_	34	nmod	_	_
+38	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	estoy	estar	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	agradecida	agradecido	ADJ	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	7	mark	_	_
+6	poder	poder	AUX	_	_	7	aux	_	_
+7	atender	atender	VERB	_	_	4	xcomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	estudiar	estudiar	VERB	_	_	7	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	una	uno	DET	_	_	12	det	_	_
+12	escuela	escuela	NOUN	_	_	9	obl	_	_
+13	que	que	PRON	_	_	14	nsubj	_	_
+14	valora	valorar	VERB	_	_	12	acl	_	_
+15	mis	mi	DET	_	_	16	det	_	_
+16	pensamientos	pensamiento	NOUN	_	_	14	obj	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	sueños	sueño	NOUN	_	_	16	conj	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+

@@ -1,0 +1,237 @@
+# Unnamed: 0 = 162
+# id = 103720
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 24
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Latin, 2 years
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Para mi, mi padre is especial. El vive en *CITY*, *STATE*. Es muy trabajar y yo respeto. El es honesto y modesto tambien. Es no enojado, siempre felice y calma y contento. Tiene los ojos azul y el pelo rubio. Es no alto y no bojo, el es medio. Es no gordo y no flaco, pero medio. Es viejo, tiene *AGE* anos. Pero el es fuerte para edad. Es Americano nacionalidad. Le gusta a leer y activo. Mi madre and padre tiene casado cuarenta y seis anos! Ellos casado muy largo. Mi padre es un ingeniero para el profesion ahora pero el era militar. El estudio a universidad of *UNIVERSITY*. Es bueno con computador y electronica. Para esto el es muy valiente y respeto. El tiene muy responsabilidad porque yo tengo dos hermanos. El cuidar mi enferma abuela tambien. Cuando yo soy viejo yo cuidar mi padre tambien. Mi amor mi padre. Mi padre amor el familia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Para	para	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	padre	padre	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	is	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	*STATE*	*state*	PUNCT	_	_	4	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	trabajar	trabajar	VERB	_	VerbForm=Inf	1	ccomp	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	respeto	respetar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	honesto	honesto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	modesto	modesto	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	tambien	tambien	NOUN	_	_	3	dep	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	enojado	enojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	felice	felice	ADJ	_	Number=Sing	3	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	calma	calma	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	contento	contento	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	azul	azul	ADJ	_	Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	bojo	bojar	VERB	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	medio	medio	ADJ	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	flaco	flaco	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	medio	medio	ADV	_	_	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	viejo	viejo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	*AGE*	*age*	PUNCT	_	_	6	punct	_	_
+6	anos	ano	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	fuerte	fuerte	ADJ	_	Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	edad	edad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	Americano	americano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	nacionalidad	nacionalidad	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	leer	leer	VERB	_	VerbForm=Inf	2	advcl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	activo	activo	VERB	_	VerbForm=Inf	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	and	and	CCONJ	_	_	4	cc	_	_
+4	padre	padre	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	casado	casado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	obj	_	_
+7	cuarenta	cuarenta	NUM	_	NumForm=Word|NumType=Card	10	nummod	_	_
+8	y	y	CCONJ	_	_	7	compound	_	_
+9	seis	seis	NUM	_	NumForm=Word|NumType=Card	7	compound	_	_
+10	anos	ano	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+11	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	casado	casado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	largo	largo	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ingeniero	ingeniero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	profesion	profesion	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	ahora	ahora	ADV	_	_	5	advmod	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	militar	militar	ADJ	_	Number=Sing	5	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	of	of	ADP	_	_	4	case	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	computador	computador	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	electronica	electronica	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	esto	este	PRON	_	Number=Sing|PronType=Dem	6	obl	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	valiente	valiente	ADJ	_	Number=Sing	0	root	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	respeto	respeto	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	responsabilidad	responsabilidad	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	cuidar	cuidar	VERB	_	VerbForm=Inf	4	csubj	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obj	_	_
+4	enferma	enfermar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	abuela	abuelar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	obj	_	_
+6	tambien	tambien	NOUN	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	viejo	viejo	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+6	cuidar	cuidar	VERB	_	VerbForm=Inf	0	root	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	padre	padre	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	tambien	tambien	NOUN	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amor	amor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	padre	padre	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	amor	amor	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,230 @@
+# Unnamed: 0 = 49
+# id = 124296
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = I studied French in high school for three years. 
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama es mi persona favorita. Mi mama es muy especial. Mi mama es una mujer fuerte y una gran madre. Ella tiene *AGE* años. Su cumpleaños es *BIRTH_DATE*. Ella tiene una hija y dos hijos. Sus hija se llama *FIRST_NAME*. Sus hijos son nombrados *FIRST_NAME* y *FIRST_NAME*. Elle tiene tres perros. Sus perros se llaman *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi mama tiene no hermanos y no hermanas. Ella es mexicana y nativo americano. Ella es de *STATE*. Mi mama es muy bonita. Ella tiene el pelo marrón. Ella tiene los ojos [marrón]{marrones}<na:adj>. Ella es baja. Mi mama es muy simpatica, independiente, tipo, y inteligente. Mi mama es [extrovertido]{extrovertida}<ga:adj> y cuidando. Mi mama es secretaria. Mi mama es trabajadora. A mi mama le encanta el color azul. A mi mama le encatan los perros. A mi mama le gusta el beisbol y el fútbol. Mi mama es increíble.
+# updated annotation ann2 = Mi mama es mi persona favorita. Mi mama es muy especial. Mi mama es una mujer fuerte y una gran madre. [Ella]{}<pr:su:pron> tiene *AGE* años. Su cumpleaños es *BIRTH_DATE*. [Ella]{}<pr:su:pron> tiene una hija y dos hijos. [Sus]{Su}<na:det> hija se llama *FIRST_NAME*. Sus hijos son nombrados *FIRST_NAME* y *FIRST_NAME*. Elle tiene tres perros. Sus perros se llaman *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi mama tiene no hermanos y no hermanas. [Ella]{}<pr:su:pron> es mexicana y [nativo]{nativa}<ga:adj> [americano]{americana}<ga:adj>. [Ella]{}<pr:su:pron> es de *STATE*. Mi mama es muy bonita. [Ella]{}<pr:su:pron> tiene el pelo marrón. [Ella]{}<pr:su:pron> tiene los ojos [marrón]{marrones}<na:adj>. [Ella]{}<pr:su:pron> es baja. Mi mama es muy simpatica, independiente, tipo, y inteligente. Mi mama es [extrovertido]{extrovertida}<ga:adj> y cuidando. Mi mama es secretaria. Mi mama es trabajadora. A mi mama le encanta el color azul. A mi mama le [encatan]{encantan}<fs:st:r> los perros. A mi mama le gusta el beisbol y el fútbol. Mi mama es increíble.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es mi persona favorita. Mi mamá es muy especial. Mi mamá es una mujer fuerte y una gran madre. Tiene *AGE* años. Su cumpleaños es *BIRTH_DATE*. Tiene una hija y dos hijos. Su hija se llama *FIRST_NAME*. Sus hijos son nombrados *FIRST_NAME* y *FIRST_NAME*. Tiene tres perros. Sus perros se llaman *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi mamá no tiene hermanos ni hermanas. Es mexicana y nativa americana. Es de *STATE*. Mi mamá es muy bonita. Tiene el pelo marrón. Tiene los ojos marrones. Es baja. Mi mamá es muy simpática, independiente, tipo, e inteligente. Mi mamá es extrovertida y cuidadosa. Mi mamá es secretaria. Mi mamá es trabajadora. A mi mamá le encanta el color azul. A mi mamá le encantan los perros. A mi mamá le gusta el beisbol y el fútbol. Mi mamá es increíble.
+# corrected2 = nan
+# text = Mi mama es mi persona favorita. Mi mama es muy especial. Mi mama es una mujer fuerte y una gran madre. Ella tiene *AGE* años. Su cumpleaños es *BIRTH_DATE*. Ella tiene una hija y dos hijos. Sus hija se llama *FIRST_NAME*. Sus hijos son nombrados *FIRST_NAME* y *FIRST_NAME*. Elle tiene tres perros. Sus perros se llaman *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi mama tiene no hermanos y no hermanas. Ella es mexicana y nativo americano. Ella es de *STATE*. Mi mama es muy bonita. Ella tiene el pelo marrón. Ella tiene los ojos marrón. Ella es baja. Mi mama es muy simpatica, independiente, tipo, y inteligente. Mi mama es extrovertido y cuidando. Mi mama es secretaria. Mi mama es trabajadora. A mi mama le encanta el color azul. A mi mama le encatan los perros. A mi mama le gusta el beisbol y el fútbol. Mi mama es increíble.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	favorita	favorito	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	especial	especial	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	mujer	mujer	NOUN	_	_	0	ROOT	_	_
+6	fuerte	fuerte	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	una	uno	DET	_	_	10	det	_	_
+9	gran	gran	ADJ	_	_	10	amod	_	_
+10	madre	madre	NOUN	_	_	5	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hija	hija	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	dos	dos	NUM	_	_	7	nummod	_	_
+7	hijos	hijo	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	hija	hija	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	hijos	hijo	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	nombrados	nombrar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	first_name	ADV	_	_	4	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Elle	Elle	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	tres	tres	NUM	_	_	4	nummod	_	_
+4	perros	perro	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	perros	perro	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llaman	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	no	no	ADV	_	_	5	advmod	_	_
+5	hermanos	hermano	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	hermanas	hermana	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	mexicana	mexicano	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	nativo	nativo	ADJ	_	_	3	conj	_	_
+6	americano	americano	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*STATE*	STATE	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	marrón	marrón	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	marrón	marrón	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	baja	bajo	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	simpatica	simpatico	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	independiente	independiente	ADJ	_	_	5	amod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	tipo	tipo	NOUN	_	_	5	dep	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	inteligente	inteligente	ADJ	_	_	5	conj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	extrovertido	extrovertido	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cuidando	cuidar	VERB	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	secretaria	secretario	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	mama	mama	NOUN	_	_	5	obj	_	_
+4	le	él	PRON	_	_	5	obj	_	_
+5	encanta	encantar	VERB	_	_	0	ROOT	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	color	color	NOUN	_	_	5	nsubj	_	_
+8	azul	azul	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	mama	mama	NOUN	_	_	5	obj	_	_
+4	le	él	PRON	_	_	5	obj	_	_
+5	encatan	encatar	VERB	_	_	0	ROOT	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	perros	perro	NOUN	_	_	5	nsubj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	mama	mama	NOUN	_	_	5	obj	_	_
+4	le	él	PRON	_	_	5	obj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	beisbol	beisbol	NOUN	_	_	5	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	fútbol	fútbol	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	increíble	increíble	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+

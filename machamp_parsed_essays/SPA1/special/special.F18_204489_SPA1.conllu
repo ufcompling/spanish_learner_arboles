@@ -1,0 +1,222 @@
+# Unnamed: 0 = 13
+# id = 204489
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Te presento mi novio. Se llama *FIRST_NAME*. *FIRST_NAME* es poco bajo, poco delgado y mucho guapo. Tiene el pelo rizado y moreno y los ojos azules. Jordy es mexicano y habla espanol mucho bueno. Tiene *AGE* anos y vive en *CITY*. Tiene dos hermanos, un [un]{una}<ga:det> hermana, y tres perros. En general, *FIRST_NAME* lleva sombreros y un reloj de pulsera. No lleva una [una]{}<pr:det:art:indef> barba o bigote. El [él]{}<pr:su:pron> es muy muy iteligente, simpatico, divertido, y comico. A veces *FIRST_NAME* esta [está]{es}<conf:v:seta> timido pero usalmente el [él]{}<pr:su:pron> es extrovertido. A el le gusta tocar la guitarra y cantar y es musico. Tambien, *FIRST_NAME* encantan las peliculas de terror y los [los]{las}<ga:pron> mira todo el tiempo, pero a el le molestan las peliculas de cliche. Su feriado favorito es Las [las]{el}<ga:na:det> Dias de Muertos. A mi me fascina *FIRST_NAME*, porque el es muy interesante y yo aprendo mucha [mucha]{mucho}<gat:adv de el. El [él]{}<pr:su:pron> tiene mi corazon y yo enamorada *FIRST_NAME* para vida.
+# updated annotation ann2 = Te presento mi novio. Se llama *FIRST_NAME*. *FIRST_NAME* es poco bajo, poco delgado y mucho guapo. Tiene el pelo rizado y moreno y los ojos azules. Jordy es mexicano y habla espanol mucho bueno. Tiene *AGE* anos y vive en *CITY*. Tiene dos hermanos, [un]{una}<ga:det> hermana, y tres perros. En general, *FIRST_NAME* lleva sombreros y un reloj de pulsera. No lleva [una]{}<pr:.det:art:indef> barba o bigote. [El]{}<pr:su:pron> es muy muy iteligente, simpatico, divertido, y comico. A veces *FIRST_NAME* [esta]{es}<conf:v:seta> timido pero usalmente [el]{}<pr:su:pron> es extrovertido. A el le gusta tocar la guitarra y cantar y es musico. Tambien, *FIRST_NAME* encantan las peliculas de terror y [los]{las}<ga:pron> mira todo el tiempo, pero a el le molestan las peliculas de cliche. Su feriado favorito es [Las][el]<ga:det><na:det> [Dias]{Día}<ga:noun> de Muertos. A mi me fascina *FIRST_NAME*, porque [el]{}<pr:su:pron> es muy interesante y [yo]{}<pr:su:pron> aprendo [mucha]{mucho}<ga:adv> de el. El tiene mi corazon y yo enamorada *FIRST_NAME* [para]{por}<conf:prep:popa> vida.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Te presento a mi novio. Se llama *FIRST_NAME*. *FIRST_NAME* es un poco bajo, un poco delgado y muy guapo. Tiene el pelo rizado y moreno y los ojos azules. Jordy es mexicano y habla español muy bien. Tiene *AGE* años y vive en *CITY*. Tiene dos hermanos, una hermana y tres perros. En general, *FIRST_NAME* lleva sombreros y un reloj de pulsera. No lleva barba o bigote. Es muy muy inteligente, simpático, divertido y cómico. A veces *FIRST_NAME* es tímido, pero usualmente es extrovertido. A él le gusta tocar la guitarra y cantar y es musico. También, a *FIRST_NAME* le encantan las películas de terror y las mira todo el tiempo, pero le molestan las películas cliché. Su feriado favorito es El Día de Muertos. A mí me fascina *FIRST_NAME*, porque es muy interesante y aprendo mucho de él. Tiene mi corazón y yo estoy enamorada de *FIRST_NAME* por vida.
+# corrected2 = nan
+# text = Te presento mi novio. Se llama *FIRST_NAME*. *FIRST_NAME* es poco bajo, poco delgado y mucho guapo. Tiene el pelo rizado y moreno y los ojos azules. Jordy es mexicano y habla espanol mucho bueno. Tiene *AGE* anos y vive en *CITY*. Tiene dos hermanos, un hermana, y tres perros. En general, *FIRST_NAME* lleva sombreros y un reloj de pulsera. No lleva una barba o bigote. El es muy muy iteligente, simpatico, divertido, y comico. A veces *FIRST_NAME* esta timido pero usalmente el es extrovertido. A el le gusta tocar la guitarra y cantar y es musico. Tambien, *FIRST_NAME* encantan las peliculas de terror y los mira todo el tiempo, pero a el le molestan las peliculas de cliche. Su feriado favorito es Las Dias de Muertos. A mi me fascina *FIRST_NAME*, porque el es muy interesante y yo aprendo mucha de el. El tiene mi corazon y yo enamorada *FIRST_NAME* para vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	presento	presentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	novio	novio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	2	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	poco	poco	ADV	_	_	4	advmod	_	_
+4	bajo	bajo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	poco	poco	ADV	_	_	7	advmod	_	_
+7	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	mucho	mucho	ADV	_	_	10	advmod	_	_
+10	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+10	azules	azul	ADJ	_	Number=Plur	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Jordy	Jordy	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	mexicano	mexicano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	mucho	mucho	ADV	_	_	8	advmod	_	_
+8	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	SYM	_	_	3	punct	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	*city*	PROPN	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	5	advmod	_	_
+2	general	general	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	nsubj	_	_
+5	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sombreros	sombrero	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	reloj	reloj	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	pulsera	pulsera	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	barba	barba	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	bigote	bigote	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	muy	mucho	ADV	_	_	5	advmod	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	iteligente	iteligente	ADJ	_	Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	advmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	comico	comico	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	5	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+4	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	timido	timido	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	usalmente	usalmente	ADV	_	_	10	advmod	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	extrovertido	extrovertido	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tocar	tocar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	cantar	cantar	VERB	_	VerbForm=Inf	5	conj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	musico	musico	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	nsubj	_	_
+4	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	terror	terror	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+16	pero	pero	CCONJ	_	_	20	cc	_	_
+17	a	a	ADP	_	_	18	case	_	_
+18	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	obl	_	_
+19	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+20	molestan	molestar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+21	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	20	nsubj	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	cliche	cliche	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	feriado	feriado	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	Dias	Dias	PROPN	_	_	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	Muertos	Muertos	PROPN	_	_	5	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	fascina	fascinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	nsubj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	interesante	interesante	ADJ	_	Number=Sing	4	advcl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+14	aprendo	aprer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	mucha	mucho	PRON	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	14	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	corazon	corazon	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	enamorada	enamoradar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	punct	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	vida	vida	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

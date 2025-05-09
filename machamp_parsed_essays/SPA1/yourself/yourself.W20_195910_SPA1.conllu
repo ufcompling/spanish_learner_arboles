@@ -1,0 +1,234 @@
+# Unnamed: 0 = 166
+# id = 195910
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 21 
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Korean
+# language(s) used at home = Korean
+# language(s) studied = No, I haven't studied other languages before I started learning Spanish
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola! Soy estudiante de segundo año en la Universidad. [Yo]{}<pr:su:pron> estudio Ciencias Animales. Me gusta mi ma[Yo]{}<pr:su:pron>r porque me mucho gusta el gato. [Yo]{}<pr:su:pron> tengo tres gatos. Los adopté desde []{el}<ab:det:art:def> refugio de animales. Tengo dos trabajos y una pasantía. [Yo]{}<pr:su:pron> trabajo en el gato y el ratón de laboratorio.  [Yo]{}<pr:su:pron> soy tímida y silenciosa. [Yo]{}<pr:su:pron> no hablo mucho. Me gusta quedarme en casa y relajarme. Me gusta hornear, cocinar y dormir la siesta. [Yo]{}<pr:su:pron> no soy [bueno]{buena}<ga:adj> en la cocina, pero todavía me gusta cocinar comida. No me gusta comer verduras, pero trato de comer sano. Prefiero quedarme en casa que salir con amigos. Me canso fácilmente.  Tengo tres hermanos. Son todos más jóvenes que yo. Dos hermanas y un hermano. [Todos]{Todas}<ga:det> mis familias están en *PLACE*. Me hacen falta. Me visitaron el mes pasado. Debería visitar *PLACE* pronto. No visité *PLACE* en los últimos dos años. ¡Hasta luego! ! Adiós!    
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola! Soy []{una}<ab:det:art:indef> estudiante de segundo año en la Universidad. [Yo]{}<pr:su:pron> estudio Ciencias Animales. Me gusta mi mayor porque me mucho [gusta]{gustan}<fs:st:pn> [el]{los}<in:det> [gato]{gatos}<in:noun>. [Yo]{}<pr:su:pron> tengo tres gatos. Los adopté desde []{el}<ab:det:art:def> refugio de animales. Tengo dos trabajos y una pasantía. [Yo]{}<pr:su:pron> trabajo en el gato y el ratón de laboratorio.  [Yo]{}<pr:su:pron> soy tímida y silenciosa. [Yo]{}<pr:su:pron> no hablo mucho. Me gusta quedarme en casa y relajarme. Me gusta hornear, cocinar y dormir la siesta. [Yo]{}<pr:su:pron> no soy [bueno]{buena}<ga:adj> en la cocina, pero todavía me gusta cocinar comida. No me gusta comer verduras, pero trato de comer sano. Prefiero quedarme en casa que salir con amigos. Me canso fácilmente.  Tengo tres hermanos. Son todos más jóvenes que yo. Dos hermanas y un hermano. [Todos]{Toda}<ga:in:det> [mis]{mi}<in:det> [familias]{familia}<in:noun> están en *PLACE*. Me hacen falta. Me visitaron el mes pasado. Debería visitar *PLACE* pronto. No [visité]{he visitado}<fs:st:t> *PLACE* en los últimos dos años. ¡Hasta luego! ! Adiós!    
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy estudiante de segundo año en la universidad. Estudio Ciencias Animales. Me gusta mi especialidad porque me gustan mucho los gatos. Tengo tres gatos. Los adopté desde el refugio de animales. Tengo dos trabajos y una pasantía. Trabajo con gatos y ratones de laboratorio.  Soy tímida y silenciosa. No hablo mucho. Me gusta quedarme en casa y relajarme. Me gusta hornear, cocinar y dormir la siesta. No soy buena en la cocina, pero aun así me gusta cocinar comida. No me gusta comer verduras, pero trato de comer sano. Prefiero quedarme en casa que salir con amigos. Me canso fácilmente.  Tengo tres hermanos. Son todos más jóvenes que yo. Tengo dos hermanas y un hermano. Toda mi familia están en *PLACE*. Me hacen falta. Me visitaron el mes pasado. Debería visitar *PLACE* pronto. No he visitado *PLACE* en los últimos dos años. ¡Hasta luego! ¡Adiós!    
+# corrected2 = nan
+# text = ¡Hola! Soy estudiante de segundo año en la Universidad. Yo estudio Ciencias Animales. Me gusta mi mayor porque me mucho gusta el gato. Yo tengo tres gatos. Los adopté desde refugio de animales. Tengo dos trabajos y una pasantía. Yo trabajo en el gato y el ratón de laboratorio. Yo soy tímida y silenciosa. Yo no hablo mucho. Me gusta quedarme en casa y relajarme. Me gusta hornear, cocinar y dormir la siesta. Yo no soy bueno en la cocina, pero todavía me gusta cocinar comida. No me gusta comer verduras, pero trato de comer sano. Prefiero quedarme en casa que salir con amigos. Me canso fácilmente. Tengo tres hermanos. Son todos más jóvenes que yo. Dos hermanas y un hermano. Todos mis familias están en *PLACE*. Me hacen falta. Me visitaron el mes pasado. Debería visitar *PLACE* pronto. No visité *PLACE* en los últimos dos años. ¡Hasta luego! ! Adiós!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hola	hola	INTJ	_	_	5	dep	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	año	año	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Universidad	Universidad	PROPN	_	_	5	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Ciencias	Ciencias	PROPN	_	_	2	obj	_	_
+4	Animales	Animales	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+7	mucho	mucho	ADV	_	_	8	advmod	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	gato	gato	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	adopté	adoptar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	desde	desde	ADP	_	_	4	case	_	_
+4	refugio	refugio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	animales	animal	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	trabajos	trabajo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	pasantía	pasantía	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	gato	gato	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ratón	ratón	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	laboratorio	laboratorio	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	silenciosa	silencioso	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quedarme	quedar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	relajarme	relajar	VERB	_	VerbForm=Inf	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hornear	hornear	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	cocinar	cocinar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	dormir	dormir	VERB	_	VerbForm=Inf	3	conj	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	siesta	siesta	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	todavía	todavía	ADV	_	_	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	cocinar	cocinar	VERB	_	VerbForm=Inf	12	csubj	_	_
+14	comida	comida	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	comer	comer	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	verduras	verdura	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	trato	tratar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	comer	comer	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	sano	sano	ADJ	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quedarme	quedar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	salir	salir	VERB	_	VerbForm=Inf	2	advcl	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	canso	cansar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	fácilmente	fácilmente	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	4	nsubj	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	jóvenes	joven	ADJ	_	Number=Plur	0	root	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	familias	familia	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*PLACE*	*place*	PUNCT	_	_	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	falta	falta	NOUN	_	Gender=Fem|Number=Sing	2	compound	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	visitaron	visitar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mes	mes	NOUN	_	AdvType=Tim	2	obl	_	_
+5	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Debería	deber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	2	aux	_	_
+2	visitar	visitar	VERB	_	VerbForm=Inf	0	root	_	_
+3	*PLACE*	*place*	PUNCT	_	_	2	dep	_	_
+4	pronto	pronto	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	visité	visitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	*PLACE*	*place*	PUNCT	_	_	2	punct	_	_
+4	en	en	ADP	_	_	8	case	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+6	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	5	amod	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+8	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	6	punct	_	_
+2	Hasta	hasta	ADV	_	_	0	root	_	_
+3	luego	luego	ADV	_	_	2	fixed	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	6	punct	_	_
+6	Adiós	adiós	INTJ	_	_	2	dep	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+

@@ -1,0 +1,228 @@
+# Unnamed: 0 = 8
+# id = 200564
+# prompt = special
+# quarter = S19
+# course = SPA 1
+# age = I am 19.
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = English/Cantonese
+# language(s) used at home = Cantonese
+# language(s) studied = Portuguese (2 years), Mandarin (11 years)
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi abuela es una persona especial en mi vida. Ella es muy vieja, y tiene *AGE* anos. Mi abuela tiene el pelo corto y gris, y los ojos marrón oscuros. Ella es un poco gorda y es muy baja. Ella es muy buena en la cocina, y le gusta mucho la comida. Mi abuela es muy simpatica y trabajador. Ella tiene una hija, mi madre. Mi abuela le encantan los pájaros, y le gusta los perros. Ella es mi mujer favorita. Ella vive en *CITY*, China. Ella no le gusta el calor. Ella lleva una camisa morada y unos pantalones negros. Ella le gusta dormir, y dormir mucho, porque ella es vieja. Ella tambien le gusta el sol porque no le gusta el frio. Ella está casada con mi abuelo. Su color favorita es amarillo y rojo. Su comida favorita es los huevos con tomate. Quiero a mi abuela, y la visito todos la veranos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	especial	especial	ADJ	_	Number=Sing	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	vieja	viejo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	*AGE*	*age*	SYM	_	_	9	punct	_	_
+9	anos	ano	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	corto	corto	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	gris	gris	ADJ	_	Number=Sing	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+13	marrón	marrón	ADV	_	Gender=Masc|Number=Sing	14	advmod	_	_
+14	oscuros	oscuro	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	gorda	gordo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	5	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	mucho	mucho	ADV	_	_	11	advmod	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	comida	comida	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	simpatica	simpatico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	hija	hija	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	pájaros	pájaro	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	perros	perro	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*City*	PROPN	_	_	2	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	China	China	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	calor	calor	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	camisa	camisa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	morada	morado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	pantalones	pantalón	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+9	negros	negro	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dormir	dormir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	dormir	dormir	VERB	_	VerbForm=Inf	4	conj	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	porque	porque	SCONJ	_	_	13	mark	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	vieja	viejo	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	tambien	tambien	ADV	_	_	4	advmod	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sol	sol	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	porque	porque	SCONJ	_	_	10	mark	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	frio	frio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	casada	casado	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	color	color	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	amarillo	amarillo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rojo	rojo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	huevos	huevo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	tomate	tomate	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	visito	visitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	veranos	verano	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

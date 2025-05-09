@@ -1,0 +1,213 @@
+# Unnamed: 0 = 44
+# id = 229444
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Esta historia comenzar en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque []{el}<ab:det:art:def> coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío llevó a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero [ella]{}<pr:su:pron> sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Esta historia [comenzar]{comienza}<fs:st:t> en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque []{el}<ab:det:art:def> coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío [llevó]{llevaron}<fs:st:pn> a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero [ella]{}<pr:su:pron> sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# verbs annotation ann2 = nan
+# corrected1 = Esta historia comienza en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos por el coronavirus. Mi familia decidió que se mudarían con nosotros a *STATE*. Mi tía y tío llevaron a mis abuelos a nuestra casa. Mi abuela tiene demencia y mi abuelo tiene Alzheimer. Mi abuela siempre está confundida pero sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo sigue alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de ella y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# corrected2 = nan
+# text = Esta historia comenzar en abril. Mis abuelos vivían en *CITY* en ese momento. Estaban muy solos porque coronavirus. Mi familia decidimos que se mudarían con nosotros en *STATE*. Mi tía y tío llevó a mis abuelos a nuestra casa. Mi abuela tiene dimentia y mi abuelo tiene Alzheimer's. Mi abuela siempre está confundida pero ella sabe quiénes somos. Mi abuelo no sabe quiénes somos. Pero siempre sabe quién es mi abuela. Siempre la revisa y le ofrece cosas para que se sienta más cómoda. Después de unos meses mi abuela se trasladó a una instalación pero mi abuelo alojado con nosotros. Cuando vamos a visitarla mi abuelo se emociona. La última vez que fuimos dijo “¡Esa es mi esposa!”. Creo que esta es una hermosa historia porque siempre se acuerda de su y siempre cuida de ella. Estoy contenta porque siempre recordaré lo mucho que mi abuelo ama a mi abuela.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Esta	este	DET	_	_	2	det	_	_
+2	historia	historia	NOUN	_	_	3	nsubj	_	_
+3	comenzar	comenzar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	abril	abril	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	abuelos	abuelo	NOUN	_	_	3	nsubj	_	_
+3	vivían	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	ese	ese	DET	_	_	8	det	_	_
+8	momento	momento	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estaban	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	solos	solo	ADJ	_	_	0	ROOT	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	coronavirus	coronaviru	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	3	nsubj	_	_
+3	decidimos	decidir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	mudarían	mudarir	VERB	_	_	3	ccomp	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	nosotros	yo	PRON	_	_	6	obl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*STATE*	STATE	PROPN	_	_	6	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	tía	tía	NOUN	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tío	tío	NOUN	_	_	2	conj	_	_
+5	llevó	llevar	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	abuelos	abuelo	NOUN	_	_	5	obl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	nuestra	nuestro	DET	_	_	11	det	_	_
+11	casa	casa	NOUN	_	_	5	obl	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	dimentia	dimentia	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	abuelo	abuelo	NOUN	_	_	8	nsubj	_	_
+8	tiene	tener	VERB	_	_	3	conj	_	_
+9	Alzheimer's	Alzheimer's	PROPN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuela	abuela	NOUN	_	_	5	nsubj	_	_
+3	siempre	siempre	ADV	_	_	5	advmod	_	_
+4	está	estar	AUX	_	_	5	cop	_	_
+5	confundida	confundido	ADJ	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	ella	él	PRON	_	_	8	nsubj	_	_
+8	sabe	saber	VERB	_	_	5	conj	_	_
+9	quiénes	quién	PRON	_	_	8	obj	_	_
+10	somos	ser	AUX	_	_	5	advmod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abuelo	abuelo	NOUN	_	_	4	nsubj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	sabe	saber	VERB	_	_	0	ROOT	_	_
+5	quiénes	quién	PRON	_	_	4	obj	_	_
+6	somos	ser	AUX	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	sabe	saber	VERB	_	_	0	ROOT	_	_
+4	quién	quién	PRON	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	abuela	abuela	NOUN	_	_	3	ccomp	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	revisa	revisa	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	ofrece	ofrecer	VERB	_	_	3	conj	_	_
+7	cosas	cosa	NOUN	_	_	6	obj	_	_
+8	para	para	ADP	_	_	11	mark	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	se	él	PRON	_	_	11	expl:pass	_	_
+11	sienta	sentar	VERB	_	_	6	advcl	_	_
+12	más	más	ADV	_	_	13	advmod	_	_
+13	cómoda	cómodo	ADJ	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Después	después	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	unos	uno	DET	_	_	4	det	_	_
+4	meses	mes	NOUN	_	_	1	obl	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	abuela	abuela	NOUN	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pv	_	_
+8	trasladó	trasladar	VERB	_	_	0	ROOT	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	instalación	instalación	NOUN	_	_	8	obl	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	abuelo	abuelo	NOUN	_	_	11	conj	_	_
+15	alojado	alojado	ADJ	_	_	14	amod	_	_
+16	con	con	ADP	_	_	17	case	_	_
+17	nosotros	yo	PRON	_	_	15	obl	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	vamos	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	visitarla	visitar él	VERB	_	_	8	advcl	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	abuelo	abuelo	NOUN	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pv	_	_
+8	emociona	emocionar	VERB	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	La	el	DET	_	_	3	det	_	_
+2	última	último	ADJ	_	_	3	amod	_	_
+3	vez	vez	NOUN	_	_	6	obl	_	_
+4	que	que	PRON	_	_	5	obl	_	_
+5	fuimos	ir	VERB	_	_	3	acl	_	_
+6	dijo	decir	VERB	_	_	0	ROOT	_	_
+7	“	“	PROPN	_	_	6	nsubj	_	_
+8	¡	¡	PUNCT	_	_	12	punct	_	_
+9	Esa	ese	PRON	_	_	12	nsubj	_	_
+10	es	ser	AUX	_	_	12	cop	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	esposa	esposa	NOUN	_	_	6	advcl	_	_
+13	!	!	PUNCT	_	_	12	punct	_	_
+14	”	”	PUNCT	_	_	6	punct	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	esta	este	PRON	_	_	7	nsubj	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	una	uno	DET	_	_	7	det	_	_
+6	hermosa	hermoso	ADJ	_	_	7	amod	_	_
+7	historia	historia	NOUN	_	_	1	ccomp	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	siempre	siempre	ADV	_	_	11	advmod	_	_
+10	se	él	PRON	_	_	11	expl:pv	_	_
+11	acuerda	acordar	VERB	_	_	7	advcl	_	_
+12	de	de	ADP	_	_	16	case	_	_
+13	su	su	DET	_	_	16	det	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	siempre	siempre	ADV	_	_	16	advmod	_	_
+16	cuida	cuido	ADJ	_	_	11	amod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	ella	él	PRON	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	Estoy	PROPN	_	_	2	nsubj	_	_
+2	contenta	contentar	VERB	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	siempre	siempre	ADV	_	_	5	advmod	_	_
+5	recordaré	recordar	VERB	_	_	2	advcl	_	_
+6	lo	él	PRON	_	_	11	det	_	_
+7	mucho	mucho	ADV	_	_	6	fixed	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	abuelo	abuelo	NOUN	_	_	11	nsubj	_	_
+11	ama	amar	VERB	_	_	5	ccomp	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	abuela	abuela	NOUN	_	_	11	obj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+

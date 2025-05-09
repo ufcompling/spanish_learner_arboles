@@ -1,0 +1,264 @@
+# Unnamed: 0 = 134
+# id = 235883
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Me encanta escuchar las viejas historias de mi mamá sobre su vida. [Nosotras]{}<pr:su:pron> nos estaríamos hablando toda la noche. Esas noches son asombrosas. Por mucho que me gustan sus historias, me quedaría despierto toda la noche. Ella me cuenta la historia de su vida temprana cuando era niña hasta que se casó con mi papá. Cuando mi mamá era joven [ella]{}<pr:su:pron> vivía con su madrastra que la hacía trabajar mucho porque [ella]{}<pr:su:pron> no amaba a mi mamá. [Ella]{}<pr:su:pron> fue golpeada por su madrastra muchas veces. Lo siento por mamá. A diferencia de hoy, no había tecnología en ese entonces, pero en ese entonces los niños del vecindario solían reunirse por la noche para jugar juntos. Suena muy divertido. También me habla de su padre, a quien nunca tengo la oportunidad de conocer. Ella me dice que fue el mejor papá del mundo y unos buenos momentos con su papá. Me dan ganas de conocerlo una vez pero ya no puedo. Sus historias son preciosas para mi. Me ayuda a apreciar mi vida, ya que es mucho mejor que la de ella. Estas noches de narración de historias son tan hermosas y significativas para mí. Lo amo tanto.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Me encanta escuchar las viejas historias de mi mamá sobre su vida. [Nosotras]{}<pr:su:pron> nos estaríamos hablando toda la noche. Esas noches son asombrosas. Por mucho que me gustan sus historias, me quedaría despierto toda la noche. [Ella]{}<pr:su:pron> me cuenta la historia de su vida temprana cuando era niña hasta que se casó con mi papá. Cuando mi mamá era joven [ella]{}<pr:su:pron> vivía con su madrastra que la hacía trabajar mucho porque [ella]{}<pr:su:pron> no amaba a mi mamá. [Ella]{}<pr:su:pron> fue golpeada por su madrastra muchas veces. Lo siento por mamá. A diferencia de hoy, no había tecnología en ese entonces, pero en ese entonces los niños del vecindario solían reunirse por la noche para jugar juntos. Suena muy divertido. También me habla de su padre, a quien nunca tengo la oportunidad de conocer. [Ella]{}<pr:su:pron> me dice que fue el mejor papá del mundo y unos buenos momentos con su papá. Me dan ganas de conocerlo una vez pero ya no puedo. Sus historias son preciosas para mi. Me ayuda a apreciar mi vida, ya que es mucho mejor que la de ella. Estas noches de narración de historias son tan hermosas y significativas para mí. Lo amo tanto.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Me encanta escuchar las viejas historias de mi mamá sobre su vida. Estaríamos hablando toda la noche. Esas noches son asombrosas. Por lo mucho que me gustan sus historias, me quedaría despierto toda la noche. Ella me cuenta la historia de su vida temprana cuando era niña hasta que se casó con mi papá. Cuando mi mamá era joven vivía con su madrastra que la hacía trabajar mucho porque no amaba a mi mamá. Fue golpeada por su madrastra muchas veces. Lo siento por mamá. A diferencia de hoy, no había tecnología en ese entonces, pero en ese entonces los niños del vecindario solían reunirse por la noche para jugar juntos. Suena muy divertido. También me habla de su padre, a quien nunca tuve la oportunidad de conocer. Ella me dice que fue el mejor papá del mundo y unos buenos momentos con su papá. Me dan ganas de conocerlo una vez, pero ya no puedo. Sus historias son preciosas para mi. Me ayuda a apreciar mi vida, ya que es mucho mejor que la de ella. Estas noches de narración de historias son tan hermosas y significativas para mí. Lo amo tanto. 
+# corrected2 = nan
+# text = Me encanta escuchar las viejas historias de mi mamá sobre su vida. Nosotras nos estaríamos hablando toda la noche. Esas noches son asombrosas. Por mucho que me gustan sus historias, me quedaría despierto toda la noche. Ella me cuenta la historia de su vida temprana cuando era niña hasta que se casó con mi papá. Cuando mi mamá era joven ella vivía con su madrastra que la hacía trabajar mucho porque ella no amaba a mi mamá. Ella fue golpeada por su madrastra muchas veces. Lo siento por mamá. A diferencia de hoy, no había tecnología en ese entonces, pero en ese entonces los niños del vecindario solían reunirse por la noche para jugar juntos. Suena muy divertido. También me habla de su padre, a quien nunca tengo la oportunidad de conocer. Ella me dice que fue el mejor papá del mundo y unos buenos momentos con su papá. Me dan ganas de conocerlo una vez pero ya no puedo. Sus historias son preciosas para mi. Me ayuda a apreciar mi vida, ya que es mucho mejor que la de ella. Estas noches de narración de historias son tan hermosas y significativas para mí. Lo amo tanto.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escuchar	escuchar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	viejas	viejo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+6	historias	historia	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	sobre	sobre	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotras	nosotro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	4	nsubj	_	_
+2	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+3	estaríamos	estar	AUX	_	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	4	aux	_	_
+4	hablando	hablar	VERB	_	VerbForm=Ger	0	root	_	_
+5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	6	det	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	noche	noche	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esas	ese	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	noches	noche	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	asombrosas	asombroso	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Por	por	ADP	_	_	5	mark	_	_
+2	mucho	mucho	ADV	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+6	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	historias	historia	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	quedaría	quedar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+11	despierto	despierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	obj	_	_
+12	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	noche	noche	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	historia	historia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	temprana	temprano	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	cuando	cuando	SCONJ	_	_	12	mark	_	_
+11	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+12	niña	niña	NOUN	_	Gender=Fem|Number=Sing	3	advcl	_	_
+13	hasta	hasta	ADP	_	_	16	mark	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	casó	casar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	papá	papá	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	5	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	joven	joven	ADJ	_	Number=Sing	7	advcl	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	madrastra	madrastra	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+12	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
+14	trabajar	trabajar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+15	mucho	mucho	ADV	_	_	13	advmod	_	_
+16	porque	porque	SCONJ	_	_	19	mark	_	_
+17	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+18	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
+19	amaba	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+20	a	a	ADP	_	_	22	case	_	_
+21	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
+22	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	golpeada	golpear	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	madrastra	madrastra	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	8	det	_	_
+8	veces	vez	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	4	case	_	_
+2	diferencia	diferencia	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	hoy	hoy	ADV	_	_	7	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	entonces	entonces	ADV	_	Gender=Masc|Number=Sing	7	advmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+13	pero	pero	CCONJ	_	_	21	cc	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	entonces	entonces	ADV	_	Gender=Masc|Number=Sing	21	advmod	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	niños	niño	NOUN	_	Gender=Masc|Number=Plur	21	nsubj	_	_
+19	del	de	ADP	_	_	20	case	_	_
+20	vecindario	vecindario	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
+21	solían	soler	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+22	reunirse	reunir	VERB	_	VerbForm=Inf	21	xcomp	_	_
+23	por	por	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	noche	noche	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
+26	para	para	ADP	_	_	27	mark	_	_
+27	jugar	jugar	VERB	_	VerbForm=Inf	22	advcl	_	_
+28	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	27	obj	_	_
+29	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Suena	sonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	padre	padre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	quien	quien	PRON	_	Number=Sing|PronType=Rel	11	obl	_	_
+10	nunca	nunca	ADV	_	_	11	advmod	_	_
+11	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	oportunidad	oportunidad	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	de	de	ADP	_	_	15	mark	_	_
+15	conocer	conocer	VERB	_	VerbForm=Inf	13	acl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	8	amod	_	_
+8	papá	papá	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
+14	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	papá	papá	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	dan	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ganas	gana	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	conocerlo	conocer	VERB	_	VerbForm=Inf	3	acl	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vez	vez	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	ya	ya	ADV	_	_	11	advmod	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	puedo	poder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	historias	historia	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	preciosas	precioso	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	apreciar	apreciar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	ya	ya	ADV	_	_	12	mark	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	mucho	mucho	ADV	_	_	12	advmod	_	_
+12	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	2	advcl	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+15	de	de	ADP	_	_	14	case	_	_
+16	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	noches	noche	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	narración	narración	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	historias	historia	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	tan	tanto	ADV	_	_	9	advmod	_	_
+9	hermosas	hermoso	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	significativas	significativo	ADJ	_	Gender=Fem|Number=Plur	9	conj	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	9	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tanto	tanto	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

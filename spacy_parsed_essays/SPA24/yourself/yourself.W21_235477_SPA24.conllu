@@ -1,0 +1,335 @@
+# Unnamed: 0 = 121
+# id = 235477
+# prompt = yourself
+# quarter = W21
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Other
+# language(s) used at home = 3
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Comfortable
+# writing ability = Extremely comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME* *LAST_NAME* and soy *PLACE*, del lados de ambos padres. Hablo dos idiomas, inglés y farsi. Espero que podría aprender más idiomas en el futuro y especialmente ser fluente en español. Fui criado en el *PLACE* de *CITY* *CITY*, *STATE*. Tengo una hermana se llama *FIRST_NAME* y dos perros. Soy una persona muy orientado a la familia y me importa mucha la escuela y mi futura. Soy muy independiente y no tengo un montón de amigos, solo 2 o 3 amigos que puede contar con ellas siempre. Me considero una persona muy organizada, gestiono bien mi tiempo y curiosa. También, soy una persona muy atlética, y jugaba muchas deportes en mi vida, especialmente básquetbol y fútbol; mis favoritos deportes para jugar son deportes de contacto. Algunas de mis favoritos recuerdos con mi familia son mirando el FIFA Mundial cada cuatro años. Además, me gusta estar afuera en la naturaleza, y viajar a las países tropicales, especialmente Costa Rica y Hawaii. Con mi familia, he viajado a las 9 o 10 países. En el futuro, yo quiero viajar a más lugares para que podría experimentar más culturas, comida, y aprender más idiomas. Algunas cosas que cambiará sobre mí son mi tendencia a dejar cuando algo me pone difícil y mi confianza en mis habilidades. Algunos de mi temores incluyen alturas, las serpientes, y las heridas en mis rodillas debido a un montón de problemas y heridas a mis rodillas en el pasado. ¡Estoy emocionado a aprender más español en las clases futuras en *UNIVERSITY* *UNIVERSITY*!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	llamo	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+4	*LAST_NAME*	LAST_NAME	PROPN	_	_	5	case	_	_
+5	and	and	NOUN	_	_	3	flat	_	_
+6	soy	ser	AUX	_	_	7	cop	_	_
+7	*PLACE*	PLACE	PROPN	_	_	2	nsubj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	lados	lados	NOUN	_	_	7	nmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	ambos	ambos	NUM	_	_	13	nummod	_	_
+13	padres	padre	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hablo	Hablo	PROPN	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	idiomas	idioma	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	inglés	inglés	NOUN	_	_	3	appos	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	farsi	farsi	NOUN	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	podría	poder	AUX	_	_	4	aux	_	_
+4	aprender	aprender	VERB	_	_	1	xcomp	_	_
+5	más	más	ADV	_	_	6	advmod	_	_
+6	idiomas	idioma	NOUN	_	_	4	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	futuro	futuro	NOUN	_	_	4	obl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	especialmente	especialmente	ADV	_	_	13	advmod	_	_
+12	ser	ser	AUX	_	_	13	cop	_	_
+13	fluente	fluente	ADJ	_	_	4	conj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	español	español	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fui	ir	AUX	_	_	2	aux	_	_
+2	criado	criar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*PLACE*	PLACE	PROPN	_	_	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	5	flat	_	_
+8	*CITY*	CITY	PROPN	_	_	7	flat	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	*STATE*	STATE	PROPN	_	_	2	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	hermana	hermana	NOUN	_	_	1	obj	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	1	advcl	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	perros	perro	NOUN	_	_	1	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	persona	persona	NOUN	_	_	0	ROOT	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	orientado	orientado	ADJ	_	_	3	amod	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	familia	familia	NOUN	_	_	5	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	importa	importar	VERB	_	_	3	conj	_	_
+12	mucha	mucho	DET	_	_	14	det	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	escuela	escuela	NOUN	_	_	11	nsubj	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	futura	futura	NOUN	_	_	14	conj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	independiente	independiente	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	tengo	tener	VERB	_	_	3	conj	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	montón	montón	NOUN	_	_	16	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	amigos	amigo	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	solo	solo	ADV	_	_	13	advmod	_	_
+13	2	2	NUM	_	_	16	nummod	_	_
+14	o	o	CCONJ	_	_	15	cc	_	_
+15	3	3	NUM	_	_	13	conj	_	_
+16	amigos	amigo	NOUN	_	_	6	obj	_	_
+17	que	que	PRON	_	_	19	nsubj	_	_
+18	puede	poder	AUX	_	_	19	aux	_	_
+19	contar	contar	VERB	_	_	16	acl	_	_
+20	con	con	ADP	_	_	21	case	_	_
+21	ellas	él	PRON	_	_	19	obj	_	_
+22	siempre	siempre	ADV	_	_	19	advmod	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	considero	considerar	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	2	nsubj	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	organizada	organizado	ADJ	_	_	4	amod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	gestiono	gestionar	VERB	_	_	2	advcl	_	_
+9	bien	bien	ADV	_	_	8	advmod	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	tiempo	tiempo	NOUN	_	_	8	obj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	curiosa	curioso	ADJ	_	_	11	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	soy	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	28	nsubj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	atlética	atlético	ADJ	_	_	5	amod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	jugaba	jugar	VERB	_	_	5	conj	_	_
+11	muchas	mucho	DET	_	_	12	det	_	_
+12	deportes	deporte	NOUN	_	_	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	vida	vida	NOUN	_	_	10	obl	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	especialmente	especialmente	ADV	_	_	18	advmod	_	_
+18	básquetbol	básquetbol	NOUN	_	_	10	obj	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	fútbol	fútbol	NOUN	_	_	18	conj	_	_
+21	;	;	PUNCT	_	_	23	punct	_	_
+22	mis	mi	DET	_	_	23	det	_	_
+23	favoritos	favorito	NOUN	_	_	28	nsubj	_	_
+24	deportes	deporte	NOUN	_	_	23	amod	_	_
+25	para	para	ADP	_	_	26	mark	_	_
+26	jugar	jugar	VERB	_	_	23	acl	_	_
+27	son	ser	AUX	_	_	28	cop	_	_
+28	deportes	deporte	NOUN	_	_	0	ROOT	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	contacto	contacto	NOUN	_	_	28	nmod	_	_
+31	.	.	PUNCT	_	_	28	punct	_	_
+
+1	Algunas	alguno	PRON	_	_	10	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	favoritos	favorito	NOUN	_	_	1	nmod	_	_
+5	recuerdos	recuerdo	NOUN	_	_	4	amod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	familia	familia	NOUN	_	_	5	nmod	_	_
+9	son	ser	AUX	_	_	10	aux	_	_
+10	mirando	mirar	VERB	_	_	0	ROOT	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	FIFA	FIFA	PROPN	_	_	10	obj	_	_
+13	Mundial	Mundial	PROPN	_	_	12	flat	_	_
+14	cada	cada	DET	_	_	16	det	_	_
+15	cuatro	cuatro	NUM	_	_	14	nummod	_	_
+16	años	año	NOUN	_	_	10	obl	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	estar	estar	AUX	_	_	6	cop	_	_
+6	afuera	afuero	ADJ	_	_	4	csubj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	naturaleza	naturaleza	NOUN	_	_	6	obl	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	viajar	viajar	VERB	_	_	6	conj	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	las	el	DET	_	_	15	det	_	_
+15	países	país	NOUN	_	_	12	obl	_	_
+16	tropicales	tropical	ADJ	_	_	15	amod	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	especialmente	especialmente	ADV	_	_	19	advmod	_	_
+19	Costa	Costa	PROPN	_	_	15	appos	_	_
+20	Rica	Rica	PROPN	_	_	19	flat	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	Hawaii	Hawaii	PROPN	_	_	19	conj	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Con	con	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	he	haber	AUX	_	_	6	aux	_	_
+6	viajado	viajar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	9	9	NUM	_	_	6	obl	_	_
+10	o	o	CCONJ	_	_	11	cc	_	_
+11	10	10	NUM	_	_	12	nummod	_	_
+12	países	país	NOUN	_	_	6	obj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	futuro	futuro	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	quiero	querer	VERB	_	_	0	ROOT	_	_
+7	viajar	viajar	VERB	_	_	6	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	más	más	ADV	_	_	10	advmod	_	_
+10	lugares	lugar	NOUN	_	_	7	obl	_	_
+11	para	para	ADP	_	_	14	mark	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	podría	poder	AUX	_	_	14	aux	_	_
+14	experimentar	experimentar	VERB	_	_	7	advcl	_	_
+15	más	más	ADV	_	_	16	advmod	_	_
+16	culturas	cultura	NOUN	_	_	14	obj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	comida	comida	NOUN	_	_	16	appos	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	aprender	aprender	VERB	_	_	14	conj	_	_
+22	más	más	ADV	_	_	23	advmod	_	_
+23	idiomas	idioma	NOUN	_	_	21	obj	_	_
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Algunas	alguno	DET	_	_	2	det	_	_
+2	cosas	cosa	NOUN	_	_	9	nsubj	_	_
+3	que	que	PRON	_	_	4	obj	_	_
+4	cambiará	cambiar	VERB	_	_	2	acl	_	_
+5	sobre	sobre	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	4	obl	_	_
+7	son	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	tendencia	tendencia	NOUN	_	_	0	ROOT	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	dejar	dejar	VERB	_	_	9	acl	_	_
+12	cuando	cuando	SCONJ	_	_	15	mark	_	_
+13	algo	algo	PRON	_	_	15	nsubj	_	_
+14	me	yo	PRON	_	_	15	obj	_	_
+15	pone	poner	VERB	_	_	11	ccomp	_	_
+16	difícil	difícil	ADJ	_	_	15	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	confianza	confianza	NOUN	_	_	16	conj	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	mis	mi	DET	_	_	22	det	_	_
+22	habilidades	habilidad	NOUN	_	_	19	nmod	_	_
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Algunos	alguno	PRON	_	_	5	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	temores	temor	NOUN	_	_	1	nmod	_	_
+5	incluyen	incluir	VERB	_	_	0	ROOT	_	_
+6	alturas	altura	NOUN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	serpientes	serpiente	NOUN	_	_	6	appos	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	las	el	DET	_	_	13	det	_	_
+13	heridas	herida	NOUN	_	_	6	conj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	mis	mi	DET	_	_	16	det	_	_
+16	rodillas	rodilla	NOUN	_	_	13	nmod	_	_
+17	debido	debido	ADJ	_	_	20	case	_	_
+18	a	a	ADP	_	_	17	fixed	_	_
+19	un	uno	DET	_	_	20	det	_	_
+20	montón	montón	NOUN	_	_	5	obl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	problemas	problema	NOUN	_	_	20	nmod	_	_
+23	y	y	CCONJ	_	_	24	cc	_	_
+24	heridas	herido	ADJ	_	_	22	conj	_	_
+25	a	a	ADP	_	_	27	case	_	_
+26	mis	mi	DET	_	_	27	det	_	_
+27	rodillas	rodilla	NOUN	_	_	20	nmod	_	_
+28	en	en	ADP	_	_	30	case	_	_
+29	el	el	DET	_	_	30	det	_	_
+30	pasado	pasado	NOUN	_	_	20	nmod	_	_
+31	.	.	PUNCT	_	_	5	punct	_	_
+
+1	¡	¡	PUNCT	_	_	3	punct	_	_
+2	Estoy	estar	AUX	_	_	3	cop	_	_
+3	emocionado	emocionado	ADJ	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	aprender	aprender	VERB	_	_	3	xcomp	_	_
+6	más	más	ADV	_	_	7	advmod	_	_
+7	español	español	ADJ	_	_	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	clases	clase	NOUN	_	_	5	obl	_	_
+11	futuras	futuro	ADJ	_	_	10	amod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	obl	_	_
+14	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	13	flat	_	_
+15	!	!	PUNCT	_	_	3	punct	_	_
+

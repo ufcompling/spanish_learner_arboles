@@ -1,0 +1,128 @@
+# Unnamed: 0 = 152
+# id = 145417
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = 19
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Chinese(Mandarin)
+# language(s) studied = Chinese(Cantonese): 3 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = La primera cosa que voy a hacer es aplicar un trabajo como un ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad de cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayoría de parte asiático de rusia. Esta vez, quiero ver y sentir el encanto diferencia de rusia. Voy a las catedrales y estudiar las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me gusta las operas. 
+# a personal annotator2 = La primera cosa que voy a hacer es aplicar un trabajo como un ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad de cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayoría de parte asiático de rusia. Esta vez, quiero ver y sentir el encanto diferencia de rusia. Voy a las catedrales y estudiar las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me gusta las operas. 
+# gender-number annotator1 = La primera cosa que voy a hacer es aplicar un trabajo como un ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad de cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayoría de parte [asiático]{asiática}<ga:fm:adj:inan> de rusia. Esta vez, quiero ver y sentir el encanto diferencia de rusia. Voy a las catedrales y estudiar las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me gusta las operas. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = La primera cosa que voy a hacer es aplicar un trabajo como [un]{}<pr:det:art:indef> ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad de cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayoría de []{la}<ab:det:art:def> parte [asiático]{asiática}<ga:adj> de rusia. Esta vez, quiero ver y sentir el encanto diferencia de rusia. [Voy]{Iré}<fs:st:t> a las catedrales y [estudiar]{estudiaré}<fs:st:t> las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me [gusta]{gustan}<fs:st:pn> las operas.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = La primera cosa que voy a hacer es aplicar para un trabajo como ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayor parte asiática de Rusia. Esta vez, quiero ver y sentir el encanto diferente de Rusia. Voy a las catedrales y estudiar las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me gustan las óperas.
+# corrected2 = nan
+# text = La primera cosa que voy a hacer es aplicar un trabajo como un ayudante de cocinero. Siempre me gusta cocinar y quiero mejorar mi habilidad de cocinando. También quiero viajar a Moscú y San Petersburgo. Porque viajé a la mayoría de parte asiático de rusia. Esta vez, quiero ver y sentir el encanto diferencia de rusia. Voy a las catedrales y estudiar las historias atrás de la arquitectura. Mientras tanto, voy a practicar cantar y leer tres libros. Me gusta las operas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	3	det	_	_
+2	primera	primero	ADJ	_	_	3	amod	_	_
+3	cosa	cosa	NOUN	_	_	8	nsubj	_	_
+4	que	que	PRON	_	_	7	obj	_	_
+5	voy	ir	AUX	_	_	7	aux	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	hacer	hacer	VERB	_	_	3	acl	_	_
+8	es	ser	AUX	_	_	0	ROOT	_	_
+9	aplicar	aplicar	VERB	_	_	8	ccomp	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	trabajo	trabajo	NOUN	_	_	9	obj	_	_
+12	como	como	SCONJ	_	_	14	mark	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	ayudante	ayudante	NOUN	_	_	9	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	cocinero	cocinero	NOUN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	cocinar	cocinar	VERB	_	_	3	csubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiero	querer	VERB	_	_	3	conj	_	_
+7	mejorar	mejorar	VERB	_	_	6	xcomp	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	habilidad	habilidad	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	cocinando	cocinar	VERB	_	_	9	acl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Moscú	Moscú	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	San	San	PROPN	_	_	5	conj	_	_
+8	Petersburgo	Petersburgo	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Porque	porque	SCONJ	_	_	2	mark	_	_
+2	viajé	viajer	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	mayoría	mayoría	NOUN	_	_	2	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	parte	parte	NOUN	_	_	5	nmod	_	_
+8	asiático	asiático	ADJ	_	_	7	amod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	rusia	rusia	PROPN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	vez	vez	NOUN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	quiero	querer	VERB	_	_	0	ROOT	_	_
+5	ver	ver	VERB	_	_	4	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	sentir	sentir	VERB	_	_	5	conj	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	encanto	encanto	NOUN	_	_	5	obj	_	_
+10	diferencia	diferencia	NOUN	_	_	9	amod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	rusia	rusia	PROPN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Voy	ir	AUX	_	_	4	cop	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	catedrales	catedral	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	estudiar	estudiar	VERB	_	_	4	conj	_	_
+7	las	el	DET	_	_	8	det	_	_
+8	historias	historia	NOUN	_	_	6	obj	_	_
+9	atrás	atrás	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	arquitectura	arquitectura	NOUN	_	_	8	nmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mientras	mientras	CCONJ	_	_	6	advmod	_	_
+2	tanto	tanto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	voy	ir	AUX	_	_	6	aux	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	practicar	practicar	VERB	_	_	0	ROOT	_	_
+7	cantar	cantar	VERB	_	_	6	xcomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	leer	leer	VERB	_	_	7	conj	_	_
+10	tres	tres	NUM	_	_	11	nummod	_	_
+11	libros	libro	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	operas	opera	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+

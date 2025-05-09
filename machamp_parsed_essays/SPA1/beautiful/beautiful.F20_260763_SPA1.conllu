@@ -1,0 +1,228 @@
+# Unnamed: 0 = 63
+# id = 260763
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = 1
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo [es]{era}<fs:st:t> nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía [me quedo]{me quedé}<fs:st:t> en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me [obliga]{obligó}<fs:st:t> a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual [es]{fue}<fs:st:t> tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* [es]{será}<fs:st:t> siempre uno de los lugares más importantes para mí.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* a los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar, escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí. 
+# corrected2 = nan
+# text = La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	3	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	entre	entre	ADP	_	_	10	case	_	_
+10	*CITY*	*City*	PROPN	_	_	16	punct	_	_
+11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	_
+14	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Vine	viner	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*PLACE*	*place*	PROPN	_	_	1	obj	_	_
+4	*PLACE*	*place*	SYM	_	_	3	punct	_	_
+5	desde	desde	ADP	_	_	8	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	*AGE*	*age*	PUNCT	_	_	8	punct	_	_
+8	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	12	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	emocionado	emocionado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	vivir	vivir	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	estudiar	estudiar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	escuchar	escuchar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	transferí	transferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	vez	vez	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	durante	durante	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	todavía	todavía	ADV	_	_	13	advmod	_	_
+12	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	quedo	quedar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	*city*	PROPN	_	_	13	dep	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tanto	tanto	ADV	_	_	1	advmod	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	1	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	fines	fin	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	salgo	saler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*PLACE*	*Place*	PROPN	_	_	7	dep	_	_
+13	*PLACE*	*place*	PUNCT	_	_	12	punct	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+17	caminar	caminar	VERB	_	VerbForm=Inf	16	csubj	_	_
+18	por	por	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	orilla	orilla	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	del	de	ADP	_	_	22	case	_	_
+22	río	río	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+23	NAME	NAME	PROPN	_	_	22	appos	_	_
+24	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	familiaricé	familiaricar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cada	cada	DET	_	Number=Sing|PronType=Tot	4	det	_	_
+4	vez	vez	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+5	más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	sentimiento	sentimiento	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	profundo	profundo	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	_
+16	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+18	porque	porque	SCONJ	_	_	20	mark	_	_
+19	aquí	aquí	ADV	_	_	20	advmod	_	_
+20	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+21	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
+22	recuerdos	recuerdo	NOUN	_	Gender=Masc|Number=Plur	20	nsubj	_	_
+23	de	de	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	_
+26	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	2020	2020	NOUN	_	AdvType=Tim	7	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	covid-19	covid-19	NOUN	_	_	7	nsubj	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	obliga	obligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	volver	volver	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	*PLACE*	*place*	PUNCT	_	_	9	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	boleto	boleto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	avión	avión	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	día	día	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+8	antes	antes	ADV	_	_	1	advmod	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	partir	partir	VERB	_	VerbForm=Inf	8	advcl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+12	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
+13	cual	cual	PRON	_	Number=Sing|PronType=Rel	16	nsubj	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	tan	tanto	ADV	_	_	16	advmod	_	_
+16	inesperado	inesperado	ADJ	_	Gender=Masc|Number=Sing	1	advcl	_	_
+17	para	para	ADP	_	_	18	case	_	_
+18	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	16	obl	_	_
+19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+20	y	y	CCONJ	_	_	23	cc	_	_
+21	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+22	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux	_	_
+23	imaginarme	imaginar	VERB	_	VerbForm=Inf	16	conj	_	_
+24	que	que	SCONJ	_	_	26	mark	_	_
+25	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	26	obl	_	_
+26	iría	ir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	23	ccomp	_	_
+27	mañana	mañana	ADV	_	_	26	advmod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
+3	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+12	aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+14	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	conocí	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	conj	_	_
+20	a	a	ADP	_	_	22	case	_	_
+21	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	22	det	_	_
+22	gente	gente	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
+23	interesante	interesante	ADJ	_	Number=Sing	22	amod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	4	dep	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	importantes	importante	ADJ	_	Number=Plur	7	amod	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

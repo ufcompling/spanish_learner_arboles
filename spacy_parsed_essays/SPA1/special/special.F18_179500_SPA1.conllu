@@ -1,0 +1,127 @@
+# Unnamed: 0 = 223
+# id = 179500
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = I havent studied other languages
+# listening comprehension = 1.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Una persona especial es mi madre. Mi madre vive en *STATE* y trabaja [por]{para}<conf:prep:popa> *UNIVERSITY*. [Ella]{}<pr:su:pron> tiene el pelo rubio y los ojos [azul]{azules}<na:adj>. Se gusta practicar deportes y leer muchos libros. También [ella]{}<pr:su:pron> gusta caminar en el parque con [su]{sus}<na:det> amigos. [Ella]{}<pr:su:pron> es simpatica, divertida, pero un poco seria. She is very helpful and is always interested in my golf competitions. She is *AGE* yrs old and her birthday is on september 5th. She likes dogs and cats.
+# updated annotation ann2 = Una persona especial es mi madre. Mi madre vive en *STATE* y trabaja por *UNIVERSITY*. [Ella]{}<pr:su:pron> tiene el pelo rubio y los ojos azul. Se gusta practicar deportes y leer muchos libros. También ella gusta caminar en el parque con [su]{sus}<na:det> amigos. [Ella]{}<pr:su:pron> es simpatica, divertida, pero un poco seria. She is very helpful and is always interested in my golf competitions. She is *AGE* yrs old and her birthday is on september 5th. She likes dogs and cats.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial es mi madre. Mi madre vive en *STATE* y trabaja en *UNIVERSITY*. Tiene el pelo rubio y los ojos azul. Le gusta practicar deportes y leer muchos libros. También le gusta caminar en el parque con sus amigos. Es simpática, divertida, pero un poco seria. Ella es muy servicial y siempre está interesada en mis competiciones de golf. Tiene *AGE* años y su cumpleaños es el 5 de septiembre. Le gustan los perros y los gatos. 
+# corrected2 = nan
+# text = Una persona especial es mi madre. Mi madre vive en *STATE* y trabaja por *UNIVERSITY*. Ella tiene el pelo rubio y los ojos azul. Se gusta practicar deportes y leer muchos libros. También ella gusta caminar en el parque con su amigos. Ella es simpatica, divertida, pero un poco seria. She is very helpful and is always interested in my golf competitions. She is *AGE* yrs old and her birthday is on september 5th. She likes dogs and cats.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	6	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	madre	madre	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*STATE*	STATE	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabaja	trabajar	VERB	_	_	3	conj	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	rubio	rubio	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	ojos	ojo	NOUN	_	_	4	conj	_	_
+9	azul	azul	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	practicar	practicar	VERB	_	_	2	csubj	_	_
+4	deportes	deporte	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	leer	leer	VERB	_	_	3	conj	_	_
+7	muchos	mucho	DET	_	_	8	det	_	_
+8	libros	libro	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	ella	él	PRON	_	_	3	nsubj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	caminar	caminar	VERB	_	_	3	xcomp	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	parque	parque	NOUN	_	_	4	obj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	amigos	amigo	NOUN	_	_	4	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	simpatica	simpatico	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	divertida	divertido	ADJ	_	_	3	amod	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	un	uno	DET	_	_	10	advmod	_	_
+9	poco	poco	ADV	_	_	8	fixed	_	_
+10	seria	serio	ADJ	_	_	3	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	She	She	PROPN	_	_	3	nsubj	_	_
+2	is	is	PROPN	_	_	1	flat	_	_
+3	very	very	PROPN	_	_	0	ROOT	_	_
+4	helpful	helpful	NOUN	_	_	3	obj	_	_
+5	and	and	PROPN	_	_	4	compound	_	_
+6	is	is	AUX	_	_	3	obj	_	_
+7	always	always	VERB	_	_	6	obj	_	_
+8	interested	interested	ADJ	_	_	3	obj	_	_
+9	in	in	ADP	_	_	11	case	_	_
+10	my	my	DET	_	_	11	det	_	_
+11	golf	golf	NOUN	_	_	8	obl	_	_
+12	competitions	competitions	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	She	She	PROPN	_	_	0	ROOT	_	_
+2	is	is	PROPN	_	_	1	flat	_	_
+3	*AGE*	AGE	PROPN	_	_	1	flat	_	_
+4	yrs	yrs	PROPN	_	_	1	flat	_	_
+5	old	old	PROPN	_	_	12	det	_	_
+6	and	and	PROPN	_	_	5	flat	_	_
+7	her	her	PROPN	_	_	5	flat	_	_
+8	birthday	birthday	PROPN	_	_	5	amod	_	_
+9	is	is	PROPN	_	_	5	flat	_	_
+10	on	on	PROPN	_	_	5	flat	_	_
+11	september	september	PROPN	_	_	5	flat	_	_
+12	5th	5th	NUM	_	_	1	appos	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	She	She	PROPN	_	_	0	ROOT	_	_
+2	likes	likes	PROPN	_	_	1	flat	_	_
+3	dogs	dogs	PROPN	_	_	2	flat	_	_
+4	and	and	PROPN	_	_	3	obj	_	_
+5	cats	cats	NOUN	_	_	3	flat	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+

@@ -1,0 +1,243 @@
+# Unnamed: 0 = 146
+# id = 255886
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = dieciocho
+# gender = Male
+# l1 language = English,Other
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola! Me llamo *FIRST_NAME* *LAST_NAME* y soy de *STATE*, *CITY* *CITY*.  [Yo]{}<pr:su:pron> soy trabajador, estudioso, activo, y cómico.  [Yo]{}<pr:su:pron> vivo en mi casa, pero voy a la escuela en *CITY*, *STATE*. Mi escuela es []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY* Mi especialización es ciencia de política. Mi mayor es muy importante [por]{para}<conf:prep:popa> me por que [yo]{}<pr:su:pron> quiero estudiar derecho. Muchos familiares estudian derechos y [yo]{}<pr:su:pron> quiero ser como ellos.  También, [yo]{}<pr:su:pron> quiero estar en política. []{La}<ab:det:art:def> Política se ve muy interesante. También, mi sueño es ser político para ayudar mi comunidad. Mi comunidad es muy [pequeño]{pequeña}<ga:adj> y necesita ayuda. Mi comunidad no es pobre, pero necesita trabajo. Las carreteras y aceras necesita ser [arreglado]{arregladas}<ga:na:adj>. Estoy diciendo esto para mostrar cuánto me preocupo por mi comunidad.  Pero, si i no me meto en política, [yo]{}<pr:su:pron> quiero ser [un]{}pr:det:art:indef> abogado. Mi familia tiene muchos abogados. Quiero ser como ellos. Quiero ayudar legalmente. También, un abogado suena emocionado.  De todos modos, esta una descripción de mí mismo.  
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola! Me llamo *FIRST_NAME* *LAST_NAME* y soy de *STATE*, *CITY* *CITY*.  [Yo]{}<pr:su:pron> soy trabajador, estudioso, activo, y cómico.  [Yo]{}<pr:su:pron> vivo en mi casa, pero voy a la escuela en *CITY*, *STATE*. Mi escuela es []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY* Mi especialización es []{la}<ab:det:art:def> ciencia de política. Mi mayor es muy importante [por]{para}<conf:prep:popa> me por que [yo]{}<pr:su:pron> quiero estudiar derecho. Muchos familiares estudian [derechos]{derecho}<in:noun> y [yo]{}<pr:su:pron> quiero ser como ellos.  También, [yo]{}<pr:su:pron> quiero estar en política. []{La}<ab:det:art:def> Política se ve muy interesante. También, mi sueño es ser político para ayudar mi comunidad. Mi comunidad es muy [pequeño]{pequeña}<ga:adj> y necesita ayuda. Mi comunidad no es pobre, pero necesita trabajo. Las carreteras y aceras [necesita]{necesitan}<fs:st:pn> ser [arreglado]{arregladas}<ga:na:adj>. Estoy diciendo esto para mostrar cuánto me preocupo por mi comunidad.  Pero, si i no me meto en política, [yo]{}<pr:su:pron> quiero ser un abogado. Mi familia tiene muchos abogados. Quiero ser como ellos. Quiero ayudar legalmente. También, un abogado suena emocionado.  De todos modos, esta una descripción de mí mismo.  
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Me llamo *FIRST_NAME* *LAST_NAME* y soy de *STATE*, *CITY* *CITY*.  Soy trabajador, estudioso, activo, y cómico.  Vivo en mi casa, pero voy a la escuela en *CITY*, *STATE*. Mi escuela es la Universidad de *UNIVERSITY*, *UNIVERSITY* Mi especialización es ciencia de política. Mi mayor es muy importante para mí porque quiero estudiar derecho. Muchos familiares estudian derechos y quiero ser como ellos.  También, quiero estar en política. La política se ve muy interesante. También, mi sueño es ser político para ayudar a mi comunidad. Mi comunidad es muy pequeña y necesita ayuda. Mi comunidad no es pobre, pero necesita trabajo. Las carreteras y aceras necesitan ser arregladas. Estoy diciendo esto para mostrar cuánto me preocupo por mi comunidad.  Pero, si no me meto en política, quiero ser abogado. Mi familia tiene muchos abogados. Quiero ser como ellos. Quiero ayudar legalmente. También, un abogado suena emocionado.  De todos modos, esta es una descripción de mí mismo.  
+# corrected2 = nan
+# text = ¡Hola! Me llamo *FIRST_NAME* *LAST_NAME* y soy de *STATE*, *CITY* *CITY*. Yo soy trabajador, estudioso, activo, y cómico. Yo vivo en mi casa, pero voy a la escuela en *CITY*, *STATE*. Mi escuela es Universidad de *UNIVERSITY*, *UNIVERSITY* Mi especialización es ciencia de política. Mi mayor es muy importante por me por que yo quiero estudiar derecho. Muchos familiares estudian derechos y yo quiero ser como ellos. También, yo quiero estar en política. Política se ve muy interesante. También, mi sueño es ser político para ayudar mi comunidad. Mi comunidad es muy pequeño y necesita ayuda. Mi comunidad no es pobre, pero necesita trabajo. Las carreteras y aceras necesita ser arreglado. Estoy diciendo esto para mostrar cuánto me preocupo por mi comunidad. Pero, si i no me meto en política, yo quiero ser un abogado. Mi familia tiene muchos abogados. Quiero ser como ellos. Quiero ayudar legalmente. También, un abogado suena emocionado. De todos modos, esta una descripción de mí mismo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hola	hola	INTJ	_	_	5	dep	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	PROPN	_	_	2	flat	_	_
+7	*LAST_NAME*	*last_name*	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*STATE*	*state*	SYM	_	_	2	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	*CITY*	*city*	PROPN	_	_	2	flat	_	_
+14	*CITY*	*city*	PUNCT	_	_	13	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	estudioso	estudioso	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	activo	activo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*CITY*	*city*	PROPN	_	_	8	dep	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	*STATE*	*state*	PUNCT	_	_	13	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Universidad	Universidad	PROPN	_	_	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	*university*	PROPN	_	_	4	flat	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+9	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	política	política	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	por	por	ADP	_	_	7	case	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+8	por	por	ADP	_	_	11	mark	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+12	estudiar	estudiar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	derecho	derecho	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	familiares	familiar	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	estudian	estudiar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	derechos	derecho	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	10	cop	_	_
+9	como	como	SCONJ	_	_	10	mark	_	_
+10	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	estar	estar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	política	política	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Política	Política	PROPN	_	_	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	interesante	interesante	ADJ	_	Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	sueño	sueño	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+7	político	político	ADJ	_	Gender=Masc|Number=Sing	5	ccomp	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	ayudar	ayudar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	pobre	pobre	ADJ	_	Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	carreteras	carretera	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	aceras	acera	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+5	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ser	ser	AUX	_	VerbForm=Inf	7	aux	_	_
+7	arreglado	arreglar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	diciendo	decir	VERB	_	VerbForm=Ger	0	root	_	_
+3	esto	este	PRON	_	Number=Sing|PronType=Dem	2	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	mostrar	mostrar	VERB	_	VerbForm=Inf	2	advcl	_	_
+6	cuánto	cuánto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Int,Rel	8	obl	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	preocupo	preocupar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	12	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+3	si	si	SCONJ	_	_	7	mark	_	_
+4	i	i	CCONJ	_	_	7	cc	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	meto	meter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	política	política	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	ser	ser	AUX	_	VerbForm=Inf	15	cop	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	abogado	abogado	NOUN	_	Gender=Masc|Number=Sing	12	xcomp	_	_
+16	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	abogados	abogado	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	4	cop	_	_
+3	como	como	SCONJ	_	_	4	mark	_	_
+4	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ayudar	ayudar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	legalmente	legalmente	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	abogado	abogado	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	suena	sonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	emocionado	emocionado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	De	de	ADP	_	_	7	advmod	_	_
+2	todos	todos	NOUN	_	_	1	fixed	_	_
+3	modos	modos	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	esta	este	AUX	_	Gender=Fem|Number=Sing|PronType=Dem	7	cop	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	nmod	_	_
+10	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+

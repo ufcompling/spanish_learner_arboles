@@ -1,0 +1,364 @@
+# Unnamed: 0 = 165
+# id = 233100
+# prompt = terrible
+# quarter = F19
+# course = SPA 23
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No.
+# language(s) studied = I have only studied Spanish.
+# listening comprehension = 2.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Ayer, un evento terrible occorio. Cuando estaba en bicicleta, una chica caminó enfrente de yo. Ella no estaba prestando atención y estaba jugando en su teléfono. Dije, “¡Perdóneme! ¡Perdóneme!,” pero ella solo camino más en el carril de bici. Traté de rodearla, y me caí. Inmediatamente, dos chicas que vieron el accidente, me ayudaron. Recogieron mi agrietado teléfono y mi Hydroflask, que note tiene una abolladura masiva. Mi freno de bicicleta dejó de funcionar. También, me arrancaron las polainas y me salieron de un gran hematoma en la rodilla. La chica que me hizo caer solo caio su galleta. Entonces, ella dijo, “¿Fue mi culpa? Lo siento.” Estaba enojada y respondí, “Sí, fue tu culpa. Lugar tiempo, mira a dónde vas antes de entrar en el carril bici.” Ella estuvo de acuerdo, recogió su galleta y se fue. Estuve parado en la calle durante treinta minutos tratando de arreglar mi bicicleta. Eventualmente, me di por y caminé mi bicicleta de regreso a mi dormitorio. Cuando llegué a mi dormitorio, miré más de cerca de mi rodilla. Noté que ya era negra y azul. Envie una foto de la rodilla a mi amiga y le conté todo lo que pasó; como yo, ella estaba muy enojada. Me recomiendó hielo. Lo hice, pero me dolió demasiado incluso caminar. Así que tuve que sentarme en mi habitación el viernes por la noche. Fue un noche muy triste, y hoy cuando desperté mi rodilla aun me dolía. Espero que me sienta mejor proxima y la chica se disculpa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Ayer	ayer	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	evento	evento	NOUN	_	_	0	ROOT	_	_
+5	terrible	terrible	ADJ	_	_	4	amod	_	_
+6	occorio	occorio	ADJ	_	_	4	amod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	estaba	estar	AUX	_	_	4	cop	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	bicicleta	bicicleta	NOUN	_	_	8	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	chica	chica	NOUN	_	_	8	nsubj	_	_
+8	caminó	caminar	VERB	_	_	0	ROOT	_	_
+9	enfrente	enfrente	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	yo	yo	PRON	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	estaba	estar	AUX	_	_	4	aux	_	_
+4	prestando	prestar	VERB	_	_	0	ROOT	_	_
+5	atención	atención	NOUN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	estaba	estar	AUX	_	_	8	aux	_	_
+8	jugando	jugar	VERB	_	_	4	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	su	su	DET	_	_	11	det	_	_
+11	teléfono	teléfono	NOUN	_	_	8	obl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Dije	Dije	PROPN	_	_	5	dep	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	“	“	PROPN	_	_	5	punct	_	_
+4	¡	¡	PUNCT	_	_	5	punct	_	_
+5	Perdóneme	Perdóneme	PROPN	_	_	0	ROOT	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	¡	¡	PUNCT	_	_	8	punct	_	_
+8	Perdóneme	Perdóneme	PROPN	_	_	5	flat	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	”	”	PUNCT	_	_	8	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	ella	él	PRON	_	_	15	nsubj	_	_
+14	solo	solo	ADJ	_	_	15	amod	_	_
+15	camino	camino	NOUN	_	_	8	conj	_	_
+16	más	más	ADV	_	_	15	advmod	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	el	el	DET	_	_	19	det	_	_
+19	carril	carril	NOUN	_	_	15	obl	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	bici	bici	NOUN	_	_	19	nmod	_	_
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Traté	Traté	PROPN	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	rodearla	rodear él	VERB	_	_	1	acl	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	_	7	expl:pv	_	_
+7	caí	caer	VERB	_	_	1	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Inmediatamente	inmediatamente	ADV	_	_	11	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	chicas	chica	NOUN	_	_	11	nsubj	_	_
+5	que	que	PRON	_	_	6	nsubj	_	_
+6	vieron	ver	VERB	_	_	4	acl	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	accidente	accidente	NOUN	_	_	6	obj	_	_
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	ayudaron	ayudar	VERB	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Recogieron	recoger	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	4	det	_	_
+3	agrietado	agrietado	ADJ	_	_	4	amod	_	_
+4	teléfono	teléfono	NOUN	_	_	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	Hydroflask	Hydroflask	PROPN	_	_	4	conj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	que	que	PRON	_	_	10	nsubj	_	_
+10	note	notar	VERB	_	_	4	acl	_	_
+11	tiene	tener	VERB	_	_	1	ccomp	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	abolladura	abolladura	NOUN	_	_	11	obj	_	_
+14	masiva	masivo	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	freno	freno	NOUN	_	_	5	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	bicicleta	bicicleta	NOUN	_	_	2	nmod	_	_
+5	dejó	dejar	VERB	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	funcionar	funcionar	VERB	_	_	5	xcomp	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	arrancaron	arrancar	VERB	_	_	0	ROOT	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	polainas	polaina	NOUN	_	_	4	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	_	9	obj	_	_
+9	salieron	salir	VERB	_	_	4	conj	_	_
+10	de	de	ADP	_	_	13	case	_	_
+11	un	uno	DET	_	_	13	det	_	_
+12	gran	gran	ADJ	_	_	13	amod	_	_
+13	hematoma	hematoma	NOUN	_	_	9	obl	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	rodilla	rodilla	NOUN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	chica	chica	NOUN	_	_	0	ROOT	_	_
+3	que	que	PRON	_	_	5	nsubj	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	hizo	hacer	VERB	_	_	2	acl	_	_
+6	caer	caer	VERB	_	_	5	xcomp	_	_
+7	solo	solo	ADJ	_	_	8	amod	_	_
+8	caio	caio	NOUN	_	_	6	obj	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	galleta	galleta	NOUN	_	_	5	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	4	nsubj	_	_
+4	dijo	decir	VERB	_	_	10	parataxis	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	“	“	PROPN	_	_	10	punct	_	_
+7	¿	¿	PUNCT	_	_	10	punct	_	_
+8	Fue	ser	AUX	_	_	10	cop	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	culpa	culpa	NOUN	_	_	0	ROOT	_	_
+11	?	?	PUNCT	_	_	10	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	siento	sentir	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	”	”	PUNCT	_	_	3	nsubj	_	_
+2	Estaba	estar	AUX	_	_	3	cop	_	_
+3	enojada	enojado	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	respondí	respondí	VERB	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	“	“	PROPN	_	_	3	dep	_	_
+8	Sí	sí	ADV	_	_	7	flat	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	fue	ser	AUX	_	_	12	cop	_	_
+11	tu	tu	DET	_	_	12	det	_	_
+12	culpa	culpa	NOUN	_	_	3	advcl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Lugar	Lugar	PROPN	_	_	0	ROOT	_	_
+2	tiempo	tiempo	NOUN	_	_	1	flat	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	mira	mirar	VERB	_	_	1	advcl	_	_
+5	a	a	ADP	_	_	4	fixed	_	_
+6	dónde	dónde	PRON	_	_	7	obl	_	_
+7	vas	va	NOUN	_	_	4	obl	_	_
+8	antes	antes	ADV	_	_	4	advmod	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	entrar	entrar	VERB	_	_	8	advcl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	carril	carril	NOUN	_	_	10	obl	_	_
+14	bici	bici	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	”	”	PUNCT	_	_	7	nsubj	_	_
+2	Ella	él	PRON	_	_	7	nsubj	_	_
+3	estuvo	estar	AUX	_	_	4	cop	_	_
+4	de	de	ADP	_	_	7	advmod	_	_
+5	acuerdo	acuerdo	NOUN	_	_	4	fixed	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	recogió	recoger	VERB	_	_	0	ROOT	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	galleta	galleta	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	se	él	PRON	_	_	12	expl:pv	_	_
+12	fue	ser	VERB	_	_	7	conj	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Estuve	estar	AUX	_	_	2	aux	_	_
+2	parado	parar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	calle	calle	NOUN	_	_	2	obl	_	_
+6	durante	durante	ADP	_	_	8	case	_	_
+7	treinta	treinta	NUM	_	_	8	nummod	_	_
+8	minutos	minuto	NOUN	_	_	2	obl	_	_
+9	tratando	tratar	VERB	_	_	2	advcl	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	arreglar	arreglar	VERB	_	_	9	xcomp	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	bicicleta	bicicleta	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Eventualmente	Eventualmente	PROPN	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	expl:pv	_	_
+4	di	dar	VERB	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	caminé	caminé	PROPN	_	_	4	conj	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	bicicleta	bicicleta	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	regreso	regreso	NOUN	_	_	9	nmod	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	dormitorio	dormitorio	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegué	llegar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	dormitorio	dormitorio	NOUN	_	_	2	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	miré	miré	CCONJ	_	_	2	conj	_	_
+8	más	más	ADV	_	_	12	advmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	cerca	cerca	ADV	_	_	8	advmod	_	_
+11	de	de	ADP	_	_	8	fixed	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	rodilla	rodilla	NOUN	_	_	7	obl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Noté	Noté	PROPN	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	ya	ya	ADV	_	_	5	advmod	_	_
+4	era	ser	AUX	_	_	5	cop	_	_
+5	negra	negro	ADJ	_	_	1	ccomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	azul	azul	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Envie	Envie	PROPN	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	foto	foto	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	rodilla	rodilla	NOUN	_	_	3	nmod	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	amiga	amiga	NOUN	_	_	1	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	le	él	PRON	_	_	12	obj	_	_
+12	conté	contar	VERB	_	_	1	conj	_	_
+13	todo	todo	DET	_	_	14	det	_	_
+14	lo	él	PRON	_	_	16	det	_	_
+15	que	que	PRON	_	_	16	obj	_	_
+16	pasó	pasar	VERB	_	_	12	ccomp	_	_
+17	;	;	PUNCT	_	_	24	punct	_	_
+18	como	como	SCONJ	_	_	19	mark	_	_
+19	yo	yo	PRON	_	_	24	obl	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	ella	él	PRON	_	_	24	nsubj	_	_
+22	estaba	estar	AUX	_	_	24	cop	_	_
+23	muy	mucho	ADV	_	_	24	advmod	_	_
+24	enojada	enojado	ADJ	_	_	12	advcl	_	_
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	recomiendó	recomendar	VERB	_	_	0	ROOT	_	_
+3	hielo	hielo	NOUN	_	_	2	nsubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	hice	hacer	VERB	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	dolió	doler	VERB	_	_	2	conj	_	_
+7	demasiado	demasiado	ADV	_	_	6	advmod	_	_
+8	incluso	incluso	ADV	_	_	6	advmod	_	_
+9	caminar	caminar	VERB	_	_	6	csubj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Así	así	ADV	_	_	5	advmod	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	tuve	tener	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	sentarme	sentar yo	VERB	_	_	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	habitación	habitación	NOUN	_	_	5	obl	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	viernes	viernes	NOUN	_	_	5	obl	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	noche	noche	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Fue	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	noche	noche	NOUN	_	_	0	ROOT	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	triste	triste	ADJ	_	_	3	amod	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	hoy	hoy	ADV	_	_	10	advmod	_	_
+9	cuando	cuando	SCONJ	_	_	10	mark	_	_
+10	desperté	despertar	VERB	_	_	15	advcl	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	rodilla	rodilla	NOUN	_	_	10	obj	_	_
+13	aun	aun	ADV	_	_	15	advmod	_	_
+14	me	yo	PRON	_	_	15	iobj	_	_
+15	dolía	doler	VERB	_	_	3	conj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	sienta	sentar	VERB	_	_	1	ccomp	_	_
+5	mejor	mejor	ADJ	_	_	4	advmod	_	_
+6	proxima	proxima	ADV	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	chica	chica	NOUN	_	_	11	nsubj	_	_
+10	se	él	PRON	_	_	11	expl:pv	_	_
+11	disculpa	disculpar	VERB	_	_	4	conj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+

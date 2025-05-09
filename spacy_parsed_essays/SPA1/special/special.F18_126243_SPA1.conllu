@@ -1,0 +1,234 @@
+# Unnamed: 0 = 18
+# id = 126243
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola! Hoy, voy a decir tu sobre alguien que amo. Se llama mi amigo *FIRST_NAME*. Él es joven, tiene *AGE* años. Él es afroamericano y blanco. Él tiene pelo marrón y rizado, y él tiene ojos marrones. Él es muy alto y delgado. Yo creo que él es muy guapo. Lo amo porque él es paciente con me, y es un bien oyente. Él tiene dos hermanos. Se llama él hermana es *FIRST_NAME*, y tiene *AGE* años. Se llama él hermano es *FIRST_NAME*, y tiene *AGE* años. *FIRST_NAME* tiene un perro se llama *FIRST_NAME*. Ella es muy pequeño. Por divertido, *FIRST_NAME* le gusta tomar foto. Él fue a Europe, y toma mas bien fotos de la ciudad. También, le gusta toca baloncesto. Él le gusta comer pollo, Reese’s caramelo, y sándwiches. Él le gusta bebe limonada, pero no le gusta café. Él le gusta escuchar Drake. *FIRST_NAME* es muy especial para mi.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	!	!	PROPN	_	_	1	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	voy	ir	AUX	_	_	5	aux	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	decir	decir	VERB	_	_	0	ROOT	_	_
+6	tu	tu	DET	_	_	5	nsubj	_	_
+7	sobre	sobre	ADP	_	_	8	case	_	_
+8	alguien	alguien	PRON	_	_	6	nmod	_	_
+9	que	que	PRON	_	_	10	obj	_	_
+10	amo	amar	VERB	_	_	8	acl	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	0	ROOT	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	amigo	amigo	NOUN	_	_	2	obj	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	appos	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	joven	joven	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	tiene	tener	VERB	_	_	3	advcl	_	_
+6	*AGE*	AGE	PROPN	_	_	5	nsubj	_	_
+7	años	año	NOUN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	afroamericano	afroamericano	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	blanco	blanco	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	pelo	pelo	NOUN	_	_	2	obj	_	_
+4	marrón	marrón	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	rizado	rizado	ADJ	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	él	él	PRON	_	_	10	nsubj	_	_
+10	tiene	tener	VERB	_	_	2	conj	_	_
+11	ojos	ojo	ADJ	_	_	12	amod	_	_
+12	marrones	marrón	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	alto	alto	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	delgado	delgado	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	creo	creer	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	7	mark	_	_
+4	él	él	PRON	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	guapo	guapo	ADJ	_	_	2	ccomp	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	6	mark	_	_
+4	él	él	PRON	_	_	6	nsubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	paciente	paciente	ADJ	_	_	2	advcl	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	me	yo	PRON	_	_	6	nmod	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	bien	bien	NOUN	_	_	2	conj	_	_
+14	oyente	oyente	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	hermanos	hermano	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	6	csubj	_	_
+3	él	él	PRON	_	_	2	nsubj	_	_
+4	hermana	hermán	ADJ	_	_	3	amod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	_	6	conj	_	_
+10	*AGE*	AGE	PROPN	_	_	9	nsubj	_	_
+11	años	año	NOUN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	6	csubj	_	_
+3	él	él	PRON	_	_	2	nsubj	_	_
+4	hermano	hermano	ADJ	_	_	3	amod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	_	6	conj	_	_
+10	*AGE*	AGE	PROPN	_	_	9	nsubj	_	_
+11	años	año	NOUN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	6	csubj	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	llama	llamar	VERB	_	_	0	ROOT	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	pequeño	pequeño	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Por	por	ADP	_	_	6	advmod	_	_
+2	divertido	divertido	ADJ	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	nsubj	_	_
+5	le	él	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	tomar	tomar	VERB	_	_	6	csubj	_	_
+8	foto	foto	NOUN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	fue	ser	AUX	_	_	4	cop	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Europe	Europe	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	toma	tomar	VERB	_	_	4	conj	_	_
+8	mas	mas	ADV	_	_	9	advmod	_	_
+9	bien	bien	ADV	_	_	7	obj	_	_
+10	fotos	foto	NOUN	_	_	7	obj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	ciudad	ciudad	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	toca	tocar	VERB	_	_	4	csubj	_	_
+6	baloncesto	baloncesto	ADJ	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	comer	comer	VERB	_	_	3	csubj	_	_
+5	pollo	pollo	NOUN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Reese’s	reese’s	VERB	_	_	3	advcl	_	_
+8	caramelo	caramelo	NOUN	_	_	7	obj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	sándwiches	sándwich	NOUN	_	_	7	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	bebe	beber	VERB	_	_	3	obj	_	_
+5	limonada	limonado	ADJ	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	le	él	PRON	_	_	10	obj	_	_
+10	gusta	gustar	VERB	_	_	3	conj	_	_
+11	café	café	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	escuchar	escuchar	VERB	_	_	3	csubj	_	_
+5	Drake	Drake	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+

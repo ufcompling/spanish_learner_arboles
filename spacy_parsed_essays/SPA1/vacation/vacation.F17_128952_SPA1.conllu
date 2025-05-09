@@ -1,0 +1,197 @@
+# Unnamed: 0 = 37
+# id = 128952
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French, 3 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Yo encanto viajar. En el verano después del graduarme, voy a viajar a España y Portugal. Quiero ir Lisboa, Barcelona, y Madrid. Para la vacación ser perfecto, quiero hacer mucho. Quiero comer muchos comidas! Me gusta comer y cocino. Entonces, quiero nuevo recetas para hacer cuando estoy en mi casa. También, quiero comprar ropas, nadar, y tomar fotos. Voy a ir al museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay muchos art en los calles; es muy bonita. 
+
+Quiero viajar con mi hermana. Ella es simpática y divertida, y no es difícil. Viajar con una persona es mejor, por que viajar con muchos personas es complicado. Quiero viajar con mi madre o un amigo, también. 
+# a personal annotator2 = Yo encanto viajar. En el verano después del graduarme, voy a viajar a España y Portugal. Quiero ir Lisboa, Barcelona, y Madrid. Para la vacación ser perfecto, quiero hacer mucho. Quiero comer muchos comidas! Me gusta comer y cocino. Entonces, quiero nuevo recetas para hacer cuando estoy en mi casa. También, quiero comprar ropas, nadar, y tomar fotos. Voy a ir al museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay muchos art en los calles; es muy bonita. 
+
+Quiero viajar con mi hermana. Ella es simpática y divertida, y no es difícil. Viajar con una persona es mejor, por que viajar con muchos personas es complicado. Quiero viajar con mi madre o un amigo, también. "
+
+# gender-number annotator1 = Yo encanto viajar. En el verano después del graduarme, voy a viajar a España y Portugal. Quiero ir Lisboa, Barcelona, y Madrid. Para la [vacación]{vacaciones}<in:s:noun:inan> ser [perfecto]{perfecta}<ga:fm:adj:inan>, quiero hacer mucho. Quiero comer [muchos]{mucha}<ga:na:fm:sp:det:inan> [comidas]{comida}<na:sp:noun:inan>! Me gusta comer y cocino. Entonces, quiero [nuevo]{nuevas}<ga:na:fm:ps:adj:inan> recetas para hacer cuando estoy en mi casa. También, quiero comprar ropas, nadar, y tomar fotos. Voy a ir [al]{a los}<na:ps:det:inan> museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay muchos art en [los]{las}<ga:fm:det:inan> calles; es muy [bonita]{bonito}<ga:mf:adj:inan>. 
+
+Quiero viajar con mi hermana. Ella es simpática y divertida, y no es difícil. Viajar con una persona es mejor, por que viajar con [muchos]{muchas}<ga:fm:det:an> personas es complicado. Quiero viajar con mi madre o un amigo, también. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo encanto viajar. En el verano después [del]{de}<pr:det:art:def> graduarme, voy a viajar a España y Portugal. Quiero ir Lisboa, Barcelona, y Madrid. Para [la]{las}<in:det> [vacación]{vacaciones}<in:noun> [ser]{sería}<fs:st:pn:t:mo> perfecto, quiero hacer mucho. Quiero comer [muchos]{muchas}<ga:det> comidas! Me gusta comer y cocino. Entonces, quiero nuevo recetas para hacer cuando [estoy]{esté}<fs:st:mo> en mi casa. También, quiero comprar [ropas]{ropa}<in:noun>, nadar, y tomar fotos. Voy a ir [al]{a}<pr:det:art:def> museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay muchos art en [los]{las}<ga:det> calles; es muy bonita.  Quiero viajar con mi hermana. Ella es simpática y divertida, y no es difícil. Viajar con una persona es mejor, por que viajar con [muchos]{muchas}<ga:det> personas es complicado. Quiero viajar con mi madre o un amigo, también.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Me encanta viajar. En el verano después de graduarme, voy a viajar a España y Portugal. Quiero ir a Lisboa, Barcelona, y Madrid. Para la vacación perfecta, quiero hacer mucho. ¡Quiero comer muchas comidas! Me gusta comer y cocinar. Entonces, quiero nuevas recetas para hacer cuando estoy en mi casa. También, quiero comprar ropas, nadar, y tomar fotos. Voy a ir a museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay mucho arte en las calles; es muy bonita.  Quiero viajar con mi hermana. Es simpática y divertida, y no es difícil. Viajar con una persona es mejor, porque viajar con muchas personas es complicado. Quiero viajar con mi madre o un amigo, también.
+# corrected2 = nan
+# text = Yo encanto viajar. En el verano después del graduarme, voy a viajar a España y Portugal. Quiero ir Lisboa, Barcelona, y Madrid. Para la vacación ser perfecto, quiero hacer mucho. Quiero comer muchos comidas! Me gusta comer y cocino. Entonces, quiero nuevo recetas para hacer cuando estoy en mi casa. También, quiero comprar ropas, nadar, y tomar fotos. Voy a ir al museos. En España, hay arquitectura que me gustaría ver. En Portugal, hay muchos art en los calles; es muy bonita. Quiero viajar con mi hermana. Ella es simpática y divertida, y no es difícil. Viajar con una persona es mejor, por que viajar con muchos personas es complicado. Quiero viajar con mi madre o un amigo, también.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	encanto	encantar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	xcomp	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	verano	verano	NOUN	_	_	4	obl	_	_
+4	después	después	ADV	_	_	10	advmod	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	graduarme	graduarme	NOUN	_	_	4	obl	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	voy	ir	AUX	_	_	10	aux	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	viajar	viajar	VERB	_	_	0	ROOT	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	España	España	PROPN	_	_	10	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	Portugal	Portugal	PROPN	_	_	12	conj	_	_
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	Lisboa	Lisboa	PROPN	_	_	1	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Barcelona	Barcelona	PROPN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	Madrid	Madrid	PROPN	_	_	3	conj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Para	para	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	vacación	vacación	NOUN	_	_	5	obl	_	_
+4	ser	ser	AUX	_	_	5	cop	_	_
+5	perfecto	perfecto	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	quiero	querer	VERB	_	_	5	advcl	_	_
+8	hacer	hacer	VERB	_	_	7	xcomp	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Quiero	querer	VERB	_	_	7	dep	_	_
+2	comer	comer	VERB	_	_	1	xcomp	_	_
+3	muchos	mucho	DET	_	_	4	det	_	_
+4	comidas	comida	NOUN	_	_	2	obj	_	_
+5	!	!	PUNCT	_	_	1	punct	_	_
+6	Me	yo	PRON	_	_	7	iobj	_	_
+7	gusta	gustar	VERB	_	_	0	ROOT	_	_
+8	comer	comer	VERB	_	_	7	csubj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	cocino	cocino	ADJ	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	nuevo	nuevo	ADJ	_	_	5	amod	_	_
+5	recetas	receta	NOUN	_	_	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	hacer	hacer	VERB	_	_	5	acl	_	_
+8	cuando	cuando	SCONJ	_	_	9	mark	_	_
+9	estoy	estar	AUX	_	_	7	advcl	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	casa	casa	NOUN	_	_	9	obl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	comprar	comprar	VERB	_	_	3	xcomp	_	_
+5	ropas	ropa	NOUN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	nadar	nadar	VERB	_	_	5	acl	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tomar	tomar	VERB	_	_	4	conj	_	_
+11	fotos	foto	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Voy	ir	AUX	_	_	3	aux	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	ir	ir	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	museos	museo	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	España	España	PROPN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	hay	haber	AUX	_	_	0	ROOT	_	_
+5	arquitectura	arquitectura	NOUN	_	_	4	obj	_	_
+6	que	que	PRON	_	_	8	nsubj	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gustaría	gustar	VERB	_	_	5	acl	_	_
+9	ver	ver	VERB	_	_	8	csubj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Portugal	Portugal	PROPN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	hay	haber	AUX	_	_	0	ROOT	_	_
+5	muchos	mucho	DET	_	_	6	det	_	_
+6	art	art	NOUN	_	_	4	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	calles	calle	NOUN	_	_	4	obl	_	_
+10	;	;	PUNCT	_	_	4	punct	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	bonita	bonito	ADJ	_	_	4	advcl	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	viajar	viajar	VERB	_	_	1	xcomp	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	hermana	hermana	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	divertida	divertido	ADJ	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	difícil	difícil	ADJ	_	_	3	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Viajar	viajar	VERB	_	_	6	csubj	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	1	obl	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	mejor	mejor	ADJ	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	por	por	ADP	_	_	10	mark	_	_
+9	que	que	SCONJ	_	_	10	mark	_	_
+10	viajar	viajar	VERB	_	_	15	csubj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	muchos	mucho	DET	_	_	13	det	_	_
+13	personas	persona	NOUN	_	_	10	obl	_	_
+14	es	ser	AUX	_	_	15	cop	_	_
+15	complicado	complicado	ADJ	_	_	6	advcl	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	viajar	viajar	VERB	_	_	1	xcomp	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	madre	madre	NOUN	_	_	2	obl	_	_
+6	o	o	CCONJ	_	_	8	cc	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	amigo	amigo	NOUN	_	_	5	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	también	también	ADV	_	_	8	advmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+

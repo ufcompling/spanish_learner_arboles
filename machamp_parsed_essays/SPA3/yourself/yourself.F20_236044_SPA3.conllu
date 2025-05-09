@@ -1,0 +1,135 @@
+# Unnamed: 0 = 0
+# id = 236044
+# prompt = yourself
+# quarter = F20
+# course = SPA 3
+# age = 24
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = 2
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Me llamo *FIRST_NAME* y soy una estudiante graduada. Estudio literatura comparativa y es mi segundo año en *UNIVERSITY*. Me gusta pasar tiempo con mis amigos y mi gata, Sophie. Me gusta la música y antes de la cuarentena, fui a muchos conciertos. Mi comida favorita es []{el}<ab:det:art:def> sushi y mis restaurantes favoritos en *CITY* son *PLACE* *PLACE* y *PLACE* *PLACE*. Durante la cuarentena, me gusta dormir mucho y mirar telenovelas, pero extraño a mis amigos y quiero visitarlos. Quiero aprender Español porque tengo familia en *PLACE* y para mis estudios.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Me llamo *FIRST_NAME* y soy una estudiante graduada. Estudio literatura comparativa y es mi segundo año en *UNIVERSITY*. Me gusta pasar tiempo con mis amigos y mi gata, Sophie. Me gusta la música y antes de la cuarentena, fui a muchos conciertos. Mi comida favorita es []{el}<ab:det:art:def> sushi y mis restaurantes favoritos en *CITY* son *PLACE* *PLACE* y *PLACE* *PLACE*. Durante la cuarentena, me gusta dormir mucho y mirar telenovelas, pero extraño a mis amigos y quiero visitarlos. Quiero aprender Español porque tengo familia en *PLACE* y para mis estudios.
+# verbs annotation ann2 = nan
+# corrected1 = Me llamo *FIRST_NAME* y soy una estudiante graduada. Estudio literatura comparativa y es mi segundo año en *UNIVERSITY*. Me gusta pasar tiempo con mis amigos y mi gata, Sophie. Me gusta la música y antes de la cuarentena, fui a muchos conciertos. Mi comida favorita es el sushi y mis restaurantes favoritos en *CITY* son *PLACE* *PLACE* y *PLACE* *PLACE*. Durante la cuarentena, me gusta dormir mucho y mirar telenovelas, pero extraño a mis amigos y quiero visitarlos. Quiero aprender español porque tengo familia en *PLACE* y para mis estudios.
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME* y soy una estudiante graduada. Estudio literatura comparativa y es mi segundo año en *UNIVERSITY*. Me gusta pasar tiempo con mis amigos y mi gata, Sophie. Me gusta la música y antes de la cuarentena, fui a muchos conciertos. Mi comida favorita es sushi y mis restaurantes favoritos en *CITY* son *PLACE* *PLACE* y *PLACE* *PLACE*. Durante la cuarentena, me gusta dormir mucho y mirar telenovelas, pero extraño a mis amigos y quiero visitarlos. Quiero aprender Español porque tengo familia en *PLACE* y para mis estudios.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	punct	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	estudiante	estudiante	NOUN	_	Number=Sing	2	conj	_	_
+8	graduada	graduado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	literatura	literatura	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	comparativa	comparativo	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	año	año	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*UNIVERSITY*	*university*	PUNCT	_	_	8	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	gata	gata	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	Sophie	Sophie	PROPN	_	_	10	appos	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	música	música	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	11	cc	_	_
+6	antes	antes	ADV	_	_	11	advmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cuarentena	cuarentena	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+11	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+14	conciertos	concierto	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	sushi	sushi	NOUN	_	_	0	root	_	_
+6	y	y	CCONJ	_	_	5	cc	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	restaurantes	restaurante	NOUN	_	Number=Plur	5	nsubj	_	_
+9	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	*CITY*	*city*	PROPN	_	_	5	punct	_	_
+12	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+13	*PLACE*	*place*	SYM	_	_	5	nmod	_	_
+14	*PLACE*	*place*	PUNCT	_	_	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	*PLACE*	*place*	SYM	_	_	5	appos	_	_
+17	*PLACE*	*place*	PUNCT	_	_	16	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cuarentena	cuarentena	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dormir	dormir	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	mirar	mirar	VERB	_	VerbForm=Inf	7	conj	_	_
+11	telenovelas	telenovela	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	pero	pero	CCONJ	_	_	14	cc	_	_
+14	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	conj	_	_
+20	visitarlos	visitar	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aprender	aprender	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	Español	Español	PROPN	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*PLACE*	*PLACE*	PROPN	_	_	5	punct	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	para	para	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

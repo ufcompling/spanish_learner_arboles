@@ -1,0 +1,170 @@
+# Unnamed: 0 = 25
+# id = 171906
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Hawaiian for three years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* anos. [Ella]{}<pr:su:pron> es baja y guapa. [Ella]{}<pr:su:pron> tiene dos ninos y ustedes son [joven]{jóvenes}<na:adj>. [Ella]{}<pr:su:pron> hija tiene uno anos y hijo tiene tres anos. Nosotros somos es [estadounidense]{estadounidenses}<na:adj>. [Esta]És}<conf:v:seta> muy antipatica, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta canta musica pop y rnb. Esta cansada y [ella]{}<pr:su:pron> vive en *STATE* con [ella]{}<pr:su:pron> esposo. Ella es estudiante en *STATE* y [estudio]{estudia}<fs:st:pn> psychologia. Le gusta ver peliculas de Marvel. Muy le gusta come [la]{}<pr:det:art:def> comida [italiano]{italiana}<ga:adj>. Antes de, ella [corre]{corría}<fs:st:t> en los maratones.
+# updated annotation ann2 = ﻿La [especial persona]{persona especial}<col:adj> es mi hermana. Se llama *FIRST_NAME*. [Ella]{}<pr:su:pron> tiene *AGE* anos. [Ella]{}<pr:su:pron> es baja y guapa. [Ella]{}<pr:su:pron> tiene dos ninos y ustedes son joven. [Ella]{}<pr:su:pron> hija tiene uno anos y hijo tiene tres anos. Nosotros somos es [estadounidense]{estadounidenses}<na:adj>. [Esta]{Es}<conf:v:seta> muy antipatica, pero [ella]{}<pr:su:pron> es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta [canta]{cantar}<fs:st:pn:t:mo> musica pop y rnb. Esta cansada y [ella]{}<pr:su:pron> vive en *STATE* con [ella]{}<pr:su:pron> esposo. [Ella]{}<pr:su:pron> es estudiante en *STATE* y [estudio]{estudia}<fs:st:t> psychologia. Le gusta ver peliculas de Marvel. Muy le gusta [come]{comer}<fs:st:pn:t:mo> la comida [italiano]{italiana}<ga:adj>. Antes de, [ella]{}<pr:su:pron> corre en [los]{}<pr:det:art:def> maratones.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* años. Es baja y guapa. Tiene dos niños y son jóvenes. Su hija tiene un año y su hijo tiene tres años. Nosotros somos estadounidenses. Es muy antipática, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta a mi hermana sacar fotos. Le gusta cantar música pop y rnb. Está casada y vive en *STATE* con su esposo. Ella es estudiante en *STATE* y estudia psicología. Le gusta ver películas de Marvel. Le gusta mucho comer comida italiana. Antes, ella corría en los maratones.
+# corrected2 = nan
+# text = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* anos. Ella es baja y guapa. Ella tiene dos ninos y ustedes son joven. Ella hija tiene uno anos y hijo tiene tres anos. Nosotros somos es estadounidense. Esta muy antipatica, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta canta musica pop y rnb. Esta cansada y ella vive en *STATE* con ella esposo. Ella es estudiante en *STATE* y estudio psychologia. Le gusta ver peliculas de Marvel. Muy le gusta come la comida italiano. Antes de, ella corre en los maratones.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	especial	especial	ADJ	_	Number=Sing	3	amod	_	_
+3	persona	persona	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	2	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	guapa	guapo	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	ninos	nino	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	ustedes	tú	PRON	_	Case=Acc,Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs	8	nsubj	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	joven	joven	ADJ	_	Number=Sing	2	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	_
+2	hija	hija	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	uno	uno	NUM	_	Gender=Masc|Number=Sing|PronType=Ind	5	nummod	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	anos	ano	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	estadounidense	estadounidense	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	antipatica	antipatico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	marrones	marron	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	negro	negro	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	liso	liso	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	saca	sacar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+6	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+4	musica	musica	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+5	pop	pop	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rnb	rnb	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	cansada	cansado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	en	en	ADP	_	_	9	case	_	_
+7	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+10	esposo	esposo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*STATE*	*state*	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	psychologia	psychologia	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Marvel	Marvel	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Muy	mucho	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	SCONJ	_	_	6	mark	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	comida	comida	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+7	italiano	italiano	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Antes	antes	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	corre	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	maratones	maratón	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

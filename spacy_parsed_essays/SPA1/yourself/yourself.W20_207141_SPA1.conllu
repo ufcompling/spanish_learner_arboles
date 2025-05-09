@@ -1,0 +1,215 @@
+# Unnamed: 0 = 255
+# id = 207141
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Korean
+# language(s) studied = Latin for 4 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola, yo ahora estudiando español en el curso SPA 1. Nunca he estudiado español antes. Está es mi primera vez estudiado español. Siento que mucha gente estudió español antes. Es difícil estudiar un [nueve]{nuevo}<gat:adj> idioma en el sistema de cuartos. Pero, mi profesor es muy paciente y tipo. Espero aprender mucho y poder hablar con hablantes nativos de español. El escrito español es mucho mas fácil que el oral español. Es difícil comprender cuando mi profesor habla español. Los sonidos se mezclan y no puedo entender palabras individuales. Además es difícil para expresar sin []{un}<ab:det:art:indef> buen vocabulario. usando un diccionario es muy servicial, pero quiero expresarme sin [una]{}<pr:det:art:indef><ga:det> diccionario.  estudié latín en [la]{}<pr:det:art:def> secundaria para cuarto años. Puedo usar las técnicas que usé en la escuela secundaria para ayudarme a estudiar español en la universidad. Ahora, estamos aprendiendo ser y estar y cómo formar oraciones. Espero poder aprender mucho y hacerlo bien.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola, [yo]{}<pr:su:pron> ahora [estudiando]{estudio}<fs:st:t> español en el curso SPA 1. Nunca he estudiado español antes. Está es mi primera vez [estudiado]{estudiando}<fs:st:t> español. Siento que mucha gente estudió español antes. Es difícil estudiar un [nueve]{nuevo}<gat:adj> idioma en el sistema de cuartos. Pero, mi profesor es muy paciente y tipo. Espero aprender mucho y poder hablar con hablantes nativos de español. El escrito español es mucho mas fácil que el oral español. Es difícil comprender cuando mi profesor habla español. Los sonidos se mezclan y no puedo entender palabras individuales. Además es difícil para expresar sin []{un}<ab:det:art:indef> buen vocabulario. [usando]{usar}<fs:st:t> un diccionario es muy servicial, pero quiero expresarme sin [una]{un}<ga:det> diccionario.  estudié latín en la secundaria [para]{por}<conf:prep:popa> cuarto años. Puedo usar las técnicas que usé en la escuela secundaria para ayudarme a estudiar español en la universidad. Ahora, estamos aprendiendo ser y estar y cómo formar oraciones. Espero poder aprender mucho y hacerlo bien.
+# verbs annotation ann2 = nan
+# corrected1 = Hola. Yo ahora estoy estudiando español en el curso SPA 1. Nunca he estudiado español antes. Esta es la primera vez que estudio español. Siento que mucha gente estudió español antes. Es difícil estudiar un nuevo idioma siguiendo un sistema cuatrimestral, pero mi profesor es muy paciente y amable. Espero aprender mucho y poder hablar con hablantes nativos de español. Escribir en español es mucho más fácil que hablar español. Es difícil comprender cuando mi profesor habla español. Los sonidos se mezclan y no puedo separar las palabras. Además, es difícil expresarse sin un buen vocabulario. Usar un diccionario es muy práctico, pero quiero poder expresarme sin diccionario. Estudié latín en secundaria durante cuatro años. Puedo usar las técnicas que usé en la escuela secundaria para ayudarme a estudiar español en la universidad. Ahora estamos aprendiendo la diferencia entre ser y estar, y cómo formar oraciones. Espero poder aprender mucho y hacerlo bien. 
+# corrected2 = nan
+# text = Hola, yo ahora estudiando español en el curso SPA 1. Nunca he estudiado español antes. Está es mi primera vez estudiado español. Siento que mucha gente estudió español antes. Es difícil estudiar un nueve idioma en el sistema de cuartos. Pero, mi profesor es muy paciente y tipo. Espero aprender mucho y poder hablar con hablantes nativos de español. El escrito español es mucho mas fácil que el oral español. Es difícil comprender cuando mi profesor habla español. Los sonidos se mezclan y no puedo entender palabras individuales. Además es difícil para expresar sin buen vocabulario. usando un diccionario es muy servicial, pero quiero expresarme sin una diccionario. estudié latín en la secundaria para cuarto años. Puedo usar las técnicas que usé en la escuela secundaria para ayudarme a estudiar español en la universidad. Ahora, estamos aprendiendo ser y estar y cómo formar oraciones. Espero poder aprender mucho y hacerlo bien.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	yo	yo	PRON	_	_	5	nsubj	_	_
+4	ahora	ahora	ADV	_	_	5	advmod	_	_
+5	estudiando	estudiar	VERB	_	_	1	advcl	_	_
+6	español	español	ADJ	_	_	5	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	curso	curso	NOUN	_	_	5	obl	_	_
+10	SPA	SPA	PROPN	_	_	9	appos	_	_
+11	1	1	NUM	_	_	10	nummod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	3	advmod	_	_
+2	he	haber	AUX	_	_	3	aux	_	_
+3	estudiado	estudiar	VERB	_	_	0	ROOT	_	_
+4	español	español	ADJ	_	_	3	obj	_	_
+5	antes	antes	ADV	_	_	3	advmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Está	estar	AUX	_	_	6	cop	_	_
+2	es	ser	AUX	_	_	6	cop	_	_
+3	mi	mi	DET	_	_	5	det	_	_
+4	primera	primero	ADJ	_	_	5	amod	_	_
+5	vez	vez	NOUN	_	_	6	obl	_	_
+6	estudiado	estudiado	ADJ	_	_	0	ROOT	_	_
+7	español	español	ADJ	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Siento	sentir	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	mucha	mucho	DET	_	_	4	det	_	_
+4	gente	gente	NOUN	_	_	5	nsubj	_	_
+5	estudió	estudiar	VERB	_	_	1	ccomp	_	_
+6	español	español	NOUN	_	_	5	obj	_	_
+7	antes	antes	ADV	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+3	estudiar	estudiar	VERB	_	_	2	csubj	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	nueve	nueve	NUM	_	_	4	nummod	_	_
+6	idioma	idioma	NOUN	_	_	3	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	sistema	sistema	NOUN	_	_	3	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	cuartos	cuarto	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	profesor	profesor	NOUN	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	paciente	paciente	ADJ	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tipo	tipo	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	aprender	aprender	VERB	_	_	1	xcomp	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	poder	poder	AUX	_	_	6	aux	_	_
+6	hablar	hablar	VERB	_	_	2	conj	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	hablantes	hablant	NOUN	_	_	6	obl	_	_
+9	nativos	nativo	ADJ	_	_	8	amod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	español	español	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	escrito	escrito	NOUN	_	_	7	nsubj	_	_
+3	español	español	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	mucho	mucho	ADV	_	_	7	advmod	_	_
+6	mas	mas	ADV	_	_	5	advmod	_	_
+7	fácil	fácil	ADJ	_	_	0	ROOT	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	oral	oral	NOUN	_	_	7	obl	_	_
+11	español	español	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+3	comprender	comprender	VERB	_	_	2	csubj	_	_
+4	cuando	cuando	SCONJ	_	_	7	mark	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	profesor	profesor	NOUN	_	_	7	nsubj	_	_
+7	habla	hablar	VERB	_	_	3	advcl	_	_
+8	español	español	ADJ	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	sonidos	sonido	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	mezclan	mezclar	VERB	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	puedo	poder	AUX	_	_	8	aux	_	_
+8	entender	entender	VERB	_	_	4	conj	_	_
+9	palabras	palabra	NOUN	_	_	8	obj	_	_
+10	individuales	individual	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	expresar	expresar	VERB	_	_	3	acl	_	_
+6	sin	sin	ADP	_	_	8	case	_	_
+7	buen	buen	ADJ	_	_	8	amod	_	_
+8	vocabulario	vocabulario	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	usando	usar	VERB	_	_	6	csubj	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	diccionario	diccionario	NOUN	_	_	1	obj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	servicial	servicial	ADJ	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	quiero	querer	VERB	_	_	6	conj	_	_
+10	expresarme	expresar yo	VERB	_	_	9	xcomp	_	_
+11	sin	sin	ADP	_	_	13	case	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	diccionario	diccionario	NOUN	_	_	9	obl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	estudié	estudié	DET	_	_	2	det	_	_
+2	latín	latín	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	secundaria	secundaria	NOUN	_	_	2	nmod	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	cuarto	cuarto	ADJ	_	_	8	nummod	_	_
+8	años	año	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Puedo	poder	AUX	_	_	2	aux	_	_
+2	usar	usar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	técnicas	técnica	NOUN	_	_	2	obj	_	_
+5	que	que	PRON	_	_	4	dep	_	_
+6	usé	usar	VERB	_	_	5	dep	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	escuela	escuela	NOUN	_	_	6	nmod	_	_
+10	secundaria	secundario	ADJ	_	_	9	amod	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	ayudarme	ayudar yo	VERB	_	_	2	advcl	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	estudiar	estudiar	VERB	_	_	12	xcomp	_	_
+15	español	español	NOUN	_	_	14	obj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	universidad	universidad	NOUN	_	_	14	obl	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	estamos	estar	AUX	_	_	4	aux	_	_
+4	aprendiendo	aprender	VERB	_	_	0	ROOT	_	_
+5	ser	ser	AUX	_	_	4	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	estar	estar	AUX	_	_	5	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	cómo	cómo	PRON	_	_	10	obl	_	_
+10	formar	formar	VERB	_	_	5	conj	_	_
+11	oraciones	oración	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	poder	poder	AUX	_	_	3	aux	_	_
+3	aprender	aprender	VERB	_	_	1	xcomp	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	hacerlo	hacer él	VERB	_	_	3	conj	_	_
+7	bien	bien	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+

@@ -1,0 +1,336 @@
+# Unnamed: 0 = 39
+# id = 199115
+# prompt = special
+# quarter = W19
+# course = SPA 3
+# age = 18
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi abuelo. El se llama *FIRST_NAME* *LAST_NAME*. El es el papa de mi padre. Yo e vivido con el desde que naci igual con mi mama y mi papa. Todos vivimos juntos.desde que era chiqita yo siempre a admirado a mi abuelo mucho. El es un hombre muy trabajador y muy inteligente. El siempre me apollado en todo lo que e sido en mi vida. Hasta en las cosas en que pense que el no me apollara como cuando le dije que tenia novia. Como soy mujer pense que no me iba acceptar pero el no es asi. El me apolla en todo. Igual me ayuda en muchas cosas. El me ayudo agarrar mi ID, mi targeta de banco, el me ayuda en todo. Cuando era pequena yo siempre estaba a su lado. Todo los domingos yo salia con el a comer y a los juegos de futbol. Estoy felix que tenemos una relacion bonita porque yo se que para muchos no es asi. Como mi papa el ama a su abuelo pero no e podidio estar con el porque esta en Mexico y mi papa aqui en los estados unidos. Pero yo y mi abuelo somo como mejores amigos. No se que haria sin el. El esen que me ensenyo ser fuerte y valiente, y muy trabajadora. El me ensenyo tomar los pasos buenos y no cayer en las cosas malas como en las drogas o en el alcohol. Y por el es por quien lucho tanto y le echo muchas ganas a mis estudios.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*FIRST_NAME*	*first_name*	SYM	_	_	3	obl	_	_
+5	*LAST_NAME*	*last_name*	PUNCT	_	_	3	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	papa	papa	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	e	e	CCONJ	_	_	3	cc	_	_
+3	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	conj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+6	desde	desde	NOUN	_	_	8	mark	_	_
+7	que	que	PRON	_	PronType=Rel	8	mark	_	_
+8	naci	nacir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+9	igual	igual	ADV	_	_	8	advmod	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	mama	mama	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	papa	papa	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	_	_
+2	vivimos	vivir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	juntos.desde	juntos.desde	ADP	_	_	6	mark	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	chiqita	chiqita	NOUN	_	Number=Sing	2	advcl	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+8	siempre	siempre	ADV	_	_	6	advmod	_	_
+9	a	a	ADP	_	_	6	case	_	_
+10	admirado	admirar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	fixed	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+14	mucho	mucho	ADV	_	_	10	advmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	inteligente	inteligente	ADJ	_	Number=Sing	6	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	siempre	siempre	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	apollado	apolladar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+7	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	_
+8	que	que	PRON	_	PronType=Rel	4	obl	_	_
+9	e	e	CCONJ	_	_	10	cc	_	_
+10	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Hasta	hasta	ADV	_	_	0	root	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	que	que	PRON	_	PronType=Rel	7	obl	_	_
+7	pense	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	acl	_	_
+8	que	que	SCONJ	_	_	12	mark	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	no	no	ADV	_	Polarity=Neg	12	nsubj	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	apollara	apollar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
+13	como	como	SCONJ	_	_	16	mark	_	_
+14	cuando	cuando	SCONJ	_	_	16	mark	_	_
+15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+16	dije	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	advcl	_	_
+17	que	que	SCONJ	_	_	18	mark	_	_
+18	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	ccomp	_	_
+19	novia	novia	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Como	como	SCONJ	_	_	3	mark	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	_
+4	pense	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+8	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+9	acceptar	acceptar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	pero	pero	CCONJ	_	_	14	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	no	no	ADV	_	Polarity=Neg	14	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	asi	asi	PRON	_	Gender=Fem|Number=Sing	4	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	apolla	apollar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Igual	igual	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	6	det	_	_
+6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obl	_	_
+3	ayudo	audar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	agarrar	agarrar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	ID	ID	PROPN	_	_	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	targeta	targeta	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	banco	banco	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	15	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	6	advcl	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	lado	lado	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	domingos	domingo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	salia	saliar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	comer	comer	VERB	_	VerbForm=Inf	7	csubj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	juegos	juego	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	felix	felix	ADJ	_	Number=Sing	0	root	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	relacion	relacion	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	advcl	_	_
+11	que	que	SCONJ	_	_	16	mark	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	16	obl	_	_
+14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	asi	asi	PRON	_	Gender=Fem|Number=Sing	10	ccomp	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Como	como	SCONJ	_	_	5	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	papa	papa	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	obj	_	_
+5	ama	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	e	e	CCONJ	_	_	12	cc	_	_
+12	podidio	podier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	estar	estar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	con	con	ADP	_	_	15	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+16	porque	porque	SCONJ	_	_	17	mark	_	_
+17	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	Mexico	Mexico	PROPN	_	_	17	obl	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
+22	papa	papa	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	_
+23	aqui	aqui	ADV	_	_	22	advmod	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	estados	estado	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	_
+27	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	26	amod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	9	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	somo	er	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	como	como	SCONJ	_	_	9	mark	_	_
+8	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	9	amod	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	0	root	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	haria	hari	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	csubj	_	_
+5	sin	sin	ADP	_	_	6	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	esen	esen	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	que	que	PRON	_	PronType=Rel	5	obl	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	ensenyo	ensenyar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+7	fuerte	fuerte	ADJ	_	Number=Sing	5	xcomp	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	valiente	valiente	ADJ	_	Number=Sing	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	ensenyo	ensenyar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tomar	tomar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	pasos	paso	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	cayer	cayer	VERB	_	VerbForm=Inf	4	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+14	malas	malo	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	_
+15	como	como	SCONJ	_	_	18	mark	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	drogas	droga	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
+19	o	o	CCONJ	_	_	22	cc	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	alcohol	alcohol	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Y	y	CCONJ	_	_	4	cc	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	es	ser	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	quien	quien	PRON	_	Number=Sing|PronType=Rel	7	obl	_	_
+7	lucho	luchar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	tanto	tanto	ADV	_	_	7	advmod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	echo	echar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
+13	ganas	gana	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

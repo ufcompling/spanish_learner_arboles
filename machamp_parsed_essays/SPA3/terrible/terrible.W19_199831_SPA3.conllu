@@ -1,0 +1,371 @@
+# Unnamed: 0 = 107
+# id = 199831
+# prompt = terrible
+# quarter = W19
+# course = SPA 3
+# age = 18
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Tagalog
+# language(s) used at home = Tagalog
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Los fantasmas no son reales. Eso es lo que creía antes de hacer que mi familia viaje a las montañas de Baguio, Filipinas. El primer día del viaje fue divertido. Fuimos en bicicleta por el parque y pasamos tiempo con mi familia en la habitación del hotel. Nuestra habitación de hotel estaba en un campamento. El campamento era muy grande. Había muchas salas. Nos quedamos en White Hall, el más antiguo y el que se encontraba en pobre condición. El piso hizo ruido ya que era viejo. Nuestros inodoros no funcionaron bien también. Mi primera noche allí, realmente no pude dormir. Todavía estaba despierto hasta las 2 a.m. y dejé las luces encendidas porque tenía miedo de que algo me asustara. Tenía un libro conmigo en ese momento, así que traté de leer para poder dormir. De repente oí un ruido. Oí pasos venir. Se estaban haciendo cada vez más fuertes. Miré afuera de mi cuarto, pero no vi a nadie. Volví a mi cama y me senté allí, con mis oídos escuchando el ruido. Estaba nerviosa, traté de calmarme. Pero luego los pasos llegaron a la entrada de mi habitación. Estaba tan asustada que escondí mi cabeza debajo de la manta. Entonces el ruido se detuvo. Levanté el coraje suficiente para levantar la vista de mi manta. Vi una figura de sombra blanca con una cara ensangrentada. Fue solo por unos segundos porque me escondí debajo de la manta otra vez. El ruido se calmó y no volví a ver al fantasma. Yo estaba tan asustado que no pude dormir. Le dije a mis padres, y ellos se rieron. Yo sé lo que vi.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	fantasmas	fantasma	NOUN	_	Number=Plur	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	reales	real	ADJ	_	Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Eso	ese	PROPN	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	creía	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	antes	antes	ADV	_	_	5	advmod	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	6	advcl	_	_
+9	que	que	SCONJ	_	_	12	mark	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+12	viaje	viajar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	montañas	montaña	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	Baguio	Baguio	PROPN	_	_	15	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+19	Filipinas	Filipinas	PROPN	_	_	17	flat	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	divertido	divertir	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+16	del	de	ADP	_	_	17	case	_	_
+17	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	campamento	campamento	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	campamento	campamento	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	salas	sala	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	quedamos	quedar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	White	White	PROPN	_	_	2	obl	_	_
+5	Hall	Hall	PROPN	_	_	4	flat	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	antiguo	antiguo	ADJ	_	Gender=Masc|Number=Sing	4	appos	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+12	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	pobre	pobre	ADJ	_	Number=Sing	17	amod	_	_
+17	condición	condición	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	piso	piso	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	ya	ya	ADV	_	_	8	mark	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	viejo	viejo	ADJ	_	Gender=Masc|Number=Sing	3	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	inodoros	inodoro	ADJ	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	funcionaron	funcionar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	bien	bien	ADV	_	_	4	advmod	_	_
+6	también	también	ADV	_	_	4	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+4	allí	allí	ADV	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	realmente	realmente	ADV	_	_	9	advmod	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
+9	dormir	dormir	VERB	_	VerbForm=Inf	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	3	advmod	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	despierto	despierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	hasta	hasta	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	2	2	NUM	_	NumForm=Digit|NumType=Card	3	obl	_	_
+7	a.m	a.m	NOUN	_	_	6	compound	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	y	y	CCONJ	_	_	2	cc	_	_
+2	dejé	dejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	luces	luz	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	encendidas	encendido	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	4	amod	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+8	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	de	de	ADP	_	_	13	mark	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	algo	algo	PRON	_	Number=Sing|PronType=Ind	13	nsubj	_	_
+12	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	asustara	asustar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	libro	libro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	1	nmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	momento	momento	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	traté	tratar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+12	de	de	ADP	_	_	13	mark	_	_
+13	leer	leer	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	para	para	ADP	_	_	16	mark	_	_
+15	poder	poder	AUX	_	VerbForm=Inf	16	aux	_	_
+16	dormir	dormir	VERB	_	VerbForm=Inf	13	advcl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	De	de	ADP	_	_	3	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	oí	oir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Oí	oí	INTJ	_	_	2	advcl	_	_
+2	pasos	paso	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	venir	venir	VERB	_	VerbForm=Inf	2	acl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+2	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	haciendo	hacer	VERB	_	VerbForm=Ger	0	root	_	_
+4	cada	cada	DET	_	Number=Sing|PronType=Tot	5	det	_	_
+5	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+7	fuertes	fuerte	ADJ	_	Number=Plur	3	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Miré	mizar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	afuera	afuera	ADV	_	_	1	advmod	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Volví	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	cama	cama	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	senté	sentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+8	allí	allí	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	oídos	oído	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+13	escuchando	escuchar	VERB	_	VerbForm=Ger	7	advcl	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	traté	tratar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	calmarme	calmar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	luego	luego	ADV	_	_	5	advmod	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	pasos	paso	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+5	llegaron	llegar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	entrada	entrada	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	escondí	escondir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	cabeza	cabeza	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	debajo	debajo	ADV	_	_	5	advmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	manta	manta	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	detuvo	detener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Levanté	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coraje	coraje	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	suficiente	suficiente	ADJ	_	Number=Sing	3	amod	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	levantar	levantar	VERB	_	VerbForm=Inf	3	acl	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vista	vista	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	manta	manta	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	figura	figura	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	sombra	sombra	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cara	cara	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+10	ensangrentada	ensangrentado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	solo	solo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	segundos	segundo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	escondí	escondir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	debajo	debajo	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	manta	manta	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	vez	vez	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	calmó	calmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	volví	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	ver	ver	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	fantasma	fantasma	NOUN	_	Number=Sing	7	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	tan	tanto	ADV	_	_	4	advmod	_	_
+4	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
+8	dormir	dormir	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	dije	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	padres	padre	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	rieron	rer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	vi	vir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

@@ -1,0 +1,246 @@
+# Unnamed: 0 = 158
+# id = 169995
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola!  Mi nombre es *FIRST_NAME*, tengo *AGE* anos. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. Yo soy de *CITY*, *PLACE*. Me la direccion de correo electronico es [*EMAIL*] (*EMAIL*). Me escuela secundaria es *PLACE* *PLACE* High School. Me universidad es University of *UNIVERSITY* *UNIVERSITY*. Yo vivo en *CITY*, *STATE*. Abhora estoy aburrido, ansado,ocupado y enojado. Yo soy activo, atlrtico y comico. [Mi]{mis}<na:det> especializaciones son economia y estadistica. Son [duros]{duras}<ga:adj> pero utiles. No me gistan las matematicas y la fisica. Son tan [aburridos]{aburridas}<ga:adj> y difficul.  La razon por la que aprendo Espanol es []{el}<ab:det:art:def> futbol. Mi club de futbol favorito es []{el}<ab:det:art:def> Real Madrid y Beijing Guoan. Quiero viajar a Madrid y Paris. El motivo es que quiero ver el partido del Real Marid y PSG. Mi jugador favorite es Critiano Ronaldo. Mi gusta mucho [el]{los}<na:det:art:def> [gato]{gatos}<na:noun>, tengo un gato: *FIRST_NAME*. Todavia quiero un gato. Yo la fascina la comida china, especialmente []{el}<ab:det:art:def> arroz frito. Este alimento se elebora con arroz y huevo.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola!  Mi nombre es *FIRST_NAME*, tengo *AGE* anos. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. [Yo]{}<pr:su:pron> soy de *CITY*, *PLACE*. Me [la]{}<pr:det:art:def> direccion de correo electronico es [*EMAIL*] (*EMAIL*). Me escuela secundaria es *PLACE* *PLACE* High School. Me universidad es University of *UNIVERSITY* *UNIVERSITY*. [Yo]{}<pr:su:pron> vivo en *CITY*, *STATE*. Abhora estoy aburrido, ansado,ocupado y enojado. [Yo]{}<pr:su:pron> soy activo, atlrtico y comico. [Mi]{Mis}<na:det> especializaciones son economia y estadistica. Son [duros]{duras}<ga:adj> pero utiles. No me gistan las matematicas y la fisica. Son tan [aburridos]{aburridas}<ga:adj> y [difficul]{difíciles}<na:adj>.  La razon por la que aprendo Espanol es []{el}<ab:det:art:def> futbol. Mi club de futbol favorito es []{el}<ab:det:art:def> Real Madrid y []{el}<ab:det:art:def> Beijing Guoan. Quiero viajar a Madrid y Paris. El motivo es que quiero ver el partido del Real Marid y []{el}<ab:det:art:def> PSG. Mi jugador favorite es Critiano Ronaldo. Mi gusta mucho el gato, tengo un gato: *FIRST_NAME*. Todavia quiero un gato. [Yo]{}<pr:su:pron> la fascina la comida china, especialmente []{el}<ab:det:art:def> arroz frito. Este alimento [se elebora]{se elabora}<fs:st:r> con arroz y huevo.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola!  Mi nombre es *FIRST_NAME* y tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Yo soy de *CITY*, *PLACE*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*). Mi escuela secundaria es *PLACE* *PLACE* High School. ie universidad es University of *UNIVERSITY* *UNIVERSITY*. Yo vivo en *CITY*, *STATE*. Ahora estoy aburrido, cansado, ocupado y enojado. Yo soy activo, atlético y cómico. Mis especializaciones son economía y estadística. Son duras, pero útiles. No me gustan las matemáticas ni la física. Son muy aburridas y difíciles.  La razón por la que aprendo español es el fútbol. Mi club de fútbol favorito es el Real Madrid y Beijing Guoan. Quiero viajar a Madrid y París. El motivo es que quiero ver el partido del Real Madrid y PSG. Mi jugador favorito es Cristiano Ronaldo. Me gustan mucho los gatos, tengo un gato: *FIRST_NAME*. Todavía quiero un gato. Me fascina la comida china, especialmente el arroz frito. Este alimento se elabora con arroz y huevo.
+# corrected2 = nan
+# text = Hola! Mi nombre es *FIRST_NAME*, tengo *AGE* anos. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. Yo soy de *CITY*, *PLACE*. Me la direccion de correo electronico es [*EMAIL*] (*EMAIL*). Me escuela secundaria es *PLACE* *PLACE* High School. Me universidad es University of *UNIVERSITY* *UNIVERSITY*. Yo vivo en *CITY*, *STATE*. Abhora estoy aburrido, ansado,ocupado y enojado. Yo soy activo, atlrtico y comico. Mi especializaciones son economia y estadistica. Son duros pero utiles. No me gistan las matematicas y la fisica. Son tan aburridos y difficul. La razon por la que aprendo Espanol es futbol. Mi club de futbol favorito es Real Madrid y Beijing Guoan. Quiero viajar a Madrid y Paris. El motivo es que quiero ver el partido del Real Marid y PSG. Mi jugador favorite es Critiano Ronaldo. Mi gusta mucho el gato, tengo un gato: *FIRST_NAME*. Todavia quiero un gato. Yo la fascina la comida china, especialmente arroz frito. Este alimento se elebora con arroz y huevo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	6	nsubj	_	_
+2	!	!	PROPN	_	_	1	punct	_	_
+3	Mi	mi	DET	_	_	4	det	_	_
+4	nombre	nombre	NOUN	_	_	6	nsubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	tengo	tener	VERB	_	_	6	advcl	_	_
+9	*AGE*	AGE	PROPN	_	_	8	obj	_	_
+10	anos	ano	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleanos	cumpleano	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*PLACE*	PLACE	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	0	ROOT	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	direccion	direccion	NOUN	_	_	9	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	correo	correo	NOUN	_	_	3	nmod	_	_
+6	electronico	electronico	ADJ	_	_	5	amod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	[	[	ADJ	_	_	9	case	_	_
+9	*EMAIL*	EMAIL	PROPN	_	_	1	nsubj	_	_
+10	]	]	PROPN	_	_	9	flat	_	_
+11	(	(	PUNCT	_	_	12	punct	_	_
+12	*EMAIL*	EMAIL	PROPN	_	_	9	flat	_	_
+13	)	)	PUNCT	_	_	12	punct	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	det	_	_
+2	escuela	escuelar	VERB	_	_	5	nsubj	_	_
+3	secundaria	secundario	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+6	*PLACE*	PLACE	PROPN	_	_	5	flat	_	_
+7	High	High	PROPN	_	_	5	appos	_	_
+8	School	School	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	det	_	_
+2	universidad	universidad	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	University	University	PROPN	_	_	0	ROOT	_	_
+5	of	of	PROPN	_	_	4	flat	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	vivo	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	2	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Abhora	Abhora	PROPN	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	aburrido	aburrido	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ansado	ansado	ADJ	_	_	3	advmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ocupado	ocupado	ADJ	_	_	5	advmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	enojado	enojado	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	activo	activo	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	atlrtico	atlrtico	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	comico	comico	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especializaciones	especialización	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	economia	economio	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	estadistica	estadistico	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Son	ser	AUX	_	_	2	cop	_	_
+2	duros	duro	ADJ	_	_	0	ROOT	_	_
+3	pero	pero	CCONJ	_	_	4	cc	_	_
+4	utiles	util	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gistan	gestar	VERB	_	_	0	ROOT	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	matematicas	matematica	NOUN	_	_	3	nsubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	fisica	fisica	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Son	ser	AUX	_	_	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	aburridos	aburrido	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	difficul	difficul	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	razon	razon	NOUN	_	_	9	nsubj	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	que	que	PRON	_	_	6	obj	_	_
+6	aprendo	aprendo	VERB	_	_	2	acl	_	_
+7	Espanol	Espanol	PROPN	_	_	6	nsubj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	futbol	futbol	NOUN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	club	club	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	futbol	futbol	NOUN	_	_	2	nmod	_	_
+5	favorito	favorito	ADJ	_	_	2	amod	_	_
+6	es	ser	AUX	_	_	2	cop	_	_
+7	Real	Real	PROPN	_	_	2	appos	_	_
+8	Madrid	Madrid	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	Beijing	Beijing	PROPN	_	_	7	conj	_	_
+11	Guoan	Guoan	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	viajar	viajar	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Madrid	Madrid	PROPN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Paris	Paris	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	motivo	motivo	NOUN	_	_	3	nsubj	_	_
+3	es	ser	AUX	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	quiero	querer	VERB	_	_	3	ccomp	_	_
+6	ver	ver	VERB	_	_	5	xcomp	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	partido	partido	NOUN	_	_	6	obj	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	Real	Real	PROPN	_	_	8	nmod	_	_
+11	Marid	Marid	PROPN	_	_	10	flat	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	PSG	PSG	PROPN	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	jugador	jugador	NOUN	_	_	5	nsubj	_	_
+3	favorite	favorite	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	Critiano	Critiano	PROPN	_	_	0	ROOT	_	_
+6	Ronaldo	Ronaldo	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	gusta	gustar	VERB	_	_	7	nsubj	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	gato	gato	NOUN	_	_	2	nsubj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	tengo	tener	VERB	_	_	0	ROOT	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	gato	gato	NOUN	_	_	7	obj	_	_
+10	:	:	PUNCT	_	_	11	punct	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	7	dep	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Todavia	Todavia	PROPN	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	gato	gato	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	fascina	fascina	NOUN	_	_	0	ROOT	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	comida	comida	NOUN	_	_	3	appos	_	_
+6	china	chino	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	especialmente	especialmente	ADV	_	_	9	advmod	_	_
+9	arroz	arroz	NOUN	_	_	5	appos	_	_
+10	frito	frito	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	alimento	alimento	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pass	_	_
+4	elebora	eleborar	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	arroz	arroz	NOUN	_	_	4	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	huevo	huevo	NOUN	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+

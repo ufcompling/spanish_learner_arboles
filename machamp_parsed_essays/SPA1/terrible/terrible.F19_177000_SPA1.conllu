@@ -1,0 +1,219 @@
+# Unnamed: 0 = 218
+# id = 177000
+# prompt = terrible
+# quarter = F19
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = English
+# language(s) used at home = nan
+# language(s) studied = French, 3 years
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Mi terrible historia es sobre una clase en la universidad. La clase se llama "Computadoras en tecnología". No me gusta esta clase porque es aburrida y hay mucho trabajo. Es el trimestre de invierno del año pasado, y estoy en treinta y seis unidades. No duermo y solo estudio un poco. Soy un buen estudiante y hago toda mi tarea. Tengo una buena calificación en la clase hasta el examen final. Me levanto el día del examen final y son las once de la mañana. Mi examen comienza y no estoy allí. Necesito salir bien en esta clase porque no quiero una mala calificación. Voy al examen final y termino la prueba, pero no termino todas las preguntas. Paso la clase, pero estoy decepcionado. Quiero hacerlo mejor. Llego al examen final treinta minutos tarde, pero necesito dormir, así que estoy bien. No me gusta dormir durante los exámenes y sé que necesito dormir más.
+# updated annotation ann2 = Mi [terrible historia]{historia terrible}<col:adj> es sobre una clase en la universidad. La clase se llama "Computadoras en tecnología". No me gusta esta clase porque es aburrida y hay mucho trabajo. Es el trimestre de invierno del año pasado, y estoy en treinta y seis unidades. No duermo y solo estudio un poco. Soy un buen estudiante y hago toda mi tarea. Tengo una buena calificación en la clase hasta el examen final. Me levanto el día del examen final y son las once de la mañana. Mi examen comienza y no estoy allí. Necesito salir bien en esta clase porque no quiero una mala calificación. Voy al examen final y termino la prueba, pero no termino todas las preguntas. Paso la clase, pero estoy decepcionado. Quiero hacerlo mejor. Llego al examen final treinta minutos tarde, pero necesito dormir, así que estoy bien. No me gusta dormir durante los exámenes y sé que necesito dormir más.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi historia terrible es sobre una clase en la universidad. La clase se llama "Computadoras en tecnología". No me gusta esta clase porque es aburrida y hay mucho trabajo. Es el trimestre de invierno del año pasado, y estoy en la unidad treinta y seis. No duermo y solo estudio un poco. Soy un buen estudiante y hago toda mi tarea. Tengo una buena calificación en la clase hasta el examen final. Me levanto el día del examen final y son las once de la mañana. Mi examen comienza y no estoy allí. Necesito ir bien en esta clase porque no quiero una mala calificación. Voy al examen final y termino la prueba, pero no termino todas las preguntas. Apruebo el examen, pero estoy decepcionado. Quiero hacerlo mejor. Llego al examen final treinta minutos tarde, pero necesito dormir, así que estoy bien. No me gusta dormir durante los exámenes y sé que necesito dormir más. 
+# corrected2 = nan
+# text = Mi terrible historia es sobre una clase en la universidad. La clase se llama "Computadoras en tecnología". No me gusta esta clase porque es aburrida y hay mucho trabajo. Es el trimestre de invierno del año pasado, y estoy en treinta y seis unidades. No duermo y solo estudio un poco. Soy un buen estudiante y hago toda mi tarea. Tengo una buena calificación en la clase hasta el examen final. Me levanto el día del examen final y son las once de la mañana. Mi examen comienza y no estoy allí. Necesito salir bien en esta clase porque no quiero una mala calificación. Voy al examen final y termino la prueba, pero no termino todas las preguntas. Paso la clase, pero estoy decepcionado. Quiero hacerlo mejor. Llego al examen final treinta minutos tarde, pero necesito dormir, así que estoy bien. No me gusta dormir durante los exámenes y sé que necesito dormir más.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	terrible	terrible	ADJ	_	Number=Sing	3	amod	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	sobre	sobre	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	clase	clase	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+6	Computadoras	Computadoras	PROPN	_	_	4	obj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	aburrida	aburrido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
+12	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	año	año	NOUN	_	AdvType=Tim	3	nmod	_	_
+8	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	en	en	ADP	_	_	16	case	_	_
+13	treinta	treinta	NUM	_	NumForm=Word|NumType=Card	16	nummod	_	_
+14	y	y	CCONJ	_	_	13	compound	_	_
+15	seis	seis	NUM	_	NumForm=Word|NumType=Card	13	compound	_	_
+16	unidades	unidad	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	duermo	duermar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	solo	solo	ADJ	_	Gender=Masc|Number=Sing	5	advmod	_	_
+5	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	poco	poco	ADV	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	buen	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	buena	buen	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	calificación	calificación	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	clase	clase	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	hasta	hasta	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	examen	examen	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+11	final	final	ADJ	_	Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	levanto	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	día	día	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	examen	examen	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	final	final	ADJ	_	Number=Sing	6	amod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	conj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	examen	examen	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	allí	allí	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	salir	salir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	bien	bien	ADV	_	_	2	advmod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	mala	malo	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+12	calificación	calificación	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	examen	examen	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	final	final	ADJ	_	Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	termino	terminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	prueba	prueba	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	termino	terminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	14	det	_	_
+14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	preguntas	pregunta	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Paso	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	decepcionado	decepcionado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hacerlo	hacer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	mejor	mejor	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llego	llegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	examen	examen	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	final	final	ADJ	_	Number=Sing	3	amod	_	_
+5	treinta	treinta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+7	tarde	tarde	ADV	_	_	1	advmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	pero	pero	CCONJ	_	_	10	cc	_	_
+10	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	dormir	dormir	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	así	así	ADV	_	_	16	mark	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
+15	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	bien	bien	ADV	_	_	10	advcl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dormir	dormir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	durante	durante	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	exámenes	exámín	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+12	dormir	dormir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

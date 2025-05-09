@@ -1,0 +1,90 @@
+# Unnamed: 0 = 43
+# id = 199738
+# prompt = yourself
+# quarter = S20
+# course = SPA 3
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Me llamo *FIRST_NAME* pero puede llamarme *FIRST_NAME*. [Yo]{}<pr:su:pron> vivir en *CITY*, *STATE* con mi mamá, papá y hermano gemelo. Este año, tengo *AGE* años y estoy en mi segundo año a []{la}<ab:det:art:def> *UNIVERSITY* Estoy estudiando comunicacion y lo amar mucho! Lo es [un]{una}<ga:det> especialidad muy aplicable y puedo practicar
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Me llamo *FIRST_NAME*, pero puede llamarme *FIRST_NAME*. Vivo en *CITY*, *STATE*, con mi mamá, mi papá y mi hermano gemelo. Este año he cumplido *AGE* años y estoy en mi segundo año en la *UNIVERSITY* Estoy estudiando Comunicación y ¡me encanta! Es una especialidad muy aplicable y la puedo practicar
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME* pero puede llamarme *FIRST_NAME*. Yo vivir en *CITY*, *STATE* con mi mamá, papá y hermano gemelo. Este año, tengo *AGE* años y estoy en mi segundo año a *UNIVERSITY* UNIVERSITY*. Estoy estudiando comunicacion y lo amar mucho! Lo es un especialidad muy aplicable y puedo practicar
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	llamo	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	puede	poder	AUX	_	_	6	aux	_	_
+6	llamarme	llamar yo	VERB	_	_	2	conj	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	nsubj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	vivir	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	state	ADJ	_	_	2	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	mamá	mamá	NOUN	_	_	6	obl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	papá	papá	NOUN	_	_	9	appos	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	hermano	hermano	NOUN	_	_	9	conj	_	_
+14	gemelo	gemelo	ADJ	_	_	9	amod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	año	año	NOUN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	tengo	tener	VERB	_	_	0	ROOT	_	_
+5	*AGE*	AGE	PROPN	_	_	4	obj	_	_
+6	años	año	NOUN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	estoy	estar	VERB	_	_	4	conj	_	_
+9	en	en	ADP	_	_	12	case	_	_
+10	mi	mi	DET	_	_	12	det	_	_
+11	segundo	segundo	ADJ	_	_	12	amod	_	_
+12	año	año	NOUN	_	_	8	obl	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	8	obj	_	_
+15	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	flat	_	_
+16	*	*	NUM	_	_	8	obl	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	estudiando	estudiar	VERB	_	_	0	ROOT	_	_
+3	comunicacion	comunicacion	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	lo	él	PRON	_	_	6	obj	_	_
+6	amar	amar	VERB	_	_	2	conj	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	!	!	PUNCT	_	_	2	punct	_	_
+
+1	Lo	él	PRON	_	_	4	obj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	especialidad	especialidad	NOUN	_	_	0	ROOT	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	aplicable	aplicable	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	puedo	poder	AUX	_	_	9	aux	_	_
+9	practicar	practicar	VERB	_	_	4	conj	_	_
+

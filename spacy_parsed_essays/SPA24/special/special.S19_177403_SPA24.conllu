@@ -1,0 +1,334 @@
+# Unnamed: 0 = 162
+# id = 177403
+# prompt = special
+# quarter = S19
+# course = SPA 24
+# age = 20
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = yes, Spanish
+# language(s) studied = None, Spanish is my native language 
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi maestra de quinto grado, Mrs. *LAST_NAME*. Ella fue una de las primeras maestras que tuve en Estados Unidos cuándo mi familia y yo nos mudamos a *CITY* de Monterrey, Mexico, en el 2009. En ese entonces yo no hablaba casi nada de ingles, y extranaba a mi familia y a mis amigos en la escuela porque había llegado a un lugar desconocido y muy diferente al que estaba acostumbrada. La única persona que me hacía sentir en casa era Mrs. *LAST_NAME*, quién era la maestra de ciencias y me gustaba estar en su clase y hablar con ella. Después de muchos anos, cuándo yo estaba en prepa, regresaba a platicar con ella de mi vida y seguimos en contacto hasta el momento que nos mudamos a *CITY*. Mi graduación de prepa fué en el 2017, y decidí irme a vivir en Alemánia por un año antes de empezar universidad; durante este tiempo, Mrs. *LAST_NAME* y yo nos mandabamos correos porque me acordé como se sentía estar en un país donde no hablaba o entendía el lenguaje. Ella siempre me respondía y me contaba de sus propias historias, y ahorita que soy estudiante en la universidad de *UNIVERSITY*, el mismo lugar donde fuí a Elementary School, a veces regreso a su salon en donde todavía es maestra y hago trabajo de voluntaria para sus estudiantes. Por ejemplo, ayudarles con tarea o leer libros con ellos. Espero algún día ser alguien que ayude a otra persona de la misma manera que Mrs. *LAST_NAME* me ayudó a mi cuándo era pequeña.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	maestra	maestra	NOUN	_	_	0	ROOT	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	quinto	quinto	ADJ	_	_	12	amod	_	_
+12	grado	grado	NOUN	_	_	9	nmod	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	Mrs	Mrs	PROPN	_	_	9	appos	_	_
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+1	*LAST_NAME*	last_name	PRON	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	fue	ser	AUX	_	_	3	cop	_	_
+3	una	uno	PRON	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	las	el	DET	_	_	7	det	_	_
+6	primeras	primero	ADJ	_	_	7	amod	_	_
+7	maestras	maestra	NOUN	_	_	3	nmod	_	_
+8	que	que	PRON	_	_	9	nsubj	_	_
+9	tuve	tener	VERB	_	_	7	acl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	Estados	Estados	PROPN	_	_	9	obl	_	_
+12	Unidos	Unidos	PROPN	_	_	11	flat	_	_
+13	cuándo	cuándo	PRON	_	_	15	nmod	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	familia	familia	NOUN	_	_	9	obj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	yo	yo	PRON	_	_	19	nsubj	_	_
+18	nos	yo	PRON	_	_	19	obj	_	_
+19	mudamos	mudar	VERB	_	_	3	conj	_	_
+20	a	a	ADP	_	_	21	case	_	_
+21	*CITY*	CITY	PROPN	_	_	19	obj	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	Monterrey	Monterrey	PROPN	_	_	19	obj	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	Mexico	Mexico	PROPN	_	_	23	conj	_	_
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	el	el	DET	_	_	29	det	_	_
+29	2009	2009	NOUN	_	_	19	obl	_	_
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	ese	ese	PRON	_	_	3	det	_	_
+3	entonces	entonces	ADV	_	_	6	advmod	_	_
+4	yo	yo	PRON	_	_	6	nsubj	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	hablaba	hablar	VERB	_	_	0	ROOT	_	_
+7	casi	casi	ADV	_	_	8	advmod	_	_
+8	nada	nada	PRON	_	_	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	ingles	ingl	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	extranaba	extranar	VERB	_	_	6	conj	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	_	16	det	_	_
+16	familia	familia	NOUN	_	_	13	obj	_	_
+17	y	y	CCONJ	_	_	20	cc	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	mis	mi	DET	_	_	20	det	_	_
+20	amigos	amigo	NOUN	_	_	16	conj	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	la	el	DET	_	_	23	det	_	_
+23	escuela	escuela	NOUN	_	_	20	nmod	_	_
+24	porque	porque	SCONJ	_	_	26	mark	_	_
+25	había	haber	AUX	_	_	26	aux	_	_
+26	llegado	llegar	VERB	_	_	13	advcl	_	_
+27	a	a	ADP	_	_	29	case	_	_
+28	un	uno	DET	_	_	29	det	_	_
+29	lugar	lugar	NOUN	_	_	26	obl	_	_
+30	desconocido	desconocido	ADJ	_	_	29	amod	_	_
+31	y	y	CCONJ	_	_	33	cc	_	_
+32	muy	mucho	ADV	_	_	33	advmod	_	_
+33	diferente	diferente	ADJ	_	_	29	amod	_	_
+34	al	al	ADP	_	_	35	case	_	_
+35	que	que	PRON	_	_	37	nsubj	_	_
+36	estaba	estar	AUX	_	_	37	cop	_	_
+37	acostumbrada	acostumbrado	ADJ	_	_	33	acl	_	_
+38	.	.	PUNCT	_	_	6	punct	_	_
+
+1	La	el	DET	_	_	3	det	_	_
+2	única	único	ADJ	_	_	3	amod	_	_
+3	persona	persona	NOUN	_	_	11	nsubj	_	_
+4	que	que	PRON	_	_	6	nsubj	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	hacía	hacer	VERB	_	_	3	acl	_	_
+7	sentir	sentir	VERB	_	_	6	xcomp	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	casa	casa	NOUN	_	_	6	obl	_	_
+10	era	ser	AUX	_	_	11	cop	_	_
+11	Mrs	Mrs	PROPN	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	*LAST_NAME*	last_name	ADV	_	_	0	ROOT	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	quién	quién	PRON	_	_	6	nsubj	_	_
+4	era	ser	AUX	_	_	6	cop	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	maestra	maestra	NOUN	_	_	1	advcl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	ciencias	ciencia	NOUN	_	_	6	nmod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	gustaba	gustar	VERB	_	_	6	conj	_	_
+12	estar	estar	VERB	_	_	11	xcomp	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	_	15	det	_	_
+15	clase	clase	NOUN	_	_	12	obl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	hablar	hablar	VERB	_	_	11	conj	_	_
+18	con	con	ADP	_	_	19	case	_	_
+19	ella	él	PRON	_	_	17	obl	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Después	después	ADV	_	_	12	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	muchos	mucho	DET	_	_	4	det	_	_
+4	anos	ano	NOUN	_	_	1	obl	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	cuándo	cuándo	PRON	_	_	10	iobj	_	_
+7	yo	yo	PRON	_	_	10	nsubj	_	_
+8	estaba	estar	AUX	_	_	10	cop	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	prepa	prepa	PROPN	_	_	12	obl	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	regresaba	regresar	VERB	_	_	0	ROOT	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	platicar	platicar	VERB	_	_	12	xcomp	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	ella	él	PRON	_	_	12	obl	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	vida	vida	NOUN	_	_	16	nmod	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	seguimos	seguir	VERB	_	_	12	conj	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	contacto	contacto	NOUN	_	_	21	obl	_	_
+24	hasta	hasta	ADP	_	_	26	case	_	_
+25	el	el	DET	_	_	26	det	_	_
+26	momento	momento	NOUN	_	_	21	obl	_	_
+27	que	que	PRON	_	_	29	obj	_	_
+28	nos	yo	PRON	_	_	29	obj	_	_
+29	mudamos	mudar	VERB	_	_	26	acl	_	_
+30	a	a	ADP	_	_	31	case	_	_
+31	*CITY*	CITY	PROPN	_	_	29	obl	_	_
+32	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	graduación	graduación	NOUN	_	_	11	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	prepa	prepa	NOUN	_	_	2	nmod	_	_
+5	fué	fué	PROPN	_	_	2	appos	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	2017	2017	NOUN	_	_	5	obl	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	decidí	decidir	VERB	_	_	0	ROOT	_	_
+12	irme	ir yo	VERB	_	_	11	xcomp	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	vivir	vivir	VERB	_	_	12	advcl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	Alemánia	Alemánia	PROPN	_	_	14	obl	_	_
+17	por	por	ADP	_	_	19	case	_	_
+18	un	uno	DET	_	_	19	det	_	_
+19	año	año	NOUN	_	_	20	obl	_	_
+20	antes	antes	ADV	_	_	14	advmod	_	_
+21	de	de	ADP	_	_	22	mark	_	_
+22	empezar	empezar	VERB	_	_	20	advcl	_	_
+23	universidad	universidad	NOUN	_	_	22	obj	_	_
+24	;	;	PUNCT	_	_	27	punct	_	_
+25	durante	durante	ADP	_	_	27	case	_	_
+26	este	este	DET	_	_	27	det	_	_
+27	tiempo	tiempo	NOUN	_	_	11	obl	_	_
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	Mrs	Mrs	PROPN	_	_	27	appos	_	_
+30	.	.	PUNCT	_	_	11	punct	_	_
+
+1	*LAST_NAME*	last_name	PRON	_	_	0	ROOT	_	_
+2	y	y	CCONJ	_	_	5	cc	_	_
+3	yo	yo	PRON	_	_	5	nsubj	_	_
+4	nos	yo	PRON	_	_	5	iobj	_	_
+5	mandabamos	mandabar	VERB	_	_	1	conj	_	_
+6	correos	correo	NOUN	_	_	5	obj	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	me	yo	PRON	_	_	9	expl:pv	_	_
+9	acordé	acordar	VERB	_	_	5	advcl	_	_
+10	como	como	SCONJ	_	_	12	mark	_	_
+11	se	él	PRON	_	_	12	expl:pv	_	_
+12	sentía	sentir	VERB	_	_	9	advcl	_	_
+13	estar	estar	VERB	_	_	12	xcomp	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	un	uno	DET	_	_	16	det	_	_
+16	país	país	NOUN	_	_	13	obl	_	_
+17	donde	donde	PRON	_	_	19	obl	_	_
+18	no	no	ADV	_	_	19	advmod	_	_
+19	hablaba	hablar	VERB	_	_	16	acl	_	_
+20	o	o	CCONJ	_	_	21	cc	_	_
+21	entendía	entender	VERB	_	_	19	conj	_	_
+22	el	el	DET	_	_	23	det	_	_
+23	lenguaje	lenguaje	NOUN	_	_	19	obj	_	_
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	siempre	siempre	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	respondía	responder	VERB	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	_	7	obj	_	_
+7	contaba	contar	VERB	_	_	4	conj	_	_
+8	de	de	ADP	_	_	11	case	_	_
+9	sus	su	DET	_	_	11	det	_	_
+10	propias	propio	ADJ	_	_	11	amod	_	_
+11	historias	historia	NOUN	_	_	7	obj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	ahorita	ahoritar	VERB	_	_	4	conj	_	_
+15	que	que	PRON	_	_	17	nsubj	_	_
+16	soy	ser	AUX	_	_	17	cop	_	_
+17	estudiante	estudiante	ADJ	_	_	14	ccomp	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	universidad	universidad	NOUN	_	_	17	nmod	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	20	nmod	_	_
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	el	el	DET	_	_	26	det	_	_
+25	mismo	mismo	DET	_	_	24	det	_	_
+26	lugar	lugar	NOUN	_	_	20	appos	_	_
+27	donde	donde	PRON	_	_	35	obl	_	_
+28	fuí	fuí	NOUN	_	_	27	dep	_	_
+29	a	a	ADP	_	_	30	case	_	_
+30	Elementary	Elementary	PROPN	_	_	27	dep	_	_
+31	School	School	PROPN	_	_	30	flat	_	_
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	a	a	ADP	_	_	35	advmod	_	_
+34	veces	veces	NOUN	_	_	33	fixed	_	_
+35	regreso	regreso	NOUN	_	_	26	acl	_	_
+36	a	a	ADP	_	_	38	case	_	_
+37	su	su	DET	_	_	38	det	_	_
+38	salon	salon	PROPN	_	_	35	nmod	_	_
+39	en	en	ADP	_	_	40	case	_	_
+40	donde	donde	PRON	_	_	43	obl	_	_
+41	todavía	todavía	ADV	_	_	43	advmod	_	_
+42	es	ser	AUX	_	_	43	cop	_	_
+43	maestra	maestra	NOUN	_	_	35	acl	_	_
+44	y	y	CCONJ	_	_	45	cc	_	_
+45	hago	hacer	VERB	_	_	43	conj	_	_
+46	trabajo	trabajo	NOUN	_	_	45	obj	_	_
+47	de	de	ADP	_	_	48	case	_	_
+48	voluntaria	voluntario	ADJ	_	_	46	nmod	_	_
+49	para	para	ADP	_	_	51	case	_	_
+50	sus	su	DET	_	_	51	det	_	_
+51	estudiantes	estudiante	NOUN	_	_	45	obl	_	_
+52	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Por	por	ADP	_	_	4	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	ayudarles	ayudar él	VERB	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	tarea	tarea	NOUN	_	_	4	obj	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	leer	leer	VERB	_	_	4	conj	_	_
+9	libros	libro	NOUN	_	_	8	obj	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	ellos	él	PRON	_	_	8	obl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	algún	alguno	DET	_	_	3	det	_	_
+3	día	día	NOUN	_	_	1	obl	_	_
+4	ser	ser	AUX	_	_	5	cop	_	_
+5	alguien	alguien	PRON	_	_	1	advcl	_	_
+6	que	que	SCONJ	_	_	7	nsubj	_	_
+7	ayude	ayudar	VERB	_	_	5	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	otra	otro	DET	_	_	10	det	_	_
+10	persona	persona	NOUN	_	_	7	obj	_	_
+11	de	de	ADP	_	_	14	case	_	_
+12	la	el	DET	_	_	14	det	_	_
+13	misma	mismo	DET	_	_	12	det	_	_
+14	manera	manera	NOUN	_	_	10	nmod	_	_
+15	que	que	SCONJ	_	_	16	mark	_	_
+16	Mrs	Mrs	PROPN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*LAST_NAME*	LAST_NAME	PROPN	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	ayudó	ayudar	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	cuándo	cuándo	PRON	_	_	8	obl	_	_
+7	era	ser	AUX	_	_	8	cop	_	_
+8	pequeña	pequeño	ADJ	_	_	3	ccomp	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+

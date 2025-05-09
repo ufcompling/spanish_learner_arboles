@@ -1,0 +1,221 @@
+# Unnamed: 0 = 88
+# id = 178335
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = I am 21 years old. 
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = I speak Vietnamese at home. 
+# language(s) studied = English is my second language. 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy un estudiante de tercer [años]{año}<na:noun> en la Universidad de *UNIVERSITY* *UNIVERSITY*. Ser aceptado en []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY* es uno de mis momentos más felices. Amo mi campus. Es grande y [bonita]{bonito}<ga:adj>. Hay muchos estudiantes de diferentes países. Me gusta caminar en el campus y mirar las ardillas. Me gusta estudiar en la biblioteca porque es tranquila y limpia. Hay un gimnasio moderno en el campus, donde hago ejercicio todos los días. Hay muchas clases de ejercicio como yoga, escalada, boxeo, aeróbico y zumba. Mi edificio [favorita]{favorito}<ga:adj> es el centro estudiantil. Hay una la cafetería y la oficina de computadora. Me gusta almorzar con mis amigos. La residencia estudiantil está cerca de los [salón]{salones}<na:noun> de clases. []{La}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY* también es donde conozco a mi novio y a todos mis amigos cercanos. Estoy agradecido por todo lo que experimento. Haré todo lo posible para lograr mi futura carrera. Quiero que mis padres se sientan orgullosos de mí.    
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy un estudiante de tercer [años]{año}<na:noun> en la Universidad de *UNIVERSITY* *UNIVERSITY*. Ser aceptado en *UNIVERSITY* *UNIVERSITY* es uno de mis momentos más felices. Amo mi campus. Es grande y [bonita]{bonito}<ga:adj>. Hay muchos estudiantes de diferentes países. Me gusta caminar en el campus y mirar las ardillas. Me gusta estudiar en la biblioteca porque es tranquila y limpia. Hay un gimnasio moderno en el campus, donde hago ejercicio todos los días. Hay muchas clases de ejercicio como yoga, escalada, boxeo, aeróbico y zumba. Mi edificio [favorita]{favorito}<ga:adj> es el centro estudiantil. Hay una [la]{}<pr:det:art:def> cafetería y la oficina de computadora. Me gusta almorzar con mis amigos. La residencia estudiantil está cerca de los [salón]{salones}<na:noun> de clases. *UNIVERSITY* *UNIVERSITY* también es donde [conozco]{he conocido}<fs:st:t> a mi novio y a todos mis amigos cercanos. Estoy agradecido por todo lo que experimento. Haré todo lo posible para lograr mi futura carrera. Quiero que mis padres se sientan orgullosos de mí.    
+# verbs annotation ann2 = nan
+# corrected1 = Soy un estudiante de tercer año en la Universidad de *UNIVERSITY* *UNIVERSITY*. Ser aceptado en la *UNIVERSITY* *UNIVERSITY* ha sido uno de mis momentos más felices. Amo mi campus. Es grande y bonito. Hay muchos estudiantes de diferentes países. Me gusta caminar en el campus y mirar las ardillas. Me gusta estudiar en la biblioteca porque es tranquila y limpia. Hay un gimnasio moderno en el campus, donde hago ejercicio todos los días. Hay muchas clases de deporte como yoga, escalada, boxeo, aeróbica y zumba. Mi edificio favorito es el centro estudiantil. Hay una cafetería y la oficina de computadoras. Me gusta almorzar con mis amigos. La residencia estudiantil está cerca de los salones de clases. La *UNIVERSITY* *UNIVERSITY* también es donde conocí a mi novio y a todos mis amigos cercanos. Estoy agradecido por todo lo que experimento. Haré todo lo posible para lograr mi futura carrera. Quiero que mis padres se sientan orgullosos de mí.
+# corrected2 = nan
+# text = Soy un estudiante de tercer años en la Universidad de *UNIVERSITY* *UNIVERSITY*. Ser aceptado en *UNIVERSITY* *UNIVERSITY* es uno de mis momentos más felices. Amo mi campus. Es grande y bonita. Hay muchos estudiantes de diferentes países. Me gusta caminar en el campus y mirar las ardillas. Me gusta estudiar en la biblioteca porque es tranquila y limpia. Hay un gimnasio moderno en el campus, donde hago ejercicio todos los días. Hay muchas clases de ejercicio como yoga, escalada, boxeo, aeróbico y zumba. Mi edificio favorita es el centro estudiantil. Hay una la cafetería y la oficina de computadora. Me gusta almorzar con mis amigos. La residencia estudiantil está cerca de los salón de clases. *UNIVERSITY* *UNIVERSITY* también es donde conozco a mi novio y a todos mis amigos cercanos. Estoy agradecido por todo lo que experimento. Haré todo lo posible para lograr mi futura carrera. Quiero que mis padres se sientan orgullosos de mí.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	tercer	tercer	ADJ	_	_	6	amod	_	_
+6	años	año	NOUN	_	_	3	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	9	flat	_	_
+12	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ser	ser	AUX	_	_	2	aux	_	_
+2	aceptado	aceptar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	2	obl	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	uno	uno	PRON	_	_	2	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	momentos	momento	NOUN	_	_	7	nmod	_	_
+11	más	más	ADV	_	_	12	advmod	_	_
+12	felices	feliz	ADJ	_	_	10	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	campus	campus	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	grande	grande	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	bonita	bonito	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	estudiantes	estudiante	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	diferentes	diferente	DET	_	_	6	det	_	_
+6	países	país	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	caminar	caminar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	campus	campus	NOUN	_	_	3	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	mirar	mirar	VERB	_	_	3	conj	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	ardillas	ardilla	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	estudiar	estudiar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	biblioteca	biblioteca	NOUN	_	_	3	obl	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	tranquila	tranquilo	ADJ	_	_	3	advcl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	limpia	limpio	ADJ	_	_	9	conj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	gimnasio	gimnasio	NOUN	_	_	1	obj	_	_
+4	moderno	moderno	ADJ	_	_	3	amod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	campus	campus	NOUN	_	_	3	nmod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	donde	donde	PRON	_	_	10	obl	_	_
+10	hago	hacer	VERB	_	_	7	acl	_	_
+11	ejercicio	ejercicio	NOUN	_	_	10	obj	_	_
+12	todos	todo	DET	_	_	13	det	_	_
+13	los	el	DET	_	_	14	det	_	_
+14	días	día	NOUN	_	_	10	obl	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	clases	clase	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	ejercicio	ejercicio	NOUN	_	_	3	nmod	_	_
+6	como	como	SCONJ	_	_	7	mark	_	_
+7	yoga	yoga	NOUN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	escalada	escalado	ADJ	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	boxeo	boxeo	NOUN	_	_	7	conj	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	aeróbico	aeróbico	ADJ	_	_	7	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	zumba	zumba	NOUN	_	_	7	conj	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	edificio	edificio	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	centro	centro	NOUN	_	_	0	ROOT	_	_
+7	estudiantil	estudiantil	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cafetería	cafetería	NOUN	_	_	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	oficina	oficina	NOUN	_	_	4	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	computadora	computadora	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	almorzar	almorzar	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	amigos	amigo	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	residencia	residencia	NOUN	_	_	5	nsubj	_	_
+3	estudiantil	estudiantil	ADJ	_	_	2	amod	_	_
+4	está	estar	AUX	_	_	5	cop	_	_
+5	cerca	cerca	ADV	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	salón	salón	NOUN	_	_	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	clases	clase	NOUN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	nsubj	_	_
+2	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	1	flat	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	es	ser	AUX	_	_	0	ROOT	_	_
+5	donde	donde	PRON	_	_	6	obl	_	_
+6	conozco	conocer	VERB	_	_	4	ccomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	novio	novio	NOUN	_	_	6	obj	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	a	a	ADP	_	_	14	case	_	_
+12	todos	todo	DET	_	_	13	det	_	_
+13	mis	mi	DET	_	_	14	det	_	_
+14	amigos	amigo	NOUN	_	_	9	conj	_	_
+15	cercanos	cercano	ADJ	_	_	14	amod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	agradecido	agradecido	ADJ	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	7	mark	_	_
+4	todo	todo	DET	_	_	5	det	_	_
+5	lo	él	PRON	_	_	7	det	_	_
+6	que	que	PRON	_	_	7	nsubj	_	_
+7	experimento	experimentar	VERB	_	_	2	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Haré	hacer	VERB	_	_	4	cop	_	_
+2	todo	todo	DET	_	_	3	det	_	_
+3	lo	él	PRON	_	_	4	det	_	_
+4	posible	posible	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	lograr	lograr	VERB	_	_	4	acl	_	_
+7	mi	mi	DET	_	_	9	det	_	_
+8	futura	futuro	ADJ	_	_	9	amod	_	_
+9	carrera	carrera	NOUN	_	_	6	obj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	padres	padre	NOUN	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	sientan	sentar	VERB	_	_	1	ccomp	_	_
+7	orgullosos	orgulloso	ADJ	_	_	6	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	mí	yo	PRON	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+

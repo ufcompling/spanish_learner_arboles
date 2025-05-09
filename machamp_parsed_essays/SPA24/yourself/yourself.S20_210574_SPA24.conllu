@@ -1,0 +1,290 @@
+# Unnamed: 0 = 90
+# id = 210574
+# prompt = yourself
+# quarter = S20
+# course = SPA 24
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Chinese
+# language(s) studied = Chinese: native
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola, soy de *CITY*, *PLACE*. Fui a la escuela secundaria en la ciudad de *CITY*, *STATE*. Tengo 20 años y [estoy]{soy}<conf:v:seta> [una]{}<pr:det:art:indef> estudiante en la Universidad de California, Davis. Estudio [la]{}<pr:det:art:def> economía y quiero []{una}<ab:det:art:indef> asignatura secundaria de español. En mi tiempo libre, me gusta ver [las]{}<pr:det:art:def> películas , escuchar [la]{}<pr:det:art:def> música, leer [los]{}<pr:det:art:def> libros y bailar con mis amigas. Juego muchos deportes, por ejemplo, el tenis, el baloncesto y esgrima. También me encanta pasar [los]{}<pr:det:art:def> tiempos con mis amigos. Este es mi segundo año en California, y me gusta este lugar porque tiene buenos tiempos todos los días.  Prefiero el clima cálido, con mucho sol todos los días. Es una pena que no pueda salir con mis amigos hoy en día debido al virus. No odio las clases en línea, pero prefiero ir a clase en el campus y ver []{los}<ab:det:art:def> profesores y mis amigos en persona porque me encantan alterar y hablar con la gente. Ya tengo que quedarme en casa todo el día, empiezo a aprender a cocinar y hornear. También veo programas de Netflix y videos de youtube cuando me quedo en casa sola. Hoy en día, [yo]{}<pr:su:pron> empiezo a disfrutar de los tiempos de estar solo. Con todo, espero que el virus desaparezca, para que la vida pueda volver a los días normales.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola, soy de *CITY*, *PLACE*. Fui a la escuela secundaria en la ciudad de *CITY*, *STATE*. Tengo 20 años y [estoy]{soy}<conf:v:seta> una estudiante en la Universidad de California, Davis. Estudio [la]{}<pr:det:art:def> economía y quiero []{una}<ab:det:art:indef> asignatura secundaria de español. En mi tiempo libre, me gusta ver [las]{}<pr:det:art:def> películas , escuchar [la]{}<pr:det:art:def> música, leer [los]{}<pr:det:art:def> libros y bailar con mis amigas. Juego muchos deportes, por ejemplo, [el]{}<pr:det:art:def> tenis, [el]{}<pr:det:art:def> baloncesto y esgrima. También me encanta pasar [los]{}<pr:det:art:def> [tiempos]{tiempo}<in:noun> con mis amigos. Este es mi segundo año en California, y me gusta este lugar porque tiene [buenos]{buen}<in:adj> [tiempos]{tiempo}<in:noun> todos los días.  Prefiero el clima cálido, con mucho sol todos los días. Es una pena que no pueda salir con mis amigos hoy en día debido al virus. No odio las clases en línea, pero prefiero ir a clase en el campus y ver profesores y mis amigos en persona porque me [encantan]{encanta}<fs:st:pn> alterar y hablar con la gente. Ya tengo que quedarme en casa todo el día, empiezo a aprender a cocinar y hornear. También veo programas de Netflix y videos de youtube cuando me quedo en casa sola. Hoy en día, [yo]{}<pr:su:pron> empiezo a disfrutar [de los]{del}<in:det> [tiempos]{tiempo}<in:noun> de estar solo. Con todo, espero que el virus desaparezca, para que la vida pueda volver a los días normales.
+# verbs annotation ann2 = nan
+# corrected1 = Hola, soy de *CITY*, *PLACE*. Fui a la escuela secundaria en la ciudad de *CITY*, *STATE*. Tengo 20 años y soy estudiante en la Universidad de California, Davis. Estudio Economía y quiero hacer una asignatura secundaria de Español. En mi tiempo libre, me gusta ver películas, escuchar música, leer libros y bailar con mis amigas. Juego muchos deportes, por ejemplo, tenis, baloncesto y esgrima. También me encanta pasar tiempo con mis amigos. Este es mi segundo año en California, y me gusta este lugar porque hace buen tiempo todos los días. Prefiero el clima cálido, con mucho sol todos los días. Es una pena que no pueda salir con mis amigos hoy en día debido al virus. No odio las clases en línea, pero prefiero ir a clase en el campus y ver a los profesores y a mis amigos en persona porque me encanta interactuar y hablar con la gente. Ya que tengo que quedarme en casa todo el día, empiezo a aprender a cocinar y hornear. También veo programas de Netflix y videos de YouTube cuando me quedo en casa sola. Hoy en día, empiezo a disfrutar de estar sola. Con todo, espero que el virus desaparezca, para que la vida pueda volver a la normalidad.
+# corrected2 = nan
+# text = Hola, soy de *CITY*, *PLACE*. Fui a la escuela secundaria en la ciudad de *CITY*, *STATE*. Tengo *AGE* años y estoy una estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estudio la economía y quiero asignatura secundaria de español. En mi tiempo libre, me gusta ver las películas , escuchar la música, leer los libros y bailar con mis amigas. Juego muchos deportes, por ejemplo, el tenis, el baloncesto y esgrima. También me encanta pasar los tiempos con mis amigos. Este es mi segundo año en *STATE*, y me gusta este lugar porque tiene buenos tiempos todos los días. Prefiero el clima cálido, con mucho sol todos los días. Es una pena que no pueda salir con mis amigos hoy en día debido al virus. No odio las clases en línea, pero prefiero ir a clase en el campus y ver profesores y mis amigos en persona porque me encantan alterar y hablar con la gente. Ya tengo que quedarme en casa todo el día, empiezo a aprender a cocinar y hornear. También veo programas de Netflix y videos de youtube cuando me quedo en casa sola. Hoy en día, yo empiezo a disfrutar de los tiempos de estar solo. Con todo, espero que el virus desaparezca, para que la vida pueda volver a los días normales.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	_
+4	de	de	ADP	_	_	1	case	_	_
+5	*CITY*	*city*	PUNCT	_	_	1	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	*PLACE*	*place*	PUNCT	_	_	5	appos	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	8	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	4	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	*STATE*	*state*	PROPN	_	_	10	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	SYM	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	estudiante	estudiante	NOUN	_	Number=Sing	1	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Universidad	Universidad	PROPN	_	_	7	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	*university*	PUNCT	_	_	10	flat	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	*UNIVERSITY*	*university*	PUNCT	_	_	10	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	economía	economía	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	asignatura	asignatura	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	español	español	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	libre	libre	ADJ	_	Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	películas	película	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	escuchar	escuchar	VERB	_	VerbForm=Inf	8	advcl	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	música	música	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	leer	leer	VERB	_	VerbForm=Inf	8	advcl	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	libros	libro	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	bailar	bailar	VERB	_	VerbForm=Inf	8	conj	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	20	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Juego	jueer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+5	por	por	ADP	_	_	9	advmod	_	_
+6	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tenis	tenis	NOUN	_	Gender=Masc	3	appos	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	esgrima	esgrima	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pasar	pasar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*STATE*	*state*	PROPN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obl	_	_
+11	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+14	porque	porque	SCONJ	_	_	15	mark	_	_
+15	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	17	amod	_	_
+17	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+18	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	19	det	_	_
+19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	días	día	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	clima	clima	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	cálido	cálido	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	sol	sol	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	días	día	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	pena	pena	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	pueda	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	salir	salir	VERB	_	VerbForm=Inf	3	acl	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+11	hoy	hoy	ADV	_	_	7	advmod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	día	día	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	debido	debido	ADJ	_	Gender=Masc|Number=Sing	16	case	_	_
+15	al	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	virus	virus	NOUN	_	Gender=Masc	7	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	odio	odiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	clases	clase	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	línea	línea	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	ir	ir	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	clase	clase	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	campus	campus	NOUN	_	Gender=Masc	10	obl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	ver	ver	VERB	_	VerbForm=Inf	10	conj	_	_
+18	profesores	profesor	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	18	conj	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	persona	persona	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+24	porque	porque	SCONJ	_	_	26	mark	_	_
+25	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	26	obl	_	_
+26	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+27	alterar	alterar	VERB	_	VerbForm=Inf	26	xcomp	_	_
+28	y	y	CCONJ	_	_	29	cc	_	_
+29	hablar	hablar	VERB	_	VerbForm=Inf	27	conj	_	_
+30	con	con	ADP	_	_	32	case	_	_
+31	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	gente	gente	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
+33	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ya	ya	ADV	_	_	4	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	4	cc	_	_
+4	quedarme	quedar	VERB	_	VerbForm=Inf	2	conj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+7	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	8	det	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	día	día	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+11	empiezo	empiezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	aprender	aprender	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	a	a	ADP	_	_	15	mark	_	_
+15	cocinar	cocinar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	hornear	hornear	VERB	_	VerbForm=Inf	15	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	programas	programa	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Netflix	Netflix	PROPN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	videos	video	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	youtube	youtube	NOUN	_	_	7	nmod	_	_
+10	cuando	cuando	SCONJ	_	_	12	mark	_	_
+11	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	quedo	quedar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+15	sola	solo	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hoy	hoy	NOUN	_	_	6	advmod	_	_
+2	en	en	ADP	_	_	1	fixed	_	_
+3	día	día	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	empiezo	empiezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	disfrutar	disfrutar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+12	de	de	ADP	_	_	14	mark	_	_
+13	estar	estar	AUX	_	VerbForm=Inf	14	cop	_	_
+14	solo	solo	ADJ	_	Gender=Masc|Number=Sing	8	advcl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Con	con	ADP	_	_	4	advmod	_	_
+2	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	virus	virus	NOUN	_	Gender=Masc	8	nsubj	_	_
+8	desaparezca	desaparecer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+10	para	para	ADP	_	_	15	mark	_	_
+11	que	que	SCONJ	_	_	15	mark	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	vida	vida	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	pueda	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	volver	volver	VERB	_	VerbForm=Inf	8	advcl	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	días	día	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+19	normales	normal	ADJ	_	Number=Plur	18	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

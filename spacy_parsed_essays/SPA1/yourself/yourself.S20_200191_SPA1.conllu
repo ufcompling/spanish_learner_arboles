@@ -1,0 +1,214 @@
+# Unnamed: 0 = 66
+# id = 200191
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Cantonese
+# language(s) studied = Mandarin (2 years)
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy es estudiante de segundo año en la universidad. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* y *BIRTH_DATE*. Soy de la bonita ciudad de *CITY* *CITY* en Estados Unidos pero mi mamá y papá es de *PLACE*. Soy es aventurera, cómica, sedentaria y trabajadora. No soy activa y atlética. Me gusta cantar y viajar. Mi comida favorita es []{el}<ab:det:art:def> ramen. Ahora estoy cansada y nerviosa porque tiene dos examenes en la mañana: un examen para español y un examen para bioquímica. Mi especialización es bioquímica. Ahora mismo tengo cuarto cursos, como bioquímica, química orgánica, nutritión y español. Mi curso [favorita]{favorito}<ga:adj> es [la]{}<pr:det:art:def> química orgánica. Es difícil pero es divertido porque es similar a resolver un rompecabezas. Mi curso menos favorita es bioquímica porque tiene [muchos]{muchas}<ga:det> matemáticas y información. No me gusta []{las}<ab:det:art:def> matemáticas porque es muy [difícil]{difíciles}<na:adj>. Es cómica porque bioquímica es mi especialización pero no me gusta []{la}<ab:det:art:def> clase de bioquímica.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy es estudiante de segundo año en la universidad. Tengo *AGE* años y mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* y *BIRTH_DATE*. Soy de la bonita ciudad de *CITY* *CITY* en Estados Unidos pero mi mamá y papá [es]{son}<fs:st:pn> de *PLACE*. Soy es aventurera, cómica, sedentaria y trabajadora. No soy activa y atlética. Me gusta cantar y viajar. Mi comida favorita es []{el}<ab:det:art:def> ramen. Ahora estoy cansada y nerviosa porque [tiene]{tengo}<fs:st:pn> dos examenes en la mañana: un examen para español y un examen para bioquímica. Mi especialización es []{la}<ab:det:art:def> bioquímica. Ahora mismo tengo cuarto cursos, como bioquímica, química orgánica, nutritión y español. Mi curso [favorita]{favorito}<ga:adj> es [la]{}<pr:det:art:def> química orgánica. Es difícil pero es divertido porque es similar a resolver un rompecabezas. Mi curso menos [favorita]{favorito}<ga:adj> es bioquímica porque tiene [muchos]{muchas}<ga:det> matemáticas y información. No me [gusta]{gustan}<fs:st:pn> []{las}<ab:det:art:def> matemáticas porque [es]{son}<fs:st:pn> muy [difícil]{difíciles}<na:adj>. Es [cómica]{cómico}<gat:adj> porque []{la}<ab:det:art:def> bioquímica es mi especialización pero no me gusta []{la}<ab:det:art:def> clase de bioquímica.
+# verbs annotation ann2 = nan
+# corrected1 = Soy estudiante de segundo año en la universidad. Tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de la bonita ciudad de *CITY* *CITY* en Estados Unidos pero mi mamá y mi papá son de *PLACE*. Soy aventurera, cómica, sedentaria y trabajadora. No soy activa y atlética. Me gusta cantar y viajar. Mi comida favorita es el ramen. Ahora estoy cansada y nerviosa porque tengo dos exámenes por la mañana: un examen de Español y un examen de Bioquímica. Mi especialización es en Bioquímica. Ahora mismo tengo cuarto asignaturas: Bioquímica, Química Orgánica, Nutrición y Español. Mi asignatura favorita es Química Orgánica. Es difícil, pero es divertida porque es similar a resolver un rompecabezas. Mi asignatura menos favorita es Bioquímica porque tiene muchas matemáticas e información. No me gustan las matemáticas porque son muy difíciles. Es gracioso, porque Bioquímica es mi especialización, pero no me gusta la clase de Bioquímica.
+# corrected2 = nan
+# text = Soy es estudiante de segundo año en la universidad. Tengo *AGE* años y mi cumpleaños es *BIRTH_DATE* y *BIRTH_DATE*. Soy de la bonita ciudad de *CITY* *CITY* en Estados Unidos pero mi mamá y papá es de *PLACE*. Soy es aventurera, cómica, sedentaria y trabajadora. No soy activa y atlética. Me gusta cantar y viajar. Mi comida favorita es ramen. Ahora estoy cansada y nerviosa porque tiene dos examenes en la mañana: un examen para español y un examen para bioquímica. Mi especialización es bioquímica. Ahora mismo tengo cuarto cursos, como bioquímica, química orgánica, nutritión y español. Mi curso favorita es la química orgánica. Es difícil pero es divertido porque es similar a resolver un rompecabezas. Mi curso menos favorita es bioquímica porque tiene muchos matemáticas y información. No me gusta matemáticas porque es muy difícil. Es cómica porque bioquímica es mi especialización pero no me gusta clase de bioquímica.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	estudiante	estudiante	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	segundo	segundo	ADJ	_	_	6	amod	_	_
+6	año	año	NOUN	_	_	3	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	universidad	universidad	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	cumpleaños	cumpleaños	NOUN	_	_	8	nsubj	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	1	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	la	el	DET	_	_	5	det	_	_
+4	bonita	bonito	ADJ	_	_	5	amod	_	_
+5	ciudad	ciudad	NOUN	_	_	1	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	5	nmod	_	_
+8	*CITY*	CITY	PROPN	_	_	7	flat	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Estados	Estados	PROPN	_	_	1	obl	_	_
+11	Unidos	Unidos	PROPN	_	_	10	flat	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	mamá	mamá	NOUN	_	_	1	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	papá	papá	NOUN	_	_	14	conj	_	_
+17	es	ser	AUX	_	_	19	cop	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	*PLACE*	PLACE	PROPN	_	_	1	nsubj	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	aventurera	aventurero	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	cómica	cómico	ADJ	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	sedentaria	sedentario	ADJ	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	trabajadora	trabajador	ADJ	_	_	3	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	activa	activo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	atlética	atlético	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	cantar	cantar	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	viajar	viajar	VERB	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	5	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	ramen	ramen	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	cansada	cansado	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	nerviosa	nervioso	ADJ	_	_	3	conj	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	tiene	tener	VERB	_	_	3	advcl	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	examenes	examen	NOUN	_	_	7	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	mañana	mañana	NOUN	_	_	7	obl	_	_
+13	:	:	PUNCT	_	_	15	punct	_	_
+14	un	uno	DET	_	_	15	det	_	_
+15	examen	examen	NOUN	_	_	7	obj	_	_
+16	para	para	ADP	_	_	17	case	_	_
+17	español	español	NOUN	_	_	15	nmod	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	un	uno	DET	_	_	20	det	_	_
+20	examen	examen	NOUN	_	_	15	conj	_	_
+21	para	para	ADP	_	_	22	case	_	_
+22	bioquímica	bioquímica	NOUN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialización	especialización	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	bioquímica	bioquímico	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	mismo	mismo	DET	_	_	1	fixed	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	cuarto	cuarto	ADJ	_	_	5	amod	_	_
+5	cursos	curso	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	como	como	SCONJ	_	_	8	mark	_	_
+8	bioquímica	bioquímica	NOUN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	química	químico	ADJ	_	_	8	conj	_	_
+11	orgánica	orgánico	ADJ	_	_	10	amod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	nutritión	nutritión	NOUN	_	_	8	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	español	español	ADJ	_	_	8	conj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	curso	curso	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	química	químico	ADJ	_	_	0	ROOT	_	_
+7	orgánica	orgánico	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	difícil	difícil	ADJ	_	_	0	ROOT	_	_
+3	pero	pero	CCONJ	_	_	5	cc	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	divertido	divertido	ADJ	_	_	2	conj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	similar	similar	ADJ	_	_	5	advcl	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	resolver	resolver	VERB	_	_	8	acl	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	rompecabezas	rompecabeza	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	curso	curso	NOUN	_	_	6	nsubj	_	_
+3	menos	menos	ADV	_	_	4	advmod	_	_
+4	favorita	favorita	NOUN	_	_	2	amod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	bioquímica	bioquímico	ADJ	_	_	0	ROOT	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	tiene	tener	VERB	_	_	6	advcl	_	_
+9	muchos	mucho	DET	_	_	10	det	_	_
+10	matemáticas	matemática	NOUN	_	_	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	información	información	NOUN	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	matemáticas	matemático	ADJ	_	_	3	nsubj	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	difícil	difícil	ADJ	_	_	3	advcl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	cómica	cómico	ADJ	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	7	mark	_	_
+4	bioquímica	bioquímica	PROPN	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	especialización	especialización	NOUN	_	_	2	csubj	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	no	no	ADV	_	_	11	advmod	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	gusta	gustar	VERB	_	_	2	conj	_	_
+12	clase	clase	NOUN	_	_	11	nsubj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	bioquímica	bioquímica	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+

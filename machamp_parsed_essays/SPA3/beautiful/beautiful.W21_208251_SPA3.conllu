@@ -1,0 +1,323 @@
+# Unnamed: 0 = 88
+# id = 208251
+# prompt = beautiful
+# quarter = W21
+# course = SPA 3
+# age = 38
+# gender = Male
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi bisabuelo nació en un pequeño pueblo de *PLACE*. Cuando solo tenía *AGE* años, dejó a su madre y a su padre y emigró a los Estados Unidos. Primero vivió en *CITY* *CITY*. No conocía a nadie en los Estados Unidos excepto a su tío que vivía en *STATE*. Se mudó a *STATE* y consiguió un trabajo como conserje en una tienda de comestibles. Trabajó allí durante muchos años hasta que se jubiló. Cuando vivía en *CITY*, *STATE* y trabajaba en la tienda de comestibles, conoció a mi bisabuela. Los padres de mi bisabuela también emigraron de *PLACE*. Estaban muy felices cuando se conocieron porque ambos eran *PLACE*. Se casaron y tuvieron dos hijos, mi abuela y mi tío abuelo. Cuando mi madre tenía *AGE* años consiguió un trabajo en la misma tienda de comestibles en la que trabajaba mi bisabuelo. Ese es el lugar donde conoció a mi papá. Mis bisabuelos vivieron en *CITY* toda su vida y nunca regresaron a *PLACE*. Cuando nací, mi segundo nombre es *FIRST_NAME*. Ese es el nombre de mi bisabuelo. No hablo *PLACE*, pero siempre he querido ir a *PLACE* para visitar el lugar donde nació mi bisabuelo y experimentar la cultura. Mi madre y mi padre tampoco han estado nunca en *PLACE*, así que me gustaría ir con ellos algún día. Mi bisabuelo es mi ídolo y estoy muy agradecido de que haya sido tan valiente al venir a este país. Murió hace años pero pienso mucho en él y lo extraño.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	bisabuelo	bisabuelo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*PLACE*	*place*	PUNCT	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	solo	solo	ADV	_	_	3	advmod	_	_
+3	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+4	*AGE*	*age*	SYM	_	_	5	flat	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	madre	madre	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	padre	padre	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	emigró	emigrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	Estados	Estados	PROPN	_	_	16	obl	_	_
+20	Unidos	Unidos	PROPN	_	_	19	flat	_	_
+21	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Primero	primero	ADV	_	_	2	advmod	_	_
+2	vivió	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*City*	PROPN	_	_	2	obl	_	_
+5	*CITY*	*city*	PROPN	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	conocía	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Estados	Estados	PROPN	_	_	2	obl	_	_
+8	Unidos	Unidos	PROPN	_	_	7	flat	_	_
+9	excepto	excepto	ADP	_	_	12	case	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	tío	tío	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+13	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+14	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	*STATE*	*state*	PUNCT	_	_	7	flat	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	mudó	mudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*STATE*	*state*	PROPN	_	_	2	advmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	consiguió	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	como	como	SCONJ	_	_	10	mark	_	_
+10	conserje	conserje	NOUN	_	Number=Sing	8	nmod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	comestibles	comestible	NOUN	_	Number=Plur	13	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Trabajó	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	durante	durante	ADP	_	_	5	case	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	hasta	hasta	ADP	_	_	9	mark	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
+8	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	jubiló	jubilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*City*	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*STATE*	*state*	SYM	_	_	4	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	trabajaba	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	comestibles	comestibl	NOUN	_	Number=Plur	11	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+15	conoció	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	bisabuela	bisabuela	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	bisabuela	bisabuela	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	también	también	ADV	_	_	7	advmod	_	_
+7	emigraron	emigrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*PLACE*	*place*	PUNCT	_	_	7	dep	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	felices	feliz	ADJ	_	Number=Plur	0	root	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	_	_
+6	conocieron	conocer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+7	porque	porque	SCONJ	_	_	6	mark	_	_
+8	ambos	ambos	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	6	nsubj	_	_
+9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	*PLACE*	*place*	PUNCT	_	_	6	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	casaron	casar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	tío	tío	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+13	abuelo	abuelo	NOUN	_	_	12	compound	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+5	*AGE*	*age*	SYM	_	_	4	nmod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	consiguió	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	en	en	ADP	_	_	13	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+13	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	comestibles	comestibl	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	que	que	PRON	_	PronType=Rel	19	obl	_	_
+19	trabajaba	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	acl	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	bisabuelo	bisabuelo	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ese	ese	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	donde	donde	ADV	_	PronType=Rel	6	advmod	_	_
+6	conoció	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	papá	papá	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	bisabuelos	bisabuelo	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vivieron	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	advmod	_	_
+6	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	nunca	nunca	ADV	_	_	11	advmod	_	_
+11	regresaron	regresar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	*PLACE*	*place*	PROPN	_	_	11	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	nací	nacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ese	ese	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	bisabuelo	bisabuelo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*PLACE*	*place*	PUNCT	_	_	2	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	siempre	siempre	ADV	_	_	8	advmod	_	_
+7	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	querido	querer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+9	ir	ir	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	*PLACE*	*place*	PROPN	_	_	9	dep	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	visitar	visitar	VERB	_	VerbForm=Inf	9	advcl	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	donde	donde	ADV	_	PronType=Rel	17	advmod	_	_
+17	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	bisabuelo	bisabuelo	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	experimentar	experimentar	VERB	_	VerbForm=Inf	13	conj	_	_
+22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	padre	padre	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	tampoco	tampoco	ADV	_	_	8	advmod	_	_
+7	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	estado	estar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	nunca	nunca	ADV	_	_	8	advmod	_	_
+10	en	en	ADP	_	_	9	case	_	_
+11	*PLACE*	*place*	PUNCT	_	_	8	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	así	así	ADV	_	_	16	mark	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	advcl	_	_
+17	ir	ir	VERB	_	VerbForm=Inf	16	csubj	_	_
+18	con	con	ADP	_	_	19	case	_	_
+19	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	_	_
+20	algún	alguno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
+21	día	día	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	bisabuelo	bisabuelo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	ídolo	ídolo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	agradecido	agradecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+10	de	de	ADP	_	_	15	mark	_	_
+11	que	que	SCONJ	_	_	15	mark	_	_
+12	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+13	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
+14	tan	tanto	ADV	_	_	15	advmod	_	_
+15	valiente	valiente	ADJ	_	Number=Sing	9	ccomp	_	_
+16	al	a	ADP	_	_	17	case	_	_
+17	venir	venir	VERB	_	VerbForm=Inf	15	advcl	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
+20	país	país	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	pero	pero	CCONJ	_	_	5	cc	_	_
+5	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+11	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

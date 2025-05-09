@@ -1,0 +1,153 @@
+# Unnamed: 0 = 30
+# id = 128952
+# prompt = famous
+# quarter = F17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French, 3 years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Anna Kendrick es una actriz y una cantante. Ella tiene 32 (treinta y dos) años y de Maine. Ella es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. Ella es baja y delgada. Ella es muy guapa. Ella es la mejora actriz de la película Pitch Perfect. Es un comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con se amigas ella es simpatico y divertida. Ella está enamorada con un hombre. El también es estudiante y cantante. 
+# a personal annotator2 = Anna Kendrick es una actriz y una cantante. Ella tiene 32 (treinta y dos) años y de Maine. Ella es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. Ella es baja y delgada. Ella es muy guapa. Ella es la mejora actriz de la película Pitch Perfect. Es un comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con se amigas ella es simpatico y divertida. Ella está enamorada con un hombre. El también es estudiante y cantante. 
+# gender-number annotator1 = Anna Kendrick es una actriz y una cantante. Ella tiene 32 (treinta y dos) años y de Maine. Ella es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. Ella es baja y delgada. Ella es muy guapa. Ella es la [mejora]{mejor}<ig:f:adj:an> actriz de la película Pitch Perfect. Es [un]{una}<ga:fm:det:inan> comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con se amigas ella es [simpatico]{simpática}<ga:fm:adj:an> y divertida. Ella está enamorada con un hombre. El también es estudiante y cantante. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Anna Kendrick es una actriz y [una]{}<pr:det:art:indef> cantante. Ella tiene 32 (treinta y dos) años y de Maine. [Ella]{}<pr:su:pron> es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. [Ella]{}<pr:su:pron> es baja y delgada. [Ella]{}<pr:su:pron> es muy guapa. [Ella]{}<pr:su:pron> es la mejora actriz de la película Pitch Perfect. Es [un]{una}<ga:det:art:indef> comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con se amigas [ella]{}<pr:su:pron> es [simpatico]{simpática}<ga:adj> y divertida. [Ella]{}<pr:su:pron> está enamorada con un hombre. El también es estudiante y cantante.
+# updated annotation ann2 = Anna Kendrick es [una]{}<pr:det:art:indef> actriz y [una]{}<pr:det:art:indef> cantante. [Ella]{}<pr:su:pron> tiene 32 (treinta y dos) años y de Maine. [Ella]{}<pr:su:pron> es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. [Ella]{}<pr:su:pron> es baja y delgada. [Ella]{}<pr:su:pron> es muy guapa. [Ella]{}<pr:su:pron> es la [mejora]{mejor}<gat:adj> actriz de la película Pitch Perfect. Es [un]{una}<ga:det> comedia sobre el canto. En la película, [ella]{}<pr:su:pron> es cantante y estudiante en una Universidad. [Ella]{}<pr:su:pron> se llama Beca y es gruñona, pero con se amigas [ella]{}<pr:su:pron> es [simpatico]{simpática}<ga:adj> y divertida. [Ella]{}<pr:su:pron> está enamorada con un hombre. [El]{}<pr:su:pron> también es estudiante y cantante.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Anna Kendrick es una actriz y cantante. Ella tiene 32 (treinta y dos) años y es de Maine. Es estadounidense. Tiene el pelo marrón y largo. Tiene los ojos azules. Es baja y delgada. Es muy guapa. Es la mejor actriz de la película Pitch Perfect. Es una comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con sus amigas es simpática y divertida. Está enamorada de un hombre. Él también es estudiante y cantante.
+# corrected2 = Anna Kendrick es actriz y cantante. Tiene 32 (treinta y dos) años y es de Maine. Es estadounidense. Tiene el pelo marrón y largo. Tiene los ojos azules. Es baja y delgada. Es muy guapa. Es la mejor actriz de la película Dando la nota. Es una comedia sobre el canto. En la película, es cantante y estudiante en una universidad. Se llama Beca y es gruñona, pero con sus amigas es simpática y divertida. Está enamorada de un hombre que también es estudiante y cantante. 
+# text = Anna Kendrick es una actriz y una cantante. Ella tiene 32 (treinta y dos) años y de Maine. Ella es Estadounidense. Tiene el pelo marrón y largo.Tiene los ojos azules. Ella es baja y delgada. Ella es muy guapa. Ella es la mejora actriz de la película Pitch Perfect. Es un comedia sobre el canto. En la película, ella es cantante y estudiante en una Universidad. Ella se llama Beca y es gruñona, pero con se amigas ella es simpatico y divertida. Ella está enamorada con un hombre. El también es estudiante y cantante.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Anna	Anna	PROPN	_	_	5	nsubj	_	_
+2	Kendrick	Kendrick	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cantante	cantante	NOUN	_	Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	32	32	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	_
+5	treinta	treinta	NUM	_	NumForm=Word|NumType=Card	9	appos	_	_
+6	y	y	CCONJ	_	_	5	compound	_	_
+7	dos	dos	NUM	_	NumForm=Word|NumType=Card	5	compound	_	_
+8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	_
+9	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	Maine	Maine	PROPN	_	_	9	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Estadounidense	Estadounidense	PROPN	_	_	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	marrón	marrón	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	largo	largo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	azules	azul	ADJ	_	Number=Plur	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	guapa	guapo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mejora	mejoro	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	película	película	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	Pitch	Pitch	PROPN	_	_	8	appos	_	_
+10	Perfect	Perfect	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	comedia	comedia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	canto	canto	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	película	película	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	estudiante	estudiante	NOUN	_	Number=Sing	7	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Universidad	Universidad	PROPN	_	_	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Beca	Beca	PROPN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	gruñona	gruñono	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+9	pero	pero	CCONJ	_	_	15	cc	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	det	_	_
+12	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	15	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	enamorada	enamorado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	también	también	ADV	_	_	4	advmod	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cantante	cantante	NOUN	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

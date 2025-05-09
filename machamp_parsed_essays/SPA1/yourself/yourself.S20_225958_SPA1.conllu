@@ -1,0 +1,235 @@
+# Unnamed: 0 = 203
+# id = 225958
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin and Cantonese
+# language(s) studied = English, 10 years
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Soy de *PLACE* y ahora vivo en *STATE*, America. Soy *AGE* anos y estoy en mi primer ano por la universidad. [Mi]{Mis}<na:det> [idioma primaria]{primeros idiomas}<col:adj> <ga:na:adj> <na:noun> es Chinese y Cantonese. Estudio [el]{}<pr:det:art:def> ingles por diez anos, y ahoa estudio espanol porque es interesante. El espanol es deficil para mi. Soy una persona muy adventurera. Fui a Japon y Australia. Quiero ir a Canada en el futuro. Me gusta ir a esquiar con mis amigos en [el]{}<pr:det:art:def> invierno. Me gusta ver peliculas tambien. Me gusta comir y dormir. Mi comidas favoritas son las hamburguesas, las papa fritas, el ramen, los burritos, y [mucho]{muchas}<ga:na:adj> mas. En la universidad, estudio [la]{}<pr:det:art:def> cienca de animales. Soy estudiosa y trabajadora. Tengo clases muy dificiles, pero son interesantes. Me gusta las majorias de mis clases, pero no me gusta la quimica proque es [aburrido]{aburrida}<ga:adj>. Tengo un cato, un perro, y cuatro pollos en mi casa. Quiro ser [veterinario]{veterinaria}<ga:noun> porque me gusta trabajar con los animales mucho.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! Soy de *PLACE* y ahora vivo en *STATE*, America. Soy *AGE* anos y estoy en mi primer ano por la universidad. [Mi]{Mis}<na:det> [idioma]{idiomas}<na:noun> [primaria]{primarios}<ga:na:adj> [es]{son}<fs:st:pn> []{el}<ab:det:art:def> Chinese y []{el}<ab:det:art:def> Cantonese. [Estudio]{He estudiado}<fs:st:t> [el]{}<pr:det:art:def> ingles por diez anos, y ahoa estudio espanol porque es interesante. El espanol es deficil para mi. Soy una persona muy adventurera. [Fui]{He ido}<fs:st:t> a Japon y Australia. Quiero ir a Canada en el futuro. Me gusta ir a esquiar con mis amigos en el invierno. Me gusta ver peliculas tambien. Me gusta [comir]{comer}<fs:st:r> y dormir. [Mi]{Mis}<na:det> comidas favoritas son las hamburguesas, las [papa]{papas}<na:noun> fritas, el ramen, los burritos, y mucho mas. En la universidad, estudio la cienca de animales. Soy estudiosa y trabajadora. Tengo clases muy dificiles, pero son interesantes. Me [gusta]{gustan}<fs:st:pn> [las]{la}<in:det> [majorias]{mayoría}<in:noun> de mis clases, pero no me gusta la quimica proque es [aburrido]{aburrida}<ga:adj>. Tengo un cato, un perro, y cuatro pollos en mi casa. [Quiro]{Quiero}<fs:st:r> ser [veterinario]{veterinaria}<ga:noun> porque me gusta trabajar con los animales mucho.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy de *PLACE* y ahora vivo en *STATE*, América. Tengo *AGE* años y estoy en mi primer año en la universidad. Mis primeros idiomas son chino y cantonés. He estudiado inglés por diez años, y ahora estudio español porque es interesante. El español es difícil para mí. Soy una persona muy aventurera. Fui a Japón y Australia. Quiero ir a Canadá en el futuro. Me gusta ir a esquiar con mis amigos en invierno. Me gusta ver películas también. Me gusta comer y dormir. Mi comidas favoritas son las hamburguesas, las papa fritas, el ramen, los burritos, y muchas más. En la universidad, estudio Ciencia de Animales. Soy estudiosa y trabajadora. Tengo clases muy difíciles, pero son interesantes. Me gusta la mayoría de mis clases, pero no me gusta la química porque es aburrida. Tengo un gato, un perro y cuatro pollos en mi casa. Quiero ser veterinaria porque me gusta mucho trabajar con los animales. 
+# corrected2 = nan
+# text = Hola! Soy de *PLACE* y ahora vivo en *STATE*, America. Soy *AGE* anos y estoy en mi primer ano por la universidad. Mi idioma primaria es Chinese y Cantonese. Estudio el ingles por diez anos, y ahoa estudio espanol porque es interesante. El espanol es deficil para mi. Soy una persona muy adventurera. Fui a Japon y Australia. Quiero ir a Canada en el futuro. Me gusta ir a esquiar con mis amigos en el invierno. Me gusta ver peliculas tambien. Me gusta comir y dormir. Mi comidas favoritas son las hamburguesas, las papa fritas, el ramen, los burritos, y mucho mas. En la universidad, estudio la cienca de animales. Soy estudiosa y trabajadora. Tengo clases muy dificiles, pero son interesantes. Me gusta las majorias de mis clases, pero no me gusta la quimica proque es aburrido. Tengo un cato, un perro, y cuatro pollos en mi casa. Quiro ser veterinario porque me gusta trabajar con los animales mucho.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	_
+4	de	de	ADP	_	_	1	case	_	_
+5	*PLACE*	*place*	PUNCT	_	_	1	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	ahora	ahora	ADV	_	_	8	advmod	_	_
+8	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	en	en	ADP	_	_	12	case	_	_
+10	*STATE*	*state*	PROPN	_	_	12	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	America	America	PROPN	_	_	1	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	*AGE*	*age*	SYM	_	_	3	punct	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	en	en	ADP	_	_	9	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+8	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	ano	ano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	idioma	idioma	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Chinese	Chinese	PROPN	_	_	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Cantonese	Cantonese	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ingles	ingles	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	anos	ano	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	ahoa	ahoa	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	porque	porque	SCONJ	_	_	14	mark	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	interesante	interesante	ADJ	_	Number=Sing	10	advcl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	deficil	deficil	ADJ	_	Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	adventurera	adventurer	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	Japon	Japon	PROPN	_	_	1	obl	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	Australia	Australia	PROPN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ir	ir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Canada	Canada	PROPN	_	_	2	obl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	esquiar	esquiar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	tambien	tambien	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comir	comir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	dormir	dormir	VERB	_	VerbForm=Inf	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	hamburguesas	hamburguesa	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	papa	papa	NOUN	_	_	6	appos	_	_
+10	fritas	frita	NOUN	_	_	9	compound	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ramen	ramen	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	burritos	burrito	NOUN	_	Gender=Masc|Number=Plur	6	appos	_	_
+17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	mucho	mucho	ADV	_	_	20	advmod	_	_
+20	mas	mas	ADV	_	_	6	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cienca	cienca	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	animales	animal	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	estudiosa	estudioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	trabajadora	trabajador	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	dificiles	dificil	ADJ	_	Number=Plur	2	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	interesantes	interesante	ADJ	_	Number=Plur	1	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	majorias	majoria	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	clases	clase	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	quimica	quimica	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+15	proque	proque	SCONJ	_	_	17	mark	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	aburrido	aburrido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	advcl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cato	cato	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	perro	perro	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	pollos	pollo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiro	qirer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	3	cop	_	_
+3	veterinario	veterinario	NOUN	_	Gender=Masc|Number=Sing	1	xcomp	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	trabajar	trabajar	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	animales	animal	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+11	mucho	mucho	ADV	_	_	7	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,215 @@
+# Unnamed: 0 = 96
+# id = 42897
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 24
+# gender = Male
+# l1 language = English
+# other l1 language(s) = No
+# language(s) used at home = I speak a little bit of Japanese at home, though I am not too good at it.
+# language(s) studied = Japanese
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Habia una vez, un heroe [camima]{caminaba}<fs:st:r:t> el mundo y [compra]{compró}<fs:st:t> [un]{una}<ga:det> espada. Con la espada, el heroe [pelea]{peleaba}<fs:st:t> monstruos y criminales. El heroe is muy alto, fuerte y hermoso. El heroe es muy famoso por [savar]{salvar}<fs:st:r> ninos y perros. El here es muy rico, [el]{}<pr:su:pron> desayuna huevos de oro y cena filete todos los dias. En el domingo, 22 de marzo de 2733, el heroe tropezo una roca y [muria]{murió}<fs:st:t>. Un nino tiene la espada [de]{del}<ab:det:art:def> hiroe y comenzo [un]{una}<ga:det> revolucion en []{el}<ab:det:art:def> marte. La revolucion es muy grande, [muchos]{muchas}<ga:det> personas [murios]{murieron}<fs:st:pn:t> en []{el}<ab:det:art:def> sabado y el nino tambien tropezo una roca, la misma roca que [muria]{murió}<fs:st:t> el hiroe. Finalmente, 100 anos despues, un perro tiene la espada [de]{del}<ab:det:art:def> hiroe y [enterra]{enterró}<fs:st:t> la espada. [muchos]{Muchas}<ga:det> personas no [encontras]{encontrarán}<fs:st:pn:t> la espada. El perro es muy feliz por tener la espada. El perro va [el]{la}<ga:det> casa de el hiroe y ahora es rey. [el]{}<pr:det:art:def> fin.
+# updated annotation ann2 = Habia una vez, un heroe camima el mundo y compra un espada. Con la espada, el heroe pelea monstruos y criminales. El heroe is muy alto, fuerte y hermoso. El heroe es muy famoso por [savar]{salvar}<fs:st:r> ninos y perros. El here es muy rico, [el]{}<pr:su:pron> desayuna huevos de oro y cena filete todos los dias. En el domingo, 22 de marzo de 2733, el heroe tropezo una roca y [muria]{murió}<fs:st:t>. Un nino tiene la espada de hiroe y comenzo [un]{una}<ga:det> revolucion en marte. La revolucion es muy grande, [muchos]{muchas}<gat:det> personas [murios]{murieron}<fs:st:pn> en sabado y el nino tambien tropezo una roca, la misma roca que [muria]{murió}<fs:st:t> el hiroe. Finalmente, 100 anos despues, un perro tiene la espada de hiroe y [enterra]{entierra}<fs:st:r> la espada. [muchos]{muchas}<gat:det> personas no [encontras]{encuentran}<fs:st:r:pn> la espada. El perro es muy feliz por tener la espada. El perro va el casa de el hiroe y ahora es rey. [el]{}<pr:det:art:def> fin.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Había una vez, un héroe que caminaba por el mundo y compró un espada. Con la espada, el héroe peleaba con monstruos y criminales. El héroe es muy alto, fuerte y hermoso. El héroe es muy famoso por salvar a niños y perros. El héroe es muy rico, desayuna huevos de oro y cena filete todos los días. El domingo, 22 de marzo de 2733, el héroe tropezó con una roca y murió. Un niño consiguió la espada del héroe y comenzó una revolución el martes. La revolución fue muy grande, muchas personas murieron el sábado y el niño también tropezó con una roca, la misma roca con la que murió el héroe. Finalmente, 100 años después, un perro consiguió la espada del héroe y enterró la espada. Muchas personas no encontrarán la espada. El perro es muy feliz por tener la espada. El perro va a la casa del héroe y ahora es el rey. Fin.
+# corrected2 = nan
+# text = Habia una vez, un heroe camima el mundo y compra un espada. Con la espada, el heroe pelea monstruos y criminales. El heroe is muy alto, fuerte y hermoso. El heroe es muy famoso por savar ninos y perros. El here es muy rico, el desayuna huevos de oro y cena filete todos los dias. En el domingo, 22 de marzo de 2733, el heroe tropezo una roca y muria. Un nino tiene la espada de hiroe y comenzo un revolucion en marte. La revolucion es muy grande, muchos personas murios en sabado y el nino tambien tropezo una roca, la misma roca que muria el hiroe. Finalmente, 100 anos despues, un perro tiene la espada de hiroe y enterra la espada. muchos personas no encontras la espada. El perro es muy feliz por tener la espada. El perro va el casa de el hiroe y ahora es rey. el fin.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Habia	habiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	heroe	heroe	NOUN	_	Number=Sing	7	nsubj	_	_
+7	camima	camimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	compra	comprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	espada	espada	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Con	con	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	espada	espada	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	heroe	heroe	NOUN	_	Number=Sing	7	nsubj	_	_
+7	pelea	pelear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	monstruos	monstruo	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	criminales	criminal	NOUN	_	Number=Plur	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	heroe	heroe	NOUN	_	Number=Sing	5	nsubj	_	_
+3	is	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	fuerte	fuerte	ADJ	_	Number=Sing	5	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	heroe	heroe	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	por	por	ADP	_	_	7	mark	_	_
+7	savar	savar	VERB	_	VerbForm=Inf	5	acl	_	_
+8	ninos	nino	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	perros	perro	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	here	here	NOUN	_	Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	rico	rico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	desayuna	desayunar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	huevos	huevo	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	oro	oro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	cena	cenar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	filete	filete	NUM	_	NumForm=Word|NumType=Card	13	obj	_	_
+15	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	16	det	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	dias	dia	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	domingo	domingo	NOUN	_	AdvType=Tim	13	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	22	22	NUM	_	NumForm=Digit|NumType=Card	3	appos	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	marzo	marzo	NOUN	_	_	5	compound	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	2733	2733	NUM	_	NumForm=Digit|NumType=Card	5	compound	_	_
+10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	heroe	heroe	NOUN	_	Number=Sing	13	nsubj	_	_
+13	tropezo	tropezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	roca	roca	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	muria	muriar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	nino	nino	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	espada	espada	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	hiroe	hiroe	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	comenzo	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	revolucion	revolucion	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	marte	marte	NOUN	_	AdvType=Tim	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	revolucion	revolucion	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	8	det	_	_
+8	personas	persona	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+9	murios	moi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	sabado	sabado	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	y	y	CCONJ	_	_	16	cc	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	nino	nino	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	tambien	tambien	ADV	_	_	16	advmod	_	_
+16	tropezo	tropezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	roca	roca	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
+22	roca	roca	NOUN	_	Gender=Fem|Number=Sing	18	appos	_	_
+23	que	que	PRON	_	PronType=Rel	24	obj	_	_
+24	muria	murir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	hiroe	hiroe	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+3	100	100	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+5	despues	despue	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	4	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	perro	perro	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	espada	espada	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	hiroe	hiroe	NOUN	_	_	11	nmod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	enterra	enterrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	espada	espada	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	encontras	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	espada	espada	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+6	por	por	ADP	_	_	7	mark	_	_
+7	tener	tener	VERB	_	VerbForm=Inf	5	acl	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	espada	espada	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	perro	perro	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	hiroe	hiroe	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	ahora	ahora	ADV	_	_	12	advmod	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	rey	rey	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	fin	fin	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

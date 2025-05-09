@@ -1,0 +1,219 @@
+# Unnamed: 0 = 235
+# id = 200972
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = English 
+# language(s) used at home = Cantonese
+# language(s) studied = Cantonese (9)
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi mama es de persona es muy especial en mi vida. Su nombre es *FIRST_NAME* *LAST_NAME*. Ella tiene *AGE* años. Ella vive en *CITY* con mi padre, *FIRST_NAME* *LAST_NAME*, con mi abuelo, *FIRST_NAME* *LAST_NAME*, con mi abuela, *FIRST_NAME* *LAST_NAME*. Ella es una mujer bajita. Ella es de *CITY*, China. Ella se mudó en 1992 a estados unidos. Ella tiene el pelo corto. Ella es madre de dos hijas, *FIRST_NAME* y *FIRST_NAME*. Ella tiene dos hermanas y uno hermano. Dos hermanas vive en *CITY* y *CITY* en Australia. Uno hermano vive en estados unidos. Ella es muy trabajadora y muy génera. Ella es muy comica y muy inteligente y muy activa. Ella es muy considerado. Ella cocina deliciosa comida para mi. Ella me cuida cuando estoy enfermo. Mi madre es mi modelo a seguir. Muy rica! La quiero mucho y estoy agradecida por su existencia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	persona	persona	NOUN	_	_	8	nsubj	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	especial	especial	ADJ	_	_	0	ROOT	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	vida	vida	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	*LAST_NAME*	last_name	VERB	_	_	4	punct	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	padre	padre	NOUN	_	_	2	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	7	appos	_	_
+10	*LAST_NAME*	LAST_NAME	PROPN	_	_	9	flat	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	abuelo	abuelo	NOUN	_	_	2	obl	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	14	appos	_	_
+17	*LAST_NAME*	LAST_NAME	PROPN	_	_	16	flat	_	_
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	_	21	det	_	_
+21	abuela	abuela	NOUN	_	_	2	obl	_	_
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	21	appos	_	_
+24	*LAST_NAME*	last_name	VERB	_	_	2	punct	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	mujer	mujer	NOUN	_	_	0	ROOT	_	_
+5	bajita	bajito	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	China	China	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	mudó	mudar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	1992	1992	NOUN	_	_	3	obl	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	estados	estados	PROPN	_	_	3	obj	_	_
+8	unidos	unidos	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	corto	corto	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	madre	madre	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	dos	dos	NUM	_	_	6	nummod	_	_
+6	hijas	hija	NOUN	_	_	3	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	appos	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	hermanas	hermana	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	uno	uno	PRON	_	_	4	conj	_	_
+7	hermano	hermano	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Dos	dos	NUM	_	_	2	nummod	_	_
+2	hermanas	hermana	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*CITY*	CITY	PROPN	_	_	5	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Australia	Australia	PROPN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Uno	Uno	PROPN	_	_	3	nsubj	_	_
+2	hermano	hermano	ADJ	_	_	1	amod	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	estados	estados	PROPN	_	_	3	obl	_	_
+6	unidos	unidos	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	génera	génerar	VERB	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	comica	comico	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	inteligente	inteligente	ADJ	_	_	4	conj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	activa	activo	ADJ	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	considerado	considerado	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	0	ROOT	_	_
+2	cocina	cocín	ADJ	_	_	1	amod	_	_
+3	deliciosa	deliciós	ADJ	_	_	1	amod	_	_
+4	comida	comida	NOUN	_	_	1	appos	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	cuida	cuidar	VERB	_	_	0	ROOT	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	estoy	estar	AUX	_	_	6	cop	_	_
+6	enfermo	enfermo	NOUN	_	_	3	advcl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	modelo	modelo	NOUN	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	seguir	seguir	VERB	_	_	5	acl	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Muy	mucho	ADV	_	_	2	advmod	_	_
+2	rica	rico	ADJ	_	_	0	ROOT	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+1	La	él	PRON	_	_	2	obj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	iobj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	estoy	estar	AUX	_	_	6	cop	_	_
+6	agradecida	agradecido	ADJ	_	_	2	conj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	existencia	existencia	NOUN	_	_	6	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+

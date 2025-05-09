@@ -1,0 +1,106 @@
+# Unnamed: 0 = 163
+# id = 127219
+# prompt = vacation
+# quarter = S17
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = na
+# language(s) used at home = na
+# language(s) studied = French - 4 years (high school) 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé presente así que no puedo escribir más.
+# a personal annotator2 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé presente así que no puedo escribir más.
+# gender-number annotator1 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé presente así que no puedo escribir más.
+# gender-number annotator2 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé presente así que no puedo escribir más.
+# updated anntoation ann1 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé []{el}<ab:det:art:def> presente así que no puedo escribir más.
+# updated annotation ann2 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en [el]{}<pr:det:art:def> verano para viajar. Sólo sé presente así que no puedo escribir más.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Me gusta aprovechar el tiempo de escuela y trabajo y de vacaciones en el verano. En vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy bonitas. También me gusta la playa. Tengo cinco semanas en verano para viajar. Solo conozco el presente así que no puedo escribir más.
+# corrected2 = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Solo sé el presente, así que no puedo escribir más.
+# text = Me gusta tomarme el tiempo de escuela y trabajo y vacaciones en el verano. De vacaciones, me gusta comer, bailar, tomar el sol y correr. Me gusta pasar tiempo con mi familia y amigos. Las montañas son muy buenas. También me gusta la playa. Tengo cinco semanas en el verano para viajar. Sólo sé presente así que no puedo escribir más.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	tomarme	tomar yo	VERB	_	_	2	csubj	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	escuela	escuela	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	trabajo	trabajo	NOUN	_	_	7	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	vacaciones	vacación	NOUN	_	_	5	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	verano	verano	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	De	de	ADP	_	_	5	advmod	_	_
+2	vacaciones	vacación	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	comer	comer	VERB	_	_	5	csubj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	bailar	bailar	VERB	_	_	5	advcl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	tomar	tomar	VERB	_	_	5	csubj	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	sol	sol	NOUN	_	_	10	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	correr	correr	VERB	_	_	10	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	pasar	pasar	VERB	_	_	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	3	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	amigos	amigo	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	montañas	montaña	NOUN	_	_	5	nsubj	_	_
+3	son	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	buenas	buena	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	playa	playa	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cinco	cinco	NUM	_	_	3	nummod	_	_
+3	semanas	semana	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	verano	verano	NOUN	_	_	1	obl	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	viajar	viajar	VERB	_	_	1	advcl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Sólo	sólo	ADV	_	_	2	advmod	_	_
+2	sé	saber	VERB	_	_	0	ROOT	_	_
+3	presente	presente	ADJ	_	_	2	obj	_	_
+4	así	así	ADV	_	_	8	mark	_	_
+5	que	que	SCONJ	_	_	4	fixed	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	puedo	poder	AUX	_	_	8	aux	_	_
+8	escribir	escribir	VERB	_	_	2	advcl	_	_
+9	más	más	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+

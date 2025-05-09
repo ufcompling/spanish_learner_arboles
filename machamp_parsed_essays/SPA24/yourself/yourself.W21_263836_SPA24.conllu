@@ -1,0 +1,401 @@
+# Unnamed: 0 = 11
+# id = 263836
+# prompt = yourself
+# quarter = W21
+# course = SPA 24
+# age = 18
+# gender = Male
+# l1 language = 3
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Desde niño chiquito mi padre, un hombre *PLACE* tradicional, me enseñó todo lo que debería saber cuando viene a ser un “hombre.” Desafortunadamente, nunca pude complacerlo- nunca era masculino, dominante, ni asertivo; mis esfuerzos e intereses estaban en otra parte de mi niñez. Nunca me gustó jugar al fútbol, nunca me gustó el fútbol americano, ni siquiera me gustó jugar tenis; mi relación con el padre era difícil de entender para decir lo menos. Tan pronto como comencé la escuela primaria, comencé a andar con muchachas en vez de muchachos- nunca voluntariamente conviví con los chicos de mi escuela. Los muchachos siempre me intimidaron y me llamaron nombres porque no me gustaba jugar deportes, no era un “hombre normal” según ellos; me consideraron demasiado femenina por la forma en que actué y las cosas que hacía. Fue en este mismo momento que empecé a sentirme raro y diferente, como un “hombre anormal''; podía sentirlo y noté que mi papá también lo sentía. Mi padre y yo empezamos a separarnos lentamente y comencé a crecer sintiéndome descuidado, sin papá, sin otro padre, sin amor. Por supuesto esto no era verdad pero estaba tan inseguro de lo que me hizo ser diferente, lo que me hizo ser raro. El tiempo pasó, maduré, pero todavía andaba con muchachas y solo muchachas- empecé a sentirme frustrado conmigo mismo porque no andaba con muchachos. Todavía estaba intimidado y llamado nombres pero no dolió del mismo modo. Empecé a preocuparme menos por lo que la gente pensaba de mí. Tenía a mis amigas la vida era buena hasta que desarrollé un enamoramiento- era el segundo año de secundaria. Esto no era un enamoramiento normal, estaba enamorado de un chavo. Estaba confundido, estaba asustado, pero finalmente descubrí por qué me consideraban femenina, por qué me consideraban raro, y ya sabiá que mi padre también se estaba dando cuenta: soy gay.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Desde	desde	ADP	_	_	2	case	_	_
+2	niño	niño	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+3	chiquito	chiquito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	padre	padre	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+9	*PLACE*	*PlacE*	SYM	_	_	8	amod	_	_
+10	tradicional	tradicional	ADJ	_	Number=Sing	8	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	enseñó	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
+15	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
+16	que	que	PRON	_	PronType=Rel	18	obj	_	_
+17	debería	deber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	18	aux	_	_
+18	saber	saber	VERB	_	VerbForm=Inf	13	xcomp	_	_
+19	cuando	cuando	SCONJ	_	_	20	mark	_	_
+20	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+21	a	a	ADP	_	_	25	case	_	_
+22	ser	ser	AUX	_	VerbForm=Inf	25	cop	_	_
+23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	“	“	PUNCT	_	PunctType=Quot	25	punct	_	_
+25	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	20	xcomp	_	_
+26	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	0	root	_	_
+2	Desafortunadamente	desafortunadamente	ADV	_	_	9	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	nunca	nunca	ADV	_	_	2	advmod	_	_
+5	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	aux	_	_
+6	complacerlo-	complacerlo-	PUNCT	_	PunctType=Dash	9	punct	_	_
+7	nunca	nunca	ADV	_	_	9	advmod	_	_
+8	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	masculino	masculino	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	dominante	dominante	ADJ	_	Number=Sing	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	ni	ni	CCONJ	_	_	14	cc	_	_
+14	asertivo	asertivo	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	_
+15	;	;	PUNCT	_	PunctType=Semi	9	punct	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	esfuerzos	esfuerzo	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
+18	e	e	CCONJ	_	_	19	cc	_	_
+19	intereses	interés	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	_
+20	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
+23	parte	parte	NOUN	_	Gender=Fem|Number=Sing	9	advcl	_	_
+24	de	de	ADP	_	_	26	case	_	_
+25	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	niñez	niñez	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gustó	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	jugar	jugar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	nunca	nunca	ADV	_	_	10	advmod	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	gustó	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+13	americano	americano	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	ni	ni	CCONJ	_	_	18	advmod	_	_
+16	siquiera	siquiera	NOUN	_	_	15	fixed	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl	_	_
+18	gustó	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+19	jugar	jugar	VERB	_	VerbForm=Inf	18	csubj	_	_
+20	tenis	tenis	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	_
+21	;	;	PUNCT	_	PunctType=Semi	3	punct	_	_
+22	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	relación	relación	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
+24	con	con	ADP	_	_	26	case	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	padre	padre	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+27	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	cop	_	_
+28	difícil	difícil	ADJ	_	Number=Sing	3	advcl	_	_
+29	de	de	ADP	_	_	30	mark	_	_
+30	entender	entender	VERB	_	VerbForm=Inf	28	acl	_	_
+31	para	para	ADP	_	_	32	mark	_	_
+32	decir	decir	VERB	_	VerbForm=Inf	28	advcl	_	_
+33	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	34	det	_	_
+34	menos	menos	ADV	_	Degree=Cmp	32	obj	_	_
+35	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tan	tan	NOUN	_	_	4	mark	_	_
+2	pronto	pronto	NOUN	_	_	1	fixed	_	_
+3	como	como	SCONJ	_	_	1	fixed	_	_
+4	comencé	comencar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	20	advcl	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	comencé	comencar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	andar	andar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	muchachas	muchacha	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
+14	en	en	ADP	_	_	13	case	_	_
+15	vez	vez	NOUN	_	_	14	fixed	_	_
+16	de	de	ADP	_	_	14	fixed	_	_
+17	muchachos-	muchachos-	PUNCT	_	PunctType=Dash	20	punct	_	_
+18	nunca	nunca	ADV	_	_	20	advmod	_	_
+19	voluntariamente	voluntariamente	ADV	_	_	20	advmod	_	_
+20	conviví	convivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	chicos	chico	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	_
+24	de	de	ADP	_	_	26	case	_	_
+25	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	muchachos	muchacho	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	siempre	siempre	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	intimidaron	intimidar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	llamaron	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+9	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	porque	porque	SCONJ	_	_	13	mark	_	_
+11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	gustaba	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+14	jugar	jugar	VERB	_	VerbForm=Inf	13	csubj	_	_
+15	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+17	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
+18	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	“	“	PUNCT	_	PunctType=Quot	21	punct	_	_
+21	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	13	advcl	_	_
+22	normal	normal	ADJ	_	Number=Sing	21	amod	_	_
+23	”	”	PUNCT	_	PunctType=Quot	21	punct	_	_
+24	según	según	ADP	_	_	25	case	_	_
+25	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
+26	;	;	PUNCT	_	PunctType=Semi	5	punct	_	_
+27	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	obj	_	_
+28	consideraron	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+29	demasiado	demasiado	ADV	_	_	30	advmod	_	_
+30	femenina	femenino	ADJ	_	Gender=Fem|Number=Sing	28	obj	_	_
+31	por	por	ADP	_	_	33	case	_	_
+32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	forma	forma	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	_
+34	en	en	ADP	_	_	35	case	_	_
+35	que	que	PRON	_	PronType=Rel	36	obl	_	_
+36	actué	acar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	33	acl	_	_
+37	y	y	CCONJ	_	_	39	cc	_	_
+38	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_
+39	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	33	conj	_	_
+40	que	que	PRON	_	PronType=Rel	41	obj	_	_
+41	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	39	acl	_	_
+42	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+4	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	momento	momento	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	empecé	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	sentirme	sentir	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	raro	raro	ADJ	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	diferente	diferente	ADJ	_	Number=Sing	10	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+14	como	como	SCONJ	_	_	17	mark	_	_
+15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	“	“	PUNCT	_	PunctType=Quot	17	punct	_	_
+17	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+18	anormal	anormal	ADJ	_	Number=Sing	17	amod	_	_
+19	''	''	PUNCT	_	PunctType=Quot	17	punct	_	_
+20	;	;	PUNCT	_	PunctType=Semi	22	punct	_	_
+21	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
+22	sentirlo	sentir	VERB	_	VerbForm=Inf	1	advcl	_	_
+23	y	y	CCONJ	_	_	24	cc	_	_
+24	noté	notar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	_
+25	que	que	SCONJ	_	_	30	mark	_	_
+26	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	papá	papá	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
+28	también	también	ADV	_	_	30	advmod	_	_
+29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	30	obj	_	_
+30	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	ccomp	_	_
+31	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	separarnos	separar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	lentamente	lentamente	ADV	_	_	5	advmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	comencé	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	crecer	crecer	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	sintiéndome	sintiar	VERB	_	VerbForm=Ger	12	advcl	_	_
+14	descuidado	descuidado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	xcomp	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	sin	sin	ADP	_	_	17	case	_	_
+17	papá	papá	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	_
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+19	sin	sin	ADP	_	_	21	case	_	_
+20	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
+21	padre	padre	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	_
+22	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+23	sin	sin	ADP	_	_	24	case	_	_
+24	amor	amor	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Por	por	ADP	_	_	6	advmod	_	_
+2	supuesto	supuesto	NOUN	_	_	1	fixed	_	_
+3	esto	este	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	tan	tanto	ADV	_	_	10	advmod	_	_
+10	inseguro	inseguro	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+11	de	de	ADP	_	_	15	mark	_	_
+12	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
+13	que	que	PRON	_	PronType=Rel	15	nsubj	_	_
+14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl	_	_
+15	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl	_	_
+16	ser	ser	AUX	_	VerbForm=Inf	17	cop	_	_
+17	diferente	diferente	ADJ	_	Number=Sing	15	xcomp	_	_
+18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+19	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	det	_	_
+20	que	que	PRON	_	PronType=Rel	22	nsubj	_	_
+21	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	obl	_	_
+22	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+23	ser	ser	AUX	_	VerbForm=Inf	24	cop	_	_
+24	raro	raro	ADJ	_	Gender=Masc|Number=Sing	22	xcomp	_	_
+25	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	maduré	madurar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	todavía	todavía	ADV	_	_	9	advmod	_	_
+9	andaba	andar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	muchachas	muchacha	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+12	y	y	CCONJ	_	_	11	cc	_	_
+13	solo	solo	ADJ	_	_	11	advmod	_	_
+14	muchachas-	muchachas-	PUNCT	_	PunctType=Dash	15	punct	_	_
+15	empecé	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	sentirme	sentir	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	frustrado	frustrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	17	xcomp	_	_
+19	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	18	obl	_	_
+20	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	19	det	_	_
+21	porque	porque	SCONJ	_	_	23	mark	_	_
+22	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+23	andaba	andar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+24	con	con	ADP	_	_	25	case	_	_
+25	muchachos	muchacho	NOUN	_	Gender=Masc|Number=Plur	23	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	3	advmod	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	intimidado	intimidado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	llamado	llamado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+6	nombres	nombre	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	dolió	doliar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+10	del	de	ADP	_	_	12	case	_	_
+11	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	modo	modo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Empecé	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	preocuparme	preocupar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	menos	menos	ADV	_	Degree=Cmp	1	advmod	_	_
+5	por	por	ADP	_	_	10	mark	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
+7	que	que	PRON	_	PronType=Rel	10	obj	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	gente	gente	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+10	pensaba	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	10	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	buena	buen	ADJ	_	Gender=Fem|Number=Sing	1	advcl	_	_
+9	hasta	hasta	ADP	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	desarrollé	desarrollar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+13	enamoramiento-	enamoramiento-	PUNCT	_	PunctType=Dash	17	punct	_	_
+14	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	17	amod	_	_
+17	año	año	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	secundaria	secundaria	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	5	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	enamoramiento	enamoramiento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	normal	normal	ADJ	_	Number=Sing	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+8	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	enamorado	enamorado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	advcl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	chavo	chavo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	confundido	confundido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	finalmente	finalmente	ADV	_	_	9	advmod	_	_
+9	descubrí	descubrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	por	por	ADP	_	_	11	case	_	_
+11	qué	qué	PRON	_	Number=Sing|PronType=Int	13	obl	_	_
+12	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	consideraban	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	_
+14	femenina	femenino	ADJ	_	Gender=Fem|Number=Sing	13	obj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+16	por	por	ADP	_	_	17	case	_	_
+17	qué	qué	PRON	_	Number=Sing|PronType=Int	19	obl	_	_
+18	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obj	_	_
+19	consideraban	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	advcl	_	_
+20	raro	raro	ADJ	_	Gender=Masc|Number=Sing	19	obj	_	_
+21	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+22	y	y	CCONJ	_	_	24	cc	_	_
+23	ya	ya	ADV	_	_	24	advmod	_	_
+24	sabiá	sabei	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	conj	_	_
+25	que	que	SCONJ	_	_	31	mark	_	_
+26	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	padre	padre	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	_
+28	también	también	ADV	_	_	31	advmod	_	_
+29	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl	_	_
+30	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	_
+31	dando	dar	VERB	_	VerbForm=Ger	24	ccomp	_	_
+32	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	31	compound	_	_
+33	:	:	PUNCT	_	PunctType=Colo	35	punct	_	_
+34	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	35	cop	_	_
+35	gay	gay	ADJ	_	Number=Sing	31	advcl	_	_
+36	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

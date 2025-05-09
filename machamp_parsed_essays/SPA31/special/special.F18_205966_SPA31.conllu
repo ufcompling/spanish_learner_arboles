@@ -1,0 +1,330 @@
+# Unnamed: 0 = 8
+# id = 205966
+# prompt = special
+# quarter = F18
+# course = SPA 31
+# age = 18
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 4.0
+# writing ability = 5.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona que yo considero alguien muy especial en mi vida seria mi mejor amigo, *FIRST_NAME*. Como empezaron la mayoría de mis amistades, nos conocimos por medio de tener el mismo interés o tal vez obsesión en el futbol mexicano. Nuestra relación ha crecido fuerte con los años y ahora enfrenta la distancia con éxito. El principio de nuestra historia fue el segundo año de la secundaria. Me lastime la rodilla en el futbol resultando en una cirugía y unas muletas por unas semanas. Es así como *FIRST_NAME* tuvo interés en una amistad con migo porque al preguntarme como me lastime se abrió una conversación infinita de opiniones sobre el deporte. Nuestras conversaciones crecieron a ser mas intimas y con cada vez que nos reuníamos en la clase de español o en eventos escolares creció una confianza fuerte entre nosotros. Es decir, no ocultábamos ningún secreto entre nosotros y siempre estábamos listos para escuchar los problemas o frustraciones del otro. Para nosotros nunca nos faltaba un hombro para llorar o un abogado para defendernos en un debate. Sin embargo, nuestra amistad nos ha ayudado perseverar por los años difíciles de la adolescencia. Hoy en día, hemos seguido diferentes rumbos para el futuro, pero nos seguimos apoyando el uno al otro. Yo escogí una educación en la universidad de *UNIVERSITY* con interés en el español y psicología, mientras *FIRST_NAME* eligió un camino para obtener un lugar como soldado en la Marina de Estados Unidos. Ultimamente, las cartas largas que nos mandamos son suficiente para asegurarnos que somos amigos por vida y nunca tenemos que enfrentar el mundo a solas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	5	obj	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	considero	considerar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	5	obj	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	especial	especial	ADJ	_	Number=Sing	6	amod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	seria	seri	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	15	cop	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+14	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	15	amod	_	_
+15	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+16	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+17	*FIRST_NAME*	*first_name*	PUNCT	_	_	15	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
+
+1	Como	como	SCONJ	_	_	2	mark	_	_
+2	empezaron	empezar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amistades	amistad	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+9	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	obj	_	_
+10	conocimos	conocir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	por	por	ADP	_	_	14	mark	_	_
+12	medio	medio	NOUN	_	_	11	fixed	_	_
+13	de	de	ADP	_	_	11	fixed	_	_
+14	tener	tener	VERB	_	VerbForm=Inf	10	advcl	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+17	interés	interés	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+18	o	o	CCONJ	_	_	21	cc	_	_
+19	tal	tal	NOUN	_	_	21	advmod	_	_
+20	vez	vez	NOUN	_	_	19	fixed	_	_
+21	obsesión	obsesión	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+25	mexicano	mexicano	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	relación	relación	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	crecido	crecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	fuerte	fuerte	ADJ	_	Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	ahora	ahora	ADV	_	_	11	advmod	_	_
+11	enfrenta	enfrentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	con	con	ADP	_	_	15	case	_	_
+15	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	principio	principio	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	historia	historia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	año	año	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	secundaria	secundaria	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	lastime	lastimar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	rodilla	rodilla	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	resultando	resultar	VERB	_	VerbForm=Ger	2	advcl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	cirugía	cirugía	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	muletas	muleta	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	así	así	ADV	_	_	0	root	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	*FIRST_NAME*	*first_name*	PROPN	_	_	5	nsubj	_	_
+5	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+6	interés	interés	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	amistad	amistad	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	migo	migo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	porque	porque	SCONJ	_	_	19	mark	_	_
+13	al	a	ADP	_	_	14	case	_	_
+14	preguntarme	preguntar	VERB	_	VerbForm=Inf	19	advcl	_	_
+15	como	como	SCONJ	_	_	14	mark	_	_
+16	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	17	obj	_	_
+17	lastime	lastimar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	abrió	abrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	conversación	conversación	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
+22	infinita	infinito	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	_
+25	sobre	sobre	ADP	_	_	27	case	_	_
+26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	conversaciones	conversación	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	crecieron	crecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	7	mark	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+6	mas	mas	ADV	_	_	7	advmod	_	_
+7	intimas	intimo	ADJ	_	Gender=Fem|Number=Plur	3	xcomp	_	_
+8	y	y	CCONJ	_	_	24	cc	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	cada	cada	DET	_	Number=Sing|PronType=Tot	11	det	_	_
+11	vez	vez	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+12	que	que	PRON	_	PronType=Rel	14	obl	_	_
+13	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	obj	_	_
+14	reuníamos	reuner	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	clase	clase	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	español	español	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	o	o	CCONJ	_	_	22	cc	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	eventos	evento	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	_
+23	escolares	escolar	ADJ	_	Number=Plur	22	amod	_	_
+24	creció	crecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+25	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	confianza	confianza	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+27	fuerte	fuerte	ADJ	_	Number=Sing	26	amod	_	_
+28	entre	entre	ADP	_	_	29	case	_	_
+29	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	24	obl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	es	NOUN	_	_	5	advmod	_	_
+2	decir	decir	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	ocultábamos	ocultar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	ningún	ninguno	DET	_	Gender=Masc|Number=Sing|PronType=Neg	7	det	_	_
+7	secreto	secreto	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	entre	entre	ADP	_	_	9	case	_	_
+9	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	siempre	siempre	ADV	_	_	13	advmod	_	_
+12	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	listos	listo	ADJ	_	Gender=Masc|Number=Plur	5	conj	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	escuchar	escuchar	VERB	_	VerbForm=Inf	13	acl	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+18	o	o	CCONJ	_	_	19	cc	_	_
+19	frustraciones	frustración	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
+20	del	de	ADP	_	_	21	case	_	_
+21	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	17	nmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
+3	nunca	nunca	ADV	_	_	5	advmod	_	_
+4	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	faltaba	faltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hombro	hombro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	llorar	llorar	VERB	_	VerbForm=Inf	7	acl	_	_
+10	o	o	CCONJ	_	_	12	cc	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	abogado	abogado	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	defendernos	defender	VERB	_	VerbForm=Inf	12	acl	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	debate	debate	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Sin	sin	ADP	_	_	8	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	amistad	amistad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+7	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	ayudado	ayudar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	perseverar	perseverar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	años	año	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+13	difíciles	difícil	ADJ	_	Number=Plur	12	amod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	adolescencia	adolescencia	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Hoy	hoy	NOUN	_	_	6	advmod	_	_
+2	en	en	ADP	_	_	1	fixed	_	_
+3	día	día	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	hemos	haber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	seguido	seguir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	8	det	_	_
+8	rumbos	rumbo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+13	pero	pero	CCONJ	_	_	15	cc	_	_
+14	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	seguimos	seguir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+16	apoyando	apoyar	VERB	_	VerbForm=Ger	15	xcomp	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	16	obj	_	_
+19	al	a	ADP	_	_	20	case	_	_
+20	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	16	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	escogí	escoger	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	educación	educación	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*UNIVERSITY*	*University*	PROPN	_	_	7	punct	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	interés	interés	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	español	español	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+18	mientras	mientras	CCONJ	_	_	20	cc	_	_
+19	*FIRST_NAME*	*first_name*	PROPN	_	_	20	nsubj	_	_
+20	eligió	elegir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+21	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	camino	camino	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+23	para	para	ADP	_	_	24	mark	_	_
+24	obtener	obtener	VERB	_	VerbForm=Inf	22	acl	_	_
+25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+27	como	como	SCONJ	_	_	28	mark	_	_
+28	soldado	soldado	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_
+29	en	en	ADP	_	_	31	case	_	_
+30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	Marina	Marina	PROPN	_	_	28	nmod	_	_
+32	de	de	ADP	_	_	33	case	_	_
+33	Estados	Estados	PROPN	_	_	31	flat	_	_
+34	Unidos	Unidos	PROPN	_	_	33	flat	_	_
+35	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ultimamente	ultimamente	ADV	_	_	10	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cartas	carta	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	_
+5	largas	largo	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+6	que	que	PRON	_	PronType=Rel	8	obj	_	_
+7	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	mandamos	mandar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	acl	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	suficiente	suficiente	ADJ	_	Number=Sing	0	root	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	asegurarnos	asegurar	VERB	_	VerbForm=Inf	10	acl	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	12	ccomp	_	_
+16	por	por	ADP	_	_	17	case	_	_
+17	vida	vida	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	nunca	nunca	ADV	_	_	22	advmod	_	_
+20	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	_
+21	que	que	SCONJ	_	_	22	cc	_	_
+22	enfrentar	enfrentar	VERB	_	VerbForm=Inf	20	conj	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+25	a	a	ADP	_	_	22	advmod	_	_
+26	solas	solas	NOUN	_	_	25	fixed	_	_
+27	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+

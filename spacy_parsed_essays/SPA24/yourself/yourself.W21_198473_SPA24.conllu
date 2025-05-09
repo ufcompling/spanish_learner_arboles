@@ -1,0 +1,332 @@
+# Unnamed: 0 = 59
+# id = 198473
+# prompt = yourself
+# quarter = W21
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hóla. Estoy en mi tercer año en *UNIVERSITY* *UNIVERSITY* y estoy estudiando neurología, biología, y comportamiento con un minor en Español. Soy de *CITY* que está a unos treinta minutos, pero ahora vivo en *CITY* durante la año de escuela. Tengo dos hermanos mayores y los dos viven en *CITY* tambíen. Debido el pandemia, todos mi familia están quedarse en mi casa, entonces, es muy ocupado cúal es la razón por qúe estoy quedando en mi apartamiento ahora. Tengo una perrita se llama *FIRST_NAME* y ella es un corgi y es muy, muy lindo. En el futuro, quiero ser un asistente de medíco porque cuando tenía *AGE* años, me rompí el ligamento cruzado anterior jugando fútbol y me gustó mi doctora mucho. Despues de graduarme, quiero viajar a Spain o Mexíco porque quiero aprender el lengua más, entonces puedo hablar con gente para mi trabajo. In mi tiempo libre me gusta pasar tiempo con mis amigos, ir a juegos de deportes, hacer ejercicio y ver Netflix y películas. Mi programas favoritas son, El Oficina, La communidad, Nueva Mujer, Anatomía de Grey, y especiales de comedia. Mi equipo deportivo profesional favoritos son Los Raiders de Oakland y Los athleticos de Oakland. Pero, mis deportivos favoritos son fútbol y voleibol. Ahora, trabajo en un campo de golf en *CITY* en la restaurante y en el campo dónde vendo comida y bebidas, pero estoy tratando a conseguir un trabajo en el hospital porque un día quiero trabajar en el hospital. Espero ayudar a la gente en el futuro.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hóla	Hóla	PROPN	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	mi	mi	DET	_	_	5	det	_	_
+4	tercer	tercer	ADJ	_	_	5	amod	_	_
+5	año	año	NOUN	_	_	1	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	1	obl	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	estoy	estar	AUX	_	_	11	aux	_	_
+11	estudiando	estudiar	VERB	_	_	1	conj	_	_
+12	neurología	neurología	NOUN	_	_	11	obj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	biología	biología	NOUN	_	_	12	conj	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	comportamiento	comportamiento	NOUN	_	_	12	conj	_	_
+18	con	con	ADP	_	_	20	case	_	_
+19	un	uno	DET	_	_	20	det	_	_
+20	minor	minor	NOUN	_	_	17	nmod	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	Español	Español	PROPN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	que	que	PRON	_	_	5	nsubj	_	_
+5	está	estar	AUX	_	_	9	cop	_	_
+6	a	a	ADP	_	_	9	case	_	_
+7	unos	uno	DET	_	_	9	det	_	_
+8	treinta	treinta	NUM	_	_	7	nummod	_	_
+9	minutos	minuto	NOUN	_	_	1	obl	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	ahora	ahora	ADV	_	_	13	advmod	_	_
+13	vivo	vivir	VERB	_	_	1	conj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	CITY	PROPN	_	_	13	obl	_	_
+16	durante	durante	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	año	año	NOUN	_	_	13	obl	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	escuela	escuela	NOUN	_	_	18	nmod	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	mayores	mayor	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	dos	dos	NUM	_	_	8	nsubj	_	_
+8	viven	vivir	VERB	_	_	1	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	obl	_	_
+11	tambíen	tambíen	PROPN	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Debido	debido	ADV	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pandemia	pandemia	NOUN	_	_	9	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	9	nsubj	_	_
+8	están	estar	AUX	_	_	9	aux	_	_
+9	quedarse	quedar él	VERB	_	_	0	ROOT	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	casa	casa	NOUN	_	_	9	obl	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	entonces	entonces	ADV	_	_	18	advmod	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	es	ser	AUX	_	_	18	cop	_	_
+17	muy	mucho	ADV	_	_	18	advmod	_	_
+18	ocupado	ocupado	ADJ	_	_	9	advcl	_	_
+19	cúal	cúal	NOUN	_	_	18	obj	_	_
+20	es	ser	AUX	_	_	22	cop	_	_
+21	la	el	DET	_	_	22	det	_	_
+22	razón	razón	NOUN	_	_	9	advcl	_	_
+23	por	por	ADP	_	_	24	case	_	_
+24	qúe	qúe	PROPN	_	_	22	nmod	_	_
+25	estoy	estar	AUX	_	_	26	aux	_	_
+26	quedando	quedar	VERB	_	_	9	advcl	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	mi	mi	DET	_	_	29	det	_	_
+29	apartamiento	apartamiento	NOUN	_	_	26	obl	_	_
+30	ahora	ahora	ADV	_	_	26	advmod	_	_
+31	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	perrita	perrita	NOUN	_	_	1	obj	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	1	advcl	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	ella	él	PRON	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	corgi	corgi	NOUN	_	_	1	conj	_	_
+12	y	y	CCONJ	_	_	17	cc	_	_
+13	es	ser	AUX	_	_	17	cop	_	_
+14	muy	mucho	ADV	_	_	17	advmod	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	lindo	lindo	ADJ	_	_	11	conj	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	futuro	futuro	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	quiero	querer	VERB	_	_	0	ROOT	_	_
+6	ser	ser	AUX	_	_	8	cop	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	asistente	asistente	NOUN	_	_	5	xcomp	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	medíco	medíco	PROPN	_	_	8	nmod	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	cuando	cuando	SCONJ	_	_	13	mark	_	_
+13	tenía	tener	VERB	_	_	18	advcl	_	_
+14	*AGE*	AGE	PROPN	_	_	13	nsubj	_	_
+15	años	año	NOUN	_	_	14	flat	_	_
+16	,	,	PUNCT	_	_	13	punct	_	_
+17	me	yo	PRON	_	_	18	iobj	_	_
+18	rompí	rompí	VERB	_	_	5	ccomp	_	_
+19	el	el	DET	_	_	20	det	_	_
+20	ligamento	ligamento	NOUN	_	_	18	nsubj	_	_
+21	cruzado	cruzado	ADJ	_	_	20	amod	_	_
+22	anterior	anterior	ADJ	_	_	20	amod	_	_
+23	jugando	jugar	VERB	_	_	18	advcl	_	_
+24	fútbol	fútbol	NOUN	_	_	23	obj	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	me	yo	PRON	_	_	27	iobj	_	_
+27	gustó	gustar	VERB	_	_	18	conj	_	_
+28	mi	mi	DET	_	_	29	det	_	_
+29	doctora	doctora	NOUN	_	_	27	obj	_	_
+30	mucho	mucho	ADV	_	_	29	amod	_	_
+31	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Despues	despues	VERB	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	graduarme	graduar yo	VERB	_	_	1	xcomp	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	quiero	querer	VERB	_	_	1	advcl	_	_
+6	viajar	viajar	VERB	_	_	5	xcomp	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	Spain	Spain	PROPN	_	_	6	obl	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	Mexíco	Mexíco	PROPN	_	_	8	conj	_	_
+11	porque	porque	SCONJ	_	_	12	mark	_	_
+12	quiero	querer	VERB	_	_	5	advcl	_	_
+13	aprender	aprender	VERB	_	_	12	xcomp	_	_
+14	el	el	DET	_	_	15	det	_	_
+15	lengua	lengua	NOUN	_	_	13	obj	_	_
+16	más	más	ADV	_	_	15	advmod	_	_
+17	,	,	PUNCT	_	_	12	punct	_	_
+18	entonces	entonces	ADV	_	_	20	advmod	_	_
+19	puedo	poder	AUX	_	_	20	aux	_	_
+20	hablar	hablar	VERB	_	_	1	xcomp	_	_
+21	con	con	ADP	_	_	22	case	_	_
+22	gente	gente	NOUN	_	_	20	obl	_	_
+23	para	para	ADP	_	_	25	case	_	_
+24	mi	mi	DET	_	_	25	det	_	_
+25	trabajo	trabajo	NOUN	_	_	20	obl	_	_
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+1	In	in	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	6	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	pasar	pasar	VERB	_	_	6	csubj	_	_
+8	tiempo	tiempo	NOUN	_	_	7	obj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	_	11	det	_	_
+11	amigos	amigo	NOUN	_	_	7	obl	_	_
+12	,	,	PUNCT	_	_	6	punct	_	_
+13	ir	ir	VERB	_	_	6	csubj	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	juegos	juegos	NOUN	_	_	13	obl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	deportes	deporte	NOUN	_	_	15	nmod	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	hacer	hacer	VERB	_	_	13	advcl	_	_
+20	ejercicio	ejercicio	NOUN	_	_	19	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	ver	ver	VERB	_	_	13	conj	_	_
+23	Netflix	Netflix	PROPN	_	_	22	obj	_	_
+24	y	y	CCONJ	_	_	25	cc	_	_
+25	películas	película	NOUN	_	_	23	conj	_	_
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	programas	programa	NOUN	_	_	0	ROOT	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	7	cop	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	El	el	DET	_	_	7	det	_	_
+7	Oficina	Oficina	PROPN	_	_	2	appos	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	La	el	DET	_	_	10	det	_	_
+10	communidad	communidad	NOUN	_	_	2	appos	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Nueva	Nueva	PROPN	_	_	10	appos	_	_
+13	Mujer	Mujer	PROPN	_	_	12	flat	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Anatomía	Anatomía	PROPN	_	_	10	conj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	Grey	Grey	PROPN	_	_	15	flat	_	_
+18	,	,	PUNCT	_	_	15	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	especiales	especial	ADJ	_	_	2	conj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	comedia	comedia	NOUN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	equipo	equipo	NOUN	_	_	8	nsubj	_	_
+3	deportivo	deportivo	ADJ	_	_	2	amod	_	_
+4	profesional	profesional	ADJ	_	_	2	amod	_	_
+5	favoritos	favorito	NOUN	_	_	2	amod	_	_
+6	son	ser	AUX	_	_	8	cop	_	_
+7	Los	el	DET	_	_	8	det	_	_
+8	Raiders	Raiders	PROPN	_	_	0	ROOT	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Oakland	Oakland	PROPN	_	_	8	flat	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	Los	el	DET	_	_	13	det	_	_
+13	athleticos	athletico	NOUN	_	_	8	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Oakland	Oakland	PROPN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	deportivos	deportivo	NOUN	_	_	7	nsubj	_	_
+5	favoritos	favorito	ADJ	_	_	4	amod	_	_
+6	son	ser	AUX	_	_	7	cop	_	_
+7	fútbol	fútbol	ADJ	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	voleibol	voleibol	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	trabajo	trabajo	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	campo	campo	NOUN	_	_	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	golf	golf	NOUN	_	_	6	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	6	nmod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	restaurante	restaurante	NOUN	_	_	3	obl	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	el	el	DET	_	_	17	det	_	_
+17	campo	campo	NOUN	_	_	3	conj	_	_
+18	dónde	dónde	PRON	_	_	19	obl	_	_
+19	vendo	vendo	VERB	_	_	17	acl	_	_
+20	comida	comida	NOUN	_	_	19	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	bebidas	bebida	NOUN	_	_	20	conj	_	_
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	pero	pero	CCONJ	_	_	26	cc	_	_
+25	estoy	estar	AUX	_	_	26	aux	_	_
+26	tratando	tratar	VERB	_	_	3	conj	_	_
+27	a	a	ADP	_	_	28	mark	_	_
+28	conseguir	conseguir	VERB	_	_	26	xcomp	_	_
+29	un	uno	DET	_	_	30	det	_	_
+30	trabajo	trabajo	NOUN	_	_	28	obj	_	_
+31	en	en	ADP	_	_	33	case	_	_
+32	el	el	DET	_	_	33	det	_	_
+33	hospital	hospital	NOUN	_	_	28	obl	_	_
+34	porque	porque	SCONJ	_	_	37	mark	_	_
+35	un	uno	DET	_	_	36	det	_	_
+36	día	día	NOUN	_	_	37	obl	_	_
+37	quiero	querer	VERB	_	_	26	advcl	_	_
+38	trabajar	trabajar	VERB	_	_	37	xcomp	_	_
+39	en	en	ADP	_	_	41	case	_	_
+40	el	el	DET	_	_	41	det	_	_
+41	hospital	hospital	NOUN	_	_	38	obl	_	_
+42	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	ayudar	ayudar	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	gente	gente	NOUN	_	_	2	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	futuro	futuro	NOUN	_	_	2	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+

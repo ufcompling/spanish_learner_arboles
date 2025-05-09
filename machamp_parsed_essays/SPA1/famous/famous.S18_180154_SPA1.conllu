@@ -1,0 +1,238 @@
+# Unnamed: 0 = 201
+# id = 180154
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 23 years old
+# l1 language = English
+# other l1 language(s) = N/a
+# language(s) used at home = Spanish
+# language(s) studied = I studied Spanish in high school for 3 years. I studied French for 1 semester.
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de semanas les gustan tocar instrumentos y cantar con sus amigos.
+# a personal annotator2 = nan
+# gender-number annotator1 = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de [semanas]{semana}<na:sp:noun:inan> les gustan tocar instrumentos y cantar con sus amigos.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de semanas les gustan tocar instrumentos y cantar con sus amigos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Jared	Jared	PROPN	_	_	5	nsubj	_	_
+2	Leto	Leto	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cuarenta	cuarenta	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+3	y	y	CCONJ	_	_	2	compound	_	_
+4	seis	seis	NUM	_	NumForm=Word|NumType=Card	2	compound	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+9	azules	azul	ADJ	_	Number=Plur	8	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+13	café	café	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	veintiséis	veintiséis	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	diciembre	diciembre	NOUN	_	_	5	compound	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cantar	cantar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tocar	tocar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	piano	piano	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	actor	actor	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	director	director	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	modelo	modelo	NOUN	_	Number=Sing	3	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	artista	artista	NOUN	_	Number=Sing	3	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	sale	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	Dallas	Dallas	PROPN	_	_	5	appos	_	_
+7	Buyers	Buyers	PROPN	_	_	6	flat	_	_
+8	Club	Club	PROPN	_	_	6	flat	_	_
+9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	10	punct	_	_
+10	2013	2013	NOUN	_	AdvType=Tim	5	appos	_	_
+11	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	drama	drama	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	banda	banda	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+9	30	30	NUM	_	NumForm=Digit|NumType=Card	10	nummod	_	_
+10	segundos	segundo	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	Marte	Marte	PROPN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	rock	rock	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	alternativo	alternativo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	pop	pop	NOUN	_	_	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	Jared	Jared	PROPN	_	_	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tomar	tomar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	fótos	fóto	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	viajar	viajar	VERB	_	VerbForm=Inf	5	conj	_	_
+9	por	por	ADP	_	_	12	case	_	_
+10	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	11	det	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	simpático	simpático	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	generoso	generoso	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	activo	activo	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	corto	corto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	barba	barba	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	bigote	bigote	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	escalada	escalada	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	arte	arte	NOUN	_	Number=Sing	3	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vegano	vegano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Shannon	Shannon	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Jared	Jared	PROPN	_	_	4	nsubj	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	Shannon	Shannon	PROPN	_	_	1	conj	_	_
+4	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Ángeles	Ángeles	PROPN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	California	California	PROPN	_	_	6	appos	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	grande	grande	ADJ	_	Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	fines	fin	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+6	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	tocar	tocar	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	instrumentos	instrumento	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	cantar	cantar	VERB	_	VerbForm=Inf	8	conj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+

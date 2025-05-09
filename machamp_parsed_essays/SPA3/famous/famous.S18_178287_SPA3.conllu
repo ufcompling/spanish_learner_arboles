@@ -1,0 +1,133 @@
+# Unnamed: 0 = 312
+# id = 178287
+# prompt = famous
+# quarter = S18
+# course = SPA 3
+# age = Female
+# gender = 18
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = My mother and father speak Portuguese and Spanish and I can follow commands but cannot produce any vocab. 
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 1.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Mi persona famoso es Shawn Mendes, un cantante de Canada. El canta canciones sobre su joventud, amigos, y amores. Su trayectoria musical empezo a travece de ""Vine."" Aqui el cantó canciones por seis segundos y lo hizo famoso. Cuando Justin Bieber, un otro cantante de Canada, lo escuchó por primero vez se burló de él.  Y eventualmente con el tiempo se hizieron buenos amigos. Pero yo creo que la razón por la cual Justin Bieber se reóde Shawn fue por miedo a la competicion. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Mi persona [famoso]{famosa}<ga:fm:adj:an> es Shawn Mendes, un cantante de Canada. El canta canciones sobre su joventud, amigos, y amores. Su trayectoria musical empezo a travece de ""Vine."" Aqui el cantó canciones por seis segundos y lo hizo famoso. Cuando Justin Bieber, un otro cantante de Canada, lo escuchó por [primero]{primera}<ga:fm:det:inan> vez se burló de él.  Y eventualmente con el tiempo se hizieron buenos amigos. Pero yo creo que la razón por la cual Justin Bieber se reóde Shawn fue por miedo a la competicion. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi persona famoso es Shawn Mendes, un cantante de Canada. El canta canciones sobre su joventud, amigos, y amores. Su trayectoria musical empezo a travece de "Vine." Aqui el cantó canciones por seis segundos y lo hizo famoso. Cuando Justin Bieber, un otro cantante de Canada, lo escuchó por primero vez se burló de él. Y eventualmente con el tiempo se hizieron buenos amigos. Pero yo creo que la razón por la cual Justin Bieber se reóde Shawn fue por miedo a la competicion.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Shawn	Shawn	PROPN	_	_	0	root	_	_
+6	Mendes	Mendes	PROPN	_	_	5	flat	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	cantante	cantante	NOUN	_	Number=Sing	5	appos	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Canada	Canada	PROPN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	joventud	joventud	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	amores	amor	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	trayectoria	trayectoria	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	musical	musical	ADJ	_	Number=Sing	2	amod	_	_
+4	empezo	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	travece	travece	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
+9	Vine	Vine	PROPN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	Aqui	aqui	ADV	_	_	4	advmod	_	_
+3	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	_
+4	cantó	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	segundos	segundo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+12	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	11	xcomp	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	12	mark	_	_
+2	Justin	Justin	PROPN	_	_	12	nsubj	_	_
+3	Bieber	Bieber	PROPN	_	_	2	flat	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+7	cantante	cantante	NOUN	_	Number=Sing	2	appos	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Canada	Canada	PROPN	_	_	7	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	escuchó	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	vez	vez	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	burló	burlar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	17	punct	_	_
+
+1	Y	y	CCONJ	_	_	7	cc	_	_
+2	eventualmente	eventualmente	ADV	_	_	7	advmod	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	hizieron	hazer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	17	mark	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	razón	razón	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	cual	cual	PRON	_	Number=Sing|PronType=Rel	13	obl	_	_
+10	Justin	Justin	PROPN	_	_	13	nsubj	_	_
+11	Bieber	Bieber	PROPN	_	_	10	flat	_	_
+12	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	obj	_	_
+13	reóde	reódar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+14	Shawn	Shawn	PROPN	_	_	13	nsubj	_	_
+15	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
+16	por	por	ADP	_	_	17	case	_	_
+17	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	competicion	competicion	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,352 @@
+# Unnamed: 0 = 93
+# id = 149219
+# prompt = special
+# quarter = S19
+# course = SPA 2
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Vietnamese
+# language(s) studied = Japanese 3 months
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama es muy bonita. Mi mama le gustan []{los}<ab:det:art:def> perros. Mi mama siempre cocina todos los dias. Mi mama es mas baja que mi papa. Mi mama tiene *AGE* anos. Mi mama es muy interesante. Mi mama tiene el pelo [negros]{negro}<na:adj>. Mi mama tambien tiene los ojos cafe. Mi mama es delgada. Mi mama tiene [muchas]{mucha}<in:det> [ropas]{ropa}<in:noun>. Mi mama le gustan []{las}<ab:det:art:def> gafas de sol. Mi mama le gustan []{los}<ab:det:art:def> zapatos. Mi mama es guapa y linda. Mi mama es ambiosa y intelligente. Mi mama es divertida pero ella esta seriosa hoy. Mi mama no es perozosa. Mi mama vive in *CITY*. Mi mama es de Vietnam. Mi mama le gusta hacer ejercicio. Mi mama trabaja en una oficina. Mi mama no le gustan gatos. Mi mama le gusta []{el}<ab:det:art:def> arroz pero no mucho []{la}<ab:det:art:def> carne. Mi mama hace ejercicio cinco dias en la semana. Mi mama cocina con mi. Mi mama usa una computadora todos los dias. Mi mama tiene muchos trabajos y es muy fuerte. Mi mama tiene un coche rojo. Mi mama esta preocupada pero ella [necesito]{necesita}<fs:st:pn> []{un}<ab:det:art:indef> trabajo nuevo. Mi mama tiene una familia muy grande. Mi mama tiene cinco hermanos. Mi mama le gusta comida de Americano y comida de China. Mi mama es muy importante. Mi mama le gusta []{el}<ab:det:art:def> chocolate. Mi mama encanta dormir. Mi mama le gusta cantar y bailar con sus amigas. Mi mama le gusta viajar a Mexico y Asia. Mi mama le gusta musica de pop. Mi mama tambien le gusta mirar []{la}<ab:det:art:def> television.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá es muy bonita. A mi mamá le gustan perros. Mi mamá siempre cocina todos los días. Mi mamá es más baja que mi papá. Mi mamá tiene *AGE* años. Mi mamá es muy interesante. Mi mamá tiene el pelo negro. Mi mamá también tiene los ojos cafe. Mi mamá es delgada. Mi mamá tiene muchas ropas. A mi mamá le gustan las gafas de sol. A mi mamá le gustan los zapatos. Mi mamá es guapa y linda. Mi mamá es ambiciosa e inteligente. Mi mamá es divertida pero está seria hoy. Mi mamá no es perezosa. Mi mamá vive in *CITY*. Mi mamá es de Vietnam. A mi mamá le gusta hacer ejercicio. Mi mamá trabaja en una oficina. A mi mamá no le gustan los gatos. A mi mamá le gusta el arroz pero no mucho la carne. Mi mamá hace ejercicio cinco dias en la semana. Mi mamá cocina conmigo. Mi mamá usa una computadora todos los días. Mi mamá tiene muchos trabajos y es muy fuerte. Mi mamá tiene un coche rojo. Mi mamá está preocupada pero necesita un trabajo nuevo. Mi mamá tiene una familia muy grande. Mi mamá tiene cinco hermanos. A mi mamá le gusta la comida de América y la comida de China. Mi mamá es muy importante. A mi mamá le gusta el chocolate. A mi mamá le encanta dormir. A mi mamá le gusta cantar y bailar con sus amigas. A mi mamá le gusta viajar a Mexico y Asia. A mi mamá le gusta la música de pop. A mi mamá también le gusta mirar la televisión.
+# corrected2 = nan
+# text = Mi mama es muy bonita. Mi mama le gustan perros. Mi mama siempre cocina todos los dias. Mi mama es mas baja que mi papa. Mi mama tiene *AGE* anos. Mi mama es muy interesante. Mi mama tiene el pelo negros. Mi mama tambien tiene los ojos cafe. Mi mama es delgada. Mi mama tiene muchas ropas. Mi mama le gustan gafas de sol. Mi mama le gustan zapatos. Mi mama es guapa y linda. Mi mama es ambiosa y intelligente. Mi mama es divertida pero ella esta seriosa hoy. Mi mama no es perozosa. Mi mama vive in *CITY*. Mi mama es de Vietnam. Mi mama le gusta hacer ejercicio. Mi mama trabaja en una oficina. Mi mama no le gustan gatos. Mi mama le gusta arroz pero no mucho carne. Mi mama hace ejercicio cinco dias en la semana. Mi mama cocina con mi. Mi mama usa una computadora todos los dias. Mi mama tiene muchos trabajos y es muy fuerte. Mi mama tiene un coche rojo. Mi mama esta preocupada pero ella necesito trabajo nuevo. Mi mama tiene una familia muy grande. Mi mama tiene cinco hermanos. Mi mama le gusta comida de Americano y comida de China. Mi mama es muy importante. Mi mama le gusta chocolate. Mi mama encanta dormir. Mi mama le gusta cantar y bailar con sus amigas. Mi mama le gusta viajar a Mexico y Asia. Mi mama le gusta musica de pop. Mi mama tambien le gusta mirar television.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	perros	perro	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	cocina	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	dias	dia	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	papa	papa	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	interesante	interesante	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	negros	negro	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	tambien	tambien	NOUN	_	_	4	advmod	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	cafe	cafe	NOUN	_	_	4	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	ropas	ropa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	sol	sol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	zapatos	zapato	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	guapa	guapo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	linda	lindo	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	ambiosa	ambioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	intelligente	intelligente	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	seriosa	serioso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	hoy	hoy	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	perozosa	perozoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	Vietnam	Vietnam	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	arroz	arroz	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
+9	carne	carne	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	dias	dia	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	semana	semana	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	cocina	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	usa	usar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	computadora	computadora	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	dias	dia	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	trabajos	trabajo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	fuerte	fuerte	ADJ	_	Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	coche	coche	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	rojo	rojo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	preocupada	preocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	grande	grande	ADJ	_	Number=Sing	5	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Americano	Americano	PROPN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	China	China	PROPN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dormir	dormir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cantar	cantar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	bailar	bailar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	viajar	viajar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	Mexico	Mexico	PROPN	_	_	5	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	Asia	Asia	PROPN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	musica	musica	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	pop	pop	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	tambien	tambien	ADV	_	_	5	advmod	_	_
+4	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mirar	mirar	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	television	television	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

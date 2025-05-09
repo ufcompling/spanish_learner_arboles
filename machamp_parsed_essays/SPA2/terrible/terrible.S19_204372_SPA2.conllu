@@ -1,0 +1,364 @@
+# Unnamed: 0 = 50
+# id = 204372
+# prompt = terrible
+# quarter = S19
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Punjabi
+# language(s) used at home = Punjabi
+# language(s) studied = I have not studied any other languages other than Spanish nor my native language. 
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hace una semana, la película Endgame fue liberado. Era de tres horas de película. Yo quería ver el fin de semana salió así que pedí a mis amigos para ir conmigo. Fui con mi compañero de habitación. Cuando llegamos allí, había una línea larga. Yo compré una bebida y palomitas de maíz. Empezamos a ver la película pero terminé mi bebida rápidamente. Entonces, tuve que usar el baño, pero no hubo interrupción en la película. Fue una muy buena película pero me resultaba incómodo todo el tiempo. Al final de la película, mi personaje favorito murió. Lloré mucho. Lo observé durante años. Fue un buen final. Cuando volví a mi dormitorio estaba solo. Mis compañeros de cuarto se fueron a casa el fin de semana. Normalmente, estoy bien si estoy solo, pero ese día era diferente. Fue un mal día. Tenía muchos deberes que hacer porque esperé hasta el último día para terminarlo. Tenía mucho que estudiar. Cené y estudié toda la noche. El domingo, decidí ir al gimnasio. Voy al gimnasio nunca. Cuando entré, me sentí perdida. No sabía cómo usar las máquinas, así que corrí dos millas. No sabía qué hacer, luego me fui. Vi una buena película, hice mi tarea, y fui al gimnasio, pero todavía me sentía molesto. Tomé una larga ducha y me acosté. Me sentí calmado. Después de días de sentirse cansado y estresado, me tomé el tiempo para parar y relajarse. Yo extrañaba mis amigos. Les envié un mensaje pero estaban ocupados. Yo miré la televisión y comí helado chocolate.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	semana	semana	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	película	película	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+7	Endgame	Endgame	PROPN	_	_	6	appos	_	_
+8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+9	liberado	liberar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	película	película	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	ccomp	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	fin	fin	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	semana	semana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	xcomp	_	_
+9	así	así	ADV	_	_	8	advmod	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	pedí	pedir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+15	para	para	ADP	_	_	16	mark	_	_
+16	ir	ir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+17	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	16	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	allí	allí	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	línea	línea	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	larga	largo	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bebida	bebida	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	palomitas	palomita	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	maíz	maíz	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	terminé	termir	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	bebida	bebida	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	rápidamente	rápidamente	ADV	_	_	7	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	usar	usar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	baño	baño	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	pero	pero	CCONJ	_	_	11	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+12	interrupción	interrupción	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	película	película	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buena	buen	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	resultaba	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+9	incómodo	incómodo	ADJ	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	11	det	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Al	a	ADP	_	_	2	case	_	_
+2	final	final	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	personaje	personaje	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Lloré	llorar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	observé	observar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	durante	durante	ADP	_	_	4	case	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	buen	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	final	final	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	volví	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	solo	solo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	fin	fin	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	semana	semana	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Normalmente	normalmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bien	bien	ADV	_	_	0	root	_	_
+5	si	si	SCONJ	_	_	7	mark	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	solo	solo	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	pero	pero	CCONJ	_	_	13	cc	_	_
+10	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	día	día	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+12	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	diferente	diferente	ADJ	_	Number=Sing	4	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mal	mal	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	deberes	deber	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	esperé	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+8	hasta	hasta	ADP	_	_	11	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	último	último	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
+11	día	día	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	terminarlo	terminar	VERB	_	VerbForm=Inf	7	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	1	obj	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	estudiar	estudiar	VERB	_	VerbForm=Inf	2	acl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cené	cener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	estudié	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+4	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	domingo	domingo	NOUN	_	AdvType=Tim	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	decidí	decidir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	nunca	nunca	ADV	_	_	1	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	entré	entrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	perdida	perdido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	cómo	cómo	PRON	_	PronType=Ind	4	obl	_	_
+4	usar	usar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	máquinas	máquina	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	así	así	ADV	_	_	10	mark	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
+10	corrí	corrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+11	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	_
+12	millas	milla	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	4	obj	_	_
+4	hacer	hacer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	luego	luego	ADV	_	_	8	advmod	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Vi	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	buena	buen	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	película	película	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	hice	hac	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	al	a	ADP	_	_	13	case	_	_
+13	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	pero	pero	CCONJ	_	_	18	cc	_	_
+16	todavía	todavía	ADV	_	_	18	advmod	_	_
+17	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl	_	_
+18	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+19	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	18	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tomé	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	larga	largo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+4	ducha	ducha	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	acosté	acostar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	calmado	calmado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Después	después	ADV	_	_	11	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	sentirse	sentir	VERB	_	VerbForm=Inf	3	acl	_	_
+6	cansado	cansado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	xcomp	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	estresado	estresado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obl	_	_
+11	tomé	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	parar	parar	VERB	_	VerbForm=Inf	13	acl	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	relajarse	relajar	VERB	_	VerbForm=Inf	15	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	extrañaba	extrañar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	envié	enviar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mensaje	mensaje	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	ocupados	ocupado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	miré	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	comí	comir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	helado	helado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	amod	_	_
+8	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

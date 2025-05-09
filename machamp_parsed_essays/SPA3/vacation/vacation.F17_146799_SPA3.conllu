@@ -1,0 +1,83 @@
+# Unnamed: 0 = 93
+# id = 146799
+# prompt = vacation
+# quarter = F17
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Punjabi
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = mis vacaciones perfectas  estaría ir a brazil con mi novio. conozcía []{a}<az:do:an> su familia. Yo quiero ser amiga de su hermana. Quiero ir allí con él. Quiero ver dónde nació. Comería mucha comida y pasaría mucho tiempo en las playas y miraría la mar.
+# a personal annotator2 = mis vacaciones perfectas estaría ir a brazil con mi novio. conozcía []{a}<az:do:an> su familia. Yo quiero ser amiga de su hermana. Quiero ir allí con él. Quiero ver dónde nació. Comería mucha comida y pasaría mucho tiempo en las playas y miraría la mar.
+# gender-number annotator1 = mis vacaciones perfectas  estaría ir a brazil con mi novio. conozcía su familia. Yo quiero ser amiga de su hermana. Quiero ir allí con él. Quiero ver dónde nació. Comería mucha comida y pasaría mucho tiempo en las playas y miraría la mar.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = mis vacaciones perfectas estaría ir a brazil con mi novio. conozcía su familia. Yo quiero ser amiga de su hermana. Quiero ir allí con él. Quiero ver dónde nació. Comería mucha comida y pasaría mucho tiempo en las playas y miraría la mar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	perfectas	perfecto	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	estaría	estar	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	brazil	brazil	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	novio	novio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	conozcía	conozcir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	4	cop	_	_
+4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ir	ir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	allí	allí	ADV	_	_	2	advmod	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ver	ver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	dónde	dónde	ADV	_	PronType=Int	4	advmod	_	_
+4	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Comería	comer	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	comida	comida	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	pasaría	pasar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+6	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	playas	playa	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	miraría	mirar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	mar	mar	NOUN	_	Number=Sing	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,332 @@
+# Unnamed: 0 = 275
+# id = 178657
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 19
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Spanish for 3 years
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = En esta otoño para el dia deacción de gracias break yo fuí a *STATE* con mis padres y hermano. Pero cuando yo quiero vuelvo a *CITY* llegó un tormenta en *CITY* *STATE*. Mi familia y yo tratamos manejar al aeropuerto, pero el calle estaba cerrado. Nosotros esperamos en un estacionamiento para cuatro horas. Finalmente la calle eastba abrió, y todo mi familia y yo conducimos para tres mas horas en trafico al aeropuerto. Cuando nosotros finalmente llegado al aeropuerto me perdí mi vuelo. El próximo vuelo estaba a las dos en la mañana. Me senté en el aeropuerto para siete horas, y yo finalmente voló a *CITY* y yo llegado a cinco en la mañana. Cuano yo llegado en *CITY*, yo necesitaba tomar un taxi desde *CITY* a *CITY*, y yo no pude encontrar un.Cuando yo encontré un taxi, you manejé a mi casa. Pero yo no tenía mis llevas, y mis compañeros de mi casa no estaba en la casa. Yo caminé a la oficina y yo recogi un nuevo lleva, y él no tenía otros llevas, asi que él llamó llavesera por mi problema. Cuando la llavesera llegó, yo entré mi casa y dormí para dos horas. Cuando yo desperte, mi habitación era un desastre, en la noche mis compañeros de mi casa volvieron y ellos tuvieron un fiesta. Así que yo tuve que limpiar todo la casa antes de diez, porque yo tuve clase a diez. En total, todo el día estaba muy malo y yo no quiero el volver a vivir otrara vez.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	En	en	ADP	_	_	3	case	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	dia	dia	NOUN	_	_	3	nmod	_	_
+7	deacción	deacción	NOUN	_	_	6	compound	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	gracias	gracias	NOUN	_	_	6	nmod	_	_
+10	break	break	NOUN	_	_	6	compound	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	fuí	fuir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	a	a	ADP	_	_	17	case	_	_
+14	*STATE*	*state*	PUNCT	_	_	12	punct	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	padres	padre	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	8	advmod	_	_
+2	cuando	cuando	SCONJ	_	_	4	mark	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	vuelvo	volver	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	*CITY*	*City*	PROPN	_	_	5	obl	_	_
+8	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tormenta	tormenta	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*CITY*	*city*	PROPN	_	_	8	dep	_	_
+13	*STATE*	*state*	PROPN	_	_	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	tratamos	tratar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	manejar	manejar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	al	a	ADP	_	_	8	case	_	_
+8	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+10	pero	pero	CCONJ	_	_	14	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	calle	calle	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	cerrado	cerrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	esperamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	estacionamiento	estacionamiento	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	5	advmod	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	calle	calle	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	eastba	eastba	ADJ	_	_	3	amod	_	_
+5	abrió	abrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+7	y	y	CCONJ	_	_	13	cc	_	_
+8	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	conj	_	_
+13	conducimos	conducir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	conj	_	_
+14	para	para	ADP	_	_	15	case	_	_
+15	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	13	obl	_	_
+16	mas	mas	CCONJ	_	_	15	compound	_	_
+17	horas	hora	NOUN	_	Gender=Fem|Number=Plur	15	compound	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	trafico	trafico	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+20	al	a	ADP	_	_	21	case	_	_
+21	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	finalmente	finalmente	ADV	_	_	4	advmod	_	_
+4	llegado	llegar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	perdí	perder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	próximo	próximo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	vuelo	vuelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	obl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	senté	sentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	aeropuerto	aeropuerto	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	siete	siete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	finalmente	finalmente	ADV	_	_	13	advmod	_	_
+13	voló	volar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	*CITY*	*City*	PROPN	_	_	13	dep	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+18	llegado	llegar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+19	a	a	ADP	_	_	20	case	_	_
+20	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	18	obl	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuano	cuano	PRON	_	PronType=Ind	3	obl	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	llegado	llegar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	en	en	ADP	_	_	1	case	_	_
+5	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+9	tomar	tomar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	desde	desde	ADP	_	_	13	case	_	_
+13	*CITY*	*city*	PROPN	_	_	9	obl	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	*CITY*	*city*	PROPN	_	_	13	punct	_	_
+16	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+17	y	y	CCONJ	_	_	21	cc	_	_
+18	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+19	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
+20	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	21	aux	_	_
+21	encontrar	encontrar	VERB	_	VerbForm=Inf	8	conj	_	_
+22	un	un	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	encontré	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	advcl	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	you	you	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	manejé	manejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	llevas	lleva	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+8	y	y	CCONJ	_	_	15	cc	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	casa	casa	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	caminé	caminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	recogi	recogir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	lleva	lleva	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	y	y	CCONJ	_	_	16	cc	_	_
+14	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+16	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+17	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+18	llevas	lleva	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+20	asi	asi	ADV	_	_	16	mark	_	_
+21	que	que	SCONJ	_	_	20	fixed	_	_
+22	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+23	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+24	llavesera	llavesera	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
+25	por	por	ADP	_	_	27	case	_	_
+26	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	problema	problema	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
+28	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	llavesera	llavesera	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	entré	entrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	dormí	dormir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	conj	_	_
+12	para	para	ADP	_	_	14	case	_	_
+13	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	_
+14	horas	hora	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	desperte	despertar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	desastre	desastre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	noche	noche	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
+14	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	casa	casa	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+19	volvieron	volver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	conj	_	_
+23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	fiesta	fiesta	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Así	así	ADV	_	_	4	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+4	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	6	cc	_	_
+6	limpiar	limpiar	VERB	_	VerbForm=Inf	4	conj	_	_
+7	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	8	det	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	antes	antes	ADV	_	_	6	advmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	obl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+16	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	advcl	_	_
+17	clase	clase	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+18	a	a	ADP	_	_	19	case	_	_
+19	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	16	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	9	advmod	_	_
+2	total	total	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	día	día	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	volver	volver	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	vivir	vivir	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	otrara	otraro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+19	vez	vez	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+

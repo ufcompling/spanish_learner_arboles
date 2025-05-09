@@ -1,0 +1,361 @@
+# Unnamed: 0 = 176
+# id = 255068
+# prompt = yourself
+# quarter = W21
+# course = SPA 23
+# age = 19
+# gender = Male
+# l1 language = 2
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Extremely comfortable
+# speaking ability = Extremely comfortable
+# writing ability = Extremely comfortable
+# study abroad = Yes. More than 2 years.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo nací en *CITY*, *PLACE* que esta en la *CITY*, y vivi allí por casi *AGE* anos antes de que mi familia mudo al Norte de *STATE*. Cuando entre al kindergarten, atendí a una escuela bilingual llamado *PLACE* *PLACE*. Me encante esta escuela durante los 5 anos en que lo atendí, pero decidí con mis padres a mover escuelas en el cuarto grado por diferentes razones. Durante todo mi vida que recuerdo, he jugado fútbol. Siempre me ha encantado jugar todos los deportes que incluyen una pelota, pero futbol siempre ha sido mi favorito. Me ha dado muchas oportunidades que no tuviera si no jugara futbol, incluyendo viajando a España y muchos estados por todo los Estados Unidos. Estoy muy afortunado de haber cometido a jugar futbol en *UNIVERSITY* *UNIVERSITY* hace un ano y me ha encantado poder jugar en este nuevo nivel. En la universidad, estoy estudiando la economía gerencial y pienso buscar un trabajo de finanzas después de graduarme. A mí me encanta aprender cosas nuevas de muchos temas diferentes. Siempre me ha interesado aprender cosas sobre la galaxia y otras cosas más lejos de la Tierra. También me gusta escuchar a las ideas de diferentes filósofos porque me interesa lo que tienen que decir sobre la vida en general. Mi familia es muy important en mi vida y tengo relaciones muy cercanas con mi hermano menor, mi hermana mayor, y mis padres. Hemos viajado muchas lugares a través del mundo incluyendo Paris, London, Barcelona, Bangkok, y Chile para nombrar algunos. También pasamos mucho tiempo en *PLACE* *PLACE* donde todavía tenemos amigos familiares. Quiero mantener este tradición o importancia de viajar, a través de todo mi vida porque siempre estoy muy emocionado a explorar nuevos lugares.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	nací	nacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*PLACE*	*Place*	PROPN	_	_	4	punct	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+8	esta	este	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	nummod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+11	*CITY*	*city*	PUNCT	_	_	14	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	vivi	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+15	allí	allí	ADV	_	_	14	advmod	_	_
+16	por	por	ADP	_	_	19	case	_	_
+17	casi	casi	ADV	_	_	19	advmod	_	_
+18	*AGE*	*age*	PUNCT	_	_	19	nmod	_	_
+19	anos	ano	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	_
+20	antes	antes	ADV	_	_	14	advmod	_	_
+21	de	de	ADP	_	_	25	mark	_	_
+22	que	que	SCONJ	_	_	25	mark	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	familia	familia	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
+25	mudo	mudar	VERB	_	Gender=Masc|Number=Sing	20	advcl	_	_
+26	al	a	ADP	_	_	27	case	_	_
+27	Norte	Norte	PROPN	_	_	25	obl	_	_
+28	de	de	ADP	_	_	29	case	_	_
+29	*STATE*	*state*	PROPN	_	_	27	nmod	_	_
+30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	entre	entrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	kindergarten	kindergarten	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	atendí	atender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	bilingual	bilingual	ADJ	_	Number=Sing	9	amod	_	_
+11	llamado	llamado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
+12	*PLACE*	*place*	PROPN	_	_	9	appos	_	_
+13	*PLACE*	*place*	PUNCT	_	_	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encante	encantar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	durante	durante	ADP	_	_	8	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	5	5	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
+8	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	que	que	PRON	_	PronType=Rel	12	obl	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	atendí	atender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	acl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+14	pero	pero	CCONJ	_	_	15	cc	_	_
+15	decidí	decidir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	padres	padre	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+19	a	a	ADP	_	_	20	mark	_	_
+20	mover	mover	VERB	_	VerbForm=Inf	15	xcomp	_	_
+21	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	_
+22	en	en	ADP	_	_	25	case	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	25	amod	_	_
+25	grado	grado	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+26	por	por	ADP	_	_	28	case	_	_
+27	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	28	det	_	_
+28	razones	razón	NOUN	_	Gender=Fem|Number=Plur	20	obl	_	_
+29	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	4	case	_	_
+2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	vida	vida	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+5	que	que	PRON	_	PronType=Rel	6	obj	_	_
+6	recuerdo	recueder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	jugado	jugar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	4	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	encantado	encantar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	jugar	jugar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	incluyen	incluir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	pelota	pelota	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+14	pero	pero	CCONJ	_	_	20	cc	_	_
+15	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	_
+16	siempre	siempre	ADV	_	_	20	advmod	_	_
+17	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+18	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	cop	_	_
+19	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	favorito	favorito	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	oportunidades	oportunidad	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+6	que	que	PRON	_	PronType=Rel	8	mark	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl	_	_
+9	si	si	SCONJ	_	_	11	mark	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	jugara	jugar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+12	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	incluyendo	incluir	VERB	_	VerbForm=Ger	3	advcl	_	_
+15	viajando	viajar	VERB	_	VerbForm=Ger	14	advcl	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	España	España	PROPN	_	_	15	obl	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
+20	estados	estado	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	_
+21	por	por	ADP	_	_	24	case	_	_
+22	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	23	det	_	_
+23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	Estados	Estados	PROPN	_	_	15	obl	_	_
+25	Unidos	Unidos	PROPN	_	_	24	flat	_	_
+26	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	afortunado	afortunado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	de	de	ADP	_	_	6	mark	_	_
+5	haber	haber	AUX	_	VerbForm=Inf	6	aux	_	_
+6	cometido	cometer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	jugar	jugar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	*University*	PROPN	_	_	6	obl	_	_
+12	*UNIVERSITY*	*university*	PUNCT	_	_	11	punct	_	_
+13	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ano	ano	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	y	y	CCONJ	_	_	19	cc	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obl	_	_
+18	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	encantado	encantar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+20	poder	poder	AUX	_	VerbForm=Inf	21	aux	_	_
+21	jugar	jugar	VERB	_	VerbForm=Inf	19	csubj	_	_
+22	en	en	ADP	_	_	25	case	_	_
+23	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	25	det	_	_
+24	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	_
+25	nivel	nivel	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	estudiando	estudiar	VERB	_	VerbForm=Ger	0	root	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	economía	economía	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	gerencial	gerencial	ADJ	_	Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	buscar	buscar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	finanzas	finanzas	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+17	después	después	ADV	_	_	12	advmod	_	_
+18	de	de	ADP	_	_	19	mark	_	_
+19	graduarme	graduar	VERB	_	VerbForm=Inf	17	advcl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	aprender	aprender	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
+10	temas	tema	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+11	diferentes	diferente	ADJ	_	Number=Plur	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	4	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	interesado	interesar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	aprender	aprender	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	sobre	sobre	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	galaxia	galaxia	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	_
+13	más	más	ADV	_	Degree=Cmp	14	advmod	_	_
+14	lejos	lejos	ADV	_	_	12	advmod	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	Tierra	Tierra	PROPN	_	_	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	escuchar	escuchar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	ideas	idea	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	10	det	_	_
+10	filósofos	filósofo	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	interesa	interesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+14	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
+15	que	que	PRON	_	PronType=Rel	18	obj	_	_
+16	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	csubj	_	_
+17	que	que	SCONJ	_	_	18	cc	_	_
+18	decir	decir	VERB	_	VerbForm=Inf	16	conj	_	_
+19	sobre	sobre	ADP	_	_	21	case	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	vida	vida	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+22	en	en	ADP	_	_	21	advmod	_	_
+23	general	general	NOUN	_	_	22	fixed	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	important	important	ADJ	_	Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	relaciones	relación	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	cercanas	cercano	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+17	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	16	amod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+19	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	16	appos	_	_
+21	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	20	amod	_	_
+22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+23	y	y	CCONJ	_	_	25	cc	_	_
+24	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	_
+25	padres	padre	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	_
+26	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hemos	haber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	viajado	viajar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	a	a	ADP	_	_	8	case	_	_
+6	través	través	NOUN	_	_	5	fixed	_	_
+7	del	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+9	incluyendo	incluir	VERB	_	VerbForm=Ger	2	advcl	_	_
+10	Paris	Paris	PROPN	_	_	9	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	London	London	PROPN	_	_	10	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	Barcelona	Barcelona	PROPN	_	_	10	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	Bangkok	Bangkok	PROPN	_	_	10	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	Chile	Chile	PROPN	_	_	10	conj	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	nombrar	nombrar	VERB	_	VerbForm=Inf	2	advcl	_	_
+22	algunos	alguno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	21	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*PLACE*	*place*	PROPN	_	_	2	dep	_	_
+7	*PLACE*	*place*	PUNCT	_	_	6	punct	_	_
+8	donde	donde	ADV	_	PronType=Rel	10	advmod	_	_
+9	todavía	todavía	ADV	_	_	10	advmod	_	_
+10	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	familiares	familiar	ADJ	_	Number=Plur	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mantener	mantener	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	tradición	tradición	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	importancia	importancia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	viajar	viajar	VERB	_	VerbForm=Inf	6	acl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+10	a	a	ADP	_	_	15	case	_	_
+11	través	través	NOUN	_	_	10	fixed	_	_
+12	de	de	ADP	_	_	10	fixed	_	_
+13	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+14	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+16	porque	porque	SCONJ	_	_	20	mark	_	_
+17	siempre	siempre	ADV	_	_	20	advmod	_	_
+18	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	emocionado	emocionado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	advcl	_	_
+21	a	a	ADP	_	_	22	mark	_	_
+22	explorar	explorar	VERB	_	VerbForm=Inf	20	advcl	_	_
+23	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	_
+24	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	22	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

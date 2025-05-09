@@ -1,0 +1,424 @@
+# Unnamed: 0 = 4
+# id = 174921
+# prompt = terrible
+# quarter = F18
+# course = SPA 31
+# age = 19
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Recuerdo que fue ayer cuando me enteré de la aceptación de mi solicitud para la universidad, esto fue en Marzo de 2017. Estaba tan emocionada porque todas las escuelas me aceptaron, pero me dificultó poder decidir en qué escuela yo iba a asistir seguramente. Una vez que lo reduje a 2 escuelas, las cosas se pusieron un poco más fáciles. Estaba decidiendo entre *UNIVERSITY* y *UNIVERSITY* porque ambas escuelas son buenas en los cursos de ciencias y mi mejor amiga estaba lista para ir a *UNIVERSITY*. Las decisiones se tomaron en Mayo y elegí *UNIVERSITY*, por lo tanto, mi mejor amiga y yo íbamos a estar separadas. Sin embargo, llegó Junio y mi mejor amiga, *FIRST_NAME*, recibió una terrible noticia. Recibió un correo electrónico un par de semanas antes de su orientación universitaria en la que indicaba que su aceptación había sido retirada y, por lo tanto, ya no podía asistir a la Universidad *UNIVERSITY* ese otoño. Tan pronto como ella me contó lo que pasó, me sentí realmente molesta y pensé en cómo sería si estuviera en sus zapatos. Le pregunté si sabía por qué le pasó a ella y decía que el correo electrónico no se explicaba por qué sucedió esto. Luego hizo varias llamadas telefónicas y todo lo que le dijeron fue que, honestamente, no saben por qué recibió esas noticias, pero probablemente fue porque aceptaron demasiados primeros años entrantes de lo que querían y eligieron al azar a los estudiantes para a quien enviaran esos correos electrónicos. No había nada que pudieran hacer. Una vez que *FIRST_NAME* vio que probablemente no había posibilidad de que ella volviera a entrar, comenzó a inscribirse en el colegio comunitario en nuestra ciudad donde nacimos. *FIRST_NAME* compartía conmigo que se sentía casi deprimida y que ir a ese campus universitario no se sentía bien y no iba a ser feliz allí. Esta difícil situación era algo que ella definitivamente no merecía y hasta el día de hoy no puedo creer que a mi mejor amiga le aplastaran sus sueños como tal. A veces las cosas simplemente no están destinadas a ser.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Recuerdo	recordar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	ayer	ayer	ADV	_	_	1	ccomp	_	_
+5	cuando	cuando	ADV	_	PronType=Rel	7	advmod	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	enteré	enterar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	aceptación	aceptación	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	solicitud	solicitud	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	para	para	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+17	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+18	esto	este	PRON	_	Number=Sing|PronType=Dem	4	nsubj	_	_
+19	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	Marzo	Marzo	NOUN	_	_	4	obl	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	2017	2017	NUM	_	NumForm=Digit|NumType=Card	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	porque	porque	SCONJ	_	_	9	mark	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	aceptaron	aceptar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	dificultó	dificultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+14	poder	poder	AUX	_	VerbForm=Inf	15	aux	_	_
+15	decidir	decidir	VERB	_	VerbForm=Inf	13	csubj	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	qué	qué	DET	_	PronType=Int	18	det	_	_
+18	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+20	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	csubj	_	_
+21	a	a	ADP	_	_	22	mark	_	_
+22	asistir	asistir	VERB	_	VerbForm=Inf	20	xcomp	_	_
+23	seguramente	seguramente	ADV	_	_	20	advmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	mark	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	reduje	redujir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	2	2	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
+8	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	13	nsubj	_	_
+12	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	pusieron	poner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	advmod	_	_
+15	poco	poco	ADV	_	_	14	fixed	_	_
+16	más	más	ADV	_	Degree=Cmp	14	advmod	_	_
+17	fáciles	fácil	ADJ	_	Number=Plur	13	xcomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	decidiendo	decidir	VERB	_	VerbForm=Ger	0	root	_	_
+3	entre	entre	ADP	_	_	11	case	_	_
+4	*UNIVERSITY*	*university*	PROPN	_	_	3	flat	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	26	punct	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	ambas	ambos	NUM	_	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
+10	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	2	advcl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	cursos	curso	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+17	y	y	CCONJ	_	_	22	cc	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+19	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	20	amod	_	_
+20	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	cop	_	_
+22	lista	listo	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+23	para	para	ADP	_	_	24	mark	_	_
+24	ir	ir	VERB	_	VerbForm=Inf	22	acl	_	_
+25	a	a	ADP	_	_	26	case	_	_
+26	*UNIVERSITY*	*university*	PUNCT	_	_	24	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	decisiones	decisión	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	tomaron	tomar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Mayo	Mayo	NOUN	_	AdvType=Tim	4	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	elegí	elegir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+9	*UNIVERSITY*	*university*	PUNCT	_	_	8	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+11	por	por	ADP	_	_	17	advmod	_	_
+12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	fixed	_	_
+13	tanto	tanto	NOUN	_	_	11	fixed	_	_
+14	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+16	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	17	amod	_	_
+17	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+20	íbamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	17	conj	_	_
+21	a	a	ADP	_	_	23	case	_	_
+22	estar	estar	AUX	_	VerbForm=Inf	20	xcomp	_	_
+23	separadas	separado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	20	xcomp	_	_
+24	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Sin	sin	ADP	_	_	4	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Junio	Junio	NOUN	_	AdvType=Tim	4	obl	_	_
+6	y	y	CCONJ	_	_	13	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+8	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+9	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	_	9	appos	_	_
+12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+13	recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	terrible	terrible	ADJ	_	Number=Sing	16	amod	_	_
+16	noticia	noticia	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	correo	correo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	electrónico	electrónico	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	par	par	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	de	de	ADP	_	_	6	case	_	_
+8	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	antes	antes	ADV	_	_	1	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	orientación	orientación	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	universitaria	universitario	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	que	que	PRON	_	PronType=Rel	17	obl	_	_
+17	indicaba	indicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl	_	_
+18	que	que	SCONJ	_	_	23	mark	_	_
+19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	aceptación	aceptación	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	_
+21	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux	_	_
+22	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	aux	_	_
+23	retirada	retirar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	ccomp	_	_
+24	y	y	CCONJ	_	_	33	cc	_	_
+25	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+26	por	por	ADP	_	_	33	advmod	_	_
+27	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	26	fixed	_	_
+28	tanto	tanto	NOUN	_	_	26	fixed	_	_
+29	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+30	ya	ya	ADV	_	_	33	advmod	_	_
+31	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
+32	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	_
+33	asistir	asistir	VERB	_	VerbForm=Inf	23	conj	_	_
+34	a	a	ADP	_	_	36	case	_	_
+35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	Universidad	Universidad	PROPN	_	_	33	obl	_	_
+37	*UNIVERSITY*	*university*	PROPN	_	_	36	flat	_	_
+38	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	39	det	_	_
+39	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	_
+40	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tan	tan	NOUN	_	_	6	mark	_	_
+2	pronto	pronto	NOUN	_	_	1	fixed	_	_
+3	como	como	SCONJ	_	_	1	fixed	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+7	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
+10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+11	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	realmente	realmente	ADV	_	_	14	advmod	_	_
+14	molesta	molesto	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	obj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	pensé	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	conj	_	_
+17	en	en	ADP	_	_	18	mark	_	_
+18	cómo	cómo	PRON	_	PronType=Ind	16	ccomp	_	_
+19	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	16	ccomp	_	_
+20	si	si	SCONJ	_	_	21	mark	_	_
+21	estuviera	estuver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	csubj	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+24	zapatos	zapato	NOUN	_	Gender=Masc|Number=Plur	21	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+2	pregunté	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	si	si	SCONJ	_	_	4	mark	_	_
+4	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	qué	qué	PRON	_	Number=Sing|PronType=Int	8	obl	_	_
+7	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	decía	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+13	que	que	SCONJ	_	_	19	mark	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	correo	correo	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
+16	electrónico	electrónico	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	explicaba	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+20	por	por	ADP	_	_	21	case	_	_
+21	qué	qué	PRON	_	Number=Sing|PronType=Int	22	obl	_	_
+22	sucedió	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	_
+23	esto	este	PRON	_	Number=Sing|PronType=Dem	22	nsubj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	llamadas	llamada	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	telefónicas	telefónico	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+6	y	y	CCONJ	_	_	12	cc	_	_
+7	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	8	det	_	_
+8	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+9	que	que	PRON	_	PronType=Rel	11	obj	_	_
+10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+11	dijeron	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	csubj	_	_
+12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+13	que	que	SCONJ	_	_	18	mark	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	honestamente	honestamente	ADV	_	_	18	advmod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+18	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+19	por	por	ADP	_	_	20	case	_	_
+20	qué	qué	PRON	_	Number=Sing|PronType=Int	21	obl	_	_
+21	recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	ccomp	_	_
+22	esas	ese	DET	_	Gender=Fem|Number=Plur|PronType=Dem	23	det	_	_
+23	noticias	noticia	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	_
+24	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
+25	pero	pero	CCONJ	_	_	27	cc	_	_
+26	probablemente	probablemente	ADV	_	_	27	advmod	_	_
+27	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
+28	porque	porque	SCONJ	_	_	29	mark	_	_
+29	aceptaron	aceptar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	ccomp	_	_
+30	demasiados	demasiado	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	32	det	_	_
+31	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	32	amod	_	_
+32	años	año	NOUN	_	Gender=Masc|Number=Plur	29	obj	_	_
+33	entrantes	entrante	ADJ	_	Number=Plur	32	amod	_	_
+34	de	de	ADP	_	_	37	mark	_	_
+35	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	det	_	_
+36	que	que	PRON	_	PronType=Rel	37	obj	_	_
+37	querían	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	32	acl	_	_
+38	y	y	CCONJ	_	_	39	cc	_	_
+39	eligieron	eligir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	29	conj	_	_
+40	al	a	ADP	_	_	41	case	_	_
+41	azar	azar	NOUN	_	Gender=Masc|Number=Sing	39	obl	_	_
+42	a	a	ADP	_	_	44	case	_	_
+43	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	44	det	_	_
+44	estudiantes	estudiante	NOUN	_	Number=Plur	39	obj	_	_
+45	para	para	ADP	_	_	48	mark	_	_
+46	a	a	ADP	_	_	47	case	_	_
+47	quien	quien	PRON	_	Number=Sing|PronType=Rel	48	obl	_	_
+48	enviaran	enviar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	44	acl	_	_
+49	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	50	det	_	_
+50	correos	correo	NOUN	_	Gender=Masc|Number=Plur	48	obj	_	_
+51	electrónicos	electrónico	ADJ	_	Gender=Masc|Number=Plur	50	amod	_	_
+52	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	nada	nada	PRON	_	Number=Sing|PronType=Neg	2	obj	_	_
+4	que	que	PRON	_	PronType=Rel	6	obj	_	_
+5	pudieran	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	hacer	hacer	VERB	_	VerbForm=Inf	3	acl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	mark	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	*FIRST_NAME*	*first_name*	SYM	_	_	5	nsubj	_	_
+5	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	probablemente	probablemente	ADV	_	_	9	advmod	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+10	posibilidad	posibilidad	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+11	de	de	ADP	_	_	14	mark	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	volviera	volver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
+15	a	a	ADP	_	_	16	mark	_	_
+16	entrar	entrar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+17	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+18	comenzó	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+19	a	a	ADP	_	_	20	mark	_	_
+20	inscribirse	inscribir	VERB	_	VerbForm=Inf	18	xcomp	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+24	comunitario	comunitario	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
+25	en	en	ADP	_	_	27	case	_	_
+26	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+28	donde	donde	ADV	_	PronType=Rel	29	advmod	_	_
+29	nacimos	nacir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	27	acl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nsubj	_	_
+2	compartía	compartir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	2	obl	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	casi	casi	ADV	_	_	8	advmod	_	_
+8	deprimida	deprimido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	obj	_	_
+9	y	y	CCONJ	_	_	18	cc	_	_
+10	que	que	SCONJ	_	_	18	mark	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	18	csubj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	campus	campus	NOUN	_	Gender=Masc	11	obl	_	_
+15	universitario	universitario	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+16	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+17	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl	_	_
+18	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+19	bien	bien	ADV	_	_	18	advmod	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+22	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	conj	_	_
+23	a	a	ADP	_	_	25	mark	_	_
+24	ser	ser	AUX	_	VerbForm=Inf	22	cop	_	_
+25	feliz	feliz	ADJ	_	Number=Sing	22	xcomp	_	_
+26	allí	allí	ADV	_	_	22	advmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	difícil	difícil	ADJ	_	Number=Sing	3	amod	_	_
+3	situación	situación	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	algo	algo	PRON	_	Number=Sing|PronType=Ind	0	root	_	_
+6	que	que	PRON	_	PronType=Rel	10	obj	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	definitivamente	definitivamente	ADV	_	_	10	advmod	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	merecía	merecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl	_	_
+11	y	y	CCONJ	_	_	19	cc	_	_
+12	hasta	hasta	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	día	día	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	hoy	hoy	ADV	_	_	14	advmod	_	_
+17	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
+18	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	creer	creer	VERB	_	VerbForm=Inf	5	conj	_	_
+20	que	que	SCONJ	_	_	26	mark	_	_
+21	a	a	ADP	_	_	24	case	_	_
+22	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+23	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	24	amod	_	_
+24	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	_
+25	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	26	obj	_	_
+26	aplastaran	aplastar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	ccomp	_	_
+27	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
+28	sueños	sueño	NOUN	_	Gender=Masc|Number=Plur	26	obj	_	_
+29	como	como	SCONJ	_	_	30	mark	_	_
+30	tal	tal	PRON	_	Number=Sing|PronType=Dem	26	obl	_	_
+31	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	8	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+5	simplemente	simplemente	ADV	_	_	8	advmod	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	destinadas	destinado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+

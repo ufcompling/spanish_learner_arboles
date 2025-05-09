@@ -1,0 +1,360 @@
+# Unnamed: 0 = 31
+# id = 256739
+# prompt = yourself
+# quarter = W21
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Extremely comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola. Me llama es *FIRST_NAME*. Mi apellido es *LAST_NAME*. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE* *BIRTH_DATE* *BIRTH_DATE*. Tengo *AGE* años. Mi pelo es rubio. Tengo muchas pecas. Soy baja (mucha baja que mi mamá, papá, hermana, y hermano) y me gusta practicar yoga con mi mamá. Me gusta practicar pilates también. Hago ejercicio dos o tres días de la semana. No prefiero correr. Soy simpática, organizada, divertida, generosa, trabajadora, y muy extrovertida. No soy perezosa. Estoy soltera. Mi mamá se llama *FIRST_NAME*, mi papá se llama *FIRST_NAME*, mi hermano se llama *FIRST_NAME* también, mi hermana se llama *FIRST_NAME*, mi perra se llama *FIRST_NAME*, y mi gato se llama *FIRST_NAME*. Estoy contenta y emocionada. Mi comida favorita es sushi y mi restaurante favorito es *PLACE*. *PLACE* está cerca de un restaurante de *PLACE*. Mi color favorito es azul. Mi profesora favorita se llama *FIRST_NAME*. *FIRST_NAME* enseña español uno. Tengo cuarto clases en mi horario. Uno clase es nutrición. También tengo geología, inglés, y español dos. Nutrición es a las ocho de la mañana en lunes y miércoles. Geología es a las dos y diez de la tarde en lunes y miércoles también. Inglés es a las diez de la mañana en martes y jueves. Español dos es a las tres de la tarde en martes y a las dos y media de la tarde en jueves. No tengo clase en viernes. En mi tiempo libre, me gusta pasar tiempo con mis amigas. Mis amigas favoritas se llamen *FIRST_NAME* y *FIRST_NAME*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	apellido	apellido	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	*LAST_NAME*	*last_name*	PUNCT	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	12	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+6	de	de	ADP	_	_	5	case	_	_
+7	*BIRTH_DATE*	*birth_date*	PROPN	_	_	9	punct	_	_
+8	de	de	ADP	_	_	7	case	_	_
+9	*BIRTH_DATE*	*birth_date*	SYM	_	_	0	root	_	_
+10	*BIRTH_DATE*	*birth_date*	SYM	_	_	9	punct	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	pecas	peca	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	_
+4	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	baja	baja	ADJ	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	papá	papá	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+16	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obl	_	_
+19	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	practicar	practicar	VERB	_	VerbForm=Inf	19	csubj	_	_
+21	yoga	yoga	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+22	con	con	ADP	_	_	24	case	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	practicar	practicar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	pilates	pilate	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	también	también	ADV	_	_	3	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hago	haer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+4	o	o	CCONJ	_	_	5	cc	_	_
+5	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	conj	_	_
+6	días	día	NOUN	_	Gender=Masc|Number=Plur	2	appos	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	correr	correr	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	simpática	simpático	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	organizada	organizado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	extrovertida	extrovertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	perezosa	perezoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	soltera	soltera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	papá	papá	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+17	*FIRST_NAME*	*first_name*	PUNCT	_	_	16	punct	_	_
+18	también	también	ADV	_	_	16	advmod	_	_
+19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	_
+22	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl	_	_
+23	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+24	*FIRST_NAME*	*first_name*	PUNCT	_	_	23	punct	_	_
+25	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
+26	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+27	perra	perra	NOUN	_	Gender=Fem|Number=Sing	29	nsubj	_	_
+28	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl	_	_
+29	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+30	*FIRST_NAME*	*first_name*	PUNCT	_	_	36	punct	_	_
+31	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
+32	y	y	CCONJ	_	_	36	cc	_	_
+33	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	det	_	_
+34	gato	gato	NOUN	_	Gender=Masc|Number=Sing	36	nsubj	_	_
+35	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl	_	_
+36	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+37	*FIRST_NAME*	*first_name*	PUNCT	_	_	36	punct	_	_
+38	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	sushi	sushi	NOUN	_	_	0	root	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	restaurante	restaurante	NOUN	_	Number=Sing	11	amod	_	_
+9	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	*PLACE*	*place*	PUNCT	_	_	5	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*PLACE*	*place*	PUNCT	_	_	2	nsubj	_	_
+2	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cerca	cerca	ADV	_	_	2	advmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	restaurante	restaurante	NOUN	_	Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*PLACE*	*place*	PUNCT	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	color	color	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	azul	azul	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	profesora	profesora	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	5	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	español	español	ADJ	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	horario	horario	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	nutrición	nutrición	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	geología	geología	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	español	español	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+9	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	appos	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nutrición	Nutrición	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ocho	ocho	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	lunes	lunes	NOUN	_	AdvType=Tim	5	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	miércoles	miércoles	NOUN	_	AdvType=Tim	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Geología	Geología	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	lunes	lunes	NOUN	_	AdvType=Tim	2	obl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	miércoles	miércoles	NOUN	_	AdvType=Tim	12	conj	_	_
+15	también	también	ADV	_	_	12	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Inglés	Inglés	PROPN	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	diez	diez	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	martes	martes	NOUN	_	AdvType=Tim	5	nmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	jueves	jueves	NOUN	_	AdvType=Tim	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Español	Español	PROPN	_	_	6	nsubj	_	_
+2	dos	dos	NUM	_	NumForm=Word|NumType=Card	1	nummod	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	martes	martes	NOUN	_	AdvType=Tim	6	obl	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	dos	dos	NUM	_	NumForm=Word|NumType=Card	6	conj	_	_
+16	y	y	CCONJ	_	_	15	compound	_	_
+17	media	medio	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	15	conj	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	jueves	jueves	NOUN	_	AdvType=Tim	15	compound	_	_
+23	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	viernes	viernes	NOUN	_	AdvType=Tim	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	libre	libre	ADJ	_	Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	pasar	pasar	VERB	_	VerbForm=Inf	7	csubj	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llamen	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

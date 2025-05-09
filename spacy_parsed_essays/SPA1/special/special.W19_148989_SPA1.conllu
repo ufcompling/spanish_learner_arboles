@@ -1,0 +1,102 @@
+# Unnamed: 0 = 206
+# id = 148989
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = Vietnamese
+# language(s) studied = English for 13 years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una persona especial para mi se llama Taemin. Taemin es [un]{}<pr:det:art:indef> coreano. [El]{}<pr:su:pron> tiene vienti y cinco anos y es [un]{}<pr:det:art:indef> cantante. [El]{}<pr:su:pron> es muy bueno y famoso bailerino. [El]{}<pr:su:pron> tiene []{los}<ab:det:art:def> [labio]{labios}<na:noun> [lleno]{llenos}<na:adj> y []{las}<ab:det:art:def> [mejilla]{mejillas}<na:noun> [lleno]{llenas}<ga:na:adj>. Su 1cancion mas famasa se llama "Move". El es parte de un grupo llamado Shinee. Yo gusto Taemin desde secundaria.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial para mí se llama Taemin. Taemin es un coreano. Tiene veinticinco años y es un cantante. Es muy bueno y un famoso bailarín. Tiene el labio lleno y la mejilla llena. Su cancion más famosa se llama "Move". Es parte de un grupo llamado Shinee. Me gusta Taemin desde secundaria.
+# corrected2 = nan
+# text = Una persona especial para mi se llama Taemin. Taemin es un coreano. El tiene vienti y cinco anos y es un cantante. El es muy bueno y famoso bailerino. El tiene labio lleno y mejilla lleno. Su 1cancion mas famasa se llama "Move". El es parte de un grupo llamado Shinee. Yo gusto Taemin desde secundaria.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	7	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PROPN	_	_	2	nmod	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	llama	llamar	VERB	_	_	0	ROOT	_	_
+8	Taemin	Taemin	PROPN	_	_	7	nsubj	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Taemin	Taemin	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	coreano	coreano	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	vienti	vienti	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	cinco	cinco	NUM	_	_	6	nummod	_	_
+6	anos	ano	NOUN	_	_	3	conj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	cantante	cantante	NOUN	_	_	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bueno	bueno	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	famoso	famoso	ADJ	_	_	7	amod	_	_
+7	bailerino	bailerino	NOUN	_	_	4	nsubj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	labio	labio	NOUN	_	_	2	iobj	_	_
+4	lleno	lleno	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	mejilla	mejilla	NOUN	_	_	4	conj	_	_
+7	lleno	lleno	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	1cancion	1cancion	NUM	_	_	6	nsubj	_	_
+3	mas	mas	ADV	_	_	4	advmod	_	_
+4	famasa	famasa	NOUN	_	_	2	amod	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	llama	llamar	VERB	_	_	0	ROOT	_	_
+7	"	"	PUNCT	_	_	8	punct	_	_
+8	Move	Move	PROPN	_	_	6	obj	_	_
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	parte	parte	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	grupo	grupo	NOUN	_	_	3	nmod	_	_
+7	llamado	llamado	ADJ	_	_	6	amod	_	_
+8	Shinee	Shinee	PROPN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	gusto	gusto	NOUN	_	_	0	ROOT	_	_
+3	Taemin	Taemin	PROPN	_	_	2	appos	_	_
+4	desde	desde	ADP	_	_	5	case	_	_
+5	secundaria	secundaria	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

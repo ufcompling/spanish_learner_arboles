@@ -1,0 +1,227 @@
+# Unnamed: 0 = 175
+# id = 235727
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = N/a
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad es [la]{}<pr:det:art:def><in:det> [ciencia]{Ciencias}<in:noun> [política]{políticas}<in:adj>. Mi clase favorita es [el]{}<pr:det:art:def> derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son []{los}<ab:det:art:def> burritos, []{las}<ab:det:art:def> hamburguesas vegetarianas y []{las}<ab:det:art:def> papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en [la]{}<pr:det:art:def> clase de español también se llama *FIRST_NAME*. Mis otros amigos están en [mi]{mis}<in:adj> [clase]{clases}<in:noun> de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad [es]{son}<fs:st:pn> [la]{las}<in:det> [ciencia]{ciencias}<in:noun> [política]{políticas}<in:adj>. Mi clase favorita es [el]{}<pr:det:art:def> derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son []{los}<ab:det:art:def> burritos, []{las}<ab:det:art:def> hamburguesas vegetarianas y []{las}<ab:det:art:def> papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en la clase de español también se llama *FIRST_NAME*. Mis otros amigos están en mi clase de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# verbs annotation ann2 = nan
+# corrected1 = Mi nombre es *(name)*. Tengo veintiún años. Soy de *STATE*. Soy cómico, sedentario y tranquilo. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* *CITY*. Tengo frío en *CITY*. Mi especialización es en Ciencias políticas. Mi clase favorita es Derecho constitucional. Me gustan la política, la comedia y la Coca-Cola sin azúcar. Mis comidas favoritas son los burritos, las hamburguesas vegetarianas y las papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y cojo el autobús. Voy a clase de Español. Mi amigo en clase de Español también se llama *FIRST_NAME*. Mis otros amigos están en mis clases de Ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia. 
+# corrected2 = nan
+# text = Mi nombre es *(name)*. Tengo *AGE* años. Soy de *STATE*. Soy cómico, sedentario y relajado. Estoy cansado y nervioso. Voy a la Universidad de *UNIVERSITY* en *CITY*. Tengo frío en *CITY*. Mi especialidad es la ciencia política. Mi clase favorita es el derecho constitucional. Me gusta la política, la comedia y la coca cola sin azúcar. Mis comidas favoritas son burritos, hamburguesas vegetarianas y papas fritas. Mis amigos y yo queremos trabajar como abogados. Soy alto, moreno y guapo. Necesito terminar mi tarea todas las noches a medianoche. Me acuesto a la 1 de la mañana. Me levanto a las 10 de la mañana. Me ducho, desayuno y uso el autobús. Voy a clase de español. Mi amigo en la clase de español también se llama *FIRST_NAME*. Mis otros amigos están en mi clase de ciencias políticas y en mi club. Me encanta salir con mis amigos y mi familia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	(	(	PUNCT	_	_	5	punct	_	_
+5	name	namir	VERB	_	_	0	ROOT	_	_
+6	)	)	PUNCT	_	_	5	punct	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*STATE*	STATE	PROPN	_	_	1	nmod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	cómico	cómico	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	sedentario	sedentario	ADJ	_	_	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	relajado	relajado	ADJ	_	_	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	cansado	cansado	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	nervioso	nervioso	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Voy	ir	AUX	_	_	4	cop	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	Universidad	Universidad	PROPN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	4	nmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	frío	frío	NOUN	_	_	1	obj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	nmod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialidad	especialidad	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	ciencia	ciencia	NOUN	_	_	0	ROOT	_	_
+6	política	político	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	clase	clase	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	derecho	derecho	NOUN	_	_	0	ROOT	_	_
+7	constitucional	constitucional	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	política	política	NOUN	_	_	2	nsubj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	comedia	comedia	NOUN	_	_	4	appos	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	coca	coca	NOUN	_	_	4	conj	_	_
+11	cola	cola	NOUN	_	_	10	amod	_	_
+12	sin	sin	ADP	_	_	13	case	_	_
+13	azúcar	azúcar	NOUN	_	_	4	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	comidas	comida	NOUN	_	_	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	burritos	burrito	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	hamburguesas	hamburguesa	NOUN	_	_	5	conj	_	_
+8	vegetarianas	vegetariana	NOUN	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	papas	papas	NOUN	_	_	8	conj	_	_
+11	fritas	fritas	NOUN	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	amigos	amigo	NOUN	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	queremos	querer	VERB	_	_	0	ROOT	_	_
+6	trabajar	trabajar	VERB	_	_	5	xcomp	_	_
+7	como	como	SCONJ	_	_	8	mark	_	_
+8	abogados	abogado	NOUN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	alto	alto	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	moreno	moreno	ADJ	_	_	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	guapo	guapo	ADJ	_	_	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Necesito	necesitar	VERB	_	_	0	ROOT	_	_
+2	terminar	terminar	VERB	_	_	1	xcomp	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	tarea	tarea	NOUN	_	_	2	obj	_	_
+5	todas	todo	DET	_	_	6	det	_	_
+6	las	el	DET	_	_	7	det	_	_
+7	noches	noche	NOUN	_	_	2	obl	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	medianoche	medianoche	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	acuesto	acostar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	1	1	NUM	_	_	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	levanto	levantar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	10	10	NUM	_	_	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	ducho	duchir	VERB	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	desayuno	desayuno	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	uso	uso	NOUN	_	_	2	conj	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	autobús	autobús	NOUN	_	_	2	nsubj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Voy	ir	AUX	_	_	3	cop	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	español	español	NOUN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amigo	amigo	NOUN	_	_	10	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	clase	clase	NOUN	_	_	2	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	español	español	NOUN	_	_	5	nmod	_	_
+8	también	también	ADV	_	_	10	advmod	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	llama	llamar	VERB	_	_	0	ROOT	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Mis	mi	DET	_	_	3	det	_	_
+2	otros	otro	DET	_	_	1	det	_	_
+3	amigos	amigo	NOUN	_	_	4	nsubj	_	_
+4	están	estar	AUX	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	clase	clase	NOUN	_	_	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ciencias	ciencia	NOUN	_	_	7	nmod	_	_
+10	políticas	política	ADJ	_	_	9	amod	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	club	club	NOUN	_	_	7	conj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	salir	salir	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	amigos	amigo	NOUN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	6	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+

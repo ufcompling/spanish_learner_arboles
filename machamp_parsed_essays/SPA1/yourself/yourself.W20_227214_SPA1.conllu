@@ -1,0 +1,227 @@
+# Unnamed: 0 = 8
+# id = 227214
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French- 3 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola, [yo]{}<pr:su:pron> soy []{una}<ab:det:art:indef> estudiante de premier año. Soy de *STATE* [*PLACE*]{central}<na:adj>. Mi ciudad natal se llama *CITY*, *STATE*. Soy atlética, inteligente, y trabajadora.  [Yo]{}<pr:su:pron> estudía Sociología. Tengo dos perros y uno gato. Mi [perro]{perra}<ga:noun> favorita se llama *FIRST_NAME* y la extraño porque [ella]{}<pr:su:pron> está en mi casa. Mi clase favorita ahora mismo es estudios religiosos. Me gusta la música. Soy [alto]{alta}<ga:adj>, rubia, y tengo []{los}<ab:det:art:def> ojos azules.  Tengo tres hermanas y una madre y []{un}<ab:det:art:indef> padre. [Yo]{}<pr:su:pron> tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. No me gustan las matemáticas y [la]{las}<in:det> [ciencia]{ciencias}<in:noun>. Mi gusta comer pasta y chocolate. Mi gusta mis plantas. Mi libro favorito es La Ética Protestante y el Espíritu del Capitalismo. Mi película favorita es Harry Potter y La Piedra Filosofal. Una de mis mejores amigas es una chica que vive encima de mí en mi dormitorio. [Otro]{Otra}<ga:pron> de mis mejores amigas es mi compañera de cuarto. Ciao.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola, [yo]{}<pr:su:pron> soy estudiante de premier año. Soy de *STATE* *PLACE*. Mi ciudad natal se llama *CITY*, *STATE*. Soy atlética, inteligente, y trabajadora.  [Yo]{}<pr:su:pron> [estudía]{estudio}<fs:st:pn> Sociología. Tengo dos perros y uno gato. Mi [perro]{perra}<ga:noun> favorita se llama *FIRST_NAME* y la extraño porque [ella]{}<pr:su:pron> está en mi casa. Mi clase favorita ahora mismo es estudios religiosos. Me gusta la música. Soy [alto]{alta}<ga:adj>, rubia, y tengo ojos azules.  Tengo tres hermanas y una madre y []{un}<ab:det:art:indef> padre. [Yo]{}<pr:su:pron> tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. No me gustan las matemáticas y la ciencia. Mi gusta comer pasta y chocolate. Mi [gusta]{gustan}<fs:st:pn> mis plantas. Mi libro favorito es La Ética Protestante y el Espíritu del Capitalismo. Mi película favorita es Harry Potter y La Piedra Filosofal. Una de mis mejores amigas es una chica que vive encima de mí en mi dormitorio. [Otro]{Otra}<ga:pron> de mis mejores amigas es mi compañera de cuarto. Ciao.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy una estudiante de primer año. Soy del centro de *STATE*. Mi ciudad natal se llama *CITY*. Soy atlética, inteligente y trabajadora. Estudio Sociología. Tengo dos perros y un gato. Mi perra favorita se llama *FIRST_NAME* y la extraño porque está en mi casa. Mi clase favorita ahora mismo es Estudios Religiosos. Me gusta la música. Soy alta, rubia y tengo los ojos azules. Tengo tres hermanas, una madre y un padre. Tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. No me gustan las matemáticas ni las ciencias. Me gusta comer pasta y chocolate. Me gustan mis plantas. Mi libro favorito es La Ética Protestante y el Espíritu del Capitalismo. Mi película favorita es Harry Potter y La Piedra Filosofal. Una de mis mejores amigas es una chica que vive encima de mí en mi residencia. Otra de mis mejores amigas es mi compañera de cuarto. Adiós. 
+# corrected2 = nan
+# text = Hola, yo soy estudiante de premier año. Soy de *STATE* *PLACE*. Mi ciudad natal se llama *CITY*, *STATE*. Soy atlética, inteligente, y trabajadora. Yo estudía Sociología. Tengo dos perros y uno gato. Mi perro favorita se llama *FIRST_NAME* y la extraño porque ella está en mi casa. Mi clase favorita ahora mismo es estudios religiosos. Me gusta la música. Soy alto, rubia, y tengo ojos azules. Tengo tres hermanas y una madre y padre. Yo tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. No me gustan las matemáticas y la ciencia. Mi gusta comer pasta y chocolate. Mi gusta mis plantas. Mi libro favorito es La Ética Protestante y el Espíritu del Capitalismo. Mi película favorita es Harry Potter y La Piedra Filosofal. Una de mis mejores amigas es una chica que vive encima de mí en mi dormitorio. Otro de mis mejores amigas es mi compañera de cuarto. Ciao.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	5	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	premier	premier	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	año	año	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*STATE*	*state*	SYM	_	_	0	root	_	_
+4	*PLACE*	*place*	PUNCT	_	_	3	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	natal	natal	ADJ	_	Number=Sing	2	amod	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*CITY*	*city*	PUNCT	_	_	5	dep	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	*STATE*	*state*	PUNCT	_	_	6	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	atlética	atlético	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudía	estuder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	Sociología	Sociología	PROPN	_	_	2	advcl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	perros	perro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	gato	gato	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorita	favorita	ADJ	_	Number=Sing	2	amod	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	5	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	extraño	extraño	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	porque	porque	SCONJ	_	_	12	mark	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	ahora	ahora	ADV	_	_	3	advmod	_	_
+5	mismo	mismo	ADJ	_	_	4	advmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+8	religiosos	religioso	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	música	música	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	rubia	rubio	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	azules	azul	ADJ	_	Number=Plur	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	padre	padre	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	cumpleaños	cumpleaños	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+10	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	7	punct	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ética	Ética	PROPN	_	_	0	root	_	_
+7	Protestante	Protestante	PROPN	_	_	6	flat	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Espíritu	Espíritu	PROPN	_	_	6	conj	_	_
+11	del	de	ADP	_	_	12	case	_	_
+12	Capitalismo	Capitalismo	PROPN	_	_	5	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	película	película	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Harry	Harry	PROPN	_	_	0	root	_	_
+6	Potter	Potter	PROPN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Piedra	Piedra	PROPN	_	_	5	conj	_	_
+10	Filosofal	Filosofal	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	8	nsubj	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	5	amod	_	_
+5	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	chica	chica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	encima	encima	ADV	_	_	10	advmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	obl	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	5	amod	_	_
+5	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	compañera	compañera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Ciao	ciao	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,221 @@
+# Unnamed: 0 = 77
+# id = 205572
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = English
+# other l1 language(s) = 4 or more
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo soy de *PLACE* *PLACE*. Me gusta jugar videojeugos y pasar tiempo con mis amigos. Tambien, me gusta comer comida tipica en [los]{}<pr:det:art:def> paises de otros continentes. [Yo]{}<pr:su:pron> soy un estudiante de *UNIVERSITY* *UNIVERSITY*.  Me gustan mis clases de biologia y quimica, pero no me gustan mis clases de literatura y matematicas. [Yo]{}<pr:su:pron> quiero un perro, pero no tengo mascotas en mi casa. Me prefiero los perros pequenos, y no me gustan los gatos. Mi comida favorita es []{la}<ab:det:art:def> pizza. Tambien, me gustan [los]{las}<ga:det:art:def> hamburguesas y []{los}<ab:det:art:def> perritos calientes. No me gusta comer [las]{}<pr:det:art:def> manzanas. [Mi]{mis}<na:det> libros favoritos son []{los}<ab:det:art:def> libros de fantasia. Tambien, me gustan [las]{los}<ga:det:art:def> programas de television. En mi pasatiempo, me gustan jugar deportes con mis amigos. Mi deporte favorito es []{el}<ab:det:art:def> futbol, pero tambien me gusta []{el}<ab:det:art:def> basquetbol y []{el}<ab:det:art:def> futbol americano. No me gusta correr o caminar por ejercicio, pero me gusta nadar. Tambien, me gustan las playas para nadar y relajar.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> soy de *PLACE* *PLACE*. Me gusta jugar videojeugos y pasar tiempo con mis amigos. Tambien, me gusta comer comida tipica en los paises de otros continentes. [Yo]{}<pr:su:pron> soy un estudiante de *UNIVERSITY* *UNIVERSITY*.  Me gustan mis clases de biologia y quimica, pero no me gustan mis clases de literatura y matematicas. [Yo]{}<pr:su:pron> quiero un perro, pero no tengo mascotas en mi casa. Me prefiero los perros pequenos, y no me gustan los gatos. Mi comida favorita es []{la}<ab:det:art:def> pizza. Tambien, me gustan [los]{las}<ga:det> hamburguesas y []{los}<ab:det:art:def> perritos calientes. No me gusta comer [las]{}<ab:det:art:def> manzanas. [Mi]{Mis}<na:det> libros favoritos son []{los}<ab:det:art:def> libros de fantasia. Tambien, me gustan [las]{los}<gat:det> [programas]{programas}<gat:noun> de television. En mi pasatiempo, me [gustan]{gusta}<fs:st:pn> jugar deportes con mis amigos. Mi deporte favorito es []{el}<ab:det:art:def> futbol, pero tambien me gusta []{el}<ab:det:art:def> basquetbol y []{el}<ab:det:art:def> futbol americano. No me gusta correr o caminar por ejercicio, pero me gusta nadar. Tambien, me gustan las playas para nadar y relajar.
+# verbs annotation ann2 = nan
+# corrected1 = Yo soy de *PLACE* *PLACE*. Me gusta jugar a videojuegos y pasar tiempo con mis amigos. También, me gusta comer comida típica de países de otros continentes. Soy un estudiante de *UNIVERSITY* *UNIVERSITY*.  Me gustan mis clases de biología y química, pero no me gustan mis clases de literatura y matemáticas. Quiero un perro, pero no tengo mascotas en mi casa. Prefiero los perros pequeños y no me gustan los gatos. Mi comida favorita es la pizza. También, me gustan las hamburguesas y los perritos calientes. No me gusta comer manzanas. Mis libros favoritos son los libros de fantasía. También, me gustan los programas de televisión. En cuanto a mi pasatiempo, me gusta jugar a deportes con mis amigos. Mi deporte favorito es el fútbol, pero también me gustan el baloncesto y el fútbol americano. No me gusta correr o caminar para hacer ejercicio, pero me gusta nadar. También, me gustan las playas para nadar y relajarme.
+# corrected2 = nan
+# text = Yo soy de *PLACE* *PLACE*. Me gusta jugar videojeugos y pasar tiempo con mis amigos. Tambien, me gusta comer comida tipica en los paises de otros continentes. Yo soy un estudiante de *UNIVERSITY* *UNIVERSITY*. Me gustan mis clases de biologia y quimica, pero no me gustan mis clases de literatura y matematicas. Yo quiero un perro, pero no tengo mascotas en mi casa. Me prefiero los perros pequenos, y no me gustan los gatos. Mi comida favorita es pizza. Tambien, me gustan los hamburguesas y perritos calientes. No me gusta comer las manzanas. Mi libros favoritos son libros de fantasia. Tambien, me gustan las programas de television. En mi pasatiempo, me gustan jugar deportes con mis amigos. Mi deporte favorito es futbol, pero tambien me gusta basquetbol y futbol americano. No me gusta correr o caminar por ejercicio, pero me gusta nadar. Tambien, me gustan las playas para nadar y relajar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+5	*PLACE*	PLACE	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	csubj	_	_
+4	videojeugos	videojeugo	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	pasar	pasar	VERB	_	_	3	conj	_	_
+7	tiempo	tiempo	NOUN	_	_	6	obj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	amigos	amigo	NOUN	_	_	6	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	comer	comer	VERB	_	_	4	csubj	_	_
+6	comida	comida	NOUN	_	_	5	obj	_	_
+7	tipica	tipico	ADJ	_	_	6	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	paises	país	NOUN	_	_	5	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	otros	otro	DET	_	_	13	det	_	_
+13	continentes	continente	NOUN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	nmod	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	clases	clase	NOUN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	biologia	biologia	NOUN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	quimica	quimico	ADJ	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	no	no	ADV	_	_	13	advmod	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	gustan	gustar	VERB	_	_	2	conj	_	_
+14	mis	mi	DET	_	_	15	det	_	_
+15	clases	clase	NOUN	_	_	13	nsubj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	literatura	literatura	NOUN	_	_	15	nmod	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	matematicas	matematica	NOUN	_	_	17	conj	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	tengo	tener	VERB	_	_	2	conj	_	_
+9	mascotas	mascota	NOUN	_	_	8	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	casa	casa	NOUN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	prefiero	preferir	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	perros	perro	NOUN	_	_	2	nsubj	_	_
+5	pequenos	pequeno	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	no	no	ADV	_	_	10	advmod	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	gustan	gustar	VERB	_	_	2	conj	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	gatos	gato	NOUN	_	_	10	nsubj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	5	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	pizza	pizza	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	4	obj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	hamburguesas	hamburguesa	NOUN	_	_	4	nsubj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	perritos	perrito	NOUN	_	_	6	conj	_	_
+9	calientes	caliente	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	comer	comer	VERB	_	_	3	csubj	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	manzanas	manzana	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	libros	libro	NOUN	_	_	5	nsubj	_	_
+3	favoritos	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	libros	libro	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	fantasia	fantasia	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tambien	Tambien	PROPN	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	programas	programa	NOUN	_	_	4	nsubj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	television	television	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	pasatiempo	pasatiempo	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gustan	gustar	VERB	_	_	0	ROOT	_	_
+7	jugar	jugar	VERB	_	_	6	xcomp	_	_
+8	deportes	deporte	NOUN	_	_	7	obj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	_	11	det	_	_
+11	amigos	amigo	NOUN	_	_	7	obl	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	deporte	deporte	NOUN	_	_	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	futbol	futbol	NOUN	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	tambien	tambien	ADV	_	_	10	nsubj	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	gusta	gustar	VERB	_	_	5	conj	_	_
+11	basquetbol	basquetbol	PROPN	_	_	10	nsubj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	futbol	futbol	NOUN	_	_	11	conj	_	_
+14	americano	americano	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	correr	correr	VERB	_	_	3	csubj	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	caminar	caminar	VERB	_	_	4	conj	_	_
+7	por	por	ADP	_	_	8	case	_	_
+8	ejercicio	ejercicio	NOUN	_	_	4	obl	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	gusta	gustar	VERB	_	_	3	conj	_	_
+13	nadar	nadar	VERB	_	_	12	csubj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gustan	gustar	VERB	_	_	0	ROOT	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	playas	playa	NOUN	_	_	4	obj	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	nadar	nadar	VERB	_	_	4	advcl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	relajar	relajar	VERB	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+

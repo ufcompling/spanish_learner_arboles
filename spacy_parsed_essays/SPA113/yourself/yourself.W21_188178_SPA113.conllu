@@ -1,0 +1,362 @@
+# Unnamed: 0 = 54
+# id = 188178
+# prompt = yourself
+# quarter = W21
+# course = SPA 113
+# age = 21
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Extremely comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Soy una chica de *AGE* años. Ahora estoy viviendo en *CITY*, pero soy de *CITY* *CITY*, *STATE*. Soy un estudiante de ultimo ano en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo dos especializaciones: el Desarrollo Humano y el Español. Además, tengo un menor en Educación. Estoy planeando estudiar para ser una maestra de escuela primaria dentro de los próximos dos años. Me gusta mucho trabajar con niños, por eso quiero ser una maestra. Mi familia consiste en mi mamá, mi papá y mi hermana mayor. Mi mamá es una diseñadora de interiores y mi papá trabaja en la construcción. Mi hermana también asistió a *UNIVERSITY* *UNIVERSITY*, pero se graduó hace dos años. Ahora, ella trabaja en finanzas como una analista de crédito para un banco. Tengo dos perritos: *FIRST_NAME* y *FIRST_NAME*, son golden retrievers. Además de mi familia, tengo un novio que trabaja en bienes raíces. Hemos estado juntos durante tres años y medio, pero nos conocemos desde hace mucho tiempo. En el futuro, quiero viajar a un país hispanohablante. Es mi sueno ir a San Sebastian, España o Lima, Peru. Quiero descubrir más sobre las culturas hispanas. Creo que es importante aprender todo lo que puedas sobre culturas que no sean las tuyas. Algunos hechos divertidos sobre mí: * Tengo un hueso extra en ambos de mis pies. * Puedo montar un caballo muy bien. * Me rompí mi codo cuando tenia *AGE* anos y nunca sanó correctamente. * Una da mis comidas favoritas son las alcachofas. * Puedo decir el alfabeto al revés. * Me gusta mucho aprender español, pero quiero aprender otras lenguajes también como francés.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	chica	chica	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*AGE*	AGE	PROPN	_	_	3	nmod	_	_
+6	años	año	NOUN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	viviendo	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	soy	ser	AUX	_	_	10	cop	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	3	conj	_	_
+11	*CITY*	CITY	PROPN	_	_	10	flat	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	*STATE*	STATE	PROPN	_	_	10	appos	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	ultimo	ultimo	ADJ	_	_	6	amod	_	_
+6	ano	ano	NOUN	_	_	3	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	Universidad	Universidad	PROPN	_	_	3	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	9	flat	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	appos	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	especializaciones	especialización	NOUN	_	_	1	obj	_	_
+4	:	:	PUNCT	_	_	6	punct	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	Desarrollo	Desarrollo	PROPN	_	_	3	appos	_	_
+7	Humano	Humano	PROPN	_	_	6	flat	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	Español	Español	PROPN	_	_	6	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	menor	menor	ADJ	_	_	3	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	Educación	Educación	PROPN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	planeando	planear	VERB	_	_	0	ROOT	_	_
+3	estudiar	estudiar	VERB	_	_	2	xcomp	_	_
+4	para	para	ADP	_	_	7	mark	_	_
+5	ser	ser	AUX	_	_	7	cop	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	maestra	maestra	NOUN	_	_	3	advcl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	escuela	escuela	NOUN	_	_	7	nmod	_	_
+10	primaria	primario	ADJ	_	_	9	amod	_	_
+11	dentro	dentro	ADV	_	_	7	advmod	_	_
+12	de	de	ADP	_	_	16	case	_	_
+13	los	el	DET	_	_	14	det	_	_
+14	próximos	próximo	ADJ	_	_	16	nmod	_	_
+15	dos	dos	NUM	_	_	14	nummod	_	_
+16	años	año	NOUN	_	_	11	obl	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	4	advmod	_	_
+4	trabajar	trabajar	VERB	_	_	2	csubj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	niños	niño	NOUN	_	_	4	obl	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	eso	ese	PRON	_	_	10	obl	_	_
+10	quiero	querer	VERB	_	_	2	advcl	_	_
+11	ser	ser	AUX	_	_	13	cop	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	maestra	maestra	NOUN	_	_	10	ccomp	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	3	nsubj	_	_
+3	consiste	consistir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	mamá	mamá	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	papá	papá	NOUN	_	_	3	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	hermana	hermana	NOUN	_	_	9	conj	_	_
+13	mayor	mayor	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mamá	mamá	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	diseñadora	diseñadora	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	interiores	interior	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	papá	papá	NOUN	_	_	11	nsubj	_	_
+11	trabaja	trabajar	VERB	_	_	5	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	construcción	construcción	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	asistió	asistir	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	obj	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	pero	pero	CCONJ	_	_	11	cc	_	_
+10	se	él	PRON	_	_	11	expl:pv	_	_
+11	graduó	graduar	VERB	_	_	4	conj	_	_
+12	hace	hacer	VERB	_	_	11	advcl	_	_
+13	dos	dos	NUM	_	_	14	nummod	_	_
+14	años	año	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	4	nsubj	_	_
+4	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	finanzas	finanza	NOUN	_	_	4	obl	_	_
+7	como	como	SCONJ	_	_	9	mark	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	analista	analista	NOUN	_	_	4	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	crédito	crédito	NOUN	_	_	9	nmod	_	_
+12	para	para	ADP	_	_	14	case	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	banco	banco	NOUN	_	_	9	nmod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	perritos	perrito	NOUN	_	_	1	obj	_	_
+4	:	:	PUNCT	_	_	5	punct	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	son	ser	AUX	_	_	10	cop	_	_
+10	golden	goldir	VERB	_	_	1	advcl	_	_
+11	retrievers	retrievers	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Además	además	ADV	_	_	4	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	familia	familia	NOUN	_	_	6	obl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tengo	tener	VERB	_	_	0	ROOT	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	novio	novio	NOUN	_	_	6	obj	_	_
+9	que	que	PRON	_	_	10	nsubj	_	_
+10	trabaja	trabajar	VERB	_	_	8	acl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	bienes	bien	NOUN	_	_	10	obl	_	_
+13	raíces	raíz	NOUN	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Hemos	haber	AUX	_	_	3	aux	_	_
+2	estado	estar	AUX	_	_	3	cop	_	_
+3	juntos	junto	ADJ	_	_	0	ROOT	_	_
+4	durante	durante	ADP	_	_	6	case	_	_
+5	tres	tres	NUM	_	_	6	nummod	_	_
+6	años	año	NOUN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	medio	medio	ADV	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	nos	yo	PRON	_	_	12	obj	_	_
+12	conocemos	conocer	VERB	_	_	3	conj	_	_
+13	desde	desde	ADP	_	_	14	mark	_	_
+14	hace	hacer	VERB	_	_	12	advcl	_	_
+15	mucho	mucho	DET	_	_	16	det	_	_
+16	tiempo	tiempo	NOUN	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	futuro	futuro	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	quiero	querer	VERB	_	_	0	ROOT	_	_
+6	viajar	viajar	VERB	_	_	5	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	país	país	NOUN	_	_	6	obl	_	_
+10	hispanohablante	hispanohablante	ADV	_	_	6	advmod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	sueno	sueno	NOUN	_	_	0	ROOT	_	_
+4	ir	ir	VERB	_	_	3	csubj	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	San	San	PROPN	_	_	4	obl	_	_
+7	Sebastian	Sebastian	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	España	España	PROPN	_	_	6	conj	_	_
+10	o	o	CCONJ	_	_	11	cc	_	_
+11	Lima	Lima	PROPN	_	_	6	conj	_	_
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	Peru	Peru	PROPN	_	_	3	appos	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	descubrir	descubrir	VERB	_	_	1	xcomp	_	_
+3	más	más	ADV	_	_	6	advmod	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	culturas	cultura	NOUN	_	_	2	obj	_	_
+7	hispanas	hispano	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	importante	importante	ADJ	_	_	1	ccomp	_	_
+5	aprender	aprender	VERB	_	_	4	csubj	_	_
+6	todo	todo	DET	_	_	7	det	_	_
+7	lo	él	PRON	_	_	9	det	_	_
+8	que	que	PRON	_	_	9	nsubj	_	_
+9	puedas	poder	VERB	_	_	5	ccomp	_	_
+10	sobre	sobre	ADP	_	_	11	case	_	_
+11	culturas	cultura	NOUN	_	_	9	obl	_	_
+12	que	que	PRON	_	_	14	nsubj	_	_
+13	no	no	ADV	_	_	14	advmod	_	_
+14	sean	ser	AUX	_	_	16	cop	_	_
+15	las	el	DET	_	_	16	det	_	_
+16	tuyas	tuya	NOUN	_	_	11	acl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Algunos	alguno	DET	_	_	2	det	_	_
+2	hechos	hecho	NOUN	_	_	0	ROOT	_	_
+3	divertidos	divertido	ADJ	_	_	2	amod	_	_
+4	sobre	sobre	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	_	3	obl	_	_
+6	:	:	PUNCT	_	_	8	punct	_	_
+7	*	*	NUM	_	_	8	punct	_	_
+8	Tengo	tener	VERB	_	_	2	acl	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	hueso	hueso	NOUN	_	_	8	obj	_	_
+11	extra	extra	ADJ	_	_	10	amod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	ambos	ambos	NUM	_	_	10	nummod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	mis	mi	DET	_	_	16	det	_	_
+16	pies	pie	NOUN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*	*	SYM	_	_	3	punct	_	_
+2	Puedo	poder	AUX	_	_	3	aux	_	_
+3	montar	montar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	caballo	caballo	NOUN	_	_	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bien	bien	ADV	_	_	5	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*	*	SYM	_	_	3	punct	_	_
+2	Me	yo	PRON	_	_	3	obj	_	_
+3	rompí	rompí	VERB	_	_	0	ROOT	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	codo	codo	NOUN	_	_	3	nsubj	_	_
+6	cuando	cuando	SCONJ	_	_	7	mark	_	_
+7	tenia	tenia	PROPN	_	_	3	advcl	_	_
+8	*AGE*	AGE	PROPN	_	_	7	nsubj	_	_
+9	anos	anos	PROPN	_	_	8	flat	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	nunca	nunca	ADV	_	_	12	advmod	_	_
+12	sanó	sanar	VERB	_	_	3	conj	_	_
+13	correctamente	correctamente	ADV	_	_	12	advmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*	*	SYM	_	_	3	punct	_	_
+2	Una	uno	PRON	_	_	3	nsubj	_	_
+3	da	dar	VERB	_	_	9	csubj	_	_
+4	mis	mi	DET	_	_	5	det	_	_
+5	comidas	comida	NOUN	_	_	3	obj	_	_
+6	favoritas	favorito	ADJ	_	_	5	amod	_	_
+7	son	ser	AUX	_	_	9	cop	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	alcachofas	alcachofas	NOUN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	*	*	SYM	_	_	3	punct	_	_
+2	Puedo	poder	AUX	_	_	3	aux	_	_
+3	decir	decir	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	alfabeto	alfabeto	NOUN	_	_	3	obj	_	_
+6	al	al	ADP	_	_	3	case	_	_
+7	revés	revés	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*	*	SYM	_	_	3	punct	_	_
+2	Me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	aprender	aprender	VERB	_	_	3	csubj	_	_
+6	español	español	ADJ	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	quiero	querer	VERB	_	_	3	conj	_	_
+10	aprender	aprender	VERB	_	_	9	xcomp	_	_
+11	otras	otro	DET	_	_	12	det	_	_
+12	lenguajes	lenguaje	NOUN	_	_	10	obj	_	_
+13	también	también	ADV	_	_	10	advmod	_	_
+14	como	como	SCONJ	_	_	13	case	_	_
+15	francés	francés	NOUN	_	_	10	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+

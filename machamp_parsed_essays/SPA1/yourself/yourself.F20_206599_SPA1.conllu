@@ -1,0 +1,137 @@
+# Unnamed: 0 = 132
+# id = 206599
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo estoy consada y mucho emotionada. No fruita favorita es []{la}<ab:det:art:def> [manzanas]{manzana}<na:noun>. Mi come todos Pescado y vegetables. Me baber favorita es []{el}<ab:det:art:def> jugo de mazana. [Yo]{}<pr:su:pron> soy intelligente y [estudioso]estudiosa}<ga:adj>. Soy adventura y [atletico]{atlética}<ga:adj>. Ti amo mi familia mucho. Me gusta []{la}<ab:det:art:def> escuela, muy emocinada pero []{la}<ab:det:art:def> esuela es online. [Yo]{}<pr:su:pron> tengo *AGE* anos, mi compleanos es *BIRTH_DATE* de *BIRTH_DATE*. Muchos gusta mirar [las]{}<pr:det:art:def> peliculas y serios con comico. Tengo un hermano y muchos muchos amigos. [Yo]{}<pr:su:pron> tengo trabajo de *PLACE* y mi own personal business.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> estoy consada y mucho emotionada. No fruita favorita es []{la}<ab:det:art:def> [manzanas]{manzana}<in:noun>. Mi come todos Pescado y vegetables. Me baber favorita es []{el}<ab:det:art:def> jugo de mazana. [Yo]{}<pr:su:pron> soy intelligente y [estudioso]{estudiosa}<ga:adj>. Soy adventura y [atletico]{atlética}<ga:adj>. Ti amo mi familia mucho. Me gusta []{la}<ab:det:art:def> escuela, muy emocinada pero []{la}<ab:det:art:def> esuela es online. [Yo]{}<pr:su:pron> tengo *AGE* anos, mi compleanos es *BIRTH_DATE* de *BIRTH_DATE*. Muchos gusta mirar las peliculas y serios con comico. Tengo un hermano y muchos muchos amigos. [Yo]{}<pr:su:pron> tengo trabajo de *PLACE* y mi own personal business.
+# verbs annotation ann2 = nan
+# corrected1 = Yo estoy cansada y muy emocionada. Mi fruta favorita es la manzana. Mi gusta el pescado y la verdura. Mi bebida favorita es el jugo de manzana. Soy inteligente y estudiosa. Soy aventurera y atlética. Amo mucho a mi familia. Me gusta la escuela, es muy emocionante, pero la escuela es online. Yo tengo veinte años, mi cumpleaños es el catorce de *BIRTH_DATE*. Me gusta mucho ver películas y series cómicas. Tengo un hermano y muchos amigos. Tengo trabajo en *PLACE* y mi propio trabajo personal.
+# corrected2 = nan
+# text = Yo estoy consada y mucho emotionada. No fruita favorita es manzanas. Mi come todos Pescado y vegetables. Me baber favorita es jugo de mazana. Yo soy intelligente y estudioso. Soy adventura y atletico. Ti amo mi familia mucho. Me gusta escuela, muy emocinada pero esuela es online. Yo tengo *AGE* anos, mi compleanos es *BIRTH_DATE* de *BIRTH_DATE*. Muchos gusta mirar las peliculas y serios con comico. Tengo un hermano y muchos muchos amigos. Yo tengo trabajo de *PLACE* y mi own personal business.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	consada	consado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	mucho	mucho	ADV	_	_	6	advmod	_	_
+6	emotionada	emotionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	fruita	fruita	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	manzanas	manzana	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	_	_
+4	Pescado	pescado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	vegetables	vegetable	ADJ	_	Number=Plur	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	baber	baber	VERB	_	VerbForm=Inf	5	csubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	jugo	jugo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	mazana	mazana	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	intelligente	intelligente	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estudioso	estudioso	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	adventura	adventura	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	atletico	atletico	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ti	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Pre|PronType=Prs	2	nsubj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	familia	familia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	mucho	mucho	ADV	_	_	2	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	emocinada	emocinado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	amod	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	esuela	esuela	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	online	online	ADV	_	Number=Sing	2	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	SYM	_	_	4	punct	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	compleanos	compleano	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+9	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	4	punct	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mirar	mirar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	serios	serio	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	comico	comico	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+6	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	*place*	PUNCT	_	_	1	punct	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+8	own	own	ADJ	_	Number=Sing	10	amod	_	_
+9	personal	personal	ADJ	_	_	10	amod	_	_
+10	business	business	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

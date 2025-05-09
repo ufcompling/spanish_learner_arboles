@@ -1,0 +1,220 @@
+# Unnamed: 0 = 64
+# id = 130753
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = French, 3 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi lei [un]{una}<ga:det> historia terrible hoy. Es terrible porque es triste. En la historia, un nino llamado Brian va a [visite]{visitar}<fs:st:mo> a su papa en Canada. El va en un avion y el piloto muere y el avion se estrella en un lago. El libro es bueno y me gusta, pero la historia es triste. Brian es joven y solo! Hace frío y Brian tiene miedo y tiene que comer animales para vivir. La historia es terrible porque es triste para Brian. Es menos terrible al final porque la policia lleva a Brian a la casa con su papa, pero lleva mucho tiempo. 30 semanas! Brian esta nervioso, solo, hambriento, y frio por 30 semanas! Estoy feliz de que Brian hay a la casa, pero la historia [son]{es}<fs:st:pn> terrible y triste para el. Estaba feliz de comer y estar con su mama y su papa, pero Brian tambien estaba triste porque el piloto del avion murio y no llego a casa.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi leí una historia terrible hoy. Es terrible porque es triste. En la historia, un niño llamado Brian va a visitar a su papá en Canadá. Va en un avión y el piloto muere y el avión se estrella en un lago. El libro es bueno y me gusta, pero la historia es triste. ¡Brian es joven y está solo! Hace frío y Brian tiene miedo y tiene que comer animales para vivir. La historia es terrible porque es triste para Brian. Es menos terrible al final porque la policía lleva a Brian a la casa con su papá, pero lleva mucho tiempo. ¡30 semanas! Brian está nervioso, solo, hambriento, y con frío por 30 semanas! Estoy feliz de que Brian vuelva a la casa, pero la historia es terrible y triste para él. Estaba feliz de comer y estar con su mamá y su papá, pero Brian también estaba triste porque el piloto del avión murió y no llegó a casa.
+# corrected2 = nan
+# text = Mi lei un historia terrible hoy. Es terrible porque es triste. En la historia, un nino llamado Brian va a visite a su papa en Canada. El va en un avion y el piloto muere y el avion se estrella en un lago. El libro es bueno y me gusta, pero la historia es triste. Brian es joven y solo! Hace frío y Brian tiene miedo y tiene que comer animales para vivir. La historia es terrible porque es triste para Brian. Es menos terrible al final porque la policia lleva a Brian a la casa con su papa, pero lleva mucho tiempo. 30 semanas! Brian esta nervioso, solo, hambriento, y frio por 30 semanas! Estoy feliz de que Brian hay a la casa, pero la historia son terrible y triste para el. Estaba feliz de comer y estar con su mama y su papa, pero Brian tambien estaba triste porque el piloto del avion murio y no llego a casa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	lei	lei	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+6	hoy	hoy	ADV	_	_	4	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	triste	triste	ADJ	_	Number=Sing	2	advcl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	nino	nino	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	llamado	llamado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	amod	_	_
+8	Brian	Brian	PROPN	_	_	7	obj	_	_
+9	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	visite	visite	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	papa	papa	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	Canada	Canada	PROPN	_	_	11	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	avion	avion	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	piloto	piloto	NOUN	_	Number=Sing	9	nsubj	_	_
+9	muere	muerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	avion	avion	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	estrella	estrellar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	lago	lago	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	pero	pero	CCONJ	_	_	13	cc	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	historia	historia	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	triste	triste	ADJ	_	Number=Sing	4	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Brian	Brian	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	joven	joven	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	solo	solo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+7	Hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	frío	frío	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	Brian	Brian	PROPN	_	_	11	nsubj	_	_
+11	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	que	que	SCONJ	_	_	16	cc	_	_
+16	comer	comer	VERB	_	VerbForm=Inf	14	conj	_	_
+17	animales	animal	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	vivir	vivir	VERB	_	VerbForm=Inf	16	advcl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	triste	triste	ADJ	_	Number=Sing	4	advcl	_	_
+8	para	para	ADP	_	_	9	case	_	_
+9	Brian	Brian	PROPN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	menos	menos	ADV	_	Degree=Cmp	3	advmod	_	_
+3	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+4	al	a	ADP	_	_	3	case	_	_
+5	final	final	NOUN	_	_	4	fixed	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	policia	policia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	Brian	Brian	PROPN	_	_	9	obj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	papa	papa	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+18	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+19	pero	pero	CCONJ	_	_	20	cc	_	_
+20	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+21	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	22	det	_	_
+22	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	30	30	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	_
+2	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Brian	Brian	PROPN	_	_	19	nsubj	_	_
+5	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	nervioso	nervioso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	solo	solo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	hambriento	hambriento	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	frio	frio	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	30	30	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	_
+16	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
+17	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+18	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+20	de	de	ADP	_	_	23	mark	_	_
+21	que	que	SCONJ	_	_	23	mark	_	_
+22	Brian	Brian	PROPN	_	_	23	nsubj	_	_
+23	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+24	a	a	ADP	_	_	26	case	_	_
+25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	casa	casa	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
+27	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
+28	pero	pero	CCONJ	_	_	32	cc	_	_
+29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	historia	historia	NOUN	_	Gender=Fem|Number=Sing	32	nsubj	_	_
+31	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+32	terrible	terrible	ADJ	_	Number=Sing	6	conj	_	_
+33	y	y	CCONJ	_	_	34	cc	_	_
+34	triste	triste	ADJ	_	Number=Sing	32	conj	_	_
+35	para	para	ADP	_	_	36	case	_	_
+36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+37	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	comer	comer	VERB	_	VerbForm=Inf	2	acl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	estar	estar	VERB	_	VerbForm=Inf	4	conj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	mama	mama	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	papa	papa	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+14	pero	pero	CCONJ	_	_	18	cc	_	_
+15	Brian	Brian	PROPN	_	_	18	nsubj	_	_
+16	tambien	tambien	NOUN	_	_	18	advmod	_	_
+17	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
+18	triste	triste	ADJ	_	Number=Sing	2	conj	_	_
+19	porque	porque	SCONJ	_	_	24	mark	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	piloto	piloto	NOUN	_	Number=Sing	24	nsubj	_	_
+22	del	de	ADP	_	_	23	case	_	_
+23	avion	avion	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+24	murio	mor	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
+27	llego	llear	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	conj	_	_
+28	a	a	ADP	_	_	29	case	_	_
+29	casa	casa	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

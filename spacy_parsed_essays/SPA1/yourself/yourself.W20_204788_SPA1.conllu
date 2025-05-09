@@ -1,0 +1,239 @@
+# Unnamed: 0 = 257
+# id = 204788
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = Vietnamese
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* años, pero voy a tener *AGE* años este *BIRTH_DATE*.  Soy muy bajo y tengo []{el}<ab:det:art:def> pelo moreno. Me encanta []{la}<ab:det:art:def> [ropas]{ropa}<na:noun> [negras]{negra}<na:adj> y []{los}<ab:det:art:def> zapatos blancos. Me gusta escuchar música y leer revistas. Soy muy trabajadora y estudiosa.  Quiero hacerse una doctora, [para]{por}<conf:prep:popa> mi padre.  [Para]{Por}<conf:prep:popa> mi, [yo]{}<pr:su:pron> quiero hacerse [una]{}<pr:det:art:indef> escritora o [una]{}<pr:det:art:indef> editora. Soy muy aventurera y activa también. Quiero viajar a Japón, Taiwán, Hong Kong, y Corea del Sur cuando me gradúo de la universidad de *UNIVERSITY*.  En el pasado, viajé a paises en Europa, Singapur, Vietnam, y Tailandia con my familia. Me gusta explorar la ciudad y descubrir nuevas comidas. Me encanta hablar con nuevas personas y escoger nuevos lugares. Usualmente, iría con mi familia, pero [este]{esta}<ga:det> vez quiero viajar [solo]{sola}<ga:adj>.  Antes el viaje, [yo]{}<pr:su:pron> quiero aprender tres nuevos idiomas, pero creo que no es posible.  Sin embargo, es una oportunidad para autoconocimiento! Ahora, estoy muy cansada porque tengo un examen de estadística este semana.  Estoy muy estresada!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* años, pero voy a tener *AGE* años este *BIRTH_DATE*.  Soy muy [bajo]{baja}<ga:adj> y tengo []{el}<ab:det:art:def> pelo moreno.  Me encanta []{la}<ab:det:art:def> [ropas]{ropa}<in:noun> [negras]{negra}<in:adj> y []{los}<ab:det:art:def> zapatos blancos. Me gusta escuchar música y leer revistas. Soy muy trabajadora y estudiosa.  Quiero hacerse una doctora, para mi padre.  Para mi, [yo]{}<pr:su:pron> quiero hacerse una escritora o una editora. Soy muy aventurera y activa también. Quiero viajar a Japón, Taiwán, Hong Kong, y Corea del Sur cuando [me gradúo]{me gradúe}<fs:st:mo> de la universidad de *UNIVERSITY*.  En el pasado, [viajé]{he viajado}<fs:st:t> a paises en Europa, Singapur, Vietnam, y Tailandia con my familia. Me gusta explorar la ciudad y descubrir nuevas comidas. Me encanta hablar con [nuevas personas]{personas nuevas}<col:adj> y escoger nuevos lugares. Usualmente, iría con mi familia, pero este vez quiero viajar [solo]{sola}<ga:adj>.  Antes el viaje, [yo]{}<pr:su:pron> quiero aprender tres [nuevos idiomas]{idiomas nuevos}<col:adj>, pero creo que no es posible.  Sin embargo, es una oportunidad para []{el}<ab:det:art:def> autoconocimiento! Ahora, estoy muy cansada porque tengo un examen de estadística [este]{esta}<ga:det> semana.  Estoy muy estresada!
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* años, pero voy a tener *AGE* años este febrero.  Soy muy bajo y tengo el pelo moreno.  Me encanta la ropa negra y los zapatos blancos. Me gusta escuchar música y leer revistas. Soy muy trabajadora y estudiosa.  Quiero convertirme en doctora, por mi padre. Por mí, quiero hacerme escritora o editora. Soy muy aventurera y activa también. Quiero viajar a Japón, Taiwán, Hong Kong, y Corea del Sur cuando me gradúe de la Universidad de *UNIVERSITY*.  En el pasado, viajé a países de Europa, a Singapur, Vietnam y Tailandia con mi familia. Me gusta explorar la ciudad y descubrir nuevas comidas. Me encanta hablar con nuevas personas y descubrir nuevos lugares. Usualmente, iría con mi familia, pero esta vez quiero viajar sola.  Antes del viaje, quiero aprender tres nuevos idiomas, pero creo que no es posible.  Sin embargo, es una oportunidad para el autoconocimiento. Ahora estoy muy cansada porque tengo un examen de estadística este semana.  ¡Estoy muy estresada!
+# corrected2 = nan
+# text = Tengo *AGE* años, pero voy a tener *AGE* años este *BIRTH_DATE*. Soy muy bajo y tengo pelo moreno. Me encanta ropas negras y zapatos blancos. Me gusta escuchar música y leer revistas. Soy muy trabajadora y estudiosa. Quiero hacerse una doctora, para mi padre. Para mi, yo quiero hacerse una escritora o una editora. Soy muy aventurera y activa también. Quiero viajar a Japón, Taiwán, Hong Kong, y Corea del Sur cuando me gradúo de la universidad de *UNIVERSITY*. En el pasado, viajé a paises en Europa, Singapur, Vietnam, y Tailandia con my familia. Me gusta explorar la ciudad y descubrir nuevas comidas. Me encanta hablar con nuevas personas y escoger nuevos lugares. Usualmente, iría con mi familia, pero este vez quiero viajar solo. Antes el viaje, yo quiero aprender tres nuevos idiomas, pero creo que no es posible. Sin embargo, es una oportunidad para autoconocimiento! Ahora, estoy muy cansada porque tengo un examen de estadística este semana. Estoy muy estresada!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	voy	ir	AUX	_	_	8	aux	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	tener	tener	VERB	_	_	1	conj	_	_
+9	*AGE*	AGE	PROPN	_	_	8	obj	_	_
+10	años	año	NOUN	_	_	8	obl	_	_
+11	este	este	DET	_	_	12	det	_	_
+12	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	8	obj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	bajo	bajo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tengo	tener	VERB	_	_	3	conj	_	_
+6	pelo	pelo	NOUN	_	_	5	obj	_	_
+7	moreno	moreno	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ropas	ropa	NOUN	_	_	2	nsubj	_	_
+4	negras	negro	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	zapatos	zapato	NOUN	_	_	4	conj	_	_
+7	blancos	blanco	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	escuchar	escuchar	VERB	_	_	2	csubj	_	_
+4	música	música	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	leer	leer	VERB	_	_	3	conj	_	_
+7	revistas	revista	NOUN	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estudiosa	estudiós	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	hacerse	hacer él	VERB	_	_	1	xcomp	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	doctora	doctora	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	padre	padre	NOUN	_	_	2	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	mi	mi	PROPN	_	_	5	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	quiero	querer	VERB	_	_	0	ROOT	_	_
+6	hacerse	hacer él	VERB	_	_	5	xcomp	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	escritora	escritora	NOUN	_	_	6	obj	_	_
+9	o	o	CCONJ	_	_	11	cc	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	editora	editora	NOUN	_	_	8	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	aventurera	aventurero	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	activa	activo	ADJ	_	_	3	conj	_	_
+6	también	también	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	viajar	viajar	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Japón	Japón	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Taiwán	Taiwán	PROPN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Hong	Hong	PROPN	_	_	4	conj	_	_
+9	Kong	Kong	PROPN	_	_	8	flat	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	Corea	Corea	PROPN	_	_	4	conj	_	_
+13	del	del	ADP	_	_	14	case	_	_
+14	Sur	Sur	PROPN	_	_	12	flat	_	_
+15	cuando	cuando	SCONJ	_	_	17	mark	_	_
+16	me	yo	PRON	_	_	17	obj	_	_
+17	gradúo	gradúo	VERB	_	_	2	advcl	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	universidad	universidad	PROPN	_	_	17	obl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pasado	pasado	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	viajé	viajar	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	paises	país	NOUN	_	_	5	obj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Europa	Europa	PROPN	_	_	5	obl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Singapur	Singapur	PROPN	_	_	9	conj	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	Vietnam	Vietnam	PROPN	_	_	9	conj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	Tailandia	Tailandia	PROPN	_	_	9	conj	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	my	my	PROPN	_	_	19	det	_	_
+19	familia	familia	NOUN	_	_	16	nmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	explorar	explorar	VERB	_	_	2	csubj	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	ciudad	ciudad	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	descubrir	descubrir	VERB	_	_	3	conj	_	_
+8	nuevas	nuevo	ADJ	_	_	9	amod	_	_
+9	comidas	comida	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	hablar	hablar	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	nuevas	nuevo	ADJ	_	_	6	amod	_	_
+6	personas	persona	NOUN	_	_	3	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	escoger	escoger	VERB	_	_	3	conj	_	_
+9	nuevos	nuevo	ADJ	_	_	10	amod	_	_
+10	lugares	lugar	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Usualmente	usualmente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	iría	ir	VERB	_	_	0	ROOT	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	este	este	DET	_	_	10	det	_	_
+10	vez	vez	NOUN	_	_	11	obl	_	_
+11	quiero	querer	VERB	_	_	3	conj	_	_
+12	viajar	viajar	VERB	_	_	11	xcomp	_	_
+13	solo	solo	ADJ	_	_	12	advmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Antes	antes	ADV	_	_	3	advmod	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	viaje	viaje	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	quiero	querer	VERB	_	_	0	ROOT	_	_
+7	aprender	aprender	VERB	_	_	6	xcomp	_	_
+8	tres	tres	NUM	_	_	10	nummod	_	_
+9	nuevos	nuevo	ADJ	_	_	10	amod	_	_
+10	idiomas	idioma	NOUN	_	_	7	obj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	pero	pero	CCONJ	_	_	13	cc	_	_
+13	creo	creer	VERB	_	_	6	conj	_	_
+14	que	que	SCONJ	_	_	17	mark	_	_
+15	no	no	ADV	_	_	17	advmod	_	_
+16	es	ser	AUX	_	_	17	cop	_	_
+17	posible	posible	ADJ	_	_	13	ccomp	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	oportunidad	oportunidad	NOUN	_	_	0	ROOT	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	autoconocimiento	autoconocimiento	NOUN	_	_	6	nmod	_	_
+9	!	!	PUNCT	_	_	6	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	estoy	estar	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	cansada	cansado	ADJ	_	_	0	ROOT	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	tengo	tener	VERB	_	_	5	advcl	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	examen	examen	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	estadística	estadística	NOUN	_	_	9	nmod	_	_
+12	este	este	DET	_	_	13	det	_	_
+13	semana	semana	NOUN	_	_	7	obl	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	estresada	estresado	ADJ	_	_	0	ROOT	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+

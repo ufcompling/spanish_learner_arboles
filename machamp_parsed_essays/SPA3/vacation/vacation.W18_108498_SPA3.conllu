@@ -1,0 +1,206 @@
+# Unnamed: 0 = 38
+# id = 108498
+# prompt = vacation
+# quarter = W18
+# course = SPA 3
+# age = I do not identify with either genders
+# gender = 22
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Un vacaciones perfecto estaría en Ireland. Ireland es un país muy interesante y misterioso. Muchas personas preferirían a visitan un país con tiempo calor con mucho sol. Pero yo prefiero mucho lluvia y niebla. Es muy frio en Ireland! Habría muchos lugares a camino con mis amigos. Yo quiero visito un castillo en este vacaciones por tres días. Hay muchos castillos en Ireland, pero yo quiero visito el castillo Kilkenny, Carrickfergus, y Slane. Carrickfergus tiene mas años y historia que Slane y Kilkenny, pero todos los castillos serían interesante. Quiero saco muchos patografías en los castillos. Entre caminos a los castillos, me gustaría mucho comida de Ireland. Por ejemplo, cerveza, bangers n mash, y mas comida con papas. Quiero visito un pub con amigos, y conocía []{a}<az:do:an> nuevo amigos. Ireland es un pais muy interesante. Alguna dia fui a Ireland. 
+# a personal annotator2 = nan
+# gender-number annotator1 = [Un]{unas}<ga:na:fm:ps:det:inan> vacaciones<gat:noun:inan> [perfecto]{perfectas}<ga:na:fm:ps:adj:inan> estaría en Ireland. Ireland es un país muy interesante y misterioso. Muchas personas preferirían a visitan un país con tiempo calor con mucho sol. Pero yo prefiero [mucho]{mucha}<ga:fm:det:inan> lluvia y niebla. Es muy frio en Ireland! Habría muchos lugares a camino con mis amigos. Yo quiero visito un castillo en [este]{estas}<ga:na:fm:ps:det:inan> vacaciones por tres días. Hay muchos castillos en Ireland, pero yo quiero visito el castillo Kilkenny, Carrickfergus, y Slane. Carrickfergus tiene mas años y historia que Slane y Kilkenny, pero todos los castillos serían [interesante]{interesantes}<na:ps:adj:inan>. Quiero saco [muchos]{muchas}<ga:fm:det:inan> patografías en los castillos. Entre caminos a los castillos, me gustaría [mucho]{mucha}<ga:fm:adj:inan> comida de Ireland. Por ejemplo, cerveza, bangers n mash, y mas comida con papas. Quiero visito un pub con amigos, y conocía [nuevo]{nuevos}<na:ps:adj:an> amigos. Ireland es un pais muy interesante. Alguna dia fui a Ireland. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un vacaciones perfecto estaría en Ireland. Ireland es un país muy interesante y misterioso. Muchas personas preferirían a visitan un país con tiempo calor con mucho sol. Pero yo prefiero mucho lluvia y niebla. Es muy frio en Ireland! Habría muchos lugares a camino con mis amigos. Yo quiero visito un castillo en este vacaciones por tres días. Hay muchos castillos en Ireland, pero yo quiero visito el castillo Kilkenny, Carrickfergus, y Slane. Carrickfergus tiene mas años y historia que Slane y Kilkenny, pero todos los castillos serían interesante. Quiero saco muchos patografías en los castillos. Entre caminos a los castillos, me gustaría mucho comida de Ireland. Por ejemplo, cerveza, bangers n mash, y mas comida con papas. Quiero visito un pub con amigos, y conocía nuevo amigos. Ireland es un pais muy interesante. Alguna dia fui a Ireland.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	perfecto	perfecto	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	estaría	estar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Ireland	Ireland	PROPN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ireland	Ireland	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	país	país	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	interesante	interesante	ADJ	_	Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	misterioso	misterioso	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	personas	persona	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	preferirían	preferir	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	visitan	visitar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	país	país	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	calor	calor	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	13	det	_	_
+13	sol	sol	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	lluvia	lluvia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	niebla	niebla	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	frio	frio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Ireland	Ireland	PROPN	_	_	3	obl	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+
+1	Habría	haber	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	a	a	ADP	_	_	3	advmod	_	_
+5	camino	camino	NOUN	_	_	4	fixed	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	visito	visito	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	castillo	castillo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+11	días	día	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	castillos	castillo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Ireland	Ireland	PROPN	_	_	1	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	visito	visito	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	castillo	castillo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	Kilkenny	Kilkenny	PROPN	_	_	12	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	Carrickfergus	Carrickfergus	PROPN	_	_	13	conj	_	_
+16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	Slane	Slane	PROPN	_	_	13	conj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Carrickfergus	Carrickfergus	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mas	mas	ADV	_	_	4	advmod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	Slane	Slane	PROPN	_	_	4	nmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	Kilkenny	Kilkenny	PROPN	_	_	8	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+12	pero	pero	CCONJ	_	_	17	cc	_	_
+13	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	14	det	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	castillos	castillo	NOUN	_	Gender=Masc|Number=Plur	17	nsubj	_	_
+16	serían	ser	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	17	cop	_	_
+17	interesante	interesante	ADJ	_	Number=Sing	2	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	saco	saco	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	patografías	patografía	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	castillos	castillo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Entre	entre	ADP	_	_	2	case	_	_
+2	caminos	camino	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	castillos	castillo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+9	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	comida	comida	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	Ireland	Ireland	PROPN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Por	por	ADP	_	_	4	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	cerveza	cerveza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	bangers	bangers	NOUN	_	_	4	appos	_	_
+7	n	n	NOUN	_	_	6	compound	_	_
+8	mash	mash	NOUN	_	_	6	compound	_	_
+9	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mas	mas	ADV	_	_	12	advmod	_	_
+12	comida	comida	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	papas	papa	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	visito	visito	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pub	pub	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	conocía	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+10	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ireland	Ireland	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pais	pais	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	interesante	interesante	ADJ	_	Number=Sing	4	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	dia	dia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+3	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Ireland	Ireland	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

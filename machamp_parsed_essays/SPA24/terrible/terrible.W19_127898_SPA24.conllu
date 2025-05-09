@@ -1,0 +1,434 @@
+# Unnamed: 0 = 150
+# id = 127898
+# prompt = terrible
+# quarter = W19
+# course = SPA 24
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = I studied Mandarin in elementary school for 3 years. 
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Pienso mucho sobre el tema del racismo en los Estados Unidos. En *UNIVERSITY*, completé clases en la Guerra Civil, Reconstruction y las sesenta del siglo viente. Leímos sobre sueños grandes y eventos terribles. Discutimos lynching y el crecimiento de Jim Crow en el país durante el siglo diecinueve. La continuación del segregación en los Estados Unidos afirmó que los sueños por igualdad no habían realizado. En una clase, estudié el trabajo de Martin Luther King Jr. con el Movimiento por los derechos civiles en Birmingham y Selma. Realicé que mientras hubiera progreso con los derechos en lugares públicas, segregación en las casas y desigualdades en las fortunas continuaron (Olmsted y Rauchway). Nuestro país ha reducido Jim Crow, pero existen muchas oportunidades por cambio más grande. El verano pasado, miré la película Black Klansman, dirigió por Spike Lee. Creo que la obra es muy maravillosa porque nos muestra la historia del racismo en el país. Discutió el prejuicio en Gone With the Wind y descubrió en detalles horribles un lynching de un hombre joven en el Sur cerca de 1920. Lee terminó su obra con escenas del violencia en Charlottesville en 2017. Esta parte es poderosa porque indica los ejemplos del racismo en nuestro presente. El racismo de hoy es un producto del prejuicio de Jim Crow. Creo que la Guerra Civil fue más importante que la Revolución entre 1775 y 1783 en crecer la identidad de los Estados Unidos. Durante la Revolución, la esclavitud continuó. Durante la Guerra Civil, el gobierno norte terminó la esclavitud y proponió igualdad por todos (Downs). Las ideales de nuestro país son más similar a las motivaciones en la Guerra Civil. La continuación del segregación hoy ilustra que los requisitos del Guerra Civil no son completos. Necesitamos acción comprehensiva del gobierno federal para implementar leyes que reducir discriminación. Los Estados Unidos tiene una historia terrible del racismo que necesitamos realizar y terminar. La obra citada Kathy Olmsted y Eric Rauchway. La Historia 188. 2017. Gregory Downs. La History 17A y 170B. 2016 y 2018.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	sobre	sobre	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tema	tema	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Estados	Estados	PROPN	_	_	5	nmod	_	_
+11	Unidos	Unidos	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	completé	completar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	clases	clase	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Guerra	Guerra	PROPN	_	_	5	nmod	_	_
+9	Civil	Civil	PROPN	_	_	8	flat	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	Reconstruction	Reconstruction	PROPN	_	_	8	flat	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	sesenta	sesenta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	conj	_	_
+15	del	de	ADP	_	_	16	case	_	_
+16	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+17	viente	viente	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Leímos	leír	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sobre	sobre	ADP	_	_	3	case	_	_
+3	sueños	sueño	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	grandes	grande	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	eventos	evento	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+7	terribles	terrible	ADJ	_	Number=Plur	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Discutimos	discutir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	lynching	lynching	NOUN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	crecimiento	crecimiento	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Jim	Jim	PROPN	_	_	5	nmod	_	_
+8	Crow	Crow	PROPN	_	_	7	flat	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	país	país	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+12	durante	durante	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+15	diecinueve	diecinueve	NUM	_	NumForm=Word|NumType=Card	14	compound	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	continuación	continuación	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	segregación	segregación	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Estados	Estados	PROPN	_	_	4	nmod	_	_
+8	Unidos	Unidos	PROPN	_	_	7	flat	_	_
+9	afirmó	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	que	que	SCONJ	_	_	17	mark	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	sueños	sueño	NOUN	_	Gender=Masc|Number=Plur	17	nsubj	_	_
+13	por	por	ADP	_	_	14	case	_	_
+14	igualdad	igualdad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+16	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
+17	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	estudié	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Martin	Martin	PROPN	_	_	7	nmod	_	_
+10	Luther	Luther	PROPN	_	_	9	flat	_	_
+11	King	King	PROPN	_	_	9	flat	_	_
+12	Jr	Jr	PROPN	_	_	9	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	con	con	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Movimiento	Movimiento	PROPN	_	_	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	derechos	derecho	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+7	civiles	civil	ADJ	_	Number=Plur	6	amod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Birmingham	Birmingham	PROPN	_	_	3	nmod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	Selma	Selma	PROPN	_	_	9	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Realicé	realicar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	22	mark	_	_
+3	mientras	mientras	SCONJ	_	_	4	mark	_	_
+4	hubiera	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	advcl	_	_
+5	progreso	progreso	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	derechos	derecho	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+11	públicas	público	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	segregación	segregación	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	casas	casa	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	desigualdades	desigualdad	NOUN	_	Gender=Fem|Number=Plur	13	conj	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	fortunas	fortuna	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	_
+22	continuaron	continuar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+23	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	24	punct	_	_
+24	Olmsted	Olmsted	PROPN	_	_	22	dep	_	_
+25	y	y	CCONJ	_	_	26	cc	_	_
+26	Rauchway	Rauchway	PROPN	_	_	24	conj	_	_
+27	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	24	punct	_	_
+28	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	país	país	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	reducido	reducir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	Jim	Jim	PROPN	_	_	4	obj	_	_
+6	Crow	Crow	PROPN	_	_	5	flat	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	existen	existir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
+11	oportunidades	oportunidad	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	por	por	ADP	_	_	13	case	_	_
+13	cambio	cambio	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+15	grande	grande	ADJ	_	Number=Sing	13	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	verano	verano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	miré	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	película	película	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	Black	Black	PROPN	_	_	7	appos	_	_
+9	Klansman	Klansman	PROPN	_	_	8	flat	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	dirigió	dirigir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+12	por	por	ADP	_	_	13	case	_	_
+13	Spike	Spike	PROPN	_	_	11	obl	_	_
+14	Lee	Lee	PROPN	_	_	13	flat	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	obra	obra	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	maravillosa	maravilloso	ADJ	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	muestra	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	historia	historia	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	del	de	ADP	_	_	14	case	_	_
+14	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	país	país	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Discutió	discutir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	prejuicio	prejuicio	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Gone	Gone	PROPN	_	_	1	obl	_	_
+6	With	With	PROPN	_	_	5	flat	_	_
+7	the	the	PROPN	_	_	5	flat	_	_
+8	Wind	Wind	PROPN	_	_	5	flat	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	descubrió	descubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	detalles	detalle	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+13	horribles	horrible	ADJ	_	Number=Plur	12	amod	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	lynching	lynching	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+19	joven	joven	ADJ	_	Number=Sing	18	amod	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Sur	Sur	PROPN	_	_	15	nmod	_	_
+23	cerca	cerca	ADV	_	_	25	advmod	_	_
+24	de	de	ADP	_	_	23	fixed	_	_
+25	1920	1920	NOUN	_	AdvType=Tim	10	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Lee	Lee	PROPN	_	_	2	nsubj	_	_
+2	terminó	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	obra	obra	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	escenas	escena	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+7	del	de	ADP	_	_	8	case	_	_
+8	violencia	violencia	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Charlottesville	Charlottesville	PROPN	_	_	2	obl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	2017	2017	NOUN	_	AdvType=Tim	2	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	poderosa	poderoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	6	mark	_	_
+6	indica	indicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	ejemplos	ejemplo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	presente	presente	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	hoy	hoy	ADV	_	_	2	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	producto	producto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	prejuicio	prejuicio	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Jim	Jim	PROPN	_	_	9	nmod	_	_
+12	Crow	Crow	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	8	mark	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Guerra	Guerra	PROPN	_	_	8	nsubj	_	_
+5	Civil	Civil	PROPN	_	_	4	flat	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	importante	importante	ADJ	_	Number=Sing	1	ccomp	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Revolución	Revolución	PROPN	_	_	8	obl	_	_
+12	entre	entre	ADP	_	_	13	case	_	_
+13	1775	1775	NOUN	_	AdvType=Tim	11	nmod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	1783	1783	NOUN	_	AdvType=Tim	13	conj	_	_
+16	en	en	ADP	_	_	17	mark	_	_
+17	crecer	crecer	VERB	_	VerbForm=Inf	8	advcl	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	identidad	identidad	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	Estados	Estados	PROPN	_	_	19	nmod	_	_
+23	Unidos	Unidos	PROPN	_	_	22	flat	_	_
+24	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Revolución	Revolución	PROPN	_	_	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	esclavitud	esclavitud	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	continuó	continuar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Guerra	Guerra	PROPN	_	_	9	obl	_	_
+4	Civil	Civil	PROPN	_	_	3	flat	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	norte	norte	ADJ	_	_	7	amod	_	_
+9	terminó	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	esclavitud	esclavitud	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	proponió	proponir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+14	igualdad	igualdad	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+15	por	por	ADP	_	_	16	case	_	_
+16	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	13	obl	_	_
+17	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	_
+18	Downs	Downs	PROPN	_	_	13	dep	_	_
+19	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	18	punct	_	_
+20	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	ideales	ideal	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	país	país	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	similar	similar	ADJ	_	Number=Sing	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	motivaciones	motivación	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Guerra	Guerra	PROPN	_	_	11	nmod	_	_
+15	Civil	Civil	PROPN	_	_	14	flat	_	_
+16	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	continuación	continuación	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	segregación	segregación	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	hoy	hoy	ADV	_	_	6	advmod	_	_
+6	ilustra	ilustrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	15	mark	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	requisitos	requisito	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	Guerra	Guerra	PROPN	_	_	9	nmod	_	_
+12	Civil	Civil	PROPN	_	_	11	flat	_	_
+13	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+14	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	completos	completo	ADJ	_	Gender=Masc|Number=Plur	6	ccomp	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Necesitamos	necesitar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	acción	acción	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	comprehensiva	comprehensivo	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	federal	federal	ADJ	_	Number=Sing	5	amod	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	implementar	implementar	VERB	_	VerbForm=Inf	2	acl	_	_
+9	leyes	ley	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+11	reducir	reducir	VERB	_	VerbForm=Inf	9	acl	_	_
+12	discriminación	discriminación	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Estados	Estados	PROPN	_	_	4	nsubj	_	_
+3	Unidos	Unidos	PROPN	_	_	2	flat	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	terrible	terrible	ADJ	_	Number=Sing	6	amod	_	_
+8	del	de	ADP	_	_	9	case	_	_
+9	racismo	racismo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	que	que	PRON	_	PronType=Rel	11	obj	_	_
+11	necesitamos	necesitar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	_
+12	realizar	realizar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	terminar	terminar	VERB	_	VerbForm=Inf	12	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	obra	obra	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	citada	citado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
+4	Kathy	Kathy	PROPN	_	_	2	appos	_	_
+5	Olmsted	Olmsted	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Eric	Eric	PROPN	_	_	4	conj	_	_
+8	Rauchway	Rauchway	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Historia	Historia	PROPN	_	_	0	root	_	_
+3	188	188	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	2017	2017	NOUN	_	AdvType=Tim	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Gregory	Gregory	PROPN	_	_	0	root	_	_
+2	Downs	Downs	PROPN	_	_	1	flat	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	History	History	PROPN	_	_	0	root	_	_
+3	17A	17A	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	170B.	170b.	PUNCT	_	PunctType=Peri	6	punct	_	_
+6	2016	2016	NOUN	_	AdvType=Tim	2	appos	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	2018	2018	NOUN	_	AdvType=Tim	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

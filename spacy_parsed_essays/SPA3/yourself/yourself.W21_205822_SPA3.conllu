@@ -1,0 +1,346 @@
+# Unnamed: 0 = 130
+# id = 205822
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 20
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Soy 5'6" con cabello castaño claro y ojos azules. Mi cumpleaños es en *BIRTH_DATE*, así que soy una aries. Tengo *AGE* años y soy estudiante de la *UNIVERSITY* *UNIVERSITY*. Mi especialidad es psicología. En el futuro quiero ser maestra de educación especial. Fui a la escuela en un pueblo muy pequeño cerca del lago *PLACE*. Me encanta pasar tiempo en la naturaleza. Me gusta correr, senderismo, ir a la playa y esquiar. Jugué muchos deportes en la escuela secundaria, como correr y baloncesto. También me gusta pintar, hornear, cantar y viajar. He viajado en Nueva Zelanda, México, Canadá y gran parte de la costa este de los Estados Unidos. Yo hice paracaidismo y me encanta ir de aventuras. Mis comidas favoritas son el sushi, la carne asada y el pastel de chocolate. Me encanta ver comedias románticas y dramas. Me encanta escuchar música como country, jazz y pop. Mi estación favorita del año es el invierno porque me encanta la nieve y la Navidad. Soy la más joven de mi familia. Tengo un hermano mayor que es piloto de avión. Tengo un perro llamado *FIRST_NAME*. Me gusta jugar juegos de mesa con mi familia y llevar a mi perro a pasear. Estoy muy cerca de mi familia y me encanta visitarlos. Mi papá es de *PLACE* *PLACE* y mi mamá es de *CITY* *CITY*. Soy una persona amable, pero también un poco fanática del control. Me gusta mucho la gente amable y divertida. Soy tímido cuando conozco gente por primera vez, pero soy muy extrovertido.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	5'6	5'6	NUM	_	_	0	ROOT	_	_
+3	"	"	PUNCT	_	_	2	punct	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	cabello	cabello	NOUN	_	_	6	amod	_	_
+6	castaño	castaño	NOUN	_	_	2	nmod	_	_
+7	claro	claro	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	ojos	ojo	NOUN	_	_	7	conj	_	_
+10	azules	azul	ADJ	_	_	6	amod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	así	así	ADV	_	_	11	mark	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
+9	soy	ser	AUX	_	_	11	cop	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	aries	ari	NOUN	_	_	5	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	soy	ser	AUX	_	_	6	cop	_	_
+6	estudiante	estudiante	ADJ	_	_	1	conj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	nmod	_	_
+10	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialidad	especialidad	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	psicología	psicología	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	futuro	futuro	NOUN	_	_	4	obl	_	_
+4	quiero	querer	VERB	_	_	0	ROOT	_	_
+5	ser	ser	AUX	_	_	6	cop	_	_
+6	maestra	maestra	NOUN	_	_	4	xcomp	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	educación	educación	NOUN	_	_	6	nmod	_	_
+9	especial	especial	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Fui	ir	AUX	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	escuela	escuela	NOUN	_	_	1	obl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	pueblo	pueblo	NOUN	_	_	1	obl	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	pequeño	pequeño	ADJ	_	_	7	amod	_	_
+10	cerca	cerca	ADV	_	_	9	advmod	_	_
+11	del	del	ADP	_	_	12	case	_	_
+12	lago	lago	NOUN	_	_	10	obl	_	_
+13	*PLACE*	PLACE	PROPN	_	_	12	appos	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	pasar	pasar	VERB	_	_	2	xcomp	_	_
+4	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	naturaleza	naturaleza	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	correr	correr	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	senderismo	senderismo	ADV	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ir	ir	VERB	_	_	3	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	playa	playa	NOUN	_	_	7	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	esquiar	esquiar	VERB	_	_	3	conj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Jugué	jugar	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	deportes	deporte	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	escuela	escuela	NOUN	_	_	1	obl	_	_
+7	secundaria	secundario	ADJ	_	_	6	amod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	como	como	SCONJ	_	_	10	mark	_	_
+10	correr	correr	VERB	_	_	1	advcl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	baloncesto	baloncesto	NOUN	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	pintar	pintar	VERB	_	_	3	csubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	hornear	hornear	VERB	_	_	3	advcl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	cantar	cantar	VERB	_	_	3	csubj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	viajar	viajar	VERB	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	He	haber	AUX	_	_	2	aux	_	_
+2	viajado	viajar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Nueva	Nueva	PROPN	_	_	2	obl	_	_
+5	Zelanda	Zelanda	PROPN	_	_	4	flat	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	México	México	PROPN	_	_	4	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Canadá	Canadá	PROPN	_	_	4	conj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	gran	gran	ADJ	_	_	12	amod	_	_
+12	parte	parte	NOUN	_	_	4	conj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	costa	costa	NOUN	_	_	12	nmod	_	_
+16	este	este	PROPN	_	_	15	amod	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	los	el	DET	_	_	19	det	_	_
+19	Estados	Estados	PROPN	_	_	15	nmod	_	_
+20	Unidos	Unidos	PROPN	_	_	19	flat	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	hice	hacer	VERB	_	_	0	ROOT	_	_
+3	paracaidismo	paracaidismo	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	encanta	encantar	VERB	_	_	2	conj	_	_
+7	ir	ir	VERB	_	_	6	xcomp	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	aventuras	aventura	NOUN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	comidas	comida	NOUN	_	_	6	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	sushi	sushi	NOUN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	carne	carne	NOUN	_	_	6	appos	_	_
+10	asada	asado	ADJ	_	_	9	amod	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	pastel	pastel	NOUN	_	_	6	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	chocolate	chocolate	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	comedias	comedia	NOUN	_	_	3	obj	_	_
+5	románticas	romántico	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	dramas	drama	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	escuchar	escuchar	VERB	_	_	2	csubj	_	_
+4	música	música	NOUN	_	_	3	obj	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	country	country	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	jazz	jazz	NOUN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pop	pop	NOUN	_	_	6	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	estación	estación	NOUN	_	_	8	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	del	del	ADP	_	_	5	case	_	_
+5	año	año	NOUN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	invierno	invierno	NOUN	_	_	0	ROOT	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	encanta	encantar	VERB	_	_	8	advcl	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	nieve	nieve	NOUN	_	_	11	nsubj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	Navidad	Navidad	PROPN	_	_	13	conj	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Soy	ser	AUX	_	_	4	cop	_	_
+2	la	el	DET	_	_	4	det	_	_
+3	más	más	ADV	_	_	4	advmod	_	_
+4	joven	joven	ADJ	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	mayor	mayor	ADJ	_	_	3	amod	_	_
+5	que	que	PRON	_	_	7	nsubj	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	piloto	piloto	NOUN	_	_	3	acl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	avión	avión	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	perro	perro	NOUN	_	_	1	obj	_	_
+4	llamado	llamado	ADJ	_	_	3	amod	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	csubj	_	_
+4	juegos	juego	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	mesa	mesa	NOUN	_	_	4	nmod	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	3	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	llevar	llevar	VERB	_	_	3	conj	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	perro	perro	NOUN	_	_	11	obj	_	_
+15	a	a	ADP	_	_	16	mark	_	_
+16	pasear	pasear	VERB	_	_	11	xcomp	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	VERB	_	_	0	ROOT	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	cerca	cerca	ADV	_	_	1	advmod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	1	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	encanta	encantar	VERB	_	_	1	conj	_	_
+10	visitarlos	visitarlo	PRON	_	_	9	nsubj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	papá	papá	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+6	*PLACE*	PLACE	PROPN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	mamá	mamá	NOUN	_	_	12	nsubj	_	_
+10	es	ser	AUX	_	_	12	cop	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*CITY*	CITY	PROPN	_	_	5	conj	_	_
+13	*CITY*	CITY	PROPN	_	_	12	flat	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	persona	persona	NOUN	_	_	0	ROOT	_	_
+4	amable	amable	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	también	también	ADV	_	_	9	advmod	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	poco	poco	ADV	_	_	3	conj	_	_
+10	fanática	fanático	ADJ	_	_	9	amod	_	_
+11	del	del	ADP	_	_	12	case	_	_
+12	control	control	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	gente	gente	NOUN	_	_	2	nsubj	_	_
+6	amable	amable	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	divertida	divertido	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	tímido	tímido	ADJ	_	_	0	ROOT	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	conozco	conocer	VERB	_	_	2	advcl	_	_
+5	gente	gente	NOUN	_	_	4	obj	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	primera	primero	ADJ	_	_	8	amod	_	_
+8	vez	vez	NOUN	_	_	4	obl	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	soy	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	extrovertido	extrovertido	ADJ	_	_	2	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+

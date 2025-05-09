@@ -1,0 +1,343 @@
+# Unnamed: 0 = 66
+# id = 169008
+# prompt = special
+# quarter = F18
+# course = SPA 31
+# age = I am 19 years old
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = I have studies Portuguese for a couple of years, but this was after I had already learned English and Spanish .
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 5.0
+# writing ability = 5.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando alguien me pregunta, “¿Oye, quien es la persona más especial es tu vida?” mi respuesta automática es “mi madre” pero ahora voy a hacer una excepción; hoy voy a hablar sobre mi novio. Yo nunca he sido del tipo de muchachas que salen con un joven y de repente todo el mundo se mueve alrededor de él, pero este joven con el cual estoy saliendo es como ningún otro. Si lo describo, van a pensar que es simplemente mi comentario subjetivo ya que yo lo miro “con ojos de amor” como dice mi mama, asi que mejor les voy a contar hechos en vez de describir su persona. A mi no me gusta presumir, pero ya que quieren que les hable sobre mi vida, no queda de otra. Mi novio y yo empezamos a salir en Mayo y para Junio que me lleva a Rusia para ir a ver el mundial de fútbol en persona, de ahí me llevó a Londres por una semana. ¿Por qué a Londres? Preguntaras, por que estaba de pasada de regreso en camino a *CITY* de Rusia. Nos la pasamos aya por 24 días en total y yo solo gaste cerca de trescientos dólares en tarugadas (recuerdos) para amigos y familia. Por si fuera poco, en cuanto regresamos empezó a planear nuestras siguientes vacaciones en las amazonas. Fuera de todo lo material, él es un buen joven que ya se graduó de *UNIVERSITY*. Tiene sus metas y una visión clara de lo que quiere con su vida. El nunca se anda con rodeos y yo se que puedo confiar en el.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	“	“	PUNCT	_	PunctType=Quot	8	punct	_	_
+7	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	8	punct	_	_
+8	Oye	oyer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+10	quien	quien	PRON	_	Number=Sing|PronType=Rel	13	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	persona	persona	NOUN	_	Gender=Fem|Number=Sing	18	csubj	_	_
+14	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+15	especial	especial	ADJ	_	Number=Sing	13	amod	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	_
+18	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	ccomp	_	_
+19	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	8	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	8	punct	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	respuesta	respuesta	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+4	automática	automático	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	“	“	PUNCT	_	PunctType=Quot	8	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	madre	madre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	”	”	PUNCT	_	PunctType=Quot	8	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	ahora	ahora	ADV	_	_	12	advmod	_	_
+12	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	hacer	hacer	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	excepción	excepción	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	;	;	PUNCT	_	PunctType=Semi	8	punct	_	_
+18	hoy	hoy	ADV	_	_	19	advmod	_	_
+19	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+20	a	a	ADP	_	_	21	mark	_	_
+21	hablar	hablar	VERB	_	VerbForm=Inf	19	xcomp	_	_
+22	sobre	sobre	ADP	_	_	24	case	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	novio	novio	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	nunca	nunca	ADV	_	_	6	advmod	_	_
+3	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	muchachas	muchacha	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	salen	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	joven	joven	NOUN	_	Number=Sing	10	obl	_	_
+14	y	y	CCONJ	_	_	21	cc	_	_
+15	de	de	ADP	_	_	21	advmod	_	_
+16	repente	repente	NOUN	_	_	15	fixed	_	_
+17	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	18	det	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
+20	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl	_	_
+21	mueve	mover	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+22	alrededor	alrededor	ADV	_	_	21	advmod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	_
+25	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
+26	pero	pero	CCONJ	_	_	34	cc	_	_
+27	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
+28	joven	joven	NOUN	_	Number=Sing	34	nsubj	_	_
+29	con	con	ADP	_	_	31	case	_	_
+30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	cual	cual	PRON	_	Number=Sing|PronType=Rel	33	obl	_	_
+32	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	33	aux	_	_
+33	saliendo	salir	VERB	_	VerbForm=Ger	28	acl	_	_
+34	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
+35	como	como	SCONJ	_	_	37	mark	_	_
+36	ningún	ninguno	DET	_	Gender=Masc|Number=Sing|PronType=Neg	37	det	_	_
+37	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	obl	_	_
+38	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Si	si	SCONJ	_	_	3	mark	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	describo	describir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	pensar	pensar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	que	que	SCONJ	_	_	12	mark	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	simplemente	simplemente	ADV	_	_	12	advmod	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	comentario	comentario	NOUN	_	Gender=Masc|Number=Sing	7	ccomp	_	_
+13	subjetivo	subjetivo	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	ya	ya	ADV	_	_	18	mark	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
+16	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
+17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	miro	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+19	“	“	PUNCT	_	PunctType=Quot	21	punct	_	_
+20	con	con	ADP	_	_	21	case	_	_
+21	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	amor	amor	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+24	”	”	PUNCT	_	PunctType=Quot	21	punct	_	_
+25	como	como	SCONJ	_	_	26	mark	_	_
+26	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
+27	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	28	det	_	_
+28	mama	mama	NOUN	_	Gender=Fem|Number=Sing	26	nsubj	_	_
+29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
+30	asi	asi	INTJ	_	_	34	mark	_	_
+31	que	que	SCONJ	_	_	30	fixed	_	_
+32	mejor	mejor	ADV	_	_	34	advmod	_	_
+33	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	36	obj	_	_
+34	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+35	a	a	ADP	_	_	36	mark	_	_
+36	contar	contar	VERB	_	VerbForm=Inf	34	xcomp	_	_
+37	hechos	hecho	NOUN	_	Gender=Masc|Number=Plur	36	obj	_	_
+38	en	en	ADP	_	_	41	mark	_	_
+39	vez	vez	NOUN	_	_	38	fixed	_	_
+40	de	de	ADP	_	_	38	fixed	_	_
+41	describir	describir	VERB	_	VerbForm=Inf	36	conj	_	_
+42	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	43	det	_	_
+43	persona	persona	NOUN	_	Gender=Fem|Number=Sing	41	obj	_	_
+44	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	obl	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	presumir	presumir	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+8	pero	pero	CCONJ	_	_	20	cc	_	_
+9	ya	ya	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	quieren	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	hable	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+15	sobre	sobre	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	vida	vida	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+19	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
+20	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	otra	otro	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	20	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	novio	novio	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	salir	salir	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	Mayo	Mayo	NOUN	_	AdvType=Tim	7	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	para	para	ADP	_	_	12	case	_	_
+12	Junio	Junio	NOUN	_	AdvType=Tim	9	conj	_	_
+13	que	que	PRON	_	_	15	mark	_	_
+14	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	Rusia	Rusia	PROPN	_	_	15	obl	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	ir	ir	VERB	_	VerbForm=Inf	15	advcl	_	_
+20	a	a	ADP	_	_	21	mark	_	_
+21	ver	ver	VERB	_	VerbForm=Inf	19	xcomp	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	mundial	mundial	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	persona	persona	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+28	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	ahí	ahí	ADV	_	_	32	advmod	_	_
+31	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	obj	_	_
+32	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+33	a	a	ADP	_	_	34	case	_	_
+34	Londres	Londres	PROPN	_	_	32	obl	_	_
+35	por	por	ADP	_	_	37	case	_	_
+36	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	semana	semana	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
+38	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	_
+2	Por	por	ADP	_	_	3	case	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Londres	Londres	PROPN	_	_	3	nmod	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+1	Preguntaras	pregunta	VERB	_	VerbForm=Inf	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+3	por	por	ADP	_	_	7	mark	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	pasada	pasado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	ccomp	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	camino	camino	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	*CITY*	*CITY*	PROPN	_	_	15	flat	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Rusia	Rusia	PROPN	_	_	11	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obl	_	_
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aya	aya	ADV	_	_	3	advmod	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	24	24	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
+7	días	día	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	total	total	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	solo	solo	ADV	_	_	13	advmod	_	_
+13	gaste	gastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+14	cerca	cerca	ADV	_	_	17	advmod	_	_
+15	de	de	ADP	_	_	14	case	_	_
+16	trescientos	trescientos	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
+17	dólares	dólar	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	tarugadas	tarugada	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	_
+20	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	21	punct	_	_
+21	recuerdos	recuerdo	NOUN	_	Gender=Masc|Number=Plur	19	appos	_	_
+22	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	21	punct	_	_
+23	para	para	ADP	_	_	24	case	_	_
+24	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	_
+25	y	y	CCONJ	_	_	26	cc	_	_
+26	familia	familia	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Por	por	ADP	_	_	9	advmod	_	_
+2	si	si	SCONJ	_	_	1	fixed	_	_
+3	fuera	fuera	NOUN	_	_	1	fixed	_	_
+4	poco	poco	ADV	_	_	1	fixed	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	en	en	ADP	_	_	8	mark	_	_
+7	cuanto	cuanto	NOUN	_	_	6	fixed	_	_
+8	regresamos	regresar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+9	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	planear	planear	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+13	siguientes	siguiente	ADJ	_	Number=Plur	14	amod	_	_
+14	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	amazonas	amazona	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	dep	_	_
+2	de	de	ADP	_	_	1	case	_	_
+3	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+5	material	material	ADJ	_	Number=Sing	1	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	buen	buen	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	joven	joven	NOUN	_	Number=Sing	0	root	_	_
+12	que	que	PRON	_	PronType=Rel	15	nsubj	_	_
+13	ya	ya	ADV	_	_	15	advmod	_	_
+14	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	graduó	graduar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	*UNIVERSITY*	*university*	PUNCT	_	_	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	metas	meta	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	visión	visión	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+7	clara	claro	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	de	de	ADP	_	_	11	mark	_	_
+9	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	det	_	_
+10	que	que	PRON	_	PronType=Rel	11	obj	_	_
+11	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	vida	vida	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	nunca	nunca	ADV	_	_	4	advmod	_	_
+3	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	anda	andar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	rodeos	rodeo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+7	y	y	CCONJ	_	_	12	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+9	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+10	que	que	SCONJ	_	_	12	mark	_	_
+11	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	confiar	confiar	VERB	_	VerbForm=Inf	4	conj	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

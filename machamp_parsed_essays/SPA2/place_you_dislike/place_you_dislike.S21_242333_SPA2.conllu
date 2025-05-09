@@ -1,0 +1,328 @@
+# Unnamed: 0 = 8
+# id = 242333
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 2
+# age = 20
+# gender = Male
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Comfortable
+# writing ability = Extremely uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = No me gustan partes del mundo donde mucho contaminación es presente. Para mi, el contaminación no es aceptable. Cuides a *CITY* *CITY*, *CITY* *CITY*, y muchos partes del *PLACE* son horrible. El aire es muy difícil de respirar y me duele el pecho. Me siento muy mal por todos los animales que viven en estos lugares. Ojalá los humanos pudieran ser más respetuosos y tratar al mundo con respeto. No me gusta ir a estos lugares porque no me gusta ver lo que esta gente le ha hecho a nuestro maravilloso planeta. La basura es horrible y todo lo que pasa por la basura y la contaminación del medio ambiente. La planeta es muy importante para mi familia y yo. Mis hijos vivirán en partes del planeta no es bonito porque la contaminación. *CITY* *CITY* es el parte del mundo que la contaminación es el peor. El smog en el aire es impossible a vivir un vida normal. Es muy triste para mi porque *CITY* *CITY* es un bonito parte de *PLACE* *PLACE*. Las playas están sucias, y contaminadas. En adición los coches son loco. Hay muchos trafica porque hay demasiada gente. Los personas son muy agitado siempre. Ellos son difícil y fans de los *NAME*. En final, todos los lugares a contaminar son feo. En el futuro, es possible que muchos partes del mundo no es vida porque los personas. Es triste pero aún podemos cambiar y hacer del mundo un lugar mejor. Adios y gracias a crédito adicional.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	partes	parte	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	donde	donde	ADV	_	PronType=Rel	11	advmod	_	_
+8	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
+9	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	presente	presente	ADJ	_	Number=Sing	6	acl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	aceptable	aceptable	ADJ	_	Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Cuides	cuider	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	1	mark	_	_
+3	*CITY*	*city*	PROPN	_	_	1	obj	_	_
+4	*CITY*	*city*	PROPN	_	_	3	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	*CITY*	*CitY*	PROPN	_	_	3	flat	_	_
+7	*CITY*	*city*	PROPN	_	_	6	punct	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
+11	partes	parte	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
+12	del	de	ADP	_	_	13	case	_	_
+13	*PLACE*	*place*	PROPN	_	_	6	punct	_	_
+14	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	horrible	horrible	ADJ	_	Number=Sing	1	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	aire	aire	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	respirar	respirar	VERB	_	VerbForm=Inf	5	acl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	duele	doler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	pecho	pecho	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	mal	mal	ADV	_	_	2	obj	_	_
+5	por	por	ADP	_	_	8	case	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	animales	animal	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
+13	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ojalá	ojalá	INTJ	_	_	7	dep	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	humanos	humano	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	pudieran	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+7	respetuosos	respetuoso	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	tratar	tratar	VERB	_	VerbForm=Inf	7	conj	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	respeto	respeto	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obl	_	_
+11	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	ver	ver	VERB	_	VerbForm=Inf	11	csubj	_	_
+13	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
+14	que	que	PRON	_	PronType=Rel	19	obj	_	_
+15	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	_
+16	gente	gente	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
+17	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+18	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	_
+20	a	a	ADP	_	_	23	case	_	_
+21	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+22	maravilloso	maravilloso	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
+23	planeta	planeta	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	basura	basura	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	horrible	horrible	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+7	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	basura	basura	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	_
+16	del	de	ADP	_	_	17	case	_	_
+17	medio	medio	NOUN	_	_	12	nmod	_	_
+18	ambiente	ambiente	NOUN	_	_	17	compound	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	planeta	planeta	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vivirán	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	partes	parte	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	planeta	planeta	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	5	dep	_	_
+2	*CITY*	*city*	SYM	_	_	5	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	parte	parte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	5	acl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	smog	smog	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	aire	aire	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	impossible	impossible	ADJ	_	Number=Sing	0	root	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	vivir	vivir	VERB	_	VerbForm=Inf	7	acl	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	vida	vida	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	normal	normal	ADJ	_	Number=Sing	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	porque	porque	SCONJ	_	_	12	mark	_	_
+7	*CITY*	*city*	PROPN	_	_	12	nsubj	_	_
+8	*CITY*	*city*	PROPN	_	_	7	punct	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+12	parte	parte	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*PLACE*	*place*	PROPN	_	_	7	punct	_	_
+15	*PLACE*	*place*	PROPN	_	_	14	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	playas	playa	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	sucias	sucio	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	contaminadas	contaminado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	6	advmod	_	_
+2	adición	adición	NOUN	_	_	1	fixed	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	coches	coche	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	loco	loco	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	trafica	trafic	NOUN	_	Number=Plur	1	obj	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	demasiada	demasiado	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	gente	gente	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	personas	persona	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	agitado	agitado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	siempre	siempre	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	fans	fan	NOUN	_	Number=Plur	3	conj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	NAME	NAME	PROPN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	10	advmod	_	_
+2	final	final	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	contaminar	contaminar	VERB	_	VerbForm=Inf	6	acl	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	feo	feo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	possible	possible	ADJ	_	Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	14	mark	_	_
+8	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	partes	parte	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	csubj	_	_
+15	porque	porque	SCONJ	_	_	17	mark	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	personas	persona	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+3	pero	pero	CCONJ	_	_	6	cc	_	_
+4	aún	aún	ADV	_	_	6	advmod	_	_
+5	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	cambiar	cambiar	VERB	_	VerbForm=Inf	2	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	6	conj	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+13	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Adios	adios	NOUN	_	_	0	root	_	_
+2	y	y	CCONJ	_	_	5	cc	_	_
+3	gracias	gracias	NOUN	_	_	5	case	_	_
+4	a	a	ADP	_	_	3	fixed	_	_
+5	crédito	crédito	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+6	adicional	adicional	ADJ	_	Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

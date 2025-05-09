@@ -1,0 +1,222 @@
+# Unnamed: 0 = 21
+# id = 229530
+# prompt = yourself
+# quarter = F20
+# course = SPA 1Y
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy es un estudiante en *UNIVERSITY* *UNIVERSITY*. Yo estudio Psychology. [Yo]{}<pr:su:pron> vivo en *CITY* *CITY*, *STATE*. Mi cumpleanos es en *BIRTH_DATE*. El invierno es mi estacione [favorito]{favorita}<ga:adj>. [Yo]{}<pr:su:pron> no puedo cocinar pero tiene aprendar como conciar. [Yo]{}<pr:su:pron> tiene [uno]{una}<ga:det:art:indef> hermana y uno hermano. Mi gusta ver Netflix, comprando con mi amigas y hermanos, y ir a la playa. Mi gusta ver la serie New Girl. Ese fin de semana voy a ir a la playa con mi familia. Mi familia no tiene mascotas. Me gusta comer hamburgesas, fruta, pollo, pasta, y pizza. Me gusta beber te con azucar y leche. Tambien gusta beber cafe con azucar y leche. Tu tiene comer y beber esta comida en el avion. En clase de epsanol esta semana [yo]{}<pr:su:pron> aprendar como reserva una habitacion de hotel. [Yo]{}<pr:su:pron> tiene aprendar mucho vocabulario nuevo. Esta semana [yo]{}<pr:su:pron> tambien aprendar mucho vocabulario nuevo en mi clase de biologia.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy es [un]{una}<ga:det> estudiante en *UNIVERSITY* *UNIVERSITY*. [Yo]{}<pr:su:pron> estudio Psychology. [Yo]{}<pr:su:pron> vivo en *CITY* *CITY*, *STATE*. Mi cumpleanos es en *BIRTH_DATE*. El invierno es mi estacione [favorito]{favorita}<ga:adj>. [Yo]{}<pr:su:pron> no puedo cocinar pero [tiene]{tengo}<fs:st:pn> [aprendar]{aprender}<fs:st:r> como [conciar]{cocinar}<fs:st:r>. [Yo]{}<pr:su:pron> [tiene]{tengo}<fs:st:pn> [uno]{una}<ga:det> hermana y uno hermano. Mi gusta ver Netflix, [comprando]{comprar}<fs:st:t> con [mi]{mis}<na:det> amigas y hermanos, y ir a la playa. Mi gusta ver la serie New Girl. Ese fin de semana voy a ir a la playa con mi familia. Mi familia no tiene mascotas. Me gusta comer hamburgesas, fruta, pollo, pasta, y pizza. Me gusta beber te con azucar y leche. Tambien gusta beber cafe con azucar y leche. [Tu]{}<pr:su:pron> [tiene]{tienes}<fs:st:pn> comer y beber esta comida en el avion. En clase de epsanol esta semana [yo]{}<pr:su:pron> [aprendar]{he aprendido}<fs:st:r:t> como [reserva]{reservar}<fs:st:t> una habitacion de hotel. [Yo]{}<pr:su:pron> [tiene]{tengo}<fs:st:pn> [aprendar]{aprender}<fs:st:r> mucho vocabulario nuevo. Esta semana [yo]{}<pr:su:pron> tambien [aprendar]{he aprendido}<fs:st:r:t> mucho vocabulario nuevo en mi clase de biologia.
+# verbs annotation ann2 = nan
+# corrected1 = Soy es un estudiante en *UNIVERSITY* *UNIVERSITY*. Yo estudio psicología. vivo en *CITY* *CITY*, *STATE*. Mi cumpleaños es en marzo. El invierno es mi estación favorita. no puedo cocinar, pero tengo que aprender a cocinar. Tengo una hermana y un hermano. Me gusta ver Netflix, comprar con mi amigas y hermanos e ir a la playa. Me gusta ver la serie New Girl. Este fin de semana voy a ir a la playa con mi familia. Mi familia no tiene mascotas. Me gusta comer hamburguesas, fruta, pollo, pasta y pizza. Me gusta beber té con azúcar y leche. También me gusta beber café con azúcar y leche. Tienes que comer y beber esta comida en el avión. En clase de español esta semana he aprendido cómo reservar una habitación de hotel. Tengo que aprender mucho vocabulario nuevo. Esta semana también he aprendido mucho vocabulario nuevo en mi clase de biología.
+# corrected2 = nan
+# text = Soy es un estudiante en *UNIVERSITY* *UNIVERSITY*. Yo estudio Psychology. Yo vivo en *CITY* *CITY*, *STATE*. Mi cumpleanos es en *BIRTH_DATE*. El invierno es mi estacione favorito. Yo no puedo cocinar pero tiene aprendar como conciar. Yo tiene uno hermana y uno hermano. Mi gusta ver Netflix, comprando con mi amigas y hermanos, y ir a la playa. Mi gusta ver la serie New Girl. Ese fin de semana voy a ir a la playa con mi familia. Mi familia no tiene mascotas. Me gusta comer hamburgesas, fruta, pollo, pasta, y pizza. Me gusta beber te con azucar y leche. Tambien gusta beber cafe con azucar y leche. Tu tiene comer y beber esta comida en el avion. En clase de epsanol esta semana yo aprendar como reserva una habitacion de hotel. Yo tiene aprendar mucho vocabulario nuevo. Esta semana yo tambien aprendar mucho vocabulario nuevo en mi clase de biologia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	*university*	PROPN	_	_	4	nmod	_	_
+7	*UNIVERSITY*	*university*	PUNCT	_	_	6	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Psychology	Psychology	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	obl	_	_
+5	*CITY*	*city*	PROPN	_	_	4	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	*STATE*	*state*	SYM	_	_	4	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleanos	cumpleano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	estacione	estacione	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	cocinar	cocinar	VERB	_	VerbForm=Inf	0	root	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	aprendar	aprendar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	como	como	SCONJ	_	_	9	mark	_	_
+9	conciar	conciar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uno	uno	NUM	_	Gender=Masc|Number=Sing|PronType=Ind	4	nummod	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	uno	uno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	Netflix	Netflix	PROPN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	comprando	comprar	VERB	_	VerbForm=Ger	3	advcl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	ir	ir	VERB	_	VerbForm=Inf	3	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	playa	playa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	serie	serie	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	New	New	PROPN	_	_	5	appos	_	_
+7	Girl	Girl	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	fin	fin	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	ir	ir	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	playa	playa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mascotas	mascota	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	hamburgesas	hamburgesa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	fruta	fruta	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	pizza	pizza	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	beber	beber	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	azucar	azucar	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	leche	leche	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	2	advmod	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	beber	beber	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	cafe	cafe	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	azucar	azucar	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	leche	leche	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	beber	beber	VERB	_	VerbForm=Inf	3	conj	_	_
+6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	comida	comida	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	avion	avion	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	epsanol	epsanol	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	aprendar	aprendar	VERB	_	VerbForm=Inf	0	root	_	_
+9	como	como	SCONJ	_	_	10	mark	_	_
+10	reserva	reserva	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	habitacion	habitacion	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aprendar	aprendar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	vocabulario	vocabulario	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	semana	semana	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	tambien	tambien	NOUN	_	_	5	aux	_	_
+5	aprendar	aprendar	VERB	_	VerbForm=Inf	0	root	_	_
+6	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	vocabulario	vocabulario	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	clase	clase	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	biologia	biologia	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

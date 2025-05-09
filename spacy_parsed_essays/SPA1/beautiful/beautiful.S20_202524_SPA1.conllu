@@ -1,0 +1,214 @@
+# Unnamed: 0 = 68
+# id = 202524
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Había muchas flores el día que conocí a mi novio. Un día en la primavera, mi amigo me presentó a un niño llamado *FIRST_NAME* que tiene *AGE* años. Era muy activo, cómico y inteligente. Él especialización es biología. De inmediato, comencé a admirarlo por su compresión y personalidad compasiva. Nos acompañamos mutuamente con todo lo que hicimos y compartimos mucha información entre nosotros. Nos apoyamos mutuamente y entendemos nuestras fortalezas y debilidades. No siempre fácil, pero resolvemos nuestros conflictos juntos y preservamos nuestra relación. Nos completamos unos a otros. [Él]{}<ab:su:pron> Escuchó lo que dije y nunca habló mal. Pasamos mucho tiempo juntos y salimos a caminar por la mañana en el parque. [Él]{}<ab:su:pron> Me prepara el desayuno, []{el}<ab:det:art:def> almuerzo, y la cena en la cocina y yo limpio los platos.  Estoy tan feliz de haberlo permitido en mi vida. Tengo mucha suerte de tenerlo en mi vida y despertar junto a él todas las mañanas.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Había muchas flores el día que conocí a mi novio. Un día en [la]{}<pr:det:art:def> primavera, mi amigo me presentó a un niño llamado *FIRST_NAME* que tiene *AGE* años. Era muy activo, cómico y inteligente. Él especialización es biología. De inmediato, comencé a admirarlo por su compresión y personalidad compasiva. Nos acompañamos mutuamente con todo lo que hicimos y compartimos mucha información entre nosotros. Nos apoyamos mutuamente y entendemos nuestras fortalezas y debilidades. No siempre fácil, pero resolvemos nuestros conflictos juntos y preservamos nuestra relación. Nos completamos []{el}<ab:det:art:def> [unos]{uno}<na:pron> [a]{al}<ab:det:art:def> [otros]{otro}<na:pron>. Escuchó lo que dije y nunca habló mal. Pasamos mucho tiempo juntos y salimos a caminar por la mañana en el parque. Me prepara el desayuno, almuerzo, y la cena en la cocina y yo limpio los platos.  Estoy tan feliz de haberlo permitido en mi vida. Tengo mucha suerte de tenerlo en mi vida y despertar junto a él todas las mañanas.
+# verbs annotation ann2 = nan
+# corrected1 = Había muchas flores el día que conocí a mi novio. Un día en la primavera, mi amigo me presentó a un chico llamado *FIRST_NAME* que tenía *AGE* años. Era muy activo, divertido e inteligente. Su especialización era Biología. De inmediato, comencé a admirarlo por su compresión y personalidad compasiva. Somos compañeros en todo lo que hacemos y compartimos mucha información entre nosotros. Nos apoyamos mutuamente y entendemos nuestras fortalezas y debilidades. No siempre es fácil, pero resolvemos nuestros conflictos juntos y preservamos nuestra relación. Nos completamos el uno al otro. Él escucha lo que le digo y nunca me habla mal. Pasamos mucho tiempo juntos y salimos a caminar por las mañanas en el parque. Él me prepara el desayuno, el almuerzo y la cena en la cocina, y yo limpio los platos. Estoy muy feliz de haberlo dejado entrar en mi vida. Tengo mucha suerte de tenerlo en mi vida y despertar junto a él todas las mañanas.
+# corrected2 = nan
+# text = Había muchas flores el día que conocí a mi novio. Un día en la primavera, mi amigo me presentó a un niño llamado *FIRST_NAME* que tiene *AGE* años. Era muy activo, cómico y inteligente. Él especialización es biología. De inmediato, comencé a admirarlo por su compresión y personalidad compasiva. Nos acompañamos mutuamente con todo lo que hicimos y compartimos mucha información entre nosotros. Nos apoyamos mutuamente y entendemos nuestras fortalezas y debilidades. No siempre fácil, pero resolvemos nuestros conflictos juntos y preservamos nuestra relación. Nos completamos unos a otros. Escuchó lo que dije y nunca habló mal. Pasamos mucho tiempo juntos y salimos a caminar por la mañana en el parque. Me prepara el desayuno, almuerzo, y la cena en la cocina y yo limpio los platos. Estoy tan feliz de haberlo permitido en mi vida. Tengo mucha suerte de tenerlo en mi vida y despertar junto a él todas las mañanas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Había	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	flores	flor	NOUN	_	_	1	obj	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	día	día	NOUN	_	_	1	obl	_	_
+6	que	que	PRON	_	_	7	nsubj	_	_
+7	conocí	conocí	VERB	_	_	5	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	novio	novio	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Un	uno	DET	_	_	2	det	_	_
+2	día	día	NOUN	_	_	10	obl	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	primavera	primavera	NOUN	_	_	2	nmod	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	amigo	amigo	NOUN	_	_	10	nsubj	_	_
+9	me	yo	PRON	_	_	10	obj	_	_
+10	presentó	presentar	VERB	_	_	0	ROOT	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	niño	niño	NOUN	_	_	10	obj	_	_
+14	llamado	llamado	ADJ	_	_	13	amod	_	_
+15	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	14	obj	_	_
+16	que	que	PRON	_	_	17	nsubj	_	_
+17	tiene	tener	VERB	_	_	13	acl	_	_
+18	*AGE*	AGE	PROPN	_	_	17	nsubj	_	_
+19	años	año	NOUN	_	_	18	flat	_	_
+20	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Era	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	activo	activo	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	cómico	cómico	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	inteligente	inteligente	ADJ	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	2	nmod	_	_
+2	especialización	especialización	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	biología	biología	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	De	de	ADP	_	_	4	advmod	_	_
+2	inmediato	inmediato	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	comencé	comencé	NOUN	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	admirarlo	admirar él	VERB	_	_	4	xcomp	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	compresión	compresión	NOUN	_	_	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	personalidad	personalidad	NOUN	_	_	9	conj	_	_
+12	compasiva	compasivo	ADJ	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	expl:pv	_	_
+2	acompañamos	acompañar	VERB	_	_	0	ROOT	_	_
+3	mutuamente	mutuamente	ADV	_	_	2	advmod	_	_
+4	con	con	ADP	_	_	8	mark	_	_
+5	todo	todo	DET	_	_	6	det	_	_
+6	lo	él	PRON	_	_	8	det	_	_
+7	que	que	PRON	_	_	8	obj	_	_
+8	hicimos	hacer	VERB	_	_	2	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	compartimos	compartir	VERB	_	_	2	conj	_	_
+11	mucha	mucho	DET	_	_	12	det	_	_
+12	información	información	NOUN	_	_	10	obj	_	_
+13	entre	entre	ADP	_	_	14	case	_	_
+14	nosotros	yo	PRON	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	expl:pv	_	_
+2	apoyamos	apoyar	VERB	_	_	0	ROOT	_	_
+3	mutuamente	mutuamente	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	entendemos	entender	VERB	_	_	2	conj	_	_
+6	nuestras	nuestro	DET	_	_	7	det	_	_
+7	fortalezas	fortaleza	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	debilidades	debilidad	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	fácil	fácil	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	resolvemos	resolver	VERB	_	_	3	conj	_	_
+7	nuestros	nuestro	DET	_	_	8	det	_	_
+8	conflictos	conflicto	NOUN	_	_	6	obj	_	_
+9	juntos	junto	ADJ	_	_	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	preservamos	preservar	VERB	_	_	6	conj	_	_
+12	nuestra	nuestro	DET	_	_	13	det	_	_
+13	relación	relación	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	expl:pv	_	_
+2	completamos	completar	VERB	_	_	0	ROOT	_	_
+3	unos	uno	PRON	_	_	2	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	otros	otro	PRON	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Escuchó	escuchar	VERB	_	_	0	ROOT	_	_
+2	lo	él	PRON	_	_	4	det	_	_
+3	que	que	PRON	_	_	4	obj	_	_
+4	dije	decir	VERB	_	_	1	ccomp	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	nunca	nunca	ADV	_	_	7	advmod	_	_
+7	habló	hablar	VERB	_	_	1	conj	_	_
+8	mal	mal	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pasamos	pasar	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	1	obj	_	_
+4	juntos	junto	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	salimos	salir	VERB	_	_	1	conj	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	caminar	caminar	VERB	_	_	6	xcomp	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	mañana	mañana	NOUN	_	_	8	obl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	parque	parque	NOUN	_	_	8	obl	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	prepara	preparar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	desayuno	desayuno	NOUN	_	_	2	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	almuerzo	almuerzo	NOUN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	cena	cena	NOUN	_	_	4	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	cocina	cocina	NOUN	_	_	10	nmod	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	yo	yo	PRON	_	_	16	nsubj	_	_
+16	limpio	limpiar	VERB	_	_	2	conj	_	_
+17	los	el	DET	_	_	18	det	_	_
+18	platos	plato	NOUN	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	mark	_	_
+5	haberlo	haber él	AUX	_	_	6	aux	_	_
+6	permitido	permitir	VERB	_	_	3	acl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	vida	vida	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	mucha	mucho	DET	_	_	3	det	_	_
+3	suerte	suerte	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	tenerlo	tener él	VERB	_	_	3	acl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	vida	vida	NOUN	_	_	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	despertar	despertar	VERB	_	_	5	conj	_	_
+11	junto	junto	ADJ	_	_	13	case	_	_
+12	a	a	ADP	_	_	11	fixed	_	_
+13	él	él	PRON	_	_	10	obl	_	_
+14	todas	todo	DET	_	_	15	det	_	_
+15	las	el	DET	_	_	16	det	_	_
+16	mañanas	mañana	NOUN	_	_	10	obj	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+

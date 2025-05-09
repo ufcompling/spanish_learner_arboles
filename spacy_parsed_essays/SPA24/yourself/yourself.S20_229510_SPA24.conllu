@@ -1,0 +1,363 @@
+# Unnamed: 0 = 116
+# id = 229510
+# prompt = yourself
+# quarter = S20
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 5.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Soy de *CITY* *CITY*, *STATE*. Viví allí por 18 años. Ahora, vivo en *CITY*, *STATE* y voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el región *PLACE*. Me gusta *CITY* mucho más que *CITY* *CITY* porque no hay tantas personas en *CITY*. Mi parte favorita de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me gustan las matemáticas porque los números son una gran parte de nuestras vidas. También, las formulas están presentes en la naturaleza. Es interesante hacer modelos de la vida que tienen sentido. También, me gusta el idioma español más que el inglés porque sus reglas tienen sentido. Las reglas son muy importantes para mi. El orden y las reglas son buenos e importantes.  Tengo el pelo rubio y castaño, los ojos azules, y la piel blanca. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La comodidad es más importante. Unas veces llevo un vestido, en las ocasiones que quiero sentirme bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. Todos los programas son muy buenos, interesantes, y cómicos. Los recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Los amo mucho. Cuando estamos juntos, miramos la televisión y jugamos a juegos. 
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de *CITY* *CITY*, *STATE*. [Vivía]{Viví}<fs:st:t> allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente [el]{la}<gat:det> [region]{región}<gat:noun> [*PLACE*]{tercera}<gat:adj>. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay [tantos]{tantas}<ga:det> personas en *CITY*. Mi parte [favorito]{favorita}<ga:adj> de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me [gusta]{gustan}<fs:st:pn> las matemáticas porque los números son [un]{una}<ga:det> gran parte de [nuestros]{nuestras}<ga:det> vidas. También, las formulas [son]{están}<conf:v:seta> [presente]{presentes}<na:adj> en la naturaleza. Es interesante hacer modelos de la vida que tienen [sentidos]{sentido}<in:noun>. También, me gusta [la]{el}<gat:det> [idioma]{idioma}<gat:noun> español más de []{el}<ab:det:art:def> ingles porque sus reglas tienen [sentidos]{sentido}<in:noun>. []{Las}<ab:det:art:def> Reglas son muy importantes a mi. [La]{El}<ga:det> orden y las reglas son buenos y importantes.  Tengo []{el}<ab:det:art:def> pelo rubio y castaño, []{los}<ab:det:art:def> ojos azules, y []{la}<ab:det:art:def> piel [blanco]{blanca}<ga:adj>. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. [Unos]{Unas}<ga:det> veces llevo un vestido, en las ocasiones que quiero sentir bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. [Todas]{Todos}<gat:det> [las]{los}<gat:det> [programas]{programas}<gat:noun> son muy [buenas]{buenos}<gat:adj>, [interesantes]{interesantes}<gat:adj>, y [cómicas]{cómicos}<gat:adj>. [Las]{Los}<gat:pron> recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. [Ellos]{}<pr:su:pron> son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Soy de *CITY* *CITY*, *STATE*. Vivía allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el region *PLACE*. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay [tantos]{tantas}<ga:adj> personas en *CITY*. Mi parte [favorito]{favorita}<ga:adj> de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me gusta las matemáticas porque los números son [un]{una}<ga:det> gran parte de [nuestros]{nuestras}<ga:adj> vidas. También, las formulas [son]{están}<conf:v:seta> [presente]{presentes}<na:adj> en la naturaleza. Es interesante hacer modelos de la vida que tienen [sentidos]{sentido}<in:noun>. También, me gusta [la]{el}<ga:det> idioma español más de ingles porque sus reglas tienen sentidos. []{Las}<ab:det:art:def> Reglas son muy importantes a mi. [La]{El}<ga:det> orden y las reglas son buenos y importantes.  Tengo []{el}<ab:det:art:def> pelo rubio y castaño, []{los}<ab:det:art:def> ojos azules, y []{la}<ab:det:art:def> piel [blanco]{blanca}<ga:adj>. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. [Unos]{Unas}<ga:det> veces llevo un vestido, en las ocasiones que quiero sentir bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. [Todas]{Todos}<gat:adj> [las]{los}<gat:det> programas son muy [buenas]{buenos}<gat:adj>, interesantes, y [cómicas]{cómicos}<gat:adj>. [Las]{Los}<gat:det> recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# corrected2 = nan
+# text = Soy de *CITY* *CITY*, *STATE*. Vivía allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el region *PLACE*. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay tantos personas en *CITY*. Mi parte favorito de *CITY* es la lluvia. Estoy estudiando matemáticas y español en la universidad. Me gusta las matemáticas porque los números son un gran parte de nuestros vidas. También, las formulas son presente en la naturaleza. Es interesante hacer modelos de la vida que tienen sentidos. También, me gusta la idioma español más de ingles porque sus reglas tienen sentidos. Reglas son muy importantes a mi. La orden y las reglas son buenos y importantes. Tengo pelo rubio y castaño, ojos azules, y piel blanco. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. Unos veces llevo un vestido, en las ocasiones que quiero sentir bella. Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. Todas las programas son muy buenas, interesantes, y cómicas. Las recomiendo. Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vivía	vivir	VERB	_	_	0	ROOT	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	18	18	NUM	_	_	5	nummod	_	_
+5	años	año	NOUN	_	_	1	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	vivo	vivo	ADJ	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*STATE*	STATE	PROPN	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	atento	atentar	VERB	_	_	3	conj	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	Universidad	Universidad	PROPN	_	_	9	obj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	11	flat	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	11	flat	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	dormitorios	dormitorio	NOUN	_	_	1	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	específicamente	específicamente	ADV	_	_	8	advmod	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	region	region	PROPN	_	_	1	conj	_	_
+9	*PLACE*	PLACE	PROPN	_	_	8	appos	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	*CITY*	CITY	PROPN	_	_	2	nsubj	_	_
+4	mucho	mucho	ADV	_	_	8	advmod	_	_
+5	más	más	ADV	_	_	4	advmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	4	nmod	_	_
+8	*CITY*	CITY	PROPN	_	_	2	nsubj	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	no	no	ADV	_	_	11	advmod	_	_
+11	hay	haber	AUX	_	_	2	advcl	_	_
+12	tantos	tanto	DET	_	_	13	det	_	_
+13	personas	persona	NOUN	_	_	11	obj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	CITY	PROPN	_	_	11	obl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	parte	parte	NOUN	_	_	8	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	lluvia	lluvia	NOUN	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	estudiando	estudiar	VERB	_	_	0	ROOT	_	_
+3	matemáticas	matemática	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	español	español	ADJ	_	_	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	universidad	universidad	NOUN	_	_	3	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	matemáticas	matemática	NOUN	_	_	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	11	mark	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	números	número	NOUN	_	_	11	nsubj	_	_
+8	son	ser	AUX	_	_	11	cop	_	_
+9	un	uno	DET	_	_	11	det	_	_
+10	gran	gran	ADJ	_	_	11	amod	_	_
+11	parte	parte	NOUN	_	_	2	advcl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	nuestros	nuestro	DET	_	_	14	det	_	_
+14	vidas	vida	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	formulas	formula	NOUN	_	_	6	nsubj	_	_
+5	son	ser	AUX	_	_	6	cop	_	_
+6	presente	presente	ADJ	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	naturaleza	naturaleza	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	interesante	interesante	ADJ	_	_	0	ROOT	_	_
+3	hacer	hacer	VERB	_	_	2	csubj	_	_
+4	modelos	modelo	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	vida	vida	NOUN	_	_	4	nmod	_	_
+8	que	que	PRON	_	_	9	obj	_	_
+9	tienen	tener	VERB	_	_	7	acl	_	_
+10	sentidos	sentido	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	idioma	idioma	NOUN	_	_	4	nsubj	_	_
+7	español	español	ADJ	_	_	6	amod	_	_
+8	más	más	ADV	_	_	6	advmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	ingles	ingl	NOUN	_	_	6	nmod	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	sus	su	DET	_	_	13	det	_	_
+13	reglas	regla	NOUN	_	_	14	nsubj	_	_
+14	tienen	tener	VERB	_	_	4	advcl	_	_
+15	sentidos	sentido	ADJ	_	_	14	obj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Reglas	Reglas	PROPN	_	_	4	nsubj	_	_
+2	son	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	importantes	importante	ADJ	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	mi	mi	PROPN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	orden	orden	NOUN	_	_	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	reglas	regla	NOUN	_	_	2	conj	_	_
+6	son	ser	AUX	_	_	7	cop	_	_
+7	buenos	buen	ADJ	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	importantes	importante	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	pelo	pelo	NOUN	_	_	1	obj	_	_
+3	rubio	rubio	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	castaño	castaño	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ojos	ojo	NOUN	_	_	2	conj	_	_
+8	azules	azul	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	piel	piel	NOUN	_	_	2	conj	_	_
+12	blanco	blanco	ADJ	_	_	11	amod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	baja	bajo	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Muchos	mucho	DET	_	_	2	det	_	_
+2	días	día	NOUN	_	_	4	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	llevo	llevar	VERB	_	_	0	ROOT	_	_
+5	pantalones	pantalón	NOUN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	camiseta	camiseta	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	cómoda	cómoda	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	más	más	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Unos	uno	DET	_	_	2	det	_	_
+2	veces	vez	NOUN	_	_	3	obl	_	_
+3	llevo	llevar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	vestido	vestido	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	ocasiones	ocasión	NOUN	_	_	3	obl	_	_
+10	que	que	PRON	_	_	11	iobj	_	_
+11	quiero	querer	VERB	_	_	9	acl	_	_
+12	sentir	sentir	VERB	_	_	11	xcomp	_	_
+13	bella	bello	ADJ	_	_	12	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	dormir	dormir	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	mirar	mirar	VERB	_	_	3	advcl	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	televisión	televisión	NOUN	_	_	5	obj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pasar	pasar	VERB	_	_	3	conj	_	_
+11	tiempo	tiempo	NOUN	_	_	10	obj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	familia	familia	NOUN	_	_	10	obl	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	específicamente	específicamente	ADV	_	_	10	advmod	_	_
+17	mi	mi	DET	_	_	18	det	_	_
+18	perrito	perrito	NOUN	_	_	16	fixed	_	_
+19	que	que	SCONJ	_	_	21	mark	_	_
+20	se	él	PRON	_	_	21	expl:pv	_	_
+21	llama	llamar	VERB	_	_	18	acl	_	_
+22	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	21	obj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Miro	mirar	VERB	_	_	0	ROOT	_	_
+2	Brooklyn	Brooklyn	PROPN	_	_	1	flat	_	_
+3	99	99	NUM	_	_	2	nummod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	parques	parque	NOUN	_	_	1	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	recreación	recreación	NOUN	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	30	30	NUM	_	_	11	nummod	_	_
+11	Rock	Rock	PROPN	_	_	1	conj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Todas	todo	DET	_	_	2	det	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	programas	programa	NOUN	_	_	6	nsubj	_	_
+4	son	ser	AUX	_	_	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	buenas	buena	ADJ	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	interesantes	interesante	ADJ	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	cómicas	cómica	NOUN	_	_	6	conj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	recomiendo	recomeir	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	padre	padre	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	madre	madre	NOUN	_	_	3	appos	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	hermana	hermana	NOUN	_	_	6	appos	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	perrito	perrito	NOUN	_	_	3	conj	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	que	que	PRON	_	_	17	nsubj	_	_
+16	se	él	PRON	_	_	17	expl:pv	_	_
+17	llama	llamar	VERB	_	_	13	acl	_	_
+18	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	17	obj	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	13	appos	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	13	appos	_	_
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	y	y	CCONJ	_	_	25	cc	_	_
+25	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	conj	_	_
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ellos	él	PRON	_	_	4	nsubj	_	_
+2	son	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	importantes	importante	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Viven	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	casa	casa	NOUN	_	_	1	obl	_	_
+5	larga	largo	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	está	estar	VERB	_	_	3	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	prepa	prepa	NOUN	_	_	7	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	estamos	estar	AUX	_	_	3	cop	_	_
+3	juntos	junto	ADJ	_	_	5	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	miramos	mirar	VERB	_	_	0	ROOT	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	televisión	televisión	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	jugamos	jugar	VERB	_	_	7	conj	_	_
+10	juegos	juegos	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+

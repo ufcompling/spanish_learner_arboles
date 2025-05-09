@@ -1,0 +1,70 @@
+# Unnamed: 0 = 175
+# id = 263263
+# prompt = yourself
+# quarter = W21
+# course = SPA 32
+# age = 18
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME* *LAST_NAME*. Yo naci en *CITY* *STATE*, pero mis padres imigraron de un pueblo llamado *CITY* *STATE*. Mi padre vino a los Estados Unidos a los *AGE* anos y empezo su carera e
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	*LAST_NAME*	last_name	VERB	_	_	4	punct	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	naci	naci	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	*STATE*	STATE	PROPN	_	_	2	obj	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	mis	mi	DET	_	_	9	det	_	_
+9	padres	padre	NOUN	_	_	10	nsubj	_	_
+10	imigraron	emigrar	VERB	_	_	2	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	un	uno	DET	_	_	13	det	_	_
+13	pueblo	pueblo	NOUN	_	_	10	obj	_	_
+14	llamado	llamado	ADJ	_	_	13	amod	_	_
+15	*CITY*	CITY	PROPN	_	_	14	obj	_	_
+16	*STATE*	STATE	PROPN	_	_	15	flat	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	3	nsubj	_	_
+3	vino	venir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	Estados	Estados	PROPN	_	_	3	obj	_	_
+7	Unidos	Unidos	PROPN	_	_	6	flat	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+11	anos	ano	ADJ	_	_	10	flat	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	empezo	empezo	VERB	_	_	3	conj	_	_
+14	su	su	DET	_	_	15	det	_	_
+15	carera	carera	NOUN	_	_	13	obj	_	_
+16	e	e	CCONJ	_	_	3	punct	_	_
+

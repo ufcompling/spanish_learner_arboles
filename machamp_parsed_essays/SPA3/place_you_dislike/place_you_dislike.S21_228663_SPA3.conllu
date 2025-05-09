@@ -1,0 +1,329 @@
+# Unnamed: 0 = 3
+# id = 228663
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 3
+# age = 19
+# gender = Male
+# l1 language = 2
+# other l1 language(s) = Other
+# language(s) used at home = 4 or more
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = *PLACE* *PLACE* es mi hogar y la amo mucho. Intento visitarlo tanto como puedo, al menos una vez al año, y hay varias cosas que no me gustan. Como indio que vivía en *PLACE* y estudia en los *PLACE* *PLACE*, la gente a veces me trata de manera diferente. Esto no pasa mucho, pero solía pasar. Además, un gran porcentaje de *PLACE* *PLACE* tiene alcantarillado abierto, ganado en la calle y el medio ambiente es muy tóxico. La gente no tiene los mejores modales en la carretera. La contaminación en áreas metropolitanas como *CITY* y *CITY* es demasiado. Afortunadamente, la mayoría de los automóviles y las casas tienen aire acondicionado, pero la gente pobre en las calles sufre mucho. Además, *PLACE* *PLACE* también tiene mucha pobreza y al menos 2 familias viven en un lado de la calle. Lo que más me disgusta son los conductores, ya que es muy común que escupen en la carretera, ensuciándola y oliendo mal. *PLACE* no está del todo tranquila. En mi casa, cada mañana y cada noche los autos tocaban la bocina y tenían los peores modales en la carretera. A las dos de la noche o a las 6 de la tarde, siempre se oía ruido. Por último, los medios indios son los peores y los periodistas solo se preocupan por una cosa: qué noticias atraerán a la mayoría de las personas y no les importan mucho las cosas importantes. *PLACE* sigue siendo un gran país, pero tiene potencial para ser mucho mejor de lo que es.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*PLACE*	*place*	SYM	_	_	5	dep	_	_
+2	*PLACE*	*place*	SYM	_	_	5	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Intento	intentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	visitarlo	visitar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	tanto	tanto	ADV	_	_	2	advmod	_	_
+4	como	como	SCONJ	_	_	3	mark	_	_
+5	puedo	poder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	al	a	ADP	_	_	10	case	_	_
+8	menos	menos	ADV	_	Degree=Cmp	7	fixed	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+11	al	a	ADP	_	_	12	case	_	_
+12	año	año	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+16	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
+17	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	_
+18	que	que	PRON	_	PronType=Rel	21	nsubj	_	_
+19	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
+20	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	21	obl	_	_
+21	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Como	como	SCONJ	_	_	2	mark	_	_
+2	indio	indio	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
+4	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*PLACE*	*Place*	PROPN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	*PLACE*	*place*	PROPN	_	_	8	obj	_	_
+12	*PLACE*	*place*	PUNCT	_	_	11	punct	_	_
+13	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	gente	gente	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
+16	a	a	ADP	_	_	19	advmod	_	_
+17	veces	veces	NOUN	_	_	16	fixed	_	_
+18	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obj	_	_
+19	trata	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	manera	manera	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
+22	diferente	diferente	ADJ	_	Number=Sing	21	amod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	19	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	pero	pero	CCONJ	_	_	7	cc	_	_
+7	solía	soler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+8	pasar	pasar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Además	además	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	gran	gran	ADJ	_	Number=Sing	5	amod	_	_
+5	porcentaje	porcentaje	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*PLACE*	*PlacE*	PROPN	_	_	5	nmod	_	_
+8	*PLACE*	*place*	PROPN	_	_	7	punct	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	alcantarillado	alcantarillado	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	amod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	ganado	ganado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advmod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	calle	calle	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+17	y	y	CCONJ	_	_	23	cc	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	medio	medio	NOUN	_	_	23	nsubj	_	_
+20	ambiente	ambiente	NOUN	_	_	19	compound	_	_
+21	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+22	muy	mucho	ADV	_	_	23	advmod	_	_
+23	tóxico	tóxico	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	7	amod	_	_
+7	modales	modal	NOUN	_	Number=Plur	4	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	contaminación	contaminación	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	áreas	área	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+5	metropolitanas	metropolitano	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+6	como	como	SCONJ	_	_	7	advcl	_	_
+7	*CITY*	*city*	PROPN	_	_	4	appos	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	*CITY*	*city*	PROPN	_	_	7	punct	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	demasiado	demasiado	ADV	_	_	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Afortunadamente	afortunadamente	ADV	_	_	11	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+5	de	de	ADP	_	_	4	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+7	automóviles	automóvil	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	casas	casa	NOUN	_	Gender=Fem|Number=Plur	7	conj	_	_
+11	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	aire	aire	NOUN	_	_	11	obj	_	_
+13	acondicionado	acondicionado	NOUN	_	_	12	compound	_	_
+14	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+15	pero	pero	CCONJ	_	_	22	cc	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	gente	gente	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
+18	pobre	pobre	ADJ	_	Number=Sing	17	amod	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	calles	calle	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	_
+22	sufre	sufrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+23	mucho	mucho	ADV	_	_	22	obj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Además	además	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	*PLACE*	*place*	PROPN	_	_	6	dep	_	_
+4	*PLACE*	*place*	SYM	_	_	3	punct	_	_
+5	también	también	ADV	_	_	6	advmod	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	pobreza	pobreza	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	y	y	CCONJ	_	_	14	cc	_	_
+10	al	a	ADP	_	_	13	case	_	_
+11	menos	menos	ADV	_	Degree=Cmp	10	fixed	_	_
+12	2	2	NUM	_	NumForm=Digit|NumType=Card	13	nummod	_	_
+13	familias	familia	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+14	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	lado	lado	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	calle	calle	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+2	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+3	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	disgusta	disgustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	conductores	conductor	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+10	ya	ya	ADV	_	_	14	mark	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	común	común	ADJ	_	Number=Sing	8	advcl	_	_
+15	que	que	SCONJ	_	_	16	mark	_	_
+16	escupen	escupar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	csubj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+21	ensuciándola	ensuciar	VERB	_	VerbForm=Ger	16	advcl	_	_
+22	y	y	CCONJ	_	_	23	cc	_	_
+23	oliendo	olir	VERB	_	VerbForm=Ger	21	conj	_	_
+24	mal	mal	ADV	_	_	23	advmod	_	_
+25	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	*PLACE*	*place*	PUNCT	_	_	6	dep	_	_
+2	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	del	de	ADP	_	_	6	case	_	_
+5	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	4	fixed	_	_
+6	tranquila	tranquilo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	cada	cada	DET	_	Number=Sing|PronType=Tot	6	det	_	_
+6	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	cada	cada	DET	_	Number=Sing|PronType=Tot	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	autos	auto	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+12	tocaban	tocar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	bocina	bocina	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	tenían	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	peores	peor	ADJ	_	Degree=Cmp|Number=Plur	19	amod	_	_
+19	modales	modal	NOUN	_	Number=Plur	16	obj	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	17	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	o	o	CCONJ	_	_	10	cc	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	6	6	NUM	_	NumForm=Digit|NumType=Card	3	conj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+15	siempre	siempre	ADV	_	_	17	advmod	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	oía	oir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+18	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	17	punct	_	_
+
+1	Por	por	ADP	_	_	9	advmod	_	_
+2	último	último	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	medios	medio	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+6	indios	indio	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	peores	peor	ADJ	_	Degree=Cmp|Number=Plur	0	root	_	_
+10	y	y	CCONJ	_	_	15	cc	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	periodistas	periodista	NOUN	_	Number=Plur	15	nsubj	_	_
+13	solo	solo	ADV	_	_	15	advmod	_	_
+14	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	preocupan	preocupar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+16	por	por	ADP	_	_	18	case	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+19	:	:	PUNCT	_	PunctType=Colo	22	punct	_	_
+20	qué	qué	DET	_	PronType=Int	21	det	_	_
+21	noticias	noticia	NOUN	_	Gender=Fem|Number=Plur	22	nsubj	_	_
+22	atraerán	atraer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	18	acl	_	_
+23	a	a	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
+28	personas	persona	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
+29	y	y	CCONJ	_	_	32	cc	_	_
+30	no	no	ADV	_	Polarity=Neg	32	advmod	_	_
+31	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	32	obj	_	_
+32	importan	importar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
+33	mucho	mucho	ADV	_	_	32	advmod	_	_
+34	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
+35	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	32	nsubj	_	_
+36	importantes	importante	ADJ	_	Number=Plur	35	amod	_	_
+37	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	*PLACE*	*place*	PROPN	_	_	2	nsubj	_	_
+2	sigue	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	siendo	ser	AUX	_	VerbForm=Ger	6	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	gran	gran	ADJ	_	Number=Sing	6	amod	_	_
+6	país	país	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	potencial	potencial	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	para	para	ADP	_	_	14	mark	_	_
+12	ser	ser	AUX	_	VerbForm=Inf	14	cop	_	_
+13	mucho	mucho	ADV	_	_	14	advmod	_	_
+14	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	10	acl	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
+17	que	que	PRON	_	PronType=Rel	14	advcl	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

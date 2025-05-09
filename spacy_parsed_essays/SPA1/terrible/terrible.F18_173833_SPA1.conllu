@@ -1,0 +1,221 @@
+# Unnamed: 0 = 210
+# id = 173833
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = French for three years. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Cuando era un niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y [era]{estaba}<conf:v:seta> morada y azul. La persona me juego calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. [Yo]{}<pr:su:pron> sólo tenía ocho años. Mi mano aún me [duele]{dolió}<fs:st:t> por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# updated annotation ann2 = Cuando era [un]{}<pr:det:art:indef> niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y [era]{estaba}<conf:v:seta> morada y azul. La persona me [juego]{jugó}<fs:st:r:pn:t> calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano aún me duele por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Cuando era niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y mis hermanas. Mi abrigo era de cuadros y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atascó en la nieve y estaba morada y azul. La persona me prestó calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano me siguió doliendo por una hora, pero solo un poco. El chocolate caliente me hizo sentir calor. Además, volví a salir, pero no me gustó. Mi familia se fue al exterior, pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# corrected2 = nan
+# text = Cuando era un niño, me perdí en la nieve. Bajé a la nieve en una colina y perdí a mi familia. Estaba andando en trineo con mi madre y hermanas. Mi abrigo era de hojaldre y rojo. Además, perdí mis guantes. Tenía miedo. Fui a la oficina y una persona me dio chocolate caliente. Mi mano se atoró en la nieve y era morada y azul. La persona me juego calentadores de manos y una manta. Estuve allí por una hora. Mi familia sabía que me había ido y me encontró allí. Yo sólo tenía ocho años. Mi mano aún me duele por una hora pero solo un poco. El chocolate caliente me hizo sentir caliente. Además, volví a salir pero no me gustó. Mi familia se fue al exterior pero yo no. Me senté y los vi esquiar. No me gusta la nieve ahora. No me gusta el chocolate caliente todavía.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	era	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	niño	niño	NOUN	_	_	7	obl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	me	yo	PRON	_	_	7	expl:pv	_	_
+7	perdí	perder	VERB	_	_	0	ROOT	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	nieve	nieve	NOUN	_	_	7	obl	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Bajé	bajar	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	nieve	nieve	NOUN	_	_	1	obl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	colina	colín	ADJ	_	_	1	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	perdí	perder	VERB	_	_	1	conj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	familia	familia	NOUN	_	_	9	obj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estaba	estar	AUX	_	_	2	aux	_	_
+2	andando	andar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	2	advmod	_	_
+4	trineo	trineo	ADJ	_	_	3	fixed	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	madre	madre	NOUN	_	_	2	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hermanas	hermana	NOUN	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	abrigo	abrigo	NOUN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	hojaldre	hojaldre	NOUN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rojo	rojo	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	perdí	perder	VERB	_	_	0	ROOT	_	_
+4	mis	mi	DET	_	_	5	det	_	_
+5	guantes	guant	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	miedo	miedo	NOUN	_	_	1	obj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fui	ir	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	oficina	oficina	NOUN	_	_	1	obj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	persona	persona	NOUN	_	_	9	nsubj	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	dio	dar	VERB	_	_	1	conj	_	_
+10	chocolate	chocolate	NOUN	_	_	9	obj	_	_
+11	caliente	caliente	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mano	mano	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	atoró	atorar	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	nieve	nieve	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	era	ser	AUX	_	_	10	cop	_	_
+10	morada	morado	ADJ	_	_	4	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	azul	azul	ADJ	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	4	nsubj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	juego	jugar	VERB	_	_	0	ROOT	_	_
+5	calentadores	calentador	ADJ	_	_	4	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	manos	mano	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	manta	manta	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estuve	estar	AUX	_	_	0	ROOT	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	hora	hora	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	3	nsubj	_	_
+3	sabía	saber	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	me	yo	PRON	_	_	7	expl:pv	_	_
+6	había	haber	AUX	_	_	7	aux	_	_
+7	ido	ir	VERB	_	_	3	ccomp	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	encontró	encontrar	VERB	_	_	3	conj	_	_
+11	allí	allí	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	sólo	sólo	ADV	_	_	3	advmod	_	_
+3	tenía	tener	VERB	_	_	0	ROOT	_	_
+4	ocho	ocho	NUM	_	_	5	nummod	_	_
+5	años	año	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mano	mano	NOUN	_	_	5	nsubj	_	_
+3	aún	aún	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	_	5	obj	_	_
+5	duele	doler	VERB	_	_	0	ROOT	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	hora	hora	NOUN	_	_	5	obl	_	_
+9	pero	pero	CCONJ	_	_	10	cc	_	_
+10	solo	solo	ADV	_	_	12	advmod	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	poco	poco	PRON	_	_	5	obl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	chocolate	chocolate	NOUN	_	_	5	nsubj	_	_
+3	caliente	caliente	ADJ	_	_	2	amod	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	hizo	hacer	VERB	_	_	0	ROOT	_	_
+6	sentir	sentir	VERB	_	_	5	xcomp	_	_
+7	caliente	caliente	ADJ	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	volví	volví	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	salir	salir	VERB	_	_	3	xcomp	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	no	no	ADV	_	_	9	advmod	_	_
+8	me	yo	PRON	_	_	9	obj	_	_
+9	gustó	gustar	VERB	_	_	5	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	fue	ser	VERB	_	_	6	cop	_	_
+5	al	al	ADP	_	_	6	case	_	_
+6	exterior	exterior	NOUN	_	_	0	ROOT	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	yo	yo	PRON	_	_	6	conj	_	_
+9	no	no	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	senté	sentar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	los	él	PRON	_	_	5	obj	_	_
+5	vi	ver	VERB	_	_	2	conj	_	_
+6	esquiar	esquiar	VERB	_	_	5	xcomp	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	nieve	nieve	NOUN	_	_	3	nsubj	_	_
+6	ahora	ahora	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	chocolate	chocolate	NOUN	_	_	3	nsubj	_	_
+6	caliente	caliente	ADJ	_	_	5	amod	_	_
+7	todavía	todavía	ADV	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+

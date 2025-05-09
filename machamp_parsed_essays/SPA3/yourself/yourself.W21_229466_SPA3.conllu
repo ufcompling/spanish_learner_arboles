@@ -1,0 +1,384 @@
+# Unnamed: 0 = 185
+# id = 229466
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 20
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = ¡Hola! Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Me encanta pasar tiempo con mis amigos y familiares. Era sociable, activo y divertido. Mis comidas favoritas son las manzanas y la mantequilla de maní. También me gusta comer pan con mucha mantequilla. Soy de *CITY*, pero vivo en *CITY*. No vivo en *CITY*. Vivo con mi hermano *FIRST_NAME*. *FIRST_NAME* tiene *AGE* años y es muy interesante. También vivo con mi mamá *FIRST_NAME*. Ella es muy amable. También vivo con mi padrastro. *FIRST_NAME* es cariñoso y siempre está ahí. Me encanta mi familia. También tengo un perro mascota. su nombre es *FIRST_NAME*. ella es una labrador retriever. Me gusta ir de excursión con mi familia todos los sábados. cuando era más joven, siempre íamos viajes al lago *PLACE*. Me gusta el lago *PLACE*. En el lago *PLACE*, nado en el lago, me relajo y hago caminatas. Fui a Disneyland con mi familia una vez cuando estaba en tercer grado. Me divertí mucho. Estudio biología y psicología en *UNIVERSITY*. Soy estudiante de segundo año, pero me siento como un estudiante de primer año. Quiero ser psicóloga algún día. Me gusta ayudar a otras personas a sentirse mejor. Ahora disfruto de la escuela. Extraño a mis amigos y socializar. Estoy muy sola en casa. cuando tenía *AGE* años empecé a tocar la guitarra. Yo era muy malo en ello. También jugué en un equipo de fútbol cuando era más joven. Me gustaba estar en un equipo deportivo. También era una chica exploradora y me encantaba vender galletas. Podría comer tantas galletas. Estoy agradecido por mi vida y todas las personas increíbles en ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hola	hola	INTJ	_	_	4	dep	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*AGE*	*age*	SYM	_	_	6	amod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	0	root	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	PunctType=Quot	2	punct	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	familiares	familiar	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+2	sociable	sociable	ADJ	_	Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	activo	activo	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	manzanas	manzana	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mantequilla	mantequilla	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	maní	maní	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	comer	comer	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	pan	pan	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	mantequilla	mantequilla	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	6	expl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	*city*	PROPN	_	_	6	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	nmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	1	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	interesante	interesante	ADJ	_	Number=Sing	2	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	amable	amable	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	padrastro	padrastro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cariñoso	cariñoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	ahí	ahí	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	familia	familia	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	perro	perro	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	mascota	mascota	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	labrador	labrador	NOUN	_	_	0	root	_	_
+5	retriever	retriever	NOUN	_	_	4	compound	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	excursión	excursión	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	sábados	sábado	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	joven	joven	ADJ	_	Number=Sing	7	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	siempre	siempre	ADV	_	_	7	advmod	_	_
+7	íamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	viajes	viaje	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	lago	lago	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	*PLACE*	*place*	PUNCT	_	_	10	appos	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	lago	lago	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	*PLACE*	*place*	PUNCT	_	_	2	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	lago	lago	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+4	*PLACE*	*place*	PUNCT	_	_	3	nmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	nado	nado	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	lago	lago	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+11	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	obl	_	_
+12	relajo	relajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	_
+15	caminatas	caminata	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	Disneyland	Disneyland	PROPN	_	_	1	obl	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	cuando	cuando	SCONJ	_	PronType=Rel	10	advmod	_	_
+10	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
+13	grado	grado	NOUN	_	Gender=Masc|Number=Sing	8	acl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	divertí	divertir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	biología	biología	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	psicología	psicología	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	1	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	como	como	SCONJ	_	_	12	mark	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	estudiante	estudiante	NOUN	_	Number=Sing	9	obl	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
+15	año	año	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	3	cop	_	_
+3	psicóloga	psicóloga	NOUN	_	Gender=Fem|Number=Sing	1	xcomp	_	_
+4	algún	alguno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+5	día	día	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ayudar	ayudar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	personas	persona	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	sentirse	sentir	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	mejor	mejor	ADJ	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	disfruto	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	socializar	socializar	VERB	_	VerbForm=Inf	1	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	sola	solo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+3	*AGE*	*age*	SYM	_	_	2	nmod	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	empecé	empezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	tocar	tocar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	jugué	jugar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	cuando	cuando	SCONJ	_	_	11	mark	_	_
+9	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
+11	joven	joven	ADJ	_	Number=Sing	2	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustaba	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	estar	estar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	deportivo	deportivo	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	chica	chica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	exploradora	explorador	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	encantaba	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+9	vender	vender	VERB	_	VerbForm=Inf	8	csubj	_	_
+10	galletas	galleta	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	2	aux	_	_
+2	comer	comer	VERB	_	VerbForm=Inf	0	root	_	_
+3	tantas	tanto	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Dem	4	det	_	_
+4	galletas	galleta	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	agradecido	agradecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+10	increíbles	increíble	ADJ	_	Number=Plur	9	amod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

@@ -1,0 +1,230 @@
+# Unnamed: 0 = 131
+# id = 229530
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hoy es sábado. Este es verano y hace calor. *FIRST_NAME* y su perro van al parque por la tarde. En el parque, el perro de *FIRST_NAME* pasa tiempo con los otros perros. El perro se está divirtiendo. Hay un camión de helados enfrente del parque. *FIRST_NAME* quiero comer un helado. Se acercó al camión de helados y compró un helado de chocolate. También compró un jugo de naranja con hielo. En total costó tres dólares. Es muy barato. Después de comprar []{el}<ab:det:art:def> helado de chocolate, *FIRST_NAME* no pudo encontrar a su perro. *FIRST_NAME* estaba nervioso. ¿Dónde está su perro? *FIRST_NAME* buscó a su perro alrededor del parque. Su buscó durante mucho tiempo. Dos horas más tarde [estaba]{era}<conf:v:seta> de noche pero *FIRST_NAME* no pudo encontrar su perro. Su estaba triste. *FIRST_NAME* necesito ir a casa. Cuando llegó al frente de su casa, su perro estaba aquí. *FIRST_NAME* está muy feliz. También su perro [es]{está}<conf:v:seta> muy feliz.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hoy es sábado. Este es verano y hace calor. *FIRST_NAME* y su perro van al parque por la tarde. En el parque, el perro de *FIRST_NAME* pasa tiempo con los otros perros. El perro se está divirtiendo. Hay un camión de helados enfrente del parque. *FIRST_NAME* [quiero]{quiere}<fs:st:pn> comer un helado. Se acercó al camión de helados y compró un helado de chocolate. También compró un jugo de naranja con hielo. En total costó tres dólares. Es muy barato. Después de comprar helado de chocolate, *FIRST_NAME* no pudo encontrar a su perro. *FIRST_NAME* estaba nervioso. ¿Dónde [está]{estaba}<fs:st:t> su perro? *FIRST_NAME* buscó a su perro alrededor del parque. Su buscó durante mucho tiempo. Dos horas más tarde [estaba]{era}<conf:v:seta> de noche pero *FIRST_NAME* no [pudo]{había podido}<fs:st:t> encontrar su perro. Su estaba triste. *FIRST_NAME* [necesito]{necesitaba}<fs:st:pn:t> ir a casa. Cuando llegó al frente de su casa, su perro estaba aquí. *FIRST_NAME* está muy feliz. También su perro es muy feliz.
+# verbs annotation ann2 = nan
+# corrected1 = Hoy es sábado. Es verano y hace calor. *FIRST_NAME* y su perro van al parque por la tarde. En el parque, el perro de *FIRST_NAME* pasa tiempo con los otros perros. El perro se está divirtiendo. Hay un camión de helados enfrente del parque. *FIRST_NAME* quiere comer un helado. Se acercó al camión de helados y compró un helado de chocolate. También compró un jugo de naranja con hielo. En total costó tres dólares. Es muy barato. Después de comprar el helado de chocolate, *FIRST_NAME* no pudo encontrar a su perro. *FIRST_NAME* estaba nervioso. ¿Dónde está su perro? *FIRST_NAME* buscó a su perro alrededor del parque. Lo buscó durante mucho tiempo. Dos horas más tarde era de noche pero *FIRST_NAME* no pudo encontrar a su perro. Estaba triste. *FIRST_NAME* necesitó ir a casa. Cuando llegó al frente de su casa, su perro estaba aquí. *FIRST_NAME* está muy feliz. También su perro está muy feliz.
+# corrected2 = nan
+# text = Hoy es sábado. Este es verano y hace calor. *FIRST_NAME* y su perro van al parque por la tarde. En el parque, el perro de *FIRST_NAME* pasa tiempo con los otros perros. El perro se está divirtiendo. Hay un camión de helados enfrente del parque. *FIRST_NAME* quiero comer un helado. Se acercó al camión de helados y compró un helado de chocolate. También compró un jugo de naranja con hielo. En total costó tres dólares. Es muy barato. Después de comprar helado de chocolate, *FIRST_NAME* no pudo encontrar a su perro. *FIRST_NAME* estaba nervioso. ¿Dónde está su perro? *FIRST_NAME* buscó a su perro alrededor del parque. Su buscó durante mucho tiempo. Dos horas más tarde estaba de noche pero *FIRST_NAME* no pudo encontrar su perro. Su estaba triste. *FIRST_NAME* necesito ir a casa. Cuando llegó al frente de su casa, su perro estaba aquí. *FIRST_NAME* está muy feliz. También su perro es muy feliz.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hoy	hoy	ADV	_	_	0	root	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	sábado	sábado	NOUN	_	AdvType=Tim	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	calor	calor	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+2	y	y	CCONJ	_	_	4	cc	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+5	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	parque	parque	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	parque	parque	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	perro	perro	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	nmod	_	_
+9	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	con	con	ADP	_	_	14	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+13	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
+14	perros	perro	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	divirtiendo	divirtir	VERB	_	VerbForm=Ger	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	camión	camión	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	helados	helado	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+6	enfrente	enfrente	ADV	_	_	8	case	_	_
+7	del	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	helado	helado	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	acercó	acercar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	camión	camión	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	helados	helado	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	compró	comprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	helado	helado	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	compró	comprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	jugo	jugo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	naranja	naranja	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	hielo	hielo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	advmod	_	_
+2	total	total	NOUN	_	_	1	fixed	_	_
+3	costó	costar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	dólares	dólar	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	barato	barato	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	11	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	comprar	comprar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	helado	helado	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	11	nsubj	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+11	encontrar	encontrar	VERB	_	VerbForm=Inf	0	root	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	perro	perro	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	nervioso	nervioso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	_
+2	Dónde	dónde	ADV	_	PronType=Int	3	advmod	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	perro	perro	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	buscó	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	perro	perro	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	alrededor	alrededor	ADV	_	_	2	advmod	_	_
+7	del	de	ADP	_	_	8	case	_	_
+8	parque	parque	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	buscó	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	durante	durante	ADP	_	_	5	case	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	horas	hora	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	tarde	tarde	ADV	_	_	7	advmod	_	_
+5	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	noche	noche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	*FIRST_NAME*	*first_name*	PROPN	_	_	12	nsubj	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+12	encontrar	encontrar	VERB	_	VerbForm=Inf	7	conj	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	perro	perro	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Su	su	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	dep	_	_
+2	necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+3	al	a	ADP	_	_	7	case	_	_
+4	frente	frente	NOUN	_	_	3	fixed	_	_
+5	de	de	ADP	_	_	3	fixed	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	perro	perro	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	aquí	aquí	ADV	_	_	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	6	advmod	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	perro	perro	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

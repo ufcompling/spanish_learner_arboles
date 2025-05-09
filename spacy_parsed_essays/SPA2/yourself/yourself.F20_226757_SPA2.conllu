@@ -1,0 +1,57 @@
+# Unnamed: 0 = 44
+# id = 226757
+# prompt = yourself
+# quarter = F20
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 2
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola. Soy de *CITY*, *STATE*. Tengo *AGE* años. Yo soy cómica y inteligente. Me gusta cocinar, viajar,
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	*STATE*	STATE	PROPN	_	_	1	appos	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	cómica	cómico	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	inteligente	inteligente	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	cocinar	cocinar	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	viajar	viajar	VERB	_	_	3	advcl	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+

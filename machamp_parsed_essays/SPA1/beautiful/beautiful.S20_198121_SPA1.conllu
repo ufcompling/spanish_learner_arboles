@@ -1,0 +1,226 @@
+# Unnamed: 0 = 153
+# id = 198121
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Chinese
+# language(s) used at home = Chinese
+# language(s) studied = My native language is Chinese, and I learned English for about more than 10 years.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola!  Hoy es Lunes. Es la una y [las]{}<pr:det:art:def> diecisiete de la tarde. Estudié en la Universidad de *UNIVERSITY*, *UNIVERSITY*.  Tengo clases en el campus entre semana. Mi parte favorita del campus es la biblioteca porque [está]{es}<conf:v:seta> limpia y grande. El ambiente de estudio es excelente. No me gusta participar en actividades, pero el día de picnic es muy interesante. Mi comedor favorito es el comedor de *PLA*PLACE*E* porque tiene comida China. No me gusta el edificio llamado *PLACE* *PLACE* C, porque está muy lejos.  Por lo general, termino mi tarea. Tengo mucha tarea todos los días. Después de eso, me gusta jugar o leer libros. A las nueve de la noche, juego o escucho música solo.  Creo que aprendí mucho en esta clase. Aunque nunca he aprendido español antes de esta clase. Todavía puedo ponerme al día con la clase. Estoy muy interesado en las clases de idiomas. También me gusta esta lección.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola!  Hoy es Lunes. Es la una y [las]{}<pr:det:art:def> diecisiete de la tarde. [Estudié]{Estudio}<fs:st:t> en la Universidad de *UNIVERSITY*, *UNIVERSITY*.  Tengo clases en el campus entre semana. Mi parte favorita del campus es la biblioteca porque [está]{es}<conf:v:seta> limpia y grande. El ambiente de estudio es excelente. No me gusta participar en actividades, pero el día de picnic es muy interesante. Mi comedor favorito es el comedor de *PLA*PLACE*E* porque tiene comida China. No me gusta el edificio llamado *PLACE* *PLACE* C, porque está muy lejos.  Por lo general, termino mi tarea. Tengo mucha tarea todos los días. Después de eso, me gusta jugar o leer libros. A las nueve de la noche, juego o escucho música solo.  Creo que [aprendí]{aprendo}<fs:st:t> mucho en esta clase. Aunque nunca he aprendido español antes de esta clase. Todavía puedo ponerme al día con la clase. Estoy muy interesado en las clases de idiomas. También me gusta esta lección.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola!  Hoy es lunes. Es la una y diecisiete de la tarde. Estudio en la Universidad de *UNIVERSITY*, *UNIVERSITY*.  Tengo clases en el campus entre semana. Mi parte favorita del campus es la biblioteca porque es limpia y grande. El ambiente de estudio es excelente. No me gusta participar en actividades, pero el día de picnic es muy interesante. Mi comedor favorito es el comedor de *PLA*PLACE*E* porque tiene comida china. No me gusta el edificio llamado "*PLACE* *PLACE* C", porque está muy lejos.  Por lo general, termino mis tareas. Tengo muchas tareas todos los días. Después de eso, me gusta jugar o leer libros. A las nueve de la noche, juego o escucho música solo.  Creo que aprendí mucho en esta clase, aunque nunca he estudiado español antes de esta clase. Todavía puedo ponerme al día con la clase. Estoy muy interesado en las clases de idiomas. También me gusta esta lección.
+# corrected2 = nan
+# text = Hola! Hoy es Lunes. Es la una y las diecisiete de la tarde. Estudié en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo clases en el campus entre semana. Mi parte favorita del campus es la biblioteca porque está limpia y grande. El ambiente de estudio es excelente. No me gusta participar en actividades, pero el día de picnic es muy interesante. Mi comedor favorito es el comedor de *PLACE* porque tiene comida China. No me gusta el edificio llamado *PLACE* *PLACE* *PLACE*, porque está muy lejos. Por lo general, termino mi tarea. Tengo mucha tarea todos los días. Después de eso, me gusta jugar o leer libros. A las nueve de la noche, juego o escucho música solo. Creo que aprendí mucho en esta clase. Aunque nunca he aprendido español antes de esta clase. Todavía puedo ponerme al día con la clase. Estoy muy interesado en las clases de idiomas. También me gusta esta lección.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+
+1	Hoy	hoy	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Lunes	Lunes	NOUN	_	AdvType=Tim	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	diecisiete	diecisiete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	conj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estudié	estudi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Universidad	Universidad	PROPN	_	_	1	obl	_	_
+5	de	de	ADP	_	_	4	case	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	4	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	campus	campus	NOUN	_	Gender=Masc	1	obl	_	_
+6	entre	entre	ADP	_	_	7	case	_	_
+7	semana	semana	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	campus	campus	NOUN	_	Gender=Masc	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	biblioteca	biblioteca	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	limpia	limpio	ADJ	_	Gender=Fem|Number=Sing	8	advcl	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	grande	grande	ADJ	_	Number=Sing	11	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	excelente	excelente	ADJ	_	Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	participar	participar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	actividades	actividad	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+8	pero	pero	CCONJ	_	_	15	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	día	día	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	picnic	picnic	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	interesante	interesante	ADJ	_	Number=Sing	3	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comedor	comedor	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	comedor	comedor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*PLACE*	*place*	PUNCT	_	_	6	punct	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	comida	comida	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+12	China	China	PROPN	_	_	11	appos	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	edificio	edificio	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	llamado	llamado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	*PLACE*	*PLACE*	PROPN	_	_	6	obj	_	_
+8	*PLACE*	*place*	PROPN	_	_	7	punct	_	_
+9	*PLACE*	*place*	PROPN	_	_	7	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	lejos	lejos	ADV	_	_	3	advcl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
+3	general	general	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	termino	terminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	eso	ese	PRON	_	Number=Sing|PronType=Dem	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	jugar	jugar	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	o	o	CCONJ	_	_	9	cc	_	_
+9	leer	leer	VERB	_	VerbForm=Inf	7	conj	_	_
+10	libros	libro	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	nueve	nueve	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	juego	juegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	escucho	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	música	música	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+12	solo	solo	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	aprendí	aprendir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	4	mark	_	_
+2	nunca	nunca	ADV	_	_	4	advmod	_	_
+3	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	aprendido	aprender	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	antes	antes	ADV	_	_	4	advmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	clase	clase	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Todavía	todavía	ADV	_	_	3	advmod	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ponerme	poner	VERB	_	VerbForm=Inf	0	root	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	día	día	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	interesado	interesado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	clases	clase	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	lección	lección	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

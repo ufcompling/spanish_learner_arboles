@@ -1,0 +1,101 @@
+# Unnamed: 0 = 224
+# id = 126853
+# prompt = famous
+# quarter = S18
+# course = SPA 3
+# age = Female
+# gender = 20
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Ilocano
+# language(s) studied = Latin for 4 years (in high school)
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = Kim Kardashian es muy famosa! Kim Kardashian es una celebridad de la televisión. Específicamente, Kim Kardashian es en el espectáculo de realidad "Keeping up with the Kardashians". Kim es muy comica, honesta, y dramática en el espectáculo. Kim tiene cinco hermanos y hermanas: cuatro hermanas y uno hermano. Las hermanas es personalidad única. Khloe es 
+# a personal annotator2 = nan
+# gender-number annotator1 = Kim Kardashian es muy famosa! Kim Kardashian es una celebridad de la televisión. Específicamente, Kim Kardashian es en el espectáculo de realidad "Keeping up with the Kardashians". Kim es muy comica, honesta, y dramática en el espectáculo. Kim tiene cinco hermanos y hermanas: cuatro hermanas y uno hermano. Las hermanas es personalidad única. Khloe es 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Kim Kardashian es muy famosa! Kim Kardashian es una celebridad de la televisión. Específicamente, Kim Kardashian es en el espectáculo de realidad "Keeping up with the Kardashians". Kim es muy comica, honesta, y dramática en el espectáculo. Kim tiene cinco hermanos y hermanas: cuatro hermanas y uno hermano. Las hermanas es personalidad única. Khloe es
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Kim	Kim	PROPN	_	_	5	nsubj	_	_
+2	Kardashian	Kardashian	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	famosa	famoso	ADJ	_	_	7	amod	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	Kim	Kim	PROPN	_	_	11	nsubj	_	_
+8	Kardashian	Kardashian	PROPN	_	_	7	flat	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	celebridad	celebridad	NOUN	_	_	0	ROOT	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	televisión	televisión	NOUN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Específicamente	Específicamente	PROPN	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Kim	Kim	PROPN	_	_	8	nsubj	_	_
+4	Kardashian	Kardashian	PROPN	_	_	3	flat	_	_
+5	es	ser	AUX	_	_	8	cop	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	espectáculo	espectáculo	NOUN	_	_	0	ROOT	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	realidad	realidad	NOUN	_	_	8	nmod	_	_
+11	"	"	PUNCT	_	_	12	punct	_	_
+12	Keeping	Keeping	PROPN	_	_	8	appos	_	_
+13	up	up	PROPN	_	_	12	flat	_	_
+14	with	with	PROPN	_	_	12	flat	_	_
+15	the	the	PROPN	_	_	12	flat	_	_
+16	Kardashians	Kardashians	PROPN	_	_	12	flat	_	_
+17	"	"	PUNCT	_	_	12	punct	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Kim	Kim	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	comica	comico	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	honesta	honesta	NOUN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	dramática	dramático	ADJ	_	_	4	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	espectáculo	espectáculo	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Kim	Kim	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	cinco	cinco	NUM	_	_	4	nummod	_	_
+4	hermanos	hermano	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	hermanas	hermana	NOUN	_	_	4	conj	_	_
+7	:	:	PUNCT	_	_	9	punct	_	_
+8	cuatro	cuatro	NUM	_	_	9	nummod	_	_
+9	hermanas	hermana	NOUN	_	_	4	appos	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	uno	uno	PRON	_	_	9	conj	_	_
+12	hermano	hermano	ADJ	_	_	9	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	hermanas	hermana	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	personalidad	personalidad	NOUN	_	_	0	ROOT	_	_
+5	única	único	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Khloe	Khloe	PROPN	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	_	0	ROOT	_	_
+

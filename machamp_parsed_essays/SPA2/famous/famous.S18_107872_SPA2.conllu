@@ -1,0 +1,92 @@
+# Unnamed: 0 = 222
+# id = 107872
+# prompt = famous
+# quarter = S18
+# course = SPA 2
+# age = Male
+# gender = 22
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Hmong
+# language(s) studied = Spanish for 2 years 
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Mi persona famosa favorita es Roger Federer. Él es un jugador de tenis profesional. Él tiene treinta y seis años. Su esposa se llama Mirka Federer. Ellos tienen cuatro hijos, dos niñas y dos niños. Las niñas se llaman Myla y Charlene. Los niños se llaman Leo y Lenny. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Mi persona famosa favorita es Roger Federer. Él es un jugador de tenis profesional. Él tiene treinta y seis años. Su esposa se llama Mirka Federer. Ellos tienen cuatro hijos, dos niñas y dos niños. Las niñas se llaman Myla y Charlene. Los niños se llaman Leo y Lenny. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi persona famosa favorita es Roger Federer. Él es un jugador de tenis profesional. Él tiene treinta y seis años. Su esposa se llama Mirka Federer. Ellos tienen cuatro hijos, dos niñas y dos niños. Las niñas se llaman Myla y Charlene. Los niños se llaman Leo y Lenny.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	Roger	Roger	PROPN	_	_	0	root	_	_
+7	Federer	Federer	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	tenis	tenis	NOUN	_	Gender=Masc	4	nmod	_	_
+7	profesional	profesional	ADJ	_	Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	treinta	treinta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+4	y	y	CCONJ	_	_	3	compound	_	_
+5	seis	seis	NUM	_	NumForm=Word|NumType=Card	3	compound	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Mirka	Mirka	PROPN	_	_	4	obj	_	_
+6	Federer	Federer	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	niñas	niña	NOUN	_	Gender=Fem|Number=Plur	4	appos	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+10	niños	niño	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	niñas	niña	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Myla	Myla	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Charlene	Charlene	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	niños	niño	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	Leo	Leo	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Lenny	Lenny	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

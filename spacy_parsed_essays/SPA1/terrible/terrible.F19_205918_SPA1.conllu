@@ -1,0 +1,239 @@
+# Unnamed: 0 = 113
+# id = 205918
+# prompt = terrible
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = I only speak English
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Estoy en un restaurante. [Yo]{}<pr:su:pron> quiero un café con leche. El camarero es antipatico. Mi café tiene leche de almendras. Yo no quiero leche de almendras. [Yo]{}<pr:su:pron> quiero leche de soya. [Yo]{}<pr:su:pron> pregunto [para]{por}<conf:prep:popa> []{un}<ab:det:art:indef> café con leche de soya. No me gusta el camarero. El camarero es arrogante y pesimista. [Ellos]{}<pr:su:pron> no tienen leche de soya. Estoy enfadada. [Yo]{}<pr:su:pron> no quiero un café. [Yo]{}<pr:su:pron> quiero un jugo de naranja. [Ellos]{}<pr:su:pron> no tienen jugo de naranja; [ellos]{}<pr:su:pron> tienen jugo de tomate. Que asco! [Yo]{}<pr:su:pron> quiero un te verde. [Ellos]{}<pr:su:pron> tienen [un]{}<pr:det:art:indef> te verde. Finalmente! [Yo]{}<pr:su:pron> quiero un te verde con limon. [Ellos]{}<pr:su:pron> no tienen limon. Estoy triste. [Yo]{}<pr:su:pron> quiero un te verde con azucar. [Ellos]{}<pr:su:pron> tienen azucar. Estoy contenta! [Yo]{}<pr:su:pron> quiero un te verde con azucar. El camarero esta enfadado. Por fin, [yo]{}<pr:su:pron> tengo un te verde con azucar. [Yo]{}<pr:su:pron> dejo. [Yo]{}<pr:su:pron> no [deje]{dejo}<fs:st:mo> propina. Me voy a ir a otre restaurant.
+# updated annotation ann2 = Estoy en un restaurante. Yo [yo]{}<pr:su:pron> quiero un café con leche. El camarero es antipatico. Mi café tiene leche de almendras. Yo [yo]{}<pr:su:pron> no quiero leche de almendras. Yo [yo]{}<pr:su:pron>  quiero leche de soya. Yo [yo]{}<pr:su:pron> pregunto para [para]{por]<conf:prep:popa> café con leche de soya. No me gusta el camarero. El camarero es arrogante y pesimista. Ellos [ellos]{}<pr:su:pron> no tienen leche de soya. Estoy enfadada. Yo [yo]{}<pr:su:pron>  no quiero un café. Yo [yo]{}<pr:su:pron> quiero un jugo de naranja. Ellos [ellos]{}<pr:su:pron> no tienen jugo de naranja; ellos [ellos]{}<pr:su:pron>  tienen jugo de tomate. Que asco! Yo [yo]{}<pr:su:pron> quiero un te verde. Ellos [ellos]{}<pr:su:pron> tienen un te verde. Finalmente! Yo  [yo]{}<pr:su:pron> quiero un te verde con limon. Ellos [ellos]{}<pr:su:pron>  no tienen limon. Estoy triste. Yo [yo]{}<pr:su:pron> quiero un te verde con azucar. Ellos [ellos]{}<pr:su:pron>  tienen azucar. Estoy contenta! Yo [yo]{}<pr:su:pron> quiero un te verde con azucar. El camarero esta enfadado. Por fin, yo [yo]{}<pr:su:pron> tengo un te verde con azucar. Yo [yo]{}<pr:su:pron> dejo. Yo no deje propina. Me voy a ir a otre [otre]{otro}<ga:det> restaurant.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Estoy en un restaurante. Quiero un café con leche. El camarero es antipático. Mi café tiene leche de almendras. Yo no quiero leche de almendras. Quiero leche de soja. Pregunto por un café con leche de soja. No me gusta el camarero. El camarero es arrogante y pesimista. No tienen leche de soja. Estoy enfadada. No quiero un café. Quiero un jugo de naranja. No tienen jugo de naranja; tienen jugo de tomate. ¡Qué asco! Quiero un té verde. Tienen té verde. ¡Finalmente! Quiero un té verde con limón. No tienen limón. Estoy triste. Quiero un té verde con azúcar. Tienen azúcar. ¡Estoy contenta! Quiero un té verde con azúcar. El camarero está enfadado. Por fin, consigo un té verde con azúcar. Me voy. No dejo propina. Me voy a ir a otro restaurante.
+# corrected2 = nan
+# text = Estoy en un restaurante. Yo quiero un café con leche. El camarero es antipatico. Mi café tiene leche de almendras. Yo no quiero leche de almendras. Yo quiero leche de soya. Yo pregunto para café con leche de soya. No me gusta el camarero. El camarero es arrogante y pesimista. Ellos no tienen leche de soya. Estoy enfadada. Yo no quiero un café. Yo quiero un jugo de naranja. Ellos no tienen jugo de naranja; ellos tienen jugo de tomate. Que asco! Yo quiero un te verde. Ellos tienen un te verde. Finalmente! Yo quiero un te verde con limon. Ellos no tienen limon. Estoy triste. Yo quiero un te verde con azucar. Ellos tienen azucar. Estoy contenta! Yo quiero un te verde con azucar. El camarero esta enfadado. Por fin, yo tengo un te verde con azucar. Yo dejo. Yo no deje propina. Me voy a ir a otre restaurant.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Estoy	estar	AUX	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	restaurante	restaurante	NOUN	_	_	1	obl	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	café	café	NOUN	_	_	2	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	leche	leche	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	camarero	camarero	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	antipatico	antipatico	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	café	café	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	leche	leche	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	almendras	almendra	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	leche	leche	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	almendras	almendra	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	leche	leche	NOUN	_	_	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	soya	soya	NOUN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	pregunto	preguntar	VERB	_	_	0	ROOT	_	_
+3	para	para	ADP	_	_	4	case	_	_
+4	café	café	NOUN	_	_	2	nmod	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	leche	leche	NOUN	_	_	2	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	soya	soya	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	camarero	camarero	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	camarero	camarero	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	arrogante	arrogante	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	pesimista	pesimista	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ellos	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tienen	tener	VERB	_	_	0	ROOT	_	_
+4	leche	leche	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	soya	soya	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	VERB	_	_	2	cop	_	_
+2	enfadada	enfadado	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	café	café	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	jugo	jugo	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	naranja	naranja	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ellos	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tienen	tener	VERB	_	_	0	ROOT	_	_
+4	jugo	jugo	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	naranja	naranja	NOUN	_	_	4	nmod	_	_
+7	;	;	PUNCT	_	_	3	punct	_	_
+8	ellos	él	PRON	_	_	9	nsubj	_	_
+9	tienen	tener	VERB	_	_	3	advcl	_	_
+10	jugo	jugo	NOUN	_	_	9	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	tomate	tomate	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Que	que	SCONJ	_	_	2	mark	_	_
+2	asco	asco	NOUN	_	_	5	nsubj	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	Yo	yo	PRON	_	_	5	nsubj	_	_
+5	quiero	querer	VERB	_	_	0	ROOT	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	te	tú	PRON	_	_	8	obj	_	_
+8	verde	verde	ADJ	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	tienen	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	te	tú	PRON	_	_	5	obj	_	_
+5	verde	verde	ADJ	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Yo	yo	PRON	_	_	4	nsubj	_	_
+4	quiero	querer	VERB	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	te	tú	PRON	_	_	7	obj	_	_
+7	verde	verde	ADJ	_	_	4	ccomp	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	limon	limon	PROPN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ellos	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tienen	tener	VERB	_	_	0	ROOT	_	_
+4	limon	limon	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	triste	triste	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	te	tú	PRON	_	_	5	obj	_	_
+5	verde	verde	ADJ	_	_	2	obj	_	_
+6	con	con	ADP	_	_	7	mark	_	_
+7	azucar	azucar	VERB	_	_	5	acl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	tienen	tener	VERB	_	_	0	ROOT	_	_
+3	azucar	azucar	VERB	_	_	2	xcomp	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	Estoy	PROPN	_	_	2	iobj	_	_
+2	contenta	contentar	VERB	_	_	0	ROOT	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	te	tú	PRON	_	_	5	obj	_	_
+5	verde	verde	ADJ	_	_	2	obj	_	_
+6	con	con	ADP	_	_	7	mark	_	_
+7	azucar	azucar	VERB	_	_	5	acl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	camarero	camarero	NOUN	_	_	0	ROOT	_	_
+3	esta	este	DET	_	_	4	det	_	_
+4	enfadado	enfadado	ADJ	_	_	2	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	fin	fin	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	tengo	tener	VERB	_	_	0	ROOT	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	te	tú	PRON	_	_	8	obj	_	_
+8	verde	verde	ADJ	_	_	5	obj	_	_
+9	con	con	ADP	_	_	10	mark	_	_
+10	azucar	azucar	VERB	_	_	8	acl	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	dejo	dejar	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	deje	dejar	VERB	_	_	0	ROOT	_	_
+4	propina	propín	ADJ	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	4	expl:pv	_	_
+2	voy	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ir	ir	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	otre	otre	NOUN	_	_	4	obl	_	_
+7	restaurant	restaurant	PROPN	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+

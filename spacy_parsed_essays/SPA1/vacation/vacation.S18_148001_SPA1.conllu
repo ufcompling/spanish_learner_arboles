@@ -1,0 +1,235 @@
+# Unnamed: 0 = 253
+# id = 148001
+# prompt = vacation
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 20
+# l1 language = Mandarin
+# other l1 language(s) = mandarin
+# language(s) used at home = mandarin
+# language(s) studied = english----17
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Hace sol. Vamos al parque. Mi amigas le gusta la música. Escucha música todos los días. Alicia tiene veinte años y tiene el pelo marrón. Ella saca fotos con mi cámara en la parque. A Alicia le gusta mucho animals. Lucy le gusta montar en bici en la parque. Tiene 21 años y tiene el pelo rubio. Ben pinta una paintura por el parque. Su novia, Enrique, tiene 19 años y tiene el pelo rojo. A Enrique le gusta practicar deportes. Le gusta practicar alpinismo y navagar en rápidos. Me gusta bailar en el parque y jugar al tenis. Joy tiene 18 años. Tiene el pelo verde. Ella pesca en el lago con su amiga Fifi. Fifi tiene 17 años. Tambien tiene el pelo verde. A Fifi le gusta remar. Vamos a casa a las siete de la tarde. Están feliz y cansado. Me acuesto temprano a las diez de la noche. Tambien durmen a las diez. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Hace sol. Vamos al parque. [Mi]{mis}<na:ps:det:an> amigas le gusta la música. Escucha música todos los días. Alicia tiene veinte años y tiene el pelo marrón. Ella saca fotos con mi cámara en [la]{el}<ga:mf:det:inan> parque. A Alicia le gusta mucho animals. Lucy le gusta montar en bici en [la]{el}<ga:mf:det:inan> parque. Tiene 21 años y tiene el pelo rubio. Ben pinta una paintura por el parque. Su novia, Enrique, tiene 19 años y tiene el pelo rojo. A Enrique le gusta practicar deportes. Le gusta practicar alpinismo y navagar en rápidos. Me gusta bailar en el parque y jugar al tenis. Joy tiene 18 años. Tiene el pelo verde. Ella pesca en el lago con su amiga Fifi. Fifi tiene 17 años. Tambien tiene el pelo verde. A Fifi le gusta remar. Vamos a casa a las siete de la tarde. Están feliz y cansado. Me acuesto temprano a las diez de la noche. Tambien durmen a las diez. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hace sol. Vamos al parque. Mi amigas le gusta la música. Escucha música todos los días. Alicia tiene veinte años y tiene el pelo marrón. Ella saca fotos con mi cámara en la parque. A Alicia le gusta mucho animals. Lucy le gusta montar en bici en la parque. Tiene 21 años y tiene el pelo rubio. Ben pinta una paintura por el parque. Su novia, Enrique, tiene 19 años y tiene el pelo rojo. A Enrique le gusta practicar deportes. Le gusta practicar alpinismo y navagar en rápidos. Me gusta bailar en el parque y jugar al tenis. Joy tiene 18 años. Tiene el pelo verde. Ella pesca en el lago con su amiga Fifi. Fifi tiene 17 años. Tambien tiene el pelo verde. A Fifi le gusta remar. Vamos a casa a las siete de la tarde. Están feliz y cansado. Me acuesto temprano a las diez de la noche. Tambien durmen a las diez.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hace	hacer	VERB	_	_	0	ROOT	_	_
+2	sol	sol	NOUN	_	_	1	obj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Vamos	ir	VERB	_	_	0	ROOT	_	_
+2	al	al	ADP	_	_	3	case	_	_
+3	parque	parque	NOUN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	amigas	amiga	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	música	música	NOUN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Escucha	Escucha	PROPN	_	_	0	ROOT	_	_
+2	música	músicar	VERB	_	_	1	amod	_	_
+3	todos	todo	DET	_	_	4	det	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	días	día	NOUN	_	_	1	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Alicia	Alicia	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	veinte	veinte	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	_	2	conj	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	pelo	pelo	NOUN	_	_	6	obj	_	_
+9	marrón	marrón	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	saca	sacar	VERB	_	_	0	ROOT	_	_
+3	fotos	foto	NOUN	_	_	2	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	cámara	cámara	NOUN	_	_	3	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	parque	parque	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	Alicia	Alicia	PROPN	_	_	4	obl	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	mucho	mucho	DET	_	_	6	det	_	_
+6	animals	animals	NOUN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Lucy	Lucy	PROPN	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	montar	montar	VERB	_	_	3	csubj	_	_
+5	en	en	ADP	_	_	4	advmod	_	_
+6	bici	bici	NOUN	_	_	5	fixed	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	parque	parque	NOUN	_	_	4	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	21	21	NUM	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tiene	tener	VERB	_	_	1	conj	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	5	obj	_	_
+8	rubio	rubio	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ben	Ben	PROPN	_	_	2	nsubj	_	_
+2	pinta	pintar	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	paintura	paintura	NOUN	_	_	2	obj	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	parque	parque	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	novia	novia	NOUN	_	_	6	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Enrique	Enrique	PROPN	_	_	2	appos	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tiene	tener	VERB	_	_	0	ROOT	_	_
+7	19	19	NUM	_	_	8	nummod	_	_
+8	años	año	NOUN	_	_	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tiene	tener	VERB	_	_	6	conj	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	pelo	pelo	NOUN	_	_	10	obj	_	_
+13	rojo	rojo	ADJ	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	Enrique	Enrique	PROPN	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	practicar	practicar	VERB	_	_	4	csubj	_	_
+6	deportes	deporte	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	practicar	practicar	VERB	_	_	2	csubj	_	_
+4	alpinismo	alpinismo	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	navagar	navagar	VERB	_	_	3	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	rápidos	rápido	NOUN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	bailar	bailar	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	jugar	jugar	VERB	_	_	2	conj	_	_
+9	al	al	ADP	_	_	10	case	_	_
+10	tenis	tenis	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Joy	Joy	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	18	18	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	verde	verde	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	pesca	pescar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	lago	lago	NOUN	_	_	2	obl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	amiga	amiga	NOUN	_	_	2	obl	_	_
+9	Fifi	Fifi	PROPN	_	_	8	appos	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Fifi	Fifi	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	17	17	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	verde	verde	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	Fifi	Fifi	PROPN	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	remar	remar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Vamos	ir	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	_	1	obl	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	siete	siete	NUM	_	_	1	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	tarde	tarde	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Están	estar	AUX	_	_	2	cop	_	_
+2	feliz	feliz	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	cansado	cansado	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	acuesto	acostar	VERB	_	_	0	ROOT	_	_
+3	temprano	temprano	ADV	_	_	2	advmod	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	diez	diez	NUM	_	_	2	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	noche	noche	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	2	nsubj	_	_
+2	durmen	dormir	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	diez	diez	NUM	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

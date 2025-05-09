@@ -1,0 +1,218 @@
+# Unnamed: 0 = 69
+# id = 172548
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Chinese.
+# language(s) studied = Before I started learning Spanish, I have learned English. I knew English when I was in the third grade in primary school. However, I began to speak English when I was in high school. The number of years which I have spoken English is about 5 years.
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = La persona particular en mi vida es mi mamá. Mi mamá es de China. Ella vive en *CITY* con mi papá, el abuelo y la abuela. Tiene *AGE* años. Habla chino y un poco de inglés. Ella es bastante joven y linda. Tiene el pelo corto, liso y negro y tiene la piel blanca. Es alta, no es gorda ni delgada. Tiene los ojos marrones y grandes. [Ella]{}<pr:su:pron> lleva gafas. Es muy atractiva. Mi mamá es maestra de escuela primaria. [Ella]{}<pr:su:pron> es simpática y responsable. Le gusta leer [los]{}<pr:det:art:def> libros todos los días, por eso [ella]{}<pr:su:pron> es muy entendida. Le también gusta ir al gimnasio a levantar pesas los fines de semana. [Ella]{}<pr:su:pron> es una cocinara muy buena porque cocina la cena cada día. [Ella]{}<pr:su:pron> es una buena maestra para mí porque [ella]{}<pr:su:pron> es responsable de mí y sus estudiantes. [Ella]{}<pr:su:pron> siempre cuenta muy sus experiencias y cuenta [los]{}<pr:det:art:def> chistes.
+# updated annotation ann2 = ﻿La persona particular en mi vida es mi mamá. Mi mamá es de China. [Ella]{}<pr:su:pron> vive en *CITY* con mi papá, el abuelo y la abuela. Tiene *AGE* años. Habla chino y un poco de inglés. [Ella]{}<pr:su:pron> es bastante joven y linda. Tiene el pelo corto, liso y negro y tiene la piel blanca. Es alta, no es gorda ni delgada. Tiene los ojos marrones y grandes. [Ella]{}<pr:su:pron> lleva gafas. Es muy atractiva. Mi mamá es maestra de escuela primaria. [Ella]{}<pr:su:pron> es simpática y responsable. Le gusta leer [los]{}<pr:det:art:def> libros todos los días, por eso [ella]{}<pr:su:pron> es muy entendida. Le también gusta ir al gimnasio a levantar pesas los fines de semana. [Ella]{}<pr:su:pron> es una cocinara muy buena porque cocina la cena cada día. [Ella]{}<pr:su:pron> es una buena maestra para mí porque [ella]{}<pr:su:pron> es responsable de mí y sus estudiantes. [Ella]{}<pr:su:pron> siempre cuenta muy sus experiencias y cuenta los chistes.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = La persona particular en mi vida es mi mamá. Mi mamá es de China. Ella vive en *CITY* con mi papá, el abuelo y la abuela. Tiene *AGE* años. Habla chino y un poco de inglés. Ella es bastante joven y linda. Tiene el pelo corto, liso y negro y tiene la piel blanca. Es alta, no es gorda ni delgada. Tiene los ojos marrones y grandes. Lleva gafas. Es muy atractiva. Mi mamá es maestra de escuela primaria. Es simpática y responsable. Le gusta leer libros todos los días, por eso es muy entendida. También le gusta ir al gimnasio a levantar pesas los fines de semana. Es una cocinera muy buena porque cocina la cena cada día. Es una buena maestra para mí porque es responsable de mí y sus estudiantes. Siempre cuenta sus experiencias y cuenta chistes.
+# corrected2 = nan
+# text = La persona particular en mi vida es mi mamá. Mi mamá es de China. Ella vive en *CITY* con mi papá, el abuelo y la abuela. Tiene *AGE* años. Habla chino y un poco de inglés. Ella es bastante joven y linda. Tiene el pelo corto, liso y negro y tiene la piel blanca. Es alta, no es gorda ni delgada. Tiene los ojos marrones y grandes. Ella lleva gafas. Es muy atractiva. Mi mamá es maestra de escuela primaria. Ella es simpática y responsable. Le gusta leer los libros todos los días, por eso ella es muy entendida. Le también gusta ir al gimnasio a levantar pesas los fines de semana.Ella es una cocinara muy buena porque cocina la cena cada día. Ella es una buena maestra para mí porque ella es responsable de mí y sus estudiantes. Ella siempre cuenta muy sus experiencias y cuenta los chistes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	particular	particular	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	China	China	PROPN	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	advmod	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	papá	papá	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	chino	chino	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	1	conj	_	_
+6	de	de	ADP	_	_	5	case	_	_
+7	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	bastante	bastante	ADV	_	_	4	advmod	_	_
+4	joven	joven	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	linda	lindo	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	corto	corto	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	liso	liso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	piel	piel	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alta	alto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	gorda	gordo	ADJ	_	Gender=Fem|Number=Sing	2	advcl	_	_
+7	ni	ni	CCONJ	_	_	8	cc	_	_
+8	delgada	delgado	ADJ	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	marrones	marron	ADJ	_	Number=Plur	3	appos	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	grandes	grande	ADJ	_	Number=Plur	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	atractiva	atractivo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	maestra	maestra	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	simpática	simpático	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	responsable	responsable	ADJ	_	Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	libros	libro	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+10	por	por	ADP	_	_	11	case	_	_
+11	eso	ese	PRON	_	Number=Sing|PronType=Dem	15	obl	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	entendida	entendido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	gimnasio	gimnasio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	levantar	levantar	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	pesas	pesa	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	fines	fin	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	semana	semana	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cocinara	cocinara	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	buena	buen	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	cocina	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cena	cena	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	cada	cada	DET	_	Number=Sing|PronType=Tot	12	det	_	_
+12	día	día	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	buena	buen	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+5	maestra	maestra	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	5	obl	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	responsable	responsable	ADJ	_	Number=Sing	5	advcl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	11	nmod	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
+16	estudiantes	estudiante	NOUN	_	Number=Plur	13	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muy	mucho	ADV	_	_	3	advmod	_	_
+5	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	experiencias	experiencia	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	chistes	chiste	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

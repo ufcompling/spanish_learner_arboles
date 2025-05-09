@@ -1,0 +1,221 @@
+# Unnamed: 0 = 35
+# id = 171429
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = Vietnamese
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Tengo *AGE* anos. Soy de *CITY* *CITY*, *STATE*. Tengo un Perro blanco llamo *FIRST_NAME*  y el es muy amiable. Me gusta el color rosa y []{el}<ab:det:art:def> rojo. [Yo]{}<pr:su:pron> soy inteligente, trabadora, y timida. Ahora, estoy muy nerviosa porque mi espanol es muy malo. Me gusta []{la}<ab:det:art:def> temporary de Vera I porque no tengo que it a la escuela. Tengo mas tiempo para trabajar. Me gusta la class de espanol porque es practica. En class tengo hombre porque es durante la trade y durante la trade y durante el almuerza. [Yo]{}<pr:su:pron> estudio quimica en *UNIVERSITY* *UNIVERSITY*. Estoy en una class de biological 101, [un]{una}<ga:det> class de quimica 1b, y [un]{una}<ga:det> class de espanol 1. No me gusta comer verdure, Pedro me gusta comer papas Fritas y hamburguesa. Los fines de semana voy comer hamburguesas y papas fritas. De lunes Viennese voy a la esculent y voy a trabajar. [Yo]{}<pr:su:pron> trabajo come servidor en *PLACE* *PLACE* *PLACE* restaurante.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* anos. Soy de *CITY* *CITY*, *STATE*. Tengo un Perro blanco llamo *FIRST_NAME*  y [el]{}<pr:su:pron> es muy amiable. Me [gusta]{gustan}<fs:st:pn> el color rosa y []{el}<ab:det:art:def> rojo. [Yo]{}<pr:su:pron> soy inteligente, trabadora, y timida. Ahora, estoy muy nerviosa porque mi espanol es muy malo. Me gusta temporary de Vera I porque no tengo que [it]{ir}<fs:st:r> a la escuela. Tengo mas tiempo para trabajar. Me gusta la class de espanol porque es practica. En class tengo hombre porque es durante la trade y durante la trade y durante [el]{el}<ga:det> [almuerza]{almuerzo}<gat:noun>. [Yo]{}<pr:su:pron> estudio quimica en *UNIVERSITY* *UNIVERSITY*. Estoy en una class de biological 101, [un]{una}<ga:det> class de quimica 1b, y [un]{una}<ga:det> class de espanol 1. No me gusta comer verdure, Pedro me gusta comer papas Fritas y [hamburguesa]{hamburguesas}<in:noun>. Los fines de semana voy comer hamburguesas y papas fritas. De lunes Viennese voy a la esculent y voy a trabajar. [Yo]{}<pr:su:pron> trabajo come servidor en *PLACE* *PLACE* *PLACE* restaurante.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Tengo *AGE* años. Soy de *CITY* *CITY*, *STATE*. Tengo un perro blanco llamado *FIRST_NAME* y él es muy amigable. Me gusta el color rosa y el rojo. Soy inteligente, trabajadora, y tímida. Ahora, estoy muy nerviosa porque mi español es muy malo. Me gusta la temporada de verano porque no tengo que ir a la escuela. Tengo más tiempo para trabajar. Me gusta la clase de español porque es práctica. En clase tengo hambre porque es durante la tarde y durante la tarde y durante el almuerzo. Estudio química en *UNIVERSITY* *UNIVERSITY*. Estoy en una clase de biological 101, una clase de química 1b, y una clase de español 1. No me gusta comer verdura, pero me gusta comer papas fritas y hamburguesa. Los fines de semana voy a comer hamburguesas y papas fritas. De lunes a viernes voy a la escuela y voy a trabajar. Trabajo como servidor en *PLACE* *PLACE* *PLACE* restaurante. 
+# corrected2 = nan
+# text = Tengo *AGE* anos. Soy de *CITY* *CITY*, *STATE*. Tengo un Perro blanco llamo *FIRST_NAME* y el es muy amiable. Me gusta el color rosa y rojo. Yo soy inteligente, trabadora, y timida. Ahora, estoy muy nerviosa porque mi espanol es muy malo. Me gusta temporary de Vera I porque no tengo que it a la escuela. Tengo mas tiempo para trabajar. Me gusta la class de espanol porque es practica. En class tengo hombre porque es durante la trade y durante la trade y durante el almuerza. Yo estudio quimica en *UNIVERSITY* *UNIVERSITY*. Estoy en una class de biological 101, un class de quimica 1b, y un class de espanol 1. No me gusta comer verdure, Pedro me gusta comer papas Fritas y hamburguesa. Los fines de semana voy comer hamburguesas y papas fritas. De lunes Viennese voy a la esculent y voy a trabajar. Yo trabajo come servidor en *PLACE* *PLACE* *PLACE* restaurante.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	flat	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	1	appos	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	Perro	Perro	PROPN	_	_	1	obj	_	_
+4	blanco	blanco	ADJ	_	_	3	flat	_	_
+5	llamo	llamar	VERB	_	_	1	advcl	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	el	el	DET	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	amiable	amiable	ADJ	_	_	1	conj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	color	color	NOUN	_	_	2	nsubj	_	_
+5	rosa	rosa	PROPN	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rojo	rojo	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	trabadora	trabadoro	ADJ	_	_	3	advmod	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	timida	temer	VERB	_	_	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	estoy	estar	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	nerviosa	nervioso	ADJ	_	_	0	ROOT	_	_
+6	porque	porque	SCONJ	_	_	11	mark	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	espanol	espanol	NOUN	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	malo	malo	ADJ	_	_	5	advcl	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	temporary	temporary	ADJ	_	_	2	nsubj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	Vera	Vera	PROPN	_	_	6	det	_	_
+6	I	I	CCONJ	_	_	2	obl	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	tengo	tener	VERB	_	_	2	advcl	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	it	it	VERB	_	_	9	ccomp	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	escuela	escuela	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	mas	mas	ADV	_	_	3	advmod	_	_
+3	tiempo	tiempo	NOUN	_	_	1	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	trabajar	trabajar	VERB	_	_	3	acl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	class	class	NOUN	_	_	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	espanol	espanol	NOUN	_	_	4	nmod	_	_
+7	porque	porque	SCONJ	_	_	9	mark	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	practica	practico	ADJ	_	_	2	advcl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	class	class	PROPN	_	_	3	obl	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	hombre	hombre	NOUN	_	_	3	obj	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	es	ser	AUX	_	_	9	cop	_	_
+7	durante	durante	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	trade	trade	NOUN	_	_	3	advcl	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	durante	durante	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	trade	trade	NOUN	_	_	9	conj	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	durante	durante	ADP	_	_	17	case	_	_
+16	el	el	DET	_	_	17	det	_	_
+17	almuerza	almuerza	NOUN	_	_	9	conj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	det	_	_
+2	estudio	estudio	NOUN	_	_	3	nsubj	_	_
+3	quimica	quimicar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	obl	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	VERB	_	_	4	cop	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	class	class	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	biological	biological	NOUN	_	_	4	nmod	_	_
+7	101	101	NUM	_	_	6	nummod	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	class	class	NOUN	_	_	4	appos	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	quimica	quimica	NOUN	_	_	10	nmod	_	_
+13	1b	1b	NUM	_	_	12	compound	_	_
+14	,	,	PUNCT	_	_	10	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	un	uno	DET	_	_	17	det	_	_
+17	class	class	NOUN	_	_	10	conj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	espanol	espanol	NOUN	_	_	17	nmod	_	_
+20	1	1	NUM	_	_	17	appos	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	comer	comer	VERB	_	_	3	csubj	_	_
+5	verdure	verdure	PROPN	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	Pedro	Pedro	PROPN	_	_	9	nsubj	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	gusta	gustar	VERB	_	_	3	advcl	_	_
+10	comer	comer	VERB	_	_	9	csubj	_	_
+11	papas	papas	NOUN	_	_	10	obj	_	_
+12	Fritas	Fritas	PROPN	_	_	11	appos	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	hamburguesa	hamburguesa	NOUN	_	_	12	conj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	fines	fin	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	semana	semana	NOUN	_	_	2	nmod	_	_
+5	voy	ir	AUX	_	_	6	aux	_	_
+6	comer	comer	VERB	_	_	0	ROOT	_	_
+7	hamburguesas	hamburguesa	NOUN	_	_	6	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	papas	papas	NOUN	_	_	7	conj	_	_
+10	fritas	fritas	NOUN	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	De	de	ADP	_	_	3	case	_	_
+2	lunes	lunes	NOUN	_	_	1	fixed	_	_
+3	Viennese	Viennese	PROPN	_	_	4	obl	_	_
+4	voy	ir	AUX	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	esculent	esculent	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	voy	ir	AUX	_	_	11	aux	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	trabajar	trabajar	VERB	_	_	4	conj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	trabajo	trabajar	VERB	_	_	1	flat	_	_
+3	come	comar	VERB	_	_	0	ROOT	_	_
+4	servidor	servidor	ADJ	_	_	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*PLACE*	PLACE	PROPN	_	_	4	nmod	_	_
+7	*PLACE*	PLACE	PROPN	_	_	6	flat	_	_
+8	*PLACE*	PLACE	PROPN	_	_	6	flat	_	_
+9	restaurante	restaurante	ADJ	_	_	6	amod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+

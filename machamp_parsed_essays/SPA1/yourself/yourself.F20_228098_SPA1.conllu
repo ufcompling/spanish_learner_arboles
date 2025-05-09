@@ -1,0 +1,267 @@
+# Unnamed: 0 = 8
+# id = 228098
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Soy una estudiante en la universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* años. Soy de *CITY*, *STATE*. Soy un mejor de ciencias políticas. Soy atlética y aventurada. Ahor, estoy cansada por que tengo muchos exámenes. Tengo un perro muy activo. Me gusta correr con mi perro.  En mi escuela secundaria, [yo]{}<pr:su:pron> estudio [el]{}<pr:det:art:def> francés. [Yo]{}<pr:su:pron> quiero aprender español por mi carrera. [Yo]{}<pr:su:pron> quiero soy lawyer (not sure how to say lawyer in Spanish). []{el}<ab:det:art:def> Español no es fácil para mi, pero mi experiencia con el francés es helpful (not sure how to say helpful in Spanish).  Ahor, [yo]{}<pr:su:pron> vivo a mi casa con mi madre y mi (step) padre, por que la pandemia. Me gusta vivo en mi casa en *CITY*. Mi amiga es mi neighbor (don’t know how to say neighbor In Spanish). Oakland y Paris es mi ciudades favoritas.  Mi color [favorita]{favorito}<ga:adj> es []{el}<ab:det:art:def> azul. Mi cumpleaños es en abril. Mi animal favorito es el capypara.  Soy vegetariana por cuatro meses. Soy vegetariana por que me gusta animales, y por el enviroment (not sure how to say environment).
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! Soy una estudiante en la universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* años. Soy de *CITY*, *STATE*. Soy un mejor de ciencias políticas. Soy atlética y aventurada. Ahor, estoy cansada por que tengo muchos exámenes. Tengo un perro muy activo. Me gusta correr con mi perro.  En mi escuela secundaria, [yo]{}<pr:su:pron> [estudio]{estudié}<fs:st:t> [el]{}<pr:det:art:def> francés. [Yo]{}<pr:su:pron> quiero aprender español por mi carrera. [Yo]{}<pr:su:pron> quiero [soy]{ser}<fs:st:t> lawyer (not sure how to say lawyer in Spanish). []{El}<ab:det:art:def> Español no es fácil para mi, pero mi experiencia con el francés es helpful (not sure how to say helpful in Spanish).  Ahor, [yo]{}<pr:su:pron> vivo a mi casa con mi madre y mi (step) padre, por que la pandemia. Me gusta [vivo]{vivir}<fs:st:t> en mi casa en *CITY*. Mi amiga es mi neighbor (don’t know how to say neighbor In Spanish). Oakland y Paris [es]{son}<fs:st:pn> [mi]{mis}<na:det> ciudades favoritas.  Mi color [favorita]{favorito}<ga:adj> es []{el}<ab:det:art:def> azul. Mi cumpleaños es en abril. Mi animal favorito es el capypara.  Soy vegetariana por cuatro meses. Soy vegetariana por que me [gusta]{gustan}<fs:st:pn> []{los}<ab:det:art:def> animales, y por el enviroment (not sure how to say environment).
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy una estudiante en la universidad de *UNIVERSITY*, Davis. Tengo *AGE* años. Soy de *CITY*, *STATE*. Estudio ciencias políticas. Soy atlética y aventurera. Ahora, estoy cansada porque tengo muchos exámenes. Tengo un perro muy activo. Me gusta correr con mi perro.  En mi escuela secundaria, estudiaba francés. Quiero aprender español por mi carrera. Quiero soy abogado. El español no es fácil para mí, pero mi experiencia con el francés es ayuda.  Ahora, vivo a mi casa con mi madre y mi (step) padre, por la pandemia. Me gusta vivir en mi casa en *CITY*. Mi amiga es mi vecina. Oakland y Paris es mi ciudades favoritas.  Mi color favorito es el azul. Mi cumpleaños es en abril. Mi animal favorito es el carpincho.  Soy vegetariana desde hace cuatro meses. Soy vegetariana porque me gusta animales y por el medio ambiente.
+# corrected2 = nan
+# text = Hola! Soy una estudiante en la universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* años. Soy de *CITY*, *STATE*. Soy un mejor de ciencias políticas. Soy atlética y aventurada. Ahor, estoy cansada por que tengo muchos exámenes. Tengo un perro muy activo. Me gusta correr con mi perro. En mi escuela secundaria, yo estudio el francés. Yo quiero aprender español por mi carrera. Yo quiero soy lawyer (not sure how to say lawyer in Spanish). Español no es fácil para mi, pero mi experiencia con el francés es helpful (not sure how to say helpful in Spanish). Ahor, yo vivo a mi casa con mi madre y mi (step) padre, por que la pandemia. Me gusta vivo en mi casa en *CITY*. Mi amiga es mi neighbor (don’t know how to say neighbor In Spanish). Oakland y Paris es mi ciudades favoritas. Mi color favorita es azul. Mi cumpleaños es en abril. Mi animal favorito es el capypara. Soy vegetariana por cuatro meses. Soy vegetariana por que me gusta animales, y por el enviroment (not sure how to say environment).
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	5	dep	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	de	de	ADP	_	_	8	case	_	_
+10	*UNIVERSITY*	*university*	PUNCT	_	_	1	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	*UNIVERSITY*	*university*	PUNCT	_	_	5	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	SYM	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*STATE*	*state*	PUNCT	_	_	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+6	políticas	político	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	atlética	atlético	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	aventurada	aventurado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahor	ahor	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cansada	cansado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	por	por	ADP	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	exámenes	eximen	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	perro	perro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	activo	activo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	correr	correr	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	perro	perro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	francés	francés	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aprender	aprender	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	lawyer	lawyer	NOUN	_	Number=Sing	2	xcomp	_	_
+5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	7	punct	_	_
+6	not	not	ADV	_	Polarity=Neg	7	advmod	_	_
+7	sure	sure	VERB	_	Number=Sing	2	parataxis	_	_
+8	how	how	ADV	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	to	to	ADP	_	_	10	mark	_	_
+10	say	say	VERB	_	VerbForm=Inf	8	acl	_	_
+11	lawyer	lawyer	NOUN	_	Number=Sing	10	obj	_	_
+12	in	in	ADP	_	_	13	case	_	_
+13	Spanish	Spanish	PROPN	_	_	10	obl	_	_
+14	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	7	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Español	Español	PROPN	_	_	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	fácil	fácil	ADJ	_	Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+8	pero	pero	CCONJ	_	_	15	cc	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	francés	francés	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	helpful	helpful	ADJ	_	Number=Sing	4	conj	_	_
+16	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	_
+17	not	not	ADV	_	_	18	advmod	_	_
+18	sure	sure	ADJ	_	_	15	dep	_	_
+19	how	how	NOUN	_	_	17	dep	_	_
+20	to	to	ADP	_	_	21	mark	_	_
+21	say	say	VERB	_	VerbForm=Inf	19	acl	_	_
+22	helpful	helpful	ADJ	_	_	21	obj	_	_
+23	in	in	ADP	_	_	24	case	_	_
+24	Spanish	Spanish	PROPN	_	_	21	obl	_	_
+25	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	18	punct	_	_
+26	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ahor	ahor	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+11	y	y	CCONJ	_	_	16	cc	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	_
+14	step	step	NOUN	_	_	10	appos	_	_
+15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	_
+16	padre	padre	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+18	por	por	ADP	_	_	21	mark	_	_
+19	que	que	SCONJ	_	_	21	mark	_	_
+20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	pandemia	pandemia	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vivo	vivo	ADJ	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	*city*	PROPN	_	_	2	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	neighbor	neighbor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	8	punct	_	_
+7	don’t	don’t	PROPN	_	_	8	dep	_	_
+8	know	know	VERB	_	_	5	parataxis	_	_
+9	how	how	NOUN	_	_	8	obj	_	_
+10	to	to	ADP	_	_	11	mark	_	_
+11	say	say	VERB	_	VerbForm=Inf	9	acl	_	_
+12	neighbor	neighbor	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	In	In	ADP	_	_	14	case	_	_
+14	Spanish	Spanish	PROPN	_	_	8	obl	_	_
+15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Oakland	Oakland	PROPN	_	_	6	nsubj	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	Paris	Paris	PROPN	_	_	1	conj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+7	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	color	color	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorita	favorita	ADJ	_	Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	azul	azul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	abril	abril	NOUN	_	AdvType=Tim	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	animal	animal	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	capypara	capypara	NOUN	_	Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vegetariana	vegetariano	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	meses	mes	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vegetariana	vegetariano	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	por	por	ADP	_	_	6	mark	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	animales	animal	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	enviroment	enviroment	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	_
+14	not	not	ADV	_	_	15	advmod	_	_
+15	sure	sure	ADJ	_	_	12	dep	_	_
+16	how	how	NOUN	_	_	14	compound	_	_
+17	to	to	ADP	_	_	18	mark	_	_
+18	say	say	VERB	_	VerbForm=Inf	16	acl	_	_
+19	environment	environment	NOUN	_	_	18	obj	_	_
+20	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

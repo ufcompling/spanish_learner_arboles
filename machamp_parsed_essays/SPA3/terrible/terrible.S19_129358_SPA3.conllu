@@ -1,0 +1,327 @@
+# Unnamed: 0 = 9
+# id = 129358
+# prompt = terrible
+# quarter = S19
+# course = SPA 3
+# age = 23
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = none
+# language(s) used at home = Chinese
+# language(s) studied = Chinese and English, since I was born.
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Puedo recordar lo malo que me pasó últimamente, pero sufro los deberes y los proyecto. Por ejemplo, en los dos últimos trimestres tenía tres proyectos que hacer al final del término. Pero la escuela estaba cerrada por dos semanas y lo único que podía hacer era programar en mi propia computadora usando terminales que es súper lento en lugar de ir al laboratorio en la escuela. Además, no pude ponerme en contacto con mi compañero de proyecto, así que tuve que trabajar solo en esos dos semanas. El proyecto es muy duro y requiere el conocimiento sobre el diseño de chips y el dibujo de diseño. Por lo tanto, yo no era capaz de encontrar una gente al azar que me puede ayudar pronto. Durante estas dos semanas, tuve que quedarme en casa y trabajar solo en el proyecto. Casi pasé 4 horas en el proyecto para cada día, mientras que la mayoría de mis amigos estaban viajando y divirtiéndose. Fue terrible cuando hice todas las partes solo porque incluye múltiples capas del diseño y cada capa requiere cientos y miles de cables. Tuve que buscar el diseño en el sitio web y enviar un correo electrónico al profesor sobre el proceso de diseño. Sin embargo, aunque se sintiera terrible mientras estaba solo, aprendí muchas cosas. Por ejemplo, el conocimiento sobre el diseño y cómo administrar correctamente mi tiempo. Al final, aunque no ganamos el premio por nuestro diseño, me di cuenta de cómo mejorar nuestro diseño, cómo manejar un equipo y cómo mejorar la effeciencia del aprendizaje estudiando solo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	recordar	recordar	VERB	_	VerbForm=Inf	0	root	_	_
+3	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
+4	malo	malo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+8	últimamente	últimamente	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	sufro	sufrir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	deberes	deber	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Por	por	ADP	_	_	9	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	en	en	ADP	_	_	8	case	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+7	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	8	amod	_	_
+8	trimestres	trimestre	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+9	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+11	proyectos	proyecto	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	que	que	PRON	_	PronType=Rel	13	obj	_	_
+13	hacer	hacer	VERB	_	VerbForm=Inf	11	acl	_	_
+14	al	a	ADP	_	_	15	case	_	_
+15	final	final	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+16	del	de	ADP	_	_	17	case	_	_
+17	término	término	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	cerrada	cerrado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	y	y	CCONJ	_	_	15	cc	_	_
+10	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
+11	único	único	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+12	que	que	PRON	_	PronType=Rel	14	obj	_	_
+13	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	hacer	hacer	VERB	_	VerbForm=Inf	15	csubj	_	_
+15	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+16	programar	programar	VERB	_	VerbForm=Inf	15	ccomp	_	_
+17	en	en	ADP	_	_	20	case	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+19	propia	propio	DET	_	Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
+20	computadora	computadora	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+21	usando	usar	VERB	_	VerbForm=Ger	16	xcomp	_	_
+22	terminales	terminal	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+23	que	que	PRON	_	PronType=Rel	26	nsubj	_	_
+24	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+25	súper	súper	ADV	_	_	26	advmod	_	_
+26	lento	lento	ADJ	_	Gender=Masc|Number=Sing	22	acl	_	_
+27	en	en	ADP	_	_	30	mark	_	_
+28	lugar	lugar	NOUN	_	_	27	fixed	_	_
+29	de	de	ADP	_	_	27	fixed	_	_
+30	ir	ir	VERB	_	VerbForm=Inf	26	acl	_	_
+31	al	a	ADP	_	_	32	case	_	_
+32	laboratorio	laboratorio	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_
+33	en	en	ADP	_	_	35	case	_	_
+34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
+35	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
+36	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Además	además	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	ponerme	poner	VERB	_	VerbForm=Inf	0	root	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	contacto	contacto	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+14	así	así	ADV	_	_	16	mark	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
+16	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+17	que	que	SCONJ	_	_	18	cc	_	_
+18	trabajar	trabajar	VERB	_	VerbForm=Inf	16	conj	_	_
+19	solo	solo	ADJ	_	Gender=Masc|Number=Sing	18	obj	_	_
+20	en	en	ADP	_	_	23	case	_	_
+21	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	23	det	_	_
+22	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	21	nummod	_	_
+23	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	18	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	duro	duro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	requiere	requerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	conocimiento	conocimiento	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	sobre	sobre	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	chips	chip	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	dibujo	dibujo	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Por	por	ADP	_	_	8	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
+3	tanto	tanto	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	capaz	capaz	ADJ	_	Number=Sing	0	root	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	encontrar	encontrar	VERB	_	VerbForm=Inf	8	acl	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	gente	gente	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	al	a	ADP	_	_	14	case	_	_
+14	azar	azar	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+15	que	que	PRON	_	PronType=Rel	18	nsubj	_	_
+16	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obj	_	_
+17	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	ayudar	ayudar	VERB	_	VerbForm=Inf	12	acl	_	_
+19	pronto	pronto	ADV	_	_	18	advmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Durante	durante	ADP	_	_	4	case	_	_
+2	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+4	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	8	cc	_	_
+8	quedarme	quedar	VERB	_	VerbForm=Inf	6	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	trabajar	trabajar	VERB	_	VerbForm=Inf	8	conj	_	_
+13	solo	solo	ADJ	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Casi	casi	ADV	_	_	2	advmod	_	_
+2	pasé	pasar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	parataxis	_	_
+3	4	4	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	cada	cada	DET	_	Number=Sing|PronType=Tot	10	det	_	_
+10	día	día	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	mientras	mientras	CCONJ	_	_	0	root	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
+16	de	de	ADP	_	_	15	case	_	_
+17	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+18	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	20	nsubj	_	_
+19	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
+20	viajando	viajar	VERB	_	VerbForm=Ger	2	advcl	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	divirtiéndose	divirtiénr	VERB	_	VerbForm=Ger	20	conj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	hice	hac	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	partes	parte	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+8	solo	solo	ADJ	_	Gender=Masc|Number=Sing	4	advmod	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	incluye	incluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+11	múltiples	múltiple	ADJ	_	Number=Plur	12	amod	_	_
+12	capas	capa	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	del	de	ADP	_	_	14	case	_	_
+14	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	y	y	CCONJ	_	_	18	cc	_	_
+16	cada	cada	DET	_	Number=Sing|PronType=Tot	17	det	_	_
+17	capa	capa	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+18	requiere	requerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+19	cientos	ciento	NUM	_	Number=Plur|NumForm=Word|NumType=Card	18	obj	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	miles	mil	NUM	_	Number=Plur|NumForm=Word|NumType=Card	19	conj	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	cables	cable	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	buscar	buscar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	web	web	ADJ	_	Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	enviar	enviar	VERB	_	VerbForm=Inf	1	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	correo	correo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	electrónico	electrónico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+15	al	a	ADP	_	_	16	case	_	_
+16	profesor	profesor	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+17	sobre	sobre	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	proceso	proceso	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sin	sin	ADP	_	_	12	advmod	_	_
+2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	aunque	aunque	SCONJ	_	_	6	mark	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	sintiera	sentir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+7	terrible	terrible	ADJ	_	Number=Sing	6	obj	_	_
+8	mientras	mientras	SCONJ	_	_	10	mark	_	_
+9	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+10	solo	solo	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+12	aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+14	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	conocimiento	conocimiento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	sobre	sobre	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	cómo	cómo	PRON	_	PronType=Ind	11	obl	_	_
+11	administrar	administrar	VERB	_	VerbForm=Inf	8	conj	_	_
+12	correctamente	correctamente	ADV	_	_	11	advmod	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Al	a	ADP	_	_	6	case	_	_
+2	final	final	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+4	aunque	aunque	SCONJ	_	_	6	mark	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	ganamos	ganar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	premio	premio	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	por	por	ADP	_	_	11	case	_	_
+10	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+13	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+15	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	14	compound	_	_
+16	de	de	ADP	_	_	18	mark	_	_
+17	cómo	cómo	PRON	_	PronType=Ind	18	obl	_	_
+18	mejorar	mejorar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+19	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+21	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+22	cómo	cómo	PRON	_	PronType=Ind	23	obl	_	_
+23	manejar	manejar	VERB	_	VerbForm=Inf	18	advcl	_	_
+24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+26	y	y	CCONJ	_	_	28	cc	_	_
+27	cómo	cómo	PRON	_	PronType=Ind	28	obl	_	_
+28	mejorar	mejorar	VERB	_	VerbForm=Inf	18	conj	_	_
+29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	effeciencia	effeciencia	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
+31	del	de	ADP	_	_	32	case	_	_
+32	aprendizaje	aprendizaje	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
+33	estudiando	estudiar	VERB	_	VerbForm=Ger	28	advcl	_	_
+34	solo	solo	ADJ	_	Gender=Masc|Number=Sing	33	advmod	_	_
+35	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+

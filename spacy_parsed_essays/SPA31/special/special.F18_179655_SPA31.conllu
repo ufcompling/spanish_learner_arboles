@@ -1,0 +1,396 @@
+# Unnamed: 0 = 153
+# id = 179655
+# prompt = special
+# quarter = F18
+# course = SPA 31
+# age = 21
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = I learned Italian for a quarter.
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME* *LAST_NAME*, la hija mayor en casa (aparte de mis dos hermanos). Diría que una persona especial sería mi hermana menor, *FIRST_NAME*, aparte de toda mi familia por supuesto. Desde que nació, no solo cuide de ella, si no también trate de ensenarle un poco de lo que yo hacía de pequeña. Mi hermana es especial para mí porque siento que es una de esas personas que analiza todo y aprende de ello especialmente de mí. Esto pone mucha presión en mi o como dicen en mi familia un peso en mis hombros. Debo ser cuidadosa de mis acciones para no influirla negativamente. A la misma vez, trato de mantener una relación amistosa con ella para que se sienta con la confianza de poder contarme de su vida personal fuera de casa. Sin embargo, siempre estoy abierta a sus opiniones y preguntas por si se siente confundida en algo en que me equivoque o simplemente ocupa entender algo. Honestamente, creo que ella, por más carácter fuerte que tenga, es alguien con la que a mí me gustaría tener una larga amistad si no fuera mi hermana. Es como un reflejo de todos nosotros (mi familia cercana) juntos en un ser. Para su edad, creo que ha pasado por mucho como en una montaña rusa. Esta es una de las razones por la cual la admiro. Su manera de abarcar las situaciones difíciles y sacar lo mejor de ellas es algo que me agrada mucho y hace que me sienta orgullosa de la persona en cual se está convirtiendo. Adicionalmente, es alguien muy humilde la mayoría del tiempo que al parecer está empezando a adorar sus raíces mexicanas. Creo que, en conjunto, *FIRST_NAME* es especial para mí por ser como es a pesar de todas sus dificultades en la vida ya sean físicas, mentalmente, o sentimentales aparte de la conexión que tenemos de sangre por supuesto.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	*LAST_NAME*	last_name	ADV	_	_	4	flat	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	hija	hija	NOUN	_	_	4	nsubj	_	_
+9	mayor	mayor	ADJ	_	_	8	amod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	casa	casa	NOUN	_	_	8	nmod	_	_
+12	(	(	PUNCT	_	_	17	punct	_	_
+13	aparte	aparte	ADV	_	_	17	case	_	_
+14	de	de	ADP	_	_	13	fixed	_	_
+15	mis	mi	DET	_	_	17	det	_	_
+16	dos	dos	NUM	_	_	15	nummod	_	_
+17	hermanos	hermano	NOUN	_	_	8	appos	_	_
+18	)	)	PUNCT	_	_	17	punct	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Diría	decir	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	8	mark	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	8	nsubj	_	_
+5	especial	especial	ADJ	_	_	4	amod	_	_
+6	sería	ser	AUX	_	_	8	cop	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	hermana	hermana	NOUN	_	_	1	ccomp	_	_
+9	menor	menor	ADJ	_	_	8	amod	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	dep	_	_
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	aparte	aparte	ADV	_	_	17	cc	_	_
+14	de	de	ADP	_	_	13	fixed	_	_
+15	toda	todo	DET	_	_	16	det	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	familia	familia	NOUN	_	_	8	obl	_	_
+18	por	por	ADP	_	_	17	advmod	_	_
+19	supuesto	supuesto	NOUN	_	_	18	fixed	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Desde	desde	ADP	_	_	3	mark	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	nació	nacer	VERB	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	no	no	PART	_	_	7	advmod	_	_
+6	solo	solo	NOUN	_	_	5	fixed	_	_
+7	cuide	cuidir	VERB	_	_	3	advcl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ella	él	PRON	_	_	7	obj	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	si	si	SCONJ	_	_	14	mark	_	_
+12	no	no	ADV	_	_	14	advmod	_	_
+13	también	también	ADV	_	_	12	fixed	_	_
+14	trate	tratar	VERB	_	_	3	advcl	_	_
+15	de	de	ADP	_	_	16	mark	_	_
+16	ensenarle	ensenar él	VERB	_	_	14	xcomp	_	_
+17	un	uno	DET	_	_	16	advmod	_	_
+18	poco	poco	PRON	_	_	17	fixed	_	_
+19	de	de	ADP	_	_	23	mark	_	_
+20	lo	él	PRON	_	_	23	det	_	_
+21	que	que	PRON	_	_	23	obj	_	_
+22	yo	yo	PRON	_	_	23	nsubj	_	_
+23	hacía	hacer	VERB	_	_	16	ccomp	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	pequeña	pequeño	ADJ	_	_	23	obj	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	especial	especial	ADJ	_	_	0	ROOT	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	_	4	nmod	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	siento	sentir	VERB	_	_	4	advcl	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	es	ser	AUX	_	_	11	cop	_	_
+11	una	uno	PRON	_	_	8	ccomp	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	esas	ese	DET	_	_	14	det	_	_
+14	personas	persona	NOUN	_	_	11	nmod	_	_
+15	que	que	PRON	_	_	16	nsubj	_	_
+16	analiza	analizar	VERB	_	_	14	acl	_	_
+17	todo	todo	PRON	_	_	16	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	aprende	aprender	VERB	_	_	16	conj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	ello	él	PRON	_	_	19	obj	_	_
+22	especialmente	especialmente	ADV	_	_	19	advmod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	mí	yo	PRON	_	_	22	nmod	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Esto	este	PRON	_	_	2	nsubj	_	_
+2	pone	poner	VERB	_	_	0	ROOT	_	_
+3	mucha	mucho	DET	_	_	4	det	_	_
+4	presión	presión	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	mi	mi	DET	_	_	2	obl	_	_
+7	o	o	CCONJ	_	_	9	cc	_	_
+8	como	como	SCONJ	_	_	9	mark	_	_
+9	dicen	decir	VERB	_	_	2	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	familia	familia	NOUN	_	_	9	obl	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	peso	peso	NOUN	_	_	2	obj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	_	17	det	_	_
+17	hombros	hombro	NOUN	_	_	14	nmod	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Debo	deber	VERB	_	_	3	aux	_	_
+2	ser	ser	AUX	_	_	3	cop	_	_
+3	cuidadosa	cuidadoso	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	acciones	acción	NOUN	_	_	3	nmod	_	_
+7	para	para	ADP	_	_	9	mark	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	influirla	influir él	VERB	_	_	3	advcl	_	_
+10	negativamente	negativamente	ADV	_	_	9	advmod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	4	case	_	_
+2	la	el	DET	_	_	4	det	_	_
+3	misma	mismo	DET	_	_	2	det	_	_
+4	vez	vez	NOUN	_	_	6	obl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	trato	tratar	VERB	_	_	0	ROOT	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	mantener	mantener	VERB	_	_	6	xcomp	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	relación	relación	NOUN	_	_	8	obj	_	_
+11	amistosa	amistoso	ADJ	_	_	10	amod	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	ella	él	PRON	_	_	10	nmod	_	_
+14	para	para	ADP	_	_	17	mark	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	se	él	PRON	_	_	17	expl:pv	_	_
+17	sienta	sentar	VERB	_	_	8	advcl	_	_
+18	con	con	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	confianza	confianza	NOUN	_	_	17	obj	_	_
+21	de	de	ADP	_	_	23	mark	_	_
+22	poder	poder	NOUN	_	_	23	aux	_	_
+23	contarme	contar yo	VERB	_	_	20	acl	_	_
+24	de	de	ADP	_	_	26	case	_	_
+25	su	su	DET	_	_	26	det	_	_
+26	vida	vida	NOUN	_	_	23	obj	_	_
+27	personal	personal	ADJ	_	_	26	amod	_	_
+28	fuera	fuera	ADV	_	_	23	advmod	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	casa	casa	NOUN	_	_	28	obl	_	_
+31	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	estoy	estar	AUX	_	_	6	cop	_	_
+6	abierta	abierto	ADJ	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	sus	su	DET	_	_	9	det	_	_
+9	opiniones	opinión	NOUN	_	_	6	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	preguntas	pregunta	NOUN	_	_	9	conj	_	_
+12	por	por	ADP	_	_	15	mark	_	_
+13	si	si	SCONJ	_	_	15	mark	_	_
+14	se	él	PRON	_	_	15	expl:pv	_	_
+15	siente	sentir	VERB	_	_	6	advcl	_	_
+16	confundida	confundido	ADJ	_	_	15	obj	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	algo	algo	PRON	_	_	16	obl	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	que	que	PRON	_	_	22	obl	_	_
+21	me	yo	PRON	_	_	22	obj	_	_
+22	equivoque	equivocar	VERB	_	_	18	acl	_	_
+23	o	o	CCONJ	_	_	25	cc	_	_
+24	simplemente	simplemente	ADV	_	_	25	advmod	_	_
+25	ocupa	ocupar	VERB	_	_	22	conj	_	_
+26	entender	entender	VERB	_	_	25	xcomp	_	_
+27	algo	algo	PRON	_	_	26	obj	_	_
+28	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Honestamente	honestamente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	creo	creer	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	15	mark	_	_
+5	ella	él	PRON	_	_	15	nsubj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	más	más	ADV	_	_	9	advmod	_	_
+9	carácter	carácter	NOUN	_	_	15	obl	_	_
+10	fuerte	fuerte	ADJ	_	_	9	amod	_	_
+11	que	que	PRON	_	_	12	obj	_	_
+12	tenga	tener	VERB	_	_	9	acl	_	_
+13	,	,	PUNCT	_	_	9	punct	_	_
+14	es	ser	AUX	_	_	15	cop	_	_
+15	alguien	alguien	PRON	_	_	3	ccomp	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	que	que	PRON	_	_	22	obl	_	_
+19	a	a	ADP	_	_	20	case	_	_
+20	mí	yo	PRON	_	_	22	obj	_	_
+21	me	yo	PRON	_	_	22	iobj	_	_
+22	gustaría	gustar	VERB	_	_	15	acl	_	_
+23	tener	tener	VERB	_	_	22	csubj	_	_
+24	una	uno	DET	_	_	26	det	_	_
+25	larga	largo	ADJ	_	_	26	amod	_	_
+26	amistad	amistad	NOUN	_	_	23	obj	_	_
+27	si	si	SCONJ	_	_	31	mark	_	_
+28	no	no	ADV	_	_	31	advmod	_	_
+29	fuera	ser	AUX	_	_	31	cop	_	_
+30	mi	mi	DET	_	_	31	det	_	_
+31	hermana	hermana	NOUN	_	_	22	csubj	_	_
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	como	como	SCONJ	_	_	4	mark	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	reflejo	reflejo	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	todos	todo	DET	_	_	7	det	_	_
+7	nosotros	yo	PRON	_	_	4	nmod	_	_
+8	(	(	PUNCT	_	_	10	punct	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	familia	familia	NOUN	_	_	7	appos	_	_
+11	cercana	cercano	ADJ	_	_	10	amod	_	_
+12	)	)	PUNCT	_	_	10	punct	_	_
+13	juntos	junto	ADJ	_	_	7	amod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	un	uno	DET	_	_	16	det	_	_
+16	ser	ser	NOUN	_	_	4	nmod	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Para	para	ADP	_	_	3	case	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	edad	edad	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	creo	creer	VERB	_	_	0	ROOT	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	ha	haber	AUX	_	_	8	aux	_	_
+8	pasado	pasar	VERB	_	_	5	ccomp	_	_
+9	por	por	ADP	_	_	8	advmod	_	_
+10	mucho	mucho	ADV	_	_	9	fixed	_	_
+11	como	como	SCONJ	_	_	14	mark	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	_	14	det	_	_
+14	montaña	montaña	NOUN	_	_	8	obl	_	_
+15	rusa	ruso	ADJ	_	_	14	amod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Esta	este	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	una	uno	PRON	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	razones	razón	NOUN	_	_	3	nmod	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	cual	cual	PRON	_	_	11	obl	_	_
+10	la	el	DET	_	_	11	obj	_	_
+11	admiro	admirar	VERB	_	_	6	acl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	manera	manera	NOUN	_	_	15	nsubj	_	_
+3	de	de	ADP	_	_	4	mark	_	_
+4	abarcar	abarcar	VERB	_	_	2	acl	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	situaciones	situación	NOUN	_	_	4	obj	_	_
+7	difíciles	difícil	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	sacar	sacar	VERB	_	_	4	conj	_	_
+10	lo	él	PRON	_	_	11	det	_	_
+11	mejor	mejor	ADJ	_	_	9	obj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	ellas	él	PRON	_	_	11	nmod	_	_
+14	es	ser	AUX	_	_	15	cop	_	_
+15	algo	algo	PRON	_	_	0	ROOT	_	_
+16	que	que	PRON	_	_	18	nsubj	_	_
+17	me	yo	PRON	_	_	18	obj	_	_
+18	agrada	agrado	ADJ	_	_	15	acl	_	_
+19	mucho	mucho	ADV	_	_	18	advmod	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	hace	hacer	VERB	_	_	15	conj	_	_
+22	que	que	SCONJ	_	_	24	mark	_	_
+23	me	yo	PRON	_	_	24	iobj	_	_
+24	sienta	sentar	VERB	_	_	21	ccomp	_	_
+25	orgullosa	orgulloso	ADJ	_	_	24	obj	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	el	DET	_	_	28	det	_	_
+28	persona	persona	NOUN	_	_	24	obj	_	_
+29	en	en	ADP	_	_	30	case	_	_
+30	cual	cual	PRON	_	_	33	obl	_	_
+31	se	él	PRON	_	_	33	expl:pass	_	_
+32	está	estar	AUX	_	_	33	aux	_	_
+33	convirtiendo	convertir	VERB	_	_	28	acl	_	_
+34	.	.	PUNCT	_	_	15	punct	_	_
+
+1	Adicionalmente	Adicionalmente	PROPN	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	alguien	alguien	PRON	_	_	0	ROOT	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	humilde	humilde	ADJ	_	_	4	amod	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mayoría	mayoría	NOUN	_	_	4	nsubj	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	tiempo	tiempo	NOUN	_	_	8	nmod	_	_
+11	que	que	PRON	_	_	15	mark	_	_
+12	al	al	ADP	_	_	15	case	_	_
+13	parecer	parecer	NOUN	_	_	12	fixed	_	_
+14	está	estar	AUX	_	_	15	aux	_	_
+15	empezando	empezar	VERB	_	_	8	acl	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	adorar	adorar	VERB	_	_	15	xcomp	_	_
+18	sus	su	DET	_	_	19	det	_	_
+19	raíces	raíz	NOUN	_	_	17	obj	_	_
+20	mexicanas	mexicano	ADJ	_	_	19	amod	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	9	mark	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	en	en	ADP	_	_	9	advmod	_	_
+5	conjunto	conjunto	NOUN	_	_	4	fixed	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	nsubj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	especial	especial	ADJ	_	_	1	ccomp	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	mí	yo	PRON	_	_	9	nmod	_	_
+12	por	por	ADP	_	_	21	mark	_	_
+13	ser	ser	AUX	_	_	21	cop	_	_
+14	como	como	SCONJ	_	_	15	mark	_	_
+15	es	ser	AUX	_	_	13	ccomp	_	_
+16	a	a	ADP	_	_	21	case	_	_
+17	pesar	pesar	NOUN	_	_	16	fixed	_	_
+18	de	de	ADP	_	_	16	fixed	_	_
+19	todas	todo	DET	_	_	20	det	_	_
+20	sus	su	DET	_	_	21	det	_	_
+21	dificultades	dificultad	NOUN	_	_	27	obl	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	la	el	DET	_	_	24	det	_	_
+24	vida	vida	NOUN	_	_	21	nmod	_	_
+25	ya	ya	ADV	_	_	27	advmod	_	_
+26	sean	ser	AUX	_	_	27	cop	_	_
+27	físicas	físico	ADJ	_	_	9	advcl	_	_
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	mentalmente	mentalmente	ADV	_	_	27	advmod	_	_
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	o	o	CCONJ	_	_	32	cc	_	_
+32	sentimentales	sentimental	ADJ	_	_	27	conj	_	_
+33	aparte	aparte	ADV	_	_	36	case	_	_
+34	de	de	ADP	_	_	33	fixed	_	_
+35	la	el	DET	_	_	36	det	_	_
+36	conexión	conexión	NOUN	_	_	27	obl	_	_
+37	que	que	PRON	_	_	38	obj	_	_
+38	tenemos	tener	VERB	_	_	36	acl	_	_
+39	de	de	ADP	_	_	40	case	_	_
+40	sangre	sangre	NOUN	_	_	38	obl	_	_
+41	por	por	ADP	_	_	38	advmod	_	_
+42	supuesto	supuesto	NOUN	_	_	41	fixed	_	_
+43	.	.	PUNCT	_	_	1	punct	_	_
+

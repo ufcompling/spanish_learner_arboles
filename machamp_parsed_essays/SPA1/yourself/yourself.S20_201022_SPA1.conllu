@@ -1,0 +1,239 @@
+# Unnamed: 0 = 174
+# id = 201022
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = I took French for 3 years in high school and Hebrew for 1 quarter at UC Davis. 
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy de [la]{}<pr:det:art:def>  *CITY* *CITY*. Está en el area de la *PLACE* de *CITY* *CITY*. Me gusta *STATE*! Es muy bonita. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy inteligente y trabajadora. Soy tímida pero cómica.  Estoy en mi segundo año de universidad en []{la}<ab:det:art:def> *UNIVERSITY* *UNIVERSITY*. Mi especialización es [las]{}<pr:det:art:def> ciencias animales. Es [un]{una}<ga:det> especialización muy interesante. Me gusta trabajar con perros y gatos y también con cabras y vacas. Este semestre estoy estudiando [las]{}<pr:det:art:def> ciencias animales, [la]{}<pr:det:art:def> química orgánica, [la]{}<pr:det:art:def> ciencia de las plantas, y español. [Las]{}<pr:det:art:def> ciencias animales es un poco difícil porque tiene mucho vocabulario, pero es mi curso favorito. Español también tiene mucho vocabulario. Ahora estoy un poco [aburrido]{aburrida}<ga:adj> porque mis amigos no están en *CITY*, [ellos]{}<pr:su:pron> están en sus casas. Me gusta estar ocupada. No me gusta ser sedentaria. Me gusta leer y escuchar música. Tengo un gato grande. Su nombre es *FIRST_NAME*. El tiene *AGE* años. [El]{}<pr:su:pron> es activo y cómico.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de la  *CITY* *CITY*. Está en el area de la *PLACE* de *CITY* *CITY*. Me gusta *STATE*! Es muy bonita. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy inteligente y trabajadora. Soy tímida pero cómica.  Estoy en mi segundo año de universidad en *UNIVERSITY* *UNIVERSITY*. Mi especialización [es]{son}<fs:st:pn> las ciencias animales. Es [un]{una}<ga:det> especialización muy interesante. Me gusta trabajar con perros y gatos y también con cabras y vacas. Este semestre estoy estudiando [las]{}<pr:det:art:def> ciencias animales, [la]{}<pr:det:art:def> química orgánica, [la]{}<pr:det:art:def> ciencia de las plantas, y español. [Las]{}<pr:det:art:def> ciencias animales es un poco difícil porque tiene mucho vocabulario, pero es mi curso favorito. Español también tiene mucho vocabulario. Ahora estoy un poco [aburrido]{aburrida}<ga:adj> porque mis amigos no están en *CITY*, [ellos]{}<pr:su:pron> están en sus casas. Me gusta estar ocupada. No me gusta ser sedentaria. Me gusta leer y escuchar música. Tengo un gato grande. Su nombre es *FIRST_NAME*. [El]{}<pr:su:pron> tiene *AGE* años. [El]{}<pr:su:pron> es activo y cómico.
+# verbs annotation ann2 = nan
+# corrected1 = Soy de *CITY* *CITY*. Está en el área de la *PLACE* de *CITY* *CITY*. ¡Me gusta *STATE*! Es muy bonita. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy inteligente y trabajadora. Soy tímida pero cómica. Estoy en mi segundo año de universidad en la *UNIVERSITY* *UNIVERSITY*. Mi especialización es en Ciencias Animales. Es una especialización muy interesante. Me gusta trabajar con perros y gatos y también con cabras y vacas. Este semestre estoy estudiando Ciencias Animales, Química Orgánica, Ciencia de las Plantas y Español. Ciencias animales es un poco difícil porque tiene mucho vocabulario, pero es mi asignatura favorita. Español también tiene mucho vocabulario. Ahora estoy un poco aburrida porque mis amigos no están en *CITY*, están en sus casas. Me gusta estar ocupada. No me gusta ser sedentaria. Me gusta leer y escuchar música. Tengo un gato grande. Su nombre es *FIRST_NAME*. Él tiene *AGE* años. Es activo y cómico.
+# corrected2 = nan
+# text = Soy de la *CITY* *CITY*. Está en el area de la *PLACE* de *CITY* *CITY*. Me gusta *STATE*! Es muy bonita. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy inteligente y trabajadora. Soy tímida pero cómica. Estoy en mi segundo año de universidad en *UNIVERSITY* *UNIVERSITY*. Mi especialización es las ciencias animales. Es un especialización muy interesante. Me gusta trabajar con perros y gatos y también con cabras y vacas. Este semestre estoy estudiando las ciencias animales, la química orgánica, la ciencia de las plantas, y español. Las ciencias animales es un poco difícil porque tiene mucho vocabulario, pero es mi curso favorito. Español también tiene mucho vocabulario. Ahora estoy un poco aburrido porque mis amigos no están en *CITY*, ellos están en sus casas. Me gusta estar ocupada. No me gusta ser sedentaria. Me gusta leer y escuchar música. Tengo un gato grande. Su nombre es *FIRST_NAME*. El tiene *AGE* años. El es activo y cómico.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	*CITY*	*city*	PROPN	_	_	1	obl	_	_
+5	*CITY*	*city*	PROPN	_	_	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	area	area	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+7	*PLACE*	*place*	SYM	_	_	4	punct	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*CITY*	*CitY*	PROPN	_	_	7	punct	_	_
+10	*CITY*	*city*	PROPN	_	_	9	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*STATE*	*state*	PUNCT	_	_	2	punct	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	0	root	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	PunctType=Quot	2	punct	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	pero	pero	CCONJ	_	_	4	cc	_	_
+4	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	en	en	ADP	_	_	5	case	_	_
+9	*UNIVERSITY*	*university*	PROPN	_	_	5	nmod	_	_
+10	*UNIVERSITY*	*university*	PUNCT	_	_	9	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	animales	animal	ADJ	_	Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	interesante	interesante	ADJ	_	Number=Sing	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	trabajar	trabajar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	también	también	ADV	_	_	5	conj	_	_
+10	con	con	ADP	_	_	9	case	_	_
+11	cabras	cabra	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	vacas	vaca	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	estudiando	estudiar	VERB	_	VerbForm=Ger	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	animales	animal	ADJ	_	Number=Plur	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	química	química	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+11	orgánica	orgánico	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	ciencia	ciencia	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	español	español	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	animales	animal	ADJ	_	Number=Plur	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	advmod	_	_
+6	poco	poco	ADV	_	_	5	fixed	_	_
+7	difícil	difícil	ADJ	_	Number=Sing	0	root	_	_
+8	porque	porque	SCONJ	_	_	9	mark	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+10	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	det	_	_
+11	vocabulario	vocabulario	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	pero	pero	CCONJ	_	_	16	cc	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	curso	curso	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+17	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Español	Español	PROPN	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	vocabulario	vocabulario	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	5	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	aburrido	aburrido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	porque	porque	SCONJ	_	_	10	mark	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*CITY*	*city*	PROPN	_	_	10	obl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+14	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+15	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
+18	casas	casa	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	estar	estar	AUX	_	VerbForm=Inf	4	aux	_	_
+4	ocupada	ocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	csubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ser	ser	AUX	_	VerbForm=Inf	5	cop	_	_
+5	sedentaria	sedentario	ADJ	_	Gender=Fem|Number=Sing	3	csubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	escuchar	escuchar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	música	música	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	gato	gato	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	grande	grande	ADJ	_	Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	activo	activo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cómico	cómico	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

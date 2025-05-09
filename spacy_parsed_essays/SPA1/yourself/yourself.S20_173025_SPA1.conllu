@@ -1,0 +1,230 @@
+# Unnamed: 0 = 40
+# id = 173025
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = At home I speak Chinese (not necessarily Mandarin; it's a dialect)
+# language(s) studied = English: 10 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* años. Soy de *PLACE*, una pequeña ciudad en el sur. Hablo chino, ingles, y un poco francés. Me gusta estudiar los idiomas diferentes. [Yo]{}<pr:su:pron> estudio estadística, pero es muy difícil. Soy cómica y sincera. Pero no soy activa. Me gusta hornear mucho, y mis postres [favoritas]{favoritos}<ga:adj> son creme brûlée, pastel de queso japonés y churros, Si, me gustan []{los}<ab:det:art:def> postres de país diferentes. (me gusta []{la}<ab:det:art:def> horchata también!) No puedo bailar pero me gusta cantar mucho. Canto todo el tiempo.  Ahora, estudio español porque aquí, [muchos]{muchas}<ga:det> personas hablan español en *STATE*. Pienso que []{el}<ab:det:art:def> español es mas fácil que []{el}<ab:det:art:def> francés. Tambien, mi novio es *PLACE* y el habla español. [El]{}<pr:su:pron> estudia SPA 3 este trimestre.  Estoy aburrida y nerviosa ahora porque mis cursos en linea son muy ocupados. No tengo trabajo porque el campus esta cerrado. No tengo dinero para meriendas. No puedo ir a casa porque el virus [es]{está}<conf:v:seta> en todas partes.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* años. Soy de *PLACE*, una pequeña ciudad en el sur. Hablo chino, ingles, y un poco francés. Me gusta estudiar [los]{}<pr:det:art:def> [idiomas diferentes]{diferentes idiomas}<col:adj>. [Yo]{}<pr:su:pron> estudio estadística, pero es muy difícil. Soy cómica y sincera. Pero no soy activa. Me gusta hornear mucho, y mis postres [favoritas]{favoritos}<ga:adj> son []{la}<ab:det:art:def> creme brûlée, []{el}<ab:det:art:def> pastel de queso japonés y []{los}<ab:det:art:def> churros, Si, me gustan postres de [país]{países}<na:noun> diferentes. (me gusta []{la}<ab:det:art:def> horchata también!) No puedo bailar pero me gusta cantar mucho. Canto todo el tiempo.  Ahora, estudio español porque aquí, [muchos]{muchas}<ga:det> personas hablan español en *STATE*. Pienso que []{el}<ab:det:art:def> español es mas fácil que []{el}<ab:det:art:def> francés. Tambien, mi novio es *PLACE* y [el]{}<pr:su:pron> habla español. El estudia SPA 3 este trimestre.  Estoy aburrida y nerviosa ahora porque mis cursos en linea son muy ocupados. No tengo trabajo porque el campus esta cerrado. No tengo dinero para meriendas. No puedo ir a casa porque el virus [es]{está}<conf:v:seta> en todas partes.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* años. Soy de *PLACE*, una pequeña ciudad en el sur. Hablo chino, inglés, y un poco de francés. Me gusta estudiar los idiomas diferentes. Estudio estadística, pero es muy difícil. Soy cómica y sincera. Pero no soy activa. Me gusta hornear mucho, y mis postres favoritos son creme brûlée, pastel de queso japonés y churros, Sí, me gustan los postres de países diferentes. (¡me gusta la horchata también!) No puedo bailar pero me gusta cantar mucho. Canto todo el tiempo.  Ahora, estudio español porque aquí, muchas personas hablan español en *STATE*. Pienso que el español es más fácil que el francés. También, mi novio es *PLACE* y el habla español. Estudia SPA 3 este trimestre.  Estoy aburrida y nerviosa ahora porque mis cursos en línea son muy ocupados. No tengo trabajo porque el campus está cerrado. No tengo dinero para meriendas. No puedo ir a casa porque el virus está en todas partes.
+# corrected2 = nan
+# text = Tengo *AGE* años. Soy de *PLACE*, una pequeña ciudad en el sur. Hablo chino, ingles, y un poco francés. Me gusta estudiar los idiomas diferentes. Yo estudio estadística, pero es muy difícil. Soy cómica y sincera. Pero no soy activa. Me gusta hornear mucho, y mis postres favoritas son creme brûlée, pastel de queso japonés y churros, Si, me gustan postres de país diferentes. (me gusta horchata también!) No puedo bailar pero me gusta cantar mucho. Canto todo el tiempo. Ahora, estudio español porque aquí, muchos personas hablan español en *STATE*. Pienso que español es mas fácil que francés. Tambien, mi novio es *PLACE* y el habla español. El estudia SPA 3 este trimestre. Estoy aburrida y nerviosa ahora porque mis cursos en linea son muy ocupados. No tengo trabajo porque el campus esta cerrado. No tengo dinero para meriendas. No puedo ir a casa porque el virus es en todas partes.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	una	uno	DET	_	_	7	det	_	_
+6	pequeña	pequeño	ADJ	_	_	7	amod	_	_
+7	ciudad	ciudad	NOUN	_	_	1	appos	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	sur	sur	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hablo	Hablo	PROPN	_	_	0	ROOT	_	_
+2	chino	chino	ADJ	_	_	1	flat	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ingles	ingl	ADJ	_	_	1	conj	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	un	uno	DET	_	_	9	det	_	_
+8	poco	poco	ADV	_	_	7	fixed	_	_
+9	francés	francés	ADJ	_	_	1	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	estudiar	estudiar	VERB	_	_	2	csubj	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	idiomas	idioma	NOUN	_	_	3	obj	_	_
+6	diferentes	diferente	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	amod	_	_
+2	estudio	estudio	NOUN	_	_	0	ROOT	_	_
+3	estadística	estadístico	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	difícil	difícil	ADJ	_	_	2	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	cómica	cómico	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	sincera	sincero	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	soy	ser	AUX	_	_	4	cop	_	_
+4	activa	activo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	hornear	hornear	VERB	_	_	2	csubj	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	postres	postre	NOUN	_	_	11	nsubj	_	_
+9	favoritas	favorito	ADJ	_	_	8	amod	_	_
+10	son	ser	AUX	_	_	11	aux	_	_
+11	creme	creme	VERB	_	_	2	conj	_	_
+12	brûlée	brûlée	PROPN	_	_	11	nsubj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	pastel	pastel	NOUN	_	_	11	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	queso	queso	NOUN	_	_	14	nmod	_	_
+17	japonés	japonés	ADJ	_	_	16	amod	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	churros	churro	NOUN	_	_	16	conj	_	_
+20	,	,	PUNCT	_	_	14	punct	_	_
+21	Si	Si	SCONJ	_	_	24	mark	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	me	yo	PRON	_	_	24	iobj	_	_
+24	gustan	gustar	VERB	_	_	11	advcl	_	_
+25	postres	postre	NOUN	_	_	24	nsubj	_	_
+26	de	de	ADP	_	_	27	case	_	_
+27	país	país	NOUN	_	_	25	nmod	_	_
+28	diferentes	diferente	ADJ	_	_	25	amod	_	_
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+1	(	(	PUNCT	_	_	3	punct	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	horchata	horchatar	VERB	_	_	3	csubj	_	_
+5	también	también	ADV	_	_	4	advmod	_	_
+6	!	!	PUNCT	_	_	3	punct	_	_
+7	)	)	PUNCT	_	_	3	punct	_	_
+8	No	no	ADV	_	_	10	advmod	_	_
+9	puedo	poder	AUX	_	_	10	aux	_	_
+10	bailar	bailar	VERB	_	_	3	csubj	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	gusta	gustar	VERB	_	_	3	conj	_	_
+14	cantar	cantar	VERB	_	_	13	csubj	_	_
+15	mucho	mucho	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Canto	cantar	VERB	_	_	0	ROOT	_	_
+2	todo	todo	DET	_	_	3	det	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	tiempo	tiempo	NOUN	_	_	1	flat	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	estudio	estudio	NOUN	_	_	0	ROOT	_	_
+4	español	español	ADJ	_	_	3	amod	_	_
+5	porque	porque	SCONJ	_	_	10	mark	_	_
+6	aquí	aquí	ADV	_	_	10	advmod	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	muchos	mucho	DET	_	_	9	det	_	_
+9	personas	persona	NOUN	_	_	10	nsubj	_	_
+10	hablan	hablar	VERB	_	_	3	advcl	_	_
+11	español	español	NOUN	_	_	10	obj	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*STATE*	STATE	PROPN	_	_	10	obl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Pienso	pensar	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	español	español	ADJ	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	mas	mas	ADV	_	_	6	advmod	_	_
+6	fácil	fácil	ADJ	_	_	1	ccomp	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	francés	francés	ADJ	_	_	6	advmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	novio	novio	NOUN	_	_	6	nsubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	habla	habla	NOUN	_	_	6	conj	_	_
+10	español	español	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	estudia	estudia	NOUN	_	_	0	ROOT	_	_
+3	SPA	SPA	PROPN	_	_	2	appos	_	_
+4	3	3	NUM	_	_	3	nummod	_	_
+5	este	este	DET	_	_	6	det	_	_
+6	trimestre	trimestre	NOUN	_	_	2	appos	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	aburrida	aburrido	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	nerviosa	nervioso	ADJ	_	_	2	conj	_	_
+5	ahora	ahora	ADV	_	_	2	advmod	_	_
+6	porque	porque	SCONJ	_	_	13	mark	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	cursos	curso	NOUN	_	_	13	nsubj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	linea	linea	NOUN	_	_	8	nmod	_	_
+11	son	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	ocupados	ocupado	ADJ	_	_	2	advcl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	trabajo	trabajo	NOUN	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	campus	campus	NOUN	_	_	2	obl	_	_
+7	esta	este	DET	_	_	8	det	_	_
+8	cerrado	cerrado	NOUN	_	_	6	appos	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	dinero	dinero	NOUN	_	_	2	obj	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	meriendas	merienda	NOUN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	puedo	poder	AUX	_	_	3	aux	_	_
+3	ir	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	_	3	obl	_	_
+6	porque	porque	SCONJ	_	_	12	mark	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	virus	virus	NOUN	_	_	12	nsubj	_	_
+9	es	ser	AUX	_	_	12	cop	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	todas	todo	DET	_	_	12	det	_	_
+12	partes	parte	NOUN	_	_	3	obl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+

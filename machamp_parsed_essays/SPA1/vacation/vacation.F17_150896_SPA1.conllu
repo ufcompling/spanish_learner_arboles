@@ -1,0 +1,170 @@
+# Unnamed: 0 = 153
+# id = 150896
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = French- 4 years
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Yo quiero viajar al sur Chile en Patagonia. En Chile yo quiero caminar. Me gusta fotografia montana. Chile es muy bonita. La montana es muy grande. La gente en Chile es simpatica. Yo hablo espanol en Chile. Mis amigos vas a Chile con mi. Nostrous hablimos y tocamos la guiterra alrededor de la fogata. Me gusta viajar con mis amigos. Yo vuelo a Chile despues voy en autobus. Yo quiero viajar en la invierno por que yo quiero ver la nieve. Me gusta el clima frio. Yo no nado en Chile o tomar un bano de sol. Tambien, yo quiero leer y relajarse. Yo quiero ir a escalar.
+# a personal annotator2 = Yo quiero viajar al sur Chile en Patagonia. En Chile yo quiero caminar. Me gusta fotografia montana. Chile es muy bonita. La montana es muy grande. La gente en Chile es simpatica. Yo hablo espanol en Chile. Mis amigos vas a Chile con mi. Nostrous hablimos y tocamos la guiterra alrededor de la fogata. Me gusta viajar con mis amigos. Yo vuelo a Chile despues voy en autobus. Yo quiero viajar en la invierno por que yo quiero ver la nieve. Me gusta el clima frio. Yo no nado en Chile o tomar un bano de sol. Tambien, yo quiero leer y relajarse. Yo quiero ir a escalar.
+# gender-number annotator1 = 
+Yo quiero viajar al sur Chile en Patagonia. En Chile yo quiero caminar. Me gusta fotografia montana. Chile es muy bonita. La montana es muy grande. La gente en Chile es simpatica. Yo hablo espanol en Chile. Mis amigos vas a Chile con mi. Nostrous hablimos y tocamos la guiterra alrededor de la fogata. Me gusta viajar con mis amigos. Yo vuelo a Chile despues voy en autobus. Yo quiero viajar en [la]{el}<ga:mf:det:inan> invierno por que yo quiero ver la nieve. Me gusta el clima frio. Yo no nado en Chile o tomar un bano de sol. Tambien, yo quiero leer y relajarse. Yo quiero ir a escalar.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo quiero viajar al sur Chile en Patagonia. En Chile yo quiero caminar. Me gusta fotografia montana. Chile es muy bonita. La montana es muy grande. La gente en Chile es simpatica. Yo hablo espanol en Chile. Mis amigos vas a Chile con mi. Nostrous hablimos y tocamos la guiterra alrededor de la fogata. Me gusta viajar con mis amigos. Yo vuelo a Chile despues voy en autobus. Yo quiero viajar en la invierno por que yo quiero ver la nieve. Me gusta el clima frio. Yo no nado en Chile o tomar un bano de sol. Tambien, yo quiero leer y relajarse. Yo quiero ir a escalar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	viajar	viajar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	sur	sur	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	Chile	Chile	PROPN	_	_	5	appos	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Patagonia	Patagonia	PROPN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Chile	Chile	PROPN	_	_	4	obl	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	caminar	caminar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fotografia	fotografia	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	montana	montano	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Chile	Chile	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	montana	montana	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Chile	Chile	PROPN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	simpatica	simpatico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Chile	Chile	PROPN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Chile	Chile	PROPN	_	_	3	obl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nostrous	nostrou	PRON	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	hablimos	hablir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tocamos	tocar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	guiterra	guiterra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	alrededor	alrededor	ADV	_	_	4	advmod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	fogata	fogata	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	viajar	viajar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vuelo	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Chile	Chile	PROPN	_	_	2	obl	_	_
+5	despues	despr	NOUN	_	_	2	advcl	_	_
+6	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	autobus	autobus	NOUN	_	Gender=Masc	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	viajar	viajar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	por	por	ADP	_	_	10	mark	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	ver	ver	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	clima	clima	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	frio	frio	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	nado	nadar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Chile	Chile	PROPN	_	_	3	obl	_	_
+6	o	o	CCONJ	_	_	7	cc	_	_
+7	tomar	tomar	VERB	_	VerbForm=Inf	3	conj	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	bano	bano	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	sol	sol	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tambien	tambien	NOUN	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	leer	leer	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	relajarse	relajar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	escalar	escalar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

@@ -1,0 +1,355 @@
+# Unnamed: 0 = 100
+# id = 232844
+# prompt = beautiful
+# quarter = W21
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = Other
+# language(s) used at home = 3
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Fui de vacaciones a México. Fui allí en un crucero. Fui con mi mamá, mi papá y mi hermana. Fuimos a *CITY* *CITY* porque el crucero partió del puerto de *CITY* *CITY*, y luego fuimos en el crucero. Tuvieron mucha comida en el crucero. Hubieron muchas cocinas diferentes. Comí un burrito y comí papas fritas y salsa el primer día del crucero. El segundo día comí gazpacho y se me cayó la cuchara. Cuando cogí la cuchara, mi cabeza golpeó la mesa. La camarera me vio y trajo hielo para mi cabeza. Tuve dolor de cabeza por unas horas más. Fui con la enfermera y me dio pastillas. Volví a mi habitación y vi un salón de baile cerca. Luego, fui al salón de baile y vi que había una conferencia. Vi a muchos profesores, abogados y periodistas hablando entre sí. Uno de los profesores me vio y me invitó a entrar. Fue una profesora de inglés que se especializó en ciencias y cocina. Me presentó a sus amigos y me contó cómo fueron todos juntos a la escuela de cocina. Después de la conferencia, me enseñó a hacer su plato favorito, la paella. Me dijo que usara arroz, pollo, pimientos, ajo, cebolla, guisantes verdes, camarones, limón, jengibre, perejil y tomates. Luego cocinamos todo juntos y comimos juntos en la cocina. El crucero se detuvo en México. Un guía turístico nos llevó a Chichén Itzá y al Templo de los Guerreros. Luego volvimos al crucero y volvimos a *CITY* *CITY*. Este era mi viaje favorito porque me dieron probar nuevos alimentos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Fui	ir	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	vacaciones	vacación	NOUN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	México	México	PROPN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fui	ir	AUX	_	_	0	ROOT	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	crucero	crucero	NOUN	_	_	1	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fui	ir	VERB	_	_	0	ROOT	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	mamá	mamá	NOUN	_	_	1	obl	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	papá	papá	NOUN	_	_	1	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	hermana	hermana	NOUN	_	_	7	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fuimos	ir	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	crucero	crucero	NOUN	_	_	8	nsubj	_	_
+8	partió	partir	VERB	_	_	1	advcl	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	puerto	puerto	NOUN	_	_	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*CITY*	CITY	PROPN	_	_	10	nmod	_	_
+13	*CITY*	CITY	PROPN	_	_	12	flat	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	luego	luego	ADV	_	_	17	advmod	_	_
+17	fuimos	ir	VERB	_	_	8	conj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	el	el	DET	_	_	20	det	_	_
+20	crucero	crucero	NOUN	_	_	17	obl	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tuvieron	tener	VERB	_	_	0	ROOT	_	_
+2	mucha	mucho	DET	_	_	3	det	_	_
+3	comida	comida	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	crucero	crucero	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hubieron	haber	AUX	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	cocinas	cocina	NOUN	_	_	1	obj	_	_
+4	diferentes	diferente	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Comí	Comí	PROPN	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	burrito	burrito	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	comí	comí	PROPN	_	_	3	conj	_	_
+6	papas	papas	NOUN	_	_	1	conj	_	_
+7	fritas	fritas	NOUN	_	_	6	flat	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	salsa	salsar	VERB	_	_	1	conj	_	_
+10	el	el	DET	_	_	12	det	_	_
+11	primer	primero	ADJ	_	_	12	amod	_	_
+12	día	día	NOUN	_	_	9	obj	_	_
+13	del	del	ADP	_	_	14	case	_	_
+14	crucero	crucero	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	segundo	segundo	ADJ	_	_	3	amod	_	_
+3	día	día	NOUN	_	_	0	ROOT	_	_
+4	comí	comí	ADJ	_	_	3	amod	_	_
+5	gazpacho	gazpacho	NOUN	_	_	3	appos	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	se	él	PRON	_	_	9	expl:pass	_	_
+8	me	yo	PRON	_	_	9	obj	_	_
+9	cayó	caer	VERB	_	_	3	conj	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	cuchara	cuchara	NOUN	_	_	9	nsubj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	cogí	coger	VERB	_	_	8	advcl	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cuchara	cuchara	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	cabeza	cabeza	NOUN	_	_	8	nsubj	_	_
+8	golpeó	golpear	VERB	_	_	0	ROOT	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	mesa	mesa	NOUN	_	_	8	nsubj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	camarera	camarera	NOUN	_	_	4	nsubj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	vio	ver	VERB	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	trajo	traer	VERB	_	_	4	conj	_	_
+7	hielo	hielo	NOUN	_	_	6	obj	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	cabeza	cabeza	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tuve	tener	VERB	_	_	0	ROOT	_	_
+2	dolor	dolor	NOUN	_	_	1	obj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cabeza	cabeza	NOUN	_	_	2	nmod	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	unas	uno	DET	_	_	7	det	_	_
+7	horas	hora	NOUN	_	_	1	obl	_	_
+8	más	más	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Fui	ir	VERB	_	_	0	ROOT	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	enfermera	enfermera	NOUN	_	_	1	obl	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	dio	dar	VERB	_	_	1	conj	_	_
+8	pastillas	pastilla	NOUN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Volví	volver	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	habitación	habitación	NOUN	_	_	1	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	vi	ver	VERB	_	_	1	conj	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	salón	salón	NOUN	_	_	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	baile	baile	NOUN	_	_	8	nmod	_	_
+11	cerca	cerca	ADV	_	_	6	advmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	fui	ir	AUX	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	salón	salón	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	baile	baile	NOUN	_	_	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	vi	ver	VERB	_	_	3	conj	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	había	haber	AUX	_	_	9	ccomp	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	conferencia	conferencia	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vi	ver	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	muchos	mucho	DET	_	_	4	det	_	_
+4	profesores	profesor	NOUN	_	_	1	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	abogados	abogado	NOUN	_	_	4	appos	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	periodistas	periodista	NOUN	_	_	4	conj	_	_
+9	hablando	hablar	VERB	_	_	1	xcomp	_	_
+10	entre	entre	ADP	_	_	11	case	_	_
+11	sí	él	PRON	_	_	9	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Uno	uno	PRON	_	_	6	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	profesores	profesor	NOUN	_	_	1	nmod	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	vio	ver	VERB	_	_	0	ROOT	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	_	9	iobj	_	_
+9	invitó	invitar	VERB	_	_	6	conj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	entrar	entrar	VERB	_	_	9	xcomp	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Fue	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	profesora	profesora	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	inglés	inglés	NOUN	_	_	3	nmod	_	_
+6	que	que	PRON	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pass	_	_
+8	especializó	especializar	VERB	_	_	3	acl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	ciencias	ciencia	NOUN	_	_	8	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	cocina	cocina	NOUN	_	_	10	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	presentó	presentar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	sus	su	DET	_	_	5	det	_	_
+5	amigos	amigo	NOUN	_	_	2	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	contó	contar	VERB	_	_	2	conj	_	_
+9	cómo	cómo	PRON	_	_	12	obl	_	_
+10	fueron	ser	AUX	_	_	9	cop	_	_
+11	todos	todo	PRON	_	_	12	det	_	_
+12	juntos	junto	ADJ	_	_	8	ccomp	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	escuela	escuela	NOUN	_	_	8	obl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	cocina	cocina	NOUN	_	_	15	nmod	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	conferencia	conferencia	NOUN	_	_	1	obl	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	enseñó	enseñar	VERB	_	_	0	ROOT	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	hacer	hacer	VERB	_	_	7	xcomp	_	_
+10	su	su	DET	_	_	11	det	_	_
+11	plato	plato	NOUN	_	_	9	obj	_	_
+12	favorito	favorito	ADJ	_	_	11	amod	_	_
+13	,	,	PUNCT	_	_	7	punct	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	paella	paella	NOUN	_	_	7	obl	_	_
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	dijo	decir	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	usara	usar	VERB	_	_	2	ccomp	_	_
+5	arroz	arroz	ADJ	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	pollo	pollo	NOUN	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	pimientos	pimiento	NOUN	_	_	5	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	ajo	ajo	NOUN	_	_	5	conj	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	cebolla	cebollo	ADJ	_	_	5	conj	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	guisantes	guisant	NOUN	_	_	4	obj	_	_
+16	verdes	verde	ADJ	_	_	15	amod	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	camarones	camarón	NOUN	_	_	4	conj	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	limón	limón	ADJ	_	_	4	conj	_	_
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	jengibre	jengibre	NOUN	_	_	4	conj	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	perejil	perejil	NOUN	_	_	4	conj	_	_
+25	y	y	CCONJ	_	_	26	cc	_	_
+26	tomates	tomate	NOUN	_	_	24	conj	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	cocinamos	cocinar	VERB	_	_	0	ROOT	_	_
+3	todo	todo	DET	_	_	2	obj	_	_
+4	juntos	junto	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	comimos	comimos	VERB	_	_	2	conj	_	_
+7	juntos	junto	ADJ	_	_	6	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	cocina	cocina	NOUN	_	_	6	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	crucero	crucero	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	detuvo	detener	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	México	México	PROPN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Un	uno	DET	_	_	2	det	_	_
+2	guía	guía	NOUN	_	_	5	nsubj	_	_
+3	turístico	turístico	ADJ	_	_	2	amod	_	_
+4	nos	yo	PRON	_	_	5	iobj	_	_
+5	llevó	llevar	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	Chichén	Chichén	PROPN	_	_	5	obj	_	_
+8	Itzá	Itzá	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	al	al	ADP	_	_	11	case	_	_
+11	Templo	Templo	PROPN	_	_	7	conj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	los	el	DET	_	_	14	det	_	_
+14	Guerreros	Guerreros	PROPN	_	_	11	flat	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	volvimos	volver	VERB	_	_	0	ROOT	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	crucero	crucero	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	volvimos	volvimos	VERB	_	_	2	conj	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obj	_	_
+9	*CITY*	CITY	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Este	este	PRON	_	_	4	nsubj	_	_
+2	era	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	viaje	viaje	NOUN	_	_	0	ROOT	_	_
+5	favorito	favorito	ADJ	_	_	4	amod	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	dieron	dar	VERB	_	_	4	advcl	_	_
+9	probar	probar	VERB	_	_	8	xcomp	_	_
+10	nuevos	nuevo	ADJ	_	_	11	amod	_	_
+11	alimentos	alimento	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+

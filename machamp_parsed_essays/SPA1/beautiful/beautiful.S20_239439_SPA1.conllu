@@ -1,0 +1,234 @@
+# Unnamed: 0 = 107
+# id = 239439
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Hindi
+# language(s) studied = Latin - 5 years
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = En el bosque, en [una]{un}<ga:det> *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y [ella]{}<pr:su:pron> vive con su abuela y su mama. Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan [la]{las}<na:det> frutas, [la]{las}<na:det> tres senoras van a su pequena casa. Son las once de []{la}<ab:det:art:def> manana y es hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su camina, [ella]{}<pr:su:pron> ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan [las]{}<pr:det:art:def> bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas quedar con una a la otra a desayunar en []{el}<ab:det:art:def> sabado.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = En el bosque, en [una]{un}<ga:det> *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y [ella]{}<pr:su:pron> vive con su abuela y su mama. []{La}<ab:det:art:def> Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan [la]{}<pr:det:art:def> frutas, [la]{las}<na:det> tres senoras van a su pequena casa. Son las once de []{la}<ab:det:art:def> manana y es []{la}<ab:det:art:def> hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su [camina]{camino}<gat:noun>, [ella]{}<pr:su:pron> ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan las bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas [quedar]{quedaron}<fs:st:t> con una a la otra a desayunar en sabado.
+# verbs annotation ann2 = nan
+# corrected1 = En un bosque, cerca de un palacio, vivía una bonita chica. Su nombre era Sofía. Tenía *AGE* años y vivía con su abuela, María, y su mamá, *FIRST_NAME*. Todos los días, Sofía, María y *FIRST_NAME* paseaban por el bosque en busca de bayas y otras frutas. Después de recolectar las frutas, las tres volvían a su pequeña casa. ¡Eran ya las once de la mañana y era hora del desayuno! También a las once, la princesa *FIRST_NAME* salía de palacio para ir a dar un paseo mañanero. Un día, en su salida diaria, vio una pequeña casa y una chica que se parecía a ella. Sofía también vio a la princesa y la saludó. La princesa *FIRST_NAME* respondió:  —Hola, ¿cómo se llama? —. Las dos chicas hablaron durante una hora mientras caminaban y recogían bayas y otras frutas. *FIRST_NAME* y Sofía se hicieron amigas con rapidez. Pronto, las dos chicas quedaron para desayunar juntas los sábados. 
+# corrected2 = nan
+# text = En el bosque, en una *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y ella vive con su abuela y su mama. Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan la frutas, la tres senoras van a su pequena casa. Son las once de manana y es hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su camina, ella ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan las bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas quedar con una a la otra a desayunar en sabado.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	*PLACE*	*place*	SYM	_	_	3	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	cerca	cerca	ADV	_	_	3	advmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	palacio	palacio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+14	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+17	chica	chica	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	chica	chico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	SYM	_	_	4	punct	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	mama	mama	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Abuela	abuelo	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	mama	mama	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+8	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	dias	dia	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	appos	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	ccomp	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	*FIRST_NAME*	*first_name*	SYM	_	_	15	nsubj	_	_
+11	caminan	caminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	buscan	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+16	bayas	baya	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
+19	frutas	fruta	NOUN	_	Gender=Fem|Number=Plur	16	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Despues	despues	ADV	_	_	10	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+3	buscan	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	frutas	fruta	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	la	e	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+9	senoras	senora	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	_
+10	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	a	a	ADP	_	_	14	case	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+13	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	manana	manana	NOUN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	desayuno	desayuno	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	princessa	princessa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+8	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	palacio	palacio	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	ir	ir	VERB	_	VerbForm=Inf	8	advcl	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	caminar	caminar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	manana	manana	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	camina	camina	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	chica	chica	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	parecia	pareciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	2	nsubj	_	_
+2	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	princessa	princessa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
+9	Hola	hola	PROPN	_	_	6	obj	_	_
+10	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	princessa	princessa	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	*FIRST_NAME*	*first_name*	SYM	_	_	2	nmod	_	_
+4	responde	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+6	Hola	hola	INTJ	_	_	4	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	como	como	SCONJ	_	_	10	mark	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	10	punct	_	_
+12	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	1	nummod	_	_
+3	chicas	chica	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	hora	hora	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	caminan	caminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	bayas	baya	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
+14	fruitas	fruita	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	conj	_	_
+4	became	beca	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	rapidez	rapidez	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pronto	pronto	ADV	_	_	5	advmod	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+4	chicas	chica	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+5	quedar	quedar	VERB	_	VerbForm=Inf	0	root	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	5	obl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	otra	otro	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	7	nmod	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	desayunar	desayunar	VERB	_	VerbForm=Inf	5	advcl	_	_
+13	en	en	ADP	_	_	12	advmod	_	_
+14	sabado	sabado	NOUN	_	_	5	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

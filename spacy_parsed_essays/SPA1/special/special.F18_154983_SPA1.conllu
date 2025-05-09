@@ -1,0 +1,223 @@
+# Unnamed: 0 = 78
+# id = 154983
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, only English
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y [ver]{ve}<fs:st:pn:t:mo> películas con mí. Hablamos por el teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta [va]{ir}<fs:st:pn:t:mo> a la playa y correr. Mi mama [correr]{ha corrido}<fs:st:pn:t:mo> cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama está de *CITY*. Mi mama [estudiar]{estudió}<fs:st:pn:t:mo> historia en []{la}<ab:det:art:def> Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva [las]{}<pr:det:art:def> gafas a veces. Mi mama [tengo]{tiene}<fs:st:pn> el pelo rizado y los ojos [azul]{azules}<ga:adj>. Mi mama es baja y muy bonita. Mi mama es mi [favorita persona]{persona favorita}<col:adj>.
+# updated annotation ann2 = Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y ver películas con mí. Hablamos por [el]{}<pr:det:art:def> teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta va a la playa y correr. Mi mama correr cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama [está]{es}<conf:v:seta> de *CITY*. Mi mama estudiar historia en []{la}<ab:det:art:def> Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva [las]{}<pr:det:art:def> gafas a veces. Mi mama [tengo]{tiene}<fs:st:pn> el pelo rizado y los ojos [azul]{azules}<na:adj>. Mi mama es baja y muy bonita. Mi mama es mi [favorita persona]{persona favorita}<col:adj>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial para mí es mi mamá. Mi mamá es profesora el kindergarten. Mi mamá se llama *FIRST_NAME*. Mi mamá es muy trabajadora, simpática, y extrovertida. Mi mamá siempre come palomitas y ve películas conmigo. Hablamos por teléfono todos los días cuando estoy en la escuela. Mi mamá vive en *CITY*, *STATE*. Mi mamá tiene cinco hermanos y cero hermanas. Mi mamá es la hermana menor. A mi mamá le gusta ir a la playa y correr. Mi mamá ha corrido cinco maratones. Mi mamá tiene *AGE* años. Su cumpleaños es el dieciocho de julio. Mi mamá es de *CITY*. Mi mamá estudió historia en la Universidad de *UNIVERSITY* con mi papá. Mi mama nadó en el equipo de Universidad de *UNIVERSITY*. Mi mamá lleva gafas a veces. Mi mama tiene el pelo rizado y los ojos azules. Mi mamá es baja y muy bonita. Mi mamá es mi persona favorita.
+# corrected2 = nan
+# text = Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y ver películas con mí. Hablamos por el teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta va a la playa y correr. Mi mama correr cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama está de *CITY*. Mi mama estudiar historia en Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva las gafas a veces. Mi mama tengo el pelo rizado y los ojos azul. Mi mama es baja y muy bonita. Mi mama es mi favorita persona.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	8	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PROPN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	mamá	mamá	NOUN	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	profesora	profesorar	VERB	_	_	0	ROOT	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	kindergarten	kindergarten	PROPN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	simpática	simpático	ADJ	_	_	5	conj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	extrovertida	extrovertida	ADV	_	_	5	conj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	come	comar	VERB	_	_	0	ROOT	_	_
+5	palomitas	palomita	NOUN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ver	ver	VERB	_	_	4	conj	_	_
+8	películas	película	NOUN	_	_	7	obj	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	mí	yo	PRON	_	_	7	obl	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Hablamos	hablar	VERB	_	_	0	ROOT	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	teléfono	teléfono	NOUN	_	_	1	obl	_	_
+5	todos	todo	DET	_	_	6	det	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	días	día	NOUN	_	_	1	obj	_	_
+8	cuando	cuando	SCONJ	_	_	11	mark	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	escuela	escuela	NOUN	_	_	1	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*STATE*	STATE	PROPN	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cinco	cinco	NUM	_	_	5	nummod	_	_
+5	hermanos	hermano	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	cero	cero	NUM	_	_	8	nummod	_	_
+8	hermanas	hermana	NOUN	_	_	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	hermana	hermana	NOUN	_	_	0	ROOT	_	_
+6	menor	menor	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	va	ir	VERB	_	_	4	advcl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	playa	playa	NOUN	_	_	4	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	correr	correr	VERB	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	0	ROOT	_	_
+3	correr	correr	VERB	_	_	2	xcomp	_	_
+4	cinco	cinco	NUM	_	_	5	nummod	_	_
+5	maratones	maratón	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	cumpleaños	cumpleaño	ADJ	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	dieciocho	dieciocho	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	julio	julio	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	está	estar	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	0	ROOT	_	_
+3	estudiar	estudiar	VERB	_	_	2	xcomp	_	_
+4	historia	historia	NOUN	_	_	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	flat	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	papá	papá	NOUN	_	_	3	obl	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	son	ser	AUX	_	_	0	ROOT	_	_
+4	nadar	nadar	VERB	_	_	3	ccomp	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	equipo	equipo	NOUN	_	_	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Universidad	Universidad	PROPN	_	_	7	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	9	flat	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	lleva	llevar	VERB	_	_	0	ROOT	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	gafas	gafa	NOUN	_	_	3	obj	_	_
+6	a	a	ADP	_	_	3	advmod	_	_
+7	veces	veces	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	3	nsubj	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	pelo	pelo	NOUN	_	_	3	obj	_	_
+6	rizado	rizado	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	ojos	ojo	NOUN	_	_	5	conj	_	_
+10	azul	azul	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	baja	bajo	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bonita	bonito	ADJ	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	favorita	favorita	NOUN	_	_	0	ROOT	_	_
+6	persona	persón	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+

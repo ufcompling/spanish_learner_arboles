@@ -1,0 +1,321 @@
+# Unnamed: 0 = 60
+# id = 231968
+# prompt = beautiful
+# quarter = W21
+# course = SPA 113
+# age = 19
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Extremely comfortable
+# speaking ability = Extremely comfortable
+# writing ability = Extremely comfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una historia bella con la que me e frecuentado recientemente, viene de un libro que decidí leer. Este es uno del cual e escuchado mucho recientemente, llamado A Little Life. Es muy largo- más de 800 páginas, y la mayoría de las personas que lo han leído han llorado varías veces por lo triste y bello que es. En la parte que estoy leyendo actualmente, los cinco amigos del cuento de acaban de mudar a un nuevo apartamento. En la historia, los amigos siguen diferentes caminos y tienen diferentes intereses. Por ejemplo uno es artista y pinta, otro comienza su carrera al aún vivir con sus padres, y otro trabaja en una oficina. Tienen diferentes metas y problemas, y la historia se enfoca en gran parte en los problemas que enfrentan en Nueva York, por ejemplo, casi todos los amigos tienen problemas económicos. En la historia, la parte que más me agradó hasta ahora, es la parte sobre el personaje artista que se siente atascado y sin inspiración. En la primera parte del libro, describe sus proyectos anteriores y como no siente que son lo suficientemente importantes para hacer un impacto en el mundo, como el quiere. Finalmente, accidentalmente termina pintando una foto que encontró de los amigos. Esto lo inspira a empezar un proyecto alrededor de esto. Él decide capturar momentos reales de las vidas de los amigos y pintarlos realisticamente. Describe que es como una carta de amor para sus amigos, lo cual creo que es un sentimiento hermoso.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	historia	historia	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	bella	bello	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	que	que	PRON	_	PronType=Rel	17	obl	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	17	obl	_	_
+8	e	e	CCONJ	_	_	9	cc	_	_
+9	frecuentado	frecuentar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+10	recientemente	recientemente	ADV	_	_	9	advmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+12	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	libro	libro	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+16	que	que	PRON	_	PronType=Rel	17	obj	_	_
+17	decidí	decidir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	acl	_	_
+18	leer	leer	VERB	_	VerbForm=Inf	17	xcomp	_	_
+19	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	cual	cual	PRON	_	Number=Sing|PronType=Rel	3	nmod	_	_
+6	e	e	CCONJ	_	_	7	cc	_	_
+7	escuchado	escuchar	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+8	mucho	mucho	ADV	_	_	9	advmod	_	_
+9	recientemente	recientemente	ADV	_	_	7	advmod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	llamado	llamado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
+12	A	A	ADP	_	_	13	det	_	_
+13	Little	Little	PROPN	_	_	11	obj	_	_
+14	Life	Life	PROPN	_	_	13	flat	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
+2	muy	mucho	ADV	_	_	7	advmod	_	_
+3	largo-	largo-	PUNCT	_	PunctType=Dash	7	punct	_	_
+4	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+5	de	de	ADP	_	_	4	case	_	_
+6	800	800	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
+7	páginas	página	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	20	cc	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+12	de	de	ADP	_	_	11	case	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+14	personas	persona	NOUN	_	Gender=Fem|Number=Plur	20	nsubj	_	_
+15	que	que	PRON	_	PronType=Rel	18	nsubj	_	_
+16	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+17	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	leído	leer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+19	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	llorado	llorar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
+21	varías	varío	DET	_	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
+22	veces	vez	NOUN	_	Gender=Fem|Number=Plur	20	obl	_	_
+23	por	por	ADP	_	_	28	case	_	_
+24	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	28	det	_	_
+25	triste	triste	ADJ	_	Number=Sing	20	advmod	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	bello	bello	ADJ	_	Gender=Masc|Number=Sing	25	conj	_	_
+28	que	que	PRON	_	PronType=Rel	20	advcl	_	_
+29	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
+30	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+4	que	que	PRON	_	PronType=Rel	6	obj	_	_
+5	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	leyendo	leer	VERB	_	VerbForm=Ger	3	acl	_	_
+7	actualmente	actualmente	ADV	_	_	6	advmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+12	del	de	ADP	_	_	13	case	_	_
+13	cuento	cuento	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	de	de	ADP	_	_	13	nmod	_	_
+15	acaban	acabar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	de	de	ADP	_	_	17	mark	_	_
+17	mudar	mudar	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	a	a	ADP	_	_	21	case	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	_
+21	apartamento	apartamento	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+7	siguen	seguir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	9	det	_	_
+9	caminos	camino	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	13	det	_	_
+13	intereses	interés	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	artista	artista	NOUN	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	pinta	pintar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	_
+10	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	al	a	ADP	_	_	15	case	_	_
+14	aún	aún	ADV	_	_	15	advmod	_	_
+15	vivir	vivir	VERB	_	VerbForm=Inf	10	advcl	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
+18	padres	padre	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+19	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	22	nsubj	_	_
+22	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	3	det	_	_
+3	metas	meta	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	historia	historia	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	enfoca	enfocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	gran	gran	ADJ	_	Number=Sing	14	amod	_	_
+14	parte	parte	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_
+18	que	que	PRON	_	PronType=Rel	19	obj	_	_
+19	enfrentan	enfrentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	Nueva	Nueva	PROPN	_	_	19	obl	_	_
+22	York	York	PROPN	_	_	21	flat	_	_
+23	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
+24	por	por	ADP	_	_	31	advmod	_	_
+25	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	24	fixed	_	_
+26	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+27	casi	casi	ADV	_	_	29	advmod	_	_
+28	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	29	det	_	_
+29	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	_
+31	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+32	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	31	obj	_	_
+33	económicos	económico	ADJ	_	Gender=Masc|Number=Plur	32	amod	_	_
+34	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	parte	parte	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+7	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+8	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	agradó	agradar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
+11	hasta	hasta	ADP	_	_	12	case	_	_
+12	ahora	ahora	ADV	_	_	10	advmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	parte	parte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+17	sobre	sobre	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	personaje	personaje	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+20	artista	artista	ADJ	_	Number=Sing	19	amod	_	_
+21	que	que	PRON	_	PronType=Rel	23	nsubj	_	_
+22	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl	_	_
+23	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+24	atascado	atascado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	23	obj	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	sin	sin	ADP	_	_	27	case	_	_
+27	inspiración	inspiración	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	_
+28	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	describe	describir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	proyectos	proyecto	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+11	anteriores	anterior	ADJ	_	Number=Plur	10	amod	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	como	como	SCONJ	_	_	15	mark	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+16	que	que	SCONJ	_	_	20	mark	_	_
+17	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+18	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	det	_	_
+19	suficientemente	suficientemente	ADV	_	_	20	advmod	_	_
+20	importantes	importante	ADJ	_	Number=Plur	15	ccomp	_	_
+21	para	para	ADP	_	_	22	mark	_	_
+22	hacer	hacer	VERB	_	VerbForm=Inf	20	acl	_	_
+23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	impacto	impacto	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+25	en	en	ADP	_	_	27	case	_	_
+26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+28	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
+29	como	como	SCONJ	_	_	31	mark	_	_
+30	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	obj	_	_
+31	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+32	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	accidentalmente	accidentalmente	ADV	_	_	4	advmod	_	_
+4	termina	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pintando	pintar	VERB	_	VerbForm=Ger	4	xcomp	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	foto	foto	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	que	que	PRON	_	PronType=Rel	9	obj	_	_
+9	encontró	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	inspira	inspirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	empezar	empezar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	alrededor	alrededor	ADV	_	_	5	advmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	esto	este	PRON	_	Number=Sing|PronType=Dem	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	decide	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	capturar	capturar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	reales	real	ADJ	_	Number=Plur	4	amod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	vidas	vida	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	pintarlos	pintar	VERB	_	VerbForm=Inf	3	conj	_	_
+14	realisticamente	realisticamente	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Describe	describir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carta	carta	NOUN	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	amor	amor	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+13	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
+14	cual	cual	PRON	_	Number=Sing|PronType=Rel	15	nsubj	_	_
+15	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+16	que	que	SCONJ	_	_	19	mark	_	_
+17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	sentimiento	sentimiento	NOUN	_	Gender=Masc|Number=Sing	15	ccomp	_	_
+20	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

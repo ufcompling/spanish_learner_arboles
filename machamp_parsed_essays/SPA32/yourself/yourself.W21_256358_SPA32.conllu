@@ -1,0 +1,337 @@
+# Unnamed: 0 = 114
+# id = 256358
+# prompt = yourself
+# quarter = W21
+# course = SPA 32
+# age = 19
+# gender = Male
+# l1 language = 4 or more
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely uncomfortable
+# reading comprehension = Comfortable
+# speaking ability = Extremely comfortable
+# writing ability = Comfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Nací en *CITY* *CITY* *STATE* en *BIRTH_DATE*. Durante los primeros tres años no viví en un buen barrio.Mis padres decidieron que querían mudarse a un barrio mejor. Ellos no querían que tuviera malas influencias de niño. El otro vecindario al que me mudé a los *AGE* años era mejor. Ese vecindario me ayudó a moldearme y hacerme la persona que soy hoy. A todos mis vecinos les gusta la escuela. Me empezó a gustar y siempre quise ser mejor que ellos. En primaria, me levantaba a las 6 de la mañana para leer libros porque quería ganar un concurso de lectura de libros. Terminé ganando una medalla. En la escuela secundaria comencé a jugar fútbol. Yo no era el mejor y mis vecinos se burlaban de mí. Para mejorar mis habilidades practicaba todos los días. Después de varios meses mejore. Me inscribí a un equipo de fútbol y comencé a ganar trofeos con ellos. Al igual que en la primaria me gusta la escuela en la secundaria. Me gradúe de la secundaria con buenas notas. Me inscribí a la preparatoria con todos mis amigos. Tenia dos metas al entrar a un escuela nueva. Una era unirme al equipo de futbol con los mayores. Me segunda meta era sacar buenas notas para poder ir a una universidad de las mejores en *STATE*. Termine uniéndome al equipo de futbol. En mi primer ano de preparatoria gane el jugador mas valioso. También tome todas las clases avanzadas y obtuve buenas notas. Con mucho esfuerzo logre ser aceptado a muchas universidades.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Nací	nací	ADV	_	_	0	root	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+4	*CITY*	*city*	PROPN	_	_	3	punct	_	_
+5	*STATE*	*state*	PUNCT	_	_	3	punct	_	_
+6	en	en	ADP	_	_	3	case	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	5	case	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+3	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	2	amod	_	_
+4	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	viví	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	en	en	ADP	_	_	11	case	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	buen	buen	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	barrio	barrio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	decidieron	decidir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	querían	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+6	mudarse	mudar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	barrio	barrio	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	querían	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	tuviera	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+6	malas	malo	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+7	influencias	influencia	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	niño	niño	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	1	det	_	_
+3	vecindario	vecindario	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+6	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	mudé	mudar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	acl	_	_
+8	a	a	ADP	_	_	11	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	*AGE*	*age*	SYM	_	_	11	nmod	_	_
+11	años	año	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+12	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
+14	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	vecindario	vecindario	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	ayudó	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	moldearme	moldear	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	hacerme	hacer	VERB	_	VerbForm=Inf	6	conj	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	que	que	PRON	_	PronType=Rel	10	acl	_	_
+12	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+13	hoy	hoy	ADV	_	_	11	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	4	case	_	_
+2	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+5	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+2	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	gustar	gustar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	siempre	siempre	ADV	_	_	7	advmod	_	_
+7	quise	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
+9	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	7	xcomp	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	primaria	primaria	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	levantaba	levantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	6	6	NUM	_	NumForm=Digit|NumType=Card	5	obl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	leer	leer	VERB	_	VerbForm=Inf	5	advcl	_	_
+14	libros	libro	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
+15	porque	porque	SCONJ	_	_	16	mark	_	_
+16	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+17	ganar	ganar	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	concurso	concurso	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	lectura	lectura	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	libros	libro	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Terminé	terminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ganando	ganar	VERB	_	VerbForm=Ger	1	xcomp	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	medalla	medalla	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	comencé	comencar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	jugar	jugar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	burlaban	burlar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	10	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Para	para	ADP	_	_	2	mark	_	_
+2	mejorar	mejorar	VERB	_	VerbForm=Inf	5	advcl	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	habilidades	habilidade	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	practicaba	practicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Después	después	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	meses	mes	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	mejore	mejorar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	inscribí	inscribir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	comencé	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	ganar	ganar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	trofeos	trofeo	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Al	a	ADP	_	_	6	case	_	_
+2	igual	igual	ADJ	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	primaria	primaria	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	secundaria	secundaria	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	gradúe	graduar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	secundaria	secundaria	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
+8	notas	nota	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	inscribí	inscribir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	preparatoria	preparatoria	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	con	con	ADP	_	_	9	case	_	_
+7	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tenia	teniar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	metas	meta	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	entrar	entrar	VERB	_	VerbForm=Inf	1	advcl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	unirme	unir	VERB	_	VerbForm=Inf	2	ccomp	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	mayores	mayor	ADJ	_	Degree=Cmp|Number=Plur	3	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	det	_	_
+2	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+3	meta	meta	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	sacar	sacar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
+7	notas	nota	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	para	para	ADP	_	_	10	mark	_	_
+9	poder	poder	AUX	_	VerbForm=Inf	10	aux	_	_
+10	ir	ir	VERB	_	VerbForm=Inf	5	advcl	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	13	amod	_	_
+17	en	en	ADP	_	_	13	case	_	_
+18	*STATE*	*state*	PROPN	_	_	13	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Termine	terminir	VERB	_	Number=Sing	0	root	_	_
+2	uniéndome	unir	VERB	_	VerbForm=Ger	1	advcl	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	futbol	futbol	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	ano	ano	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	preparatoria	preparatoria	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	gane	ganar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	mas	mas	ADV	_	_	11	advmod	_	_
+11	valioso	valioso	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tome	tomar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	clases	clase	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+6	avanzadas	avanzado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	obtuve	obtener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	_
+10	notas	nota	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Con	con	ADP	_	_	3	case	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	esfuerzo	esfuerzo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	logre	lograr	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	6	aux	_	_
+6	aceptado	aceptar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	universidades	universidad	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

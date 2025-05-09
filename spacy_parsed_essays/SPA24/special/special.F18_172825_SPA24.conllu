@@ -1,0 +1,370 @@
+# Unnamed: 0 = 64
+# id = 172825
+# prompt = special
+# quarter = F18
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = After learning Spanish and English, I am learning Russian, Chinese, and Portuguese
+# listening comprehension = 4.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = La persona más especial en mi vida es mi gemela, *FIRST_NAME*. Ella, además de ser mi hermana, es mi mejor amiga. Desde pequeñas nos hemos llevado muy bien. Mi mamá cuenta como llorábamos, comíamos, nos dormíamos, nos reíamos, todo, al mismo tiempo. Lo único es que incluso nos peleábamos mucho. No era cosa seria, era más o menos de diversión, ¡pero vaya que molestábamos a nuestros padres! Siempre nos peleábamos por juguetes idénticos solo para terminar jugando juntas, bien tranquilas. Cuando crecimos, dejamos de pelearnos tanto, aunque todavia discutíamos, y abecés sobre cosas bastante estúpidas. Por ejemplo, una vez nos peleamos sobre un acento. Existía una telenovela que yo insistía tenía el título "Cuando Me Enamoro," mientras que mi hermana pensaba que se llamaba "Cuando Me Enamoró." Después de una investigación, nos dimos cuenta que yo tenía la razón. Pero casi me arrepiento de eso, porque "Cuando Me Enamoró" es mucho más romántico que "Cuando Me Enamoro." Siempre nos hemos apoyado y ayudado en todo, incluso ahora que nos separamos, ya que vamos a universidades distintas. Casi no nos vemos durante el año escolar, como ella atiende la universidad de *UNIVERSITY* en *STATE* y yo atiendo la universidad de *UNIVERSITY* en *CITY*. Pero nos mantenemos en contacto por texto, llamadas, y cartas. Y lo buenos es que viene de regreso 4 veces al año. Y cuando viene, siempre estudio menos porque nos ponemos a viajar y a divertirnos. Vamos a ver una película, o de compras (aunque casi no compramos nada), o a *CITY*, o a una playa. Siempre nos divertimos y disfruto mucho su compañía.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	10	nsubj	_	_
+3	más	más	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	_	2	amod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	vida	vida	NOUN	_	_	2	nmod	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	gemela	gemela	NOUN	_	_	0	ROOT	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	appos	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Ella	él	PRON	_	_	12	nsubj	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	además	además	ADV	_	_	7	mark	_	_
+4	de	de	ADP	_	_	3	fixed	_	_
+5	ser	ser	AUX	_	_	7	cop	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	hermana	hermana	NOUN	_	_	12	obl	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	es	ser	AUX	_	_	12	cop	_	_
+10	mi	mi	DET	_	_	12	det	_	_
+11	mejor	mejor	ADJ	_	_	12	amod	_	_
+12	amiga	amiga	NOUN	_	_	0	ROOT	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Desde	desde	ADP	_	_	5	mark	_	_
+2	pequeñas	pequeño	ADJ	_	_	5	nsubj	_	_
+3	nos	yo	PRON	_	_	5	iobj	_	_
+4	hemos	haber	AUX	_	_	5	aux	_	_
+5	llevado	llevar	VERB	_	_	0	ROOT	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bien	bien	ADV	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	mamá	mamá	ADJ	_	_	3	amod	_	_
+3	cuenta	cuenta	NOUN	_	_	0	ROOT	_	_
+4	como	como	SCONJ	_	_	5	mark	_	_
+5	llorábamos	llorábir	VERB	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	comíamos	comíar	VERB	_	_	3	advcl	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	nos	yo	PRON	_	_	10	expl:pv	_	_
+10	dormíamos	dormíar	VERB	_	_	3	advcl	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	nos	yo	PRON	_	_	13	obj	_	_
+13	reíamos	reíar	VERB	_	_	10	advcl	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	todo	todo	PRON	_	_	13	obj	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	al	al	ADP	_	_	19	case	_	_
+18	mismo	mismo	DET	_	_	19	det	_	_
+19	tiempo	tiempo	NOUN	_	_	13	obl	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Lo	él	PRON	_	_	2	det	_	_
+2	único	único	ADJ	_	_	3	nsubj	_	_
+3	es	ser	AUX	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	incluso	incluso	ADV	_	_	7	advmod	_	_
+6	nos	yo	PRON	_	_	7	obj	_	_
+7	peleábamos	peleábamos	VERB	_	_	3	ccomp	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	era	ser	AUX	_	_	3	cop	_	_
+3	cosa	cosa	NOUN	_	_	11	nsubj	_	_
+4	seria	serio	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	era	ser	AUX	_	_	11	cop	_	_
+7	más	más	ADV	_	_	11	advmod	_	_
+8	o	o	CCONJ	_	_	9	cc	_	_
+9	menos	menos	ADV	_	_	7	conj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	diversión	diversión	NOUN	_	_	0	ROOT	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	¡	¡	PUNCT	_	_	15	punct	_	_
+14	pero	pero	CCONJ	_	_	15	cc	_	_
+15	vaya	vaya	VERB	_	_	11	conj	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	molestábamos	molestábar	VERB	_	_	15	ccomp	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	nuestros	nuestro	DET	_	_	20	det	_	_
+20	padres	padre	NOUN	_	_	17	obj	_	_
+21	!	!	PUNCT	_	_	11	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	obj	_	_
+3	peleábamos	peleábamos	VERB	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	5	case	_	_
+5	juguetes	juguete	NOUN	_	_	3	obj	_	_
+6	idénticos	idéntico	ADJ	_	_	5	amod	_	_
+7	solo	solo	ADV	_	_	3	obj	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	terminar	terminar	VERB	_	_	7	acl	_	_
+10	jugando	jugar	VERB	_	_	9	xcomp	_	_
+11	juntas	junto	ADJ	_	_	9	obj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	bien	bien	ADV	_	_	14	advmod	_	_
+14	tranquilas	tranquilo	ADJ	_	_	3	advcl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	crecimos	crecer	VERB	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	dejamos	dejar	VERB	_	_	2	advcl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	pelearnos	pelearno	NOUN	_	_	4	obj	_	_
+7	tanto	tanto	ADV	_	_	4	advmod	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	aunque	aunque	SCONJ	_	_	11	mark	_	_
+10	todavia	todavia	PROPN	_	_	11	nsubj	_	_
+11	discutíamos	discutíar	VERB	_	_	2	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	abecés	abecés	NOUN	_	_	2	conj	_	_
+15	sobre	sobre	ADP	_	_	16	case	_	_
+16	cosas	cosa	NOUN	_	_	14	nmod	_	_
+17	bastante	bastante	ADV	_	_	18	advmod	_	_
+18	estúpidas	estúpida	NOUN	_	_	14	amod	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	vez	vez	NOUN	_	_	7	obl	_	_
+6	nos	yo	PRON	_	_	7	expl:pv	_	_
+7	peleamos	pelear	VERB	_	_	0	ROOT	_	_
+8	sobre	sobre	ADP	_	_	10	case	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	acento	acento	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Existía	existir	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	telenovela	telenovela	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	6	obj	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	insistía	insistir	VERB	_	_	3	acl	_	_
+7	tenía	tener	VERB	_	_	1	advcl	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	título	título	NOUN	_	_	7	obj	_	_
+10	"	"	PUNCT	_	_	13	punct	_	_
+11	Cuando	Cuando	SCONJ	_	_	13	mark	_	_
+12	Me	yo	PRON	_	_	13	det	_	_
+13	Enamoro	Enamoro	PROPN	_	_	1	nsubj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	"	"	PUNCT	_	_	13	punct	_	_
+16	mientras	mientras	CCONJ	_	_	20	cc	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	hermana	hermana	NOUN	_	_	20	nsubj	_	_
+20	pensaba	pensar	VERB	_	_	13	advcl	_	_
+21	que	que	SCONJ	_	_	23	mark	_	_
+22	se	él	PRON	_	_	23	expl:pass	_	_
+23	llamaba	llamar	VERB	_	_	20	ccomp	_	_
+24	"	"	PUNCT	_	_	23	punct	_	_
+25	Cuando	Cuando	SCONJ	_	_	27	mark	_	_
+26	Me	yo	PRON	_	_	27	obj	_	_
+27	Enamoró	enamorar	VERB	_	_	23	advcl	_	_
+28	.	.	PUNCT	_	_	1	punct	_	_
+
+1	"	"	PUNCT	_	_	8	punct	_	_
+2	Después	después	ADV	_	_	8	advmod	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	investigación	investigación	NOUN	_	_	2	obl	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	nos	yo	PRON	_	_	8	expl:pv	_	_
+8	dimos	dar	VERB	_	_	0	ROOT	_	_
+9	cuenta	cuenta	NOUN	_	_	8	compound	_	_
+10	que	que	SCONJ	_	_	12	mark	_	_
+11	yo	yo	PRON	_	_	12	nsubj	_	_
+12	tenía	tener	VERB	_	_	8	ccomp	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	razón	razón	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	casi	casi	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	arrepiento	arrepientir	VERB	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	eso	ese	PRON	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	porque	porque	SCONJ	_	_	17	mark	_	_
+9	"	"	PUNCT	_	_	17	punct	_	_
+10	Cuando	Cuando	SCONJ	_	_	17	mark	_	_
+11	Me	yo	PRON	_	_	12	iobj	_	_
+12	Enamoró	Enamoró	PROPN	_	_	17	advcl	_	_
+13	"	"	PUNCT	_	_	12	punct	_	_
+14	es	ser	AUX	_	_	17	cop	_	_
+15	mucho	mucho	ADV	_	_	17	advmod	_	_
+16	más	más	ADV	_	_	15	advmod	_	_
+17	romántico	romántico	ADJ	_	_	4	advcl	_	_
+18	que	que	SCONJ	_	_	22	mark	_	_
+19	"	"	PUNCT	_	_	22	punct	_	_
+20	Cuando	Cuando	SCONJ	_	_	22	mark	_	_
+21	Me	yo	PRON	_	_	22	det	_	_
+22	Enamoro	enamorar	VERB	_	_	17	csubj	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+1	"	"	PUNCT	_	_	5	punct	_	_
+2	Siempre	siempre	ADV	_	_	5	advmod	_	_
+3	nos	yo	PRON	_	_	5	expl:pv	_	_
+4	hemos	haber	AUX	_	_	5	aux	_	_
+5	apoyado	apoyar	VERB	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ayudado	ayudar	VERB	_	_	5	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	todo	todo	PRON	_	_	7	obl	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	incluso	incluso	ADV	_	_	12	advmod	_	_
+12	ahora	ahora	ADV	_	_	5	advmod	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	nos	yo	PRON	_	_	15	expl:pv	_	_
+15	separamos	separar	VERB	_	_	12	advcl	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	ya	ya	ADV	_	_	19	mark	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
+19	vamos	ir	AUX	_	_	5	advcl	_	_
+20	a	a	ADP	_	_	21	case	_	_
+21	universidades	universidad	NOUN	_	_	19	obj	_	_
+22	distintas	distinto	ADJ	_	_	21	amod	_	_
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Casi	casi	ADV	_	_	4	advmod	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	nos	yo	PRON	_	_	4	obj	_	_
+4	vemos	ver	VERB	_	_	0	ROOT	_	_
+5	durante	durante	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	año	año	NOUN	_	_	4	obl	_	_
+8	escolar	escolar	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	como	como	SCONJ	_	_	12	mark	_	_
+11	ella	él	PRON	_	_	12	nsubj	_	_
+12	atiende	atender	VERB	_	_	4	advcl	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	universidad	universidad	NOUN	_	_	12	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	nmod	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	*STATE*	STATE	PROPN	_	_	12	obl	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	yo	yo	PRON	_	_	21	nsubj	_	_
+21	atiendo	ateir	VERB	_	_	12	conj	_	_
+22	la	el	DET	_	_	23	det	_	_
+23	universidad	universidad	NOUN	_	_	21	obj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	23	nmod	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	*CITY*	CITY	PROPN	_	_	23	nmod	_	_
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	obj	_	_
+3	mantenemos	mantener	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	contacto	contacto	NOUN	_	_	3	obl	_	_
+6	por	por	ADP	_	_	7	case	_	_
+7	texto	texto	NOUN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	llamadas	llamado	ADJ	_	_	5	amod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	cartas	carta	NOUN	_	_	3	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Y	y	CCONJ	_	_	4	advmod	_	_
+2	lo	él	PRON	_	_	3	det	_	_
+3	buenos	buen	ADJ	_	_	4	nsubj	_	_
+4	es	ser	AUX	_	_	0	ROOT	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	viene	venir	VERB	_	_	4	ccomp	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	regreso	regreso	NOUN	_	_	6	obl	_	_
+9	4	4	NUM	_	_	8	nummod	_	_
+10	veces	vez	NOUN	_	_	8	compound	_	_
+11	al	al	ADP	_	_	12	case	_	_
+12	año	año	NOUN	_	_	6	obl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Y	y	CCONJ	_	_	6	advmod	_	_
+2	cuando	cuando	SCONJ	_	_	3	mark	_	_
+3	viene	venir	VERB	_	_	6	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+7	menos	menos	ADV	_	_	6	advmod	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	nos	yo	PRON	_	_	10	iobj	_	_
+10	ponemos	poner	VERB	_	_	6	advcl	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	viajar	viajar	VERB	_	_	10	xcomp	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	a	a	ADP	_	_	15	mark	_	_
+15	divertirnos	divertirno	NOUN	_	_	12	conj	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Vamos	ir	AUX	_	_	3	aux	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	ver	ver	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	película	película	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	o	o	CCONJ	_	_	9	cc	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	compras	compra	NOUN	_	_	5	conj	_	_
+10	(	(	PUNCT	_	_	14	punct	_	_
+11	aunque	aunque	SCONJ	_	_	14	mark	_	_
+12	casi	casi	ADV	_	_	14	advmod	_	_
+13	no	no	ADV	_	_	14	advmod	_	_
+14	compramos	comprar	VERB	_	_	3	advcl	_	_
+15	nada	nada	PRON	_	_	14	obj	_	_
+16	)	)	PUNCT	_	_	14	punct	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	o	o	CCONJ	_	_	20	cc	_	_
+19	a	a	ADP	_	_	20	case	_	_
+20	*CITY*	CITY	PROPN	_	_	3	conj	_	_
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	o	o	CCONJ	_	_	25	cc	_	_
+23	a	a	ADP	_	_	25	case	_	_
+24	una	uno	DET	_	_	25	det	_	_
+25	playa	playa	NOUN	_	_	20	conj	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	_	3	expl:pv	_	_
+3	divertimos	divertir	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	disfruto	disfrutar	VERB	_	_	3	conj	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	compañía	compañía	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+

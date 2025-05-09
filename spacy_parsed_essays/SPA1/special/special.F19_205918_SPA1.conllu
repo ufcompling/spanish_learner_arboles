@@ -1,0 +1,230 @@
+# Unnamed: 0 = 128
+# id = 205918
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = I only speak English
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo amo mi padre. Mi padre ama los animales, ir a playa, visitar a la familia, esquiar en los [los]{las}<ga:det> montanas, la serie "Game of Thrones", ir de camping, y observar partido [partido]{partidos}<na:noun> de futbol. El gusta el cine, el museo de arquitectura, y la historia contemporanea. Mi padre no gusta viajar en carro, montar en bicicleta, hacer yoga, cocinar, y beber cafe negro. El no gusta esdudiar en []{la}<ab:det:art:def> univerisidad. El [él]{}<pr:su:pron> bebe cafe con leche. El [él]{}<pr:su:pron>  bebe jugo de naranja. El gusta comer hamburguesas con queso y chow mein. En el fin de semana, mi padre gusta a ir visitar con amigos y comer comida americana o comida china. Su compleaños es el *BIRTH_DATE*.  El [él]{}<pr:su:pron> tiene *AGE* años. El [él]{}<pr:su:pron> va a trabajar a las ocho en punto de la manana. El gusta a ir a trabajar a las dos en punto de la tarde. El gusta dormir.  El [él]{}<pr:su:pron> es estadounidense. Me gusta pasar tiempo con mi padre.
+# updated annotation ann2 = Yo amo mi padre. Mi padre ama los animales, ir a playa, visitar a la familia, esquiar en [los]{las}<gat:det> montanas, la serie "Game of Thrones", ir de camping, y observar [partido]{partidos}<na:noun> de futbol. El gusta el cine, el museo de arquitectura, y la historia contemporanea. Mi padre no gusta viajar en carro, montar en bicicleta, hacer yoga, cocinar, y beber cafe negro. El no gusta esdudiar en []{la}<ab:det:art:def> univerisidad. El bebe cafe con leche. [El]{}<pr:su:pron> bebe jugo de naranja. El gusta comer hamburguesas con queso y chow mein. En el fin de semana, mi padre gusta a ir visitar con amigos y comer comida americana o comida china. Su compleaños es el *BIRTH_DATE*.  [El]{}<pr:su:pron> tiene *AGE* años. [El]{}<pr:su:pron> va a trabajar a las ocho en punto de la manana. El gusta a ir a trabajar a las dos en punto de la tarde. El gusta dormir.  [El]{}<pr:su:pron> es estadounidense. Me gusta pasar tiempo con mi padre.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Yo amo a mi padre. Mi padre ama a los animales, ir a playa, visitar a la familia, esquiar en las montañas, la serie "Game of Thrones", ir de camping, y observar partidos de fútbol. A él le gusta el cine, el museo de arquitectura, y la historia contemporánea. A mi padre no le gusta viajar en carro, montar en bicicleta, hacer yoga, cocinar, o beber café negro. A él no le gusta estudiar en la universidad. Él bebe café con leche. Bebe jugo de naranja. A él le gusta comer hamburguesas con queso y pasta salteada. En el fin de semana, a mi padre le gusta ir visitar con amigos y comer comida americana o comida china. Su cumpleaños es el *BIRTH_DATE*.  Tiene *AGE* años. Va a trabajar a las ocho en punto de la mañana. Le gusta ir a trabajar a las dos en punto de la tarde. Le gusta dormir. Es estadounidense. Me gusta pasar tiempo con mi padre.
+# corrected2 = nan
+# text = Yo amo mi padre. Mi padre ama los animales, ir a playa, visitar a la familia, esquiar en los montanas, la serie "Game of Thrones", ir de camping, y observar partido de futbol. El gusta el cine, el museo de arquitectura, y la historia contemporanea. Mi padre no gusta viajar en carro, montar en bicicleta, hacer yoga, cocinar, y beber cafe negro. El no gusta esdudiar en univerisidad. El bebe cafe con leche. El bebe jugo de naranja. El gusta comer hamburguesas con queso y chow mein. En el fin de semana, mi padre gusta a ir visitar con amigos y comer comida americana o comida china. Su compleaños es el *BIRTH_DATE*. El tiene *AGE* años. El va a trabajar a las ocho en punto de la manana. El gusta a ir a trabajar a las dos en punto de la tarde. El gusta dormir. El es estadounidense. Me gusta pasar tiempo con mi padre.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	padre	padre	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	3	nsubj	_	_
+3	ama	amar	VERB	_	_	0	ROOT	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	animales	animal	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ir	ir	VERB	_	_	3	advcl	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	playa	playa	NOUN	_	_	7	obl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	visitar	visitar	VERB	_	_	7	advcl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	familia	familia	NOUN	_	_	11	obj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	esquiar	esquiar	VERB	_	_	3	advcl	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	los	el	DET	_	_	19	det	_	_
+19	montanas	montana	NOUN	_	_	16	obl	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	la	el	DET	_	_	22	det	_	_
+22	serie	serie	NOUN	_	_	16	obj	_	_
+23	"	"	PUNCT	_	_	24	punct	_	_
+24	Game	Game	PROPN	_	_	22	appos	_	_
+25	of	of	PROPN	_	_	24	flat	_	_
+26	Thrones	Thrones	PROPN	_	_	24	flat	_	_
+27	"	"	PUNCT	_	_	24	punct	_	_
+28	,	,	PUNCT	_	_	24	punct	_	_
+29	ir	ir	VERB	_	_	16	obj	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	camping	camping	NOUN	_	_	29	obl	_	_
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	y	y	CCONJ	_	_	34	cc	_	_
+34	observar	observar	VERB	_	_	16	conj	_	_
+35	partido	partido	NOUN	_	_	34	obj	_	_
+36	de	de	ADP	_	_	37	case	_	_
+37	futbol	futbol	NOUN	_	_	35	nmod	_	_
+38	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gusta	gusta	NOUN	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	cine	cine	NOUN	_	_	2	appos	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	museo	museo	NOUN	_	_	4	appos	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	arquitectura	arquitectura	NOUN	_	_	7	nmod	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	historia	historia	NOUN	_	_	4	conj	_	_
+14	contemporanea	contemporaneo	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	viajar	viajar	VERB	_	_	4	xcomp	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	carro	carro	NOUN	_	_	5	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	montar	montar	VERB	_	_	5	advcl	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	bicicleta	bicicleta	NOUN	_	_	9	obl	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	hacer	hacer	VERB	_	_	9	advcl	_	_
+14	yoga	yoga	NOUN	_	_	13	obj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	cocinar	cocinar	VERB	_	_	9	advcl	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	beber	beber	VERB	_	_	5	conj	_	_
+20	cafe	cafe	NOUN	_	_	19	obj	_	_
+21	negro	negro	ADJ	_	_	20	amod	_	_
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	esdudiar	esdudiar	VERB	_	_	3	csubj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	univerisidad	univerisidad	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	bebe	bebe	NOUN	_	_	3	nsubj	_	_
+3	cafe	cafar	VERB	_	_	0	ROOT	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	leche	leche	NOUN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	bebe	bebe	NOUN	_	_	0	ROOT	_	_
+3	jugo	jugo	PROPN	_	_	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	naranja	naranja	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gusta	gusta	NOUN	_	_	3	nsubj	_	_
+3	comer	comer	VERB	_	_	0	ROOT	_	_
+4	hamburguesas	hamburguesa	NOUN	_	_	3	obj	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	queso	queso	NOUN	_	_	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	chow	chow	NOUN	_	_	6	conj	_	_
+9	mein	mein	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	fin	fin	NOUN	_	_	9	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	padre	padre	NOUN	_	_	9	nsubj	_	_
+9	gusta	gustar	VERB	_	_	0	ROOT	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	ir	ir	VERB	_	_	9	xcomp	_	_
+12	visitar	visitar	VERB	_	_	11	xcomp	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	amigos	amigo	NOUN	_	_	12	obl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	comer	comer	VERB	_	_	12	conj	_	_
+17	comida	comida	NOUN	_	_	16	obj	_	_
+18	americana	americano	ADJ	_	_	17	amod	_	_
+19	o	o	CCONJ	_	_	20	cc	_	_
+20	comida	comida	NOUN	_	_	17	conj	_	_
+21	china	chino	ADJ	_	_	20	amod	_	_
+22	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	compleaños	compleaño	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	obj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	nsubj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	va	ir	AUX	_	_	4	aux	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	trabajar	trabajar	VERB	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	_	7	det	_	_
+7	ocho	ocho	NOUN	_	_	4	obl	_	_
+8	en	en	ADP	_	_	12	case	_	_
+9	punto	punto	NOUN	_	_	8	fixed	_	_
+10	de	de	ADP	_	_	8	fixed	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	manana	manana	NOUN	_	_	4	obl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gusta	gusta	NOUN	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	6	mark	_	_
+4	ir	ir	AUX	_	_	6	aux	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	trabajar	trabajar	VERB	_	_	2	acl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	dos	dos	NUM	_	_	6	obl	_	_
+10	en	en	ADP	_	_	14	case	_	_
+11	punto	punto	NOUN	_	_	10	fixed	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	tarde	tarde	NOUN	_	_	6	obl	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gusta	gusta	NOUN	_	_	0	ROOT	_	_
+3	dormir	dormir	VERB	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	estadounidense	estadounidense	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	pasar	pasar	VERB	_	_	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	padre	padre	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+

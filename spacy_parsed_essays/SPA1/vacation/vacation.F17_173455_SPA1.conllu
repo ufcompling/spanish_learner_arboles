@@ -1,0 +1,164 @@
+# Unnamed: 0 = 106
+# id = 173455
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = I am 19 years old.
+# gender = Male
+# l1 language = Other
+# other l1 language(s) = Gujarati
+# language(s) used at home = I speak Gujarati at home.
+# language(s) studied = English: right from preschool
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = Todos los juntos tienen sus vacaciones ensueños. Yo también tengo una vacación ensueño. Mi lugar favorito para una vacación es España. Su país es muy animado. El gente son muy divertidos y hay muchas de lugares que me intereso. Las ciudades que quiero visitar Buñol, Madrid, Pamplona, y Sevilla. 
+
+      Por mí vacación, quiero visitar sus ciudades con mis amigos en coche. Quiero experimentar los placers de un viaje. Primero, quiero visitar Madrid y voy el estadio de Real Madrid y voy a los museos allí. Yo escucho que Madrid es un ciudad muy bonito y me gusta viajar en Madrid con sus museos y parques. 
+# a personal annotator2 = Todos los juntos tienen sus vacaciones ensueños. Yo también tengo una vacación ensueño. Mi lugar favorito para una vacación es España. Su país es muy animado. El gente son muy divertidos y hay muchas de lugares que me intereso. Las ciudades que quiero visitar Buñol, Madrid, Pamplona, y Sevilla. 
+
+      Por mí vacación, quiero visitar sus ciudades con mis amigos en coche. Quiero experimentar los placers de un viaje. Primero, quiero visitar Madrid y voy el estadio de Real Madrid y voy a los museos allí. Yo escucho que Madrid es un ciudad muy bonito y me gusta viajar en Madrid con sus museos y parques. 
+# gender-number annotator1 = Todos los juntos tienen sus vacaciones ensueños. Yo también tengo una [vacación]{vacaciones}<in:s:noun:inan> ensueño. Mi lugar favorito para una [vacación]{vacaciones}<in:s:noun:inan> es España. Su país es muy animado. [El]{la}<ga:fm:det:an> gente son muy [divertidos]{divertida}<ga:na:fm:sp:adj:an> y hay [muchas]{muchos}<ga:mf:det:inan> de lugares que me intereso. Las ciudades que quiero visitar Buñol, Madrid, Pamplona, y Sevilla. 
+
+      Por mí [vacación]{vacaciones}<in:s:noun:inan>, quiero visitar sus ciudades con mis amigos en coche. Quiero experimentar los placers de un viaje. Primero, quiero visitar Madrid y voy el estadio de Real Madrid y voy a los museos allí. Yo escucho que Madrid es [un]{una}<ga:fm:det:inan> ciudad<gat:noun:inan> muy [bonito]{bonita}<ga:fm:adj:inan> y me gusta viajar en Madrid con sus museos y parques. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Todos los juntos tienen sus vacaciones ensueños. Yo también tengo una vacación ensueño. Mi lugar favorito para una vacación es España. Su país es muy animado. El gente son muy divertidos y hay muchas de lugares que me intereso. Las ciudades que quiero visitar Buñol, Madrid, Pamplona, y Sevilla. Por mí vacación, quiero visitar sus ciudades con mis amigos en coche. Quiero experimentar los placers de un viaje. Primero, quiero visitar Madrid y voy el estadio de Real Madrid y voy a los museos allí. Yo escucho que Madrid es un ciudad muy bonito y me gusta viajar en Madrid con sus museos y parques.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Todos	todo	DET	_	_	2	det	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	juntos	junto	NOUN	_	_	4	nsubj	_	_
+4	tienen	tener	VERB	_	_	0	ROOT	_	_
+5	sus	su	DET	_	_	6	det	_	_
+6	vacaciones	vacación	NOUN	_	_	4	obj	_	_
+7	ensueños	ensueño	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	también	también	ADV	_	_	3	advmod	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	vacación	vacación	NOUN	_	_	3	obj	_	_
+6	ensueño	ensueño	PROPN	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	lugar	lugar	NOUN	_	_	8	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	vacación	vacación	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	España	España	PROPN	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	país	país	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	animado	animado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	gente	gente	NOUN	_	_	5	nsubj	_	_
+3	son	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	divertidos	divertido	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	hay	haber	AUX	_	_	5	conj	_	_
+8	muchas	mucho	PRON	_	_	7	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	lugares	lugar	NOUN	_	_	8	nmod	_	_
+11	que	que	PRON	_	_	13	nsubj	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	intereso	interesar	VERB	_	_	8	acl	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Las	el	DET	_	_	2	det	_	_
+2	ciudades	ciudad	NOUN	_	_	0	ROOT	_	_
+3	que	que	PRON	_	_	4	iobj	_	_
+4	quiero	querer	VERB	_	_	2	acl	_	_
+5	visitar	visitar	VERB	_	_	4	xcomp	_	_
+6	Buñol	Buñol	PROPN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Madrid	Madrid	PROPN	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Pamplona	Pamplona	PROPN	_	_	6	conj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	Sevilla	Sevilla	PROPN	_	_	6	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	_	5	obl	_	_
+3	vacación	vacación	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	quiero	querer	VERB	_	_	0	ROOT	_	_
+6	visitar	visitar	VERB	_	_	5	xcomp	_	_
+7	sus	su	DET	_	_	8	det	_	_
+8	ciudades	ciudad	NOUN	_	_	6	obj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	_	11	det	_	_
+11	amigos	amigo	NOUN	_	_	6	obl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	coche	coche	NOUN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	experimentar	experimentar	VERB	_	_	1	xcomp	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	placers	placer	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	viaje	viaje	NOUN	_	_	4	nmod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Primero	primero	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	quiero	querer	VERB	_	_	0	ROOT	_	_
+4	visitar	visitar	VERB	_	_	3	xcomp	_	_
+5	Madrid	Madrid	PROPN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	voy	ir	VERB	_	_	3	conj	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	estadio	estadio	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Real	Real	PROPN	_	_	9	nmod	_	_
+12	Madrid	Madrid	PROPN	_	_	11	flat	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	voy	ir	VERB	_	_	7	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	los	el	DET	_	_	17	det	_	_
+17	museos	museo	NOUN	_	_	14	obj	_	_
+18	allí	allí	ADV	_	_	14	advmod	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	escucho	escuchar	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	7	mark	_	_
+4	Madrid	Madrid	PROPN	_	_	7	nsubj	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	ciudad	ciudad	NOUN	_	_	2	ccomp	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	bonito	bonito	ADJ	_	_	7	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	gusta	gustar	VERB	_	_	2	conj	_	_
+13	viajar	viajar	VERB	_	_	12	csubj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	Madrid	Madrid	PROPN	_	_	13	obl	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	sus	su	DET	_	_	18	det	_	_
+18	museos	museo	NOUN	_	_	13	obl	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	parques	parque	NOUN	_	_	18	conj	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+

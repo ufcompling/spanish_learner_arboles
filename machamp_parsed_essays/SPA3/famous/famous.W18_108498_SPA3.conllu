@@ -1,0 +1,173 @@
+# Unnamed: 0 = 98
+# id = 108498
+# prompt = famous
+# quarter = W18
+# course = SPA 3
+# age = I do not identify with either genders
+# gender = 22
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Un persona muy famosa y importante en mi vida estaba Robin Williams. Decio "estaba" porque quatro años pasado Robin Williams se suicidó. Pero, él estaba mas de el suicidó. Robin estaba muy comica y muy simpatico. En los 1980's él estuve un nuevo comico. Robin hable por horas sobres cosas, pero entonces él hable sobre depresión. Depresión es una cosa muy dificil, pero Robin tenía los palabras. Robin tenía un vida muy fantastica como un actor in Jumanji, Patch Adams, Aladdin, y Hook. Robin tenía depresión hasta el final. Yo tengo un tatuaje que eso dice los palabras de Robin Williams. "Todos nacidamos con una pequeña chispa de locura". Es verdad. 
+# a personal annotator2 = Un persona muy famosa y importante en mi vida estaba Robin Williams. Decio "estaba" porque quatro años pasado Robin Williams se suicidó. Pero, él estaba mas de el suicidó. Robin estaba muy comica y muy simpatico. En los 1980's él estuve un nuevo comico. Robin hable por horas sobres cosas, pero entonces él hable sobre depresión. Depresión es una cosa muy dificil, pero Robin tenía los palabras. Robin tenía un vida muy fantastica como un actor in Jumanji, Patch Adams, Aladdin, y Hook. Robin tenía depresión hasta el final. Yo tengo un tatuaje que eso dice los palabras de Robin Williams. "Todos nacidamos con una pequeña chispa de locura". Es verdad. 
+# gender-number annotator1 = [Un]{una}<ga:fm:det:an> persona muy famosa y importante en mi vida estaba Robin Williams. Decio "estaba" porque quatro años [pasado]{pasados}<na:ps:adj:inan> Robin Williams se suicidó. Pero, él estaba mas de el suicidó. Robin estaba muy [comica]{cómico}<ga:mf:adj:an> y muy simpatico. En los 1980's él estuve un nuevo comico. Robin hable por horas sobres cosas, pero entonces él hable sobre depresión. Depresión es una cosa muy dificil, pero Robin tenía [los]{las}<ga:fm:det:inan> palabras. Robin tenía [un]{una}<ga:fm:det:inan> vida muy fantastica como un actor in Jumanji, Patch Adams, Aladdin, y Hook. Robin tenía depresión hasta el final. Yo tengo un tatuaje que eso dice [los]{las}<ga:fm:det:inan> palabras de Robin Williams. "Todos nacidamos con una pequeña chispa de locura". Es verdad. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un persona muy famosa y importante en mi vida estaba Robin Williams. Decio "estaba" porque quatro años pasado Robin Williams se suicidó. Pero, él estaba mas de el suicidó. Robin estaba muy comica y muy simpatico. En los 1980's él estuve un nuevo comico. Robin hable por horas sobres cosas, pero entonces él hable sobre depresión. Depresión es una cosa muy dificil, pero Robin tenía los palabras. Robin tenía un vida muy fantastica como un actor in Jumanji, Patch Adams, Aladdin, y Hook. Robin tenía depresión hasta el final. Yo tengo un tatuaje que eso dice los palabras de Robin Williams. "Todos nacidamos con una pequeña chispa de locura". Es verdad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	importante	importante	ADJ	_	Number=Sing	4	conj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+10	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	Robin	Robin	PROPN	_	_	0	root	_	_
+12	Williams	Williams	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Decio	deciar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+3	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+4	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	porque	porque	SCONJ	_	_	12	mark	_	_
+6	quatro	quatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	años	año	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+8	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
+9	Robin	Robin	PROPN	_	_	12	nsubj	_	_
+10	Williams	Williams	PROPN	_	_	9	flat	_	_
+11	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	suicidó	suicidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+4	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+5	mas	mas	ADV	_	_	0	root	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	suicidó	suicidó	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Robin	Robin	PROPN	_	_	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	comica	comico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	simpatico	simpatico	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	1980's	1980'	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+5	estuve	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+8	comico	comico	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Robin	Robin	PROPN	_	_	2	nsubj	_	_
+2	hable	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+5	sobres	sobre	DET	_	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	entonces	entonces	ADV	_	_	11	advmod	_	_
+10	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	hable	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	sobre	sobre	ADP	_	_	13	case	_	_
+13	depresión	depresión	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Depresión	Depresión	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	dificil	dificil	ADJ	_	Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	Robin	Robin	PROPN	_	_	10	nsubj	_	_
+10	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Robin	Robin	PROPN	_	_	2	nsubj	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	fantastica	fantastico	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+7	como	como	SCONJ	_	_	9	mark	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	actor	actor	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+10	in	in	ADP	_	_	11	case	_	_
+11	Jumanji	Jumanji	PROPN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	Patch	Patch	PROPN	_	_	11	conj	_	_
+14	Adams	Adams	PROPN	_	_	13	flat	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	Aladdin	Aladdin	PROPN	_	_	11	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	Hook	Hook	PROPN	_	_	11	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Robin	Robin	PROPN	_	_	2	nsubj	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	depresión	depresión	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	hasta	hasta	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	final	final	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	tatuaje	tatuaje	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	7	obj	_	_
+6	eso	ese	PRON	_	Number=Sing|PronType=Dem	7	nsubj	_	_
+7	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Robin	Robin	PROPN	_	_	9	nmod	_	_
+12	Williams	Williams	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	3	nsubj	_	_
+3	nacidamos	nacidar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	con	con	ADP	_	_	7	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	chispa	chispa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	locura	locura	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

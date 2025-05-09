@@ -1,0 +1,239 @@
+# Unnamed: 0 = 46
+# id = 172007
+# prompt = special
+# quarter = W19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin Chinese
+# language(s) studied = I learned a little bit of Korean, just a little bit, for about a month. Before learning Spanish, of course, I learned English, for 14 years.
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Este hombre es mi actriz favorita, Yang Mi. Ella es muy buena actriz. Tiene treinta y dos años. [Ella]{}<pr:su:pron> es china. Su cumpleaños es el doce de septiembre. [Ella]{}<pr:su:pron> es increiblemente hermosa. Con el pelo largo y negro. Ojos grandes y brillantes. Su piel el muy blanca. [Ella]{}<pr:su:pron> es alta y delgada. Vive en Peking. [Ella]{}<pr:su:pron> tiene una hija. Su hija tiene cuatro años. Se divorció el año pasado. Tiene un carácter algre y es una chica muy cuadrada. [Ella]{}<pr:su:pron> es apasionada y dedicada. Me gusta mucho y me gusta mucho su trabajo en el cine.  Ella seríe mucho. Tiene [muchos]{muchas}<ga:adj> amigas. Le gusta comer fideos. [Ella]{}<pr:su:pron> no come carne. Está ocupada con su trabajo y tiene muy poco tiempo libre. Le gusta jugar videojuegos. A ella también le gusta cantar. Pero no le gusta bailar. Tenía que usar tacones por el trabajo. Le gusta desafiar a personajes diferentes. Ella ama a sus fans.
+# updated annotation ann2 = Este hombre es mi actriz favorita, Yang Mi. [Ella]{}<pr:su:pron> es muy buena actriz. Tiene treinta y dos años. [Ella]{}<pr:su:pron> es china. Su cumpleaños es el doce de septiembre. [Ella]{}<pr:su:pron> es increiblemente hermosa. Con el pelo largo y negro. Ojos grandes y brillantes. Su piel el muy blanca. [Ella]{}<pr:su:pron> es alta y delgada. Vive en Peking. [Ella]{}<pr:su:pron> tiene una hija. Su hija tiene cuatro años. Se divorció el año pasado. Tiene un carácter algre y es una chica muy cuadrada. [Ella]{}<pr:su:pron> es apasionada y dedicada. Me gusta mucho y me gusta mucho su trabajo en el cine.  [Ella]{}<pr:su:pron> seríe mucho. Tiene [muchos]{muchas}<ga:det> amigas. Le gusta comer fideos. [Ella]{}<pr:su:pron> no come carne. Está ocupada con su trabajo y tiene muy poco tiempo libre. Le gusta jugar videojuegos. A ella también le gusta cantar. Pero no le gusta bailar. Tenía que usar tacones por el trabajo. Le gusta desafiar a personajes diferentes. [Ella]{}<pr:su:pron> ama a sus fans.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Esta mujer es mi actriz favorita, Yang Mi. Ella es muy buena actriz. Tiene treinta y dos años. Es china. Su cumpleaños es el doce de septiembre. Es increíblemente hermosa, con el pelo largo y negro, y los ojos grandes y brillantes. Su piel es muy blanca. Es alta y delgada. Vive en Pekín. Tiene una hija. Su hija tiene cuatro años. Se divorció el año pasado. Tiene un carácter alegre y es una chica muy cuadrada. Es apasionada y dedicada. Me gusta mucho y me gusta mucho su trabajo en el cine.  Ella se ríe mucho. Tiene muchas amigas. Le gusta comer fideos. No come carne. Está ocupada con su trabajo y tiene muy poco tiempo libre. Le gusta jugar a videojuegos. A ella también le gusta cantar. Pero no le gusta bailar. Tenía que usar tacones por el trabajo. Le gusta desafiar a personajes diferentes. Ella ama a sus fans.
+# corrected2 = nan
+# text = Este hombre es mi actriz favorita, Yang Mi. Ella es muy buena actriz. Tiene treinta y dos años. Ella es china. Su cumpleaños es el doce de septiembre. Ella es increiblemente hermosa. Con el pelo largo y negro. Ojos grandes y brillantes. Su piel el muy blanca. Ella es alta y delgada. Vive en Peking. Ella tiene una hija. Su hija tiene cuatro años. Se divorció el año pasado. Tiene un carácter algre y es una chica muy cuadrada. Ella es apasionada y dedicada. Me gusta mucho y me gusta mucho su trabajo en el cine. Ella seríe mucho. Tiene muchos amigas. Le gusta comer fideos.Ella no come carne. Está ocupada con su trabajo y tiene muy poco tiempo libre. Le gusta jugar videojuegos. A ella también le gusta cantar. Pero no le gusta bailar. Tenía que usar tacones por el trabajo. Le gusta desafiar a personajes diferentes. Ella ama a sus fans.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Este	este	DET	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	actriz	actriz	NOUN	_	_	0	ROOT	_	_
+6	favorita	favorito	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Yang	Yang	PROPN	_	_	5	appos	_	_
+9	Mi	Mi	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buena	buen	ADJ	_	_	5	amod	_	_
+5	actriz	actriz	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	treinta	treinta	NUM	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	dos	dos	NUM	_	_	5	nummod	_	_
+5	años	año	NOUN	_	_	2	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	china	chino	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	doce	doce	NUM	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	septiembre	septiembre	NOUN	_	_	5	compound	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	increiblemente	increiblemente	ADJ	_	_	4	advmod	_	_
+4	hermosa	hermoso	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Con	con	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	0	ROOT	_	_
+4	largo	largo	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	negro	negro	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ojos	Ojos	PROPN	_	_	0	ROOT	_	_
+2	grandes	grande	ADJ	_	_	1	amod	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	brillantes	brillante	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	piel	piel	NOUN	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	5	det	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	blanca	blanco	ADJ	_	_	2	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgada	delgado	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Vive	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Peking	Peking	PROPN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hija	hija	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	hija	hija	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuatro	cuatro	NUM	_	_	5	nummod	_	_
+5	años	año	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	divorció	divorceír	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	año	año	NOUN	_	_	2	obl	_	_
+5	pasado	pasado	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	carácter	carácter	NOUN	_	_	1	obj	_	_
+4	algre	algre	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	chica	chica	NOUN	_	_	1	conj	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	cuadrada	cuadrado	ADJ	_	_	8	amod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	apasionada	apasionado	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	dedicada	dedicado	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	2	conj	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	trabajo	trabajo	NOUN	_	_	6	nsubj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	cine	cine	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	seríe	sereír	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	amigas	amiga	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	comer	comer	VERB	_	_	2	csubj	_	_
+4	fideos	fideo	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	come	comar	VERB	_	_	0	ROOT	_	_
+4	carne	carne	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Está	estar	AUX	_	_	2	cop	_	_
+2	ocupada	ocupado	ADJ	_	_	0	ROOT	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	trabajo	trabajo	NOUN	_	_	2	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	2	conj	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	poco	poco	PRON	_	_	10	det	_	_
+10	tiempo	tiempo	NOUN	_	_	7	obj	_	_
+11	libre	libre	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	csubj	_	_
+4	videojuegos	videojuego	NOUN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	5	obj	_	_
+3	también	también	ADV	_	_	5	advmod	_	_
+4	le	él	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	cantar	cantar	VERB	_	_	5	csubj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	bailar	bailar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	usar	usar	VERB	_	_	1	conj	_	_
+4	tacones	tacón	NOUN	_	_	3	obj	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	trabajo	trabajo	NOUN	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	desafiar	desafiar	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	personajes	personaje	NOUN	_	_	3	obj	_	_
+6	diferentes	diferente	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	ama	amar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	sus	su	DET	_	_	5	det	_	_
+5	fans	fan	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

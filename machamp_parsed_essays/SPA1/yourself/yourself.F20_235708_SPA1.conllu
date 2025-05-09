@@ -1,0 +1,238 @@
+# Unnamed: 0 = 64
+# id = 235708
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* años. Soy de *PLACE*. Mi soy de la ciudad de *CITY*. Mi soy de el estado de *STATE*.  Vivo en *CITY* *CITY*, *STATE*. Mi fecha de nacimiento es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy generosa, tímida y sedentaria. Estoy contenta y relajada. Ahora tengo calor y sed. Mi especialización es [la]{las}<in:det> [matemática]{matemáticas}<in:noun>. Mi gusta el género de acción y película favorita es Fast and Furious y Pirates of the Caribbean. Mi gusta escuchar See You Again. Mi gusta cocinar y pintar. Mi gusta leer,  el limón y el tomate. El tiempo atmosférico favorito de mi es de noche y hace buen tiempo hace bueno. El tiempo atmosférico no favorito de mi es hace viento, hay tormenta truena, nieva y hay niebla. Las estaciones gustan mi son la primavera y el otoño. Los días de la semana gustan mi son viernes, sábado y domingo. Los meses del año gustan mi son enero, febrero, marzo, agosto, septiembre, octubre y noviembre.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* años. Soy de *PLACE*. Mi soy de la ciudad de *CITY*. Mi soy de el estado de *STATE*.  Vivo en *CITY* *CITY*, *STATE*. Mi fecha de nacimiento es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy generosa, tímida y sedentaria. Estoy contenta y relajada. Ahora tengo calor y sed. Mi especialización [es]{son}<fs:st:pn> [la]{las}<in:det> [matemática]{matemáticas}<in:noun>. Mi gusta el género de acción y película favorita es Fast and Furious y Pirates of the Caribbean. Mi gusta escuchar See You Again. Mi gusta cocinar y pintar. Mi gusta leer,  el limón y el tomate. El tiempo atmosférico favorito de mi es de noche y hace buen tiempo hace bueno. El tiempo atmosférico no favorito de mi es hace viento, hay tormenta truena, nieva y hay niebla. Las estaciones gustan mi son la primavera y el otoño. Los días de la semana gustan mi son []{el}<ab:det:art:def> viernes, []{el}<ab:det:art:def> sábado y []{el}<ab:det:art:def> domingo. Los meses del año gustan mi son enero, febrero, marzo, agosto, septiembre, octubre y noviembre.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* años. Soy de *PLACE*. Soy de la ciudad de *CITY*. Soy del estado de *STATE*.  Vivo en *CITY* *CITY*, *STATE*. Mi fecha de nacimiento es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy generosa, tímida y sedentaria. Estoy contenta y relajada. Ahora tengo calor y sed. Mi especialización son las matemáticas. Me gusta el género de acción y mi película favorita es Fast and Furious y Pirates of the Caribbean. Me gusta escuchar See You Again. Me gusta cocinar y pintar. Me gusta leer,  el limón y el tomate. El tiempo atmosférico favorito mío es de noche y hace buen tiempo, hace bueno. El tiempo atmosférico no favorito mío es hace viento, hay tormenta, truena, nieva y hay niebla. Las estaciones que me gustan son la primavera y el otoño. Los días de la semana que me gustan son viernes, sábado y domingo. Los meses del año que me gustan son enero, febrero, marzo, agosto, septiembre, octubre y noviembre.
+# corrected2 = nan
+# text = Tengo *AGE* años. Soy de *PLACE*. Mi soy de la ciudad de *CITY*. Mi soy de el estado de *STATE*. Vivo en *CITY* *CITY*, *STATE*. Mi fecha de nacimiento es el *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Soy generosa, tímida y sedentaria. Estoy contenta y relajada. Ahora tengo calor y sed. Mi especialización es la matemática. Mi gusta el género de acción y película favorita es Fast and Furious y Pirates of the Caribbean. Mi gusta escuchar See You Again. Mi gusta cocinar y pintar. Mi gusta leer, el limón y el tomate. El tiempo atmosférico favorito de mi es de noche y hace buen tiempo hace bueno. El tiempo atmosférico no favorito de mi es hace viento, hay tormenta truena, nieva y hay niebla. Las estaciones gustan mi son la primavera y el otoño. Los días de la semana gustan mi son viernes, sábado y domingo. Los meses del año gustan mi son enero, febrero, marzo, agosto, septiembre, octubre y noviembre.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	1	case	_	_
+3	*PLACE*	*place*	PUNCT	_	_	1	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	*city*	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	estado	estado	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	dep	_	_
+4	*CITY*	*city*	PUNCT	_	_	3	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	*STATE*	*state*	PUNCT	_	_	3	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	nacimiento	nacimiento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	2	punct	_	_
+8	de	de	ADP	_	_	7	case	_	_
+9	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	7	amod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	9	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	sedentaria	sedentario	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	relajada	relajado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	calor	calor	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	sed	sed	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	matemática	matemático	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	gusta	gustar	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	csubj	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	género	género	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	acción	acción	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	película	película	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	Fast	Fast	PROPN	_	_	0	root	_	_
+12	and	and	PROPN	_	_	11	flat	_	_
+13	Furious	Furious	PROPN	_	_	11	flat	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	Pirates	Pirates	PROPN	_	_	11	conj	_	_
+16	of	of	PROPN	_	_	15	flat	_	_
+17	the	the	PROPN	_	_	15	flat	_	_
+18	Caribbean	Caribbean	PROPN	_	_	15	flat	_	_
+19	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escuchar	escuchar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	See	see	PROPN	_	_	3	obj	_	_
+5	You	You	PROPN	_	_	4	flat	_	_
+6	Again	Again	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cocinar	cocinar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	pintar	pintar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	limón	limón	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tomate	tomate	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	atmosférico	atmosférico	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	buen	buen	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+13	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	atmosférico	atmosférico	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	viento	viento	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+13	tormenta	tormenta	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+14	truena	trueno	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	nieva	nieva	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+19	niebla	niebla	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	estaciones	estación	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	csubj	_	_
+4	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	obl	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	primavera	primavera	NOUN	_	Number=Sing	0	root	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	días	día	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	obl	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	viernes	viernes	NOUN	_	AdvType=Tim	6	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	sábado	sábado	NOUN	_	AdvType=Tim	9	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	domingo	domingo	NOUN	_	AdvType=Tim	9	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	meses	mes	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	año	año	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	obl	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	enero	enero	NOUN	_	AdvType=Tim	0	root	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	febrero	febrero	NOUN	_	AdvType=Tim	8	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	agosto	agosto	NOUN	_	AdvType=Tim	8	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	septiembre	septiembre	NOUN	_	AdvType=Tim	8	obl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+18	octubre	octubre	NOUN	_	AdvType=Tim	8	obl	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	noviembre	noviembre	NOUN	_	AdvType=Tim	8	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+

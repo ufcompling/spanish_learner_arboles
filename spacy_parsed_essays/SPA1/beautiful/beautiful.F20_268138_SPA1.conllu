@@ -1,0 +1,225 @@
+# Unnamed: 0 = 10
+# id = 268138
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18 years old
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿*I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella [está]{es}<conf:v:seta> cómica, inteligente, y agradable. Yo solia soy muy tímida, pero [nosotros]{}<pr:su:pron> hicimos amigas fácilmente. [Nuestro]{Nuestras}<ga:na:adj> casas están cerca []{la}<ab:det:art:def> [unas]{una}<na:det> de []{la}<ab:det:art:def> [otras]{otra}<na:det>, así que pasamos mucho tiempo juntos. También, nosotras fue a la misma escuela secundaria y nosotras almorzamos todos los días con nuestras amigas. Nos gusta conducir juntos a la playa y escuchar música. [Nosotras]{}<pr:su:pron> gusta hablar sobre cualquier tema, como [nuestras]{nuestros}<ga:adj> programmas de televisión favoritos, o si tenemos problemas familias.  En este momento, vamos a diferentes universidades, pero [nosotras]{}<pr:su:pron> intentar hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque nosotras somos lejos de una a la otra. Estoy muy [contento]{contenta}<ga:adj> de que nos conociéramos hace tanto tiempo, y estoy [agradecido]{agradecida}<ga:adj> por ella.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = *I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella [está]{es}<conf:v:seta> cómica, inteligente, y agradable. Yo solia [soy]{ser}<fs:st:t> muy tímida, pero [nosotros]{}<pr:su:pron> hicimos amigas fácilmente. [Nuestro]{Nuestras}<ga:na:det> casas están cerca []{la}<ab:det:art:def> [unas]{una}<in:pron> de []{la}<ab:det:art:def> [otras]{otra}<in:pron>, así que pasamos mucho tiempo [juntos]{juntas}<ga:adj>. También, [nosotras]{}<pr:su:pron> [fue]{fuimos}<fs:st:pn> a la misma escuela secundaria y [nosotras]{}<pr:su:pron> almorzamos todos los días con nuestras amigas. Nos gusta conducir [juntos]{juntas}<ga:adj> a la playa y escuchar música. [Nosotras]{}<pr:su:pron> gusta hablar sobre cualquier tema, como [nuestras]{nuestros}<ga:det> programmas de televisión favoritos, o si tenemos problemas familias.  En este momento, vamos a diferentes universidades, pero [nosotras]{}<pr:su:pron> [intentar]{intentamos}<fs:st:t> hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque [nosotras]{}<pr:su:pron> [somos]{estemos}<conf:v:seta> [somos]{estemos}<fs:st:mo> lejos de una a la otra. Estoy muy [contento]{contenta}<ga:adj> de que nos conociéramos hace tanto tiempo, y estoy [agradecido]{agradecida}<ga:adj> por ella.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿*I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella es cómica, inteligente, y agradable. Yo solía ser muy tímida, pero nos hicimos amigas fácilmente. Nuestras casas están cerca la una de la otra, así que pasamos mucho tiempo juntas. También, fuimos a la misma escuela secundaria y almorzamos todos los días con nuestras amigas. Nos gusta conducir juntas a la playa y escuchar música. Nos gusta hablar sobre cualquier tema, como nuestros programas de televisión favoritos, o si tenemos problemas familiares.  En este momento, vamos a diferentes universidades, pero intentamos hacer una videollamada una vez por semana. Su universidad está al otro lado del país, así que espero que podamos seguir siendo amigas, aunque nosotras estamos lejos la una de la otra. Estoy muy contenta de que nos conociéramos hace tanto tiempo, y estoy agradecida por ella. 
+# corrected2 = nan
+# text = *I am in SPA 1* Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella está cómica, inteligente, y agradable. Yo solia soy muy tímida, pero nosotros hicimos amigas fácilmente. Nuestro casas están cerca unas de otras, así que pasamos mucho tiempo juntos. También, nosotras fue a la misma escuela secundaria y nosotras almorzamos todos los días con nuestras amigas. Nos gusta conducir juntos a la playa y escuchar música. Nosotras gusta hablar sobre cualquier tema, como nuestras programmas de televisión favoritos, o si tenemos problemas familias. En este momento, vamos a diferentes universidades, pero nosotras intentar hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque nosotras somos lejos de una a la otra. Estoy muy contento de que nos conociéramos hace tanto tiempo, y estoy agradecido por ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*	*	NOUN	_	_	5	punct	_	_
+2	I	I	CCONJ	_	_	5	cc	_	_
+3	am	am	ADV	_	_	2	dep	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	SPA	SPA	PROPN	_	_	17	nsubj	_	_
+6	1	1	NUM	_	_	5	nummod	_	_
+7	*	*	NUM	_	_	5	nmod	_	_
+8	Una	uno	DET	_	_	10	det	_	_
+9	hermosa	hermoso	ADJ	_	_	10	amod	_	_
+10	historia	historia	NOUN	_	_	5	appos	_	_
+11	que	que	PRON	_	_	13	nsubj	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	viene	venir	VERB	_	_	10	acl	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	mente	mente	NOUN	_	_	13	obl	_	_
+17	es	ser	AUX	_	_	0	ROOT	_	_
+18	sobre	sobre	ADP	_	_	20	mark	_	_
+19	cómo	cómo	PRON	_	_	20	obl	_	_
+20	conocí	conocí	VERB	_	_	17	ccomp	_	_
+21	a	a	ADP	_	_	24	case	_	_
+22	mi	mi	DET	_	_	24	det	_	_
+23	mejor	mejor	ADJ	_	_	24	amod	_	_
+24	amiga	amiga	NOUN	_	_	20	obj	_	_
+25	.	.	PUNCT	_	_	17	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	mejor	mejor	ADJ	_	_	3	amod	_	_
+3	amiga	amiga	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	yo	yo	PRON	_	_	7	nsubj	_	_
+6	nos	yo	PRON	_	_	7	obj	_	_
+7	conocimos	conocer	VERB	_	_	3	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*NUMBER*	NUMBER	PROPN	_	_	7	obl	_	_
+10	grado	grado	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	cómica	cómico	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	inteligente	inteligente	ADJ	_	_	3	amod	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	agradable	agradable	ADJ	_	_	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	solia	solia	PROPN	_	_	5	nsubj	_	_
+3	soy	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	tímida	tímido	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	nosotros	yo	PRON	_	_	9	nsubj	_	_
+9	hicimos	hicimo	NOUN	_	_	5	conj	_	_
+10	amigas	amiga	NOUN	_	_	9	obj	_	_
+11	fácilmente	fácilmente	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Nuestro	nuestro	DET	_	_	2	det	_	_
+2	casas	casa	NOUN	_	_	5	nsubj	_	_
+3	están	estar	AUX	_	_	5	cop	_	_
+4	cerca	cerca	ADV	_	_	5	advmod	_	_
+5	unas	uno	PRON	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	otras	otro	PRON	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	pasamos	pasar	VERB	_	_	5	advcl	_	_
+12	mucho	mucho	DET	_	_	13	det	_	_
+13	tiempo	tiempo	NOUN	_	_	11	obj	_	_
+14	juntos	junto	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	nosotras	nosotra	NOUN	_	_	8	nsubj	_	_
+4	fue	ser	AUX	_	_	8	cop	_	_
+5	a	a	ADP	_	_	8	case	_	_
+6	la	el	DET	_	_	8	det	_	_
+7	misma	mismo	DET	_	_	6	det	_	_
+8	escuela	escuela	NOUN	_	_	12	nsubj	_	_
+9	secundaria	secundario	ADJ	_	_	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	nosotras	nosotra	ADJ	_	_	9	conj	_	_
+12	almorzamos	almorzar	VERB	_	_	0	ROOT	_	_
+13	todos	todo	DET	_	_	14	det	_	_
+14	los	el	DET	_	_	15	det	_	_
+15	días	día	NOUN	_	_	12	obj	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	nuestras	nuestro	DET	_	_	18	det	_	_
+18	amigas	amiga	NOUN	_	_	12	obl	_	_
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	conducir	conducir	VERB	_	_	2	csubj	_	_
+4	juntos	junto	ADJ	_	_	3	obj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	playa	playa	NOUN	_	_	3	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	escuchar	escuchar	VERB	_	_	3	conj	_	_
+10	música	música	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nosotras	Nosotras	PROPN	_	_	2	nsubj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	hablar	hablar	VERB	_	_	2	xcomp	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	cualquier	cualquiera	DET	_	_	6	det	_	_
+6	tema	tema	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	como	como	SCONJ	_	_	10	mark	_	_
+9	nuestras	nuestro	DET	_	_	10	det	_	_
+10	programmas	programma	NOUN	_	_	3	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	televisión	televisión	NOUN	_	_	10	nmod	_	_
+13	favoritos	favorito	ADJ	_	_	12	amod	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	o	o	CCONJ	_	_	17	cc	_	_
+16	si	si	SCONJ	_	_	17	mark	_	_
+17	tenemos	tener	VERB	_	_	2	conj	_	_
+18	problemas	problema	NOUN	_	_	17	obj	_	_
+19	familias	familia	NOUN	_	_	18	amod	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	este	este	DET	_	_	3	det	_	_
+3	momento	momento	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	vamos	ir	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	diferentes	diferente	DET	_	_	8	det	_	_
+8	universidades	universidad	NOUN	_	_	5	obl	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	nosotras	nosotra	ADJ	_	_	8	conj	_	_
+12	intentar	intentar	VERB	_	_	5	advcl	_	_
+13	hacer	hacer	VERB	_	_	12	xcomp	_	_
+14	una	uno	DET	_	_	15	det	_	_
+15	videollamada	videollamada	NOUN	_	_	13	obj	_	_
+16	una	uno	DET	_	_	17	det	_	_
+17	vez	vez	NOUN	_	_	12	obl	_	_
+18	por	por	ADP	_	_	19	case	_	_
+19	semana	semana	NOUN	_	_	17	nmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	7	nsubj	_	_
+2	universidad	universidad	PROPN	_	_	1	amod	_	_
+3	está	estar	AUX	_	_	7	cop	_	_
+4	a	a	ADP	_	_	7	case	_	_
+5	través	través	NOUN	_	_	4	fixed	_	_
+6	del	del	DET	_	_	7	det	_	_
+7	país	país	NOUN	_	_	0	ROOT	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	espero	esperar	VERB	_	_	7	conj	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	podamos	poder	AUX	_	_	14	aux	_	_
+14	seguir	seguir	VERB	_	_	11	ccomp	_	_
+15	siendo	ser	AUX	_	_	16	cop	_	_
+16	amigas	amiga	NOUN	_	_	14	xcomp	_	_
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	aunque	aunque	SCONJ	_	_	21	mark	_	_
+19	nosotras	nosotra	NOUN	_	_	21	nsubj	_	_
+20	somos	ser	AUX	_	_	21	cop	_	_
+21	lejos	lejos	ADV	_	_	11	advcl	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	una	uno	PRON	_	_	21	obl	_	_
+24	a	a	ADP	_	_	26	case	_	_
+25	la	el	DET	_	_	26	det	_	_
+26	otra	otro	PRON	_	_	23	nmod	_	_
+27	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	contento	contento	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	7	mark	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	nos	yo	PRON	_	_	7	expl:pv	_	_
+7	conociéramos	conociérar	VERB	_	_	3	acl	_	_
+8	hace	hacer	VERB	_	_	7	advcl	_	_
+9	tanto	tanto	DET	_	_	10	det	_	_
+10	tiempo	tiempo	NOUN	_	_	8	obj	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	estoy	estar	AUX	_	_	14	cop	_	_
+14	agradecido	agradecido	ADJ	_	_	3	conj	_	_
+15	por	por	ADP	_	_	16	case	_	_
+16	ella	él	PRON	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,231 @@
+# Unnamed: 0 = 168
+# id = 171916
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 3
+# speaking ability = No
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola. Soy un estudiante de primer año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en mi favorite subject: matemáticas aplicadas. También disfruto estudiar economía, statistics y filosofía. También me gusta aprender nuevos idiomas. Estudié francés for 14 años. Ahora estoy aprendiendo español. Later, I will study ruso y and then study chino. Besides académicos, me encantan los deportes. Disfruto caminar y correr, pero mi actividad favorita es swimming en el *PLACE*. Fun fact: también tengo un black belt en kárate y soy un competent toastmaster. Besides estudiar y hacer ejercicio, tengo muchas aficiones. Disfruto drawing, ver movies y cocinar. Para halloween, mis amigos y yo watched a scary movie, Annabelle, e made pizza. También we also dressed up in costumes. I dressed up as a fairy. Mis amigos se dressed up as doctors, nurses, and pirates. Fue una noche divertida. Ahora estoy emocionada por acción de gracias y navidad.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola. Soy [un]{una}<ga:det> estudiante de primer año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en mi favorite subject: matemáticas aplicadas. También disfruto estudiar economía, statistics y filosofía. También me gusta aprender nuevos idiomas. Estudié francés for 14 años. Ahora estoy aprendiendo español. Later, I will study ruso y and then study chino. Besides académicos, me encantan los deportes. Disfruto caminar y correr, pero mi actividad favorita es swimming en el *PLACE*. Fun fact: también tengo un black belt en kárate y soy [un]{una}<ga:det> competent toastmaster. Besides estudiar y hacer ejercicio, tengo muchas aficiones. Disfruto drawing, ver movies y cocinar. Para halloween, mis amigos y yo watched a scary movie, Annabelle, e made pizza. También we also dressed up in costumes. I dressed up as a fairy. Mis amigos se dressed up as doctors, nurses, and pirates. Fue una noche divertida. Ahora estoy emocionada por acción de gracias y []{la}<ab:det:art:def> navidad.
+# verbs annotation ann2 = nan
+# corrected1 = Hola. Soy un estudiante de primer año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en mi materia favorita: matemáticas aplicadas. También disfruto de estudiar economía, estadística y filosofía. También me gusta aprender nuevos idiomas. Estudié francés durante 14 años. Ahora estoy aprendiendo español. Después, estudiaré ruso y después estudiaré chino. Además de lo académico, me encantan los deportes. Disfruto caminar y correr, pero mi actividad favorita es nadar en el *PLACE*. Un hecho divertido: también tengo un cinturón negro en kárate y soy un competent toastmaster. Además de estudiar y hacer ejercicio, tengo muchas aficiones. Disfruto de dibujar, ver películas y cocinar. Para Halloween, mis amigos y yo vimos una película de miedo, Annabelle, e hicimos pizza. También nos disfrazamos. Me vestí de hada. Mis amigos se vistieron de doctores, enfermeros y piratas. Fue una noche divertida. Ahora estoy emocionada por Acción de Gracias y Navidad.
+# corrected2 = nan
+# text = Hola. Soy un estudiante de primer año en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estoy especializando en mi favorite subject: matemáticas aplicadas. También disfruto estudiar economía, statistics y filosofía. También me gusta aprender nuevos idiomas. Estudié francés for 14 años. Ahora estoy aprendiendo español. Later, I will study ruso y and then study chino. Besides académicos, me encantan los deportes. Disfruto caminar y correr, pero mi actividad favorita es swimming en el *PLACE*. Fun fact: también tengo un black belt en kárate y soy un competent toastmaster. Besides estudiar y hacer ejercicio, tengo muchas aficiones. Disfruto drawing, ver movies y cocinar. Para halloween, mis amigos y yo watched a scary movie, Annabelle, e made pizza. También we also dressed up in costumes. I dressed up as a fairy. Mis amigos se dressed up as doctors, nurses, and pirates. Fue una noche divertida. Ahora estoy emocionada por acción de gracias y navidad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+10	de	de	ADP	_	_	9	case	_	_
+11	*UNIVERSITY*	*university*	PUNCT	_	_	9	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	*UNIVERSITY*	*university*	PUNCT	_	_	9	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	especializando	especializar	VERB	_	VerbForm=Ger	0	root	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+6	favorite	favorite	ADJ	_	Number=Sing	7	amod	_	_
+7	subject	subject	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
+9	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	7	appos	_	_
+10	aplicadas	aplicado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	disfruto	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	estudiar	estudiar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	economía	economía	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	statistics	statistic	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	filosofía	filosofía	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aprender	aprender	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+6	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estudié	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	francés	francés	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
+3	for	for	ADP	_	_	5	case	_	_
+4	14	14	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	aprendiendo	aprender	VERB	_	VerbForm=Ger	0	root	_	_
+4	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Later	later	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	I	yo	PRON	_	_	5	nsubj	_	_
+4	will	wilr	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	study	study	VERB	_	VerbForm=Inf	0	root	_	_
+6	ruso	ruso	ADJ	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	and	and	CCONJ	_	_	10	cc	_	_
+9	then	then	ADV	_	_	10	advmod	_	_
+10	study	study	VERB	_	VerbForm=Inf	5	conj	_	_
+11	chino	chino	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Besides	besides	ADP	_	_	2	case	_	_
+2	académicos	académico	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	encantan	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Disfruto	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	caminar	caminar	VERB	_	VerbForm=Inf	1	advcl	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	correr	correr	VERB	_	VerbForm=Inf	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+6	pero	pero	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	swimming	swimming	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+14	*PLACE*	*place*	PUNCT	_	_	11	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fun	fun	PROPN	_	_	0	root	_	_
+2	fact	fact	NOUN	_	_	1	compound	_	_
+3	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
+4	también	también	ADV	_	_	5	advmod	_	_
+5	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	black	black	NOUN	_	_	5	obj	_	_
+8	belt	belt	NOUN	_	_	7	compound	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	kárate	kárate	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	competent	competent	ADJ	_	Number=Sing	15	amod	_	_
+15	toastmaster	toastmaster	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Besides	besides	ADP	_	_	2	mark	_	_
+2	estudiar	estudiar	VERB	_	VerbForm=Inf	7	advcl	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hacer	hacer	VERB	_	VerbForm=Inf	2	conj	_	_
+5	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	aficiones	afición	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Disfruto	disfrutar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	drawing	drawing	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	ver	ver	VERB	_	VerbForm=Inf	2	advcl	_	_
+5	movies	moéi	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cocinar	cocinar	VERB	_	VerbForm=Inf	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Para	para	ADP	_	_	2	case	_	_
+2	halloween	halloween	ADV	_	_	5	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	watched	watcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+9	a	a	DET	_	_	11	det	_	_
+10	scary	scary	NOUN	_	_	11	nmod	_	_
+11	movie	movie	NOUN	_	_	8	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	Annabelle	Annabelle	PROPN	_	_	11	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	e	e	CCONJ	_	_	16	cc	_	_
+16	made	made	PROPN	_	_	13	conj	_	_
+17	pizza	pizza	NOUN	_	_	16	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	we	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	nsubj	_	_
+3	also	also	ADV	_	_	4	advmod	_	_
+4	dressed	dresr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	up	up	NOUN	_	_	4	compound	_	_
+6	in	in	ADP	_	_	7	case	_	_
+7	costumes	costume	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	I	yo	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	nsubj	_	_
+2	dressed	dressear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	up	up	NOUN	_	_	2	compound	_	_
+4	as	as	SCONJ	_	_	6	mark	_	_
+5	a	a	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	fairy	fairy	NOUN	_	Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	dressed	dressear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	up	up	NOUN	_	_	4	compound	_	_
+6	as	as	SCONJ	_	_	7	mark	_	_
+7	doctors	doctor	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	nurses	nurse	NOUN	_	Number=Plur	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	and	and	CCONJ	_	_	12	cc	_	_
+12	pirates	pirate	NOUN	_	Number=Plur	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	por	por	ADP	_	_	5	case	_	_
+5	acción	acción	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	navidad	navidad	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

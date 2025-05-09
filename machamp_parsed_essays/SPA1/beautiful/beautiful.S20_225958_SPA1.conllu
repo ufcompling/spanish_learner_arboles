@@ -1,0 +1,295 @@
+# Unnamed: 0 = 158
+# id = 225958
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin and Cantonese
+# language(s) studied = English, 10 years
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Es tarde en la noche.  La ropa del hombre está sucia y desordenada.  Sienta cerca de la tienda. Tiene frío y hambre. Son las once de la noche y no tiene comida. La gente sale de la tienda y se va en sus carros. Toma la nieve del suelo y se la come porque tiene sed. Pero lo hace más frío.  --¿Un dolar? Él pide. Extiende su mano a una persona que no conoce. La persona tiene miedo y se va.  --No mires. Le dice una mujer a su hijo.  Él esta triste y enojado.  --Nadie es comprensivo. El mundo está muy triste.  No es imaginativo. No sabe cómo es tener una casa donde vivir, ni sabe cómo es tener comida. Pero cierra los ojos para pensar en estar en una bonita casa. Hay habitaciones limpias, una cocina grande. Hay comida en la mesa, sus hijos y su esposa están en la casa.  --Ven aca. Ellos dicen.  Él entra y se sienta con su familia. Come y la comida [es]{está}<conf:v:seta> deliciosa. Está lleno y contento. Pasa su tiempo en la casa y habla con su familia desde entonces.  Sus ojos están cerrados. Ya no tiene frío. Él está en un lugar mejor.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Es tarde en la noche.  La ropa del hombre está sucia y desordenada.  Sienta cerca de la tienda. Tiene frío y hambre. Son las once de la noche y no tiene comida. La gente sale de la tienda y se va en sus carros. Toma la nieve del suelo y se la come porque tiene sed. Pero lo hace más frío.  --¿Un dolar? [Él]{}<pr:su:pron> pide. Extiende su mano a una persona que no conoce. La persona tiene miedo y se va.  --No mires. Le dice una mujer a su hijo.  Él esta triste y enojado.  --Nadie es comprensivo. El mundo está muy triste.  No es imaginativo. No sabe cómo es tener una casa donde vivir, ni sabe cómo es tener comida. Pero cierra los ojos para pensar en estar en una bonita casa. Hay habitaciones limpias, una cocina grande. Hay comida en la mesa, sus hijos y su esposa están en la casa.  --Ven aca. [Ellos]{}<pr:su:pron> dicen.  Él entra y se sienta con su familia. Come y la comida es deliciosa. Está lleno y contento. Pasa su tiempo en la casa y habla con su familia desde entonces.  Sus ojos están cerrados. Ya no tiene frío. [Él]{}<pr:su:pron> está en un lugar mejor.
+# verbs annotation ann2 = nan
+# corrected1 = Es tarde en la noche. La ropa del hombre está sucia y desaliñada. Se sienta cerca de la tienda. Tiene frío y hambre. Son las once de la noche y no tiene comida. La gente sale de la tienda y se va en sus carros. El hombre toma la nieve del suelo y se la come porque tiene sed, pero lo deja más frío.  "--¿Un dólar?", pide. Extiende su mano a una persona que no conoce. La persona tiene miedo y se va.  "--No mires", le dice una mujer a su hijo.  Él está triste y enojado.  "--Nadie es comprensivo. El mundo está muy triste".  No es imaginativo. No sabe cómo es tener una casa donde vivir, ni sabe cómo es tener comida. Pero cierra los ojos y piensa que está en una bonita casa. Hay habitaciones limpias, una cocina grande. Hay comida en la mesa, sus hijos y su esposa están en casa.  "--Ven acá", ellos dicen.  Él entra y se sienta con su familia. Come y la comida está deliciosa. Está lleno y contento. Pasa su tiempo en esa casa y habla con su familia desde entonces.  Sus ojos están cerrados. Ya no tiene frío. Él está en un lugar mejor.
+# corrected2 = nan
+# text = Es tarde en la noche. La ropa del hombre está sucia y desordenada. Sienta cerca de la tienda. Tiene frío y hambre. Son las once de la noche y no tiene comida. La gente sale de la tienda y se va en sus carros. Toma la nieve del suelo y se la come porque tiene sed. Pero lo hace más frío. --¿Un dolar? Él pide. Extiende su mano a una persona que no conoce. La persona tiene miedo y se va. --No mires. Le dice una mujer a su hijo. Él esta triste y enojado. --Nadie es comprensivo. El mundo está muy triste. No es imaginativo. No sabe cómo es tener una casa donde vivir, ni sabe cómo es tener comida. Pero cierra los ojos para pensar en estar en una bonita casa. Hay habitaciones limpias, una cocina grande. Hay comida en la mesa, sus hijos y su esposa están en la casa. --Ven aca. Ellos dicen. Él entra y se sienta con su familia. Come y la comida es deliciosa. Está lleno y contento. Pasa su tiempo en la casa y habla con su familia desde entonces. Sus ojos están cerrados. Ya no tiene frío. Él está en un lugar mejor.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	tarde	tarde	ADV	_	Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	noche	noche	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ropa	ropa	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	sucia	sucio	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	desordenada	desordenado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Sienta	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cerca	cerca	ADV	_	_	1	advmod	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	frío	frío	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hambre	hambre	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	comida	comida	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	sale	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	carros	carro	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Toma	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	suelo	suelo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obl	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	porque	porque	SCONJ	_	_	11	mark	_	_
+11	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	sed	sed	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	frío	frío	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	--¿Un	--¿uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	dolar	dolar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Extiende	extiendir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	mano	mano	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	que	que	PRON	_	PronType=Rel	9	obj	_	_
+8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+9	conoce	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	--No	--no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	mires	mirar	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	enojado	enojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	--Nadie	--nadie	PRON	_	Number=Sing|PronType=Neg	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	comprensivo	comprensivo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	imaginativo	imaginativo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cómo	cómo	PRON	_	PronType=Ind	2	obl	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	tener	tener	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	donde	donde	ADV	_	PronType=Rel	9	advmod	_	_
+9	vivir	vivir	VERB	_	VerbForm=Inf	7	acl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	ni	ni	CCONJ	_	_	12	cc	_	_
+12	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	cómo	cómo	PRON	_	PronType=Ind	12	ccomp	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+15	tener	tener	VERB	_	VerbForm=Inf	14	ccomp	_	_
+16	comida	comida	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	advmod	_	_
+2	cierra	cerrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	pensar	pensar	VERB	_	VerbForm=Inf	2	advcl	_	_
+7	en	en	ADP	_	_	8	mark	_	_
+8	estar	estar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	en	en	ADP	_	_	12	case	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	habitaciones	habitación	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	limpias	limpio	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+7	grande	grande	ADJ	_	Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mesa	mesa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+12	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	--Ven	--ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	aca	aca	ADV	_	_	1	advmod	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	dicen	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	entra	entrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	sienta	sentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Come	comir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	y	y	CCONJ	_	_	6	cc	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	deliciosa	delicioso	ADJ	_	Gender=Fem|Number=Sing	1	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	contento	contento	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	desde	desde	ADP	_	_	13	case	_	_
+13	entonces	entonces	ADV	_	_	8	advmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cerrados	cerrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ya	ya	ADV	_	_	3	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	frío	frío	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

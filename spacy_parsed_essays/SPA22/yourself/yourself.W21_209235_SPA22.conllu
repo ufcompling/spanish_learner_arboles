@@ -1,0 +1,332 @@
+# Unnamed: 0 = 164
+# id = 209235
+# prompt = yourself
+# quarter = W21
+# course = SPA 22
+# age = 23
+# gender = I do not identify with either gender
+# l1 language = 1
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Tengo *AGE* años. Soy de y vivo en *CITY*, *STATE*. Soy sympática y amable. Me gusta tejer y bordar. También, me gusta ver los documentales sobre historia. A todos de historia eran muy interesante para mi. No me gusta leer por qué yo leo a todos los días para clases. Estudio en *UNIVERSITY* *UNIVERSITY* y mi especialidad es relaciones internationales. Hace 3 años que estudio en *UNIVERSITY* *UNIVERSITY* y estoy en mi último año de universidad. Estoy muy emocionado por la graduación pero estoy un poco asutada, también. Tengo 3 mascotas, 2 gatos y un perro. Un de mis gatos tiene *AGE* años y es naranja y entretenido por qué ella es muy indepente pero se gusta caricias. Mi otro gato tiene *AGE* años y es muy esponjoso y se gusta caricias también. Mi perro tiene *AGE* años y es muy sympática y se gusta las caminatas. Ellas son muy entretendos con juntos. Por ejemplo, mi gato esponjoso y mi perro a llevan bien pero mi gato naranja no se gusta nada mi perro por qué mi perro quiere jugar con los gatos pero mi gato naranja no quiere jugar. Sin embargo, no se hacen daños. Tengo un novio. Hace 3 años que vivimos juntos. Él es terco pero muy fidel. Mi casa es muy loca pero me gusta mucho. Tengo mi persona y mascotas favoritas en mi casa. Es un poco dificíl por hacer trabajar por mis clases a veces, pero yo hago mis tareas para mis clases en tiempo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	de	de	ADP	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	vivo	vivo	ADJ	_	_	2	conj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*STATE*	STATE	PROPN	_	_	2	obl	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	sympática	sympático	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	amable	amable	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	tejer	tejer	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	bordar	bordar	VERB	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	ver	ver	VERB	_	_	4	csubj	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	documentales	documental	NOUN	_	_	5	obj	_	_
+8	sobre	sobre	ADP	_	_	9	case	_	_
+9	historia	historia	NOUN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	todos	todo	PRON	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	historia	historia	NOUN	_	_	2	nmod	_	_
+5	eran	ser	AUX	_	_	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	interesante	interesante	ADJ	_	_	0	ROOT	_	_
+8	para	para	ADP	_	_	9	case	_	_
+9	mi	mi	PROPN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	leer	leer	VERB	_	_	3	csubj	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	qué	qué	PRON	_	_	8	obl	_	_
+7	yo	yo	PRON	_	_	8	nsubj	_	_
+8	leo	leo	PROPN	_	_	4	ccomp	_	_
+9	a	a	ADP	_	_	12	case	_	_
+10	todos	todo	DET	_	_	11	det	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	días	día	NOUN	_	_	4	obl	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	clases	clase	NOUN	_	_	4	obl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estudio	estudiar	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	1	obl	_	_
+4	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	flat	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	especialidad	especialidad	NOUN	_	_	9	nsubj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	relaciones	relación	NOUN	_	_	1	conj	_	_
+10	internationales	international	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hace	hacer	VERB	_	_	0	ROOT	_	_
+2	3	3	NUM	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	5	mark	_	_
+5	estudio	estudiar	VERB	_	_	1	advcl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	obl	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	estoy	estar	VERB	_	_	5	conj	_	_
+11	en	en	ADP	_	_	14	case	_	_
+12	mi	mi	DET	_	_	14	det	_	_
+13	último	último	ADJ	_	_	14	amod	_	_
+14	año	año	NOUN	_	_	10	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	universidad	universidad	NOUN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	emocionado	emocionado	ADJ	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	graduación	graduación	NOUN	_	_	3	obj	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	estoy	estar	AUX	_	_	11	cop	_	_
+9	un	uno	DET	_	_	11	advmod	_	_
+10	poco	poco	ADV	_	_	9	fixed	_	_
+11	asutada	asutado	ADJ	_	_	3	conj	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	también	también	ADV	_	_	3	advmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	3	3	NUM	_	_	3	nummod	_	_
+3	mascotas	mascota	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	2	2	NUM	_	_	6	nummod	_	_
+6	gatos	gato	NOUN	_	_	3	appos	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	perro	perro	NOUN	_	_	3	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Un	uno	PRON	_	_	5	nsubj	_	_
+2	de	de	ADP	_	_	1	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	gatos	gato	NOUN	_	_	1	nmod	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	*AGE*	AGE	PROPN	_	_	5	obj	_	_
+7	años	año	NOUN	_	_	6	flat	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	naranja	naranja	NOUN	_	_	5	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	entretenido	entretenido	ADJ	_	_	10	conj	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	qué	qué	PRON	_	_	15	det	_	_
+15	ella	él	PRON	_	_	18	nsubj	_	_
+16	es	ser	AUX	_	_	18	cop	_	_
+17	muy	mucho	ADV	_	_	18	advmod	_	_
+18	indepente	indepente	ADV	_	_	10	advcl	_	_
+19	pero	pero	CCONJ	_	_	21	cc	_	_
+20	se	él	PRON	_	_	21	expl:pass	_	_
+21	gusta	gustar	VERB	_	_	18	conj	_	_
+22	caricias	caricia	ADJ	_	_	21	nsubj	_	_
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	otro	otro	PRON	_	_	1	det	_	_
+3	gato	gato	NOUN	_	_	4	nsubj	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	*AGE*	AGE	PROPN	_	_	4	nsubj	_	_
+6	años	año	NOUN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	esponjoso	esponjoso	ADJ	_	_	4	conj	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	se	él	PRON	_	_	13	expl:pass	_	_
+13	gusta	gustar	VERB	_	_	10	conj	_	_
+14	caricias	caricia	NOUN	_	_	13	nsubj	_	_
+15	también	también	ADV	_	_	13	advmod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	sympática	sympático	ADJ	_	_	3	conj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	se	él	PRON	_	_	12	expl:pass	_	_
+12	gusta	gustar	VERB	_	_	9	conj	_	_
+13	las	el	DET	_	_	14	det	_	_
+14	caminatas	caminata	NOUN	_	_	12	nsubj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ellas	él	PRON	_	_	4	nsubj	_	_
+2	son	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	entretendos	entretendo	ADJ	_	_	0	ROOT	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	juntos	junto	ADJ	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Por	por	ADP	_	_	19	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	gato	gato	NOUN	_	_	19	nsubj	_	_
+6	esponjoso	esponjoso	ADJ	_	_	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	perro	perro	NOUN	_	_	5	conj	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	llevan	llevar	VERB	_	_	5	acl	_	_
+12	bien	bien	ADV	_	_	11	advmod	_	_
+13	pero	pero	CCONJ	_	_	16	cc	_	_
+14	mi	mi	DET	_	_	16	det	_	_
+15	gato	gato	ADJ	_	_	16	amod	_	_
+16	naranja	narangir	VERB	_	_	11	conj	_	_
+17	no	no	ADV	_	_	19	advmod	_	_
+18	se	él	PRON	_	_	19	expl:pass	_	_
+19	gusta	gustar	VERB	_	_	0	ROOT	_	_
+20	nada	nada	PRON	_	_	19	nsubj	_	_
+21	mi	mi	DET	_	_	22	det	_	_
+22	perro	perro	NOUN	_	_	19	nsubj	_	_
+23	por	por	ADP	_	_	24	case	_	_
+24	qué	qué	PRON	_	_	27	obl	_	_
+25	mi	mi	DET	_	_	26	det	_	_
+26	perro	perro	NOUN	_	_	27	nsubj	_	_
+27	quiere	querer	VERB	_	_	22	acl	_	_
+28	jugar	jugar	VERB	_	_	27	xcomp	_	_
+29	con	con	ADP	_	_	31	case	_	_
+30	los	el	DET	_	_	31	det	_	_
+31	gatos	gato	NOUN	_	_	28	obl	_	_
+32	pero	pero	CCONJ	_	_	35	cc	_	_
+33	mi	mi	DET	_	_	35	det	_	_
+34	gato	gato	NOUN	_	_	35	amod	_	_
+35	naranja	narangir	VERB	_	_	37	nsubj	_	_
+36	no	no	ADV	_	_	37	advmod	_	_
+37	quiere	querer	VERB	_	_	19	advcl	_	_
+38	jugar	jugar	VERB	_	_	37	xcomp	_	_
+39	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Sin	sin	ADP	_	_	6	advmod	_	_
+2	embargo	embargo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	no	no	ADV	_	_	6	advmod	_	_
+5	se	él	PRON	_	_	6	expl:pass	_	_
+6	hacen	hacer	VERB	_	_	0	ROOT	_	_
+7	daños	daño	NOUN	_	_	6	nsubj	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	novio	novio	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hace	hacer	VERB	_	_	0	ROOT	_	_
+2	3	3	NUM	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	5	obj	_	_
+5	vivimos	vivir	VERB	_	_	3	acl	_	_
+6	juntos	junto	ADJ	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	terco	terco	NOUN	_	_	0	ROOT	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	fidel	fidel	ADJ	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	casa	casa	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	loca	loco	ADJ	_	_	0	ROOT	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	gusta	gustar	VERB	_	_	5	conj	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	persona	persona	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	mascotas	mascota	NOUN	_	_	3	conj	_	_
+6	favoritas	favorito	ADJ	_	_	5	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	casa	casa	NOUN	_	_	1	obl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	un	uno	DET	_	_	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	dificíl	dificíl	ADJ	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	6	mark	_	_
+6	hacer	hacer	VERB	_	_	4	acl	_	_
+7	trabajar	trabajar	VERB	_	_	6	xcomp	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	clases	clase	NOUN	_	_	6	obl	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	veces	veces	NOUN	_	_	6	obl	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	pero	pero	CCONJ	_	_	16	cc	_	_
+15	yo	yo	PRON	_	_	16	nsubj	_	_
+16	hago	hacer	VERB	_	_	4	conj	_	_
+17	mis	mi	DET	_	_	18	det	_	_
+18	tareas	tarea	NOUN	_	_	16	obj	_	_
+19	para	para	ADP	_	_	21	case	_	_
+20	mis	mi	DET	_	_	21	det	_	_
+21	clases	clase	NOUN	_	_	16	obl	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	tiempo	tiempo	NOUN	_	_	21	nmod	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+

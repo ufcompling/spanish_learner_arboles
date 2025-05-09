@@ -1,0 +1,385 @@
+# Unnamed: 0 = 174
+# id = 202709
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = na
+# language(s) used at home = no
+# language(s) studied = Latin - 1 year
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = El día empezó como un día normal, pero todo que iría mal por Julia. "Hola, Pedro," Julia le dice a Pedro. "Buenas días, Julia. ¿Como te sientes hoy? Es un día muy bonito." Pedro era un amigo de escuela de Julia. Se conocieron hace seis años en una clase de matemáticas y han sido amigos desde. Ella nunca lo diría, pero le gusta Pedro - espera que él esté su novio. Después de un poco tiempo con Pedro, Julia se va a Pedro porque ella tiene una reunión con su equipo de fútbol. El equipo necesita aprender una jugada nueva para su juego en el miércoles. "Creo que necesitamos practicar la jugada en el campo, por realidad," dice el entrenador, Diego. "Estoy de acuerdo," responde Julia. Cuando el equipo estuve en el campo, Julia se di que el cielo fue un poco más oscuro que normal. "Diego, ¿porque hace oscuro ahora? Solo son dos en la tarde," pregunta Julia. Diego no tiene una respuesta, pero sabía que era extraño. Al fin de la práctica, el equipo hablaba junto por algunos minutos, pero Julia no estuve allí. "¿Dónde esta Julia?" pregunta una compañera de equipo. El equipo buscaron Julia, pero no la podían encontrar. -------------------------- "¿Dónde estoy?" Julia miraba a sus alrededores. Ella no sé nada sobre su situación. Intentó mover, pero ella estaba atada a algo. "¡Ayúdame, ayúdame!" ella gritó. "Estás en una nave espacial. Nadie puede oírte. Soy el capitán y mi gente te necesita para nuestras estudias. Te usamos en muchos experimentos," declaró el capitán.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	empezó	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	día	día	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	normal	normal	ADJ	_	Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	conj	_	_
+11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+12	iría	ir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	acl	_	_
+13	mal	mal	ADV	_	_	12	advmod	_	_
+14	por	por	ADP	_	_	15	case	_	_
+15	Julia	Julia	PROPN	_	_	12	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	Hola	hola	INTJ	_	_	9	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	Pedro	pedro	PROPN	_	_	2	dep	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+7	Julia	Julia	PROPN	_	_	9	nsubj	_	_
+8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+9	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	Pedro	Pedro	PROPN	_	_	9	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Buenas	bueno	ADJ	_	Number=Plur	3	amod	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	Julia	Julia	PROPN	_	_	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	_
+2	Como	como	SCONJ	_	_	4	mark	_	_
+3	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	expl	_	_
+4	sientes	senteir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hoy	hoy	ADV	_	_	4	advmod	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+2	Pedro	Pedro	PROPN	_	_	5	nsubj	_	_
+3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Julia	Julia	PROPN	_	_	5	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	conocieron	conocer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+4	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	clase	clase	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	cop	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+15	desde	desde	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	nunca	nunca	ADV	_	_	4	advmod	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	diría	decir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	Pedro	Pedro	PROPN	_	_	8	nsubj	_	_
+10	-	-	PUNCT	_	PunctType=Dash	11	punct	_	_
+11	espera	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	que	que	SCONJ	_	_	16	mark	_	_
+13	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+14	esté	estar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
+16	novio	novio	NOUN	_	Gender=Masc|Number=Sing	11	ccomp	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Después	después	ADV	_	_	11	advmod	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	Pedro	Pedro	PROPN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+9	Julia	Julia	PROPN	_	_	11	nsubj	_	_
+10	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	Pedro	Pedro	PROPN	_	_	11	obl	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	reunión	reunión	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	con	con	ADP	_	_	21	case	_	_
+20	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
+21	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aprender	aprender	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	jugada	jugada	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	juego	juego	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	miércoles	miércoles	NOUN	_	AdvType=Tim	4	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	necesitamos	necesitar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	practicar	practicar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	jugada	jugada	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	campo	campo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	por	por	ADP	_	_	4	advmod	_	_
+13	realidad	realidad	NOUN	_	_	12	fixed	_	_
+14	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+15	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+16	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	entrenador	entrenador	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+20	Diego	Diego	PROPN	_	_	18	appos	_	_
+21	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	de	de	ADP	_	_	7	ccomp	_	_
+4	acuerdo	acuerdo	NOUN	_	_	3	fixed	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+7	responde	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	Julia	Julia	PROPN	_	_	7	nsubj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	estuve	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	campo	campo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	Julia	Julia	PROPN	_	_	11	nsubj	_	_
+10	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obl	_	_
+11	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+12	que	que	SCONJ	_	_	19	mark	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	cielo	cielo	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
+15	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	advmod	_	_
+17	poco	poco	ADV	_	_	16	fixed	_	_
+18	más	más	ADV	_	Degree=Cmp	16	advmod	_	_
+19	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	11	ccomp	_	_
+20	que	que	SCONJ	_	_	21	mark	_	_
+21	normal	normal	ADJ	_	Number=Sing	19	advmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+2	Diego	Diego	PROPN	_	_	6	nsubj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	6	punct	_	_
+5	porque	porque	SCONJ	_	_	6	mark	_	_
+6	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	ahora	ahora	ADV	_	_	6	advmod	_	_
+9	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	6	punct	_	_
+
+1	Solo	solo	ADJ	_	_	9	ccomp	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	1	nsubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+8	"	"	PUNCT	_	PunctType=Quot	1	punct	_	_
+9	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	Julia	Julia	PROPN	_	_	9	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Diego	Diego	PROPN	_	_	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	respuesta	respuesta	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	8	ccomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Al	a	ADP	_	_	5	case	_	_
+2	fin	fin	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	práctica	práctica	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	hablaba	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	junto	junto	ADJ	_	_	9	obj	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
+13	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	pero	pero	CCONJ	_	_	18	cc	_	_
+16	Julia	Julia	PROPN	_	_	18	nsubj	_	_
+17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+18	estuve	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	conj	_	_
+19	allí	allí	ADV	_	_	18	advmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+2	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	_
+3	Dónde	dónde	ADV	_	PronType=Int	8	advmod	_	_
+4	esta	este	AUX	_	Gender=Fem|Number=Sing|PronType=Dem	8	ccomp	_	_
+5	Julia	Julia	PROPN	_	_	4	nsubj	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	8	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	4	punct	_	_
+8	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	compañera	compañera	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	buscaron	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Julia	Julia	PROPN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+9	podían	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	encontrar	encontrar	VERB	_	VerbForm=Inf	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	--------------------------	--------------------------	PUNCT	_	PunctType=Dash	9	punct	_	_
+2	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+3	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	_
+4	Dónde	dónde	ADV	_	PronType=Int	5	advmod	_	_
+5	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+6	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	9	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
+8	Julia	Julia	PROPN	_	_	9	nsubj	_	_
+9	miraba	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	alrededores	alrededor	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nada	nada	PRON	_	Number=Sing|PronType=Neg	3	obj	_	_
+5	sobre	sobre	ADP	_	_	7	case	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	situación	situación	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Intentó	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mover	mover	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+4	pero	pero	CCONJ	_	_	7	cc	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	atada	atado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	algo	algo	PRON	_	Number=Sing|PronType=Ind	7	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+3	Ayúdame	ayúdamar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	9	ccomp	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	ayúdame	ayúdamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	gritó	gritar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+2	Estás	estar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	nave	nave	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	espacial	espacial	ADJ	_	Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nadie	nadie	PRON	_	Number=Sing|PronType=Neg	3	nsubj	_	_
+2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	oírte	oír	VERB	_	VerbForm=Inf	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	capitán	capitán	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	gente	gente	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	estudias	estudia	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	usamos	usar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	experimentos	experimento	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+8	declaró	declarar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	capitán	capitán	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+

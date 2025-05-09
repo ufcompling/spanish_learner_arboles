@@ -1,0 +1,362 @@
+# Unnamed: 0 = 200
+# id = 147212
+# prompt = special
+# quarter = F18
+# course = SPA 2
+# age = 20
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = I do not choose other
+# language(s) used at home = Chinese
+# language(s) studied = English, study for 14 years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Tengo un muy buen amago. El llamo *FIRST_NAME*. El es un student en la universidad. El tiene el pelo corto y negro. El tiene ojos grandes y negros. El es delgado y alto. El es muy agradable e interesante. Siempre jugamos juntos y miramos películas. Lo conocí cuando tenía 10 años. Nos gusta andar en bicicleta. Nos gusta la pesca. Tenemos muchas cosas en común. Él es especial para mí porque me enseño muchas cosas. Nuestra actividad favorita es conducir kart. Condujimos karts las últimas vacaciones de verano muchas veces. Aprendí muchas habilidades de él para conducir más rápido. Sentí mucho miedo cuando lo conduzco por primera vez. Kart fue muy rapido. Nunca conduje un kart antes. El kart puede usar una velocidad muy rápida para atravesar esquinas. Mucho más alto que los autos normales. *FIRST_NAME* me ayudo a conducir mejor. No estar nervioso es muy importante. Intenta encontrar los límites del kart. Practiqué muchas veces. Puedo acortar mi tiempo 15 segundos por vuelta. Eramos muy felices. Él también me enseña a pescar. Estaba muy impaciente hace unos años. No puedo hacer nada por mucho tiempo. Asi que nunca pesco. Pero a mi amago le gusta mucho la pesca, así que siempre me pide que vaya con él. Me ayudó más paciente. Después de muchas veces comencé más paciente. Cero que el paciente es muy importante. Puedo centrarme más en las clases. Aprendí más conocimientos que antes y recibí mejores calificaciones. *FIRST_NAME* me de mucha ayuda y ayúdame a ser mejor. Somos muy bien amagos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	buen	buen	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	amago	amago	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	llamo	llamo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	student	student	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	corto	corto	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	negro	negro	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	grandes	grande	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	negros	negro	ADJ	_	Gender=Masc|Number=Plur	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	alto	alto	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	agradable	agradable	ADJ	_	Number=Sing	0	root	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	interesante	interesante	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	miramos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	películas	película	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	conocí	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+5	10	10	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	andar	andar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	pesca	pesca	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	1	advmod	_	_
+5	común	común	NOUN	_	_	4	fixed	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	3	nmod	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	enseño	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
+10	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	conducir	conducir	VERB	_	VerbForm=Inf	4	ccomp	_	_
+6	kart	kart	NOUN	_	Gender=Masc	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Condujimos	condujar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+2	karts	kart	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	últimas	último	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	5	amod	_	_
+5	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	verano	verano	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	habilidades	habilidade	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	conducir	conducir	VERB	_	VerbForm=Inf	3	acl	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	rápido	rápido	ADJ	_	Gender=Masc|Number=Sing	7	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	conduzco	conducer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
+9	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Kart	Kart	PROPN	_	_	4	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	rapido	rapido	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nunca	nunca	ADV	_	_	2	advmod	_	_
+2	conduje	condujir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	kart	kart	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	antes	antes	ADV	_	_	2	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	kart	kart	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	usar	usar	VERB	_	VerbForm=Inf	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	velocidad	velocidad	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	rápida	rápido	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+9	para	para	ADP	_	_	10	mark	_	_
+10	atravesar	atravesar	VERB	_	VerbForm=Inf	4	advcl	_	_
+11	esquinas	esquina	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mucho	mucho	ADV	_	_	3	advmod	_	_
+2	más	más	ADV	_	Degree=Cmp	1	advmod	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	autos	auto	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	normales	normal	ADJ	_	Number=Plur	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	3	dep	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	ayudo	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	conducir	conducir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	mejor	mejor	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	estar	estar	AUX	_	VerbForm=Inf	3	cop	_	_
+3	nervioso	nervioso	ADJ	_	Gender=Masc|Number=Sing	6	csubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Intenta	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	encontrar	encontrar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	límites	límite	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	del	de	ADP	_	_	6	case	_	_
+6	kart	kart	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Practiqué	practicar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	acortar	acortar	VERB	_	VerbForm=Inf	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	15	15	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	segundos	segundo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	por	por	ADP	_	_	8	case	_	_
+8	vuelta	vuelta	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Eramos	seram	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	felices	feliz	ADJ	_	Number=Plur	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	también	también	ADV	_	_	4	advmod	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	enseña	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	pescar	pescar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	impaciente	impaciente	ADJ	_	Number=Sing	0	root	_	_
+4	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+4	nada	nada	PRON	_	Number=Sing|PronType=Neg	3	obj	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Asi	asi	ADV	_	_	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	nunca	nunca	ADV	_	_	4	advmod	_	_
+4	pesco	pescar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amago	amago	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pesca	pesca	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+11	así	así	ADV	_	_	15	mark	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
+13	siempre	siempre	ADV	_	_	15	advmod	_	_
+14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl	_	_
+15	pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	vaya	ir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+18	con	con	ADP	_	_	19	case	_	_
+19	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	ayudó	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	paciente	paciente	NOUN	_	Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Después	después	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+5	comencé	comencar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+7	paciente	paciente	NOUN	_	Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Cero	cero	ADV	_	_	0	root	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	paciente	paciente	NOUN	_	Number=Sing	7	nsubj	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	importante	importante	ADJ	_	Number=Sing	1	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	centrarme	centrar	VERB	_	VerbForm=Inf	0	root	_	_
+3	más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	clases	clase	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	más	más	ADV	_	Degree=Cmp	3	advmod	_	_
+3	conocimientos	conocimiento	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	antes	antes	ADV	_	_	3	advmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	recibí	recibir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+8	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	9	amod	_	_
+9	calificaciones	calificación	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	5	dep	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ayúdame	adr	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	5	conj	_	_
+8	a	a	ADP	_	_	10	mark	_	_
+9	ser	ser	AUX	_	VerbForm=Inf	10	cop	_	_
+10	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	7	xcomp	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	muy	mucho	ADV	_	_	4	advmod	_	_
+3	bien	bien	ADV	_	_	4	advmod	_	_
+4	amagos	amago	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

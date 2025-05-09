@@ -1,0 +1,333 @@
+# Unnamed: 0 = 316
+# id = 125394
+# prompt = special
+# quarter = F18
+# course = SPA 3
+# age = 22
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un persona favorito en me vive es mi hermano *FIRST_NAME*. *FIRST_NAME* es una persona muy divertido y trabajadora. Ello vive en el estado Unidos en el estado de *STATE*. En *STATE* mi hermano vive en la cuidad de *CITY*. Mi hermano le gusta la cuidad de *CITY* mucho. Ello piense que la cuidad de *CITY* sea muy interesante y mas bonita. Mi hermano es un actor en la cuidad de *CITY*. Ello trabaja mucho duro y tiene mucho projectos de filma. Ello es trabaja en un Proyecto haciendo una pelicula. La pelicula es mucho intersante y tiene mucho drama. Mi hermano es mucho alto y tiene pelo rubio. Ello es mucho fuertes y muy intellegente. Ello tiene ojos azules y es muy guapo. Cuando mi hermano fui joven ello vivio en *CITY* *STATE*, *CITY* *STATE*, *CITY* *STATE*. Ahora mi hermano teine *AGE* anos. Ello tiene tres anos que mi. El comida favorito de mi hermano es la hamburguesa y pasta con salsa de rojo para mi hermano tambie le gusta las naranjas, vegetales, y lechuga. Mi hermano juga lacrosse y Futbul. Mi hermano le gusta mira la television. Ello le gusta mirar deportes, telecomedias, peliculas, y peliculas de accion. Mi hermano color favorito es azules. Mi hermano tiene muchos amigos. Mi amigo favorito de mi hermano es *FIRST_NAME* para Tambien yo me gusta *FIRST_NAME*. Mi hermano tiene un serie favorito de television. Mi hermano le gusta le serie de television 24. No le gusta los simpsons.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	mark	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	*FIRST_NAME*	*first_name*	PUNCT	_	_	9	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	estado	estado	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	Unidos	Unidos	PROPN	_	_	5	appos	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	estado	estado	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*STATE*	*state*	PUNCT	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	*STATE*	*state*	PUNCT	_	_	5	advmod	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*CITY*	*City*	PROPN	_	_	6	nmod	_	_
+9	mucho	mucho	ADV	_	_	4	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	piense	penser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	10	mark	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	*City*	PROPN	_	_	5	nmod	_	_
+8	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	interesante	interesante	ADJ	_	Number=Sing	2	ccomp	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	mas	mas	ADV	_	_	13	advmod	_	_
+13	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	10	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	actor	actor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	4	advmod	_	_
+4	duro	duro	ADJ	_	Gender=Masc|Number=Sing	2	advmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	projectos	projecto	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	filma	filma	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	trabaja	trabaja	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Proyecto	Proyecto	PROPN	_	_	3	obl	_	_
+7	haciendo	hacer	VERB	_	VerbForm=Ger	3	advcl	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pelicula	pelicula	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	pelicula	pelicula	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mucho	mucho	ADV	_	_	5	advmod	_	_
+5	intersante	intersante	ADJ	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	9	det	_	_
+9	drama	drama	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mucho	mucho	ADV	_	_	5	advmod	_	_
+5	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mucho	mucho	ADV	_	_	4	advmod	_	_
+4	fuertes	fuerte	ADJ	_	Number=Plur	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	intellegente	intellegente	ADJ	_	Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	azules	azul	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	5	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	cop	_	_
+5	joven	joven	ADJ	_	Number=Sing	7	advcl	_	_
+6	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	vivio	vivio	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*CITY*	*city*	PROPN	_	_	7	dep	_	_
+10	*STATE*	*state*	SYM	_	_	9	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	*CITY*	*city*	PROPN	_	_	9	flat	_	_
+13	*STATE*	*state*	PUNCT	_	_	12	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	*CITY*	*city*	PROPN	_	_	9	flat	_	_
+16	*STATE*	*state*	PROPN	_	_	15	punct	_	_
+17	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	teine	teine	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+5	*AGE*	*age*	SYM	_	_	6	punct	_	_
+6	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	appos	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hamburguesa	hamburguesa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	pasta	pastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	salsa	salsa	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	rojo	rojo	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+16	para	para	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+19	tambie	tambie	ADJ	_	_	18	amod	_	_
+20	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+21	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+22	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	naranjas	naranja	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	_
+24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+25	vegetales	vegetal	NOUN	_	Gender=Masc|Number=Plur	23	conj	_	_
+26	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	lechuga	lechuga	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	_
+29	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	juga	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lacrosse	lacrosse	NOUN	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Futbul	Futbul	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mira	mirar	VERB	_	_	4	advcl	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	television	television	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mirar	mirar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	telecomedias	telecomedia	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	peliculas	pelicula	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	accion	accion	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	color	color	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+4	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	azules	azul	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	Tambien	tambien	PROPN	_	_	13	obl	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	*FIRST_NAME*	*first_name*	PUNCT	_	_	13	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	serie	serie	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	television	television	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	det	_	_
+6	serie	serie	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	television	television	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	24	24	NUM	_	NumForm=Digit|NumType=Card	6	appos	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	simpsons	simpsons	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

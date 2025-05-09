@@ -1,0 +1,257 @@
+# Unnamed: 0 = 121
+# id = 228098
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 en la noche, [yo]{}<pr:su:pron> cenar. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa!  Estoy muy emocionada [para]{por}<conf:prep:popa> ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y [yo]{}<pr:su:pron> digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! [Yo]{}<pr:su:pron>digo, “entrar.” Ella va a la cocina, y yo desayuno.  Ofrezco de juga a *FIRST_NAME*, y [ella]{}<pr:su:pron> bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase.  Después de clase, veo algo [hermosa]{hermoso}<ga:adj>. ¡Hay mariposas por todas partes!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, [pensado]{pensando}<fs:st:t> en la mariposa. A las 20:00 en la noche, [yo]{}<pr:su:pron> [cenar]{ceno}<fs:st:t>. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa!  Estoy muy emocionada [para]{por}<conf:prep:popa> ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y [yo]{}<pr:su:pron> digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! [Yo]{}<pr:su:pron> digo, “[entrar]{entra}<fs:st:t>.” Ella va a la cocina, y yo desayuno.  Ofrezco de juga a *FIRST_NAME*, y ella bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase.  Después de clase, veo algo [hermosa]{hermoso}<ga:adj>. ¡Hay mariposas por todas partes!
+# verbs annotation ann2 = nan
+# corrected1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 de la noche, ceno. Lavo los platos, y camino a mi habitación. Abro la ventana, y ¡entra la mariposa!  Estoy muy emocionada por ver a la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! Digo, “entra.” Ella va a la cocina, y yo desayuno.  Le ofrezco jugo a *FIRST_NAME*, y bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no está en el salón de clase.  Después de clase, veo algo hermoso. ¡Hay mariposas por todas partes!
+# corrected2 = nan
+# text = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 en la noche, yo cenar. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa! Estoy muy emocionada para ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*. *FIRST_NAME* vuela por la ventana, y yo digo “adiós.” Me voy a la cama, pensando en mariposas. ¡A la mañana, *FIRST_NAME* está en la ventana! Yo digo, “entrar.” Ella va a la cocina, y yo desayuno. Ofrezco de juga a *FIRST_NAME*, y ella bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue. Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase. Después de clase, veo algo hermosa. ¡Hay mariposas por todas partes!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Camino	camino	NOUN	_	_	0	ROOT	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	campus	campus	NOUN	_	_	1	nmod	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	veo	ver	VERB	_	_	1	conj	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	mariposa	mariposa	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mariposa	mariposa	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	grande	grande	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	azul	azul	ADJ	_	_	4	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	negra	negro	ADJ	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	hermosa	hermoso	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Camino	camino	NOUN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	casa	casa	NOUN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	pensado	pensado	ADJ	_	_	1	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mariposa	mariposa	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	20:00	20:00	NOUN	_	_	9	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	noche	noche	NOUN	_	_	3	nmod	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	yo	yo	PRON	_	_	9	nsubj	_	_
+9	cenar	cenar	VERB	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Lavo	lavo	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	platos	plato	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	camino	camino	NOUN	_	_	9	case	_	_
+7	a	a	ADP	_	_	6	fixed	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	habitación	habitación	NOUN	_	_	3	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Abro	abrir	VERB	_	_	12	nsubj	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	ventana	ventana	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	entra	entrar	VERB	_	_	1	conj	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mariposa	maripós	ADJ	_	_	6	obj	_	_
+9	!	!	PUNCT	_	_	1	punct	_	_
+10	Estoy	estar	AUX	_	_	12	cop	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	emocionada	emocionado	ADJ	_	_	0	ROOT	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	ver	ver	VERB	_	_	12	advcl	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	mariposa	mariposa	NOUN	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Ofrezco	ofrecer	VERB	_	_	0	ROOT	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	vaso	vaso	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	jugo	jugo	NOUN	_	_	3	nmod	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mariposa	mariposa	NOUN	_	_	1	obj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	ella	él	PRON	_	_	12	nsubj	_	_
+12	bebe	beber	VERB	_	_	1	conj	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	jugo	jugo	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decido	decido	ADJ	_	_	0	ROOT	_	_
+2	llamarla	llamar él	VERB	_	_	1	xcomp	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	vuela	volar	VERB	_	_	0	ROOT	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	ventana	ventana	NOUN	_	_	2	obl	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	_	9	nsubj	_	_
+9	digo	decir	VERB	_	_	2	conj	_	_
+10	“	“	NOUN	_	_	9	obj	_	_
+11	adiós	adiós	INTJ	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	”	”	PUNCT	_	_	3	nsubj	_	_
+2	Me	yo	PRON	_	_	3	expl:pv	_	_
+3	voy	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	cama	cama	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	pensando	pensar	VERB	_	_	3	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	mariposas	mariposa	NOUN	_	_	8	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	¡	¡	PUNCT	_	_	7	punct	_	_
+2	A	A	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	mañana	mañana	NOUN	_	_	7	obl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	7	nsubj	_	_
+7	está	estar	VERB	_	_	13	cop	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	ventana	ventana	NOUN	_	_	7	obl	_	_
+11	!	!	PUNCT	_	_	7	punct	_	_
+12	Yo	yo	PRON	_	_	13	nsubj	_	_
+13	digo	decir	VERB	_	_	0	ROOT	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	“	“	PUNCT	_	_	16	punct	_	_
+16	entrar	entrar	VERB	_	_	13	advcl	_	_
+17	.	.	PUNCT	_	_	13	punct	_	_
+
+1	”	”	PUNCT	_	_	3	nsubj	_	_
+2	Ella	él	PRON	_	_	3	nsubj	_	_
+3	va	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	cocina	cocina	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	yo	yo	PRON	_	_	3	conj	_	_
+10	desayuno	desayuno	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ofrezco	Ofrezco	PROPN	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	juga	juga	PROPN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	obj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	ella	él	PRON	_	_	9	nsubj	_	_
+9	bebe	beber	VERB	_	_	1	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Camino	camino	NOUN	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	1	fixed	_	_
+3	clase	clase	NOUN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	nsubj	_	_
+7	me	yo	PRON	_	_	8	iobj	_	_
+8	sigue	seguir	VERB	_	_	1	conj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Entro	Entro	PROPN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	salón	salón	NOUN	_	_	1	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	clase	clase	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	nsubj	_	_
+10	no	no	ADV	_	_	12	advmod	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	sigue	seguir	VERB	_	_	1	conj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	clase	clase	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	pienso	pensar	VERB	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obl	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	mariposa	mariposa	NOUN	_	_	5	obj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	cop	_	_
+2	triste	triste	ADJ	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	no	no	ADV	_	_	5	advmod	_	_
+5	ella	él	PRON	_	_	2	advcl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	salón	salón	NOUN	_	_	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	clase	clase	NOUN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Después	después	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	veo	ver	VERB	_	_	0	ROOT	_	_
+6	algo	algo	PRON	_	_	7	advmod	_	_
+7	hermosa	hermoso	ADJ	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	¡	¡	PUNCT	_	_	2	punct	_	_
+2	Hay	haber	AUX	_	_	0	ROOT	_	_
+3	mariposas	mariposa	NOUN	_	_	2	obj	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	todas	todo	DET	_	_	6	det	_	_
+6	partes	parte	NOUN	_	_	3	nmod	_	_
+7	!	!	PUNCT	_	_	2	punct	_	_
+

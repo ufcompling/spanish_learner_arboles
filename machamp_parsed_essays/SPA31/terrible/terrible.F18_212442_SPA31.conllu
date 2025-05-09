@@ -1,0 +1,312 @@
+# Unnamed: 0 = 203
+# id = 212442
+# prompt = terrible
+# quarter = F18
+# course = SPA 31
+# age = I am 22 years old.
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = I studied English as my second language for five years. 
+# listening comprehension = 5.0
+# reading comprehension = 4.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una de las terribles historias es cuando descubrimos que mi abuelo tiene Alzheimer. Esto sucedió a principios de este año; sin embargo, ya sabíamos que él había estado mal. Es muy triste ver como una de las personas que más quiere poco a poco se olvida de ti. Yo crecí junto a él y mi abuela y no se compara como él era a como es ahora. El vive en Guatemala entonces no lo veo muy seguido. En junio que lo fui a ver había veces que él no se acordaba de mi nombre porque pasan años sin que yo vaya a Guatemala. Por lo general él siempre actúa como niño porque tiene un líquido en su cerebro que no le deja almacenar nuevas memorias solo se recuerdo de cosas que pasaron muchos años atrás. El se acuerdo de cosas que yo, mis primos, tías o el hacían cuando éramos pequeños pero es muy difícil para él recordar que fue lo que hizo ayer o qué fue lo que comió. Esta situación siento que también está afectando a mi abuela porque ella es la que tiene que cuidarlo y se le acaba la paciencia muy rápido. Antes yo no estaba muy informada del tema pero ahora que mi abuelo está pasando por esto siento que deberíamos de hacer algo para poder ayudar a las personas que están pasando por situaciones similares. Yo amo con todo mi corazon a mi abuelo pero no quiero verlo cuando él ya no recuerde a su esposa, hijas, nietos y bisnietos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	6	nsubj	_	_
+2	de	de	ADP	_	_	5	case	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+4	terribles	terrible	ADJ	_	Number=Plur	5	amod	_	_
+5	historias	historia	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	descubrimos	descubrir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+9	que	que	SCONJ	_	_	12	mark	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	Alzheimer	Alzheimer	PROPN	_	_	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	sucedió	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	7	case	_	_
+4	principios	principios	NOUN	_	_	3	fixed	_	_
+5	de	de	ADP	_	_	3	fixed	_	_
+6	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	año	año	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	;	;	PUNCT	_	PunctType=Semi	2	punct	_	_
+9	sin	sin	ADP	_	_	13	advmod	_	_
+10	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
+11	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+12	ya	ya	ADV	_	_	13	advmod	_	_
+13	sabíamos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+14	que	que	SCONJ	_	_	18	mark	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+16	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+17	estado	estar	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	cop	_	_
+18	mal	mal	ADV	_	_	13	ccomp	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	ver	ver	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	17	nsubj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+10	que	que	PRON	_	PronType=Rel	12	obj	_	_
+11	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
+12	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+13	poco	poco	ADV	_	_	12	advmod	_	_
+14	a	a	ADP	_	_	13	fixed	_	_
+15	poco	poco	ADV	_	_	13	fixed	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	olvida	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	ti	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Pre|PronType=Prs	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	crecí	crecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	junto	junto	ADJ	_	_	5	case	_	_
+4	a	a	ADP	_	_	3	fixed	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	obj	_	_
+12	compara	comparar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	como	como	SCONJ	_	_	14	mark	_	_
+14	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
+16	a	a	ADP	_	_	12	xcomp	_	_
+17	como	como	SCONJ	_	_	19	mark	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	ahora	ahora	ADV	_	_	12	advcl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Guatemala	Guatemala	PROPN	_	_	2	obl	_	_
+5	entonces	entonces	ADV	_	_	8	advmod	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	seguido	seguido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	junio	junio	NOUN	_	AdvType=Tim	5	obl	_	_
+3	que	que	PRON	_	PronType=Rel	5	obl	_	_
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
+5	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	acl	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	veces	vez	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	que	que	PRON	_	PronType=Rel	14	obl	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+12	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	acordaba	acordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	porque	porque	SCONJ	_	_	19	mark	_	_
+19	pasan	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+20	años	año	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
+21	sin	sin	ADP	_	_	24	mark	_	_
+22	que	que	SCONJ	_	_	24	mark	_	_
+23	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+24	vaya	ir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+25	a	a	ADP	_	_	26	case	_	_
+26	Guatemala	Guatemala	PROPN	_	_	24	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Por	por	ADP	_	_	6	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
+3	general	general	NOUN	_	_	1	fixed	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	siempre	siempre	ADV	_	_	6	advmod	_	_
+6	actúa	actuar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	como	como	SCONJ	_	_	8	mark	_	_
+8	niño	niño	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	líquido	líquido	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	cerebro	cerebro	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+16	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+17	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
+18	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+19	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
+20	almacenar	almacenar	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	22	amod	_	_
+22	memorias	memoria	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	_
+23	solo	solo	ADV	_	_	25	advmod	_	_
+24	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl	_	_
+25	recuerdo	reoerdar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+26	de	de	ADP	_	_	27	case	_	_
+27	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	_
+28	que	que	PRON	_	PronType=Rel	29	nsubj	_	_
+29	pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	acl	_	_
+30	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	31	det	_	_
+31	años	año	NOUN	_	Gender=Masc|Number=Plur	29	obl	_	_
+32	atrás	atrás	ADV	_	_	29	advmod	_	_
+33	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	acuerdo	acuerdo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+6	que	que	PRON	_	PronType=Rel	15	obj	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	primos	primo	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	tías	tía	NOUN	_	Gender=Fem|Number=Plur	7	appos	_	_
+13	o	o	CCONJ	_	_	14	cc	_	_
+14	el	ée	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	hacían	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl	_	_
+16	cuando	cuando	SCONJ	_	_	17	mark	_	_
+17	éramos	ar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+18	pequeños	pequeño	ADJ	_	Gender=Masc|Number=Plur	17	obj	_	_
+19	pero	pero	CCONJ	_	_	22	cc	_	_
+20	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	muy	mucho	ADV	_	_	22	advmod	_	_
+22	difícil	difícil	ADJ	_	Number=Sing	3	conj	_	_
+23	para	para	ADP	_	_	24	case	_	_
+24	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	_
+25	recordar	recordar	VERB	_	VerbForm=Inf	22	csubj	_	_
+26	que	que	SCONJ	_	_	27	mark	_	_
+27	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	ccomp	_	_
+28	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	30	det	_	_
+29	que	que	PRON	_	PronType=Rel	30	obj	_	_
+30	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	ccomp	_	_
+31	ayer	ayer	ADV	_	_	30	advmod	_	_
+32	o	o	CCONJ	_	_	34	cc	_	_
+33	qué	qué	PRON	_	Number=Sing|PronType=Int	34	nsubj	_	_
+34	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	conj	_	_
+35	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	det	_	_
+36	que	que	PRON	_	PronType=Rel	37	obj	_	_
+37	comió	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	ccomp	_	_
+38	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	situación	situación	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	también	también	ADV	_	_	7	advmod	_	_
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	afectando	afectar	VERB	_	VerbForm=Ger	3	ccomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+15	que	que	PRON	_	PronType=Rel	18	nsubj	_	_
+16	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+17	que	que	SCONJ	_	_	18	cc	_	_
+18	cuidarlo	cuidar	VERB	_	VerbForm=Inf	16	conj	_	_
+19	y	y	CCONJ	_	_	22	cc	_	_
+20	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl	_	_
+21	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+22	acaba	acabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	paciencia	paciencia	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
+25	muy	mucho	ADV	_	_	26	advmod	_	_
+26	rápido	rápido	ADJ	_	Gender=Masc|Number=Sing	22	obj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Antes	antes	ADV	_	_	6	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+4	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	informada	informado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	del	de	ADP	_	_	8	case	_	_
+8	tema	tema	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	pero	pero	CCONJ	_	_	18	cc	_	_
+10	ahora	ahora	ADV	_	_	15	mark	_	_
+11	que	que	PRON	_	PronType=Rel	15	obl	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	pasando	pasar	VERB	_	VerbForm=Ger	18	advcl	_	_
+16	por	por	ADP	_	_	17	case	_	_
+17	esto	este	PRON	_	Number=Sing|PronType=Dem	15	obl	_	_
+18	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+19	que	que	SCONJ	_	_	22	mark	_	_
+20	deberíamos	deber	AUX	_	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	22	aux	_	_
+21	de	de	ADP	_	_	22	mark	_	_
+22	hacer	hacer	VERB	_	VerbForm=Inf	18	xcomp	_	_
+23	algo	algo	PRON	_	Number=Sing|PronType=Ind	22	obj	_	_
+24	para	para	ADP	_	_	26	mark	_	_
+25	poder	poder	AUX	_	VerbForm=Inf	26	aux	_	_
+26	ayudar	ayudar	VERB	_	VerbForm=Inf	22	advcl	_	_
+27	a	a	ADP	_	_	29	case	_	_
+28	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
+29	personas	persona	NOUN	_	Gender=Fem|Number=Plur	26	obj	_	_
+30	que	que	PRON	_	PronType=Rel	32	nsubj	_	_
+31	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
+32	pasando	pasar	VERB	_	VerbForm=Ger	29	acl	_	_
+33	por	por	ADP	_	_	34	case	_	_
+34	situaciones	situación	NOUN	_	Gender=Fem|Number=Plur	32	obl	_	_
+35	similares	similar	ADJ	_	Number=Plur	34	amod	_	_
+36	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	6	case	_	_
+4	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	corazon	corazon	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	verlo	ver	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	cuando	cuando	SCONJ	_	_	18	mark	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+16	ya	ya	ADV	_	_	18	advmod	_	_
+17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+18	recuerde	recordar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
+21	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+23	hijas	hija	NOUN	_	Gender=Fem|Number=Plur	21	appos	_	_
+24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+25	nietos	nieto	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	bisnietos	bisnieto	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	_
+28	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

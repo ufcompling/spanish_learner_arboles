@@ -1,0 +1,243 @@
+# Unnamed: 0 = 272
+# id = 199490
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 17
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Yes, I speak Chinese at home.
+# language(s) studied = Before studying Spanish, I have been learning English for 12 years. 
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 =   Hay un hombre especial para mí.  Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro él que es super incomparable. Eso [eso]{ese}<ga:det> hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. Él [él]{}<pr:su:pron> tiene el pelo negro y rizado, y los ojos negros grandes. Él [él]{}<pr:su:pron>  es muy guapo, alto y fuerte.  Sus físicas características [físicas características]{características físicas}<col:adj> son perfectas, pero sus [sus]{su}<na:det> personalidades [personalidades]{personalidad}<na:noun> también son [son]{es}<fs:st:pn> importantes [importantes]{importante}<in:adj> para mí. Él [él]{}<pr:su:pron> es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y él él]{}<pr:su:pron> también es una estrella popular en Internet.  Nosotros pasamos mucho tiempo. Siempre estudio [estudio]{estudiamos}<fs:st>pn> en la escuela. Hablamos del futuro. Él alienta mí, y igualmente.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas.  Somos el sol y el viento, y estamos muy bien.
+# updated annotation ann2 =   Hay un hombre especial para mí.  Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro [él]{}<pr:su:pron> que es super incomparable. Eso hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. [Él]{}<pr:su:pron> tiene el pelo negro y rizado, y los ojos negros grandes. [Él]{}<pr:su:pron> es muy guapo, alto y fuerte.  Sus [físicas características]{características físicas}<col:adj> son perfectas, pero [sus]{su}<in:det> [personalidades]{personalidad}<in:noun> también [son]{es}<fs:st:pn> [importantes]{importante}<in:adj> para mí. [Él]{}<pr:su:pron> es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y [él]{}<pr:su:pron> también es una estrella popular en Internet.  [Nosotros]{}<pr:su:pron> pasamos mucho tiempo. Siempre estudio en la escuela. Hablamos del futuro. Él alienta mí, y igualmente.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas.  Somos el sol y el viento, y estamos muy bien.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 =   Llamarlo "especial" significa que él hace algo super único en primer lugar. Y, en segundo lugar, valoro que es super incomparable. Ese hombre especial encaja me descripción.  Él es mi amigo que tiene *AGE* años. Tiene el pelo negro y rizado y los ojos negros grandes. Es muy guapo, alto y fuerte.  Sus características físicas son perfectas, pero su personalidad también es importante para mí. Es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y también es una estrella popular en Internet. Pasamos mucho tiempo juntos. Siempre estudio en la escuela. Hablamos del futuro. Él me alienta mí y yo le aliento a él.  Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro por las mañanas. Ahora soy humorístico, inteligente y paciente con todos los problemas.  Somos el sol y el viento y estamos muy bien.
+# corrected2 = nan
+# text = Hay un hombre especial para mí. Llamar "Especial" significa él hace algo super único en primer. Y en segundo, valoro él que es super incomparable. Eso hombre especial encaja me descripción. Él es mi amigo que tiene *AGE* años. Él tiene el pelo negro y rizado, y los ojos negros grandes. Él es muy guapo, alto y fuerte. Sus físicas características son perfectas, pero sus personalidades también son importantes para mí. Él es extrovertido, amable, trabajador y paciente. Le gusta escribir, leer libros, tomar fotos. Tiene muchos amigos en realidad y él también es una estrella popular en Internet. Nosotros pasamos mucho tiempo. Siempre estudio en la escuela. Hablamos del futuro. Él alienta mí, y igualmente. Durante los días con él, cambio mi visión de mundo: el mundo es complicado, por lo que todos tienen que tener un corazón puro de las mañanas. Soy ahora humorístico, inteligente y paciente de todos los problemas. Somos el sol y el viento, y estamos muy bien.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	especial	especial	ADJ	_	Number=Sing	3	amod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llamar	llamar	VERB	_	VerbForm=Inf	5	csubj	_	_
+2	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+3	Especial	especial	ADJ	_	_	1	obj	_	_
+4	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+5	significa	significar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	algo	algo	PRON	_	Number=Sing|PronType=Ind	7	obj	_	_
+9	super	super	ADJ	_	_	8	amod	_	_
+10	único	único	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Y	y	CCONJ	_	_	5	cc	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	segundo	segundo	NOUN	_	Gender=Masc|Number=Sing|NumType=Ord	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	valoro	valorar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	super	super	ADV	_	_	10	advmod	_	_
+10	incomparable	incomparable	ADJ	_	Number=Sing	6	acl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Eso	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	encaja	encajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	nmod	_	_
+6	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	*AGE*	*age*	PUNCT	_	_	8	punct	_	_
+8	años	año	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	negro	negro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+12	negros	negro	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	_
+13	grandes	grande	ADJ	_	Number=Plur	11	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	guapo	guapo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	alto	alto	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	fuerte	fuerte	ADJ	_	Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+2	físicas	físico	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
+3	características	característica	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	perfectas	perfecto	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+7	pero	pero	CCONJ	_	_	12	cc	_	_
+8	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	personalidades	personalidad	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
+10	también	también	ADV	_	_	12	advmod	_	_
+11	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	importantes	importante	ADJ	_	Number=Plur	5	conj	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	extrovertido	extrovertido	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	amable	amable	ADJ	_	Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	paciente	paciente	ADJ	_	Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escribir	escribir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	leer	leer	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	tomar	tomar	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	1	advmod	_	_
+5	realidad	realidad	NOUN	_	_	4	fixed	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+8	también	también	ADV	_	_	11	advmod	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	estrella	estrella	NOUN	_	Number=Sing	1	conj	_	_
+12	popular	popular	ADJ	_	Number=Sing	11	amod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	Internet	Internet	PROPN	_	_	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hablamos	hablar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	alienta	alientar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	igualmente	igualmente	ADV	_	_	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	cambio	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	visión	visión	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	:	:	PUNCT	_	PunctType=Colo	16	punct	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	complicado	complicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	advcl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+18	por	por	ADP	_	_	22	mark	_	_
+19	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
+20	que	que	PRON	_	PronType=Rel	24	obl	_	_
+21	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	24	nsubj	_	_
+22	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+23	que	que	SCONJ	_	_	24	cc	_	_
+24	tener	tener	VERB	_	VerbForm=Inf	22	conj	_	_
+25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	corazón	corazón	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+27	puro	puro	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
+28	de	de	ADP	_	_	30	case	_	_
+29	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
+30	mañanas	mañana	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	_
+31	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	ahora	ahora	ADV	_	_	3	advmod	_	_
+3	humorístico	humorístico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	inteligente	inteligente	ADJ	_	Number=Sing	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	paciente	paciente	ADJ	_	Number=Sing	3	conj	_	_
+8	de	de	ADP	_	_	11	case	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	sol	sol	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	viento	viento	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	bien	bien	ADV	_	_	3	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,219 @@
+# Unnamed: 0 = 106
+# id = 42897
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 24
+# gender = Male
+# l1 language = English
+# other l1 language(s) = No
+# language(s) used at home = I speak a little bit of Japanese at home, though I am not too good at it.
+# language(s) studied = Japanese
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi madre es muy especial. Es nacionalidad es [Japones]{japonesa}<ga:adj> pero vive en *STATE*. En *STATE*, tiene un apartamento y dos [coche]{coches}<ga:noun>. En []{el}<ab:det:art:def> Apartamento, mi madre tiene [mucho]{muchos}<na:det> [libres]{libros}<gat:noun> de musica y [mucho]{muchos}<in:det> [instrumento]{instrumentos}<in:noun> [largo]{grandes}<in:adj> y [instrumento]{instrumentos}<in:noun> [pequeño]{pequeños}<in:adj>. La profecion es [la]{}<pr:su:pron> cantante en [un]{una}<ga:det> catedral. Mi madre es [alto]{alta}<gat:det> pero un poco [gordo]{gorda}<gat:adj>. [Tienes]{Tiene}<fs:st:pn> los ojos marrones largos y el pelo negro y marron. Mi madre es muy [estricto]{estricta}<gat:adj> y un poco [rudioso]{ruidosa}<gat:adj> pero justa y [amoroso]{amorosa}<gat:adj>. Mi madre le gusta cocinar y []{la}<ab:det:art:def> musica. ella le gusta []{la}<ab:det:art:def> cocina italiana y [japonese]{japonesa}<gat:adj> y []{la}<ab:det:art:def> musica classica. En la profecion, mi madre canta musica religiosa y toca un piano. Mi madre le gusta [mucha]{mucho}<gat:adv> Japon, Mi abuela, abuelo, tia, tio, y primas vive en *CITY*, Japon. En el verano, mi madre y mi padrastro va a japon para vacaciones. Mi madre es muy [beno]{buena}<gat:adj> para no es [perfecto]{perfecta}<gat:adj>. Es un poco [extrano]{extraña}<gat:adj> y [estricto]{estricta}<gat:adj>.
+# updated annotation ann2 = Mi madre es muy especial. Es nacionalidad es [Japones]{japonesa}<ga:adj> pero vive en *STATE*. En *STATE*, tiene un apartamento y dos [coche]{coches}<na:noun>. En Apartamento, mi madre tiene [mucho]{muchos}<na:adj> libres de musica y mucho instrumento largo y instrumento pequeno. La profecion es [la]{}<pr:det:art:def> cantante en [un]{una}<ga:det> catedral. Mi madre es [alto]{alta}<gat:adj> pero un poco [gordo]{gorda}<gat:adj>. [Tienes]{Tiene}<fs:st:pn> los ojos marrones largos y el pelo negro y marron. Mi madre es muy [estricto]{estricta}<gat:adj> y un poco [ruidoso]{ruidosa}<gat:adj> pero justa y [amoroso]{amorosa}<gat:adj>. Mi madre le gusta cocinar y musica. [ella]{}<pr:su:pron> le gusta cocina italiana y japonese y musica classica. En la profecion, mi madre canta musica religiosa y toca un piano. Mi madre le gusta [mucha]{mucho}<ga:adv> Japon, Mi abuela, abuelo, tia, tio, y primas [vive]{viven}<fs:st:pn> en *CITY*, Japon. En el verano, mi madre y mi padrastro [va]{van}<fs:st:pn> a japon para []{las}<ab:det:art:def> vacaciones. Mi madre es muy [beno]{buena}<gat:adj> para no es [perfecto]{perfecta}<gat:adj>. Es un poco [extrano]{extraña}<gat:adj> y [estricto]{estricta}<gat:adj>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi madre es muy especial. Su nacionalidad es japonesa pero vive en *STATE*. En *STATE*, tiene un apartamento y dos coches. En el apartamento, mi madre tiene muchos libros de música y muchos instrumentos grandes e instrumentos pequeños. Su profesión es cantante en una catedral. Mi madre es alta pero un poco gorda. Tiene los ojos marrones grandes y el pelo negro y marrón. Mi madre es muy estricta y un poco ruidosa pero justa y amorosa. A mi madre le gusta cocinar y la música. A ella le gusta la cocina italiana y japonesa y la música clásica. En su profesión, mi madre canta música religiosa y toca el piano. A mi madre le gusta mucho Japón. Mi abuela, abuelo, tía, tío, y primas vive en *CITY*, Japón. En verano, mi madre y mi padrastro va a Japón de vacaciones. Mi madre es muy buena pero no es perfecta. Es un poco extraña y estricta.
+# corrected2 = nan
+# text = Mi madre es muy especial. Es nacionalidad es Japones pero vive en *STATE*. En *STATE*, tiene un apartamento y dos coche. En Apartamento, mi madre tiene mucho libres de musica y mucho instrumento largo y instrumento pequeno. La profecion es la cantante en un catedral. Mi madre es alto pero un poco gordo. Tienes los ojos marrones largos y el pelo negro y marron. Mi madre es muy estricto y un poco rudioso pero justa y amoroso. Mi madre le gusta cocinar y musica. ella le gusta cocina italiana y japonese y musica classica. En la profecion, mi madre canta musica religiosa y toca un piano. Mi madre le gusta mucha Japon, Mi abuela, abuelo, tia, tio, y primas vive en *CITY*, Japon. En el verano, mi madre y mi padrastro va a japon para vacaciones. Mi madre es muy beno para no es perfecto. Es un poco extrano y estricto.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	nacionalidad	nacionalidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Japones	Japones	PROPN	_	_	0	root	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*STATE*	*state*	PROPN	_	_	6	advmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	*STATE*	*state*	PUNCT	_	_	4	dep	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	apartamento	apartamento	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	coche	coche	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Apartamento	Apartamento	PROPN	_	_	6	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	madre	madre	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	ADV	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	libres	libre	ADJ	_	Number=Plur	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	musica	musica	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	13	det	_	_
+13	instrumento	instrumento	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+14	largo	largo	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	instrumento	instrumento	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+17	pequeno	pequeno	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	profecion	profecion	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	catedral	catedral	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	advmod	_	_
+7	poco	poco	ADV	_	_	6	fixed	_	_
+8	gordo	gordo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	marrones	marron	ADJ	_	Number=Plur	3	amod	_	_
+5	largos	largo	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+9	negro	negro	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	marron	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	estricto	estricto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	_
+8	poco	poco	ADV	_	_	7	fixed	_	_
+9	rudioso	rudioso	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	justa	justo	ADJ	_	Gender=Fem|Number=Sing	5	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	amoroso	amoroso	ADJ	_	Gender=Masc|Number=Sing	11	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cocinar	cocinar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	musica	musicar	VERB	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+5	italiana	italiano	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	japonese	japonese	ADJ	_	Number=Sing	5	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	musica	musica	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	classica	classico	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	profecion	profecion	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	musica	musica	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	religiosa	religioso	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	toca	tocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	piano	piano	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	Japon	Japon	PROPN	_	_	4	nsubj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	tia	tia	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	tio	tio	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
+16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	primas	prima	NOUN	_	Gender=Fem|Number=Plur	19	conj	_	_
+19	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	*CITY*	*City*	PROPN	_	_	19	nmod	_	_
+22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+23	Japon	Japon	PROPN	_	_	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	padrastro	padrastro	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	japon	japon	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	beno	beno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	para	para	ADP	_	_	9	mark	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	perfecto	perfecto	ADJ	_	Gender=Masc|Number=Sing	5	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	_
+3	poco	poco	ADV	_	_	2	fixed	_	_
+4	extrano	extrano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	estricto	estricto	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

@@ -1,0 +1,331 @@
+# Unnamed: 0 = 206
+# id = 153012
+# prompt = special
+# quarter = F19
+# course = SPA 2
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = If I were to pick one, I would consider english my native language
+# language(s) used at home = Vietnamese 
+# language(s) studied = The answer is a bit fuzzy and not clear cut. Growing up, I learned to speak both English and Vietnamese at the same time. My English is definitely stronger than my vietnamese. I am still able to speak both languages to this day.
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un personaje important en mi vida es mi hermano menor. Se llama *FIRST_NAME*. El es alto, fuerte, y moreno. El tiene ojos marrones y pelo negro. El tiene pelo bueno. Es corto y no es rizado. *FIRST_NAME* siempre sonrie. El tiene *AGE* años y esta estudiando la ingenieria mecanico en la Universidad de *UNIVERSITY*. El quiere ser una ingeniero como nuestro padre y trabajar en la empresa mismo. El es muy amable, creativo, artistico, y trabajador, pero a veces el es perezoso. El siempre quiere ayudar nuestra familia pero ellos se ven un bebe que no puede hacer nada. Pareco que el puede hacer mucho pero el no quiere poner esfuerzo. El le gusta practicar la guitarra y cantar mucho. Todos los noches, puedo escuchar el esta practicando la guitarra y cantando. El tiene un voz bueno. *FIRST_NAME* sabe que la guitarra y el canto son solos pasatiempos. Sabe que necessita completar la escuela primero y despues puede hacer los pasatiempos. A veces, me preocupa sobre mi hermano porque me dice que el no se connecta con otros estudiantes en la escuela. Despues de las clases, el va a la casa para hacer tarea. Nuestra madre quiere el apuntarte en los clubes como el club cultural de vietnamita o el club de musica. Se digo tambien porque el tiempo en la universidad es corto y no es bueno no hacer nada menos estudiar. El tiene un amigo de la escuela secundaria en la universidad, pero ellos no hacer nada.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	personaje	personaje	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	important	important	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	2	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	fuerte	fuerte	ADJ	_	Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	marrones	marron	ADJ	_	Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+7	negro	negro	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	corto	corto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	6	cc	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	dep	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	sonrie	sonrie	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	estudiando	estudiar	VERB	_	VerbForm=Ger	2	conj	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ingenieria	ingenieria	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	mecanico	mecanico	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Universidad	Universidad	PROPN	_	_	7	obl	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	*UNIVERSITY*	*university*	PUNCT	_	_	13	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ser	ser	AUX	_	VerbForm=Inf	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ingeniero	ingeniero	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
+6	como	como	SCONJ	_	_	8	mark	_	_
+7	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	trabajar	trabajar	VERB	_	VerbForm=Inf	5	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	amable	amable	ADJ	_	Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	creativo	creativo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	artistico	artistico	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	trabajador	trabajador	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+13	pero	pero	CCONJ	_	_	18	cc	_	_
+14	a	a	ADP	_	_	18	advmod	_	_
+15	veces	veces	NOUN	_	_	14	fixed	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	nsubj	_	_
+17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+18	perezoso	perezoso	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	siempre	siempre	ADV	_	_	3	advmod	_	_
+3	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ayudar	ayudar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+9	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	obl	_	_
+10	ven	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
+14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	hacer	hacer	VERB	_	VerbForm=Inf	12	acl	_	_
+17	nada	nada	PRON	_	Number=Sing|PronType=Neg	16	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pareco	parecar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	el	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	obj	_	_
+4	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	poner	poner	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	esfuerzo	esfuerzo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	practicar	practicar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	cantar	cantar	VERB	_	VerbForm=Inf	4	conj	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	noches	noche	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	escuchar	escuchar	VERB	_	VerbForm=Inf	0	root	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	6	obj	_	_
+9	practicando	practicar	VERB	_	VerbForm=Ger	6	advcl	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	cantando	cantar	VERB	_	VerbForm=Ger	9	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	voz	voz	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	10	mark	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	canto	canto	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	solos	solo	NOUN	_	Gender=Masc|Number=Plur	2	ccomp	_	_
+11	pasatiempos	pasatiempo	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	necessita	necessitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	completar	completar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	primero	primero	ADJ	_	_	4	advmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	despues	despuo	ADV	_	_	11	conj	_	_
+10	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	hacer	hacer	VERB	_	VerbForm=Inf	3	conj	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	pasatiempos	pasatiempo	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	A	a	ADP	_	_	5	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	preocupa	preocupar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sobre	sobre	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obl	_	_
+11	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+12	que	que	SCONJ	_	_	16	mark	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	no	no	ADV	_	Polarity=Neg	16	nsubj	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	connecta	connectar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
+19	estudiantes	estudiante	NOUN	_	Number=Plur	16	obl	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Despues	despues	ADV	_	_	4	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	clases	clase	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nsubj	_	_
+7	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	hacer	hacer	VERB	_	VerbForm=Inf	7	advcl	_	_
+13	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	apuntarte	apuntarte	NOUN	_	VerbForm=Inf	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	clubes	club	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	como	como	SCONJ	_	_	11	mark	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	club	club	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	cultural	cultural	ADJ	_	Number=Sing	11	amod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	vietnamita	vietnamita	NOUN	_	Number=Sing	11	nmod	_	_
+15	o	o	CCONJ	_	_	17	cc	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	club	club	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	musica	musica	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	digo	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tambien	tambien	NOUN	_	_	2	advmod	_	_
+4	porque	porque	SCONJ	_	_	11	mark	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	corto	corto	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	11	conj	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	hacer	hacer	VERB	_	VerbForm=Inf	15	csubj	_	_
+18	nada	nada	PRON	_	Number=Sing|PronType=Neg	17	obj	_	_
+19	menos	menos	ADV	_	Degree=Cmp	18	advmod	_	_
+20	estudiar	estudiar	VERB	_	VerbForm=Inf	17	xcomp	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	pero	pero	CCONJ	_	_	16	cc	_	_
+14	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+16	hacer	hacer	VERB	_	VerbForm=Inf	2	conj	_	_
+17	nada	nada	PRON	_	Number=Sing|PronType=Neg	16	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

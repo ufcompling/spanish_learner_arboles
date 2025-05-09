@@ -1,0 +1,239 @@
+# Unnamed: 0 = 133
+# id = 226891
+# prompt = beautiful
+# quarter = W20
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Cantonese
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un hombre va al supermercado para comprar frutas y verduras. No tiene comida en su casa. Cuando visita el supermercado, camina cerca de []{los}<ab:det:art:def> productos lácteos. Mientras toma leche, ve a una mujer bonita agarrando queso. Él se interesa por ella y decide hablar con ella. La mujer también encontró interés en él. Después de hablar con ella, decide reunirse con ella para una cita romántica. Ella acepta y dan sus números de teléfono.  Después de una semana, van a un restaurante formal. Él está fascinado por su apariencia. Sus mejillas están rojas. Tuvieron una cena divertida. Luego, tuvieron más citas. Se enamoran. En cada cita, él llevaba flores y ella lo daba con un abrazo y un beso. Siempre se divirtieron mucho entre ellos cuando tienen una cita simple en casa o una cita aventurera en un parque de diversiones. Cinco años después, él propone matrimonio y ella acepta. Luego, van a tener una familia. Este hombre y esta mujer están contentos con sus vidas.    
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Un hombre va al supermercado para comprar frutas y verduras. No tiene comida en su casa. Cuando visita el supermercado, camina cerca de []{los}<ab:det:art:def> productos lácteos. Mientras toma leche, ve a una mujer bonita agarrando queso. Él se interesa por ella y decide hablar con ella. La mujer también [encontró]{encuentra}<fs:st:t> interés en él. Después de hablar con ella, decide reunirse con ella para una cita romántica. Ella acepta y dan sus números de teléfono.  Después de una semana, van a un restaurante formal. Él está fascinado por su apariencia. Sus mejillas están rojas. Tuvieron una cena divertida. Luego, tuvieron más citas. Se enamoran. En cada cita, él llevaba flores y ella lo daba con un abrazo y un beso. Siempre se divirtieron mucho entre ellos cuando [tienen]{tenían}<fs:st:t> una cita simple en casa o una cita aventurera en un parque de diversiones. Cinco años después, él [propone]{propuso}<fs:st:t> matrimonio y ella [acepta]{aceptó}<fs:st:t>. Luego, van a tener una familia. Este hombre y esta mujer están contentos con sus vidas.    
+# verbs annotation ann2 = nan
+# corrected1 = Un hombre va al supermercado para comprar frutas y verduras. No tiene comida en su casa. Cuando visita el supermercado, camina cerca de los productos lácteos. Mientras toma leche, ve a una mujer bonita agarrando queso. Él se interesa por ella y decide hablar con ella. La mujer también encuentra interés en él. Después de hablar con ella, decide reunirse con ella para una cita romántica. Ella acepta y se dan sus números de teléfono.  Después de una semana, van a un restaurante formal. Él está fascinado por su apariencia. Sus mejillas están rojas. Tienen una cena divertida. Luego, tienen más citas. Se enamoran. En cada cita, él lleva flores y ella le da un abrazo y un beso. Siempre se divierten mucho entre ellos cuando tienen una cita simple en casa o una cita aventurera en un parque de diversiones. Cinco años después, él le propone matrimonio y ella acepta. Luego, tienen una familia. Este hombre y esta mujer están contentos con sus vidas.    
+# corrected2 = nan
+# text = Un hombre va al supermercado para comprar frutas y verduras. No tiene comida en su casa. Cuando visita el supermercado, camina cerca de productos lácteos. Mientras toma leche, ve a una mujer bonita agarrando queso. Él se interesa por ella y decide hablar con ella. La mujer también encontró interés en él. Después de hablar con ella, decide reunirse con ella para una cita romántica. Ella acepta y dan sus números de teléfono. Después de una semana, van a un restaurante formal. Él está fascinado por su apariencia. Sus mejillas están rojas. Tuvieron una cena divertida. Luego, tuvieron más citas. Se enamoran. En cada cita, él llevaba flores y ella lo daba con un abrazo y un beso. Siempre se divirtieron mucho entre ellos cuando tienen una cita simple en casa o una cita aventurera en un parque de diversiones. Cinco años después, él propone matrimonio y ella acepta. Luego, van a tener una familia. Este hombre y esta mujer están contentos con sus vidas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	3	nsubj	_	_
+3	va	ir	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	supermercado	supermercado	NOUN	_	_	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	comprar	comprar	VERB	_	_	3	advcl	_	_
+8	frutas	fruta	NOUN	_	_	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	verduras	verdura	NOUN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	comida	comida	NOUN	_	_	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	visita	visitar	VERB	_	_	6	advcl	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	supermercado	supermercado	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	camina	caminar	VERB	_	_	0	ROOT	_	_
+7	cerca	cerca	ADV	_	_	6	advmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	productos	producto	NOUN	_	_	7	obl	_	_
+10	lácteos	lácteo	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mientras	mientras	SCONJ	_	_	2	mark	_	_
+2	toma	tomar	VERB	_	_	5	advcl	_	_
+3	leche	leche	NOUN	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	ve	ver	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	mujer	mujer	NOUN	_	_	5	obj	_	_
+9	bonita	bonito	ADJ	_	_	8	amod	_	_
+10	agarrando	agarrar	VERB	_	_	5	advcl	_	_
+11	queso	queso	NOUN	_	_	10	obj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	interesa	interesar	VERB	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	5	case	_	_
+5	ella	él	PRON	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	decide	decidir	VERB	_	_	3	conj	_	_
+8	hablar	hablar	VERB	_	_	7	xcomp	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	ella	él	PRON	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mujer	mujer	NOUN	_	_	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	encontró	encontrar	VERB	_	_	0	ROOT	_	_
+5	interés	interés	NOUN	_	_	4	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	él	él	PRON	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Después	después	ADV	_	_	7	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	hablar	hablar	VERB	_	_	1	advcl	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	ella	él	PRON	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	decide	decidir	VERB	_	_	0	ROOT	_	_
+8	reunirse	reunir él	VERB	_	_	7	xcomp	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	ella	él	PRON	_	_	8	obj	_	_
+11	para	para	ADP	_	_	13	case	_	_
+12	una	uno	DET	_	_	13	det	_	_
+13	cita	cita	NOUN	_	_	8	obl	_	_
+14	romántica	romántico	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	acepta	aceptar	VERB	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	dan	dar	VERB	_	_	2	conj	_	_
+5	sus	su	DET	_	_	6	det	_	_
+6	números	número	NOUN	_	_	4	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	teléfono	teléfono	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	semana	semana	NOUN	_	_	1	obl	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	van	ir	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	restaurante	restaurante	NOUN	_	_	6	obl	_	_
+10	formal	formal	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	fascinado	fascinado	ADJ	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	su	su	DET	_	_	6	det	_	_
+6	apariencia	apariencia	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	mejillas	mejilla	NOUN	_	_	4	nsubj	_	_
+3	están	estar	AUX	_	_	4	cop	_	_
+4	rojas	rojo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tuvieron	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	cena	cena	NOUN	_	_	1	obj	_	_
+4	divertida	divertido	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tuvieron	tener	VERB	_	_	0	ROOT	_	_
+4	más	más	ADV	_	_	5	advmod	_	_
+5	citas	cita	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	enamoran	enamorar	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	cada	cada	DET	_	_	3	det	_	_
+3	cita	cita	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	él	él	PRON	_	_	6	nsubj	_	_
+6	llevaba	llevar	VERB	_	_	0	ROOT	_	_
+7	flores	flor	NOUN	_	_	6	obj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	ella	él	PRON	_	_	11	nsubj	_	_
+10	lo	él	PRON	_	_	11	obj	_	_
+11	daba	dar	VERB	_	_	6	conj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	abrazo	abrazo	NOUN	_	_	11	obl	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	un	uno	DET	_	_	17	det	_	_
+17	beso	beso	NOUN	_	_	14	conj	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	divirtieron	divertir	VERB	_	_	0	ROOT	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	entre	entre	ADP	_	_	6	case	_	_
+6	ellos	él	PRON	_	_	3	obl	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	tienen	tener	VERB	_	_	3	advcl	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	cita	cita	NOUN	_	_	8	obj	_	_
+11	simple	simple	ADJ	_	_	10	amod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	casa	casa	NOUN	_	_	10	nmod	_	_
+14	o	o	CCONJ	_	_	16	cc	_	_
+15	una	uno	DET	_	_	16	det	_	_
+16	cita	cita	NOUN	_	_	10	conj	_	_
+17	aventurera	aventurera	VERB	_	_	16	amod	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	un	uno	DET	_	_	20	det	_	_
+20	parque	parque	NOUN	_	_	17	obl	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	diversiones	diversión	NOUN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cinco	cinco	NUM	_	_	2	nummod	_	_
+2	años	año	NOUN	_	_	3	obl	_	_
+3	después	después	ADV	_	_	6	advmod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	él	él	PRON	_	_	6	nsubj	_	_
+6	propone	proponer	VERB	_	_	0	ROOT	_	_
+7	matrimonio	matrimonio	NOUN	_	_	6	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	ella	él	PRON	_	_	10	nsubj	_	_
+10	acepta	aceptar	VERB	_	_	6	conj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Luego	luego	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	van	ir	AUX	_	_	5	aux	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	tener	tener	VERB	_	_	0	ROOT	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	7	cc	_	_
+4	esta	este	DET	_	_	5	det	_	_
+5	mujer	mujer	NOUN	_	_	7	nsubj	_	_
+6	están	estar	AUX	_	_	7	cop	_	_
+7	contentos	contento	ADJ	_	_	2	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	sus	su	DET	_	_	10	det	_	_
+10	vidas	vida	NOUN	_	_	7	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+

@@ -1,0 +1,338 @@
+# Unnamed: 0 = 248
+# id = 171467
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 20
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = polish
+# language(s) used at home = polish
+# language(s) studied = english since kinder-garden
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Historia terrible En todo de mundo son muchas historia terribles especialmente en películas o libros de siglo 21. Ademas libros jóvenes no son muy bueno también, pero tengo muchos fantástico. Muchas directoras y escritores crear malo historias que hombres no me gusta leer or ver pero existe. Estas historias son crear cuando hombres no tengo tiempo para pienso y creo historia de cinco estrellas. En mí opinion estos horribles histories existe es directores y escritores piensan que este trabajo es buena pero es malo. En películas que los directores crean son para los espectadores que gusta este clima por ejemplo mucho feliz, risa y estupidez pero resulta horrible película y juego de actores es muy malo y no posible para mirar. Por ejemplo de este fenómeno es película de "tonto y tonto". Los libros actúa en sobre esto principio, pero los escritores busco diferentes destinatarios. Horrible historias nace es hombre tengo mucha tiempo y hasta aburrido o no tenga idea para historia. Por ejemplo estas muchos buenos libros pero cuando adaptación de libro fuera en cine no es muy buen es libro. Ademas películas de Harry Potter no es muy buena es un libro pero tengo muchas películas. Estes películas generar mucho dinero para una campana de cine. Muchas películas son modelada de libros pero no esta muy buena. Campanas de cine crear estas películas para dinero y fama. Es un resume películas y libros tengo horrible historias pero no todas. Tienen muchas buenas películas y libros que sociedad le gusta muchismo. Horribles historias son crear cundo directores o escritores no tengo tiempo pero deben ganar dinero para sobrevivir en mundo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Historia	historia	NOUN	_	_	9	dep	_	_
+2	terrible	terrible	ADJ	_	Number=Sing	1	amod	_	_
+3	En	en	ADP	_	_	4	case	_	_
+4	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	9	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	mundo	mundo	NOUN	_	_	4	nmod	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	terribles	terrible	ADJ	_	Number=Plur	9	amod	_	_
+11	especialmente	especialmente	ADV	_	_	9	advmod	_	_
+12	en	en	ADP	_	_	11	case	_	_
+13	películas	película	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+14	o	o	CCONJ	_	_	15	cc	_	_
+15	libros	libro	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	siglo	siglo	NOUN	_	_	13	nmod	_	_
+18	21	21	NUM	_	NumForm=Digit|NumType=Card	17	compound	_	_
+19	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Ademas	adema	NOUN	_	_	7	dep	_	_
+2	libros	libro	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	jóvenes	joven	ADJ	_	Number=Plur	2	amod	_	_
+4	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+8	también	también	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
+13	fantástico	fantástico	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	directoras	directora	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	escritores	escritor	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+5	crear	crear	VERB	_	VerbForm=Inf	2	acl	_	_
+6	malo	malo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+7	historias	historia	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	que	que	SCONJ	_	_	12	mark	_	_
+9	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+13	leer	leer	VERB	_	VerbForm=Inf	12	csubj	_	_
+14	or	or	CCONJ	_	_	15	cc	_	_
+15	ver	ver	VERB	_	VerbForm=Inf	13	conj	_	_
+16	pero	pero	CCONJ	_	_	17	cc	_	_
+17	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	historias	historia	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	crear	crear	VERB	_	VerbForm=Inf	3	ccomp	_	_
+5	cuando	cuando	SCONJ	_	_	8	mark	_	_
+6	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	historia	historia	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
+17	estrellas	estrella	NOUN	_	Number=Plur	14	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	obl	_	_
+3	opinion	opinion	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+5	horribles	horrible	ADJ	_	Number=Plur	6	amod	_	_
+6	histories	historie	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+7	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	directores	director	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	escritores	escritor	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+12	piensan	pensar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	que	que	SCONJ	_	_	17	mark	_	_
+14	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+15	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	buena	buen	ADJ	_	Gender=Fem|Number=Sing	12	ccomp	_	_
+18	pero	pero	CCONJ	_	_	20	cc	_	_
+19	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	malo	malo	ADJ	_	Gender=Masc|Number=Sing	17	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	películas	película	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+3	que	que	PRON	_	PronType=Rel	6	obj	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	directores	director	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+6	crean	crear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	espectadores	espectador	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	_
+13	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	clima	clima	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+15	por	por	ADP	_	_	18	advmod	_	_
+16	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	15	fixed	_	_
+17	mucho	mucho	ADV	_	_	18	advmod	_	_
+18	feliz	feliz	ADJ	_	Number=Sing	14	amod	_	_
+19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+20	risa	risa	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	estupidez	estupidez	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	_
+23	pero	pero	CCONJ	_	_	33	cc	_	_
+24	resulta	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	csubj	_	_
+25	horrible	horrible	ADJ	_	Number=Sing	24	obj	_	_
+26	película	película	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	juego	juego	NOUN	_	Gender=Masc|Number=Sing	26	conj	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	actores	actor	NOUN	_	Gender=Masc|Number=Plur	28	nmod	_	_
+31	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
+32	muy	mucho	ADV	_	_	33	advmod	_	_
+33	malo	malo	ADJ	_	Gender=Masc|Number=Sing	12	conj	_	_
+34	y	y	CCONJ	_	_	36	cc	_	_
+35	no	no	ADV	_	Polarity=Neg	36	advmod	_	_
+36	posible	posible	ADJ	_	Number=Sing	33	conj	_	_
+37	para	para	ADP	_	_	38	mark	_	_
+38	mirar	mirar	VERB	_	VerbForm=Inf	36	acl	_	_
+39	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	fenómeno	fenómeno	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+10	tonto	tonto	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	tonto	tonto	NOUN	_	_	10	conj	_	_
+13	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	libros	libro	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	actúa	actuar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	7	case	_	_
+5	sobre	sobre	ADP	_	_	7	case	_	_
+6	esto	este	DET	_	Number=Sing|PronType=Dem	7	det	_	_
+7	principio	principio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	escritores	escritor	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+12	busco	buscar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+13	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	14	det	_	_
+14	destinatarios	destinatario	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Horrible	horrible	ADJ	_	Number=Plur	2	amod	_	_
+2	historias	historia	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	nace	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+7	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	y	y	CCONJ	_	_	14	cc	_	_
+10	hasta	hasta	ADP	_	_	11	mark	_	_
+11	aburrido	aburrido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	advmod	_	_
+12	o	o	CCONJ	_	_	14	cc	_	_
+13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+14	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	idea	idea	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+16	para	para	ADP	_	_	17	case	_	_
+17	historia	historia	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Por	por	ADP	_	_	6	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
+3	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+5	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	pero	pero	CCONJ	_	_	20	cc	_	_
+8	cuando	cuando	SCONJ	_	_	12	mark	_	_
+9	adaptación	adaptación	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	libro	libro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	fuera	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	advcl	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	cine	cine	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+15	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	muy	mucho	ADV	_	_	18	advmod	_	_
+18	buen	buen	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+19	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	libro	libro	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Ademas	ademo	INTJ	_	Gender=Fem|Number=Plur	9	dep	_	_
+2	películas	película	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Harry	Harry	PROPN	_	_	2	nmod	_	_
+5	Potter	Potter	PROPN	_	_	4	flat	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	buena	buen	ADJ	_	Gender=Fem|Number=Sing	12	advcl	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	libro	libro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+13	pero	pero	CCONJ	_	_	14	cc	_	_
+14	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	16	det	_	_
+16	películas	película	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Estes	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	películas	película	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	generar	generar	VERB	_	VerbForm=Inf	0	root	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	campana	campana	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	cine	cine	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	películas	película	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	modelada	modelado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+9	esta	este	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	buena	buen	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Campanas	campana	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	cine	cine	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	crear	crear	VERB	_	VerbForm=Inf	1	acl	_	_
+5	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	películas	película	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	fama	fama	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	resume	resume	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	películas	película	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+7	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	horrible	horrible	ADJ	_	Number=Sing	9	amod	_	_
+9	historias	historia	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	todas	todo	PRON	_	Gender=Fem|Number=Plur|PronType=Tot	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+3	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+4	películas	película	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	libros	libro	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	sociedad	sociedad	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+11	muchismo	muchismo	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Horribles	horrible	ADJ	_	Number=Plur	2	amod	_	_
+2	historias	historia	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	crear	crear	VERB	_	VerbForm=Inf	3	ccomp	_	_
+5	cundo	cundo	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	_
+6	directores	director	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	escritores	escritor	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	pero	pero	CCONJ	_	_	14	cc	_	_
+13	deben	deber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	ganar	ganar	VERB	_	VerbForm=Inf	10	conj	_	_
+15	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+16	para	para	ADP	_	_	17	mark	_	_
+17	sobrevivir	sobrevivir	VERB	_	VerbForm=Inf	15	acl	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

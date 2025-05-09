@@ -1,0 +1,219 @@
+# Unnamed: 0 = 34
+# id = 156787
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 22
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Assyrian
+# language(s) used at home = Assyrian
+# language(s) studied = Farsi ~4 years (it is blended into my family's Assyrian dialect)
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Me llamo *FIRST_NAME* *LAST_NAME*. Soy de *CITY* *CITY*, *STATE* y *CITY*, *STATE*. Soy estudiante en *UNIVERSITY* *UNIVERSITY*. [Yo]{}<pr:su:pron> estudio el biologia. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> hablo Ingles y Assyrian. En mi familia tengo un hermano y dos parentes. Mi casa poco esta. Me gusta ver a []{la}<ab:det:art:def> ciudad y caminar en [los]{las}<gat:det> [montaños]{montañas}<gat:noun>. [Yo]{}<pr:su:pron> quiero viajar a Ecuador en Verano. [Yo]{}<pr:su:pron> quiero aprender mas Español y viajar a [ciudad]{ciudades}<na:noun> [nueva]{nuevas}<na:adj>.  Me gusta pasar tiempo con [mi]{mis}<na:det> amigos. Gustamos probar comidas y bebidas nuevas. Por ejemplo, el café de *PLACE* es muy caro pero muy delicioso. Me gusta el café y el te, pero el te es mas bueno que el café. Me gusta ir a *PLACE* y *PLACE* por te con leche y boba. *PLACE* *PLACE* [es]{está}<conf:v:seta> cerca de mi apartamento en *CITY*. Tienes que tomar [el]{la}<ga:det> calle de *PLACE* por cinco minutos, entonces el café [es]{está}<conf:v:seta> en la izquierda.  
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Me llamo *FIRST_NAME* *LAST_NAME*. Soy de *CITY* *CITY*, *STATE* y *CITY*, *STATE*. Soy estudiante en *UNIVERSITY* *UNIVERSITY*. [Yo]{}<pr:su:pron> estudio [el]{}<pr:det:art:def><ga:det> biologia. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> hablo Ingles y Assyrian. En mi familia tengo un hermano y dos parentes. Mi casa poco esta. Me gusta ver a ciudad y caminar en [los]{las}<gat:det> [montaños]{montañas}<gat:noun>. [Yo]{}<pr:su:pron> quiero viajar a Ecuador en Verano. [Yo]{}<pr:su:pron> quiero aprender mas Español y viajar a [ciudad]{ciudades}<in:noun> [nueva]{nuevas}<in:adj>.  Me gusta pasar tiempo con [mi]{mis}<na:det> amigos. Gustamos probar comidas y bebidas nuevas. Por ejemplo, el café de *PLACE* es muy caro pero muy delicioso. Me [gusta]{gustan}<fs:st:pn> el café y el te, pero el te es mas bueno que el café. Me gusta ir a *PLACE* y *PLACE* por te con leche y boba. *PLACE* *PLACE* es cerca de mi apartamento en *CITY*. Tienes que tomar [el]{la}<ga:det> calle de *PLACE* por cinco minutos, entonces el café es en la izquierda.  
+# verbs annotation ann2 = nan
+# corrected1 = Me llamo *FIRST_NAME* *LAST_NAME*. Soy de *CITY* *CITY*, *STATE* y *CITY*, *STATE*. Soy estudiante en *UNIVERSITY* *UNIVERSITY*. Estudio el biología. Tengo veintidós años. Hablo inglés y Assyrian. En mi familia tengo un hermano y dos padres. Mi casa poco esta. Me gusta ver la ciudad y caminar por las montañas. Quiero viajar a Ecuador en verano. Quiero aprender más español y viajar a ciudades nuevas.  Me gusta pasar el tiempo con mis amigos. Nos gusta probar comidas y bebidas nuevas. Por ejemplo, el café de *PLACE* es muy caro pero delicioso. Me gusta el café y el té, pero el té es mejor que el café. Me gusta ir a *PLACE* y *PLACE* a por té con leche y boba. *PLACE* *PLACE* está cerca de mi apartamento en *CITY*. Tienes que tomar la calle de *PLACE* por cinco minutos, entonces el café está a la izquierda.  
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME* *LAST_NAME*. Soy de *CITY* *CITY*, *STATE* y *CITY*, *STATE*. Soy estudiante en *UNIVERSITY* *UNIVERSITY*. Yo estudio el biologia. Yo tengo *AGE* años. Yo hablo Ingles y Assyrian. En mi familia tengo un hermano y dos parentes. Mi casa poco esta. Me gusta ver a ciudad y caminar en los montaños. Yo quiero viajar a Ecuador en Verano. Yo quiero aprender mas Español y viajar a ciudad nueva. Me gusta pasar tiempo con mi amigos. Gustamos probar comidas y bebidas nuevas. Por ejemplo, el café de *PLACE* es muy caro pero muy delicioso. Me gusta el café y el te, pero el te es mas bueno que el café. Me gusta ir a *PLACE* y *PLACE* por te con leche y boba. *PLACE* *PLACE* es cerca de mi apartamento en *CITY*. Tienes que tomar el calle de *PLACE* por cinco minutos, entonces el café es en la izquierda.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	llamo	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+4	*LAST_NAME*	last_name	VERB	_	_	2	punct	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+4	*CITY*	CITY	PROPN	_	_	3	flat	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	3	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	*CITY*	CITY	PROPN	_	_	3	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	*STATE*	STATE	PROPN	_	_	3	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	2	obl	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	biologia	biologia	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	hablo	hablar	VERB	_	_	0	ROOT	_	_
+3	Ingles	Ingles	PROPN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	Assyrian	Assyrian	PROPN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	4	obl	_	_
+4	tengo	tener	VERB	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	hermano	hermano	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	parentes	parent	NOUN	_	_	6	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	casa	casa	NOUN	_	_	0	ROOT	_	_
+3	poco	poco	ADV	_	_	4	advmod	_	_
+4	esta	este	PRON	_	_	2	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	ciudad	ciudad	NOUN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	caminar	caminar	VERB	_	_	3	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	los	el	DET	_	_	10	det	_	_
+10	montaños	montaño	NOUN	_	_	7	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Ecuador	Ecuador	PROPN	_	_	3	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	Verano	Verano	PROPN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	aprender	aprender	VERB	_	_	2	xcomp	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	Español	Español	PROPN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	viajar	viajar	VERB	_	_	3	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	ciudad	ciudad	NOUN	_	_	7	obl	_	_
+10	nueva	nuevo	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	pasar	pasar	VERB	_	_	2	csubj	_	_
+4	tiempo	tiempo	NOUN	_	_	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	amigos	amigo	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Gustamos	gustar	VERB	_	_	0	ROOT	_	_
+2	probar	probar	VERB	_	_	1	xcomp	_	_
+3	comidas	comida	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	bebidas	bebida	NOUN	_	_	3	conj	_	_
+6	nuevas	nuevo	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Por	por	ADP	_	_	10	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	café	café	NOUN	_	_	10	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*PLACE*	PLACE	PROPN	_	_	5	nmod	_	_
+8	es	ser	AUX	_	_	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	caro	caro	ADJ	_	_	0	ROOT	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	delicioso	delicioso	ADJ	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	café	café	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	te	te	NOUN	_	_	4	conj	_	_
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	pero	pero	CCONJ	_	_	14	cc	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	te	tú	PRON	_	_	14	nsubj	_	_
+12	es	ser	AUX	_	_	14	cop	_	_
+13	mas	mas	ADV	_	_	14	advmod	_	_
+14	bueno	bueno	ADJ	_	_	2	conj	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	el	el	DET	_	_	17	det	_	_
+17	café	café	NOUN	_	_	14	obl	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*PLACE*	PLACE	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*PLACE*	PLACE	PROPN	_	_	5	conj	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	te	tú	PRON	_	_	3	obl	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	leche	leche	NOUN	_	_	3	obl	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	boba	boba	NOUN	_	_	11	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*PLACE*	PLACE	PROPN	_	_	4	nsubj	_	_
+2	*PLACE*	PLACE	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	cerca	cerca	ADV	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	apartamento	apartamento	NOUN	_	_	4	obl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	*CITY*	CITY	PROPN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tienes	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	tomar	tomar	VERB	_	_	1	conj	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	calle	calle	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*PLACE*	PLACE	PROPN	_	_	5	nmod	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	cinco	cinco	NUM	_	_	10	nummod	_	_
+10	minutos	minuto	NOUN	_	_	3	obl	_	_
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	entonces	entonces	ADV	_	_	18	advmod	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	café	café	NOUN	_	_	18	nsubj	_	_
+15	es	ser	AUX	_	_	18	cop	_	_
+16	en	en	ADP	_	_	18	case	_	_
+17	la	el	DET	_	_	18	det	_	_
+18	izquierda	izquierda	NOUN	_	_	1	conj	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+

@@ -1,0 +1,239 @@
+# Unnamed: 0 = 45
+# id = 201652
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Yo soy de *CITY* *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. [Yo]{}<pr:su:pron> tengo *AGE* anos. Mi fecha de cumpleanos es []{el}<ab:det:art:def> *BIRTH_DATE* de *BIRTH_DATE*. Soy comica, generosa, y trabajadora. No soy timida y alta.  Me gusta pintar y escuchar musica. [Yo]{}<pr:su:pron> tengo dos gatitos. No tengo [un]{}<pr:det:art:indef> perro. Ahora estoy cansada y sueno. [Yo]{}<pr:su:pron> tengo frio. Mi especializacion es desarollo des [humanos]{na:noun>. [Yo]{}<pr:su:pron> tengo tres clases: espanol y dos desarollo des humanos clases. Mi desarollo des [humanos]{humano}<na:noun> clase es muy dificil, pero muy interesante. Mi [preferidas clase]{clase preferida}<col:adj> es historia arte. Historia arte es muy interesante. Mi trabajo es en []{una}<ab:det:art:indef> tiendo de tea. Me no gusta mi trabajo, es muy dificil. [Yo]{}<pr:su:pron> tengo una hermana mayor. No tengo un hermano. Mi hermana tiene *AGE* anos. Mi papa es de *PLACE*. Mi mama es de *CITY* *CITY*, pero mi abuela es de *PLACE*. Mi papa es comico y inteligente. Mi mama es generosa y extrovertida.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! [Yo]{}<pr:su:pron> soy de *CITY* *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. [Yo]{}<pr:su:pron> tengo *AGE* anos. Mi fecha de cumpleanos es []{el}<ab:det:art:def> *BIRTH_DATE* de *BIRTH_DATE*. Soy comica, generosa, y trabajadora. No soy timida y alta.  Me gusta pintar y escuchar musica. [Yo]{}<pr:su:pron> tengo dos gatitos. No tengo un perro. Ahora estoy cansada y sueno. [Yo]{}<pr:su:pron> tengo frio. Mi especializacion es desarollo des humanos. [Yo]{}<pr:su:pron> tengo tres clases: espanol y dos desarollo des humanos clases. Mi desarollo des humanos clase es muy dificil, pero muy interesante. Mi [preferidas clase]{clase preferida}<col:adj> [preferidas clase]{clase preferida}<na:adj> es historia arte. Historia arte es muy interesante. Mi trabajo es en []{una}<ab:det:art:indef> [tiendo]{tienda}<gat:noun> de tea. Me no gusta mi trabajo, es muy dificil. [Yo]{}<pr:su:pron> tengo una hermana mayor. No tengo un hermano. Mi hermana tiene *AGE* anos. Mi papa es de *PLACE*. Mi mama es de *CITY* *CITY*, pero mi abuela es de *PLACE*. Mi papa es comico y inteligente. Mi mama es generosa y extrovertida.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Yo soy de *CITY* José, *STATE*, pero estoy en *CITY*, *STATE*. Tengo *AGE* años. Mi fecha de cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy cómica, generosa, y trabajadora. No soy tímida y soy alta.  Me gusta pintar y escuchar música. Tengo dos gatitos. No tengo perro. Ahora estoy cansada y tengo sueño. Tengo frío. Mi especialización es desarrollo humano. Tengo tres clases: español y clases de desarrollo humano. Mi clase de desarrollo humano es muy difícil, pero muy interesante. Mi clase preferida es historia del arte. Historia del arte es muy interesante. Mi trabajo es en una tienda de té. No me gusta mi trabajo, es muy difícil. Tengo una hermana mayor. No tengo un hermano. Mi hermana tiene veinticuatro anos. Mi papá es de *PLACE*. Mi mamá es de *CITY* *CITY*, pero mi abuela es de Filipinas. Mi papa es cómico e inteligente. Mi mamá es generosa y extrovertida.
+# corrected2 = nan
+# text = Hola! Yo soy de *CITY* *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. Yo tengo *AGE* anos. Mi fecha de cumpleanos es *BIRTH_DATE* de *BIRTH_DATE*. Soy comica, generosa, y trabajadora. No soy timida y alta. Me gusta pintar y escuchar musica. Yo tengo dos gatitos. No tengo un perro. Ahora estoy cansada y sueno. Yo tengo frio. Mi especializacion es desarollo des humanos. Yo tengo tres clases: espanol y dos desarollo des humanos clases. Mi desarollo des humanos clase es muy dificil, pero muy interesante. Mi preferidas clase es historia arte. Historia arte es muy interesante. Mi trabajo es en tiendo de tea. Me no gusta mi trabajo, es muy dificil. Yo tengo una hermana mayor. No tengo un hermano. Mi hermana tiene *AGE* anos. Mi papa es de *PLACE*. Mi mama es de *CITY* *CITY*, pero mi abuela es de *PLACE*. Mi papa es comico y inteligente. Mi mama es generosa y extrovertida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Yo	yo	PRON	_	_	6	nsubj	_	_
+4	soy	ser	AUX	_	_	6	cop	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*CITY*	CITY	PROPN	_	_	1	flat	_	_
+7	*CITY*	CITY	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	*STATE*	STATE	PROPN	_	_	6	conj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	pero	pero	CCONJ	_	_	12	cc	_	_
+12	estoy	estar	VERB	_	_	1	conj	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	*CITY*	CITY	PROPN	_	_	12	obl	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	*STATE*	STATE	PROPN	_	_	12	obl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	anos	ano	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	fecha	fecha	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cumpleanos	cumpleano	NOUN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	comica	comico	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	generosa	generoso	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	trabajadora	trabajador	ADJ	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	timida	temer	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	alta	alto	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	pintar	pintar	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	escuchar	escuchar	VERB	_	_	3	conj	_	_
+6	musica	musico	ADJ	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	gatitos	gatito	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	perro	perro	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	cansada	cansado	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	sueno	sueno	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	frio	frio	NOUN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especializacion	especializacion	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	desarollo	desarollo	NOUN	_	_	0	ROOT	_	_
+5	des	des	ADP	_	_	6	case	_	_
+6	humanos	humano	NOUN	_	_	4	compound	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	tres	tres	NUM	_	_	4	nummod	_	_
+4	clases	clase	NOUN	_	_	2	obj	_	_
+5	:	:	PUNCT	_	_	6	punct	_	_
+6	espanol	espanol	NOUN	_	_	4	appos	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	desarollo	desarollo	NOUN	_	_	6	conj	_	_
+10	des	des	ADP	_	_	11	case	_	_
+11	humanos	humano	NOUN	_	_	6	conj	_	_
+12	clases	clase	NOUN	_	_	6	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	desarollo	desarollo	NOUN	_	_	8	nsubj	_	_
+3	des	des	ADP	_	_	4	dep	_	_
+4	humanos	humano	ADJ	_	_	2	amod	_	_
+5	clase	clase	NOUN	_	_	2	appos	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	dificil	dificil	ADJ	_	_	0	ROOT	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	interesante	interesante	ADJ	_	_	8	conj	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	preferidas	preferido	ADJ	_	_	3	amod	_	_
+3	clase	clase	NOUN	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	historia	historia	NOUN	_	_	0	ROOT	_	_
+6	arte	arte	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Historia	Historia	PROPN	_	_	2	amod	_	_
+2	arte	arte	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	interesante	interesante	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	trabajo	trabajo	NOUN	_	_	3	nsubj	_	_
+3	es	ser	AUX	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	mark	_	_
+5	tiendo	teir	VERB	_	_	3	ccomp	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	tea	tea	PROPN	_	_	5	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	3	expl:pass	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	_	9	advcl	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	trabajo	trabajo	NOUN	_	_	3	nsubj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	dificil	dificil	ADJ	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hermana	hermana	NOUN	_	_	2	obj	_	_
+5	mayor	mayor	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hermano	hermano	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	anos	ano	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	PROPN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+6	*CITY*	CITY	PROPN	_	_	5	flat	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	pero	pero	CCONJ	_	_	13	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	abuela	abuela	NOUN	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	*PLACE*	PLACE	PROPN	_	_	5	conj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	papa	papa	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	comico	comico	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	generosa	generoso	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	extrovertida	extrovertido	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+

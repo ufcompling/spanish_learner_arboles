@@ -1,0 +1,225 @@
+# Unnamed: 0 = 10
+# id = 268138
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18 years old
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿*I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella [está]{es}<conf:v:seta> cómica, inteligente, y agradable. Yo solia soy muy tímida, pero [nosotros]{}<pr:su:pron> hicimos amigas fácilmente. [Nuestro]{Nuestras}<ga:na:adj> casas están cerca []{la}<ab:det:art:def> [unas]{una}<na:det> de []{la}<ab:det:art:def> [otras]{otra}<na:det>, así que pasamos mucho tiempo juntos. También, nosotras fue a la misma escuela secundaria y nosotras almorzamos todos los días con nuestras amigas. Nos gusta conducir juntos a la playa y escuchar música. [Nosotras]{}<pr:su:pron> gusta hablar sobre cualquier tema, como [nuestras]{nuestros}<ga:adj> programmas de televisión favoritos, o si tenemos problemas familias.  En este momento, vamos a diferentes universidades, pero [nosotras]{}<pr:su:pron> intentar hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque nosotras somos lejos de una a la otra. Estoy muy [contento]{contenta}<ga:adj> de que nos conociéramos hace tanto tiempo, y estoy [agradecido]{agradecida}<ga:adj> por ella.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = *I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella [está]{es}<conf:v:seta> cómica, inteligente, y agradable. Yo solia [soy]{ser}<fs:st:t> muy tímida, pero [nosotros]{}<pr:su:pron> hicimos amigas fácilmente. [Nuestro]{Nuestras}<ga:na:det> casas están cerca []{la}<ab:det:art:def> [unas]{una}<in:pron> de []{la}<ab:det:art:def> [otras]{otra}<in:pron>, así que pasamos mucho tiempo [juntos]{juntas}<ga:adj>. También, [nosotras]{}<pr:su:pron> [fue]{fuimos}<fs:st:pn> a la misma escuela secundaria y [nosotras]{}<pr:su:pron> almorzamos todos los días con nuestras amigas. Nos gusta conducir [juntos]{juntas}<ga:adj> a la playa y escuchar música. [Nosotras]{}<pr:su:pron> gusta hablar sobre cualquier tema, como [nuestras]{nuestros}<ga:det> programmas de televisión favoritos, o si tenemos problemas familias.  En este momento, vamos a diferentes universidades, pero [nosotras]{}<pr:su:pron> [intentar]{intentamos}<fs:st:t> hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque [nosotras]{}<pr:su:pron> [somos]{estemos}<conf:v:seta> [somos]{estemos}<fs:st:mo> lejos de una a la otra. Estoy muy [contento]{contenta}<ga:adj> de que nos conociéramos hace tanto tiempo, y estoy [agradecido]{agradecida}<ga:adj> por ella.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿*I am in SPA 1*  Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella es cómica, inteligente, y agradable. Yo solía ser muy tímida, pero nos hicimos amigas fácilmente. Nuestras casas están cerca la una de la otra, así que pasamos mucho tiempo juntas. También, fuimos a la misma escuela secundaria y almorzamos todos los días con nuestras amigas. Nos gusta conducir juntas a la playa y escuchar música. Nos gusta hablar sobre cualquier tema, como nuestros programas de televisión favoritos, o si tenemos problemas familiares.  En este momento, vamos a diferentes universidades, pero intentamos hacer una videollamada una vez por semana. Su universidad está al otro lado del país, así que espero que podamos seguir siendo amigas, aunque nosotras estamos lejos la una de la otra. Estoy muy contenta de que nos conociéramos hace tanto tiempo, y estoy agradecida por ella. 
+# corrected2 = nan
+# text = *I am in SPA 1* Una hermosa historia que me viene a la mente es sobre cómo conocí a mi mejor amiga. Mi mejor amiga y yo nos conocimos en *NUMBER* grado. Ella está cómica, inteligente, y agradable. Yo solia soy muy tímida, pero nosotros hicimos amigas fácilmente. Nuestro casas están cerca unas de otras, así que pasamos mucho tiempo juntos. También, nosotras fue a la misma escuela secundaria y nosotras almorzamos todos los días con nuestras amigas. Nos gusta conducir juntos a la playa y escuchar música. Nosotras gusta hablar sobre cualquier tema, como nuestras programmas de televisión favoritos, o si tenemos problemas familias. En este momento, vamos a diferentes universidades, pero nosotras intentar hacer una videollamada una vez por semana. Ella universidad está a través del país, así que espero que podamos seguir siendo amigas, aunque nosotras somos lejos de una a la otra. Estoy muy contento de que nos conociéramos hace tanto tiempo, y estoy agradecido por ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*	*	SYM	_	_	3	punct	_	_
+2	I	I	CCONJ	_	_	3	obj	_	_
+3	am	am	PROPN	_	_	0	root	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	SPA	SPA	PROPN	_	_	3	nmod	_	_
+6	1	1	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
+7	*	*	SYM	_	_	3	punct	_	_
+8	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	historia	historia	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl	_	_
+13	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	mente	mente	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+18	sobre	sobre	ADP	_	_	20	mark	_	_
+19	cómo	cómo	PRON	_	PronType=Ind	20	obl	_	_
+20	conocí	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	ccomp	_	_
+21	a	a	ADP	_	_	24	case	_	_
+22	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+23	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	24	amod	_	_
+24	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+3	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	conocimos	conocir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	*NUMBER*	*number*	PUNCT	_	_	10	punct	_	_
+10	grado	grado	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	inteligente	inteligente	ADJ	_	Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	agradable	agradable	ADJ	_	Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	solia	solia	ADJ	_	Gender=Fem|Number=Sing	1	appos	_	_
+3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	hicimos	hicar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	conj	_	_
+10	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	_
+11	fácilmente	fácilmente	ADV	_	_	9	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	casas	casa	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cerca	cerca	ADV	_	_	0	root	_	_
+5	unas	uno	PRON	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	3	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	otras	otro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	5	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	pasamos	pasar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	13	det	_	_
+13	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+14	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	11	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	nosotras	nosotrae	PRON	_	_	4	nsubj	_	_
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	8	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+8	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	secundaria	secundario	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	nosotras	yosotra	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	nsubj	_	_
+12	almorzamos	almorzar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	14	det	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	días	día	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+16	con	con	ADP	_	_	18	case	_	_
+17	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	conducir	conducir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	playa	playa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	escuchar	escuchar	VERB	_	VerbForm=Inf	3	conj	_	_
+10	música	música	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotras	yosotra	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hablar	hablar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	sobre	sobre	ADP	_	_	6	case	_	_
+5	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	6	det	_	_
+6	tema	tema	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	como	como	SCONJ	_	_	10	mark	_	_
+9	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	programmas	programma	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	o	o	CCONJ	_	_	17	cc	_	_
+16	si	si	SCONJ	_	_	17	mark	_	_
+17	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+18	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+19	familias	familia	ADJ	_	Gender=Fem|Number=Plur	18	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	momento	momento	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	8	det	_	_
+8	universidades	universidad	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	nosotras	yosotra	AUX	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	aux	_	_
+12	intentar	intentar	VERB	_	VerbForm=Inf	5	conj	_	_
+13	hacer	hacer	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	videollamada	videollamada	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	vez	vez	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+18	por	por	ADP	_	_	19	case	_	_
+19	semana	semana	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	_
+2	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	7	case	_	_
+5	través	través	NOUN	_	_	4	fixed	_	_
+6	del	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	país	país	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	así	así	ADV	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	podamos	poder	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	seguir	seguir	VERB	_	VerbForm=Inf	11	ccomp	_	_
+15	siendo	ser	AUX	_	VerbForm=Ger	16	cop	_	_
+16	amigas	amigo	ADJ	_	Gender=Fem|Number=Plur	14	xcomp	_	_
+17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+18	aunque	aunque	SCONJ	_	_	21	mark	_	_
+19	nosotras	yosotra	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	nsubj	_	_
+20	somos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+21	lejos	lejos	ADV	_	_	14	advmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	21	obl	_	_
+24	a	a	ADP	_	_	26	case	_	_
+25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	otra	otro	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	23	nmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	contento	contento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	7	mark	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obj	_	_
+7	conociéramos	conociar	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	_
+8	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	10	det	_	_
+10	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	agradecido	agradecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+15	por	por	ADP	_	_	16	case	_	_
+16	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

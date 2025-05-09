@@ -1,0 +1,325 @@
+# Unnamed: 0 = 101
+# id = 230911
+# prompt = chaplin
+# quarter = S21
+# course = SPA 24
+# age = 20
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Extremely comfortable
+# speaking ability = Extremely comfortable
+# writing ability = Extremely comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = El video es muy interesante y un poco chistoso ya que no hay personas hablando. Es más como un video de pura acción. Cuando empieza el video, lo primero que vemos es que parece que hay unos niños que son traviesos y que molestan al señor (el protagonista). Luego, el señor encuentra un bebe en el piso de la calle y él se lo da a una mujer porque piensa que se le olvidó. Pero, la señora dice que no. Ella no lo quiere y mejor el señor se lo lleva y se lo da a otro hombre. Ahora, el nuevo hombre tampoco quiere al bebe y va a buscar al señor que se lo dio. El hombre no encuentra al bebe y lo deja en la carriola de la primera señora. La señora sale de la tienda y ve al bebe. Cuando la señora ve el bebe en la carriola de ella, ella va y le pega al señor porque le dio el bebe otra vez. De hecho, cuando eso pasa, un security pasa y el señor agarra el bebe y se va con él. Cuando se va con el bebe, el señor lo quiere poner en la alcantarilla pero luego se arrepienta. Y esto es porque, empieza a buscar entre el bebe en encuentra una nota. Despues de eso, el señor se enamora con el bebe. El señor y el bebe se van juntos. Ahora al final del video, el señor quiere al bebe y ya no lo quiere regalar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	video	video	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	interesante	interesante	ADJ	_	Number=Sing	0	root	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	_
+8	poco	poco	ADV	_	_	7	fixed	_	_
+9	chistoso	chistoso	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+10	ya	ya	ADV	_	_	13	mark	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+14	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
+15	hablando	hablar	VERB	_	VerbForm=Ger	13	advcl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	más	más	ADV	_	Degree=Cmp	0	root	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	video	video	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	pura	puro	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+8	acción	acción	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	empieza	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+7	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+8	que	que	PRON	_	PronType=Rel	9	obj	_	_
+9	vemos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	csubj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+15	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	niños	niño	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+17	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+18	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	traviesos	travieso	ADJ	_	Gender=Masc|Number=Plur	16	acl	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	que	que	PRON	_	PronType=Rel	22	nsubj	_	_
+22	molestan	molestar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+23	al	a	ADP	_	_	24	case	_	_
+24	señor	señor	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	27	punct	_	_
+26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	protagonista	protagonista	NOUN	_	Number=Sing	24	appos	_	_
+28	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	27	punct	_	_
+29	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Luego	luego	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	señor	señor	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	piso	piso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	calle	calle	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	y	y	CCONJ	_	_	18	cc	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+16	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs	18	obl	_	_
+17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+19	a	a	ADP	_	_	21	case	_	_
+20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+22	porque	porque	SCONJ	_	_	23	mark	_	_
+23	piensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+24	que	que	SCONJ	_	_	27	mark	_	_
+25	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	expl	_	_
+26	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	27	obj	_	_
+27	olvidó	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	ccomp	_	_
+28	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	señora	señora	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	no	no	ADV	_	Polarity=Neg	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	11	cc	_	_
+6	mejor	mejor	ADV	_	_	11	advmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	señor	señor	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+9	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obl	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs	15	obl	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	18	det	_	_
+18	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	tampoco	tampoco	ADV	_	_	7	advmod	_	_
+7	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	al	a	ADP	_	_	9	case	_	_
+9	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	a	a	ADP	_	_	13	mark	_	_
+13	buscar	buscar	VERB	_	VerbForm=Inf	11	xcomp	_	_
+14	al	a	ADP	_	_	15	case	_	_
+15	señor	señor	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+17	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	obl	_	_
+18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
+19	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	carriola	carriola	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	de	de	ADP	_	_	16	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	16	amod	_	_
+16	señora	señora	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	señora	señora	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	sale	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	al	a	ADP	_	_	10	case	_	_
+10	bebe	bebe	NOUN	_	Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	señora	señora	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	carriola	carriola	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+12	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	pega	pegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+18	al	a	ADP	_	_	19	case	_	_
+19	señor	señor	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+20	porque	porque	SCONJ	_	_	22	mark	_	_
+21	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+22	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+25	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	26	det	_	_
+26	vez	vez	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
+27	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	De	de	ADP	_	_	10	advmod	_	_
+2	hecho	hecho	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	eso	ese	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
+6	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	security	security	NOUN	_	_	10	nsubj	_	_
+10	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	señor	señor	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	agarra	agarrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+20	con	con	ADP	_	_	21	case	_	_
+21	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	señor	señor	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	poner	poner	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	alcantarilla	alcantarilla	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	pero	pero	CCONJ	_	_	19	cc	_	_
+17	luego	luego	ADV	_	_	19	advmod	_	_
+18	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl	_	_
+19	arrepienta	arrepentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Y	y	CCONJ	_	_	3	cc	_	_
+2	esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	empieza	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	buscar	buscar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	entre	entre	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+12	en	en	ADP	_	_	13	mark	_	_
+13	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	nota	nota	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Despues	despues	NOUN	_	_	3	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	eso	ese	PRON	_	Number=Sing|PronType=Dem	8	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	señor	señor	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	enamora	enamorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	señor	señor	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bebe	bebe	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+6	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	9	advmod	_	_
+2	al	a	ADP	_	_	3	case	_	_
+3	final	final	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	video	video	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	señor	señor	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	bebe	bebe	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	y	y	CCONJ	_	_	16	cc	_	_
+13	ya	ya	ADV	_	_	16	advmod	_	_
+14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
+16	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+17	regalar	regalar	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+

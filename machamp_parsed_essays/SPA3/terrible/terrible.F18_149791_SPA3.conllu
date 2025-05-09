@@ -1,0 +1,346 @@
+# Unnamed: 0 = 100
+# id = 149791
+# prompt = terrible
+# quarter = F18
+# course = SPA 3
+# age = 19
+# gender = nan
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Había una vez, un niña pequeña. Esta niña pequeña fue a la granja con su papa. Él la llévo a mirar muchas animales en la granja. Ella y su papa acarician los pollos, los caballos, las cabras, y los avestruces. La niña pequeña sobresalía su mano a acariciar el avestruz. El avestruz mordía el niña causando su llorar. Su papa morirse de risa. Desde ese día la niña no le gustaba los avestruces porque lo morder. Ese mismo día, ellos se perdió mientras ir a la casa. La chiquita niña recordaba la dirección a la casa. Ella contó su papa adónde ir. Primero, él creía su. Después ellos se dieron cuenta de que la niña tenía razón, ellos siguieron su. Después de pasar horas intentando volver a la casa, su coche se averío. Ademas, no tenía señal por su telefono. Ellos esperaron muchas horas por alguien que los ayude. Mientras esperaban ayudar, fueron a un restaurante cercano. Su papa consiguió su helado porque se sentía mal. Trece horas después, alguien finalmente venía a ayudar. Cuando su papa buscaba por los llaves, no poder encontrarlos. Un vez más, estaban atrapados esperando. Tuvieron se pasar la noche en sus coche. Años después, la niña pequeña recuerda la noche de su papa no escuchaba. Ahora que es mayor, ella se burla su papa y dice su familia el cuento. Cuando ella envejece, su gustaría continuar diciendo el cuento a su familia mas joven. Tenía un largo cuento para contarle a todo su familia.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	niña	niña	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+7	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	niña	niña	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	granja	granja	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	llévo	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	mirar	mirar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+7	animales	animal	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	granja	granja	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	y	y	CCONJ	_	_	4	cc	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	papa	papa	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+5	acarician	acariciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	pollos	pollo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	caballos	caballo	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	cabras	cabra	NOUN	_	Gender=Fem|Number=Plur	7	appos	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	avestruces	avestruz	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	niña	niña	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	sobresalía	sobresaler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	mano	mano	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	acariciar	acariciar	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	avestruz	avestruz	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	avestruz	avestruz	NOUN	_	Number=Sing	3	nsubj	_	_
+3	mordía	mordir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	niña	niña	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	causando	causar	VERB	_	VerbForm=Ger	3	advcl	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	llorar	llorar	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	papa	papa	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	morirse	morir	VERB	_	VerbForm=Inf	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	risa	risa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Desde	desde	ADP	_	_	3	case	_	_
+2	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	niña	niña	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	gustaba	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	avestruces	avestruz	NOUN	_	Number=Plur	8	nsubj	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	morder	morder	VERB	_	VerbForm=Inf	8	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+2	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	perdió	perder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	mientras	mientras	SCONJ	_	_	9	mark	_	_
+9	ir	ir	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	chiquita	chiquita	NOUN	_	_	4	nsubj	_	_
+3	niña	niña	NOUN	_	Gender=Fem|Number=Sing	2	compound	_	_
+4	recordaba	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	dirección	dirección	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	papa	papa	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	adónde	adónde	PRON	_	PronType=Ind	2	obl	_	_
+6	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Primero	primero	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	creía	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	su	su	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Después	después	ADV	_	_	4	advmod	_	_
+2	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obl	_	_
+4	dieron	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	4	compound	_	_
+6	de	de	ADP	_	_	10	mark	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	niña	niña	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+10	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+11	razón	razón	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+13	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+14	siguieron	seguir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+15	su	su	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Después	después	ADV	_	_	14	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	intentando	intentar	VERB	_	VerbForm=Ger	3	xcomp	_	_
+6	volver	volver	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	coche	coche	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+13	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	averío	averíar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Ademas	ademas	NOUN	_	_	4	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	señal	señal	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	telefono	telefono	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	esperaron	esperar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	2	obl	_	_
+7	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+8	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	ayude	ayudar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mientras	mientras	SCONJ	_	_	2	mark	_	_
+2	esperaban	esperar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+3	ayudar	ayudar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	fueron	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	restaurante	restaurante	NOUN	_	Number=Sing	5	obl	_	_
+9	cercano	cercano	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	papa	papa	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	consiguió	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	helado	helado	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+9	mal	mal	ADV	_	Gender=Masc|Number=Sing	8	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Trece	trece	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	horas	hora	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+3	después	después	ADV	_	_	7	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	7	nsubj	_	_
+6	finalmente	finalmente	ADV	_	_	7	advmod	_	_
+7	venía	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	ayudar	ayudar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	papa	papa	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	buscaba	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	llaves	llave	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	poder	poder	AUX	_	VerbForm=Inf	11	aux	_	_
+11	encontrarlos	encontrar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+3	más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	estaban	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	atrapados	atrapado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+7	esperando	esperar	VERB	_	VerbForm=Ger	6	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	coche	coche	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+2	después	después	ADV	_	_	7	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	niña	niña	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	recuerda	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	de	de	ADP	_	_	14	mark	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	papa	papa	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+14	escuchaba	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	8	advmod	_	_
+2	que	que	PRON	_	PronType=Rel	1	obl	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	1	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	burla	burlar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	papa	papa	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	familia	familia	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	cuento	cuento	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	envejece	envejecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+7	continuar	continuar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	diciendo	decir	VERB	_	VerbForm=Ger	7	xcomp	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	cuento	cuento	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	mas	mas	ADV	_	_	15	advmod	_	_
+15	joven	joven	ADJ	_	Number=Sing	13	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	largo	largo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	cuento	cuento	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	contarle	contar	VERB	_	VerbForm=Inf	4	acl	_	_
+7	a	a	ADP	_	_	10	case	_	_
+8	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

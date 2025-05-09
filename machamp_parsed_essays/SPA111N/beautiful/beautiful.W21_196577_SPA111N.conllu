@@ -1,0 +1,346 @@
+# Unnamed: 0 = 146
+# id = 196577
+# prompt = beautiful
+# quarter = W21
+# course = SPA 111N
+# age = 21
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Ahora estoy sentando en mi cama, mirando a mi gato, *FIRST_NAME*. Ella está durmiendo en mi escritorio en un rayo del sol. Sus pies cuelga del lado. *FIRST_NAME* sacude suavemente, probablamente porque ells está soñando si ella está afuera, cazando pájaros. *FIRST_NAME* me mira muy contenta. Espero que yo pudiera tomar una siesta tan cómoda. Los rayos del sol magnifican su pelo blanco debajo de su pelo negro. *FIRST_NAME* han girado su cuerpo como está es liquida. Se estira, alcanzando al ventana para capturar más sol. *FIRST_NAME* parpadea sus ojos, y puedo ver el verde brillante de los. Otra gira y ella está durmiendo otra vez. *FIRST_NAME* duerme en el escritorio como ella es una reina que puede tomar sus días sin preocupaciones. Este apartamento en *CITY*, *STATE* es una villa junto a las playas de *PLACE*. *FIRST_NAME* puede oír las olas se estrellan por la arena. Los arrullan a *FIRST_NAME*; ella duerme más profundo. Todo se escurre fuera. Su pelo me parece como es marrón, reflejando la luz caliente. Su pie, hay cuatro dedos con almohadilla violeta y negra. Los serpentean. Su rabo, tan largo y expresivo. Lo sacude por el aire como ella está contándome que require algo, posiblemente un pájaro sirve por una bandeja. *FIRST_NAME* ha haciendo un momento por solamente su comodidad. Estoy envidiosa de ella. Yo creo que toda estará celoso de *FIRST_NAME* si podría ver a ella en este momento bello. Y en un momento, un carro corre abajo el camino, y el ruido se despierta a ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sentando	sentar	VERB	_	VerbForm=Ger	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	cama	cama	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	mirando	mirar	VERB	_	VerbForm=Ger	3	advcl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	gato	gato	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+13	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	durmiendo	durmir	VERB	_	VerbForm=Ger	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	escritorio	escritorio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	rayo	rayo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	sol	sol	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	pies	pie	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	cuelga	cuelgar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	lado	lado	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PROPN	_	_	2	nsubj	_	_
+2	sacude	sacudir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	suavemente	suavemente	ADV	_	_	2	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	probablamente	probablamente	ADV	_	_	2	advmod	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	ells	é	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+8	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	soñando	soñar	VERB	_	VerbForm=Ger	2	advcl	_	_
+10	si	si	SCONJ	_	_	12	mark	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	afuera	afuera	ADV	_	_	9	advmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	cazando	cazar	VERB	_	VerbForm=Ger	9	advcl	_	_
+16	pájaros	pájaro	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	pudiera	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	tomar	tomar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	siesta	siesta	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	tan	tanto	ADV	_	_	9	advmod	_	_
+9	cómoda	cómodo	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	rayos	rayo	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	sol	sol	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	magnifican	magnificar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	blanco	blanco	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+9	debajo	debajo	ADV	_	_	5	advmod	_	_
+10	de	de	ADP	_	_	9	fixed	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	negro	negro	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	nsubj	_	_
+2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	girado	girar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	cuerpo	cuerpo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	como	como	SCONJ	_	_	7	mark	_	_
+7	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	liquida	liquido	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	estira	estirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	alcanzando	alcanzar	VERB	_	VerbForm=Ger	2	advcl	_	_
+5	al	a	ADP	_	_	6	case	_	_
+6	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	para	para	ADP	_	_	8	mark	_	_
+8	capturar	capturar	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
+10	sol	sol	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	2	nsubj	_	_
+2	parpadea	parpadear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	2	conj	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	verde	verde	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	brillante	brillante	ADJ	_	Number=Sing	10	amod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	gira	gira	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	6	cc	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	durmiendo	durmir	VERB	_	VerbForm=Ger	2	conj	_	_
+7	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	2	nsubj	_	_
+2	duerme	duermir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	escritorio	escritorio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	como	como	SCONJ	_	_	10	mark	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	reina	reina	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+12	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	tomar	tomar	VERB	_	VerbForm=Inf	10	acl	_	_
+14	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	días	día	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
+16	sin	sin	ADP	_	_	17	case	_	_
+17	preocupaciones	preocupación	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	apartamento	apartamento	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*STATE*	*state*	PROPN	_	_	4	punct	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	villa	villa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	junto	junto	ADJ	_	_	13	case	_	_
+11	a	a	ADP	_	_	10	fixed	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	playas	playa	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	*PLACE*	*place*	PROPN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	3	dep	_	_
+2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	olas	ola	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	estrellan	estrellar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	arena	arena	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	arrullan	arrullar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	2	advmod	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	advmod	_	_
+5	;	;	PUNCT	_	PunctType=Semi	2	punct	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	duerme	duermir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+9	profundo	profundo	ADJ	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	escurre	escurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	fuera	fuera	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	como	como	SCONJ	_	_	7	mark	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	marrón	marrón	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	reflejando	reflejar	VERB	_	VerbForm=Ger	4	advcl	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	luz	luz	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	caliente	caliente	ADJ	_	Number=Sing	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	pie	pie	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+6	dedos	dedo	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	almohadilla	almohadilla	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	violeta	violeto	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	negra	negro	ADJ	_	Gender=Fem|Number=Sing	9	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	serpentean	serpentear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	rabo	rabo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	tan	tanto	ADV	_	_	5	advmod	_	_
+5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	expresivo	expresivo	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	sacude	sacudir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	aire	aire	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	como	como	SCONJ	_	_	9	mark	_	_
+7	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	contándome	contar	VERB	_	VerbForm=Ger	2	advcl	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	require	requirir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+12	algo	algo	PRON	_	Number=Sing|PronType=Ind	11	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+14	posiblemente	posiblemente	ADV	_	_	17	advmod	_	_
+15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	pájaro	pájaro	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+17	sirve	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+18	por	por	ADP	_	_	20	case	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	bandeja	bandeja	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	nsubj	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	haciendo	hacer	VERB	_	VerbForm=Ger	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	momento	momento	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	por	por	ADP	_	_	9	case	_	_
+7	solamente	solamente	ADV	_	_	9	advmod	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	comodidad	comodidad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	envidiosa	envidioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	toda	todo	PRON	_	Gender=Fem|Number=Sing|PronType=Tot	6	nsubj	_	_
+5	estará	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+6	celoso	celoso	ADJ	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+9	si	si	SCONJ	_	_	11	mark	_	_
+10	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	11	aux	_	_
+11	ver	ver	VERB	_	VerbForm=Inf	6	advcl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+16	momento	momento	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+17	bello	bello	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	momento	momento	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	carro	carro	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	corre	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	abajo	abajo	ADV	_	_	8	advmod	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	camino	camino	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+13	y	y	CCONJ	_	_	17	cc	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	despierta	despertar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+18	a	a	ADP	_	_	19	case	_	_
+19	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+

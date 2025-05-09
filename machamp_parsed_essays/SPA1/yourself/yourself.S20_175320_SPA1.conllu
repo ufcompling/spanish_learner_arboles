@@ -1,0 +1,234 @@
+# Unnamed: 0 = 53
+# id = 175320
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy hombre. Tengo *AGE* años. Voy a *UNIVERSITY* *UNIVERSITY*. Estoy en mi tercer año de Universidad. Soy alto. Tengo el pelo marrón y los ojos verdes. Me gusta leer, bailar, practicar deportes y jugar videojuegos. Soy [activa]{activo}<ga:adj>, [trabajadora]{trabajador}<ga:adj> e inteligente. Me paseo en bicicleta a la escuela todos los días. Soy de *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. Tengo dos hermanos, un hermano y una hermana. También tengo una sobrina. Tengo dos perros, *FIRST_NAME* y *FIRST_NAME*. Mi comida favorita son las hamburguesas con queso. Mi especialidad es la sociología. Tengo dos clases de sociología, una clase de administración de empresas y una clase de español. Mi clase favorita es la administración de empresas. Mi clase más difícil es la sociología. Trabajo en *CITY*, *STATE*. Trabajo con abogados. Tengo muchos amigos en el trabajo. Me gusta mucho jugar con mis amigos. Me gusta hacer videos con mis amigos y familiares.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy hombre. Tengo *AGE* años. Voy a *UNIVERSITY* *UNIVERSITY*. Estoy en mi tercer año de Universidad. Soy alto. Tengo el pelo marrón y los ojos verdes. Me gusta leer, bailar, practicar deportes y jugar videojuegos. Soy [activa]{activo}<ga:adj>, [trabajadora]{trabajador}<ga:adj> e inteligente. Me paseo en bicicleta a la escuela todos los días. Soy de *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. Tengo dos hermanos, un hermano y una hermana. También tengo una sobrina. Tengo dos perros, *FIRST_NAME* y *FIRST_NAME*. Mi comida favorita son las hamburguesas con queso. Mi especialidad es la sociología. Tengo dos clases de sociología, una clase de administración de empresas y una clase de español. Mi clase favorita es [la]{}<pr:det:art:def> administración de empresas. Mi clase más difícil es [la]{}<pr:det:art:def> sociología. Trabajo en *CITY*, *STATE*. Trabajo con abogados. Tengo muchos amigos en el trabajo. Me gusta mucho jugar con mis amigos. Me gusta hacer videos con mis amigos y familiares.
+# verbs annotation ann2 = nan
+# corrected1 = Soy hombre. Tengo *AGE* años. Voy a *UNIVERSITY* *UNIVERSITY*. Estoy en mi tercer año de Universidad. Soy alto. Tengo el pelo marrón y los ojos verdes. Me gusta leer, bailar, practicar deportes y jugar a videojuegos. Soy activo, trabajador e inteligente. Me paseo en bicicleta a la escuela todos los días. Soy de *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. Tengo dos hermanos, un hermano y una hermana. También tengo una sobrina. Tengo dos perros, *FIRST_NAME* y *FIRST_NAME*. Mi comida favorita son las hamburguesas con queso. Mi especialidad es la sociología. Tengo dos clases de sociología, una clase de administración de empresas y una clase de español. Mi clase favorita es la administración de empresas. Mi clase más difícil es la sociología. Trabajo en *CITY*, *STATE*. Trabajo con abogados. Tengo muchos amigos en el trabajo. Me gusta mucho jugar con mis amigos. Me gusta hacer videos con mis amigos y familiares.
+# corrected2 = nan
+# text = Soy hombre. Tengo *AGE* años. Voy a *UNIVERSITY* *UNIVERSITY*. Estoy en mi tercer año de Universidad. Soy alto. Tengo el pelo marrón y los ojos verdes. Me gusta leer, bailar, practicar deportes y jugar videojuegos. Soy activa, trabajadora e inteligente. Me paseo en bicicleta a la escuela todos los días. Soy de *CITY*, *STATE*, pero estoy en *CITY*, *STATE*. Tengo dos hermanos, un hermano y una hermana. También tengo una sobrina. Tengo dos perros, *FIRST_NAME* y *FIRST_NAME*. Mi comida favorita son las hamburguesas con queso. Mi especialidad es la sociología. Tengo dos clases de sociología, una clase de administración de empresas y una clase de español. Mi clase favorita es la administración de empresas. Mi clase más difícil es la sociología. Trabajo en *CITY*, *STATE*. Trabajo con abogados. Tengo muchos amigos en el trabajo. Me gusta mucho jugar con mis amigos. Me gusta hacer videos con mis amigos y familiares.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*UNIVERSITY*	*university*	SYM	_	_	1	obj	_	_
+4	*UNIVERSITY*	*university*	PUNCT	_	_	3	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Universidad	Universidad	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	marrón	marrón	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+8	verdes	verde	ADJ	_	Number=Plur	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	bailar	bailar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	practicar	practicar	VERB	_	VerbForm=Inf	3	advcl	_	_
+8	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	jugar	jugar	VERB	_	VerbForm=Inf	3	conj	_	_
+11	videojuegos	videojuego	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	activa	activo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	paseo	pasear	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+8	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	9	det	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	días	día	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	SYM	_	_	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*STATE*	*state*	PUNCT	_	_	3	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	SYM	_	_	8	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	*STATE*	*state*	PUNCT	_	_	10	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sobrina	sobrina	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	perros	perro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	appos	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	1	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	hamburguesas	hamburguesa	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	queso	queso	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	sociología	sociología	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	sociología	sociología	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	administración	administración	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	español	español	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	administración	administración	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	clase	clase	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+4	difícil	difícil	ADJ	_	Number=Sing	2	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sociología	sociología	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PUNCT	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*STATE*	*state*	PUNCT	_	_	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	con	con	ADP	_	_	3	case	_	_
+3	abogados	abogado	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	jugar	jugar	VERB	_	VerbForm=Inf	2	csubj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	videos	video	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	familiares	familiar	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

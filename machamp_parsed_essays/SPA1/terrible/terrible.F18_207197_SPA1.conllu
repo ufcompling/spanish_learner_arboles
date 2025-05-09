@@ -1,0 +1,206 @@
+# Unnamed: 0 = 33
+# id = 207197
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = I have studied French 1 and 2 in highschool for the whole school year (total of 2 years)
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hay un niño que se llama Miguel y es joven. Le gusta mucho dormir en la noche. Pero hoy, no duerme. Va a la cocina y quiso un refrigerio. Encontró cucarachas y las cocinó con sal y papas fritas. Dijo "¡Delicioso! Me gustan las cucarachas ”Luego salió y se fue en bicicleta por el parque. La luna es negra y las farolas son verdes iluminaban el camino. Miguel tiene miedo. Él estaba llorando. Quiere volver para que llore más. Llorando para dormir. Luego se despierta y está en casa. Piensa: "¿Tuve un sueño?" Vuelve a la cocina y prueba las cucarachas y las fritas, pero odia las cucarachas con sal. Le pregunta a su madre "¿Por qué odio a las cucarachas?" Y su Madre dice "Porque solo te gustan con ketchup" El doesn't
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	niño	niño	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+5	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+7	Miguel	Miguel	PROPN	_	_	6	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	joven	joven	ADJ	_	Number=Sing	6	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	dormir	dormir	VERB	_	VerbForm=Inf	2	csubj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	noche	noche	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	5	advmod	_	_
+2	hoy	hoy	ADV	_	_	5	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	duerme	duermir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiso	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	refrigerio	refrigerio	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Encontró	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	cucarachas	cucaracha	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	cocinó	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	sal	sal	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	papas	papa	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+10	fritas	frita	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	_	PunctType=Quot	7	punct	_	_
+3	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	7	punct	_	_
+4	Delicioso	delicioso	INTJ	_	_	7	dep	_	_
+5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	7	punct	_	_
+6	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	cucarachas	cucaracha	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+10	”	”	PUNCT	_	PunctType=Quot	7	punct	_	_
+11	Luego	luego	ADV	_	_	12	advmod	_	_
+12	salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl	_	_
+15	fue	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+18	por	por	ADP	_	_	20	case	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	parque	parque	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	luna	luna	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	negra	negro	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	farolas	farola	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	verdes	verde	ADJ	_	Number=Plur	4	conj	_	_
+10	iluminaban	iluminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	camino	camino	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Miguel	Miguel	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	llorando	llorar	VERB	_	VerbForm=Ger	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	volver	volver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	para	para	ADP	_	_	5	mark	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	llore	llorar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llorando	llorar	VERB	_	VerbForm=Ger	0	root	_	_
+2	para	para	ADP	_	_	3	mark	_	_
+3	dormir	dormir	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Luego	luego	ADV	_	_	3	advmod	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	despierta	despertar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Piensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
+3	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+4	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	5	punct	_	_
+5	Tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	sueño	sueño	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	1	punct	_	_
+9	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+
+1	Vuelve	vuelvir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	prueba	pruadir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cucarachas	cucaracha	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	fritas	frita	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+13	pero	pero	CCONJ	_	_	14	cc	_	_
+14	odia	odiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	cucarachas	cucaracha	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
+17	con	con	ADP	_	_	18	case	_	_
+18	sal	sal	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+2	pregunta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	madre	madre	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+7	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	10	punct	_	_
+8	Por	por	ADP	_	_	9	case	_	_
+9	qué	qué	PRON	_	Number=Sing|PronType=Int	10	nmod	_	_
+10	odio	odio	VERB	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	cucarachas	cucaracha	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
+14	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	10	punct	_	_
+15	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+16	Y	y	CCONJ	_	_	19	cc	_	_
+17	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
+18	Madre	Madre	PROPN	_	_	19	nsubj	_	_
+19	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	"	"	PUNCT	_	PunctType=Quot	24	punct	_	_
+21	Porque	porque	SCONJ	_	_	24	mark	_	_
+22	solo	solo	ADV	_	_	24	advmod	_	_
+23	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	24	obl	_	_
+24	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
+25	con	con	ADP	_	_	26	case	_	_
+26	ketchup	ketchup	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
+27	"	"	PUNCT	_	PunctType=Quot	24	punct	_	_
+28	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	doesn't	doesn't	SYM	_	_	2	obj	_	_
+

@@ -1,0 +1,363 @@
+# Unnamed: 0 = 159
+# id = 205897
+# prompt = terrible
+# quarter = F19
+# course = SPA 21
+# age = 19
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Vietnamese
+# language(s) used at home = Vietnamese
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Estaba en casa visitando a mi mamá para el verano. Recibo una llamada, mi tía está llorando. No puedo entender lo que dice. Puedo oír palabras de "hospital" y "abuelo". Me preguntó si me puede traducir para ellos. Hablo con el médico durante unos 10 minutos . Yo hable con el doctor y él dijo "sospecho que su abuelo podría tener cáncer de la sangre". Mis tías no entendían el inglés muy bien, pero el cáncer es un entendimiento universal que podría hacerte sacudir al instante. Mi otra tía era mucho más tranquila que todos los demás. Mi tía dijo "el doctor decir quizá no sí todavía". Yo creía en ella, después de todo, mi abuelo come comida vegetariana, y ejerce un montón. Rezo y rezo y le digo a mi mamá que todo esta bien. Horas más tarde nos reciben una llamada y confirman que es verdad. Ellos lo llaman "Leucemia aguda". Tiene que tomar quimioterapia y tiene que ser hospitalizado durante la próxima semana. Tiene que tomar quimioterapia y tiene que ser hospitalizado durante la próxima semana. No he visto a mi mamá este destacado antes. Ella me decía que lo llamara todos los días y hablara con él. Pero yo sabía que él tenía problemas para hablar. No pude hacer nada. Me sentí tan desesperada. Yo estaba de vacaciones y la obtención de esta llamada fue la peor semana que he tenido. Una semana después pudo volver a casa. Todo el mundo tiene que llevar una máscara a su alrededor. Es casi como un recordatorio diario de que estás enfermo. Y de nuevo me siento desesperada.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	visitando	visitar	VERB	_	VerbForm=Ger	1	advcl	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	verano	verano	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Recibo	recibir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	llamada	llamada	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	tía	tía	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	llorando	llorar	VERB	_	VerbForm=Ger	1	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	entender	entender	VERB	_	VerbForm=Inf	0	root	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	det	_	_
+5	que	que	PRON	_	PronType=Rel	6	obj	_	_
+6	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	oír	oír	VERB	_	VerbForm=Inf	0	root	_	_
+3	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+6	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+10	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+11	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	si	si	SCONJ	_	_	6	mark	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obj	_	_
+5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	traducir	traducir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	médico	médico	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	durante	durante	ADP	_	_	8	case	_	_
+6	unos	uno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	7	nmod	_	_
+7	10	10	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
+8	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hable	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+10	sospecho	sospechar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+11	que	que	SCONJ	_	_	15	mark	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	15	aux	_	_
+15	tener	tener	VERB	_	VerbForm=Inf	10	xcomp	_	_
+16	cáncer	cáncer	NOUN	_	_	15	obj	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+20	"	"	PUNCT	_	PunctType=Quot	10	punct	_	_
+21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	tías	tía	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	entendían	entender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bien	bien	ADV	_	_	4	advmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+10	pero	pero	CCONJ	_	_	15	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	cáncer	cáncer	NOUN	_	Gender=Masc	15	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	entendimiento	entendimiento	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+16	universal	universal	ADJ	_	Number=Sing	15	amod	_	_
+17	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+18	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux	_	_
+19	hacerte	hacer	VERB	_	VerbForm=Inf	15	acl	_	_
+20	sacudir	sacudir	VERB	_	VerbForm=Inf	19	xcomp	_	_
+21	al	a	ADP	_	_	19	case	_	_
+22	instante	instante	NOUN	_	_	21	fixed	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	1	det	_	_
+3	tía	tía	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+5	mucho	mucho	ADV	_	_	7	advmod	_	_
+6	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+7	tranquila	tranquilo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	demás	demás	PRON	_	Number=Plur|PronType=Ind	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	tía	tía	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	"	"	PUNCT	_	PunctType=Quot	7	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	decir	decir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+8	quizá	quizá	ADV	_	_	7	advmod	_	_
+9	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+10	sí	sí	INTJ	_	_	9	advcl	_	_
+11	todavía	todavía	ADV	_	_	10	advmod	_	_
+12	"	"	PUNCT	_	PunctType=Quot	7	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	creía	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	después	después	ADV	_	_	12	advmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	6	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	comida	comida	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+14	vegetariana	vegetariano	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	ejerce	ejercer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	montón	montón	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Rezo	rezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	rezo	rezar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+6	digo	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	13	nsubj	_	_
+12	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	bien	bien	ADV	_	_	6	ccomp	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Horas	hora	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+2	más	más	ADV	_	Degree=Cmp	3	advmod	_	_
+3	tarde	tarde	ADV	_	_	5	advmod	_	_
+4	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	reciben	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	llamada	llamada	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	confirman	confirmar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	que	que	SCONJ	_	_	12	mark	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	9	ccomp	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+5	Leucemia	leucemia	NOUN	_	_	3	obl	_	_
+6	aguda	agudo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	tomar	tomar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	quimioterapia	quimioterapia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	que	que	SCONJ	_	_	9	cc	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	aux	_	_
+9	hospitalizado	hospitalizar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+10	durante	durante	ADP	_	_	13	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	próxima	próximo	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+13	semana	semana	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	tomar	tomar	VERB	_	VerbForm=Inf	1	conj	_	_
+4	quimioterapia	quimioterapia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	que	que	SCONJ	_	_	9	cc	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	aux	_	_
+9	hospitalizado	hospitalizar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+10	durante	durante	ADP	_	_	13	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	próxima	próximo	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+13	semana	semana	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	destacado	destacado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	_
+9	antes	antes	ADV	_	_	3	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	decía	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	llamara	llamar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+7	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	días	día	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	hablara	hablar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+12	con	con	ADP	_	_	13	case	_	_
+13	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+7	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+8	para	para	ADP	_	_	9	mark	_	_
+9	hablar	hablar	VERB	_	VerbForm=Inf	7	acl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+4	nada	nada	PRON	_	Number=Sing|PronType=Neg	3	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	tan	tanto	ADV	_	_	4	advmod	_	_
+4	desesperada	desesperado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+5	y	y	CCONJ	_	_	14	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	obtención	obtención	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	llamada	llamada	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	14	amod	_	_
+14	semana	semana	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+15	que	que	PRON	_	PronType=Rel	17	obj	_	_
+16	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	tenido	tener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	semana	semana	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+3	después	después	ADV	_	_	5	advmod	_	_
+4	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	volver	volver	VERB	_	VerbForm=Inf	0	root	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	2	det	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	6	cc	_	_
+6	llevar	llevar	VERB	_	VerbForm=Inf	4	conj	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	máscara	máscara	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	alrededor	alrededor	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	casi	casi	ADV	_	_	0	root	_	_
+3	como	como	SCONJ	_	_	2	mark	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	recordatorio	recordatorio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	diario	diario	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	de	de	ADP	_	_	10	mark	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
+9	estás	estar	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	enfermo	enfermo	NOUN	_	Gender=Masc|Number=Sing	5	acl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Y	y	CCONJ	_	_	5	cc	_	_
+2	de	de	ADP	_	_	5	advmod	_	_
+3	nuevo	nuevo	ADJ	_	_	2	fixed	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	desesperada	desesperado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

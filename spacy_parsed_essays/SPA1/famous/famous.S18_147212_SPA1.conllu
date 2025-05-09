@@ -1,0 +1,241 @@
+# Unnamed: 0 = 124
+# id = 147212
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Male
+# gender = 19
+# l1 language = Mandarin
+# other l1 language(s) = My native language is Chinese.
+# language(s) used at home = I speak Chinese in home.
+# language(s) studied = I have studied English before I start learn Spanish. I have studied it for 14 years.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos negro. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3. 
+# a personal annotator2 = nan
+# gender-number annotator1 = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos [negro]{negros}<na:ps:adj:inan>. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Quiero escribir una persona famosa masculina. Se llamo Elon Musk. Él es un estadounidense. Pero nació en afica del sur. Él tiene 47 años. Él es alto. Es guapo y es trabajador. Él tiene los pelos cafe. Él tiene los ojos negro. Él es el CEO de Tesla. Él es un hombre de negocios exitoso. Él es muy inteligente. Pero el es introvertido. Él es muy rico. Él vivo en California. Su hermana llamada Tosca Musk. Él tiene un hermano. Su padre es ingeniero. Su madre es una modelo famosa. Ella es muy linda. Ella es muy extroverted y inteligente. Su compañía está en Palo Alto. Su fábrica está en Fremont. Le gusta desarrollar cohetes. Le gusta desarrollar autos electrónicos.gusta tecnología de la información. Le Él debe mucho dinero. Gastó mucho dinero en desarrollar cohetes. Pero el no mucho dinero produciendo autos. Espero que pueda ganar dinero. Quiero conducir un Tesla Model 3.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	escribir	escribir	VERB	_	_	1	xcomp	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	2	obj	_	_
+5	famosa	famoso	ADJ	_	_	4	amod	_	_
+6	masculina	masculina	NOUN	_	_	4	amod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	llamo	llamar	VERB	_	_	0	ROOT	_	_
+3	Elon	Elon	PROPN	_	_	2	nsubj	_	_
+4	Musk	Musk	PROPN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	estadounidense	estadounidense	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	2	advmod	_	_
+2	nació	nacer	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	afica	afica	NOUN	_	_	2	obl	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	sur	sur	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	47	47	NUM	_	_	4	nummod	_	_
+4	años	año	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alto	alto	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	guapo	guapo	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	trabajador	trabajador	ADJ	_	_	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	pelos	pelo	NOUN	_	_	2	obj	_	_
+5	cafe	cafe	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	negro	negro	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	CEO	CEO	PROPN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Tesla	Tesla	PROPN	_	_	4	flat	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	negocios	negocio	NOUN	_	_	4	nmod	_	_
+7	exitoso	exitoso	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	el	el	DET	_	_	4	obj	_	_
+3	es	ser	AUX	_	_	4	aux	_	_
+4	introvertido	introvertido	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	rico	rico	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	vivo	vivo	ADJ	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	California	California	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	0	ROOT	_	_
+3	llamada	llamado	ADJ	_	_	2	amod	_	_
+4	Tosca	Tosca	PROPN	_	_	2	appos	_	_
+5	Musk	Musk	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hermano	hermano	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	ingeniero	ingeniero	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	modelo	modelo	NOUN	_	_	0	ROOT	_	_
+6	famosa	famoso	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	linda	lindo	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	extroverted	extroverted	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	compañía	compañía	NOUN	_	_	3	nsubj	_	_
+3	está	estar	AUX	_	_	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Palo	Palo	PROPN	_	_	0	ROOT	_	_
+6	Alto	Alto	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	fábrica	fábrica	NOUN	_	_	3	nsubj	_	_
+3	está	estar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Fremont	Fremont	PROPN	_	_	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	desarrollar	desarrollar	VERB	_	_	2	csubj	_	_
+4	cohetes	cohet	ADJ	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	desarrollar	desarrollar	VERB	_	_	2	csubj	_	_
+4	autos	auto	NOUN	_	_	3	obj	_	_
+5	electrónicos.gusta	electrónicos.gusta	ADJ	_	_	4	amod	_	_
+6	tecnología	tecnología	NOUN	_	_	4	amod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	información	información	NOUN	_	_	4	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	det	_	_
+2	Él	él	PRON	_	_	0	ROOT	_	_
+3	debe	deber	AUX	_	_	2	cop	_	_
+4	mucho	mucho	DET	_	_	5	det	_	_
+5	dinero	dinero	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Gastó	gastar	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	DET	_	_	3	det	_	_
+3	dinero	dinero	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	5	mark	_	_
+5	desarrollar	desarrollar	VERB	_	_	3	acl	_	_
+6	cohetes	cohet	ADJ	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	el	el	DET	_	_	5	det	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	mucho	mucho	DET	_	_	5	det	_	_
+5	dinero	dinero	NOUN	_	_	6	nsubj	_	_
+6	produciendo	producir	VERB	_	_	0	ROOT	_	_
+7	autos	auto	NOUN	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Espero	esperar	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	pueda	poder	AUX	_	_	4	aux	_	_
+4	ganar	ganar	VERB	_	_	1	xcomp	_	_
+5	dinero	dinero	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	conducir	conducir	VERB	_	_	1	xcomp	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	Tesla	Tesla	PROPN	_	_	2	obj	_	_
+5	Model	Model	PROPN	_	_	4	flat	_	_
+6	3	3	NUM	_	_	4	nummod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+

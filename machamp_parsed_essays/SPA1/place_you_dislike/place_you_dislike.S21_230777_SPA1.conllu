@@ -1,0 +1,224 @@
+# Unnamed: 0 = 56
+# id = 230777
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = 2
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = No me gusta *CITY* *CITY* porque yo soy de *CITY* *CITY*. Mi madre y padre son de *CITY* *CITY* también. Siempre caliente en *CITY* *CITY*, y me gusta la moderación. *CITY* *CITY* es muy grande. Hay mucho tráfico y muchas personas. *CITY* *CITY* es grande también, pero hay menos tráfico y personas. Me gusta la historia de *CITY* *CITY*. Hay fuertes y edificos vieojos. Por otro lado, *CITY* *CITY* es muy moderno, y no me gusta. No me gusta los *NAME*, y me encanta los *NAME*. Yo estoy enojado acercda de *NUMBER* campeonato. Quiero los *NAME* ganar este año. Béisbol es mi deporte favorito, pero me gusta basquetbol. Quiero los *NAME* perder este año. También, *CITY* *CITY* tiene muchas playas. En mi opinión, la playa es más o menos. Yo prefiero vistar los edificos o los fuertes de *CITY* *CITY*. En conclusión, no me gusta *CITY* *CITY*, y vamos *NAME*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*CITY*	*city*	PROPN	_	_	3	nsubj	_	_
+5	*CITY*	*city*	PROPN	_	_	4	punct	_	_
+6	porque	porque	SCONJ	_	_	3	mark	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+8	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	3	obl	_	_
+11	*CITY*	*city*	PROPN	_	_	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	madre	madre	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	padre	padre	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	*city*	PROPN	_	_	0	root	_	_
+8	*CITY*	*city*	PUNCT	_	_	7	punct	_	_
+9	también	también	ADV	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	caliente	caliente	ADJ	_	Number=Sing	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	*City*	PROPN	_	_	2	dep	_	_
+5	*CITY*	*city*	PROPN	_	_	4	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	moderación	moderación	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	5	dep	_	_
+2	*CITY*	*city*	SYM	_	_	1	punct	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+3	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	6	det	_	_
+6	personas	persona	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*CITY*	*city*	SYM	_	_	4	dep	_	_
+2	*CITY*	*city*	PROPN	_	_	4	dep	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+5	también	también	ADV	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	menos	menos	ADV	_	Degree=Cmp	10	advmod	_	_
+10	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	personas	persona	NOUN	_	Gender=Fem|Number=Plur	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*CITY*	*city*	PROPN	_	_	4	nmod	_	_
+7	*CITY*	*city*	PROPN	_	_	6	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	fuertes	fuerte	ADJ	_	Number=Plur	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	edificos	edifico	ADJ	_	Gender=Masc|Number=Plur	2	conj	_	_
+5	vieojos	vieojo	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	9	advmod	_	_
+2	otro	otro	ADJ	_	_	1	fixed	_	_
+3	lado	lado	NOUN	_	_	1	fixed	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	*CITY*	*City*	PROPN	_	_	9	dep	_	_
+6	*CITY*	*City*	PROPN	_	_	5	punct	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	moderno	moderno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+13	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl	_	_
+14	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	NAME	NAME	PROPN	_	_	3	nsubj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	NAME	NAME	PROPN	_	_	9	nsubj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	enojado	enojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	acercda	acercda	ADJ	_	_	3	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	*NUMBER*	*number*	PUNCT	_	_	7	punct	_	_
+7	campeonato	campeonato	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	NAME	NAME	PROPN	_	_	1	nsubj	_	_
+4	ganar	ganar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Béisbol	Béisbol	NOUN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	pero	pero	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	basquetbol	basquetbol	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	NAME	NAME	PROPN	_	_	1	nsubj	_	_
+4	perder	perder	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	año	año	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	*CITY*	*City*	PROPN	_	_	5	nsubj	_	_
+4	*CITY*	*City*	PROPN	_	_	3	punct	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+7	playas	playa	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	más	más	ADV	_	Degree=Cmp	0	root	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	menos	menos	ADV	_	Degree=Cmp	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vistar	vistar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	edificos	edifico	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	o	o	CCONJ	_	_	8	cc	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	fuertes	fuerte	ADJ	_	Number=Plur	5	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	*CitY*	PROPN	_	_	5	nmod	_	_
+11	*CITY*	*city*	PROPN	_	_	10	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	conclusión	conclusión	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	*CITY*	*city*	PROPN	_	_	6	nsubj	_	_
+8	*CITY*	*city*	PROPN	_	_	7	punct	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	NAME	name	PROPN	_	_	11	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

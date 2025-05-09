@@ -1,0 +1,329 @@
+# Unnamed: 0 = 72
+# id = 240418
+# prompt = yourself
+# quarter = W21
+# course = Other upper division courses
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hola, me llamo *FIRST_NAME* *LAST_NAME*, y este es mi segundo año escolar en la Universidad de *UNIVERSITY* en *UNIVERSITY*. Decidi estudiar Biologia porque me encanta aprender sobre cómo funciona nuestro cuerpo y cómo podemos crear nueva tecnología avanzada para mejorar nuestros problemas médicos. Por último, también decidi ampliar mis conocimientos en español porque me encantaría ayudar a las familias que solo hablan español a traducir sus problemas médicos. Antes de asistir en la Universidad, atendi la Preparatoria de *CITY* *CITY*. *CITY* *CITY* es un pueblo may pequeño en el que me crié durante la mayor parte de mi vida. Mi familia y yo nos mudamos a este pueblito cuando tenía *AGE* años. Al principio no me gustaba *CITY* *CITY* porque tenía que dejar mis amigos y familia antas. Pero luego lentamente comencé a acostumbrarme a vivir en mi nuevo pueblo. Mi familiares son my grandes partidarios en que me empujan a ser mejor en la vida, que incluye mi educación, mis pasatiempos, y luchar por una carrera que no haría por el resto de mi vida. Sobre todo, mi madra me ha ayudado a superar todos los problemas por los que he pasado. Ella es la persona a la que acudo en busca de consejos y sé que estará a mi lado pase le que pase. De parte de asistir la Universidad, mis pasatiempos favoritos son mortar caballos, hacer actividades al aire libre con mi familia, como caminar, nadar, y explorar nuevos lugares. Pero cuando llueve y no puedo salir, lo que más me gusta hacer es armar rompecabezas y pintar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	llamo	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	*LAST_NAME*	LAST_NAME	PROPN	_	_	4	advmod	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	y	y	CCONJ	_	_	13	cc	_	_
+9	este	este	PRON	_	_	13	nsubj	_	_
+10	es	ser	AUX	_	_	13	cop	_	_
+11	mi	mi	DET	_	_	13	det	_	_
+12	segundo	segundo	ADJ	_	_	13	amod	_	_
+13	año	año	NOUN	_	_	4	conj	_	_
+14	escolar	escolar	ADJ	_	_	13	amod	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	Universidad	Universidad	PROPN	_	_	13	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	17	flat	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	13	nmod	_	_
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Decidi	decidi	VERB	_	_	0	ROOT	_	_
+2	estudiar	estudiar	VERB	_	_	1	xcomp	_	_
+3	Biologia	Biologia	PROPN	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	encanta	encantar	VERB	_	_	1	advcl	_	_
+7	aprender	aprender	VERB	_	_	6	xcomp	_	_
+8	sobre	sobre	ADP	_	_	10	mark	_	_
+9	cómo	cómo	PRON	_	_	10	obl	_	_
+10	funciona	funcionar	VERB	_	_	7	ccomp	_	_
+11	nuestro	nuestro	DET	_	_	12	det	_	_
+12	cuerpo	cuerpo	NOUN	_	_	10	nsubj	_	_
+13	y	y	CCONJ	_	_	16	cc	_	_
+14	cómo	cómo	PRON	_	_	16	obl	_	_
+15	podemos	poder	AUX	_	_	16	aux	_	_
+16	crear	crear	VERB	_	_	10	conj	_	_
+17	nueva	nuevo	ADJ	_	_	18	amod	_	_
+18	tecnología	tecnología	NOUN	_	_	16	obj	_	_
+19	avanzada	avanzado	ADJ	_	_	18	amod	_	_
+20	para	para	ADP	_	_	21	mark	_	_
+21	mejorar	mejorar	VERB	_	_	16	advcl	_	_
+22	nuestros	nuestro	DET	_	_	23	det	_	_
+23	problemas	problema	NOUN	_	_	21	obj	_	_
+24	médicos	médico	ADJ	_	_	23	amod	_	_
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	último	último	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	también	también	ADV	_	_	5	advmod	_	_
+5	decidi	decidi	ADJ	_	_	0	ROOT	_	_
+6	ampliar	ampliar	VERB	_	_	5	xcomp	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	conocimientos	conocimiento	NOUN	_	_	6	obj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	español	español	NOUN	_	_	8	nmod	_	_
+11	porque	porque	SCONJ	_	_	13	mark	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	encantaría	encantar	VERB	_	_	6	advcl	_	_
+14	ayudar	ayudar	VERB	_	_	13	xcomp	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	las	el	DET	_	_	17	det	_	_
+17	familias	familia	NOUN	_	_	14	obj	_	_
+18	que	que	PRON	_	_	20	nsubj	_	_
+19	solo	solo	ADV	_	_	20	advmod	_	_
+20	hablan	hablar	VERB	_	_	17	acl	_	_
+21	español	español	NOUN	_	_	20	obj	_	_
+22	a	a	ADP	_	_	23	mark	_	_
+23	traducir	traducir	VERB	_	_	20	xcomp	_	_
+24	sus	su	DET	_	_	25	det	_	_
+25	problemas	problema	NOUN	_	_	23	obj	_	_
+26	médicos	médico	ADJ	_	_	25	amod	_	_
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Antes	antes	ADV	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	asistir	asistir	VERB	_	_	1	advcl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	atendi	atendi	NOUN	_	_	1	dep	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	Preparatoria	Preparatoria	PROPN	_	_	8	appos	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*CITY*	CITY	PROPN	_	_	10	flat	_	_
+13	*CITY*	CITY	PROPN	_	_	10	flat	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*CITY*	CITY	PROPN	_	_	5	nsubj	_	_
+2	*CITY*	CITY	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	pueblo	pueblo	NOUN	_	_	0	ROOT	_	_
+6	may	may	PROPN	_	_	5	appos	_	_
+7	pequeño	pequeño	ADJ	_	_	5	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	que	que	PRON	_	_	12	obl	_	_
+11	me	yo	PRON	_	_	12	obj	_	_
+12	crié	crié	VERB	_	_	5	acl	_	_
+13	durante	durante	ADP	_	_	16	case	_	_
+14	la	el	DET	_	_	16	det	_	_
+15	mayor	mayor	ADJ	_	_	16	amod	_	_
+16	parte	parte	NOUN	_	_	12	obl	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	vida	vida	NOUN	_	_	16	nmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	_	2	conj	_	_
+5	nos	yo	PRON	_	_	6	obj	_	_
+6	mudamos	mudar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	este	este	DET	_	_	9	det	_	_
+9	pueblito	pueblito	NOUN	_	_	6	obj	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	tenía	tener	VERB	_	_	6	advcl	_	_
+12	*AGE*	AGE	PROPN	_	_	11	nsubj	_	_
+13	años	año	NOUN	_	_	12	flat	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Al	al	ADP	_	_	5	case	_	_
+2	principio	principio	NOUN	_	_	1	fixed	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gustaba	gustar	VERB	_	_	0	ROOT	_	_
+6	*CITY*	CITY	PROPN	_	_	5	nsubj	_	_
+7	*CITY*	CITY	PROPN	_	_	6	flat	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	tenía	tener	VERB	_	_	5	advcl	_	_
+10	que	que	SCONJ	_	_	11	cc	_	_
+11	dejar	dejar	VERB	_	_	9	conj	_	_
+12	mis	mi	DET	_	_	13	det	_	_
+13	amigos	amigo	NOUN	_	_	11	obj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	familia	familia	NOUN	_	_	13	conj	_	_
+16	antas	anta	ADJ	_	_	13	amod	_	_
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	luego	luego	ADV	_	_	4	advmod	_	_
+3	lentamente	lentamente	ADV	_	_	4	advmod	_	_
+4	comencé	comencé	NOUN	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	acostumbrarme	acostumbrarme	VERB	_	_	4	xcomp	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	vivir	vivir	VERB	_	_	6	xcomp	_	_
+9	en	en	ADP	_	_	12	case	_	_
+10	mi	mi	DET	_	_	12	det	_	_
+11	nuevo	nuevo	ADJ	_	_	12	amod	_	_
+12	pueblo	pueblo	NOUN	_	_	6	obl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familiares	familiar	NOUN	_	_	6	nsubj	_	_
+3	son	ser	AUX	_	_	6	cop	_	_
+4	my	my	DET	_	_	6	det	_	_
+5	grandes	grande	ADJ	_	_	6	amod	_	_
+6	partidarios	partidario	NOUN	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	que	que	PRON	_	_	10	obl	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	empujan	empugir	VERB	_	_	6	acl	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	ser	ser	AUX	_	_	13	cop	_	_
+13	mejor	mejor	ADJ	_	_	10	xcomp	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	vida	vida	NOUN	_	_	10	obl	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	que	que	PRON	_	_	19	nsubj	_	_
+19	incluye	incluir	VERB	_	_	16	acl	_	_
+20	mi	mi	DET	_	_	21	det	_	_
+21	educación	educación	NOUN	_	_	19	obj	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	mis	mi	DET	_	_	24	det	_	_
+24	pasatiempos	pasatiempo	NOUN	_	_	21	appos	_	_
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	y	y	CCONJ	_	_	27	cc	_	_
+27	luchar	luchar	VERB	_	_	19	conj	_	_
+28	por	por	ADP	_	_	30	case	_	_
+29	una	uno	DET	_	_	30	det	_	_
+30	carrera	carrera	NOUN	_	_	27	obj	_	_
+31	que	que	PRON	_	_	33	nsubj	_	_
+32	no	no	ADV	_	_	33	advmod	_	_
+33	haría	hacer	VERB	_	_	30	acl	_	_
+34	por	por	ADP	_	_	36	case	_	_
+35	el	el	DET	_	_	36	det	_	_
+36	resto	resto	NOUN	_	_	33	obj	_	_
+37	de	de	ADP	_	_	36	case	_	_
+38	mi	mi	DET	_	_	39	det	_	_
+39	vida	vida	NOUN	_	_	36	nmod	_	_
+40	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Sobre	sobre	ADP	_	_	8	advmod	_	_
+2	todo	todo	PRON	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	madra	madra	PROPN	_	_	8	nsubj	_	_
+6	me	yo	PRON	_	_	8	iobj	_	_
+7	ha	haber	AUX	_	_	8	aux	_	_
+8	ayudado	ayudar	VERB	_	_	0	ROOT	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	superar	superar	VERB	_	_	8	xcomp	_	_
+11	todos	todo	DET	_	_	12	det	_	_
+12	los	el	DET	_	_	13	det	_	_
+13	problemas	problema	NOUN	_	_	10	obj	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	los	el	DET	_	_	16	det	_	_
+16	que	que	PRON	_	_	18	obj	_	_
+17	he	haber	AUX	_	_	18	aux	_	_
+18	pasado	pasar	VERB	_	_	13	acl	_	_
+19	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	persona	persona	NOUN	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	que	que	PRON	_	_	8	obj	_	_
+8	acudo	acudo	VERB	_	_	4	acl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	busca	busca	NOUN	_	_	8	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	consejos	consejo	NOUN	_	_	10	nmod	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	sé	saber	VERB	_	_	4	conj	_	_
+15	que	que	SCONJ	_	_	16	mark	_	_
+16	estará	estar	VERB	_	_	14	ccomp	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	_	19	det	_	_
+19	lado	lado	NOUN	_	_	20	obl	_	_
+20	pase	pase	VERB	_	_	16	advcl	_	_
+21	le	él	PRON	_	_	23	det	_	_
+22	que	que	PRON	_	_	23	nsubj	_	_
+23	pase	pasar	VERB	_	_	20	ccomp	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+1	De	de	ADP	_	_	4	mark	_	_
+2	parte	parte	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	asistir	asistir	VERB	_	_	12	advcl	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	Universidad	Universidad	PROPN	_	_	4	nsubj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	mis	mi	DET	_	_	9	det	_	_
+9	pasatiempos	pasatiempo	NOUN	_	_	12	nsubj	_	_
+10	favoritos	favorito	NOUN	_	_	9	amod	_	_
+11	son	ser	AUX	_	_	12	cop	_	_
+12	mortar	mortar	VERB	_	_	0	ROOT	_	_
+13	caballos	caballo	NOUN	_	_	12	obj	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	hacer	hacer	VERB	_	_	12	advcl	_	_
+16	actividades	actividad	NOUN	_	_	15	obj	_	_
+17	al	al	ADP	_	_	18	case	_	_
+18	aire	aire	NOUN	_	_	15	obl	_	_
+19	libre	libre	ADJ	_	_	18	amod	_	_
+20	con	con	ADP	_	_	22	case	_	_
+21	mi	mi	DET	_	_	22	det	_	_
+22	familia	familia	NOUN	_	_	18	nmod	_	_
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	como	como	SCONJ	_	_	25	mark	_	_
+25	caminar	caminar	VERB	_	_	12	advcl	_	_
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	nadar	nadar	VERB	_	_	25	xcomp	_	_
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	y	y	CCONJ	_	_	30	cc	_	_
+30	explorar	explorar	VERB	_	_	25	conj	_	_
+31	nuevos	nuevo	ADJ	_	_	32	amod	_	_
+32	lugares	lugar	NOUN	_	_	30	obj	_	_
+33	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	3	advmod	_	_
+2	cuando	cuando	SCONJ	_	_	3	mark	_	_
+3	llueve	llover	VERB	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	no	no	ADV	_	_	7	advmod	_	_
+6	puedo	poder	AUX	_	_	7	aux	_	_
+7	salir	salir	VERB	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	lo	él	PRON	_	_	13	det	_	_
+10	que	que	PRON	_	_	13	nsubj	_	_
+11	más	más	ADV	_	_	13	advmod	_	_
+12	me	yo	PRON	_	_	13	iobj	_	_
+13	gusta	gustar	VERB	_	_	7	advcl	_	_
+14	hacer	hacer	VERB	_	_	15	csubj	_	_
+15	es	ser	AUX	_	_	13	csubj	_	_
+16	armar	armar	VERB	_	_	15	ccomp	_	_
+17	rompecabezas	rompecabeza	NOUN	_	_	16	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	pintar	pintar	VERB	_	_	17	conj	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+

@@ -1,0 +1,220 @@
+# Unnamed: 0 = 73
+# id = 196132
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Male
+# l1 language = English
+# other l1 language(s) = none
+# language(s) used at home = none
+# language(s) studied = none
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y [ella]{}<pr:su:pron> es mi mejor amiga. Siempre nos reímos juntos y [divertirse]{nos divertimos}<fs:st:t>. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. [Es]{Está}<conf:v:seta> loca, la extraño mucho. [Ella]{}<pr:su:pron> es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. [Ella]{}<pr:su:pron> es la mejor persona que conozco. [Yo]{}<pr:su:pron> [amarla]{la amo}<fs:st:t>. [Ella]{}<pr:su:pron> es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.                            
+# updated annotation ann2 = Hola! Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y ella es mi mejor amiga. Siempre nos reímos juntos [juntos]{juntas}<gat:adv> y divertirse [divertirse]{nos divertimos}<fs:st:pn:t>. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Es [es]{está}<conf:v:seta> loca, la extraño mucho. Ella es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Ella es la mejor persona que conozco. Yo amarla [amarla]{la amo}<fs:st:pn:t>. Ella [ella]{}<pr:su:pron> es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.  
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! ¿Quién es una persona especial en tu vida?  Su nombre es *FIRST_NAME* y es mi mejor amiga. Siempre nos reímos juntos y nos divertimos. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Está loca, la extraño mucho. Es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Es la mejor persona que conozco. La amo. Es muy generosa, inteligente, divertida y hermosa. La mejor parte es que podemos no hacer nada y seguir divirtiéndonos juntos. También la forma en la que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.                       
+# corrected2 = nan
+# text = Hola! Quién es una persona especial en tu vida? Su nombre es *FIRST_NAME* y ella es mi mejor amiga. Siempre nos reímos juntos y divertirse. Hemos estado dentro y fuera de una relación. Siempre nos divertimos jugando en el agua y en kayak. Nos vemos solo una vez al año. Nos vemos en el verano la misma semana todos los años. Es loca, la extraño mucho. Ella es especial porque nos comunicamos bien y la he conocido toda mi vida. Siempre nos divertimos y estamos en buenos términos, sin resentimientos. Tenemos muchos chistes. En relación la mayor parte ha sido de larga distancia. Ella es la mejor persona que conozco. Yo amarla. Ella es muy generosa e inteligente y divertida y hermosa. La mejor parte es que no podemos hacer nada y seguir divirtiéndonos juntos. También la forma en que nos comunicamos es la mejor y nos entendemos. Siempre seremos amigos al menos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	6	dep	_	_
+2	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+3	Quién	quién	PRON	_	Number=Sing|PronType=Int	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	especial	especial	ADJ	_	Number=Sing	6	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	10	det	_	_
+10	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	6	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+5	y	y	CCONJ	_	_	10	cc	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	10	amod	_	_
+10	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	reímos	reír	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertirse	divertir	VERB	_	VerbForm=Inf	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Hemos	haber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	estado	estar	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	dentro	dentro	ADV	_	_	2	advmod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	fuera	fuera	ADV	_	_	3	conj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	relación	relación	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	divertimos	divertir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	jugando	jugar	VERB	_	VerbForm=Ger	3	ccomp	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	agua	agua	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	kayak	kayak	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	_
+2	vemos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	_	_	2	advmod	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	vez	vez	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	año	año	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	vemos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	verano	verano	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+8	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	años	año	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	loca	loco	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	extraño	extraño	INTJ	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	comunicamos	comunicar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	bien	bien	ADV	_	_	6	advmod	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+10	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+12	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	vida	vida	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	divertimos	divertir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	y	y	CCONJ	_	_	8	cc	_	_
+5	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	_
+8	términos	término	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	sin	sin	ADP	_	_	11	case	_	_
+11	resentimientos	resentimiento	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	chistes	chiste	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	10	case	_	_
+2	relación	relación	NOUN	_	_	1	fixed	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+5	parte	parte	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+7	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	larga	largo	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	que	que	PRON	_	PronType=Rel	7	obj	_	_
+7	conozco	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	amarla	amar	VERB	_	VerbForm=Inf	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	e	e	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	hacer	hacer	VERB	_	VerbForm=Inf	4	ccomp	_	_
+9	nada	nada	PRON	_	Number=Sing|PronType=Neg	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	seguir	seguir	VERB	_	VerbForm=Inf	8	conj	_	_
+12	divirtiéndonos	divirtiar	VERB	_	VerbForm=Ger	11	xcomp	_	_
+13	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	También	también	ADV	_	_	10	advmod	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	forma	forma	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	que	que	PRON	_	PronType=Rel	7	obl	_	_
+6	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	comunicamos	comunicar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	entendemos	entender	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	seremos	serer	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	al	a	ADP	_	_	3	case	_	_
+5	menos	menos	ADV	_	Degree=Cmp	4	fixed	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

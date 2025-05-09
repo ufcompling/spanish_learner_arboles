@@ -1,0 +1,253 @@
+# Unnamed: 0 = 122
+# id = 150712
+# prompt = yourself
+# quarter = S20
+# course = SPA 2
+# age = 22
+# gender = Female
+# l1 language = English
+# other l1 language(s) = N/a. English is my native language. 
+# language(s) used at home = No.
+# language(s) studied = No.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi nombre es *FIRST_NAME*. Voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* anos. Tengo cinco hermanos y cinco hermanas. Vivo en *CITY*, *STATE*. Mi auyo [esta]{es}<conf:v:seta> rojo. so baito. Tengo ojos marrones. Mi cabello es rizado. juego el baloncesto. Estoy en una hermandad llamada *PLACE* *PLACE* *PLACE*. Me gusta comer tocino para el desayuno. Me gusta comer arenas para el almuerzo. Me gusta comer pollo para la cena. Mi color favorito es el rojo, pero tambien me gusta el purpura. Tengo un perro llamado *FIRST_NAME*. Amo mucho a mi familia. Me gusta nadar. Me gusta pintar. Mi cabello muy corto. Me gusta leer y escribir.Mi especialidad es Comunicacion y Estudios Afroamericanos. Solia gustarme las matematicas, pero ya no. Me encanta viajar. He viajado a Londres, Paris, Italia, Francia, Las Bahamas y Mexico. Cuando viajo, me gusta conocer gente nueva, me gusta ir de compras, me gusta ver altas vistas y entrenamiento. Me gusta hacer roadtrips con mis amigos.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi nombre es *FIRST_NAME*. Voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* anos. Tengo cinco hermanos y cinco hermanas. Vivo en *CITY*, *STATE*. Mi auyo [esta]{es}<conf:v:seta> rojo. [so]{soy}<fs:st:r> [baito]{bajita}<ga:adj>. Tengo []{los}<ab:det:art:def> ojos marrones. Mi cabello es rizado. juego el baloncesto. Estoy en una hermandad llamada *PLACE* *PLACE* *PLACE*. Me gusta comer tocino para el desayuno. Me gusta comer arenas para el almuerzo. Me gusta comer pollo para la cena. Mi color favorito es el rojo, pero tambien me gusta el purpura. Tengo un perro llamado *FIRST_NAME*. Amo mucho a mi familia. Me gusta nadar. Me gusta pintar. Mi cabello muy corto. Me gusta leer y escribir.Mi especialidad es Comunicacion y Estudios Afroamericanos. [Solia]{Solían}<fs:st:pn> gustarme las matematicas, pero ya no. Me encanta viajar. He viajado a Londres, Paris, Italia, Francia, Las Bahamas y Mexico. Cuando viajo, me gusta conocer gente nueva, me gusta ir de compras, me gusta ver altas vistas y entrenamiento. Me gusta hacer roadtrips con mis amigos.
+# verbs annotation ann2 = nan
+# corrected1 = Mi nombre es *FIRST_NAME*. Voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo veintidós años. Tengo cinco hermanos y cinco hermanas. Vivo en *CITY*, California. Mi auto es rojo. Soy bajito. Tengo ojos marrones. Mi cabello es rizado. Juego al baloncesto. Estoy en una hermandad llamada *PLACE* *PLACE* *PLACE*. Me gusta comer tocino para el desayuno. Me gusta comer arenas para el almuerzo. Me gusta comer pollo para la cena. Mi color favorito es el rojo, pero también me gusta el purpura. Tengo un perro llamado *FIRST_NAME*. Amo mucho a mi familia. Me gusta nadar. Me gusta pintar. Mi cabello es muy corto. Me gusta leer y escribir. Mi especialidad es Comunicación y Estudios Afroamericanos. Solían gustarme las matemáticas, pero ya no. Me encanta viajar. He viajado a Londres, París, Italia, Francia, Las Bahamas y México. Cuando viajo, me gusta conocer gente nueva, me gusta ir de compras, me gusta ver altas vistas y hacer entrenamiento. Me gusta hacer roadtrips con mis amigos.
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME*. Voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo *AGE* anos. Tengo cinco hermanos y cinco hermanas. Vivo en *CITY*, *STATE*. Mi auyo esta rojo. so baito. Tengo ojos marrones. Mi cabello es rizado. juego el baloncesto. Estoy en una hermandad llamada *PLACE* *PLACE* *PLACE*. Me gusta comer tocino para el desayuno. Me gusta comer arenas para el almuerzo. Me gusta comer pollo para la cena. Mi color favorito es el rojo, pero tambien me gusta el purpura. Tengo un perro llamado *FIRST_NAME*. Amo mucho a mi familia. Me gusta nadar. Me gusta pintar. Mi cabello muy corto. Me gusta leer y escribir.Mi especialidad es Comunicacion y Estudios Afroamericanos. Solia gustarme las matematicas, pero ya no. Me encanta viajar. He viajado a Londres, Paris, Italia, Francia, Las Bahamas y Mexico. Cuando viajo, me gusta conocer gente nueva, me gusta ir de compras, me gusta ver altas vistas y entrenamiento. Me gusta hacer roadtrips con mis amigos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Voy	ir	AUX	_	_	4	cop	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	Universidad	Universidad	PROPN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	appos	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cinco	cinco	NUM	_	_	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	cinco	cinco	NUM	_	_	6	nummod	_	_
+6	hermanas	hermana	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Vivo	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	*STATE*	STATE	PROPN	_	_	1	appos	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	auyo	auyo	NOUN	_	_	0	ROOT	_	_
+3	esta	este	DET	_	_	4	det	_	_
+4	rojo	rojo	NOUN	_	_	2	nmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	so	so	ADV	_	_	2	advmod	_	_
+2	baito	baito	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	ojos	ojo	NOUN	_	_	3	amod	_	_
+3	marrones	marrón	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cabello	cabello	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	aux	_	_
+4	rizado	rizado	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	juego	jugar	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	baloncesto	baloncesto	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hermandad	hermandad	NOUN	_	_	1	obl	_	_
+5	llamada	llamado	ADJ	_	_	4	amod	_	_
+6	*PLACE*	PLACE	PROPN	_	_	5	obj	_	_
+7	*PLACE*	PLACE	PROPN	_	_	6	flat	_	_
+8	*PLACE*	PLACE	PROPN	_	_	6	flat	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	comer	comer	VERB	_	_	2	csubj	_	_
+4	tocino	tocino	ADJ	_	_	3	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	desayuno	desayuno	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	comer	comer	VERB	_	_	2	csubj	_	_
+4	arenas	arena	NOUN	_	_	3	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	almuerzo	almuerzo	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	comer	comer	VERB	_	_	2	csubj	_	_
+4	pollo	pollo	NOUN	_	_	3	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	cena	cena	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	color	color	NOUN	_	_	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	rojo	rojo	NOUN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	pero	pero	CCONJ	_	_	11	cc	_	_
+9	tambien	tambien	ADV	_	_	11	nsubj	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	gusta	gustar	VERB	_	_	6	conj	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	purpura	purpura	NOUN	_	_	11	nsubj	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	perro	perro	NOUN	_	_	1	obj	_	_
+4	llamado	llamado	ADJ	_	_	3	amod	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	familia	familia	NOUN	_	_	1	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	nadar	nadar	VERB	_	_	2	csubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	pintar	pintar	VERB	_	_	2	csubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cabello	cabello	NOUN	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	corto	corto	ADJ	_	_	2	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	leer	leer	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	escribir	escribir	VERB	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialidad	especialidad	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	Comunicacion	Comunicacion	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Estudios	Estudios	PROPN	_	_	4	conj	_	_
+7	Afroamericanos	Afroamericanos	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Solia	Solia	PROPN	_	_	2	nsubj	_	_
+2	gustarme	gustarmar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	matematicas	matematica	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	ya	ya	ADV	_	_	8	advmod	_	_
+8	no	no	ADV	_	_	2	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	csubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	He	haber	AUX	_	_	2	aux	_	_
+2	viajado	viajar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Londres	Londres	PROPN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Paris	Paris	PROPN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Italia	Italia	PROPN	_	_	4	conj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Francia	Francia	PROPN	_	_	4	conj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	Las	el	DET	_	_	13	det	_	_
+13	Bahamas	Bahamas	PROPN	_	_	4	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	Mexico	Mexico	PROPN	_	_	4	conj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	viajo	viajar	VERB	_	_	5	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	11	advcl	_	_
+6	conocer	conocer	VERB	_	_	5	csubj	_	_
+7	gente	gente	NOUN	_	_	6	obj	_	_
+8	nueva	nuevo	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	gusta	gustar	VERB	_	_	0	ROOT	_	_
+12	ir	ir	VERB	_	_	11	csubj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	compras	compra	NOUN	_	_	12	obl	_	_
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	me	yo	PRON	_	_	17	iobj	_	_
+17	gusta	gustar	VERB	_	_	11	advcl	_	_
+18	ver	ver	VERB	_	_	17	csubj	_	_
+19	altas	alto	ADJ	_	_	20	amod	_	_
+20	vistas	vista	NOUN	_	_	18	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	entrenamiento	entrenamiento	NOUN	_	_	20	conj	_	_
+23	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	hacer	hacer	VERB	_	_	2	csubj	_	_
+4	roadtrips	roadtrip	ADJ	_	_	3	obj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	amigos	amigo	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+

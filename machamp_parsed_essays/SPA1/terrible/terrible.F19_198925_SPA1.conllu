@@ -1,0 +1,224 @@
+# Unnamed: 0 = 151
+# id = 198925
+# prompt = terrible
+# quarter = F19
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = I have only studied English and Spanish, and do not know other languages.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = ¡Una cosa terrible ocurrió! Conduje a mi casa el fin de semana del Día de los Veteranos. Vivo en *CITY*, entonces fue un viaje muy larga. Había cinco personas en mi carro, pero mi carro es muy pequeño. No tenía espacio mucho para poner mis mochilas y las mochilas de los pasajeros. Fue un viaje en coche muy incómoda. También, olía a pedo porque había dos chichos en mi carro. ¡Qué bruto! En el viaje en coche de regresa, no sabia que uno de los pasajeros necesitaba a viajar conmigo, entonces yo le di el asiento a otro. Pero, con una hora hasta el viaje, ¡me envió un mensaje preguntándome a dónde recogerlo! Estaba muy estresada porque necesitaba buscar para una vuelta para él. Fui a Facebook y envía muchos mensajes a las personas que fueran a manejar a *CITY*. Por suerte, encontré una persona que podría manejar con él. ¡Nunca quiero volver a hacer eso!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	5	punct	_	_
+2	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	terrible	terrible	ADJ	_	Number=Sing	3	amod	_	_
+5	ocurrió	ocurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+
+1	Conduje	condujir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	fin	fin	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	semana	semana	NOUN	_	_	6	compound	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	Día	Día	PROPN	_	_	6	nmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Veteranos	Veteranos	PROPN	_	_	10	flat	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	entonces	entonces	ADV	_	_	8	advmod	_	_
+6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	larga	largo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	carro	carro	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+8	pero	pero	CCONJ	_	_	13	cc	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	carro	carro	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	espacio	espacio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	mucho	mucho	ADV	_	_	2	advmod	_	_
+5	para	para	ADP	_	_	6	mark	_	_
+6	poner	poner	VERB	_	VerbForm=Inf	2	advcl	_	_
+7	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	mochilas	mochila	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	mochilas	mochila	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	pasajeros	pasajero	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	coche	coche	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	incómoda	incómodo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	olía	oliar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	3	advmod	_	_
+5	pedo	pedo	NOUN	_	_	4	fixed	_	_
+6	porque	porque	SCONJ	_	_	7	mark	_	_
+7	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	chichos	chicho	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	carro	carro	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	Qué	qué	PRON	_	PronType=Int	3	nmod	_	_
+3	bruto	bruto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	coche	coche	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	regresa	regresa	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	sabia	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	que	que	SCONJ	_	_	16	mark	_	_
+12	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	pasajeros	pasajero	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+16	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+17	a	a	ADP	_	_	18	mark	_	_
+18	viajar	viajar	VERB	_	VerbForm=Inf	16	xcomp	_	_
+19	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	18	obl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+21	entonces	entonces	ADV	_	_	10	advmod	_	_
+22	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+23	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	advcl	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	asiento	asiento	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+27	a	a	ADP	_	_	28	case	_	_
+28	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	24	obl	_	_
+29	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	12	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	hora	hora	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+6	hasta	hasta	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+10	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	12	punct	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	envió	enviar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mensaje	mensaje	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	preguntándome	preguntar	VERB	_	VerbForm=Ger	12	advcl	_	_
+16	a	a	ADP	_	_	17	case	_	_
+17	dónde	dónde	ADV	_	PronType=Int	18	advmod	_	_
+18	recogerlo	recoger	VERB	_	VerbForm=Inf	15	xcomp	_	_
+19	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	12	punct	_	_
+
+1	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	estresada	estresado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	porque	porque	SCONJ	_	_	5	mark	_	_
+5	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+6	buscar	buscar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	vuelta	vuelta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	Facebook	Facebook	PROPN	_	_	1	obl	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	envía	envíir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+7	mensajes	mensaje	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	personas	persona	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+12	fueran	ir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	acl	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	manejar	manejar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	*CITY*	*city*	PROPN	_	_	12	mark	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	encontré	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	persona	persona	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+8	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
+9	manejar	manejar	VERB	_	VerbForm=Inf	6	acl	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	Nunca	nunca	ADV	_	_	3	advmod	_	_
+3	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	volver	volver	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	hacer	hacer	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	obj	_	_
+8	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+

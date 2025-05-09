@@ -1,0 +1,204 @@
+# Unnamed: 0 = 80
+# id = 177203
+# prompt = vacation
+# quarter = F17
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = chinese
+# language(s) used at home = Chinese
+# language(s) studied = English-10years
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Durante las vacaciones, siempre estoy muy libre. Me levanto a las 8 de la manana, o mas tarde. Como no hay clase, no hay prisa. puedo hacer lo que quiero en casa. Despues de desayunar. Me gusta leer un poco o escuchar la musica, ver una pelicula. Y por la tarde, tengo que estudiar, generalmente, estudio mas o menos dos horas, y luego tomar un vaso de te, me encanta el te, es una bebida muy saludable.Suelo ir a pasear despues de cenar, a veces con mis padres, a veces no.Cuando hace buen tiempo, mis amigos y yo nos reunimos para jugar, charlar, hacer compras, parece que el tiempo pasa volando.
+Creo que esto es la vida de mis vacaciones. tal vez es un poco aburrido. pero es especial para mi.
+# a personal annotator2 = Durante las vacaciones, siempre estoy muy libre. Me levanto a las 8 de la manana, o mas tarde. Como no hay clase, no hay prisa. puedo hacer lo que quiero en casa. Despues de desayunar. Me gusta leer un poco o escuchar la musica, ver una pelicula. Y por la tarde, tengo que estudiar, generalmente, estudio mas o menos dos horas, y luego tomar un vaso de te, me encanta el te, es una bebida muy saludable.Suelo ir a pasear despues de cenar, a veces con mis padres, a veces no.Cuando hace buen tiempo, mis amigos y yo nos reunimos para jugar, charlar, hacer compras, parece que el tiempo pasa volando.
+Creo que esto es la vida de mis vacaciones. tal vez es un poco aburrido. pero es especial para mi.
+# gender-number annotator1 = Durante las vacaciones, siempre estoy muy libre. Me levanto a las 8 de la manana, o mas tarde. Como no hay clase, no hay prisa. puedo hacer lo que quiero en casa. Despues de desayunar. Me gusta leer un poco o escuchar la musica, ver una pelicula. Y por la tarde, tengo que estudiar, generalmente, estudio mas o menos dos horas, y luego tomar un vaso de te, me encanta el te, es una bebida muy saludable.Suelo ir a pasear despues de cenar, a veces con mis padres, a veces no.Cuando hace buen tiempo, mis amigos y yo nos reunimos para jugar, charlar, hacer compras, parece que el tiempo pasa volando.
+Creo que esto es la vida de mis vacaciones. tal vez es un poco aburrido. pero es especial para mi.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Durante las vacaciones, siempre estoy muy libre. Me levanto a las 8 de la manana, o mas tarde. Como no hay clase, no hay prisa. puedo hacer lo que quiero en casa. Despues de desayunar. Me gusta leer un poco o escuchar la musica, ver una pelicula. Y por la tarde, tengo que estudiar, generalmente, estudio mas o menos dos horas, y luego tomar un vaso de te, me encanta el te, es una bebida muy saludable.Suelo ir a pasear despues de cenar, a veces con mis padres, a veces no.Cuando hace buen tiempo, mis amigos y yo nos reunimos para jugar, charlar, hacer compras, parece que el tiempo pasa volando. Creo que esto es la vida de mis vacaciones. tal vez es un poco aburrido. pero es especial para mi.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	siempre	siempre	ADV	_	_	8	advmod	_	_
+6	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	libre	libre	ADJ	_	Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	levanto	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	8	8	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	manana	manana	NOUN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	o	o	CCONJ	_	_	12	cc	_	_
+11	mas	mas	ADV	_	_	12	advmod	_	_
+12	tarde	tarde	ADV	_	_	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Como	como	SCONJ	_	_	3	mark	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	clase	clase	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	prisa	prisa	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+3	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Despues	despues	ADV	_	_	0	root	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	desayunar	desayunar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	poco	poco	ADV	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	3	obl	_	_
+6	o	o	CCONJ	_	_	7	cc	_	_
+7	escuchar	escuchar	VERB	_	VerbForm=Inf	3	conj	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	musica	musica	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+11	ver	ver	VERB	_	VerbForm=Inf	3	advcl	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	pelicula	pelicula	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	que	que	SCONJ	_	_	8	cc	_	_
+8	estudiar	estudiar	VERB	_	VerbForm=Inf	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	generalmente	generalmente	ADV	_	_	8	advmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+13	mas	mas	ADV	_	_	17	advmod	_	_
+14	o	o	CCONJ	_	_	16	cc	_	_
+15	menos	menos	ADV	_	Degree=Cmp	13	conj	_	_
+16	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
+17	horas	hora	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+18	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+19	y	y	CCONJ	_	_	28	cc	_	_
+20	luego	luego	ADV	_	_	21	advmod	_	_
+21	tomar	tomar	VERB	_	VerbForm=Inf	28	advcl	_	_
+22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	vaso	vaso	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	21	obl	_	_
+26	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+27	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	obl	_	_
+28	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	28	nsubj	_	_
+31	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+32	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	_
+33	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	bebida	bebida	NOUN	_	Gender=Fem|Number=Sing	28	advcl	_	_
+35	muy	mucho	ADV	_	_	36	advmod	_	_
+36	saludable	saludable	ADJ	_	Number=Sing	34	amod	_	_
+37	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Suelo	solor	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ir	ir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	pasear	pasear	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	despues	despues	NOUN	_	_	7	mark	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	cenar	cenar	VERB	_	VerbForm=Inf	4	advcl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	a	a	ADP	_	_	7	advmod	_	_
+10	veces	veces	NOUN	_	_	9	fixed	_	_
+11	con	con	ADP	_	_	9	case	_	_
+12	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	padres	padre	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+15	a	a	ADP	_	_	17	advmod	_	_
+16	veces	veces	NOUN	_	_	15	fixed	_	_
+17	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+3	buen	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	conj	_	_
+10	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	reunimos	reunir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	csubj	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	jugar	jugar	VERB	_	VerbForm=Inf	11	advcl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	charlar	charlar	VERB	_	VerbForm=Inf	13	advcl	_	_
+16	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+17	hacer	hacer	VERB	_	VerbForm=Inf	13	advcl	_	_
+18	compras	compra	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+20	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	que	que	SCONJ	_	_	24	mark	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
+24	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	ccomp	_	_
+25	volando	volar	VERB	_	VerbForm=Ger	24	xcomp	_	_
+26	.	.	PUNCT	_	PunctType=Peri	20	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	esto	este	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	tal	tal	NOUN	_	_	6	advmod	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+5	poco	poco	ADV	_	_	4	fixed	_	_
+6	aburrido	aburrido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	pero	pero	CCONJ	_	_	3	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

@@ -1,0 +1,320 @@
+# Unnamed: 0 = 75
+# id = 230771
+# prompt = special
+# quarter = F19
+# course = SPA 24
+# age = 17 years old
+# gender = Male
+# l1 language = English
+# other l1 language(s) = English
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo naci trece meses despues de mi hermana mayor, *FIRST_NAME*. Por eso, siempre hemos asistido la misma escuela, participado en las mismas deportes, y tocando los mismos instrumentos. Creciendo con una hermana tan cerca en edad les convierte en amigos muy cercanos. Siempre hemos hablado de nuestros clases, equipos de futbol, y varias otras cosas que nos interesa. *FIRST_NAME* es muy trabajadora, y siempre me ayuda con la tarea o con aplicaciones de trabajo. Aunque de ninos siempre luchabamos, ahora nos convirtiemos en buenos amigos. El ano pasado, *FIRST_NAME* mudo a *CITY* de *CITY*, y por la primera vez me quede solo en casa con mis padres y sin ella en el colegio. Me parecio muy extrano no tener alguien con quien hablar de mi dia que conocio las clases y la escuela de que estaba hablando. Ahora, ella esta en su segundo ano de la universidad en la universidad de *UNIVERSITY*. Todavia es un poco raro no vivir con ella, porque ella ha sido una gran influencia en mi vida. A pesar de que vivimos muy lejos, me parece que los dos estamos en una situacion mejor que cuando viviamos en casa. Ella tiene demasiadas oportunidades en *CITY*. Todavia esta jugando futbol, a pesar de que ha roto so hombro varias veces. Tambien viene al caso que juege en al equipo de futbol de club de la universidad. Yo juego en el mismo equipo en *UNIVERSITY*, y nos vamos a reunir en un torneo en *UNIVERSITY*.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	naci	naci	VERB	_	_	0	ROOT	_	_
+3	trece	trece	NUM	_	_	4	nummod	_	_
+4	meses	mes	NOUN	_	_	2	obl	_	_
+5	despues	despu	NOUN	_	_	2	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	hermana	hermana	NOUN	_	_	2	obl	_	_
+9	mayor	mayor	ADJ	_	_	8	amod	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	advmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	eso	ese	PRON	_	_	6	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	hemos	haber	AUX	_	_	6	aux	_	_
+6	asistido	asistir	VERB	_	_	0	ROOT	_	_
+7	la	el	DET	_	_	9	det	_	_
+8	misma	mismo	DET	_	_	7	det	_	_
+9	escuela	escuela	NOUN	_	_	6	nsubj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	participado	participado	ADJ	_	_	9	amod	_	_
+12	en	en	ADP	_	_	15	case	_	_
+13	las	el	DET	_	_	15	det	_	_
+14	mismas	mismo	DET	_	_	13	det	_	_
+15	deportes	deporte	NOUN	_	_	11	obl	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	tocando	tocar	VERB	_	_	6	conj	_	_
+19	los	el	DET	_	_	21	det	_	_
+20	mismos	mismo	DET	_	_	19	det	_	_
+21	instrumentos	instrumento	NOUN	_	_	18	obj	_	_
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Creciendo	crecer	VERB	_	_	0	ROOT	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	hermana	hermana	NOUN	_	_	1	obl	_	_
+5	tan	tanto	ADV	_	_	6	advmod	_	_
+6	cerca	cerca	ADV	_	_	10	advmod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	edad	edad	NOUN	_	_	6	obl	_	_
+9	les	él	PRON	_	_	10	obj	_	_
+10	convierte	convertir	VERB	_	_	1	advcl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	amigos	amigo	NOUN	_	_	10	obj	_	_
+13	muy	mucho	ADV	_	_	14	advmod	_	_
+14	cercanos	cercano	ADJ	_	_	12	amod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	3	advmod	_	_
+2	hemos	haber	AUX	_	_	3	aux	_	_
+3	hablado	hablar	VERB	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	nuestros	nuestro	DET	_	_	6	det	_	_
+6	clases	clase	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	equipos	equipo	NOUN	_	_	6	appos	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	futbol	futbol	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	varias	varios	DET	_	_	15	det	_	_
+14	otras	otro	DET	_	_	13	det	_	_
+15	cosas	cosa	NOUN	_	_	3	conj	_	_
+16	que	que	PRON	_	_	18	nsubj	_	_
+17	nos	yo	PRON	_	_	18	iobj	_	_
+18	interesa	interesar	VERB	_	_	15	acl	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	trabajadora	trabajador	ADJ	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	siempre	siempre	ADV	_	_	9	advmod	_	_
+8	me	yo	PRON	_	_	9	obj	_	_
+9	ayuda	ayudar	VERB	_	_	4	conj	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	tarea	tarea	NOUN	_	_	9	obl	_	_
+13	o	o	CCONJ	_	_	15	cc	_	_
+14	con	con	ADP	_	_	15	case	_	_
+15	aplicaciones	aplicación	NOUN	_	_	12	conj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	trabajo	trabajo	NOUN	_	_	15	nmod	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	5	mark	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	ninos	nino	NOUN	_	_	5	obj	_	_
+4	siempre	siempre	ADV	_	_	5	advmod	_	_
+5	luchabamos	luchabar	VERB	_	_	9	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ahora	ahora	ADV	_	_	9	advmod	_	_
+8	nos	yo	PRON	_	_	9	obj	_	_
+9	convirtiemos	convirtier	VERB	_	_	0	ROOT	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	buenos	buen	ADJ	_	_	12	amod	_	_
+12	amigos	amigo	NOUN	_	_	9	obj	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	ano	ano	NOUN	_	_	0	ROOT	_	_
+3	pasado	pasado	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	advmod	_	_
+6	mudo	mudo	ADJ	_	_	2	amod	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	flat	_	_
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	y	y	CCONJ	_	_	18	cc	_	_
+13	por	por	ADP	_	_	16	case	_	_
+14	la	el	DET	_	_	16	det	_	_
+15	primera	primero	ADJ	_	_	16	amod	_	_
+16	vez	vez	NOUN	_	_	18	obl	_	_
+17	me	yo	PRON	_	_	18	obj	_	_
+18	quede	quedar	VERB	_	_	6	conj	_	_
+19	solo	solo	ADV	_	_	18	obj	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	casa	casa	NOUN	_	_	18	obl	_	_
+22	con	con	ADP	_	_	24	case	_	_
+23	mis	mi	DET	_	_	24	det	_	_
+24	padres	padre	NOUN	_	_	18	obl	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	sin	sin	ADP	_	_	27	case	_	_
+27	ella	él	PRON	_	_	24	conj	_	_
+28	en	en	ADP	_	_	30	case	_	_
+29	el	el	DET	_	_	30	det	_	_
+30	colegio	colegio	NOUN	_	_	18	obl	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	parecio	parecer	VERB	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	extrano	extrano	ADJ	_	_	2	obj	_	_
+5	no	no	ADV	_	_	6	advmod	_	_
+6	tener	tener	VERB	_	_	2	csubj	_	_
+7	alguien	alguien	PRON	_	_	6	obj	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	quien	quien	PRON	_	_	10	obj	_	_
+10	hablar	hablar	VERB	_	_	7	acl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	dia	dia	ADP	_	_	10	obj	_	_
+14	que	que	PRON	_	_	15	nsubj	_	_
+15	conocio	conocio	VERB	_	_	13	acl	_	_
+16	las	el	DET	_	_	17	det	_	_
+17	clases	clase	NOUN	_	_	15	nsubj	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	escuela	escuela	NOUN	_	_	17	conj	_	_
+21	de	de	ADP	_	_	24	mark	_	_
+22	que	que	SCONJ	_	_	24	mark	_	_
+23	estaba	estar	AUX	_	_	24	aux	_	_
+24	hablando	hablar	VERB	_	_	20	acl	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ella	él	PRON	_	_	0	ROOT	_	_
+4	esta	este	DET	_	_	3	det	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	su	su	DET	_	_	8	det	_	_
+7	segundo	segundo	ADJ	_	_	8	amod	_	_
+8	ano	ano	NOUN	_	_	3	nmod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	universidad	universidad	PROPN	_	_	8	nmod	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	_	14	det	_	_
+14	universidad	universidad	NOUN	_	_	8	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Todavia	Todavia	PROPN	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	un	uno	DET	_	_	5	advmod	_	_
+4	poco	poco	ADV	_	_	3	fixed	_	_
+5	raro	raro	ADJ	_	_	0	ROOT	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	vivir	vivir	VERB	_	_	5	xcomp	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	ella	él	PRON	_	_	7	obl	_	_
+10	,	,	PUNCT	_	_	17	punct	_	_
+11	porque	porque	SCONJ	_	_	17	mark	_	_
+12	ella	él	PRON	_	_	17	nsubj	_	_
+13	ha	haber	AUX	_	_	17	aux	_	_
+14	sido	ser	AUX	_	_	17	cop	_	_
+15	una	uno	DET	_	_	17	det	_	_
+16	gran	gran	ADJ	_	_	17	amod	_	_
+17	influencia	influencia	NOUN	_	_	5	advcl	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	mi	mi	DET	_	_	20	det	_	_
+20	vida	vida	NOUN	_	_	17	nmod	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	5	mark	_	_
+2	pesar	pesar	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
+5	vivimos	vivir	VERB	_	_	10	advcl	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	lejos	lejos	ADV	_	_	5	advmod	_	_
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	me	yo	PRON	_	_	10	iobj	_	_
+10	parece	parecer	VERB	_	_	0	ROOT	_	_
+11	que	que	SCONJ	_	_	17	mark	_	_
+12	los	el	DET	_	_	13	det	_	_
+13	dos	dos	NUM	_	_	17	nsubj	_	_
+14	estamos	estar	AUX	_	_	17	cop	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	una	uno	DET	_	_	17	det	_	_
+17	situacion	situacion	NOUN	_	_	10	csubj	_	_
+18	mejor	mejor	ADJ	_	_	17	amod	_	_
+19	que	que	SCONJ	_	_	21	mark	_	_
+20	cuando	cuando	SCONJ	_	_	21	mark	_	_
+21	viviamos	vivir	VERB	_	_	17	acl	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	casa	casa	NOUN	_	_	21	obl	_	_
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	demasiadas	demasiado	DET	_	_	4	det	_	_
+4	oportunidades	oportunidad	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*CITY*	CITY	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Todavia	Todavia	PROPN	_	_	0	ROOT	_	_
+2	esta	este	DET	_	_	3	det	_	_
+3	jugando	jugar	VERB	_	_	1	appos	_	_
+4	futbol	futbol	NOUN	_	_	3	nmod	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	a	a	ADP	_	_	11	mark	_	_
+7	pesar	pesar	NOUN	_	_	6	fixed	_	_
+8	de	de	ADP	_	_	6	fixed	_	_
+9	que	que	SCONJ	_	_	6	fixed	_	_
+10	ha	haber	AUX	_	_	11	aux	_	_
+11	roto	romper	VERB	_	_	1	advcl	_	_
+12	so	so	ADV	_	_	13	advmod	_	_
+13	hombro	hombro	NOUN	_	_	11	obj	_	_
+14	varias	varios	DET	_	_	15	det	_	_
+15	veces	vez	NOUN	_	_	11	obl	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	2	nsubj	_	_
+2	viene	venir	VERB	_	_	0	ROOT	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	caso	caso	NOUN	_	_	2	obl	_	_
+5	que	que	PRON	_	_	6	nsubj	_	_
+6	juege	juegir	VERB	_	_	4	acl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	al	al	DET	_	_	9	det	_	_
+9	equipo	equipo	NOUN	_	_	6	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	futbol	futbol	NOUN	_	_	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	club	club	NOUN	_	_	11	nmod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	la	el	DET	_	_	16	det	_	_
+16	universidad	universidad	NOUN	_	_	9	nmod	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	juego	jugar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	el	el	DET	_	_	6	det	_	_
+5	mismo	mismo	DET	_	_	4	det	_	_
+6	equipo	equipo	NOUN	_	_	2	obl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	2	obl	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	nos	yo	PRON	_	_	14	iobj	_	_
+12	vamos	ir	AUX	_	_	14	aux	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	reunir	reunir	VERB	_	_	2	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	_	17	det	_	_
+17	torneo	torneo	NOUN	_	_	14	obl	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	14	obl	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+

@@ -1,0 +1,214 @@
+# Unnamed: 0 = 1
+# id = 229874
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una hermosa historia es de la verano. Cuando hace bien tiempo, me gusta caminar en [la]{el}<ga:det> parque con mi familia y [todos]{todas}<gat:det> [los]{las}<gat:det> flores son muy bonitas. Mis flores favoritas son []{las}<ab:det:art:def> rosas, especialamente cuando las rosas son colores differentes como azules, rosados, y moradas. En mi camina, me gusta ver [los]{las}<ga:det> mariposas y [los]{las}<ga:det> aves porque [ellos]{}<pr:su:pron> tienen [bonitas colores]{colores bonitos}<col:adj><ga:adj> tambien. Me gusta el verano mas del invierno, porque el cielo es azul en lugar de gris. El verano es muy [bonita]{bonito}<ga:adj> porque no hace mal tiempo o lluvia y viento tambien. En [el]{}<pr:det:art:def> verano todos los colores son mas brilliante. Por ejemplo, me gusta ir afuera cuando el cesped es mas verde, [los]{las}<gat:det> nubes mas [blancos]{blancas}<gat:adj>, y el sol es mas amarillo. [Los]{Las}<ga:det> noches de [la]{}<pr:det:art:def><ga:det> verano son muy bonitas tambien. En la noche, mi familia les gustan ver [los]{las}<ga:det> estrallas porque el tiempo no hace frio, y es mas frio en [la]{}<pr:det:art:def><ga:det> invierno.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Una hermosa historia es [de la]{del}<ga:det> verano. Cuando hace bien tiempo, me gusta caminar en [la]{el}<ga:det> parque con mi familia y todos [los]{las}<ga:det> flores son muy bonitas. Mis flores favoritas son []{las}<ab:det:art:def> rosas, especialamente cuando las rosas son colores differentes como azules, rosados, y [moradas]{morados}<gat:noun>. En mi [camina]{camino}<gat:noun>, me gusta ver [los]{}<pr:det:art:def><ga:det> mariposas y [los]{}<pr:det:art:def><ga:det> aves porque [ellos]{}<pr:su:pron><ga:pron> tienen [bonitas]{bonitos}<ga:adj> colores tambien. Me gusta el verano mas del invierno, porque el cielo es azul en lugar de gris. El verano es muy [bonita]{bonito}<ga:adj> porque no hace mal tiempo o lluvia y viento tambien. En el verano todos los colores son mas [brilliante]{brillantes}<na:adj>. Por ejemplo, me gusta ir afuera cuando el cesped es mas verde, [los]{las}<gat:det> [nubes]{nubes}<gat:noun> mas [blancos]{blancas}<gat:adj>, y el sol es mas amarillo. Los noches [de la]{del}<ga:det> verano son muy bonitas tambien. En la noche, mi familia les [gustan]{gusta}<fs:st:pn> ver [los]{las}<ga:det> estrallas porque el tiempo no hace frio, y es mas frio en [la]{el}<ga:det> invierno.
+# verbs annotation ann2 = nan
+# corrected1 = Una hermosa historia es la de verano. Cuando hace buen tiempo, me gusta caminar en el parque con mi familia y todas las flores son muy bonitas. Mis flores favoritas son las rosas, especialmente cuando las rosas son de colores diferentes como azules, rosados, y moradas. En mi camino, me gusta ver las mariposas y las aves porque tienen colores bonitos también. Me gusta el verano más que el invierno, porque el cielo es azul en lugar de gris. El verano es muy bonito porque no hace mal tiempo o lluvia ni viento tampoco. En verano todos los colores son más brillantes. Por ejemplo, me gusta ir afuera cuando el césped es más verde, las nubes más blancas, y el sol es más amarillo. Las noches de verano son muy bonitas también. Por la noche, a mi familia le gusta ver las estrellas porque no hace frío, y es más frío en invierno.
+# corrected2 = nan
+# text = Una hermosa historia es de la verano. Cuando hace bien tiempo, me gusta caminar en la parque con mi familia y todos los flores son muy bonitas. Mis flores favoritas son rosas, especialamente cuando las rosas son colores differentes como azules, rosados, y moradas. En mi camina, me gusta ver los mariposas y los aves porque ellos tienen bonitas colores tambien. Me gusta el verano mas del invierno, porque el cielo es azul en lugar de gris. El verano es muy bonita porque no hace mal tiempo o lluvia y viento tambien. En el verano todos los colores son mas brilliante. Por ejemplo, me gusta ir afuera cuando el cesped es mas verde, los nubes mas blancos, y el sol es mas amarillo. Los noches de la verano son muy bonitas tambien. En la noche, mi familia les gustan ver los estrallas porque el tiempo no hace frio, y es mas frio en la invierno.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	3	det	_	_
+2	hermosa	hermoso	ADJ	_	_	3	amod	_	_
+3	historia	historia	NOUN	_	_	7	nsubj	_	_
+4	es	ser	AUX	_	_	7	cop	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	verano	verano	NOUN	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	hace	hacer	VERB	_	_	7	advcl	_	_
+3	bien	bien	ADV	_	_	4	advmod	_	_
+4	tiempo	tiempo	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	gusta	gustar	VERB	_	_	0	ROOT	_	_
+8	caminar	caminar	VERB	_	_	7	csubj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	parque	parque	NOUN	_	_	8	obl	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	familia	familia	NOUN	_	_	8	obl	_	_
+15	y	y	CCONJ	_	_	21	cc	_	_
+16	todos	todo	DET	_	_	17	det	_	_
+17	los	el	DET	_	_	18	det	_	_
+18	flores	flores	PROPN	_	_	21	nsubj	_	_
+19	son	ser	AUX	_	_	21	cop	_	_
+20	muy	mucho	ADV	_	_	21	advmod	_	_
+21	bonitas	bonito	ADJ	_	_	8	conj	_	_
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	flores	flor	NOUN	_	_	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	rosas	rosa	ADJ	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	especialamente	especialamente	ADV	_	_	12	advmod	_	_
+8	cuando	cuando	SCONJ	_	_	12	mark	_	_
+9	las	el	DET	_	_	10	det	_	_
+10	rosas	rosa	NOUN	_	_	12	nsubj	_	_
+11	son	ser	AUX	_	_	12	cop	_	_
+12	colores	color	NOUN	_	_	5	advcl	_	_
+13	differentes	different	ADJ	_	_	12	amod	_	_
+14	como	como	SCONJ	_	_	15	mark	_	_
+15	azules	azul	NOUN	_	_	12	nmod	_	_
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	rosados	rosado	ADJ	_	_	15	amod	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	moradas	morada	ADJ	_	_	15	conj	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	camina	camina	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	gusta	gustar	VERB	_	_	0	ROOT	_	_
+7	ver	ver	VERB	_	_	6	csubj	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	mariposas	mariposa	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	aves	ave	NOUN	_	_	9	conj	_	_
+13	porque	porque	SCONJ	_	_	15	mark	_	_
+14	ellos	él	PRON	_	_	15	nsubj	_	_
+15	tienen	tener	VERB	_	_	6	advcl	_	_
+16	bonitas	bonita	NOUN	_	_	15	obj	_	_
+17	colores	color	NOUN	_	_	16	amod	_	_
+18	tambien	tambien	ADJ	_	_	16	amod	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	verano	verano	NOUN	_	_	2	nsubj	_	_
+5	mas	mas	ADV	_	_	4	amod	_	_
+6	del	del	ADP	_	_	7	case	_	_
+7	invierno	invierno	NOUN	_	_	4	nmod	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	porque	porque	SCONJ	_	_	13	mark	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	cielo	cielo	NOUN	_	_	13	nsubj	_	_
+12	es	ser	AUX	_	_	13	cop	_	_
+13	azul	azul	ADJ	_	_	2	advcl	_	_
+14	en	en	ADP	_	_	17	case	_	_
+15	lugar	lugar	NOUN	_	_	14	fixed	_	_
+16	de	de	ADP	_	_	14	fixed	_	_
+17	gris	gris	NOUN	_	_	13	nmod	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	verano	verano	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	_	0	ROOT	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	hace	hacer	VERB	_	_	5	advcl	_	_
+9	mal	mal	ADJ	_	_	10	amod	_	_
+10	tiempo	tiempo	NOUN	_	_	8	obj	_	_
+11	o	o	CCONJ	_	_	12	cc	_	_
+12	lluvia	lluvia	NOUN	_	_	10	conj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	viento	viento	NOUN	_	_	10	conj	_	_
+15	tambien	tambien	ADJ	_	_	10	amod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	verano	verano	NOUN	_	_	9	obl	_	_
+4	todos	todo	DET	_	_	5	det	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	colores	color	NOUN	_	_	9	nsubj	_	_
+7	son	ser	AUX	_	_	9	cop	_	_
+8	mas	mas	ADV	_	_	9	advmod	_	_
+9	brilliante	brilliante	ADJ	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Por	por	ADP	_	_	5	advmod	_	_
+2	ejemplo	ejemplo	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	me	yo	PRON	_	_	5	iobj	_	_
+5	gusta	gustar	VERB	_	_	0	ROOT	_	_
+6	ir	ir	VERB	_	_	5	csubj	_	_
+7	afuera	afuerar	VERB	_	_	5	csubj	_	_
+8	cuando	cuando	SCONJ	_	_	13	mark	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	cesped	cesped	NOUN	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	mas	mas	ADV	_	_	13	advmod	_	_
+13	verde	verde	ADJ	_	_	7	ccomp	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	los	el	DET	_	_	16	det	_	_
+16	nubes	nube	NOUN	_	_	13	obj	_	_
+17	mas	mas	ADV	_	_	18	advmod	_	_
+18	blancos	blanco	ADJ	_	_	16	amod	_	_
+19	,	,	PUNCT	_	_	16	punct	_	_
+20	y	y	CCONJ	_	_	25	cc	_	_
+21	el	el	DET	_	_	22	det	_	_
+22	sol	sol	NOUN	_	_	25	nsubj	_	_
+23	es	ser	AUX	_	_	25	cop	_	_
+24	mas	mas	ADV	_	_	25	advmod	_	_
+25	amarillo	amarillo	ADJ	_	_	13	conj	_	_
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	noches	noche	NOUN	_	_	8	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	verano	verano	NOUN	_	_	2	nmod	_	_
+6	son	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bonitas	bonito	ADJ	_	_	0	ROOT	_	_
+9	tambien	tambien	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	noche	noche	NOUN	_	_	8	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	8	nsubj	_	_
+7	les	él	PRON	_	_	8	iobj	_	_
+8	gustan	gustar	VERB	_	_	0	ROOT	_	_
+9	ver	ver	VERB	_	_	8	xcomp	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	estrallas	estralla	NOUN	_	_	9	obj	_	_
+12	porque	porque	SCONJ	_	_	16	mark	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	tiempo	tiempo	NOUN	_	_	16	nsubj	_	_
+15	no	no	ADV	_	_	16	advmod	_	_
+16	hace	hacer	VERB	_	_	9	advcl	_	_
+17	frio	frio	NOUN	_	_	16	obj	_	_
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	y	y	CCONJ	_	_	22	cc	_	_
+20	es	ser	AUX	_	_	22	cop	_	_
+21	mas	mas	ADV	_	_	22	advmod	_	_
+22	frio	frio	ADJ	_	_	16	conj	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	la	el	DET	_	_	25	det	_	_
+25	invierno	invierno	NOUN	_	_	22	nmod	_	_
+26	.	.	PUNCT	_	_	8	punct	_	_
+

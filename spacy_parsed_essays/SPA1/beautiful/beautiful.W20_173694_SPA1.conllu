@@ -1,0 +1,248 @@
+# Unnamed: 0 = 31
+# id = 173694
+# prompt = beautiful
+# quarter = W20
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = English,Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Son las dos y media de la mañana y *FIRST_NAME* [es]{está}<conf:v:seta> muy triste y tiene hambre. Ella no puede dormir y no puede comer. [Ella]{}<pr:su:pron> tiene un día importante mañana y está muy [nervioso]{nerviosa}<ga:adj>. *FIRST_NAME* decide leer un libro. En el libro hay un chico y su perro. Su perro es muy amable y grande. El chico tiene *AGE* años y es muy gracioso y no es timido. Ellos viven en una comunidad rural. En el libro, el chico y su perro voy a caminar en el parque pero [ellos]{}<pr:su:pron> se perdieron. [Ellos]{}<pr:su:pron> no regresen a casa para la cena. Sus padres están muy [preocupado]{preocupados}<na:adj>. Ellos no regresen a casa mañana o el dia despues. La policía no puede buscar también. Muchos años despues, una chica y su hermano buscan los huesos del chico y su perro. Los huesos [son]{están}<conf:v:seta> cerca del lago. El lago lejos de la casa de chico. Nadie sabe lo que pasó. Despues lee este libro, *FIRST_NAME* decide sus problemas son pequeños en comparación con los del chico y su perro. Ella duerme muy bien.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Son las dos y media de la mañana y *FIRST_NAME* [es]{está}<conf:v:seta> muy triste y tiene hambre. [Ella]{}<pr:su:pron> no puede dormir y no puede comer. [Ella]{}<pr:su:pron> tiene un día importante mañana y está muy [nervioso]{nerviosa}<ga:adj>. *FIRST_NAME* decide leer un libro. En el libro hay un chico y su perro. Su perro es muy amable y grande. El chico tiene *AGE* años y es muy gracioso y no es timido. Ellos viven en una comunidad rural. En el libro, el chico y su perro [voy]{van}<fs:st:pn> a caminar en el parque pero [ellos]{}<pr:su:pron> [se perdieron]{se pierden}<fs:st:t>. [Ellos]{}<pr:su:pron> no [regresen]{regresan}<fs:st:mo> a casa para la cena. Sus padres están muy [preocupado]{preocupados}<na:adj>. Ellos no [regresen]{regresan}<fs:st:mo> a casa mañana o el dia despues. La policía no puede buscar también. Muchos años despues, una chica y su hermano buscan los huesos del chico y su perro. Los huesos [son]{están}<conf:v:seta> cerca del lago. El lago lejos de la casa [de]{del}<ab:det:art:def> chico. Nadie sabe lo que pasó. Despues [lee]{leer}<fs:st:t> este libro, *FIRST_NAME* decide sus problemas son pequeños en comparación con los del chico y su perro. [Ella]{}<pr:su:pron> duerme muy bien.
+# verbs annotation ann2 = nan
+# corrected1 = Son las dos y media de la mañana y *FIRST_NAME* está muy triste y tiene hambre. Ella no puede dormir y no puede comer. Tiene un día importante mañana y está muy nerviosa. *FIRST_NAME* decide leer un libro. En el libro hay un chico y su perro. Su perro es muy amable y grande. El chico tiene *AGE* años y es muy gracioso y no es tímido. Ellos viven en una comunidad rural. En el libro, el chico y su perro van a caminar al parque, pero se perdieron. No regresen a casa para la cena. Sus padres están muy preocupados. No regresan a casa por la mañana o el día después. La policía no puede encontrarlos tampoco. Muchos años después, una chica y su hermano buscan los huesos del chico y su perro. Los huesos están cerca del lago. El lago está lejos de la casa de chico. Nadie sabe lo que pasó. Después de leer este libro, *FIRST_NAME* decide que sus problemas son pequeños en comparación con los del chico y su perro. Ella duerme muy bien.
+# corrected2 = nan
+# text = Son las dos y media de la mañana y *FIRST_NAME* es muy triste y tiene hambre. Ella no puede dormir y no puede comer. Ella tiene un día importante mañana y está muy nervioso. *FIRST_NAME* decide leer un libro. En el libro hay un chico y su perro. Su perro es muy amable y grande. El chico tiene *AGE* años y es muy gracioso y no es timido. Ellos viven en una comunidad rural. En el libro, el chico y su perro voy a caminar en el parque pero ellos se perdieron. Ellos no regresen a casa para la cena. Sus padres están muy preocupado. Ellos no regresen a casa mañana o el dia despues. La policía no puede buscar también. Muchos años despues, una chica y su hermano buscan los huesos del chico y su perro. Los huesos son cerca del lago. El lago lejos de la casa de chico. Nadie sabe lo que pasó. Despues lee este libro, *FIRST_NAME* decide sus problemas son pequeños en comparación con los del chico y su perro. Ella duerme muy bien.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Son	ser	AUX	_	_	3	cop	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	dos	dos	NUM	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	media	medio	NUM	_	_	3	conj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	mañana	mañana	NOUN	_	_	3	nmod	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	13	nsubj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	triste	triste	ADJ	_	_	3	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	tiene	tener	VERB	_	_	13	conj	_	_
+16	hambre	hambre	NOUN	_	_	15	obj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	puede	poder	AUX	_	_	4	aux	_	_
+4	dormir	dormir	VERB	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	puede	poder	AUX	_	_	8	aux	_	_
+8	comer	comer	VERB	_	_	4	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	día	día	NOUN	_	_	2	obj	_	_
+5	importante	importante	ADJ	_	_	4	amod	_	_
+6	mañana	mañana	ADV	_	_	4	advmod	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	está	estar	AUX	_	_	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	nervioso	nervioso	ADJ	_	_	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	decide	decidir	VERB	_	_	0	ROOT	_	_
+3	leer	leer	VERB	_	_	2	xcomp	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	libro	libro	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	libro	libro	NOUN	_	_	4	obl	_	_
+4	hay	haber	AUX	_	_	0	ROOT	_	_
+5	un	uno	DET	_	_	6	det	_	_
+6	chico	chico	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	perro	perro	NOUN	_	_	6	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	amable	amable	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	grande	grande	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	chico	chico	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	gracioso	gracioso	ADJ	_	_	3	conj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	no	no	ADV	_	_	13	advmod	_	_
+12	es	ser	AUX	_	_	13	cop	_	_
+13	timido	timido	ADJ	_	_	9	conj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ellos	él	PRON	_	_	2	nsubj	_	_
+2	viven	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	comunidad	comunidad	NOUN	_	_	2	obl	_	_
+6	rural	rural	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	libro	libro	NOUN	_	_	12	obl	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	chico	chico	NOUN	_	_	3	appos	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	perro	perro	NOUN	_	_	3	conj	_	_
+10	voy	ir	AUX	_	_	12	aux	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	caminar	caminar	VERB	_	_	0	ROOT	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	el	el	DET	_	_	15	det	_	_
+15	parque	parque	NOUN	_	_	12	obl	_	_
+16	pero	pero	CCONJ	_	_	19	cc	_	_
+17	ellos	él	PRON	_	_	19	nsubj	_	_
+18	se	él	PRON	_	_	19	expl:pv	_	_
+19	perdieron	perder	VERB	_	_	12	conj	_	_
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Ellos	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	regresen	regresen	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	_	3	obl	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	cena	cena	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	padres	padre	NOUN	_	_	5	nsubj	_	_
+3	están	estar	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	preocupado	preocupado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ellos	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	regresen	regresen	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	_	3	obl	_	_
+6	mañana	mañana	ADV	_	_	3	advmod	_	_
+7	o	o	CCONJ	_	_	9	cc	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	dia	dia	NUM	_	_	10	nummod	_	_
+10	despues	despu	NOUN	_	_	3	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	policía	policía	NOUN	_	_	5	nsubj	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	puede	poder	AUX	_	_	5	aux	_	_
+5	buscar	buscar	VERB	_	_	0	ROOT	_	_
+6	también	también	ADV	_	_	5	advmod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Muchos	mucho	DET	_	_	2	det	_	_
+2	años	año	NOUN	_	_	3	nsubj	_	_
+3	despues	despu	NOUN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	chica	chica	NOUN	_	_	3	obj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	hermano	hermano	NOUN	_	_	3	conj	_	_
+10	buscan	buscar	VERB	_	_	3	conj	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	huesos	hueso	NOUN	_	_	10	obj	_	_
+13	del	del	ADP	_	_	14	case	_	_
+14	chico	chico	NOUN	_	_	12	nmod	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	su	su	DET	_	_	17	det	_	_
+17	perro	perro	NOUN	_	_	14	conj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	huesos	hueso	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	cerca	cerca	ADV	_	_	0	ROOT	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	lago	lago	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	lago	lago	NOUN	_	_	0	ROOT	_	_
+3	lejos	lejos	ADV	_	_	2	advmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	chico	chico	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Nadie	nadie	PRON	_	_	2	nsubj	_	_
+2	sabe	saber	VERB	_	_	0	ROOT	_	_
+3	lo	él	PRON	_	_	5	det	_	_
+4	que	que	PRON	_	_	5	obj	_	_
+5	pasó	pasar	VERB	_	_	2	ccomp	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Despues	Despues	PROPN	_	_	7	nsubj	_	_
+2	lee	leer	VERB	_	_	1	flat	_	_
+3	este	este	DET	_	_	4	det	_	_
+4	libro	libro	NOUN	_	_	1	obj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	7	nsubj	_	_
+7	decide	decidir	VERB	_	_	0	ROOT	_	_
+8	sus	su	DET	_	_	9	det	_	_
+9	problemas	problema	NOUN	_	_	7	obj	_	_
+10	son	ser	AUX	_	_	11	cop	_	_
+11	pequeños	pequeño	ADJ	_	_	7	conj	_	_
+12	en	en	ADP	_	_	15	case	_	_
+13	comparación	comparación	NOUN	_	_	12	fixed	_	_
+14	con	con	ADP	_	_	12	fixed	_	_
+15	los	el	DET	_	_	11	det	_	_
+16	del	del	ADP	_	_	17	case	_	_
+17	chico	chico	NOUN	_	_	15	nmod	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	su	su	DET	_	_	20	det	_	_
+20	perro	perro	NOUN	_	_	17	conj	_	_
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	duerme	dormir	VERB	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bien	bien	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+

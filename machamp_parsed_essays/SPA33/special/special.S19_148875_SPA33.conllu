@@ -1,0 +1,311 @@
+# Unnamed: 0 = 118
+# id = 148875
+# prompt = special
+# quarter = S19
+# course = SPA 33
+# age = 20
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida sería m hermano menor. El es muy especial porque creciendo yo siempre lo cuidaba de las personas que se querían aprovechar de el. Siempre miraba yo como lo regañaban por querer ir al baño o tomar un vaso de agua porque si iba sin permiso ya que los maestros no le entendían que quería. Mi hermano tiene autismo y desde pequeño lo tuve que proteger de las personas que le querían hacer bully. Me acuerdo como lo ayudaba con su tarea después de clases y siempre lo invitaba a comer con mis amigas porque yo odiaba verlo solo rodando por la escuela. Ya que estamos grandes, mi hermano es mucho más independiente de mi y me da mucha alegría que no haya dejado que las personas lo hicieran sentir mal. El es la persona más especial para mí porque él es el que me ayuda saber que estudiar. Si no fuera por mi hermano y el papel que jugó para él como una hermana, amiga, y tutora yo nunca hubiera querido ser doctora. El me ha inspirado a ayudar más niños como él o ha personas que no tienen voces para pelear por ellos mismos. Perjuro ser una doctora en cual ayuda a cualquier persona para agarrar tratamiento médico sin tener que preocuparse de cómo van a pagar los gastos. Quiero que, como mi hermano, ellos se sientan cómodos en hablar conmigo y contar con mi apoyo para lo que recitan ya que ser doctora es para servirles a ellos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vida	vida	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+7	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	cop	_	_
+8	m	m	NOUN	_	_	9	obl	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	Number=Sing	0	root	_	_
+5	porque	porque	SCONJ	_	_	10	mark	_	_
+6	creciendo	crecer	VERB	_	VerbForm=Ger	10	advcl	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+8	siempre	siempre	ADV	_	_	10	advmod	_	_
+9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	cuidaba	cuidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	personas	persona	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
+14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	querían	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl	_	_
+17	aprovechar	aprovechar	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	miraba	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
+5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	regañaban	regañar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+7	por	por	ADP	_	_	9	mark	_	_
+8	querer	querer	AUX	_	VerbForm=Inf	9	aux	_	_
+9	ir	ir	VERB	_	VerbForm=Inf	6	advcl	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	baño	baño	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	tomar	tomar	VERB	_	VerbForm=Inf	9	conj	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	vaso	vaso	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	agua	agua	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+18	porque	porque	SCONJ	_	_	29	mark	_	_
+19	si	si	SCONJ	_	_	20	mark	_	_
+20	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+21	sin	sin	ADP	_	_	22	case	_	_
+22	permiso	permiso	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+23	ya	ya	ADV	_	_	29	mark	_	_
+24	que	que	SCONJ	_	_	23	fixed	_	_
+25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	maestros	maestro	NOUN	_	Gender=Masc|Number=Plur	29	nsubj	_	_
+27	no	no	ADV	_	Polarity=Neg	29	advmod	_	_
+28	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	29	obl	_	_
+29	entendían	entender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+30	que	que	SCONJ	_	_	31	mark	_	_
+31	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	29	ccomp	_	_
+32	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	autismo	autismo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	desde	desde	ADP	_	_	11	advmod	_	_
+7	pequeño	pequeño	ADJ	_	_	6	fixed	_	_
+8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
+9	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+10	que	que	SCONJ	_	_	11	cc	_	_
+11	proteger	proteger	VERB	_	VerbForm=Inf	9	conj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	personas	persona	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
+15	que	que	PRON	_	PronType=Rel	17	nsubj	_	_
+16	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+17	querían	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	acl	_	_
+18	hacer	hacer	VERB	_	VerbForm=Inf	17	xcomp	_	_
+19	bully	bully	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	acuerdo	acueedir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
+5	ayudaba	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	después	después	ADV	_	_	5	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	clases	clase	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	siempre	siempre	ADV	_	_	15	advmod	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	invitaba	invitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	comer	comer	VERB	_	VerbForm=Inf	15	xcomp	_	_
+18	con	con	ADP	_	_	20	case	_	_
+19	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	_
+21	porque	porque	SCONJ	_	_	23	mark	_	_
+22	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_
+23	odiaba	odiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+24	verlo	ver	VERB	_	VerbForm=Inf	23	xcomp	_	_
+25	solo	solo	ADV	_	_	24	advmod	_	_
+26	rodando	rodar	VERB	_	VerbForm=Ger	24	xcomp	_	_
+27	por	por	ADP	_	_	29	case	_	_
+28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ya	ya	ADV	_	_	4	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	grandes	grande	ADJ	_	Number=Plur	11	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	mucho	mucho	ADV	_	_	11	advmod	_	_
+10	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
+11	independiente	independiente	ADJ	_	Number=Sing	0	root	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	mi	yo	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl	_	_
+16	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	18	det	_	_
+18	alegría	alegría	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	que	que	SCONJ	_	_	22	mark	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	dejado	dejar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	_
+23	que	que	SCONJ	_	_	27	mark	_	_
+24	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+25	personas	persona	NOUN	_	Gender=Fem|Number=Plur	27	nsubj	_	_
+26	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
+27	hicieran	hacer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
+28	sentir	sentir	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	mal	mal	ADV	_	_	27	advmod	_	_
+30	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	más	más	ADV	_	Degree=Cmp	6	advmod	_	_
+6	especial	especial	ADJ	_	Number=Sing	4	amod	_	_
+7	para	para	ADP	_	_	8	case	_	_
+8	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	obl	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+13	que	que	PRON	_	PronType=Rel	15	nsubj	_	_
+14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl	_	_
+15	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+16	saber	saber	AUX	_	VerbForm=Inf	15	aux	_	_
+17	que	que	SCONJ	_	_	18	mark	_	_
+18	estudiar	estudiar	VERB	_	VerbForm=Inf	16	ccomp	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Si	si	SCONJ	_	_	6	mark	_	_
+2	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+3	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	25	advcl	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	papel	papel	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	que	que	PRON	_	PronType=Rel	11	obj	_	_
+11	jugó	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+14	como	como	SCONJ	_	_	16	mark	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+18	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	_
+19	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	tutora	tutora	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	_
+22	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+23	nunca	nunca	ADV	_	_	25	advmod	_	_
+24	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	_
+25	querido	querer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+26	ser	ser	AUX	_	VerbForm=Inf	27	cop	_	_
+27	doctora	doctora	NOUN	_	Gender=Fem|Number=Sing	25	xcomp	_	_
+28	.	.	PUNCT	_	PunctType=Peri	25	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	inspirado	inspirar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	ayudar	ayudar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	niños	niño	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	como	como	SCONJ	_	_	10	mark	_	_
+10	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+11	o	o	CCONJ	_	_	12	cc	_	_
+12	ha	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	personas	persona	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
+15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+16	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
+17	voces	voz	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+18	para	para	ADP	_	_	19	mark	_	_
+19	pelear	pelear	VERB	_	VerbForm=Inf	17	acl	_	_
+20	por	por	ADP	_	_	21	case	_	_
+21	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	obl	_	_
+22	mismos	mismo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	21	appos	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Perjuro	perjurar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	doctora	doctora	NOUN	_	Gender=Fem|Number=Sing	1	xcomp	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	cual	cual	PRON	_	Number=Sing|PronType=Rel	7	obl	_	_
+7	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	10	det	_	_
+10	persona	persona	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	agarrar	agarrar	VERB	_	VerbForm=Inf	7	advcl	_	_
+13	tratamiento	tratamiento	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	médico	médico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+15	sin	sin	ADP	_	_	16	mark	_	_
+16	tener	tener	VERB	_	VerbForm=Inf	7	advcl	_	_
+17	que	que	SCONJ	_	_	18	cc	_	_
+18	preocuparse	preocupar	VERB	_	VerbForm=Inf	16	conj	_	_
+19	de	de	ADP	_	_	21	mark	_	_
+20	cómo	cómo	PRON	_	PronType=Ind	18	obl	_	_
+21	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+22	a	a	ADP	_	_	23	mark	_	_
+23	pagar	pagar	VERB	_	VerbForm=Inf	21	xcomp	_	_
+24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	gastos	gasto	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	_
+26	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	10	mark	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+9	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl	_	_
+10	sientan	sentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+11	cómodos	cómodo	ADJ	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	en	en	ADP	_	_	13	mark	_	_
+13	hablar	hablar	VERB	_	VerbForm=Inf	11	acl	_	_
+14	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	13	obl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	contar	contar	VERB	_	VerbForm=Inf	13	conj	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	apoyo	apoyo	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+20	para	para	ADP	_	_	23	mark	_	_
+21	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	det	_	_
+22	que	que	PRON	_	PronType=Rel	23	obj	_	_
+23	recitan	recitar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+24	ya	ya	ADV	_	_	28	mark	_	_
+25	que	que	SCONJ	_	_	24	fixed	_	_
+26	ser	ser	AUX	_	VerbForm=Inf	27	cop	_	_
+27	doctora	doctora	NOUN	_	Gender=Fem|Number=Sing	28	csubj	_	_
+28	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+29	para	para	ADP	_	_	30	mark	_	_
+30	servirles	servir	VERB	_	VerbForm=Inf	28	ccomp	_	_
+31	a	a	ADP	_	_	32	case	_	_
+32	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	obj	_	_
+33	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

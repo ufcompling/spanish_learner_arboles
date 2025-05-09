@@ -1,0 +1,240 @@
+# Unnamed: 0 = 218
+# id = 176863
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 20 years old
+# gender = Male
+# l1 language = English
+# other l1 language(s) = English is my native language
+# language(s) used at home = nan
+# language(s) studied = Spanish for four years
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Mi novia es muy importante en mi vida. [Ella]{}<pr:su:pron> es muy generosa, activa, estudiosa, tímida, trabajadora, cómica y amorosa. [Ella]{}<pr:su:pron> es el amor de mi vida. [Nosotros]{}<pr:su:pron> divertimos y relajamos juntos. [Ella]{}<pr:su:pron> tiene *AGE* años. Su especialización es la medicina. Está especialización es su sueño pero es muy difícil. [Ella]{}<pr:su:pron> es de Taiwan. [Ella]{}<pr:su:pron> es [un]{}<pr:det:art:indef> estudiante internacional. [Ella]{}<pr:su:pron> es muy inteligente pero la universidad es difícil. [Ella]{}<pr:su:pron> nació en noviembre. [Ella]{}<pr:su:pron> es mi novia [para]{por}<conf:prep:popa> dos años. [Ella]{}<pr:su:pron> estudia mucho para el examen. [Ella]{}<pr:su:pron> estudia en la biblioteca. Me relajo con ella mirando televisión. A ella le gusta ver programas de televisión sobre doctores y criminales. [Nosotros]{}<pr:su:pron> vemos el programa de televisión "Friends" juntos. [Ella]{}<pr:su:pron> dice que es similar a "Rachel" en "Friends". A ella le gusta cocinar pero es perezosa. Pero su comida sabe bien. [Ella]{}<pr:su:pron> es muy dulce con mi. [Ella]{}<pr:su:pron> me da muy dulces regalos y tarjetas muy dulces. La amo.  
+# updated annotation ann2 = Mi novia es muy importante en mi vida. Ella es muy generosa, activa, estudiosa, tímida, trabajadora, cómica y amorosa. [Ella]{}<pr:su:pron> es el amor de mi vida. [Nosotros]{}<pr:su:pron> divertimos y relajamos juntos. Ella tiene *AGE* años. Su especialización es la medicina. Está especialización es su sueño pero es muy difícil. Ella es de Taiwan. [Ella]{}<pr:su:pron> es [un]{una}<ga:det> estudiante internacional. [Ella]{}<pr:su:pron> es muy inteligente pero la universidad es difícil. Ella nació en noviembre. [Ella]{}<pr:su:pron> es mi novia [para]{por}<conf:prep:popa> dos años. Ella estudia mucho para el examen. [Ella]{}<pr:su:pron> estudia en la biblioteca. Me relajo con ella mirando []{la}<ab:det:art:def> televisión. A ella le gusta ver programas de televisión sobre doctores y criminales. [Nosotros]{}<pr:su:pron> vemos el programa de televisión "Friends" juntos. Ella dice que es similar a "Rachel" en "Friends". A ella le gusta cocinar pero es perezosa. Pero su comida sabe bien. Ella es muy dulce con mi. [Ella]{}<pr:su:pron> me da muy dulces regalos y tarjetas muy dulces. La amo.  
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi novia es muy importante en mi vida. Ella es muy generosa, activa, estudiosa, tímida, trabajadora, cómica y amorosa. Es el amor de mi vida. Nos divertimos y relajamos juntos. Ella tiene *AGE* años. Su especialización es en medicina. Esta especialización es su sueño, pero es muy difícil. Ella es de Taiwán. Es una estudiante internacional. Es muy inteligente pero la universidad es difícil. Ella nació en noviembre. Es mi novia desde hace dos años. Ella estudia mucho para el examen. Estudia en la biblioteca. Me relajo con ella mirando la televisión. A ella le gusta ver programas de televisión sobre doctores y criminales. Vemos el programa de televisión "Friends" juntos. Ella dice que es similar a "Rachel" en "Friends". A ella le gusta cocinar, pero es perezosa. Pero su comida sabe bien. Ella es muy dulce conmigo. Me da regalos y tarjetas muy dulces. La amo. 
+# corrected2 = nan
+# text = Mi novia es muy importante en mi vida. Ella es muy generosa, activa, estudiosa, tímida, trabajadora, cómica y amorosa. Ella es el amor de mi vida. Nosotros divertimos y relajamos juntos. Ella tiene *AGE* años. Su especialización es la medicina. Está especialización es su sueño pero es muy difícil. Ella es de Taiwan. Ella es un estudiante internacional. Ella es muy inteligente pero la universidad es difícil. Ella nació en noviembre. Ella es mi novia para dos años. Ella estudia mucho para el examen. Ella estudia en la biblioteca. Me relajo con ella mirando televisión. A ella le gusta ver programas de televisión sobre doctores y criminales. Nosotros vemos el programa de televisión "Friends" juntos. Ella dice que es similar a "Rachel" en "Friends". A ella le gusta cocinar pero es perezosa. Pero su comida sabe bien. Ella es muy dulce con mi. Ella me da muy dulces regalos y tarjetas muy dulces. La amo.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	novia	novia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	activa	activo	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	estudiosa	estudioso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	cómica	cómico	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	amorosa	amoroso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	amor	amor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	divertimos	divertir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	relajamos	relajar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	medicina	medicina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Está	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	especialización	especialización	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	sueño	sueño	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	9	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	difícil	difícil	ADJ	_	Number=Sing	5	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Taiwan	Taiwan	PROPN	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	internacional	internacional	ADJ	_	Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	inteligente	inteligente	ADJ	_	Number=Sing	0	root	_	_
+5	pero	pero	CCONJ	_	_	9	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	difícil	difícil	ADJ	_	Number=Sing	4	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	nació	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	noviembre	noviembre	NOUN	_	AdvType=Tim	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	novia	novia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+7	años	año	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	examen	examen	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	biblioteca	biblioteca	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	relajo	relajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+5	mirando	mirar	VERB	_	VerbForm=Ger	2	advcl	_	_
+6	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ver	ver	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	programas	programa	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	sobre	sobre	ADP	_	_	10	case	_	_
+10	doctores	doctor	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	criminales	criminal	NOUN	_	Number=Plur	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vemos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	programa	programa	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+8	Friends	Friends	PROPN	_	_	4	appos	_	_
+9	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+10	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	similar	similar	ADJ	_	Number=Sing	2	ccomp	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+8	Rachel	Rachel	PROPN	_	_	5	nmod	_	_
+9	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	"	"	PUNCT	_	PunctType=Quot	12	punct	_	_
+12	Friends	Friends	PROPN	_	_	5	nmod	_	_
+13	"	"	PUNCT	_	PunctType=Quot	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	cocinar	cocinar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	perezosa	perezoso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	comida	comida	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	bien	bien	ADV	_	_	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	dulce	dulce	ADJ	_	Number=Sing	0	root	_	_
+5	con	con	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	dulces	dulce	ADJ	_	Number=Plur	6	amod	_	_
+6	regalos	regalo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tarjetas	tarjeta	NOUN	_	Gender=Fem|Number=Plur	6	conj	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	dulces	dulce	ADJ	_	Number=Plur	8	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

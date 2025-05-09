@@ -1,0 +1,363 @@
+# Unnamed: 0 = 116
+# id = 229510
+# prompt = yourself
+# quarter = S20
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 5.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Soy de *CITY* *CITY*, *STATE*. Viví allí por 18 años. Ahora, vivo en *CITY*, *STATE* y voy a la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el región *PLACE*. Me gusta *CITY* mucho más que *CITY* *CITY* porque no hay tantas personas en *CITY*. Mi parte favorita de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me gustan las matemáticas porque los números son una gran parte de nuestras vidas. También, las formulas están presentes en la naturaleza. Es interesante hacer modelos de la vida que tienen sentido. También, me gusta el idioma español más que el inglés porque sus reglas tienen sentido. Las reglas son muy importantes para mi. El orden y las reglas son buenos e importantes.  Tengo el pelo rubio y castaño, los ojos azules, y la piel blanca. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La comodidad es más importante. Unas veces llevo un vestido, en las ocasiones que quiero sentirme bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. Todos los programas son muy buenos, interesantes, y cómicos. Los recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Los amo mucho. Cuando estamos juntos, miramos la televisión y jugamos a juegos. 
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de *CITY* *CITY*, *STATE*. [Vivía]{Viví}<fs:st:t> allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente [el]{la}<gat:det> [region]{región}<gat:noun> [*PLACE*]{tercera}<gat:adj>. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay [tantos]{tantas}<ga:det> personas en *CITY*. Mi parte [favorito]{favorita}<ga:adj> de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me [gusta]{gustan}<fs:st:pn> las matemáticas porque los números son [un]{una}<ga:det> gran parte de [nuestros]{nuestras}<ga:det> vidas. También, las formulas [son]{están}<conf:v:seta> [presente]{presentes}<na:adj> en la naturaleza. Es interesante hacer modelos de la vida que tienen [sentidos]{sentido}<in:noun>. También, me gusta [la]{el}<gat:det> [idioma]{idioma}<gat:noun> español más de []{el}<ab:det:art:def> ingles porque sus reglas tienen [sentidos]{sentido}<in:noun>. []{Las}<ab:det:art:def> Reglas son muy importantes a mi. [La]{El}<ga:det> orden y las reglas son buenos y importantes.  Tengo []{el}<ab:det:art:def> pelo rubio y castaño, []{los}<ab:det:art:def> ojos azules, y []{la}<ab:det:art:def> piel [blanco]{blanca}<ga:adj>. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. [Unos]{Unas}<ga:det> veces llevo un vestido, en las ocasiones que quiero sentir bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. [Todas]{Todos}<gat:det> [las]{los}<gat:det> [programas]{programas}<gat:noun> son muy [buenas]{buenos}<gat:adj>, [interesantes]{interesantes}<gat:adj>, y [cómicas]{cómicos}<gat:adj>. [Las]{Los}<gat:pron> recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. [Ellos]{}<pr:su:pron> son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Soy de *CITY* *CITY*, *STATE*. Vivía allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el region *PLACE*. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay [tantos]{tantas}<ga:adj> personas en *CITY*. Mi parte [favorito]{favorita}<ga:adj> de *CITY* es la lluvia.  Estoy estudiando matemáticas y español en la universidad. Me gusta las matemáticas porque los números son [un]{una}<ga:det> gran parte de [nuestros]{nuestras}<ga:adj> vidas. También, las formulas [son]{están}<conf:v:seta> [presente]{presentes}<na:adj> en la naturaleza. Es interesante hacer modelos de la vida que tienen [sentidos]{sentido}<in:noun>. También, me gusta [la]{el}<ga:det> idioma español más de ingles porque sus reglas tienen sentidos. []{Las}<ab:det:art:def> Reglas son muy importantes a mi. [La]{El}<ga:det> orden y las reglas son buenos y importantes.  Tengo []{el}<ab:det:art:def> pelo rubio y castaño, []{los}<ab:det:art:def> ojos azules, y []{la}<ab:det:art:def> piel [blanco]{blanca}<ga:adj>. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. [Unos]{Unas}<ga:det> veces llevo un vestido, en las ocasiones que quiero sentir bella.  Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. [Todas]{Todos}<gat:adj> [las]{los}<gat:det> programas son muy [buenas]{buenos}<gat:adj>, interesantes, y [cómicas]{cómicos}<gat:adj>. [Las]{Los}<gat:det> recomiendo.  Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# corrected2 = nan
+# text = Soy de *CITY* *CITY*, *STATE*. Vivía allí por 18 años. Ahora, vivo en *CITY*, *STATE* y atento la Universidad de *UNIVERSITY*, *UNIVERSITY*. Vivo en los dormitorios, específicamente el region *PLACE*. Me gusta *CITY* mucho más de *CITY* *CITY* porque no hay tantos personas en *CITY*. Mi parte favorito de *CITY* es la lluvia. Estoy estudiando matemáticas y español en la universidad. Me gusta las matemáticas porque los números son un gran parte de nuestros vidas. También, las formulas son presente en la naturaleza. Es interesante hacer modelos de la vida que tienen sentidos. También, me gusta la idioma español más de ingles porque sus reglas tienen sentidos. Reglas son muy importantes a mi. La orden y las reglas son buenos y importantes. Tengo pelo rubio y castaño, ojos azules, y piel blanco. Tengo *AGE* años. Soy baja. Muchos días, llevo pantalones y una camiseta. La cómoda es más importante. Unos veces llevo un vestido, en las ocasiones que quiero sentir bella. Me gusta dormir, mirar la televisión, y pasar tiempo con mi familia, específicamente mi perrito que se llama *FIRST_NAME*. Miro Brooklyn 99, parques y recreación, y 30 Rock. Todas las programas son muy buenas, interesantes, y cómicas. Las recomiendo. Tengo un padre, una madre, una hermana, y un perrito, que se llama *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*. Ellos son muy importantes para mí. Viven en una casa larga. Mi hermana tiene *AGE* años y está en la prepa. Se amo mucho. Cuando estamos juntos, miramos la televisión y jugamos juegos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	0	root	_	_
+4	*CITY*	*city*	PUNCT	_	_	3	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	*STATE*	*state*	SYM	_	_	3	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	allí	allí	ADV	_	_	1	advmod	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	18	18	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PUNCT	_	_	3	dep	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	atento	atentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Universidad	Universidad	PROPN	_	_	9	obj	_	_
+12	de	de	ADP	_	_	11	case	_	_
+13	*UNIVERSITY*	*university*	PROPN	_	_	11	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	*UNIVERSITY*	*university*	PUNCT	_	_	11	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	dormitorios	dormitorio	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	específicamente	específicamente	ADV	_	_	8	advmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	region	region	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+9	*PLACE*	*place*	PUNCT	_	_	8	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*CITY*	*city*	PROPN	_	_	5	dep	_	_
+4	mucho	mucho	ADV	_	_	5	advmod	_	_
+5	más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*CITY*	*CitY*	PROPN	_	_	5	obl	_	_
+8	*CITY*	*city*	PROPN	_	_	7	punct	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+11	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	tantos	tanto	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Dem	13	det	_	_
+13	personas	persona	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	*city*	PROPN	_	_	11	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	lluvia	lluvia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	estudiando	estudiar	VERB	_	VerbForm=Ger	0	root	_	_
+3	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	11	mark	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	números	número	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	gran	gran	ADJ	_	Number=Sing	11	amod	_	_
+11	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	vidas	vida	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	formulas	formula	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	presente	presente	ADJ	_	Number=Sing	0	root	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	interesante	interesante	ADJ	_	Number=Sing	0	root	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	modelos	modelo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+10	sentidos	sentido	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	idioma	idioma	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	español	español	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	ingles	ingle	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	reglas	regla	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+14	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+15	sentidos	sentido	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Reglas	regla	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	importantes	importante	ADJ	_	Number=Plur	0	root	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	orden	orden	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	reglas	regla	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	importantes	importante	ADJ	_	Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	rubio	rubio	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	castaño	castaño	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+8	azules	azul	ADJ	_	Number=Plur	7	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	piel	piel	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+12	blanco	blanco	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	días	día	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	llevo	llevar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	pantalones	pantalón	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	camiseta	camiseta	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cómoda	cómodo	ADJ	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	importante	importante	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	veces	vez	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+3	llevo	llevar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	vestido	vestido	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	ocasiones	ocasión	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+10	que	que	PRON	_	PronType=Rel	11	obl	_	_
+11	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl	_	_
+12	sentir	sentir	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	bella	bello	ADJ	_	Gender=Fem|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dormir	dormir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	mirar	mirar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pasar	pasar	VERB	_	VerbForm=Inf	3	conj	_	_
+11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	familia	familia	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+16	específicamente	específicamente	ADV	_	_	14	advmod	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	perrito	perrito	NOUN	_	Gender=Masc|Number=Sing	14	appos	_	_
+19	que	que	PRON	_	PronType=Rel	21	nsubj	_	_
+20	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl	_	_
+21	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
+22	*FIRST_NAME*	*first_name*	PUNCT	_	_	18	punct	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Miro	Miro	PROPN	_	_	0	root	_	_
+2	Brooklyn	Brooklyn	PROPN	_	_	1	flat	_	_
+3	99	99	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	parques	parque	NOUN	_	Gender=Masc|Number=Plur	2	appos	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	recreación	recreación	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	30	30	NUM	_	NumForm=Digit|NumType=Card	1	conj	_	_
+11	Rock	Rock	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	2	det	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	programas	programa	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	buenas	buen	ADJ	_	Gender=Fem|Number=Plur	0	root	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	interesantes	interesante	ADJ	_	Number=Plur	6	amod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	cómicas	cómico	ADJ	_	Gender=Fem|Number=Plur	6	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	padre	padre	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	madre	madre	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	perrito	perrito	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+15	que	que	PRON	_	PronType=Rel	17	nsubj	_	_
+16	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
+18	*FIRST_NAME*	*first_name*	SYM	_	_	13	appos	_	_
+19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+20	*FIRST_NAME*	*first_name*	PUNCT	_	_	18	advcl	_	_
+21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+22	*FIRST_NAME*	*first_name*	SYM	_	_	24	punct	_	_
+23	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+24	y	y	CCONJ	_	_	13	cc	_	_
+25	*FIRST_NAME*	*first_name*	SYM	_	_	24	amod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	importantes	importante	ADJ	_	Number=Plur	0	root	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	larga	largo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	prepa	prepa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	5	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	miramos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	juegos	juego	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

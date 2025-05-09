@@ -1,0 +1,151 @@
+# Unnamed: 0 = 168
+# id = 142250
+# prompt = famous
+# quarter = S17
+# course = SPA 2
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. El es actor y esta en muchas peliculas. El Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En ese pelicula, will es un elf que lleva el North Pole y va a buscar su padre. El va a nueva York y se reuni amigos. Encuentra []{a}<az:do:an> su padre y aprende como vivir en el mundo de los humans. La pelicula esta muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.   
+
+
+# a personal annotator2 = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. El es actor y esta en muchas peliculas. El Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En ese pelicula, will es un elf que lleva el North Pole y va a buscar su padre. El va a nueva York y se reuni amigos. Encuentra []{a}<az:do:an> su padre y aprende como vivir en el mundo de los humans. La pelicula esta muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.   
+# gender-number annotator1 = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. El es actor y esta en muchas peliculas. El Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En [ese]{esa}<ga:fm:det:inan> pelicula, will es un elf que lleva el North Pole y va a buscar su padre. El va a nueva York y se reuni amigos. Encuentra su padre y aprende como vivir en el mundo de los humans. La pelicula esta muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.   
+
+# gender-number annotator2 = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. El es actor y esta en muchas peliculas. El Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En [ese]{esa}<ga:fm:det:inan> pelicula, will es un elf que lleva el North Pole y va a buscar su padre. El va a nueva York y se reuni amigos. Encuentra su padre y aprende como vivir en el mundo de los humans. La pelicula esta muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.   
+# updated anntoation ann1 = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. [El]{}<pr:su:pron> es actor y esta en muchas peliculas. [El]{}<pr:su:pron> Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En [ese]{esa}<ga:det> pelicula, will es un elf que lleva el North Pole y va a buscar su padre. [El]{}<pr:su:pron> va a nueva York y se reuni amigos. Encuentra su padre y aprende como vivir en el mundo de los humans. La pelicula [esta]{es}<conf:v:seta> muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi persona famosa favorita es Will Ferrell. Will Ferrell es un hombre cómico. Es actor y esta en muchas películas. Es un hombre viejo con pelo café. Su película más cómica es Elf. En esa película, Will es un elfo que llega al Polo Norte y va a buscar a su padre. Va a Nueva York y se reúne con amigos. Encuentra a su padre y aprende cómo vivir en el mundo de los humanos. La película es muy cómica y yo me río mucho cuando la veo. No puedo esperar a una película nueva de Will Ferrell.
+# corrected2 = nan
+# text = Mi persona famosa mas favorita es Will Ferrell. Will Ferrell es un hombre comico. El es actor y esta en muchas peliculas. El Es un hombre viejo con pelo cafe. La pelicula mas comica de el Es Elf. En ese pelicula, will es un elf que lleva el North Pole y va a buscar su padre. El va a nueva York y se reuni amigos. Encuentra su padre y aprende como vivir en el mundo de los humans. La pelicula esta muy comica y yo reio mucho cuando veo. No Espero para un a pelicula nueva de Will Ferrell.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	7	nsubj	_	_
+3	famosa	famoso	ADJ	_	_	2	amod	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	favorita	favorita	NOUN	_	_	2	amod	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	Will	Will	PROPN	_	_	0	ROOT	_	_
+8	Ferrell	Ferrell	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Will	Will	PROPN	_	_	5	nsubj	_	_
+2	Ferrell	Ferrell	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+6	comico	comico	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	actor	actor	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	esta	este	PRON	_	_	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	muchas	mucho	DET	_	_	8	det	_	_
+8	peliculas	pelicula	NOUN	_	_	3	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	4	nsubj	_	_
+2	Es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	hombre	hombre	NOUN	_	_	0	ROOT	_	_
+5	viejo	viejo	ADJ	_	_	4	amod	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	pelo	pelo	NOUN	_	_	5	nmod	_	_
+8	cafe	cafe	NOUN	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	pelicula	pelicula	NOUN	_	_	8	nsubj	_	_
+3	mas	mas	ADV	_	_	4	advmod	_	_
+4	comica	comico	ADJ	_	_	2	amod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	Es	Es	PROPN	_	_	2	nmod	_	_
+8	Elf	Elf	PROPN	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	ese	ese	DET	_	_	3	det	_	_
+3	pelicula	pelicula	NOUN	_	_	8	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	will	will	PROPN	_	_	8	nsubj	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	elf	elf	NOUN	_	_	0	ROOT	_	_
+9	que	que	PRON	_	_	10	obj	_	_
+10	lleva	llevar	VERB	_	_	8	acl	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	North	North	PROPN	_	_	10	nsubj	_	_
+13	Pole	Pole	PROPN	_	_	12	flat	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	va	ir	AUX	_	_	17	aux	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	buscar	buscar	VERB	_	_	10	conj	_	_
+18	su	su	DET	_	_	19	det	_	_
+19	padre	padre	NOUN	_	_	17	obj	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	va	ir	AUX	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	nueva	nueva	NOUN	_	_	5	amod	_	_
+5	York	York	PROPN	_	_	2	obl	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	se	él	PRON	_	_	8	expl:pv	_	_
+8	reuni	reuni	VERB	_	_	2	conj	_	_
+9	amigos	amigo	ADJ	_	_	8	nsubj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Encuentra	encontrar	VERB	_	_	0	ROOT	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	padre	padre	NOUN	_	_	1	nsubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	aprende	aprender	VERB	_	_	1	conj	_	_
+6	como	como	SCONJ	_	_	7	mark	_	_
+7	vivir	vivir	VERB	_	_	5	xcomp	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	mundo	mundo	NOUN	_	_	5	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	los	el	DET	_	_	13	det	_	_
+13	humans	humans	PROPN	_	_	10	nmod	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	pelicula	pelicula	NOUN	_	_	8	nsubj	_	_
+3	esta	este	DET	_	_	5	det	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	comica	comico	ADJ	_	_	2	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	yo	yo	PRON	_	_	8	nsubj	_	_
+8	reio	reio	VERB	_	_	0	ROOT	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	veo	ver	VERB	_	_	8	advcl	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	Espero	esperar	VERB	_	_	0	ROOT	_	_
+3	para	para	ADP	_	_	4	case	_	_
+4	un	uno	DET	_	_	2	obl	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	pelicula	pelicula	NOUN	_	_	4	nmod	_	_
+7	nueva	nuevo	ADJ	_	_	6	amod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Will	Will	PROPN	_	_	6	nmod	_	_
+10	Ferrell	Ferrell	PROPN	_	_	9	flat	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+

@@ -1,0 +1,218 @@
+# Unnamed: 0 = 263
+# id = 175003
+# prompt = vacation
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 19
+# l1 language = Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = english
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Mi nombre es *FIRST_NAME*. Soy un estudiante en *UNIVERSITY*. Soy un estudiante internacional. Yo soy China. Me gustaría ir a casa de vacaciones.  A mí me gusta las vacaciones. Puedo hacer muchas cosas en las vacaciones. Yo tengo un plan de vacaciones. Me levanto a las 7:00 todos los días. Me lavo los dientes todos los días a las 7:30 de la mañana. Como mi desayuno a las 9:00 todos los díasde la mañana. Leo un libro a las 9:30 todos los días de la mañana. A mí me gusta leer muchos libros，porque me parece muy interesante. Como el almuerzo al mediodía todos los días. Me gustan las verduras y frutas. Además, me gusta la carne. Estudio biología y matemáticas a las 2:00 todos los días. Veo televisión todos los días a las 6:00 de la tarde. Me voy a la cama todos los días a las 9:00 de la tarde.
+# a personal annotator2 = nan
+# gender-number annotator1 = Mi nombre es *FIRST_NAME*. Soy un estudiante en *UNIVERSITY*. Soy un estudiante internacional. Yo soy China. Me gustaría ir a casa de vacaciones.  A mí me gusta las vacaciones. Puedo hacer muchas cosas en las vacaciones. Yo tengo un plan de vacaciones. Me levanto a las 7:00 todos los días. Me lavo los dientes todos los días a las 7:30 de la mañana. Como mi desayuno a las 9:00 todos los díasde la mañana. Leo un libro a las 9:30 todos los días de la mañana. A mí me gusta leer muchos libros，porque me parece muy interesante. Como el almuerzo al mediodía todos los días. Me gustan las verduras y frutas. Además, me gusta la carne. Estudio biología y matemáticas a las 2:00 todos los días. Veo televisión todos los días a las 6:00 de la tarde. Me voy a la cama todos los días a las 9:00 de la tarde.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi nombre es *FIRST_NAME*. Soy un estudiante en *UNIVERSITY*. Soy un estudiante internacional. Yo soy China. Me gustaría ir a casa de vacaciones. A mí me gusta las vacaciones. Puedo hacer muchas cosas en las vacaciones. Yo tengo un plan de vacaciones. Me levanto a las 7:00 todos los días. Me lavo los dientes todos los días a las 7:30 de la mañana. Como mi desayuno a las 9:00 todos los díasde la mañana. Leo un libro a las 9:30 todos los días de la mañana. A mí me gusta leer muchos libros，porque me parece muy interesante. Como el almuerzo al mediodía todos los días. Me gustan las verduras y frutas. Además, me gusta la carne. Estudio biología y matemáticas a las 2:00 todos los días. Veo televisión todos los días a las 6:00 de la tarde. Me voy a la cama todos los días a las 9:00 de la tarde.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*UNIVERSITY*	*university*	PUNCT	_	_	3	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	internacional	internacional	ADJ	_	Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	China	China	PROPN	_	_	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	hacer	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+3	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
+4	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	levanto	levantar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	7:00	7:00	NOUN	_	AdvType=Tim	2	obl	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	lavo	lavar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	dientes	diente	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	días	día	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	7:30	7:30	NOUN	_	AdvType=Tim	2	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Como	como	SCONJ	_	_	3	mark	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	desayuno	desayuno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	9:00	9:00	NOUN	_	AdvType=Tim	3	nmod	_	_
+7	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+9	díasde	díasde	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Leo	leer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	libro	libro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	9:30	9:30	NOUN	_	AdvType=Tim	1	obl	_	_
+7	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	4	obl	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	leer	leer	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+7	libros，porque	libros，porque	SCONJ	_	_	9	mark	_	_
+8	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obl	_	_
+9	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	muy	mucho	ADV	_	_	9	advmod	_	_
+11	interesante	interesante	ADJ	_	Number=Sing	9	xcomp	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Como	como	SCONJ	_	_	3	mark	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	almuerzo	almuerzo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	al	a	ADP	_	_	5	case	_	_
+5	mediodía	mediodía	NOUN	_	_	3	nmod	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	verduras	verdura	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	frutas	fruta	NOUN	_	Gender=Fem|Number=Plur	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carne	carne	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Estudio	estudio	VERB	_	Gender=Masc|Number=Sing	0	root	_	_
+2	biología	biología	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	matemáticas	matemática	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	2:00	2:00	NOUN	_	AdvType=Tim	1	obl	_	_
+8	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	9	det	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	días	día	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	4	det	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	6:00	6:00	NOUN	_	AdvType=Tim	1	obl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cama	cama	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	días	día	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	9:00	9:00	NOUN	_	AdvType=Tim	2	obl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	tarde	tarde	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

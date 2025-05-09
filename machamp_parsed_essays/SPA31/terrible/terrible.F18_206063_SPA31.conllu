@@ -1,0 +1,426 @@
+# Unnamed: 0 = 11
+# id = 206063
+# prompt = terrible
+# quarter = F18
+# course = SPA 31
+# age = 18
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 5.0
+# writing ability = 5.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una vez mi amiga *FIRST_NAME* y yo fuimos a un centro comercial de compras. A nosotras nos encanta ir a ver las especiales del mes así que fuimos al centro comercial más grande de la cuidad. *FIRST_NAME* le gusta ir a tiendas que casi no me gustan a mi. Planeamos en pasar menos de media hora en las tiendas que más queríamos comprar para que tuviéramos tiempo de comer y ver más tiendas. Me estaba aburriendo del gusto de tiendas que le encantaban a *FIRST_NAME* así que decidimos partir y ver otras tiendas de nuestro gusto. Decidimos de quedarnos de vernos en una hora hacia que partimos caminos. Ansiosamente fui a la tienda de “Papaya” donde le mandaba a *FIRST_NAME* muchas fotos de la ropa que me encantaba. También le marque a mi novio por chat de video para recibir su opinión en varios vestidos que me medí. No me había dado cuenta de la hora ya que me la estaba pasando bien. De repente prendi mi celular para llamarle a *FIRST_NAME* cuando se me apagó en absoluto. El pánico me entró ya que no tenía medio de comunicación para llamarla y no me sabía su número de memoria. Empeze a buscarla y no la encontraba. Fui a todas de sus tiendas favoritas pero no estaba ahí. Quise casi llorar porque soy muy miedosa y me dio un ataque de nervios. De pronto, un oficial del centro comercial me ayudó a buscarla pero al final no había rastro de ella. Pasaron casi dos horas sin saber de *FIRST_NAME* y me estaba dando por vencida. Por lo más que trate de cargar mi celular, ya no prendía para nada. Fue en ese entonces que me dio ganas de ir a usar el baño y cuando entre, *FIRST_NAME* estaba saliendo del baño. Al igual que ella, sentí mucho gusto de verla otra vez. Le expliqué mi situación de mi celular y al final me perdonó. Ahora recordamos esa historia ya que fue el día que me iba a dar un “ataque al corazón” por verla perdido en ese centro comercial.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	centro	centro	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	comercial	comercial	ADJ	_	Number=Sing	11	amod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	compras	compra	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	nosotras	yosotra	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+3	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ir	ir	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	especiales	especial	ADJ	_	Number=Plur	5	obj	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	mes	mes	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	así	así	ADV	_	_	14	mark	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
+14	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+15	al	a	ADP	_	_	16	case	_	_
+16	centro	centro	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+17	comercial	comercial	ADJ	_	Number=Sing	16	amod	_	_
+18	más	más	ADV	_	Degree=Cmp	19	advmod	_	_
+19	grande	grande	ADJ	_	Number=Sing	16	amod	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	cuidad	cuidad	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+8	casi	casi	ADV	_	_	11	advmod	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obl	_	_
+11	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Planeamos	planear	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	mark	_	_
+3	pasar	pasar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	menos	menos	ADV	_	Degree=Cmp	6	advmod	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	media	medio	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	_
+7	hora	hora	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+11	que	que	PRON	_	PronType=Rel	13	obj	_	_
+12	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
+13	queríamos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	acl	_	_
+14	comprar	comprar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+15	para	para	ADP	_	_	17	mark	_	_
+16	que	que	SCONJ	_	_	17	mark	_	_
+17	tuviéramos	tuviar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+18	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+19	de	de	ADP	_	_	20	mark	_	_
+20	comer	comer	VERB	_	VerbForm=Inf	18	acl	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	ver	ver	VERB	_	VerbForm=Inf	20	conj	_	_
+23	más	más	ADV	_	Degree=Cmp	24	advmod	_	_
+24	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+3	aburriendo	aburrir	VERB	_	VerbForm=Ger	0	root	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
+8	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	encantaban	encantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	acl	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+13	así	así	ADV	_	_	15	mark	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
+15	decidimos	decidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+16	partir	partir	VERB	_	VerbForm=Inf	15	xcomp	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	ver	ver	VERB	_	VerbForm=Inf	16	conj	_	_
+19	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
+20	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det	_	_
+23	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Decidimos	decidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	quedarnos	quedar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	vernos	ver	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	hacia	hacia	ADP	_	_	10	case	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	partimos	partimir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	acl	_	_
+12	caminos	camino	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ansiosamente	ansiosamente	ADV	_	_	2	advmod	_	_
+2	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	“	“	PUNCT	_	PunctType=Quot	8	punct	_	_
+8	Papaya	Papaya	PROPN	_	_	5	nmod	_	_
+9	”	”	PUNCT	_	PunctType=Quot	8	punct	_	_
+10	donde	donde	ADV	_	PronType=Rel	12	advmod	_	_
+11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	mandaba	mandar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	*FIRST_NAME*	*first_name*	PUNCT	_	_	8	punct	_	_
+15	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	16	det	_	_
+16	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	ropa	ropa	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+20	que	que	PRON	_	PronType=Rel	22	nsubj	_	_
+21	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	obl	_	_
+22	encantaba	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	acl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	marque	marcar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	novio	novio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	por	por	ADP	_	_	8	case	_	_
+8	chat	chat	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	video	video	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	recibir	recibir	VERB	_	VerbForm=Inf	3	advcl	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
+14	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
+17	vestidos	vestido	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+18	que	que	PRON	_	PronType=Rel	20	obj	_	_
+19	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	obl	_	_
+20	medí	meder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	acl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	4	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+3	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	4	compound	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	ya	ya	ADV	_	_	14	mark	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl	_	_
+12	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
+13	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+14	pasando	pasar	VERB	_	VerbForm=Ger	4	advcl	_	_
+15	bien	bien	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	De	de	ADP	_	_	3	advmod	_	_
+2	repente	repente	NOUN	_	_	1	fixed	_	_
+3	prendi	prender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	celular	celular	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	llamarle	llamar	VERB	_	VerbForm=Inf	3	advcl	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	punct	_	_
+10	cuando	cuando	SCONJ	_	_	13	mark	_	_
+11	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+12	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	apagó	apagar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+14	en	en	ADP	_	_	13	advmod	_	_
+15	absoluto	absoluto	NOUN	_	_	14	fixed	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pánico	pánico	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	entró	entrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ya	ya	ADV	_	_	8	mark	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	medio	medio	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	comunicación	comunicación	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	para	para	ADP	_	_	13	mark	_	_
+13	llamarla	llamar	VERB	_	VerbForm=Inf	8	advcl	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+16	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	17	obl	_	_
+17	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+18	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+19	número	número	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	memoria	memoria	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Empeze	empezar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	buscarla	buscar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	todas	todo	PRON	_	Gender=Fem|Number=Plur|PronType=Tot	1	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+7	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	pero	pero	CCONJ	_	_	10	cc	_	_
+9	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+10	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+11	ahí	ahí	ADV	_	_	10	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quise	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	casi	casi	ADV	_	_	3	advmod	_	_
+3	llorar	llorar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	miedosa	miedoso	ADJ	_	Gender=Fem|Number=Sing	1	advcl	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	nervios	nervio	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	De	de	ADP	_	_	10	advmod	_	_
+2	pronto	pronto	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	oficial	oficial	NOUN	_	Number=Sing	10	nsubj	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	centro	centro	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	comercial	comercial	ADJ	_	Number=Sing	7	amod	_	_
+9	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	ayudó	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	buscarla	buscar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	pero	pero	CCONJ	_	_	17	cc	_	_
+14	al	a	ADP	_	_	17	case	_	_
+15	final	final	NOUN	_	_	14	fixed	_	_
+16	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
+17	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	conj	_	_
+18	rastro	rastro	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	casi	casi	ADV	_	_	4	advmod	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+5	sin	sin	ADP	_	_	6	mark	_	_
+6	saber	saber	VERB	_	VerbForm=Inf	1	advcl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	punct	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obj	_	_
+11	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	dando	dar	VERB	_	VerbForm=Ger	1	conj	_	_
+13	por	por	ADP	_	_	14	case	_	_
+14	vencida	vencido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	5	mark	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
+3	más	más	ADV	_	Degree=Cmp	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
+5	trate	tratar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	cargar	cargar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	celular	celular	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+11	ya	ya	ADV	_	_	13	advmod	_	_
+12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
+13	prendía	prender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	para	para	ADP	_	_	15	case	_	_
+15	nada	nada	PRON	_	Number=Sing|PronType=Neg	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	ese	ese	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	entonces	entonces	ADV	_	_	1	advmod	_	_
+5	que	que	SCONJ	_	PronType=Rel	7	mark	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	ganas	gana	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	ir	ir	VERB	_	VerbForm=Inf	8	acl	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	usar	usar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	baño	baño	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	y	y	CCONJ	_	_	21	cc	_	_
+16	cuando	cuando	SCONJ	_	_	17	mark	_	_
+17	entre	entrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+18	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+19	*FIRST_NAME*	*first_name*	PUNCT	_	_	21	nsubj	_	_
+20	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
+21	saliendo	salir	VERB	_	VerbForm=Ger	7	conj	_	_
+22	del	de	ADP	_	_	23	case	_	_
+23	baño	baño	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Al	a	ADP	_	_	4	case	_	_
+2	igual	igual	ADJ	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	8	det	_	_
+8	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	verla	ver	VERB	_	VerbForm=Inf	8	acl	_	_
+11	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	12	det	_	_
+12	vez	vez	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	expliqué	explicar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	situación	situación	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	celular	celular	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	al	a	ADP	_	_	12	case	_	_
+10	final	final	NOUN	_	_	9	fixed	_	_
+11	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	perdonó	perdonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	recordamos	recordar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	ya	ya	ADV	_	_	9	mark	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	día	día	NOUN	_	Gender=Masc|Number=Sing	2	advcl	_	_
+10	que	que	PRON	_	PronType=Rel	12	obl	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl	_	_
+12	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	dar	dar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	“	“	PUNCT	_	PunctType=Quot	17	punct	_	_
+17	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+18	al	a	ADP	_	_	19	case	_	_
+19	corazón	corazón	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	”	”	PUNCT	_	PunctType=Quot	17	punct	_	_
+21	por	por	ADP	_	_	23	case	_	_
+22	verla	ver	VERB	_	VerbForm=Inf	14	advcl	_	_
+23	perdido	perdido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	22	xcomp	_	_
+24	en	en	ADP	_	_	26	case	_	_
+25	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	26	det	_	_
+26	centro	centro	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+27	comercial	comercial	ADJ	_	Number=Sing	26	amod	_	_
+28	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

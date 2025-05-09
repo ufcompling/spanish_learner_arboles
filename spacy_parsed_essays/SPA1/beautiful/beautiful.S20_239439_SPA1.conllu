@@ -1,0 +1,234 @@
+# Unnamed: 0 = 107
+# id = 239439
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Hindi
+# language(s) studied = Latin - 5 years
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = En el bosque, en [una]{un}<ga:det> *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y [ella]{}<pr:su:pron> vive con su abuela y su mama. Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan [la]{las}<na:det> frutas, [la]{las}<na:det> tres senoras van a su pequena casa. Son las once de []{la}<ab:det:art:def> manana y es hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su camina, [ella]{}<pr:su:pron> ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan [las]{}<pr:det:art:def> bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas quedar con una a la otra a desayunar en []{el}<ab:det:art:def> sabado.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = En el bosque, en [una]{un}<ga:det> *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y [ella]{}<pr:su:pron> vive con su abuela y su mama. []{La}<ab:det:art:def> Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan [la]{}<pr:det:art:def> frutas, [la]{las}<na:det> tres senoras van a su pequena casa. Son las once de []{la}<ab:det:art:def> manana y es []{la}<ab:det:art:def> hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su [camina]{camino}<gat:noun>, [ella]{}<pr:su:pron> ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan las bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas [quedar]{quedaron}<fs:st:t> con una a la otra a desayunar en sabado.
+# verbs annotation ann2 = nan
+# corrected1 = En un bosque, cerca de un palacio, vivía una bonita chica. Su nombre era Sofía. Tenía *AGE* años y vivía con su abuela, María, y su mamá, *FIRST_NAME*. Todos los días, Sofía, María y *FIRST_NAME* paseaban por el bosque en busca de bayas y otras frutas. Después de recolectar las frutas, las tres volvían a su pequeña casa. ¡Eran ya las once de la mañana y era hora del desayuno! También a las once, la princesa *FIRST_NAME* salía de palacio para ir a dar un paseo mañanero. Un día, en su salida diaria, vio una pequeña casa y una chica que se parecía a ella. Sofía también vio a la princesa y la saludó. La princesa *FIRST_NAME* respondió:  —Hola, ¿cómo se llama? —. Las dos chicas hablaron durante una hora mientras caminaban y recogían bayas y otras frutas. *FIRST_NAME* y Sofía se hicieron amigas con rapidez. Pronto, las dos chicas quedaron para desayunar juntas los sábados. 
+# corrected2 = nan
+# text = En el bosque, en una *PLACE*, cerca de el palacio, vive una bonita chica. La chica nombre es *FIRST_NAME*. *FIRST_NAME* tiene *AGE* anos y ella vive con su abuela y su mama. Abuela nombre es *FIRST_NAME* y su mama nombre es *FIRST_NAME*. Todos los dias, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME* caminan en el bosque buscan bayas y otras frutas. Despues, buscan la frutas, la tres senoras van a su pequena casa. Son las once de manana y es hora del desayuno! A las once, la princessa *FIRST_NAME* deja el palacio para ir a caminar por la manana. En su camina, ella ve una pequena casa y una chica se parecia a ella. *FIRST_NAME* ve la princessa y dice, "Hola". La princessa *FIRST_NAME* responde "Hola, como se llama?". Las dos chicas hablan por una hora y caminan las bayas y otras fruitas. *FIRST_NAME* y *FIRST_NAME* became amigas con rapidez. Pronto las dos chicas quedar con una a la otra a desayunar en sabado.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	bosque	bosque	NOUN	_	_	14	obl	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	*PLACE*	PLACE	PROPN	_	_	14	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	cerca	cerca	ADV	_	_	7	dep	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	palacio	palacio	NOUN	_	_	9	obl	_	_
+13	,	,	PUNCT	_	_	9	punct	_	_
+14	vive	vivir	VERB	_	_	0	ROOT	_	_
+15	una	uno	DET	_	_	16	det	_	_
+16	bonita	bonito	ADJ	_	_	14	nsubj	_	_
+17	chica	chico	ADJ	_	_	16	amod	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	chica	chica	NOUN	_	_	4	nsubj	_	_
+3	nombre	nombre	NOUN	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	nsubj	_	_
+4	anos	ano	ADJ	_	_	3	flat	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	ella	él	PRON	_	_	7	nsubj	_	_
+7	vive	vivir	VERB	_	_	2	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	abuela	abuela	NOUN	_	_	7	obl	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	su	su	DET	_	_	13	det	_	_
+13	mama	mama	NOUN	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Abuela	Abuela	PROPN	_	_	2	amod	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	mama	mama	NOUN	_	_	4	conj	_	_
+8	nombre	nombre	NOUN	_	_	7	amod	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Todos	todo	DET	_	_	2	det	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	dias	dia	NOUN	_	_	15	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	appos	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	11	nsubj	_	_
+11	caminan	caminar	VERB	_	_	3	conj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	bosque	bosque	NOUN	_	_	11	obl	_	_
+15	buscan	buscar	VERB	_	_	0	ROOT	_	_
+16	bayas	bayas	PROPN	_	_	15	obj	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	otras	otro	DET	_	_	19	det	_	_
+19	frutas	fruta	NOUN	_	_	16	conj	_	_
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+1	Despues	Despues	PROPN	_	_	3	nsubj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	buscan	buscar	VERB	_	_	0	ROOT	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	frutas	fruta	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	la	el	DET	_	_	9	det	_	_
+8	tres	tres	NUM	_	_	7	nummod	_	_
+9	senoras	senora	NOUN	_	_	10	nsubj	_	_
+10	van	ir	VERB	_	_	3	advcl	_	_
+11	a	a	ADP	_	_	14	case	_	_
+12	su	su	DET	_	_	14	det	_	_
+13	pequena	pequén	ADJ	_	_	14	amod	_	_
+14	casa	casa	NOUN	_	_	10	obl	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Son	ser	AUX	_	_	3	cop	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	once	once	NUM	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	manana	manana	NOUN	_	_	3	compound	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	hora	hora	NOUN	_	_	3	conj	_	_
+9	del	del	ADP	_	_	10	case	_	_
+10	desayuno	desayuno	NOUN	_	_	8	nmod	_	_
+11	!	!	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	_	3	det	_	_
+3	once	once	NUM	_	_	8	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	princessa	princessa	NOUN	_	_	8	nsubj	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	appos	_	_
+8	deja	dejar	VERB	_	_	0	ROOT	_	_
+9	el	el	DET	_	_	10	det	_	_
+10	palacio	palacio	NOUN	_	_	8	obj	_	_
+11	para	para	ADP	_	_	14	mark	_	_
+12	ir	ir	AUX	_	_	14	aux	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	caminar	caminar	VERB	_	_	8	advcl	_	_
+15	por	por	ADP	_	_	17	case	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	manana	manana	NOUN	_	_	14	obj	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	camina	camina	NOUN	_	_	6	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ella	él	PRON	_	_	6	nsubj	_	_
+6	ve	ver	VERB	_	_	0	ROOT	_	_
+7	una	uno	DET	_	_	9	det	_	_
+8	pequena	pequén	ADJ	_	_	9	amod	_	_
+9	casa	casa	NOUN	_	_	6	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	una	uno	DET	_	_	12	det	_	_
+12	chica	chica	NOUN	_	_	9	conj	_	_
+13	se	él	PRON	_	_	14	expl:pv	_	_
+14	parecia	pareciar	VERB	_	_	6	advcl	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	ella	él	PRON	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	ve	ver	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	princessa	princessa	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	dice	decir	VERB	_	_	2	conj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	"	"	PUNCT	_	_	9	punct	_	_
+9	Hola	Hola	PROPN	_	_	6	nsubj	_	_
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	princessa	princessa	NOUN	_	_	4	nsubj	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	appos	_	_
+4	responde	responder	VERB	_	_	0	ROOT	_	_
+5	"	"	PUNCT	_	_	6	punct	_	_
+6	Hola	Hola	PROPN	_	_	4	obj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	como	como	SCONJ	_	_	10	mark	_	_
+9	se	él	PRON	_	_	10	expl:pv	_	_
+10	llama	llamar	VERB	_	_	6	acl	_	_
+11	?	?	PUNCT	_	_	6	punct	_	_
+12	"	"	PUNCT	_	_	4	punct	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Las	el	DET	_	_	3	det	_	_
+2	dos	dos	NUM	_	_	1	nummod	_	_
+3	chicas	chica	NOUN	_	_	4	nsubj	_	_
+4	hablan	hablar	VERB	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	hora	hora	NOUN	_	_	4	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	caminan	caminar	VERB	_	_	4	conj	_	_
+10	las	el	DET	_	_	11	det	_	_
+11	bayas	baya	NOUN	_	_	9	obj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	otras	otro	PRON	_	_	11	conj	_	_
+14	fruitas	fruita	ADJ	_	_	11	amod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	1	conj	_	_
+4	became	becamir	VERB	_	_	0	ROOT	_	_
+5	amigas	amiga	NOUN	_	_	4	obj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	rapidez	rapidez	NOUN	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Pronto	pronto	ADV	_	_	5	advmod	_	_
+2	las	el	DET	_	_	4	det	_	_
+3	dos	dos	NUM	_	_	2	nummod	_	_
+4	chicas	chica	NOUN	_	_	5	nsubj	_	_
+5	quedar	quedar	VERB	_	_	0	ROOT	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	una	uno	PRON	_	_	5	obl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	otra	otro	PRON	_	_	7	nmod	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	desayunar	desayunar	VERB	_	_	5	xcomp	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	sabado	sabado	ADJ	_	_	12	obl	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+

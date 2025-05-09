@@ -1,0 +1,215 @@
+# Unnamed: 0 = 184
+# id = 227491
+# prompt = yourself
+# quarter = W21
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English,Spanish
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Neither comfortable nor uncomfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Tengo *AGE* años. Yo soy de *CITY*, *STATE*. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Yo soy muy atlética y aventurera. También soy muy estudiosa y activa. Yo estoy viviendo en *CITY* ahora. Me gusta cocinar cuando estoy aburrida o tengo hambre. Yo tengo tres hermanos. Tengo una gata llamada *FIRST_NAME*. Mi gusta a tocar musíca cuando yo estoy haciendo mi tarea. Mi favorito color es morado y azul. Estoy estudiando español para hablar con mis abuelos y todos los que hablan español. Quiero a visitar todo los parques Nacionales cuando la pandemica se termine. Yo quiero aventura afueda porque estoy en mi casa todo el dia. Ahora estoy en *CITY* y vivo con cinco personas en mi apartmento. Me gusta la frío porque yo tomo chocolate caliente pero me da sueño muy rapido. Me gusta mirar peliculas de Disney cuando me canso de tarea. También me gusta horniar postres.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	atlética	atlético	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	aventurera	aventurera	VERB	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	estudiosa	estudiós	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	activa	activo	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	viviendo	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	ahora	ahora	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	cocinar	cocinar	VERB	_	_	2	csubj	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	estoy	estar	AUX	_	_	6	cop	_	_
+6	aburrida	aburrido	ADJ	_	_	3	advcl	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	tengo	tener	VERB	_	_	6	conj	_	_
+9	hambre	hambre	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	tres	tres	NUM	_	_	4	nummod	_	_
+4	hermanos	hermano	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	gata	gata	NOUN	_	_	1	obj	_	_
+4	llamada	llamado	ADJ	_	_	3	amod	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	tocar	tocar	VERB	_	_	2	acl	_	_
+5	musíca	musíca	NOUN	_	_	4	obj	_	_
+6	cuando	cuando	SCONJ	_	_	9	mark	_	_
+7	yo	yo	PRON	_	_	9	nsubj	_	_
+8	estoy	estar	AUX	_	_	9	aux	_	_
+9	haciendo	hacer	VERB	_	_	4	advcl	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	tarea	tarea	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	3	det	_	_
+2	favorito	favorito	ADJ	_	_	3	amod	_	_
+3	color	color	NOUN	_	_	5	nsubj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	morado	morado	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	azul	azul	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Estoy	estar	AUX	_	_	2	aux	_	_
+2	estudiando	estudiar	VERB	_	_	0	ROOT	_	_
+3	español	español	ADJ	_	_	2	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	hablar	hablar	VERB	_	_	2	advcl	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mis	mi	DET	_	_	8	det	_	_
+8	abuelos	abuelo	NOUN	_	_	5	obl	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	todos	todo	DET	_	_	11	det	_	_
+11	los	el	DET	_	_	13	det	_	_
+12	que	que	PRON	_	_	13	nsubj	_	_
+13	hablan	hablar	VERB	_	_	5	conj	_	_
+14	español	español	NOUN	_	_	13	obj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	visitar	visitar	VERB	_	_	1	xcomp	_	_
+4	todo	todo	DET	_	_	5	det	_	_
+5	los	el	DET	_	_	6	det	_	_
+6	parques	parque	NOUN	_	_	3	obj	_	_
+7	Nacionales	Nacionales	PROPN	_	_	6	appos	_	_
+8	cuando	cuando	SCONJ	_	_	12	mark	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	pandemica	pandemica	NOUN	_	_	12	nsubj	_	_
+11	se	él	PRON	_	_	12	expl:pv	_	_
+12	termine	terminar	VERB	_	_	3	advcl	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	quiero	querer	VERB	_	_	0	ROOT	_	_
+3	aventura	aventura	NOUN	_	_	2	obj	_	_
+4	afueda	afuedar	VERB	_	_	2	obj	_	_
+5	porque	porque	SCONJ	_	_	6	mark	_	_
+6	estoy	estar	VERB	_	_	2	advcl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	casa	casa	NOUN	_	_	6	obl	_	_
+10	todo	todo	DET	_	_	11	det	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	dia	dia	PROPN	_	_	6	nsubj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	estoy	estar	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	vivo	vivo	ADJ	_	_	4	conj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	cinco	cinco	NUM	_	_	9	nummod	_	_
+9	personas	persona	NOUN	_	_	2	obl	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	apartmento	apartmento	NOUN	_	_	2	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	frío	frío	NOUN	_	_	2	nsubj	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
+6	yo	yo	PRON	_	_	8	nsubj	_	_
+7	tomo	tomo	VERB	_	_	6	flat	_	_
+8	chocolate	chocolate	NOUN	_	_	2	advcl	_	_
+9	caliente	caliente	ADJ	_	_	8	amod	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	da	dar	VERB	_	_	2	conj	_	_
+13	sueño	sueño	NOUN	_	_	12	obj	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	rapido	rapido	ADJ	_	_	13	amod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mirar	mirar	VERB	_	_	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Disney	Disney	PROPN	_	_	4	nmod	_	_
+7	cuando	cuando	SCONJ	_	_	9	mark	_	_
+8	me	yo	PRON	_	_	9	obj	_	_
+9	canso	cansar	VERB	_	_	2	csubj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	tarea	tarea	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	horniar	horniar	VERB	_	_	3	csubj	_	_
+5	postres	postre	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+

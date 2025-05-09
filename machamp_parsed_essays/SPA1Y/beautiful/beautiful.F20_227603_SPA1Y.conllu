@@ -1,0 +1,142 @@
+# Unnamed: 0 = 126
+# id = 227603
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1Y
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 4 or more
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Cada oportunidad que tengo Paro a conseguir a las personas sin hogar un paquete de atención. Voy a *PLACE* a por una manta y comida. [Yo]{}<pr:su:pron> pongo comida extra y cosas importantes en el maletero para que pueda dárselo a alguien que está necesitado, para que todos puedan vivir una vida agradable, nunca espero nada a cambio, lo hago por el amor en mi corazón. Lo hago para devolver a mi comunidad. Por encima de todo, sólo quiero ayudar todo lo que pueda, espero tener un impacto en la vida de muchas personas y asegurar que todos se alimentan.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Cada oportunidad que tengo Paro a conseguir a las personas sin hogar un paquete de atención. Voy a *PLACE* a por una manta y comida. [Yo]{}<pr:su:pron> pongo comida extra y cosas importantes en el maletero para que pueda dárselo a alguien que está necesitado, para que todos puedan vivir una vida agradable, nunca espero nada a cambio, lo hago por el amor en mi corazón. Lo hago para devolver a mi comunidad. Por encima de todo, sólo quiero ayudar todo lo que pueda, espero tener un impacto en la vida de muchas personas y asegurar que todos se alimentan.
+# verbs annotation ann2 = nan
+# corrected1 = Cada oportunidad que tengo para conseguir a las personas sin hogar un paquete de atención voy a *PLACE* a por una manta y comida. Pongo comida extra y cosas importantes en el maletero para que pueda dárselo a alguien que está necesitado, para que todos puedan vivir una vida agradable, nunca espero nada a cambio, lo hago por el amor en mi corazón. Lo hago para devolver a mi comunidad. Por encima de todo, sólo quiero ayudar todo lo que pueda, espero tener un impacto en la vida de muchas personas y asegurar que todos se alimenten.
+# corrected2 = nan
+# text = Cada oportunidad que tengo Paro a conseguir a las personas sin hogar un paquete de atención. Voy a *PLACE* a por una manta y comida. Yo pongo comida extra y cosas importantes en el maletero para que pueda dárselo a alguien que está necesitado, para que todos puedan vivir una vida agradable, nunca espero nada a cambio, lo hago por el amor en mi corazón. Lo hago para devolver a mi comunidad. Por encima de todo, sólo quiero ayudar todo lo que pueda, espero tener un impacto en la vida de muchas personas y asegurar que todos se alimentan.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cada	cada	DET	_	Number=Sing|PronType=Tot	2	det	_	_
+2	oportunidad	oportunidad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	Paro	Paro	PROPN	_	_	4	nsubj	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	conseguir	conseguir	VERB	_	VerbForm=Inf	2	acl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	personas	persona	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+11	sin	sin	ADP	_	_	12	case	_	_
+12	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	paquete	paquete	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	atención	atención	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	7	case	_	_
+3	*PLACE*	*place*	SYM	_	_	1	dep	_	_
+4	a	a	ADP	_	_	7	nmod	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	manta	manta	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	comida	comida	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	pongo	poner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	extra	extra	ADJ	_	Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+7	importantes	importante	ADJ	_	Number=Plur	6	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	maletero	maletero	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+11	para	para	ADP	_	_	14	mark	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	pueda	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	dárselo	dárs	VERB	_	VerbForm=Inf	2	advcl	_	_
+15	a	a	ADP	_	_	16	case	_	_
+16	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	14	obl	_	_
+17	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
+18	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	necesitado	necesitado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
+21	para	para	ADP	_	_	25	mark	_	_
+22	que	que	SCONJ	_	_	25	mark	_	_
+23	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	25	nsubj	_	_
+24	puedan	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	vivir	vivir	VERB	_	VerbForm=Inf	14	advcl	_	_
+26	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	vida	vida	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_
+28	agradable	agradable	ADJ	_	Number=Sing	27	amod	_	_
+29	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+30	nunca	nunca	ADV	_	_	31	advmod	_	_
+31	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+32	nada	nada	PRON	_	Number=Sing|PronType=Neg	31	obj	_	_
+33	a	a	ADP	_	_	31	advmod	_	_
+34	cambio	cambio	NOUN	_	_	33	fixed	_	_
+35	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
+36	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	obj	_	_
+37	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	advcl	_	_
+38	por	por	ADP	_	_	40	case	_	_
+39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	amor	amor	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	_
+41	en	en	ADP	_	_	43	case	_	_
+42	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	43	det	_	_
+43	corazón	corazón	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	_
+44	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	para	para	ADP	_	_	4	mark	_	_
+4	devolver	devolver	VERB	_	VerbForm=Inf	2	advcl	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Por	por	ADP	_	_	7	advmod	_	_
+2	encima	encima	ADV	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	1	fixed	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	sólo	sólo	ADV	_	_	7	advmod	_	_
+7	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ayudar	ayudar	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	10	det	_	_
+10	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	det	_	_
+11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+12	pueda	poder	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+15	tener	tener	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	impacto	impacto	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	vida	vida	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	23	det	_	_
+23	personas	persona	NOUN	_	Gender=Fem|Number=Plur	20	nmod	_	_
+24	y	y	CCONJ	_	_	25	cc	_	_
+25	asegurar	asegurar	VERB	_	VerbForm=Inf	15	conj	_	_
+26	que	que	SCONJ	_	_	29	mark	_	_
+27	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	29	nsubj	_	_
+28	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl	_	_
+29	alimentan	alimentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	_
+30	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+

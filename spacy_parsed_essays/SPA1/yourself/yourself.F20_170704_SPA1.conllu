@@ -1,0 +1,240 @@
+# Unnamed: 0 = 84
+# id = 170704
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 3
+# speaking ability = No
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola, amigos! Mi nombre es *FIRST_NAME* y mi apellido es *LAST_NAME*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*) y mi número de teléfono es *NUMBER*. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de *CITY*, *PLACE*, pero vivo en *CITY*, *STATE* para estudio en []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estudio ciencias de biología y gusto mucho mi especialización. Me encanta []{la}<ab:det:art:def> medicina y []{la}<ab:det:art:def> psicología también. Este cuarto, me tengo tres cursos: biología, química, y español.  Soy estudiosa, sedentaria, y tímida. Ahora estoy ocupada, nerviosa, y cansada con mi tarea. También tengo muy hambre, sed, y sueño. Me encanta la cocina y la lectura. Mi comida favorida es la comida de *PLACE*. Siempre cocinar el almuerzo y la cena en mi apartamento.  Cuando estoy en *CITY*, extrañar mucho mi familia y [todo]{todos}<ga:adj> [mi]{mis}<na:det> [amigo]{amigos}<na:noun> porque ellos están en *CITY*. [Todo]{todos}<na_adj> [mi]{mis}<na:det> [compañero]{compañeros}<na:noun> de cuarto estoy en *CITY* porque []{el}<ab:det:art:def> COVID-19. Ahora estoy muy aburrida.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola, amigos! Mi nombre es *FIRST_NAME* y mi apellido es *LAST_NAME*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*) y mi número de teléfono es *NUMBER*. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de *CITY*, *PLACE*, pero vivo en *CITY*, *STATE* para [estudio]{estudiar}<fs:st:t> en []{la}<ab:det:art:def> Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estudio ciencias de []{la}<ab:det:art:def> biología y [gusto]{gusta}<fs:st:pn> mucho mi especialización. Me encanta []{la}<ab:det:art:def> medicina y []{la}<ab:det:art:def> psicología también. Este cuarto, me tengo tres cursos: biología, química, y español.  Soy estudiosa, sedentaria, y tímida. Ahora estoy ocupada, nerviosa, y cansada con mi tarea. También tengo muy hambre, sed, y sueño. Me encanta la cocina y la lectura. Mi comida favorida es la comida de *PLACE*. Siempre [cocinar]{cocino}<fs:st:t> el almuerzo y la cena en mi apartamento.  Cuando estoy en *CITY*, [extrañar]{extraño}<fs:st:t> mucho mi familia y [todo]{todos}<na:det> [mi]{mis}<na:det> [amigo]{amigos}<na:noun> porque [ellos]{}<pr:su:pron> están en *CITY*. [Todo]{Todos}<na:det> [mi]{mis}<na:det> [compañero]{compañeros}<na:noun> de cuarto [estoy]{están}<fs:st:pn> en *CITY* porque COVID-19. Ahora estoy muy aburrida.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola, amigos! Mi nombre es *FIRST_NAME* y mi apellido es *LAST_NAME*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*) y mi número de teléfono es *NUMBER*. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de *CITY*, *PLACE*, pero vivo en *CITY*, *STATE* porque estudio en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Estudio ciencias de biología y me gusta mucho mi especialización. Me encanta la medicina y también la psicología. Este cuatrimestre tengo tres cursos: biología, química y español.  Soy una persona estudiosa, sedentaria y tímida. Ahora estoy ocupada, nerviosa y cansada por mi tarea. También tengo mucha hambre, sed y sueño. Me encantan la cocina y la lectura. Mi comida favorita es la comida de *PLACE*. Siempre hago el almuerzo y la cena en mi apartamento.  Cuando estoy en *CITY*, extraño mucho a mi familia y a todos mis amigos porque ellos están en *CITY*. Todos mis compañeros de cuarto están en *CITY* por el COVID-19. Ahora estoy muy aburrida.
+# corrected2 = nan
+# text = ¡Hola, amigos! Mi nombre es *FIRST_NAME* y mi apellido es *LAST_NAME*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*) y mi número de teléfono es *NUMBER*. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de *CITY*, *PLACE*, pero vivo en *CITY*, *STATE* para estudio en Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estudio ciencias de biología y gusto mucho mi especialización. Me encanta medicina y psicología también. Este cuarto, me tengo tres cursos: biología, química, y español. Soy estudiosa, sedentaria, y tímida. Ahora estoy ocupada, nerviosa, y cansada con mi tarea. También tengo muy hambre, sed, y sueño. Me encanta la cocina y la lectura. Mi comida favorida es la comida de *PLACE*. Siempre cocinar el almuerzo y la cena en mi apartamento. Cuando estoy en *CITY*, extrañar mucho mi familia y todo mi amigo porque ellos están en *CITY*. Todo mi compañero de cuarto estoy en *CITY* porque COVID-19. Ahora estoy muy aburrida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	_	2	punct	_	_
+2	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	amigos	amigo	NOUN	_	_	2	appos	_	_
+5	!	!	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	nombre	nombre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	apellido	apellido	NOUN	_	_	4	conj	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	*LAST_NAME*	last_name	VERB	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	dirección	dirección	NOUN	_	_	19	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	correo	correo	NOUN	_	_	2	nmod	_	_
+5	electrónico	electrónico	ADJ	_	_	4	amod	_	_
+6	es	ser	AUX	_	_	19	cop	_	_
+7	[	[	ADJ	_	_	19	case	_	_
+8	*EMAIL*	EMAIL	PROPN	_	_	7	flat	_	_
+9	]	]	PROPN	_	_	8	flat	_	_
+10	(	(	PUNCT	_	_	11	punct	_	_
+11	*EMAIL*	EMAIL	PROPN	_	_	8	flat	_	_
+12	)	)	PUNCT	_	_	11	punct	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	número	número	NOUN	_	_	19	nsubj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	teléfono	teléfono	NOUN	_	_	15	nmod	_	_
+18	es	ser	AUX	_	_	19	cop	_	_
+19	*NUMBER*	NUMBER	PROPN	_	_	0	ROOT	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	20	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	*PLACE*	PLACE	PROPN	_	_	1	appos	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	vivo	vivir	VERB	_	_	1	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	obl	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	*STATE*	STATE	PROPN	_	_	1	appos	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	estudio	estudio	NOUN	_	_	12	nmod	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	Universidad	Universidad	PROPN	_	_	14	nmod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	16	flat	_	_
+19	,	,	PUNCT	_	_	12	punct	_	_
+20	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	0	ROOT	_	_
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+3	ciencias	ciencia	NOUN	_	_	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	biología	biología	NOUN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	gusto	gusto	NOUN	_	_	2	conj	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	especialización	especialización	NOUN	_	_	2	nsubj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	medicina	medicín	ADJ	_	_	2	nsubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	psicología	psicología	NOUN	_	_	3	conj	_	_
+6	también	también	ADV	_	_	3	advmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Este	este	DET	_	_	2	det	_	_
+2	cuarto	cuarto	ADJ	_	_	5	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	me	yo	PRON	_	_	5	expl:pv	_	_
+5	tengo	tener	VERB	_	_	0	ROOT	_	_
+6	tres	tres	NUM	_	_	7	nummod	_	_
+7	cursos	curso	NOUN	_	_	5	obj	_	_
+8	:	:	PUNCT	_	_	9	punct	_	_
+9	biología	biología	NOUN	_	_	7	appos	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	química	químico	ADJ	_	_	9	conj	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	español	español	ADJ	_	_	9	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	estudiosa	estudiós	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	sedentaria	sedentario	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tímida	tímido	ADJ	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	ocupada	ocupado	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	nerviosa	nervioso	ADJ	_	_	3	nsubj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	cansada	cansado	ADJ	_	_	3	conj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	tarea	tarea	NOUN	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	hambre	hambre	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	sed	sed	NOUN	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	sueño	sueño	NOUN	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	cocina	cocina	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	lectura	lectura	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	6	nsubj	_	_
+3	favorida	favorido	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	comida	comida	NOUN	_	_	0	ROOT	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*PLACE*	PLACE	PROPN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	2	advmod	_	_
+2	cocinar	cocinar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	almuerzo	almuerzo	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	cena	cena	NOUN	_	_	4	conj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	apartamento	apartamento	NOUN	_	_	2	obl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	estoy	estar	VERB	_	_	6	advcl	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	extrañar	extrañar	VERB	_	_	0	ROOT	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	6	obj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	todo	todo	DET	_	_	12	det	_	_
+12	mi	mi	DET	_	_	13	det	_	_
+13	amigo	amigo	NOUN	_	_	9	conj	_	_
+14	porque	porque	SCONJ	_	_	18	mark	_	_
+15	ellos	él	PRON	_	_	18	nsubj	_	_
+16	están	estar	AUX	_	_	18	cop	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	*CITY*	CITY	PROPN	_	_	6	advcl	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Todo	todo	DET	_	_	3	det	_	_
+2	mi	mi	DET	_	_	1	det	_	_
+3	compañero	compañero	NOUN	_	_	6	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	cuarto	cuarto	ADJ	_	_	3	nmod	_	_
+6	estoy	estar	AUX	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	COVID-19	COVID-19	PROPN	_	_	6	obl	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	estoy	estar	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	aburrida	aburrido	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+

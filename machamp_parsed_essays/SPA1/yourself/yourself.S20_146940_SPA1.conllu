@@ -1,0 +1,253 @@
+# Unnamed: 0 = 60
+# id = 146940
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 22
+# gender = Female
+# l1 language = English,Other
+# other l1 language(s) = Gujarati 
+# language(s) used at home = Gujarati
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Soy de *CITY*, *STATE*, pero estoy in *CITY*, *STATE* en la casa de mi tia. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. La ciudad de mi nacimiento es *CITY*, *STATE*. Soy muy trabajadora, estudiosa, y sincera. Me gusta leer libros de ciencias naturales y sociales, cocinar con mi tia, y practicar ballet en mi tiempo libre. Ahora estoy estresada porque [mucho]{mucha}<ga:det> tarea de la escuela. Tengo cuartos cursos en este semestre: 1) espanol uno, 2) la inmigraction en diferentes piases, 3) las politicas sociales, y 4) la investigaccion en ciencias sociales. Me encanta []{la}<ab:det:art:def> escuela porque [los]{las}<ga:det> lecciones son interesantes. Ademas, hablo dos idiomas, ingles y gujarati. Trabajo en un hotel. Estudio en la universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especializacion es sociologia; me gusta la pisologia humana tambien. Mi comida favorita es "pau bahji" (comida de gujarat, india). No me gusto las redes sociales [muchos]{mucho}<na:adv> porque me gusta hablar en persona. Gracias por [este]{esta}<ga:det> oportunidad! Escribir sobre yo es muy divertido en espanol, pero no mas divertido en ingles!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Soy de *CITY*, *STATE*, pero estoy in *CITY*, *STATE* en la casa de mi tia. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. La ciudad de mi nacimiento es *CITY*, *STATE*. Soy muy trabajadora, estudiosa, y sincera. Me gusta leer libros de ciencias naturales y sociales, cocinar con mi tia, y practicar ballet en mi tiempo libre. Ahora estoy estresada porque [mucho]{mucha}<ga:det> tarea de la escuela. Tengo [cuartos]{cuatro}<in:adj> cursos en este semestre: 1) espanol uno, 2) la inmigraction en diferentes piases, 3) las politicas sociales, y 4) la investigaccion en ciencias sociales. Me encanta []{la}<ab:det:art:def> escuela porque [los]{las}<ga:det> lecciones son interesantes. Ademas, hablo dos idiomas, ingles y gujarati. Trabajo en un hotel. Estudio en la universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especializacion es sociologia; me gusta la pisologia humana tambien. Mi comida favorita es "pau bahji" (comida de gujarat, india). No me [gusto]{gustan}<fs:st:pn> las redes sociales [muchos]{mucho}<in:adv> porque me gusta hablar en persona. Gracias por [este]{esta}<ga:det> oportunidad! Escribir sobre yo es muy divertido en espanol, pero no mas divertido en ingles!
+# verbs annotation ann2 = nan
+# corrected1 = Soy de *CITY*, *STATE*, pero estoy en *CITY*, *STATE* en la casa de mi tía. Mi cumpleaños es el *BIRTH_DATE* de febrero. La ciudad de mi nacimiento es *CITY*, *STATE*. Soy muy trabajadora, estudiosa, y sincera. Me gusta leer libros de ciencias naturales y sociales, cocinar con mi tía, y practicar ballet en mi tiempo libre. Ahora estoy estresada porque tengo mucha tarea de la escuela. Tengo cuatros cursos en este semestre: 1) español uno, 2) la inmigración en diferentes países, 3) las políticas sociales, y 4) la investigación en ciencias sociales. Me encanta la escuela porque las lecciones son interesantes. Además, hablo dos idiomas, inglés y gujarati. Trabajo en un hotel. Estudio en la universidad de California, Davis. Mi especialización es sociología; me gusta la psicología humana también. Mi comida favorita es "pau bahji" (comida de gujarat, india). No me gustan las redes sociales mucho porque me gusta hablar en persona. ¡Gracias por esta oportunidad! Escribir sobre mi es muy divertido en español, pero no más divertido que en ingles.
+# corrected2 = nan
+# text = Soy de *CITY*, *STATE*, pero estoy in *CITY*, *STATE* en la casa de mi tia. Mi cumpleanos es el *BIRTH_DATE* de *BIRTH_DATE*. La ciudad de mi nacimiento es *CITY*, *STATE*. Soy muy trabajadora, estudiosa, y sincera. Me gusta leer libros de ciencias naturales y sociales, cocinar con mi tia, y practicar ballet en mi tiempo libre. Ahora estoy estresada porque mucho tarea de la escuela. Tengo cuartos cursos en este semestre: 1) espanol uno, 2) la inmigraction en diferentes piases, 3) las politicas sociales, y 4) la investigaccion en ciencias sociales. Me encanta escuela porque los lecciones son interesantes. Ademas, hablo dos idiomas, ingles y gujarati. Trabajo en un hotel. Estudio en la universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especializacion es sociologia; me gusta la pisologia humana tambien. Mi comida favorita es "pau bahji" (comida de gujarat, india). No me gusto las redes sociales muchos porque me gusta hablar en persona. Gracias por este oportunidad! Escribir sobre yo es muy divertido en espanol, pero no mas divertido en ingles!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	SYM	_	_	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*STATE*	*state*	SYM	_	_	3	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	in	in	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	SYM	_	_	8	obl	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	*STATE*	*state*	PUNCT	_	_	10	punct	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	tia	tia	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	cumpleanos	cumpleano	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+5	*BIRTH_DATE*	*birth_date*	PUNCT	_	PunctType=Quot	4	punct	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	nacimiento	nacimiento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+7	*CITY*	*city*	SYM	_	_	2	dep	_	_
+8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+9	*STATE*	*state*	PUNCT	_	_	2	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	estudiosa	estudios	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	sincera	sincero	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leer	leer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	libros	libro	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
+7	naturales	natural	ADJ	_	Number=Plur	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	sociales	social	ADJ	_	Number=Plur	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	cocinar	cocinar	VERB	_	VerbForm=Inf	3	advcl	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	tia	tia	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	practicar	practicar	VERB	_	VerbForm=Inf	3	conj	_	_
+18	ballet	ballet	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+22	libre	libre	ADJ	_	Number=Sing	21	amod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	estresada	estresado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cuartos	cuarto	ADJ	_	Number=Plur|NumForm=Word|NumType=Card	3	amod	_	_
+3	cursos	curso	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	:	:	PUNCT	_	PunctType=Colo	10	punct	_	_
+8	1	1	NUM	_	NumForm=Digit|NumType=Card	10	nummod	_	_
+9	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	_
+10	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+11	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	10	appos	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	2	2	NUM	_	NumForm=Digit|NumType=Card	16	appos	_	_
+14	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	inmigraction	inmigraction	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	diferentes	diferente	DET	_	Number=Plur|PronType=Ind	19	det	_	_
+19	piases	piase	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	_
+20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+21	3	3	NUM	_	NumForm=Digit|NumType=Card	24	appos	_	_
+22	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	21	punct	_	_
+23	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	politicas	politica	NOUN	_	Gender=Fem|Number=Plur	10	conj	_	_
+25	sociales	social	ADJ	_	Number=Plur	24	amod	_	_
+26	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+27	y	y	CCONJ	_	_	28	cc	_	_
+28	4	4	NUM	_	NumForm=Digit|NumType=Card	31	nummod	_	_
+29	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	28	punct	_	_
+30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	investigaccion	investigaccion	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	_
+32	en	en	ADP	_	_	33	case	_	_
+33	ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
+34	sociales	social	ADJ	_	Number=Plur	33	amod	_	_
+35	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	porque	porque	SCONJ	_	_	8	mark	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	lecciones	lección	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	interesantes	interesante	ADJ	_	Number=Plur	2	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ademas	ademas	NOUN	_	Gender=Fem|Number=Plur	3	dep	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	idiomas	idioma	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	ingles	ingl	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	gujarati	gujarati	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	*university*	PUNCT	_	_	1	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	1	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especializacion	especializacion	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	sociologia	sociologia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	;	;	PUNCT	_	PunctType=Semi	4	punct	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pisologia	pisologia	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+10	humana	humano	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	tambien	tambien	ADV	_	_	7	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+6	pau	pau	NOUN	_	_	0	root	_	_
+7	bahji	bahji	NOUN	_	_	6	compound	_	_
+8	"	"	PUNCT	_	PunctType=Quot	6	punct	_	_
+9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	10	punct	_	_
+10	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	gujarat	gujarat	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	india	india	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	_
+15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obl	_	_
+3	gusto	gustar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	redes	red	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	sociales	social	ADJ	_	Number=Plur	5	amod	_	_
+7	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	10	nsubj	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	hablar	hablar	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	persona	persona	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Gracias	gracias	INTJ	_	_	11	dep	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	oportunidad	oportunidad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+6	Escribir	escribir	VERB	_	VerbForm=Inf	11	csubj	_	_
+7	sobre	sobre	ADP	_	_	8	case	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	espanol	espanol	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	pero	pero	CCONJ	_	_	18	cc	_	_
+16	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
+17	mas	mas	ADV	_	_	18	advmod	_	_
+18	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	11	conj	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	ingles	ingles	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	_
+21	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+

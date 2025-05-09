@@ -1,0 +1,379 @@
+# Unnamed: 0 = 43
+# id = 170827
+# prompt = yourself
+# quarter = F20
+# course = SPA 2
+# age = 28
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = Yes. 6 months to 1 year.
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Soy estudiante graduada de biología. Yo vivo en *CITY*, pero yo soy de *CITY*. Tengo *AGE* años. Soy alta y delgada. Tengo los ojos castaños y el pelo moreno. Soy intelligente y curiousa. Me gusta correr y concinar. Quiero estudiar español porque mi novio es de *PLACE*. Su abuelo paterno solo habla español. Lo amo mucho. No estamos casados, pero vivimos juntos. Mi familia es pequeña. Yo tengo una madre, un padre, y una hermana menor. Mi madre se llama *FIRST_NAME*. Tiene los ojos vertes y el pelo [rubia]{rubio}<gat:adj>. Es muy alta. Es médica. Es amable y lista. A ella le gusta leer y bañarse. Tiene *AGE* y *AGE* años. Mi padre se llama *FIRST_NAME*. Tiene los ojos castaños y es calvo. Es gordito y fuerte. También es muy [alta]{alto}<ga:adj>. Es sensible y generoso. A él le gusta ver películas y hablar con sus amigos. Tiene sesenta y uno años. Mi madre y mi padre viven en *CITY*. Mi hermana se llama *FIRST_NAME*. Es maestra de escuela secondaria. Tiene los ojos castaños y el pelo moreno, como yo. También es muy alta. Es delgada y guapa. Es comprensiva y creativa. Ella es mi [amiga mayor]{mayor amiga}<col:adj>. A ella le gusta caminar y coser. Tiene *AGE* años. Vive en *CITY*. Tengo una gata. Se llama *FIRST_NAME*. Es muy cara porque está enferma a menudo, pero [lo]{la}<ga:pron> amo mucho. Es pequeña pero muy fuerte. Tiene el pelo gris y largo. Cada día habla conmigo. Le gusta el sol y dormir. Tiene *AGE* años.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! Soy []{una}<ab:det:art:indef> estudiante graduada de biología. [Yo]{}<pr:su:pron> vivo en *CITY*, pero [yo]{}<pr:su:pron> soy de *CITY*. Tengo *AGE* años. Soy alta y delgada. Tengo los ojos castaños y el pelo moreno. Soy intelligente y curiousa. Me gusta correr y [concinar]{cocinar}<fs:st:r>. Quiero estudiar español porque mi novio es de *PLACE*. Su abuelo paterno solo habla español. Lo amo mucho. No estamos casados, pero vivimos juntos. Mi familia es pequeña. [Yo]{}<pr:su:pron> tengo una madre, un padre, y una hermana menor. Mi madre se llama *FIRST_NAME*. Tiene los ojos vertes y el pelo [rubia]{rubio}<ga:adj>. Es muy alta. Es médica. Es amable y lista. A ella le gusta leer y bañarse. Tiene *AGE* y *AGE* años. Mi padre se llama *FIRST_NAME*. Tiene los ojos castaños y es calvo. Es gordito y fuerte. También es muy [alta]{alto}<ga:adj>. Es sensible y generoso. A él le gusta ver películas y hablar con sus amigos. Tiene sesenta y uno años. Mi madre y mi padre viven en *CITY*. Mi hermana se llama *FIRST_NAME*. Es maestra de escuela secondaria. Tiene los ojos castaños y el pelo moreno, como yo. También es muy alta. Es delgada y guapa. Es comprensiva y creativa. [Ella]{}<pr:su:pron> es mi amiga mayor. A ella le gusta caminar y coser. Tiene *AGE* años. Vive en *CITY*. Tengo una gata. Se llama *FIRST_NAME*. Es muy cara porque está enferma a menudo, pero [lo]{la}<ga:pron> amo mucho. Es pequeña pero muy fuerte. Tiene el pelo gris y largo. Cada día habla conmigo. Le gusta el sol y dormir. Tiene *AGE* años.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy estudiante graduada de biología. Yo vivo en *CITY*, pero yo soy de *CITY*. Tengo *AGE* años. Soy alta y delgada. Tengo los ojos castaños y el pelo moreno. Soy inteligente y curiosa. Me gusta correr y cocinar. Quiero estudiar español porque mi novio es de México. Su abuelo paterno solo habla español. Lo amo mucho. No estamos casados, pero vivimos juntos. Mi familia es pequeña. Yo tengo una madre, un padre y una hermana menor. Mi madre se llama *FIRST_NAME*. Tiene los ojos verdes y el pelo rubio. Es muy alta. Es médica. Es amable y lista. A ella le gusta leer y bañarse. Tiene *AGE* y ocho años. Mi padre se llama *FIRST_NAME*. Tiene los ojos castaños y es calvo. Es gordito y fuerte. También es muy alto. Es sensible y generoso. A él le gusta ver películas y hablar con sus amigos. Tiene sesenta y un años. Mi madre y mi padre viven en *CITY*. Mi hermana se llama *FIRST_NAME*. Es maestra de escuela secundaria. Tiene los ojos castaños y el pelo moreno, como yo. También es muy alta. Es delgada y guapa. Es comprensiva y creativa. Ella es mi mayor amiga. A ella le gusta caminar y coser. Tiene veintiséis años. Vive en *CITY*. Tengo una gata. Se llama *FIRST_NAME*. Es muy cara porque está enferma a menudo, pero la amo mucho. Es pequeña, pero muy fuerte. Tiene el pelo gris y largo. Cada día habla conmigo. Le gusta el sol y dormir. Tiene *AGE* años.
+
+# corrected2 = nan
+# text = Hola! Soy estudiante graduada de biología. Yo vivo en *CITY*, pero yo soy de *CITY*. Tengo *AGE* años. Soy alta y delgada. Tengo los ojos castaños y el pelo moreno. Soy intelligente y curiousa. Me gusta correr y concinar. Quiero estudiar español porque mi novio es de *PLACE*. Su abuelo paterno solo habla español. Lo amo mucho. No estamos casados, pero vivimos juntos. Mi familia es pequeña. Yo tengo una madre, un padre, y una hermana menor. Mi madre se llama *FIRST_NAME*. Tiene los ojos vertes y el pelo rubia. Es muy alta. Es médica. Es amable y lista. A ella le gusta leer y bañarse. Tiene *AGE* y *AGE* años. Mi padre se llama *FIRST_NAME*. Tiene los ojos castaños y es calvo. Es gordito y fuerte. También es muy alta. Es sensible y generoso. A él le gusta ver películas y hablar con sus amigos. Tiene sesenta y uno años. Mi madre y mi padre viven en *CITY*. Mi hermana se llama *FIRST_NAME*. Es maestra de escuela secondaria. Tiene los ojos castaños y el pelo moreno, como yo. También es muy alta. Es delgada y guapa. Es comprensiva y creativa. Ella es mi amiga mayor. A ella le gusta caminar y coser. Tiene *AGE* años. Vive en *CITY*. Tengo una gata. Se llama *FIRST_NAME*. Es muy cara porque está enferma a menudo, pero lo amo mucho. Es pequeña pero muy fuerte. Tiene el pelo gris y largo. Cada día habla conmigo. Le gusta el sol y dormir. Tiene *AGE* años.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	!	!	PUNCT	_	_	4	punct	_	_
+3	Soy	ser	AUX	_	_	4	cop	_	_
+4	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+5	graduada	graduado	ADJ	_	_	4	amod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	biología	biología	NOUN	_	_	5	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	vivo	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	pero	pero	CCONJ	_	_	10	cc	_	_
+7	yo	yo	PRON	_	_	10	nsubj	_	_
+8	soy	ser	AUX	_	_	10	cop	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	alta	alto	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	delgada	delgado	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	castaños	castaño	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	3	conj	_	_
+8	moreno	moreno	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	intelligente	intelligente	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	curiousa	curiousa	NOUN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	correr	correr	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	concinar	concinar	VERB	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	estudiar	estudiar	VERB	_	_	1	xcomp	_	_
+3	español	español	ADJ	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	9	mark	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	novio	novio	NOUN	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*PLACE*	PLACE	PROPN	_	_	1	advcl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	abuelo	abuelo	NOUN	_	_	5	nsubj	_	_
+3	paterno	paterno	ADJ	_	_	2	amod	_	_
+4	solo	solo	ADJ	_	_	5	advmod	_	_
+5	habla	hablar	VERB	_	_	0	ROOT	_	_
+6	español	español	ADJ	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Lo	él	PRON	_	_	2	obj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	estamos	estar	AUX	_	_	3	cop	_	_
+3	casados	casado	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	pero	pero	CCONJ	_	_	6	cc	_	_
+6	vivimos	vivir	VERB	_	_	3	conj	_	_
+7	juntos	junto	ADJ	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	pequeña	pequeño	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	madre	madre	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	padre	padre	NOUN	_	_	4	appos	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	una	uno	DET	_	_	11	det	_	_
+11	hermana	hermana	NOUN	_	_	4	conj	_	_
+12	menor	menor	ADJ	_	_	11	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	vertes	vert	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	4	conj	_	_
+8	rubia	rubio	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	médica	médico	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	amable	amable	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	lista	lista	NOUN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	leer	leer	VERB	_	_	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	bañarse	bañar él	VERB	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*AGE*	AGE	PROPN	_	_	2	conj	_	_
+5	años	año	NOUN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	castaños	castaño	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	es	ser	AUX	_	_	7	cop	_	_
+7	calvo	calvo	ADJ	_	_	1	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	gordito	gordito	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuerte	fuerte	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	alta	alto	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	sensible	sensible	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	generoso	generoso	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	ver	ver	VERB	_	_	4	csubj	_	_
+6	películas	película	NOUN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	hablar	hablar	VERB	_	_	5	conj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	sus	su	DET	_	_	11	det	_	_
+11	amigos	amigo	NOUN	_	_	8	obl	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	sesenta	sesenta	NUM	_	_	5	nummod	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	uno	uno	NUM	_	_	2	conj	_	_
+5	años	año	NOUN	_	_	1	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	padre	padre	NOUN	_	_	2	conj	_	_
+6	viven	vivir	VERB	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermana	hermana	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	maestra	maestra	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	escuela	escuela	NOUN	_	_	2	nmod	_	_
+5	secondaria	secondario	ADJ	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	castaños	castaño	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	3	conj	_	_
+8	moreno	moreno	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	como	como	SCONJ	_	_	11	mark	_	_
+11	yo	yo	PRON	_	_	1	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	alta	alto	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	delgada	delgado	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	guapa	guapo	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	comprensiva	comprensivo	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	creativa	creativo	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	amiga	amiga	NOUN	_	_	0	ROOT	_	_
+5	mayor	mayor	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	caminar	caminar	VERB	_	_	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	coser	coser	VERB	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Vive	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	gata	gata	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	cara	caro	ADJ	_	_	0	ROOT	_	_
+4	porque	porque	SCONJ	_	_	6	mark	_	_
+5	está	estar	AUX	_	_	6	cop	_	_
+6	enferma	enfermar	VERB	_	_	3	advcl	_	_
+7	a	a	ADP	_	_	6	advmod	_	_
+8	menudo	menudo	NOUN	_	_	7	fixed	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	_	12	obj	_	_
+12	amo	amar	VERB	_	_	3	conj	_	_
+13	mucho	mucho	ADV	_	_	12	advmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	pequeña	pequeño	ADJ	_	_	0	ROOT	_	_
+3	pero	pero	CCONJ	_	_	5	cc	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	fuerte	fuerte	ADJ	_	_	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	pelo	pelo	NOUN	_	_	1	obj	_	_
+4	gris	gris	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	largo	largo	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Cada	cada	DET	_	_	2	det	_	_
+2	día	día	NOUN	_	_	3	obl	_	_
+3	habla	hablar	VERB	_	_	0	ROOT	_	_
+4	conmigo	conmigo	ADP	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	sol	sol	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	dormir	dormir	VERB	_	_	2	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+

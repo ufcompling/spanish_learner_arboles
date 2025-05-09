@@ -1,0 +1,227 @@
+# Unnamed: 0 = 63
+# id = 265871
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = Yes. 1 to 3 months.
+# writing ability = Other
+# study abroad = Other
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola,Soy *AGE* [año]{años}<na:noun>.  Soy de *PLACE*, *CITY*.  Soy vivaz y trabajadora.  Me gustan los deportes y la lectura.  No he determinado el mayor.  Tengo cuatro cursos este semestre. Esta es mi primera clase de español.  Soy muy [alto]{alta}<ga:adj>, así que me gusta jugar al baloncesto en mi tiempo libre.  Mi plato favorito es una especie de comida china, olla caliente.  Normalmente hago ejercicio, cuando hace buen tiempo o en verano hago senderismo, corro y tiro con arco.  Iré a patinar y esquiar en invierno.  Aunque no nieva donde vivo, volaré a España o Suiza con mi familia durante las vacaciones.Normalmente viajamos alrededor de un mes y medio.  Una de mis ciudades favoritas para viajar es España.  Debido a que el clima en España es bueno, la comida es deliciosa.  Mallorca y Tenerife son lugares donde vivo a menudo.  El entorno es hermoso.  Para facilitar el viaje en España, estudio español muy duro.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola,Soy *AGE* [año]{años}<na:noun>.  Soy de *PLACE*, *CITY*.  Soy vivaz y trabajadora.  Me gustan los deportes y la lectura.  No he determinado el mayor.  Tengo cuatro cursos este semestre. Esta es mi primera clase de español.  Soy muy [alto]{alta}<ga:adj>, así que me gusta jugar al baloncesto en mi tiempo libre.  Mi plato favorito es una especie de comida china, olla caliente.  Normalmente hago ejercicio, cuando hace buen tiempo o en verano hago senderismo, corro y tiro con arco.  Iré a patinar y esquiar en invierno.  Aunque no nieva donde vivo, volaré a España o Suiza con mi familia durante las vacaciones.Normalmente viajamos alrededor de un mes y medio.  Una de mis ciudades favoritas para viajar es España.  Debido a que el clima en España es bueno, la comida es deliciosa.  Mallorca y Tenerife son lugares donde vivo a menudo.  El entorno es hermoso.  Para facilitar el viaje en España, estudio español muy duro.
+# verbs annotation ann2 = nan
+# corrected1 = Hola, tengo *AGE* años.  Soy de *PLACE*, *CITY*.  Soy vivaz y trabajadora.  Me gustan los deportes y la lectura.  No he determinado el mayor.  Tengo cuatro cursos este semestre. Esta es mi primera clase de español.  Soy muy alta, así que me gusta jugar al baloncesto en mi tiempo libre.  Mi plato favorito es una especie de comida china, olla caliente.  Normalmente hago ejercicio, cuando hace buen tiempo o en verano hago senderismo, corro y tiro con arco.  Iré a patinar y esquiar en invierno.  Aunque no nieva donde vivo, volaré a España o Suiza con mi familia durante las vacaciones.Normalmente viajamos alrededor de un mes y medio.  Una de mis ciudades favoritas para viajar es España.  Debido a que el clima en España es bueno, la comida es deliciosa.  Mallorca y Tenerife son lugares donde vivo a menudo.  El entorno es hermoso.  Para facilitar el viaje en España, estudio español muy duro.
+# corrected2 = nan
+# text = Hola,Soy *AGE* año. Soy de *PLACE*, *CITY*. Soy vivaz y trabajadora. Me gustan los deportes y la lectura. No he determinado el mayor. Tengo cuatro cursos este semestre. Esta es mi primera clase de español. Soy muy alto, así que me gusta jugar al baloncesto en mi tiempo libre. Mi plato favorito es una especie de comida china, olla caliente. Normalmente hago ejercicio, cuando hace buen tiempo o en verano hago senderismo, corro y tiro con arco. Iré a patinar y esquiar en invierno. Aunque no nieva donde vivo, volaré a España o Suiza con mi familia durante las vacaciones.Normalmente viajamos alrededor de un mes y medio. Una de mis ciudades favoritas para viajar es España. Debido a que el clima en España es bueno, la comida es deliciosa. Mallorca y Tenerife son lugares donde vivo a menudo. El entorno es hermoso. Para facilitar el viaje en España, estudio español muy duro.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	hola	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	*AGE*	*age*	SYM	_	_	5	punct	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*PLACE*	*place*	PUNCT	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*CITY*	*city*	PUNCT	_	_	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vivaz	vivaz	ADJ	_	Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	lectura	lectura	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	determinado	determinar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	cursos	curso	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+5	clase	clase	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	español	español	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+5	así	así	ADV	_	_	8	mark	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	jugar	jugar	VERB	_	VerbForm=Inf	8	csubj	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+15	libre	libre	ADJ	_	Number=Sing	14	amod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	plato	plato	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	especie	especie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	comida	comida	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	china	chino	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	olla	olla	NOUN	_	Gender=Fem|Number=Sing	8	appos	_	_
+12	caliente	caliente	ADJ	_	Number=Sing	11	amod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Normalmente	normalmente	ADV	_	_	2	advmod	_	_
+2	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+5	cuando	cuando	SCONJ	_	_	6	mark	_	_
+6	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+7	buen	buen	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	o	o	CCONJ	_	_	11	cc	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	verano	verano	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+12	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	senderismo	senderismo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	corro	corro	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	tiro	tiro	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+18	con	con	ADP	_	_	19	case	_	_
+19	arco	arco	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Iré	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	patinar	patinar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	esquiar	esquiar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	nieva	nevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	donde	donde	ADV	_	PronType=Rel	5	advmod	_	_
+5	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	volaré	volar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	España	España	PROPN	_	_	7	obl	_	_
+10	o	o	CCONJ	_	_	11	cc	_	_
+11	Suiza	Suiza	PROPN	_	_	9	conj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+15	durante	durante	ADP	_	_	17	case	_	_
+16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Normalmente	normalmente	ADV	_	_	2	advmod	_	_
+2	viajamos	viajar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	alrededor	alrededor	ADV	_	_	2	advmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mes	mes	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	medio	medio	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	9	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
+5	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	viajar	viajar	VERB	_	VerbForm=Inf	4	acl	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	España	España	PROPN	_	_	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Debido	debido	ADJ	_	_	9	mark	_	_
+2	a	a	ADP	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	clima	clima	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	España	España	PROPN	_	_	5	nmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	14	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	comida	comida	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	deliciosa	delicioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+15	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Mallorca	Mallorca	PROPN	_	_	5	nsubj	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	Tenerife	Tenerife	PROPN	_	_	1	conj	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	donde	donde	ADV	_	PronType=Rel	7	advmod	_	_
+7	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl	_	_
+8	a	a	ADP	_	_	7	advmod	_	_
+9	menudo	menudo	NOUN	_	_	8	fixed	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	entorno	entorno	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Para	para	ADP	_	_	2	mark	_	_
+2	facilitar	facilitar	VERB	_	VerbForm=Inf	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	España	España	PROPN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+9	español	español	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	duro	duro	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

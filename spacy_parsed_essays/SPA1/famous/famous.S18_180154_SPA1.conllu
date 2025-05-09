@@ -1,0 +1,238 @@
+# Unnamed: 0 = 201
+# id = 180154
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 23 years old
+# l1 language = English
+# other l1 language(s) = N/a
+# language(s) used at home = Spanish
+# language(s) studied = I studied Spanish in high school for 3 years. I studied French for 1 semester.
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de semanas les gustan tocar instrumentos y cantar con sus amigos.
+# a personal annotator2 = nan
+# gender-number annotator1 = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de [semanas]{semana}<na:sp:noun:inan> les gustan tocar instrumentos y cantar con sus amigos.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Jared Leto es una persona famosa. Tiene cuarenta y seis años, los ojos azules y el pelo café. Su cumpleaños es el veintiséis de diciembre. A él le gusta cantar y tocar la guitarra y el piano. Él es cantante, actor, director, modelo y artista. Él sale en la película Dallas Buyers Club (2013). Es una película de drama. Él esta en una banda que se llama 30 segundos a Marte. Él canta rock, alternativo y pop. A Jared le encanta tomar fótos y viajar por todo el mundo. Es simpático, inteligente, generoso y muy activo. Su pelo es corto y tiene una barba y bigote. A él le gusta ir a la escalada. También le gusta el arte. Él es vegano. Tiene un hermano. Él se llama Shannon. Jared y Shannon viven en Los Ángeles, California. Tiene mucho dinero y una casa blanca y grande. En los fines de semanas les gustan tocar instrumentos y cantar con sus amigos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Jared	Jared	PROPN	_	_	5	nsubj	_	_
+2	Leto	Leto	PROPN	_	_	1	flat	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	famosa	famoso	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	cuarenta	cuarenta	NUM	_	_	5	nummod	_	_
+3	y	y	CCONJ	_	_	2	compound	_	_
+4	seis	seis	NUM	_	_	2	compound	_	_
+5	años	año	NOUN	_	_	1	obj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	ojos	ojo	NOUN	_	_	1	obj	_	_
+9	azules	azul	ADJ	_	_	8	amod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	pelo	pelo	NOUN	_	_	1	conj	_	_
+13	café	café	NOUN	_	_	12	amod	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	veintiséis	veintiséis	NUM	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	diciembre	diciembre	NOUN	_	_	5	compound	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	cantar	cantar	VERB	_	_	4	csubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tocar	tocar	VERB	_	_	5	conj	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	guitarra	guitarra	NOUN	_	_	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	piano	piano	NOUN	_	_	9	conj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	cantante	cantante	NOUN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	actor	actor	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	director	director	NOUN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	modelo	modelo	NOUN	_	_	3	appos	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	artista	artista	NOUN	_	_	3	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	sale	salir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	película	película	NOUN	_	_	2	obl	_	_
+6	Dallas	Dallas	PROPN	_	_	5	appos	_	_
+7	Buyers	Buyers	PROPN	_	_	6	flat	_	_
+8	Club	Club	PROPN	_	_	6	flat	_	_
+9	(	(	PUNCT	_	_	10	punct	_	_
+10	2013	2013	NOUN	_	_	5	appos	_	_
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	película	película	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	drama	drama	NOUN	_	_	3	nmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	esta	este	DET	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	banda	banda	NOUN	_	_	2	obj	_	_
+6	que	que	PRON	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pass	_	_
+8	llama	llamar	VERB	_	_	5	acl	_	_
+9	30	30	NUM	_	_	10	nummod	_	_
+10	segundos	segundo	NOUN	_	_	8	obj	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	Marte	Marte	PROPN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	2	nsubj	_	_
+2	canta	cantar	VERB	_	_	0	ROOT	_	_
+3	rock	rock	NOUN	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	alternativo	alternativo	ADJ	_	_	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	pop	pop	ADJ	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	Jared	Jared	PROPN	_	_	4	obl	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	encanta	encantar	VERB	_	_	0	ROOT	_	_
+5	tomar	tomar	VERB	_	_	4	csubj	_	_
+6	fótos	fóto	NOUN	_	_	5	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	viajar	viajar	VERB	_	_	5	conj	_	_
+9	por	por	ADP	_	_	12	case	_	_
+10	todo	todo	DET	_	_	11	det	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	mundo	mundo	NOUN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	simpático	simpático	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	inteligente	inteligente	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	generoso	generoso	ADJ	_	_	2	conj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	activo	activo	ADJ	_	_	2	conj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	pelo	pelo	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	corto	corto	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tiene	tener	VERB	_	_	4	conj	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	barba	barba	NOUN	_	_	6	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	bigote	bigote	NOUN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	él	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	ir	ir	VERB	_	_	4	csubj	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	escalada	escalada	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	arte	arte	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	vegano	vegano	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	llama	llamar	VERB	_	_	0	ROOT	_	_
+4	Shannon	Shannon	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Jared	Jared	PROPN	_	_	4	nsubj	_	_
+2	y	y	CCONJ	_	_	3	cc	_	_
+3	Shannon	Shannon	PROPN	_	_	1	conj	_	_
+4	viven	vivir	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	Los	el	DET	_	_	7	det	_	_
+7	Ángeles	Ángeles	PROPN	_	_	4	obl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	California	California	PROPN	_	_	7	flat	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	mucho	mucho	DET	_	_	3	det	_	_
+3	dinero	dinero	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	casa	casa	NOUN	_	_	3	conj	_	_
+7	blanca	blanco	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	grande	grande	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	fines	fin	NOUN	_	_	7	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semanas	semana	NOUN	_	_	3	nmod	_	_
+6	les	él	PRON	_	_	7	iobj	_	_
+7	gustan	gustar	VERB	_	_	0	ROOT	_	_
+8	tocar	tocar	VERB	_	_	7	xcomp	_	_
+9	instrumentos	instrumento	NOUN	_	_	8	obj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	cantar	cantar	VERB	_	_	8	conj	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	sus	su	DET	_	_	14	det	_	_
+14	amigos	amigo	NOUN	_	_	11	obl	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+

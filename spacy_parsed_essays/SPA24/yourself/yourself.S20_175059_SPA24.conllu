@@ -1,0 +1,190 @@
+# Unnamed: 0 = 132
+# id = 175059
+# prompt = yourself
+# quarter = S20
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Spanish 
+# language(s) studied = Japanese -1 year
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama y papá se emigraron a *CITY* *CITY* después que se casaron. Pero en el caso de mis papás, [ellos]{}<pr:su:pron> pasaron legalmente porque mi papá ya era un residente y le arregló los papeles a mi mamá. Esto era en los años de los 90 y en ese tiempo el proceso era más fácil. Desde que [yo]{}<pr:su:pron> puedo recuérdame siempre a estado en un ambiente de español hablantes de El Salvador, Mexico y [unos]{}<pr:det:art:indef> otros del centro  de latino america. La cosa es que mis padres nunca aprendieron  hablar inglés y desde niña me tocaba traducir todo el papeleo que ocupaban llenar.  Como mi familia me ocupaba como su puente entre ellos y el mundo afuera, me tocó crecer más rápidamente porque [yo]{}<pr:su:pron> era la encargada de todos los asuntos de la familia.  Esta responsabilidad me a convertido en la persona que soy hoy.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Mi mama y papá se emigraron a *CITY* *CITY* después que se casaron. Pero en el caso de mis papás, [ellos]{}<pr:su:pron> pasaron legalmente porque mi papá ya era un residente y le arregló los papeles a mi mamá. Esto [era]{fue}<fs:st:t> en los años de los 90 y en ese tiempo el proceso era más fácil. Desde que [yo]{}<pr:su:pron> puedo [recuérdame]{recordar}<fs:st:t> siempre [a estado]{he estado}<fs:ct:aux:pn> en un ambiente de español hablantes de El Salvador, Mexico y [unos]{}<pr:det:art:indef> otros del centro  de latino america. La cosa es que mis padres nunca aprendieron  hablar inglés y desde niña me [tocaba]{tocó}<fs:st:t> traducir todo el papeleo que ocupaban llenar.  Como mi familia me ocupaba como su puente entre ellos y el mundo afuera, me tocó crecer más rápidamente porque [yo]{}<pr:su:pron> era la encargada de todos los asuntos de la familia.  Esta responsabilidad me a convertido en la persona que soy hoy.
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá y papá emigraron a *CITY* *CITY* después de que se casaron. Pero en el caso de mis papás, pasaron legalmente porque mi papá ya era residente y le arregló los papeles a mi mamá. Esto era en los años de los 90 y en ese tiempo el proceso era más fácil. Desde que puedo recordar siempre he estado en un ambiente de hispano hablantes de El Salvador, México y otros del centro  de latino América. La cosa es que mis padres nunca aprendieron a hablar inglés y desde niña me tocaba traducir todo el papeleo que ocupaban llenar.  Como mi familia me ocupaba como su puente entre ellos y el mundo afuera, me tocó crecer más rápidamente porque era la encargada de todos los asuntos de la familia.  Esta responsabilidad me ha convertido en la persona que soy hoy.
+# corrected2 = nan
+# text = Mi mama y papá se emigraron a *CITY* *CITY* después que se casaron. Pero en el caso de mis papás, ellos pasaron legalmente porque mi papá ya era un residente y le arregló los papeles a mi mamá. Esto era en los años de los 90 y en ese tiempo el proceso era más fácil. Desde que yo puedo recuérdame siempre a estado en un ambiente de español hablantes de El Salvador, Mexico y unos otros del centro de latino america. La cosa es que mis padres nunca aprendieron hablar inglés y desde niña me tocaba traducir todo el papeleo que ocupaban llenar. Como mi familia me ocupaba como su puente entre ellos y el mundo afuera, me tocó crecer más rápidamente porque yo era la encargada de todos los asuntos de la familia. Esta responsabilidad me a convertido en la persona que soy hoy.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	mama	mama	NOUN	_	_	6	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	papá	papá	NOUN	_	_	2	conj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	emigraron	emigrar	VERB	_	_	0	ROOT	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	*CITY*	CITY	PROPN	_	_	6	obj	_	_
+9	*CITY*	CITY	PROPN	_	_	8	flat	_	_
+10	después	después	ADV	_	_	6	advmod	_	_
+11	que	que	SCONJ	_	_	13	mark	_	_
+12	se	él	PRON	_	_	13	expl:pv	_	_
+13	casaron	casar	VERB	_	_	10	advcl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	10	advmod	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	caso	caso	NOUN	_	_	10	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	papás	papás	NOUN	_	_	4	nmod	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	ellos	él	PRON	_	_	10	nsubj	_	_
+10	pasaron	pasar	VERB	_	_	0	ROOT	_	_
+11	legalmente	legalmente	ADV	_	_	10	advmod	_	_
+12	porque	porque	SCONJ	_	_	18	mark	_	_
+13	mi	mi	DET	_	_	14	det	_	_
+14	papá	papá	NOUN	_	_	18	nsubj	_	_
+15	ya	ya	ADV	_	_	18	advmod	_	_
+16	era	ser	AUX	_	_	18	cop	_	_
+17	un	uno	DET	_	_	18	det	_	_
+18	residente	residente	NOUN	_	_	10	advcl	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	le	él	PRON	_	_	21	obj	_	_
+21	arregló	arreglar	VERB	_	_	10	conj	_	_
+22	los	el	DET	_	_	23	det	_	_
+23	papeles	papel	NOUN	_	_	21	obj	_	_
+24	a	a	ADP	_	_	26	case	_	_
+25	mi	mi	DET	_	_	26	det	_	_
+26	mamá	mamá	NOUN	_	_	21	obj	_	_
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Esto	este	PRON	_	_	5	nsubj	_	_
+2	era	ser	AUX	_	_	5	cop	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	años	año	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	90	90	NUM	_	_	5	nummod	_	_
+9	y	y	CCONJ	_	_	17	cc	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	ese	ese	DET	_	_	12	det	_	_
+12	tiempo	tiempo	NOUN	_	_	17	obl	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	proceso	proceso	NOUN	_	_	17	nsubj	_	_
+15	era	ser	AUX	_	_	17	cop	_	_
+16	más	más	ADV	_	_	17	advmod	_	_
+17	fácil	fácil	ADJ	_	_	5	conj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Desde	desde	ADP	_	_	5	mark	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	yo	yo	PRON	_	_	5	nsubj	_	_
+4	puedo	poder	AUX	_	_	5	aux	_	_
+5	recuérdame	recuérdamir	VERB	_	_	0	ROOT	_	_
+6	siempre	siempre	ADV	_	_	5	advmod	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	estado	estado	NOUN	_	_	5	obj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	ambiente	ambiente	NOUN	_	_	5	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	español	español	NOUN	_	_	11	nmod	_	_
+14	hablantes	hablant	ADJ	_	_	13	amod	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	El	el	DET	_	_	17	det	_	_
+17	Salvador	Salvador	PROPN	_	_	11	nmod	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	Mexico	Mexico	PROPN	_	_	17	flat	_	_
+20	y	y	CCONJ	_	_	22	cc	_	_
+21	unos	uno	DET	_	_	22	det	_	_
+22	otros	otro	PRON	_	_	11	conj	_	_
+23	del	del	ADP	_	_	24	case	_	_
+24	centro	centro	NOUN	_	_	22	nmod	_	_
+25	de	de	ADP	_	_	26	case	_	_
+26	latino	latino	NOUN	_	_	24	nmod	_	_
+27	america	americo	ADJ	_	_	26	amod	_	_
+28	.	.	PUNCT	_	_	5	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	cosa	cosa	NOUN	_	_	3	nsubj	_	_
+3	es	ser	AUX	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	padres	padre	NOUN	_	_	8	nsubj	_	_
+7	nunca	nunca	ADV	_	_	8	advmod	_	_
+8	aprendieron	aprender	VERB	_	_	3	ccomp	_	_
+9	hablar	hablar	VERB	_	_	8	xcomp	_	_
+10	inglés	inglés	NOUN	_	_	9	obj	_	_
+11	y	y	CCONJ	_	_	15	cc	_	_
+12	desde	desde	ADP	_	_	13	case	_	_
+13	niña	niña	NOUN	_	_	15	obl	_	_
+14	me	yo	PRON	_	_	15	iobj	_	_
+15	tocaba	tocar	VERB	_	_	8	conj	_	_
+16	traducir	traducir	VERB	_	_	15	xcomp	_	_
+17	todo	todo	DET	_	_	18	det	_	_
+18	el	el	DET	_	_	19	det	_	_
+19	papeleo	papeleo	NOUN	_	_	15	nsubj	_	_
+20	que	que	PRON	_	_	21	nsubj	_	_
+21	ocupaban	ocupar	VERB	_	_	19	acl	_	_
+22	llenar	llenar	VERB	_	_	21	xcomp	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Como	como	SCONJ	_	_	5	mark	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	familia	familia	NOUN	_	_	5	nsubj	_	_
+4	me	yo	PRON	_	_	5	obj	_	_
+5	ocupaba	ocupar	VERB	_	_	17	advcl	_	_
+6	como	como	SCONJ	_	_	8	mark	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	puente	puente	NOUN	_	_	5	obl	_	_
+9	entre	entre	ADP	_	_	10	case	_	_
+10	ellos	él	PRON	_	_	8	nmod	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	mundo	mundo	NOUN	_	_	10	conj	_	_
+14	afuera	afuero	ADJ	_	_	13	flat	_	_
+15	,	,	PUNCT	_	_	5	punct	_	_
+16	me	yo	PRON	_	_	17	iobj	_	_
+17	tocó	tocar	VERB	_	_	0	ROOT	_	_
+18	crecer	crecer	VERB	_	_	17	xcomp	_	_
+19	más	más	ADV	_	_	20	advmod	_	_
+20	rápidamente	rápidamente	ADV	_	_	18	advmod	_	_
+21	porque	porque	SCONJ	_	_	25	mark	_	_
+22	yo	yo	PRON	_	_	25	nsubj	_	_
+23	era	ser	AUX	_	_	25	cop	_	_
+24	la	el	DET	_	_	25	det	_	_
+25	encargada	encargada	NOUN	_	_	17	advcl	_	_
+26	de	de	ADP	_	_	29	case	_	_
+27	todos	todo	DET	_	_	28	det	_	_
+28	los	el	DET	_	_	29	det	_	_
+29	asuntos	asunto	NOUN	_	_	25	nmod	_	_
+30	de	de	ADP	_	_	32	case	_	_
+31	la	el	DET	_	_	32	det	_	_
+32	familia	familia	NOUN	_	_	29	nmod	_	_
+33	.	.	PUNCT	_	_	17	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	responsabilidad	responsabilidad	NOUN	_	_	0	ROOT	_	_
+3	me	yo	PRON	_	_	4	expl:pv	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	convertido	convertido	ADJ	_	_	2	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	persona	persona	NOUN	_	_	5	obj	_	_
+9	que	que	PRON	_	_	11	nsubj	_	_
+10	soy	ser	AUX	_	_	11	cop	_	_
+11	hoy	hoy	ADV	_	_	8	acl	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+

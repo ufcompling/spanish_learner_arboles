@@ -1,0 +1,314 @@
+# Unnamed: 0 = 124
+# id = 175580
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 155
+# age = 21
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = Spanish
+# language(s) used at home = 2
+# language(s) studied = Yes
+# listening comprehension = Extremely comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Comfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Un lugar que me disgusta mucho es la estación de tren en *CITY* *CITY*. Y*CITY* aunque suene un poco raro es verdad y creo que mis razones lo justifican. Yo vivo en una ciudad llamada *CITY* que está en el condado de *CITY* aquí en *STATE*. Y como al momento vivo en *CITY* y no se conducir, tomo el tren de vez en cuando a *CITY* para después ir a *CITY* que es una distancia de como veinte minutos. Hay veces que el tren no va directo a *CITY* o *CITY* y tengo que hacer escala en *CITY* *CITY* pero siempre tengo que esperar como más de dos horas para llegar a mi destino. Es muy estresante porque varias veces se retrasan los trenes o autobuses y se que es normal pero la estación tampoco esta en perfectas condiciones para que los visitantes tengan una espera agradable. Otra cosa que tiene la estación, es que los trabajadores nunca están allí para ayudar a los pasajeros entonces muchos pierden su tren y tienen que esperar más tiempo para el siguiente que haya. Y cuando si hay trabajadores se portan nada profesional y un poco maleducados. Reconozco que esto podría cambiar si yo aprendiera a manejar pero realmente no tengo tiempo por la escuela y mi trabajo y aparte mis padres no saben manejar. Por esta razón he tenido que seguir tomando el tren para visitar a mis padres y aunque es batalloso ya estoy un poco acostumbrada. Pero eso no cambia que la estación de *CITY* *CITY* es el peor lugar para mi.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	disgusta	disgustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	mucho	mucho	ADV	_	_	5	advmod	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	estación	estación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	tren	tren	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	*CITY*	*city*	PROPN	_	_	9	nmod	_	_
+14	*CITY*	*city*	PROPN	_	_	13	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	YCITY	YCITY	PROPN	_	_	8	nsubj	_	_
+2	aunque	aunque	SCONJ	_	_	3	mark	_	_
+3	suene	soner	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+5	poco	poco	ADV	_	_	4	fixed	_	_
+6	raro	raro	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+11	que	que	SCONJ	_	_	15	mark	_	_
+12	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	razones	razón	NOUN	_	Gender=Fem|Number=Plur	15	nsubj	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
+15	justifican	justificar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+16	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	llamada	llamado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
+7	*CITY*	*City*	PROPN	_	_	5	nmod	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
+9	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	condado	condado	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	*CITY*	*city*	PROPN	_	_	12	nmod	_	_
+15	aquí	aquí	ADV	_	_	9	advmod	_	_
+16	en	en	ADP	_	_	15	case	_	_
+17	*STATE*	*state*	PUNCT	_	_	15	obl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Y	y	CCONJ	_	_	13	cc	_	_
+2	como	como	SCONJ	_	_	5	mark	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	momento	momento	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+5	vivo	vivar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	*city*	PROPN	_	_	5	obl	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	conducir	conducir	VERB	_	VerbForm=Inf	5	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+13	tomo	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tren	tren	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	13	advmod	_	_
+17	vez	vez	NOUN	_	_	16	fixed	_	_
+18	en	en	ADP	_	_	16	fixed	_	_
+19	cuando	cuando	ADV	_	PronType=Rel	16	fixed	_	_
+20	a	a	ADP	_	_	21	case	_	_
+21	*CITY*	*city*	PROPN	_	_	16	obl	_	_
+22	para	para	ADP	_	_	24	mark	_	_
+23	después	después	ADV	_	_	24	advmod	_	_
+24	ir	ir	VERB	_	VerbForm=Inf	13	advcl	_	_
+25	a	a	ADP	_	_	26	case	_	_
+26	*CITY*	*City*	PROPN	_	_	24	obl	_	_
+27	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
+28	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+29	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	26	acl	_	_
+31	de	de	ADP	_	_	34	case	_	_
+32	como	como	SCONJ	_	_	34	mark	_	_
+33	veinte	veinte	NUM	_	Number=Plur|NumForm=Word|NumType=Card	34	nummod	_	_
+34	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	30	nmod	_	_
+35	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	veces	vez	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	que	que	PRON	_	PronType=Rel	7	obl	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tren	tren	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+7	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+8	directo	directo	ADJ	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	7	obl	_	_
+11	o	o	CCONJ	_	_	10	det	_	_
+12	*CITY*	*city*	PROPN	_	_	10	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+15	que	que	SCONJ	_	_	16	cc	_	_
+16	hacer	hacer	VERB	_	VerbForm=Inf	14	conj	_	_
+17	escala	escala	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	*CITY*	*CitY*	PROPN	_	_	14	dep	_	_
+20	*CITY*	*city*	PROPN	_	_	19	punct	_	_
+21	pero	pero	CCONJ	_	_	23	cc	_	_
+22	siempre	siempre	ADV	_	_	25	advmod	_	_
+23	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+24	que	que	SCONJ	_	_	25	cc	_	_
+25	esperar	esperar	VERB	_	VerbForm=Inf	23	conj	_	_
+26	como	como	SCONJ	_	_	30	mark	_	_
+27	más	más	ADV	_	Degree=Cmp	29	advmod	_	_
+28	de	de	ADP	_	_	29	case	_	_
+29	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	30	nummod	_	_
+30	horas	hora	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	_
+31	para	para	ADP	_	_	32	mark	_	_
+32	llegar	llegar	VERB	_	VerbForm=Inf	25	advcl	_	_
+33	a	a	ADP	_	_	35	case	_	_
+34	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	35	det	_	_
+35	destino	destino	NOUN	_	Gender=Masc|Number=Sing	32	obl	_	_
+36	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	estresante	estresante	ADJ	_	Number=Sing	0	root	_	_
+4	porque	porque	SCONJ	_	_	8	mark	_	_
+5	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	veces	vez	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	retrasan	retrasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	trenes	tren	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+11	o	o	CCONJ	_	_	12	cc	_	_
+12	autobuses	autobús	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	se	él	VERB	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	conj	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	normal	normal	ADJ	_	Number=Sing	14	csubj	_	_
+18	pero	pero	CCONJ	_	_	25	cc	_	_
+19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	estación	estación	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
+21	tampoco	tampoco	ADV	_	_	25	advmod	_	_
+22	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	perfectas	perfecto	ADJ	_	Gender=Fem|Number=Plur	25	amod	_	_
+25	condiciones	condición	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+26	para	para	ADP	_	_	30	mark	_	_
+27	que	que	SCONJ	_	_	30	mark	_	_
+28	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	visitantes	visitante	NOUN	_	Number=Plur	30	nsubj	_	_
+30	tengan	tener	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
+31	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	espera	espera	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	_
+33	agradable	agradable	ADJ	_	Number=Sing	32	amod	_	_
+34	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	estación	estación	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	que	que	SCONJ	_	_	13	mark	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	_
+12	nunca	nunca	ADV	_	_	13	advmod	_	_
+13	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+14	allí	allí	ADV	_	_	13	obj	_	_
+15	para	para	ADP	_	_	16	mark	_	_
+16	ayudar	ayudar	VERB	_	VerbForm=Inf	13	advcl	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	pasajeros	pasajero	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
+20	entonces	entonces	ADV	_	_	22	advmod	_	_
+21	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	22	nsubj	_	_
+22	pierden	perder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+24	tren	tren	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+25	y	y	CCONJ	_	_	26	cc	_	_
+26	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
+27	que	que	SCONJ	_	_	28	cc	_	_
+28	esperar	esperar	VERB	_	VerbForm=Inf	26	conj	_	_
+29	más	más	ADV	_	Degree=Cmp	30	advmod	_	_
+30	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
+31	para	para	ADP	_	_	33	case	_	_
+32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	siguiente	siguiente	ADJ	_	Number=Sing	35	amod	_	_
+34	que	que	PRON	_	PronType=Rel	35	obj	_	_
+35	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	_
+36	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Y	y	CCONJ	_	_	7	cc	_	_
+2	cuando	cuando	SCONJ	_	_	4	mark	_	_
+3	si	si	SCONJ	_	_	4	mark	_	_
+4	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	trabajadores	trabajador	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	portan	portar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	nada	nada	PRON	_	Number=Sing|PronType=Neg	9	obj	_	_
+9	profesional	profesional	ADJ	_	Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	13	cc	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	advmod	_	_
+12	poco	poco	ADV	_	_	11	fixed	_	_
+13	maleducados	maleducado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	9	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Reconozco	reconocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	esto	este	PRON	_	Number=Sing|PronType=Dem	5	nsubj	_	_
+4	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	aux	_	_
+5	cambiar	cambiar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+6	si	si	SCONJ	_	_	8	mark	_	_
+7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	aprendiera	aprender	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	manejar	manejar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	pero	pero	CCONJ	_	_	14	cc	_	_
+12	realmente	realmente	ADV	_	_	14	advmod	_	_
+13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+14	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+15	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
+16	por	por	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+22	y	y	CCONJ	_	_	27	cc	_	_
+23	aparte	aparte	ADV	_	_	27	advmod	_	_
+24	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	_
+25	padres	padre	NOUN	_	Gender=Masc|Number=Plur	27	nsubj	_	_
+26	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
+27	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+28	manejar	manejar	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Por	por	ADP	_	_	3	case	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	razón	razón	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	tenido	tener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	que	que	SCONJ	_	_	7	cc	_	_
+7	seguir	seguir	VERB	_	VerbForm=Inf	5	conj	_	_
+8	tomando	tomar	VERB	_	VerbForm=Ger	7	xcomp	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	tren	tren	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	visitar	visitar	VERB	_	VerbForm=Inf	8	advcl	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	padres	padre	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+16	y	y	CCONJ	_	_	24	cc	_	_
+17	aunque	aunque	SCONJ	_	_	19	mark	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	batalloso	batalloso	ADJ	_	Gender=Masc|Number=Sing	24	advcl	_	_
+20	ya	ya	ADV	_	_	24	advmod	_	_
+21	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	cop	_	_
+22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	advmod	_	_
+23	poco	poco	ADV	_	_	22	fixed	_	_
+24	acostumbrada	acostumbrado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	conj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	cambia	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	14	mark	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	estación	estación	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*CITY*	*CitY*	PROPN	_	_	7	nmod	_	_
+10	*CITY*	*City*	PROPN	_	_	9	punct	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	14	amod	_	_
+14	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	4	ccomp	_	_
+15	para	para	ADP	_	_	16	case	_	_
+16	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

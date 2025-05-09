@@ -1,0 +1,248 @@
+# Unnamed: 0 = 16
+# id = 184264
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 21
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Punjabi
+# language(s) used at home = Punjabi
+# language(s) studied = nan
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Un buen día, [yo]{}<pr:su:pron> camina en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro [bonita]{bonito}<>. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. [El]{Los}<na:det> niños jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está [frío]{fría}<ga:adj>. [Yo]{}<pr:su:pron> tomo una ducha. El agua está [frío]{fría}<ga:adj> en la ducha. La ducha [es]{está}<conf:v:seta> muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Un buen día, yo [camina]{camino}<fs:st:pn> en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro [bonita]{bonito}<ga:adj>. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. [El]{Los}<na:det> niños [jugando]{juegan}<fs:st:t>. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está [frío]{fría}<ga:adj>. Yo tomo una ducha. El agua está [frío]{fría}<ga:adj> en la ducha. La ducha [es]{está}<conf:v:seta> muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# verbs annotation ann2 = nan
+# corrected1 = Un buen día, camino por el parque. El clima es frío y cálido. Hay silencio en el parque. Hay un perro bonito. Hablo con el perro. "Hola, perro, ¿cómo te llamas?" El perro es bueno. El parque no está lleno. Me gusta el parque. Mi amiga también está allí. A mi amiga le gusta el parque también. Hay niños en el parque. Los niños están jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros y águilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque está cerca de mi casa. En mi casa bebo agua. El agua está fría. Tomo una ducha. El agua está fría en la ducha. La ducha está muy bien. Preparo la cena con mi familia. Mi mamá, mi papá, mi hermana y mi hermano, todos ayudan a preparar la cena. Como y me voy a dormir.
+# corrected2 = nan
+# text = Un buen día, yo camina en el parque. El clima es frío y cálido. Esta en silencio en el parque. Hay un perro bonita. Hablo con el perro. "Hola perro, como te llamas?" El perro is bueno. El parque no está lleno. Me gusta el parque. Mi amiga tambien está ahi. Mi amiga le gusta el parque tambien. Hay niños en el parque. El niños jugando. Los niños son divertidos. Veo muchos animales en el parque. Hay gatos, aves, ardillas, perros, y aguilas. Los animales corren. Todo está bien. Camino de regreso a mi casa. El parque esta cerca di mi casa. En mi casa bebo agua. El agua está frío. Yo tomo una ducha. El agua está frío en la ducha. La ducha es muy bien. Preparo la cena con my familia. Mi mamá, mi papá, mi hermana, y mi hermano todos ayudan a preparar la cena. Como y me voy dormir.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	buen	buen	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	día	día	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	camina	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	parque	parque	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clima	clima	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	frío	frío	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	cálido	cálido	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	silencio	silencio	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	perro	perro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	perro	perro	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Hola	hola	DET	_	Number=Sing|PronType=Ind	3	det	_	_
+3	perro	perro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	como	como	SCONJ	_	_	7	mark	_	_
+6	te	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	expl	_	_
+7	llamas	llamar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl	_	_
+8	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
+9	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	perro	perro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	is	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	parque	parque	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	parque	parque	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	tambien	tambien	ADV	_	_	5	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	ahi	ahi	ADV	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parque	parque	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+7	tambien	tambien	ADV	_	_	4	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	niños	niño	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	niños	niño	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+3	jugando	jugar	VERB	_	VerbForm=Ger	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	niños	niño	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	divertidos	divertido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	animales	animal	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	parque	parque	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	aves	ave	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	ardillas	ardilla	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	perros	perro	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	aguilas	aguila	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	animales	animal	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	corren	correr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	nsubj	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	bien	bien	ADV	_	_	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Camino	camino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	parque	parque	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cerca	cerca	ADV	_	_	0	root	_	_
+5	di	di	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+4	bebo	bebar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	agua	agua	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	agua	agua	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	frío	frío	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tomo	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ducha	ducha	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	agua	agua	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	frío	frío	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ducha	ducha	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ducha	ducha	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bien	bien	ADV	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Preparo	preparar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cena	cena	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	familia	familia	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	papá	papá	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+13	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	14	nsubj	_	_
+14	ayudan	ayudar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	a	a	ADP	_	_	16	mark	_	_
+16	preparar	preparar	VERB	_	VerbForm=Inf	14	xcomp	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	cena	cena	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+
+1	Como	como	SCONJ	_	_	4	mark	_	_
+2	y	y	CCONJ	_	_	4	cc	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	dormir	dormir	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+

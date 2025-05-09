@@ -1,0 +1,361 @@
+# Unnamed: 0 = 52
+# id = 256674
+# prompt = chaplin
+# quarter = S21
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Charles Chaplin está en este video. Parece ser un video mudo. Decía "culo incómodo" al principio. Estaba fumando. Hay música de fondo todo el tiempo. Es muy molesto. Tira sus guantes a la basura. Ve un bebé. Le da el bebé a una mujer. Ella no lo quiere. Intenta devolver al bebé. Está atrapado. Le da el bebé a un hombre. ¡Él huye! El otro hombre le vuelve a dar el bebé a la mujer. La mujer golpea a Charles Chaplin con un paraguas en la cabeza. Ella esta muy enojada. Tenía que recuperar al bebé. El policía seguía a Charles Chaplin por toda la ciudad. Iba a poner al bebé bajo tierra. Estaba sentado y jugando con el bebé al costado de la carretera. Encontró una nota en el bebé. Decía "por favor ame y cuide a mi hijo". Charles Chaplin estaba triste. El niño era huérfano. ¡Sus padres lo dejaron junto a un bote de basura! Muy triste. Le sonrió al bebé y quiere que sea su bebé. Se puso de pie con el bebé. Se fue con él. Creo que probablemente se llevó al bebé a casa y lo convirtió en su bebé.Pero no estoy seguro porque el clip no tuvo final. Todo lo que vi fue a él corriendo mucho con el bebé. Fue muy triste que el bebé no tuviera padres y fuera huérfano.La música también cambió de feliz a triste cuando Charles Chaplin se dio cuenta de que tenía que cuidar al bebé porque no tenía madre ni padre.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Charles	Charles	PROPN	_	_	6	nsubj	_	_
+2	Chaplin	Chaplin	PROPN	_	_	1	flat	_	_
+3	está	estar	AUX	_	_	6	cop	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	este	este	DET	_	_	6	det	_	_
+6	video	video	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Parece	parecer	VERB	_	_	0	ROOT	_	_
+2	ser	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	video	video	NOUN	_	_	1	xcomp	_	_
+5	mudo	mudo	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decía	decir	VERB	_	_	0	ROOT	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
+3	culo	culo	NOUN	_	_	1	obj	_	_
+4	incómodo	incómodo	ADJ	_	_	3	amod	_	_
+5	"	"	PUNCT	_	_	3	punct	_	_
+6	al	al	ADP	_	_	1	case	_	_
+7	principio	principio	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estaba	estar	AUX	_	_	2	aux	_	_
+2	fumando	fumar	VERB	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hay	haber	AUX	_	_	0	ROOT	_	_
+2	música	música	NOUN	_	_	1	obj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	fondo	fondo	NOUN	_	_	2	nmod	_	_
+5	todo	todo	DET	_	_	6	det	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	tiempo	tiempo	NOUN	_	_	1	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	molesto	molesto	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tira	tira	VERB	_	_	0	ROOT	_	_
+2	sus	su	DET	_	_	3	det	_	_
+3	guantes	guant	NOUN	_	_	1	obj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	basura	basura	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ve	ve	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	bebé	bebé	NOUN	_	_	1	nsubj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	da	dar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	bebé	bebé	NOUN	_	_	2	nsubj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	mujer	mujer	NOUN	_	_	2	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	lo	él	PRON	_	_	4	obj	_	_
+4	quiere	querer	VERB	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Intenta	intentar	VERB	_	_	0	ROOT	_	_
+2	devolver	devolver	VERB	_	_	1	xcomp	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	bebé	bebé	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Está	estar	AUX	_	_	2	cop	_	_
+2	atrapado	atrapado	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	da	dar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	bebé	bebé	NOUN	_	_	2	nsubj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	hombre	hombre	NOUN	_	_	2	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	¡	¡	PUNCT	_	_	3	punct	_	_
+2	Él	él	PRON	_	_	3	nsubj	_	_
+3	huye	huir	VERB	_	_	0	ROOT	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	3	det	_	_
+2	otro	otro	DET	_	_	1	det	_	_
+3	hombre	hombre	NOUN	_	_	5	nsubj	_	_
+4	le	él	PRON	_	_	5	iobj	_	_
+5	vuelve	volver	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	dar	dar	VERB	_	_	5	xcomp	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	bebé	bebé	NOUN	_	_	7	obj	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	mujer	mujer	NOUN	_	_	7	obj	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	mujer	mujer	NOUN	_	_	3	nsubj	_	_
+3	golpea	golpear	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Charles	Charles	PROPN	_	_	3	obj	_	_
+6	Chaplin	Chaplin	PROPN	_	_	5	flat	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	paraguas	paragua	NOUN	_	_	3	obl	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	cabeza	cabeza	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	0	ROOT	_	_
+2	esta	este	DET	_	_	4	det	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	enojada	enojado	ADJ	_	_	1	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	cc	_	_
+3	recuperar	recuperar	VERB	_	_	1	conj	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	bebé	bebé	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	policía	policía	NOUN	_	_	3	nsubj	_	_
+3	seguía	seguir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	Charles	Charles	PROPN	_	_	3	obj	_	_
+6	Chaplin	Chaplin	PROPN	_	_	5	flat	_	_
+7	por	por	ADP	_	_	10	case	_	_
+8	toda	todo	DET	_	_	9	det	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	ciudad	ciudad	NOUN	_	_	3	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Iba	ir	AUX	_	_	3	aux	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	poner	poner	VERB	_	_	0	ROOT	_	_
+4	al	al	ADP	_	_	5	case	_	_
+5	bebé	bebé	NOUN	_	_	3	obj	_	_
+6	bajo	bajo	ADP	_	_	7	case	_	_
+7	tierra	tierra	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estaba	estar	AUX	_	_	2	cop	_	_
+2	sentado	sentado	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	jugando	jugar	VERB	_	_	2	conj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	bebé	bebé	NOUN	_	_	2	obl	_	_
+8	al	al	ADP	_	_	9	case	_	_
+9	costado	costado	NOUN	_	_	2	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	carretera	carretera	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Encontró	encontrar	VERB	_	_	0	ROOT	_	_
+2	una	uno	DET	_	_	3	det	_	_
+3	nota	nota	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	bebé	bebé	NOUN	_	_	1	obl	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decía	decir	VERB	_	_	0	ROOT	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
+3	por	por	ADP	_	_	1	advmod	_	_
+4	favor	favor	NOUN	_	_	3	fixed	_	_
+5	ame	ame	PROPN	_	_	3	fixed	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	cuide	cuidir	VERB	_	_	1	conj	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	hijo	hijo	NOUN	_	_	7	obj	_	_
+11	"	"	PUNCT	_	_	1	punct	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Charles	Charles	PROPN	_	_	4	nsubj	_	_
+2	Chaplin	Chaplin	PROPN	_	_	1	flat	_	_
+3	estaba	estar	AUX	_	_	4	cop	_	_
+4	triste	triste	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	niño	niño	NOUN	_	_	4	nsubj	_	_
+3	era	ser	AUX	_	_	4	cop	_	_
+4	huérfano	huérfano	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	¡	¡	PUNCT	_	_	5	punct	_	_
+2	Sus	su	DET	_	_	3	det	_	_
+3	padres	padre	NOUN	_	_	5	nsubj	_	_
+4	lo	él	PRON	_	_	5	obj	_	_
+5	dejaron	dejar	VERB	_	_	0	ROOT	_	_
+6	junto	junto	ADJ	_	_	9	case	_	_
+7	a	a	ADP	_	_	6	fixed	_	_
+8	un	uno	DET	_	_	9	det	_	_
+9	bote	bote	NOUN	_	_	5	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	basura	basura	NOUN	_	_	9	nmod	_	_
+12	!	!	PUNCT	_	_	5	punct	_	_
+
+1	Muy	mucho	ADV	_	_	2	advmod	_	_
+2	triste	triste	ADJ	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	sonrió	sonreír	VERB	_	_	0	ROOT	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	bebé	bebé	NOUN	_	_	2	obl	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiere	querer	VERB	_	_	2	conj	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	sea	ser	AUX	_	_	10	cop	_	_
+9	su	su	DET	_	_	10	det	_	_
+10	bebé	bebé	NOUN	_	_	6	ccomp	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pass	_	_
+2	puso	poner	VERB	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	2	advmod	_	_
+4	pie	pie	NOUN	_	_	3	fixed	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	bebé	bebé	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	fue	ser	VERB	_	_	0	ROOT	_	_
+3	con	con	ADP	_	_	4	case	_	_
+4	él	él	PRON	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	probablemente	probablemente	ADV	_	_	5	advmod	_	_
+4	se	él	PRON	_	_	5	expl:pass	_	_
+5	llevó	llevar	VERB	_	_	1	ccomp	_	_
+6	al	al	ADP	_	_	7	case	_	_
+7	bebé	bebé	NOUN	_	_	5	obl	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	casa	casa	NOUN	_	_	5	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	_	12	obj	_	_
+12	convirtió	convertir	VERB	_	_	5	conj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	_	15	det	_	_
+15	bebé	bebé	NOUN	_	_	12	iobj	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	estoy	estar	AUX	_	_	4	cop	_	_
+4	seguro	seguro	ADJ	_	_	0	ROOT	_	_
+5	porque	porque	SCONJ	_	_	9	mark	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	clip	clip	NOUN	_	_	9	nsubj	_	_
+8	no	no	ADV	_	_	9	advmod	_	_
+9	tuvo	tener	VERB	_	_	4	advcl	_	_
+10	final	final	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Todo	todo	DET	_	_	2	det	_	_
+2	lo	él	PRON	_	_	4	det	_	_
+3	que	que	PRON	_	_	4	obj	_	_
+4	vi	vi	VERB	_	_	5	csubj	_	_
+5	fue	ser	AUX	_	_	7	cop	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	él	él	PRON	_	_	8	nsubj	_	_
+8	corriendo	correr	VERB	_	_	0	ROOT	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	el	el	DET	_	_	12	det	_	_
+12	bebé	bebé	NOUN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Fue	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	bebé	bebé	NOUN	_	_	8	nsubj	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	tuviera	tener	VERB	_	_	3	csubj	_	_
+9	padres	padre	NOUN	_	_	8	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	fuera	ser	AUX	_	_	12	cop	_	_
+12	huérfano	huérfano	ADJ	_	_	9	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	música	música	NOUN	_	_	4	nsubj	_	_
+3	también	también	ADV	_	_	4	advmod	_	_
+4	cambió	cambiar	VERB	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	feliz	feliz	NOUN	_	_	4	obl	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	triste	triste	ADJ	_	_	4	obl	_	_
+9	cuando	cuando	SCONJ	_	_	13	mark	_	_
+10	Charles	Charles	PROPN	_	_	13	nsubj	_	_
+11	Chaplin	Chaplin	PROPN	_	_	10	flat	_	_
+12	se	él	PRON	_	_	13	iobj	_	_
+13	dio	dar	VERB	_	_	4	advcl	_	_
+14	cuenta	cuenta	NOUN	_	_	13	compound	_	_
+15	de	de	ADP	_	_	17	mark	_	_
+16	que	que	SCONJ	_	_	19	mark	_	_
+17	tenía	tener	VERB	_	_	13	ccomp	_	_
+18	que	que	SCONJ	_	_	19	cc	_	_
+19	cuidar	cuidar	VERB	_	_	17	conj	_	_
+20	al	al	ADP	_	_	21	case	_	_
+21	bebé	bebé	NOUN	_	_	19	obj	_	_
+22	porque	porque	SCONJ	_	_	24	mark	_	_
+23	no	no	ADV	_	_	24	advmod	_	_
+24	tenía	tener	VERB	_	_	19	advcl	_	_
+25	madre	madre	NOUN	_	_	24	obj	_	_
+26	ni	ni	CCONJ	_	_	27	cc	_	_
+27	padre	padre	NOUN	_	_	24	obj	_	_
+28	.	.	PUNCT	_	_	4	punct	_	_
+

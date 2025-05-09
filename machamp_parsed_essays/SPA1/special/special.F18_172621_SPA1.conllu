@@ -1,0 +1,217 @@
+# Unnamed: 0 = 313
+# id = 172621
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 19 anos
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = no
+# language(s) used at home = Mandarin
+# language(s) studied = I learned English for nearly 10 years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo tengo un amigo. Su nombre es *FIRST_NAME*. El tiene pelo negro y ojos negros. El es un mal estudiante en la escuela porgue no le gusta estudiar. El es activo y feo. El volverse me amigo hace 8 anos. Nosotros viajar un grande ciudad en China. Le gusta pescar, jugar juegos de computadora y montar bicicleta. Nosotros montamos bicicleta a pueblo pequeno y viejo. El pueblo esta a 100 Km de distancia de nosotros. El clima es frio y nevoso. El me inspira en el camino. *FIRST_NAME* vive en Italia ahora. Yo voy a ir a Italia a visitarlo. Su sueno es convertirse en artista en Italia. El es bueno dibujando gente y comida. Asi que el es un estudiante en una famosa escuela de arte en Italia. Espero que podamos vivir en la misma ciudad cuando nos graduemos de la uiversidad. Asi que tenemos que estudiar mucho ahora.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	negro	negro	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	_
+7	negros	negro	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	mal	mal	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	porgue	porgue	PRON	_	PronType=Rel	12	obl	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+13	estudiar	estudiar	VERB	_	VerbForm=Inf	12	csubj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	activo	activo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	feo	feo	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	volverse	volver	VERB	_	VerbForm=Inf	4	csubj	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	amigo	amigo	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	8	8	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
+7	anos	ano	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	viajar	viajar	VERB	_	VerbForm=Inf	0	root	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	grande	grande	ADJ	_	Number=Sing	5	amod	_	_
+5	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	China	China	PROPN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pescar	pescar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	jugar	jugar	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	juegos	juego	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	computadora	computadora	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	montar	montar	VERB	_	VerbForm=Inf	3	conj	_	_
+11	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	montamos	montar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	pequeno	pequeno	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	viejo	viejo	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	100	100	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+6	Km	k	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	clima	clima	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	frio	frio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	nevoso	nevoso	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	inspira	inspirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	camino	camino	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Italia	Italia	PROPN	_	_	2	obl	_	_
+5	ahora	ahora	ADV	_	_	2	advmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	Italia	Italia	PROPN	_	_	4	obl	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	visitarlo	visitar	VERB	_	VerbForm=Inf	4	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	sueno	sueno	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	convertirse	convertir	VERB	_	VerbForm=Inf	3	ccomp	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	artista	artista	NOUN	_	Number=Sing	4	obl	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	Italia	Italia	PROPN	_	_	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	dibujando	dibujar	VERB	_	VerbForm=Ger	3	advcl	_	_
+5	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Asi	asi	ADV	_	_	6	advmod	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+7	en	en	ADP	_	_	10	case	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	famosa	famoso	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	arte	arte	NOUN	_	Number=Sing	10	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	Italia	Italia	PROPN	_	_	10	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	podamos	poder	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	vivir	vivir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	en	en	ADP	_	_	8	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+8	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	cuando	cuando	SCONJ	_	_	11	mark	_	_
+10	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	graduemos	graduer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	4	advcl	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	uiversidad	uiversidad	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Asi	asi	ADV	_	_	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	estudiar	estudiar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	mucho	mucho	ADV	_	_	7	advmod	_	_
+7	ahora	ahora	ADV	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

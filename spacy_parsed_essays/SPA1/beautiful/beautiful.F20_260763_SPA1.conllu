@@ -1,0 +1,228 @@
+# Unnamed: 0 = 63
+# id = 260763
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = Mandarin
+# other l1 language(s) = 1
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = Other
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo [es]{era}<fs:st:t> nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía [me quedo]{me quedé}<fs:st:t> en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me [obliga]{obligó}<fs:st:t> a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual [es]{fue}<fs:st:t> tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* [es]{será}<fs:st:t> siempre uno de los lugares más importantes para mí.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* a los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar, escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí. 
+# corrected2 = nan
+# text = La hermosa historia para mí es la historia entre *CITY* (la ciudad) y yo. Vine a *PLACE* *PLACE* desde los *AGE* años y todo es nuevo para mí. Estoy tan emocionado de vivir y estudiar escuchar. Me transferí una vez durante la escuela secundaria, pero todavía me quedo en *CITY*. Amo tanto a *CITY*. Todos los fines de semana, salgo con mis amigos en *PLACE* *PLACE* y nos gusta caminar por la orilla del río *NAME*. Me familiaricé cada vez más con esta ciudad y tengo un sentimiento profundo por esta ciudad, porque aquí están mis recuerdos de la escuela secundaria. En 2020, el covid-19 me obliga a volver a *PLACE*. Compré el boleto de avión un día antes de partir, lo cual es tan inesperado para mí, y no podía imaginarme que me iría mañana. En estos cuatro años de mi escuela secundaria en *CITY*, aprendí muchas cosas y cultura, y conocí a mucha gente interesante. *CITY* es siempre uno de los lugares más importantes para mí.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	3	det	_	_
+2	hermosa	hermoso	ADJ	_	_	3	amod	_	_
+3	historia	historia	NOUN	_	_	8	nsubj	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	_	3	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	historia	historia	NOUN	_	_	0	ROOT	_	_
+9	entre	entre	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	8	nmod	_	_
+11	(	(	PUNCT	_	_	13	punct	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	ciudad	ciudad	NOUN	_	_	10	appos	_	_
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	yo	yo	PRON	_	_	10	conj	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Vine	venir	VERB	_	_	0	ROOT	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	1	obj	_	_
+4	*PLACE*	PLACE	PROPN	_	_	3	flat	_	_
+5	desde	desde	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	*AGE*	AGE	PROPN	_	_	1	obl	_	_
+8	años	año	NOUN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	todo	todo	PRON	_	_	12	nsubj	_	_
+11	es	ser	AUX	_	_	12	cop	_	_
+12	nuevo	nuevo	ADJ	_	_	1	conj	_	_
+13	para	para	ADP	_	_	14	case	_	_
+14	mí	yo	PRON	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estoy	estar	AUX	_	_	3	cop	_	_
+2	tan	tanto	ADV	_	_	3	advmod	_	_
+3	emocionado	emocionado	ADJ	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	vivir	vivir	VERB	_	_	3	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	estudiar	estudiar	VERB	_	_	5	conj	_	_
+8	escuchar	escuchar	VERB	_	_	7	xcomp	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	transferí	transferí	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	vez	vez	NOUN	_	_	2	obl	_	_
+5	durante	durante	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	escuela	escuela	NOUN	_	_	2	obl	_	_
+8	secundaria	secundario	ADJ	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	todavía	todavía	ADV	_	_	13	advmod	_	_
+12	me	yo	PRON	_	_	13	expl:pv	_	_
+13	quedo	quedar	VERB	_	_	2	conj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	CITY	PROPN	_	_	13	obl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Amo	amar	VERB	_	_	0	ROOT	_	_
+2	tanto	tanto	ADV	_	_	1	advmod	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	1	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Todos	todo	DET	_	_	2	det	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	fines	fin	NOUN	_	_	0	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	semana	semana	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	salgo	salgo	ADJ	_	_	3	amod	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	amigos	amigo	NOUN	_	_	7	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	*PLACE*	PLACE	PROPN	_	_	10	nmod	_	_
+13	*PLACE*	PLACE	PROPN	_	_	12	flat	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	nos	yo	PRON	_	_	16	iobj	_	_
+16	gusta	gustar	VERB	_	_	3	conj	_	_
+17	caminar	caminar	VERB	_	_	16	csubj	_	_
+18	por	por	ADP	_	_	20	case	_	_
+19	la	el	DET	_	_	20	det	_	_
+20	orilla	orilla	NOUN	_	_	17	obj	_	_
+21	del	del	ADP	_	_	22	case	_	_
+22	río	río	NOUN	_	_	20	nmod	_	_
+23	NAME	NAME	PROPN	_	_	22	appos	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	familiaricé	familiarizar	VERB	_	_	0	ROOT	_	_
+3	cada	cada	DET	_	_	4	det	_	_
+4	vez	vez	NOUN	_	_	5	obl	_	_
+5	más	más	ADV	_	_	2	advmod	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	esta	este	DET	_	_	8	det	_	_
+8	ciudad	ciudad	NOUN	_	_	2	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tengo	tener	VERB	_	_	2	conj	_	_
+11	un	uno	DET	_	_	12	det	_	_
+12	sentimiento	sentimiento	NOUN	_	_	10	obj	_	_
+13	profundo	profundo	ADJ	_	_	12	amod	_	_
+14	por	por	ADP	_	_	16	case	_	_
+15	esta	este	DET	_	_	16	det	_	_
+16	ciudad	ciudad	NOUN	_	_	12	nmod	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	porque	porque	SCONJ	_	_	20	mark	_	_
+19	aquí	aquí	ADV	_	_	20	advmod	_	_
+20	están	estar	VERB	_	_	2	advcl	_	_
+21	mis	mi	DET	_	_	22	det	_	_
+22	recuerdos	recuerdo	NOUN	_	_	20	nsubj	_	_
+23	de	de	ADP	_	_	25	case	_	_
+24	la	el	DET	_	_	25	det	_	_
+25	escuela	escuela	NOUN	_	_	22	nmod	_	_
+26	secundaria	secundario	ADJ	_	_	25	amod	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	2020	2020	NOUN	_	_	7	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	covid-19	covid-19	PROPN	_	_	7	nsubj	_	_
+6	me	yo	PRON	_	_	7	iobj	_	_
+7	obliga	obligar	VERB	_	_	0	ROOT	_	_
+8	a	a	ADP	_	_	9	mark	_	_
+9	volver	volver	VERB	_	_	7	xcomp	_	_
+10	a	a	ADP	_	_	11	case	_	_
+11	*PLACE*	PLACE	PROPN	_	_	9	obl	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Compré	comprar	VERB	_	_	0	ROOT	_	_
+2	el	el	DET	_	_	3	det	_	_
+3	boleto	boleto	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	avión	avión	NOUN	_	_	3	nmod	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	día	día	NOUN	_	_	8	obl	_	_
+8	antes	antes	ADV	_	_	1	advmod	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	partir	partir	VERB	_	_	8	advcl	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	lo	él	PRON	_	_	16	det	_	_
+13	cual	cual	PRON	_	_	16	nsubj	_	_
+14	es	ser	AUX	_	_	16	cop	_	_
+15	tan	tanto	ADV	_	_	16	advmod	_	_
+16	inesperado	inesperado	ADJ	_	_	1	advcl	_	_
+17	para	para	ADP	_	_	18	case	_	_
+18	mí	yo	PRON	_	_	16	obl	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	y	y	CCONJ	_	_	23	cc	_	_
+21	no	no	ADV	_	_	23	advmod	_	_
+22	podía	poder	AUX	_	_	23	aux	_	_
+23	imaginarme	imaginar yo	VERB	_	_	1	conj	_	_
+24	que	que	SCONJ	_	_	26	mark	_	_
+25	me	yo	PRON	_	_	26	iobj	_	_
+26	iría	ir	VERB	_	_	23	ccomp	_	_
+27	mañana	mañana	ADV	_	_	26	advmod	_	_
+28	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	4	case	_	_
+2	estos	este	DET	_	_	4	det	_	_
+3	cuatro	cuatro	NUM	_	_	2	nummod	_	_
+4	años	año	NOUN	_	_	12	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	escuela	escuela	NOUN	_	_	4	nmod	_	_
+8	secundaria	secundario	ADJ	_	_	7	amod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	CITY	PROPN	_	_	7	nmod	_	_
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	aprendí	aprender	VERB	_	_	0	ROOT	_	_
+13	muchas	mucho	DET	_	_	14	det	_	_
+14	cosas	cosa	NOUN	_	_	12	obj	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	cultura	cultura	NOUN	_	_	14	conj	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	conocí	conocí	VERB	_	_	12	conj	_	_
+20	a	a	ADP	_	_	22	case	_	_
+21	mucha	mucho	DET	_	_	22	det	_	_
+22	gente	gente	NOUN	_	_	19	obj	_	_
+23	interesante	interesante	ADJ	_	_	22	amod	_	_
+24	.	.	PUNCT	_	_	12	punct	_	_
+
+1	*CITY*	CITY	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	uno	uno	PRON	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	lugares	lugar	NOUN	_	_	4	nmod	_	_
+8	más	más	ADV	_	_	9	advmod	_	_
+9	importantes	importante	ADJ	_	_	7	amod	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	mí	yo	PRON	_	_	7	nmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+

@@ -1,0 +1,223 @@
+# Unnamed: 0 = 83
+# id = 151053
+# prompt = special
+# quarter = S19
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Tagalog
+# language(s) studied = French - 6 years (2 years in middle school, 4 years in high school)
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi persona favorito es mi hermoso. Se llama *FIRST_NAME* y tiene *AGE* años. Él cumpleaños es el 24 de mayo. Él es filipino y estadounidense. Él es de *CITY* y el es estudiante de *PLACE* Middle School. ¡Él gusta va a vacaciones! Él va a viajar a filipinas. Él gusta viajar en avión con Philippine Airlines porque él gusta las comidas tipicas en el avión. En avión, él gusta el asiento de ventanilla y él va a comer la pasta con el café. En vacaciones, él va a caminar a las montañas y él va a caminar cerca la ciudad. ¡También, él gusta comer mucho! Él gusta todos las comidas. Él va a desayunar chocolate con churros. En vacaciones, él gusta ir a la playa. Él va a nadar porque él gusta la océano. En vacaciones, él va a visitar a la familia también. Él gusta a pasar tiempo con la familia y amigos en vacaciones.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	hermoso	hermoso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	*AGE*	*age*	PUNCT	_	_	7	punct	_	_
+7	años	año	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	24	24	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	mayo	mayo	NOUN	_	_	5	compound	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	filipino	filipino	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estadounidense	estadounidense	ADJ	_	Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PUNCT	_	_	1	punct	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	*PLACE*	*Place*	PROPN	_	_	11	flat	_	_
+11	Middle	Middle	PROPN	_	_	8	nmod	_	_
+12	School	School	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+4	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+8	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+10	a	a	ADP	_	_	11	mark	_	_
+11	viajar	viajar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	a	a	ADP	_	_	13	case	_	_
+13	filipinas	filipina	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	viajar	viajar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	avión	avión	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	Philippine	Philippine	PROPN	_	_	3	obl	_	_
+8	Airlines	Airlines	PROPN	_	_	7	flat	_	_
+9	porque	porque	SCONJ	_	_	11	mark	_	_
+10	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+14	tipicas	tipico	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	avión	avión	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	avión	avión	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	asiento	asiento	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ventanilla	ventanilla	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	comer	comer	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	con	con	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	café	café	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+20	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	caminar	caminar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	montañas	montaña	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+14	a	a	ADP	_	_	15	mark	_	_
+15	caminar	caminar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	cerca	cerca	ADV	_	_	13	advmod	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	5	punct	_	_
+2	También	también	ADV	_	_	5	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	comer	comer	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+9	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+11	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	desayunar	desayunar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	churros	churro	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ir	ir	VERB	_	VerbForm=Inf	5	csubj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	playa	playa	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	nadar	nadar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	océano	océano	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	visitar	visitar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	también	también	ADV	_	_	5	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	pasar	pasar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

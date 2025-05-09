@@ -1,0 +1,241 @@
+# Unnamed: 0 = 178
+# id = 205873
+# prompt = yourself
+# quarter = W20
+# course = SPA 1
+# age = 19 
+# gender = Female
+# l1 language = Other
+# other l1 language(s) = Hmong
+# language(s) used at home = Hmong
+# language(s) studied = English, (Kindergarten- present) 15 years.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Tengo *AGE* anos. Soy de *CITY* y vivo en *CITY* con mis amigas. Voy a la Universidad de *UNIVERSITY* por dos anos. Yo estudio las ciencias de politicas. La clase de espanol es necesaria para mi especialidad. Me encantan *CITY* mucho. No me encantan *CITY*, pero esta bien! La gente es agradable y [contento]{contenta}<ga:adj>. Cuando voy a *CITY*, estoy triste y cansada todos los dias. Ahora, tengo amigos entonces es muy divertido.  Tengo muchas hermanos! Tengo dos hermanos mayores y uno hermano joven. Tengo cinco hermanas mayores. Tambien tengo muchas sobrinas y sobrinos! Tengo nueve sobrinas y cinco sobrinos! Mi familia es muy grande! Me encantan todos porque mi familia es agradable y comico.  Soy *FIRST_NAME*. Mis padres de donde a *PLACE*. En 1970 mis padres van a [la]{los}<ga:det> Estados Unidos. []{La}<ab:det:art:def> Vida es muy dificil pero mis padres [estan]{son}<conf:v:seta> trabajadoros. Mis padres no estudian la escuela porque necesaria tener un trabajo. Entonces, yo estudio en la universidad porque usted no tener la oportunidad.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! Tengo *AGE* anos. Soy de *CITY* y vivo en *CITY* con mis amigas. [Voy]{He ido}<fs:st:t> a la Universidad de *UNIVERSITY* por dos anos. [Yo]{}<pr:su:pron> estudio [las]{}<pr:det:art:def> ciencias de politicas. La clase de espanol es necesaria para mi especialidad. Me [encantan]{encanta}<fs:st:pn> *CITY* mucho. No me [encantan]{encanta}<fs:st:pn> *CITY*, pero esta bien! La gente es agradable y [contento]{contenta}<ga:adj>. Cuando voy a *CITY*, estoy triste y cansada todos los dias. Ahora, tengo amigos entonces es muy divertido.  Tengo muchas hermanos! Tengo dos hermanos mayores y uno hermano joven. Tengo cinco hermanas mayores. Tambien tengo muchas sobrinas y sobrinos! Tengo nueve sobrinas y cinco sobrinos! Mi familia es muy grande! Me encantan todos porque mi familia es agradable y [comico]{cómica}<ga:adj>.  Soy *FIRST_NAME*. Mis padres de donde a *PLACE*. En 1970 mis padres [van]{fueron}<fs:st:t> a [la]{los}<ga:na:det> Estados Unidos. []{La}<ab:det:art:def> Vida es muy dificil pero mis padres [estan]{son}<conf:v:seta> trabajadoros. Mis padres no [estudian]{estudiaron}<fs:st:t> la escuela porque [necesaria]{necesario}<gat:adj> tener un trabajo. Entonces, yo estudio en la universidad porque usted no [tener]{tuvo}<fs:st:t> la oportunidad.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Tengo diecinueve años. Soy de *CITY* y vivo en *CITY* con mis amigas. Voy a la Universidad de *UNIVERSITY* desde hace dos anos. Estudio las Ciencias Políticas. La clase de español es necesaria para mi especialidad. Me encanta *CITY*. ¡No me encanta *CITY*, pero está bien! La gente es agradable y feliz. Cuando voy a *CITY*, estoy triste y cansada todos los días. Ahora tengo amigos, entonces es muy divertido.  ¡Tengo muchas hermanos! Tengo dos hermanos mayores y un hermano joven. Tengo cinco hermanas mayores. Tambien tengo muchas sobrinas y sobrinos. Tengo nueve sobrinas y cinco sobrinos. Mi familia es muy grande. Me encantan todos porque mi familia es agradable y cómica.  Soy *FIRST_NAME*. Mis padres son de a *PLACE*. En 1970 mis padres fueron a los Estados Unidos. La vida es muy difícil pero mis padres son trabajadores. Mis padres no estudiaron en la universidad porque es neceario tener un trabajo tener un trabajo. Entonces, yo estudio en la universidad porque usted no tener la oportunidad.
+# corrected2 = nan
+# text = Hola! Tengo *AGE* anos. Soy de *CITY* y vivo en *CITY* con mis amigas. Voy a la Universidad de *UNIVERSITY* por dos anos. Yo estudio las ciencias de politicas. La clase de espanol es necesaria para mi especialidad. Me encantan *CITY* mucho. No me encantan *CITY*, pero esta bien! La gente es agradable y contento. Cuando voy a *CITY*, estoy triste y cansada todos los dias. Ahora, tengo amigos entonces es muy divertido. Tengo muchas hermanos! Tengo dos hermanos mayores y uno hermano joven. Tengo cinco hermanas mayores. Tambien tengo muchas sobrinas y sobrinos! Tengo nueve sobrinas y cinco sobrinos! Mi familia es muy grande! Me encantan todos porque mi familia es agradable y comico. Soy *FIRST_NAME*. Mis padres de donde a *PLACE*. En 1970 mis padres van a la Estados Unidos. Vida es muy dificil pero mis padres estan trabajadoros. Mis padres no estudian la escuela porque necesaria tener un trabajo. Entonces, yo estudio en la universidad porque usted no tener la oportunidad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	3	nsubj	_	_
+2	!	!	PROPN	_	_	1	punct	_	_
+3	Tengo	tener	VERB	_	_	0	ROOT	_	_
+4	*AGE*	AGE	PROPN	_	_	3	obj	_	_
+5	anos	ano	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	vivo	vivo	ADJ	_	_	3	conj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	3	nmod	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	_	10	det	_	_
+10	amigas	amiga	NOUN	_	_	3	nmod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Voy	ir	AUX	_	_	4	cop	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	Universidad	Universidad	PROPN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	dos	dos	NUM	_	_	9	nummod	_	_
+9	anos	ano	NOUN	_	_	4	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	ciencias	ciencia	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	politicas	politica	NOUN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	clase	clase	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	espanol	espanol	NOUN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	necesaria	necesario	ADJ	_	_	0	ROOT	_	_
+7	para	para	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	especialidad	especialidad	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encantan	encantar	VERB	_	_	0	ROOT	_	_
+3	*CITY*	CITY	PROPN	_	_	2	nsubj	_	_
+4	mucho	mucho	ADV	_	_	2	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	encantan	encantar	VERB	_	_	0	ROOT	_	_
+4	*CITY*	CITY	PROPN	_	_	3	nsubj	_	_
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	pero	pero	CCONJ	_	_	13	cc	_	_
+7	esta	este	DET	_	_	8	det	_	_
+8	bien	bien	NOUN	_	_	6	dep	_	_
+9	!	!	PUNCT	_	_	8	punct	_	_
+10	La	el	DET	_	_	11	det	_	_
+11	gente	gente	NOUN	_	_	13	nsubj	_	_
+12	es	ser	AUX	_	_	13	cop	_	_
+13	agradable	agradable	ADJ	_	_	3	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	contento	contento	ADJ	_	_	13	conj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	voy	ir	VERB	_	_	7	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	estoy	estar	AUX	_	_	7	cop	_	_
+7	triste	triste	ADJ	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	cansada	cansado	ADJ	_	_	7	conj	_	_
+10	todos	todo	DET	_	_	11	det	_	_
+11	los	el	DET	_	_	12	det	_	_
+12	dias	dia	NOUN	_	_	9	nsubj	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tengo	tener	VERB	_	_	8	csubj	_	_
+4	amigos	amigo	NOUN	_	_	3	obj	_	_
+5	entonces	entonces	ADV	_	_	8	advmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	divertido	divertido	ADJ	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	muchas	mucho	DET	_	_	3	det	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	_	1	obj	_	_
+4	mayores	mayor	ADJ	_	_	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	uno	uno	PRON	_	_	7	nummod	_	_
+7	hermano	hermano	NOUN	_	_	3	conj	_	_
+8	joven	joven	ADJ	_	_	3	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cinco	cinco	NUM	_	_	3	nummod	_	_
+3	hermanas	hermana	NOUN	_	_	1	obj	_	_
+4	mayores	mayor	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tambien	tambien	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	muchas	mucho	DET	_	_	4	det	_	_
+4	sobrinas	sobrina	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	sobrinos	sobrino	NOUN	_	_	4	conj	_	_
+7	!	!	PUNCT	_	_	2	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	nueve	nueve	NUM	_	_	3	nummod	_	_
+3	sobrinas	sobrina	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	cinco	cinco	NUM	_	_	6	nummod	_	_
+6	sobrinos	sobrino	NOUN	_	_	3	conj	_	_
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	grande	grande	ADJ	_	_	8	ccomp	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+7	Me	yo	PRON	_	_	8	iobj	_	_
+8	encantan	encantar	VERB	_	_	0	ROOT	_	_
+9	todos	todo	PRON	_	_	8	nsubj	_	_
+10	porque	porque	SCONJ	_	_	14	mark	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	familia	familia	NOUN	_	_	14	nsubj	_	_
+13	es	ser	AUX	_	_	14	cop	_	_
+14	agradable	agradable	ADJ	_	_	8	advcl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	comico	comico	ADJ	_	_	14	conj	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	padres	padre	NOUN	_	_	0	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	donde	donde	PRON	_	_	2	acl	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	*PLACE*	PLACE	PROPN	_	_	2	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	1970	1970	NOUN	_	_	5	obl	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	padres	padre	NOUN	_	_	5	nsubj	_	_
+5	van	ir	VERB	_	_	0	ROOT	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	Estados	Estados	PROPN	_	_	5	obl	_	_
+9	Unidos	Unidos	PROPN	_	_	8	flat	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Vida	Vida	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	dificil	dificil	ADJ	_	_	0	ROOT	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	mis	mi	DET	_	_	7	det	_	_
+7	padres	padre	NOUN	_	_	8	nsubj	_	_
+8	estan	estar	VERB	_	_	4	conj	_	_
+9	trabajadoros	trabajadoro	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mis	mi	DET	_	_	2	det	_	_
+2	padres	padre	NOUN	_	_	4	nsubj	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	estudian	estudiar	VERB	_	_	0	ROOT	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	escuela	escuela	NOUN	_	_	4	obj	_	_
+7	porque	porque	SCONJ	_	_	8	mark	_	_
+8	necesaria	necesariir	AUX	_	_	4	advcl	_	_
+9	tener	tener	VERB	_	_	8	xcomp	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	trabajo	trabajo	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	yo	yo	PRON	_	_	4	nsubj	_	_
+4	estudio	estudiar	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	universidad	universidad	NOUN	_	_	4	obl	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	usted	usted	PRON	_	_	11	nsubj	_	_
+10	no	no	ADV	_	_	11	advmod	_	_
+11	tener	tener	VERB	_	_	4	advcl	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	oportunidad	oportunidad	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+

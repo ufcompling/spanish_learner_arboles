@@ -1,0 +1,230 @@
+# Unnamed: 0 = 202
+# id = 126777
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = Japanese, 3 years.
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = La semana pasada, viajo a casa por vacaciones. Estoy viajando, cuando mi carro se destruye. Muchas horas hasta que mi padre me encuentra. Nosotros vamos al mecanico. ¡Él pide mucho dinero! Despues, nosotros vamos a casa con no carro. Más tarde en las vacaciones, mi hermana tiene que ir al hospital porque se rompió el brazo. Ella esta triste y molesta. Mi hermana tiene mucho dolor. Mis padres y yo hablamos con el médico. ¡El médico pide mucho dinero! Es loco. Entonces, mi padre cocina la cena y el pavo se incendia. Nosotros vamos a la comida de china para la cena. La comida es muy buena. Nosotros hablamos con el camarero. ¡El camarero pide mucho dinero! Finalmente, es hora de volver a la escuela. Yo tengo mucha tarea que hacer. Tres semanas hasta las nuevas vacaciones. Yo tengo que estudiar mucho hasta las vacaciones. Estas tres semanas son difíciles.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	semana	semana	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+3	pasada	pasado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	viajo	viajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	por	por	ADP	_	_	9	case	_	_
+9	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	viajando	viajar	VERB	_	VerbForm=Ger	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+4	cuando	cuando	SCONJ	_	_	8	mark	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	carro	carro	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	destruye	destruir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	horas	hora	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	hasta	hasta	ADP	_	_	8	mark	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	padre	padre	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	mecanico	mecanico	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	3	punct	_	_
+2	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+7	Despues	despues	ADV	_	_	10	advmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	a	a	ADP	_	_	12	case	_	_
+12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+13	con	con	ADP	_	_	15	case	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	carro	carro	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Más	más	ADV	_	Degree=Cmp	2	advmod	_	_
+2	tarde	tarde	ADV	_	_	11	advmod	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	que	que	SCONJ	_	_	11	cc	_	_
+11	ir	ir	VERB	_	VerbForm=Inf	9	conj	_	_
+12	al	a	ADP	_	_	13	case	_	_
+13	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	porque	porque	SCONJ	_	_	16	mark	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	rompió	romper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	brazo	brazo	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	esta	este	AUX	_	Gender=Fem|Number=Sing|PronType=Dem	3	cop	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	molesta	molesto	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	dolor	dolor	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
+5	hablamos	hablar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	médico	médico	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	médico	médico	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	loco	loco	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	cocina	cocinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cena	cena	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	y	y	CCONJ	_	_	12	cc	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pavo	pavo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	incendia	incendiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	china	china	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cena	cena	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	comida	comida	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	hablamos	hablar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	camarero	camarero	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	_
+2	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	camarero	camarero	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	6	det	_	_
+6	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+
+1	Finalmente	finalmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hora	hora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	volver	volver	VERB	_	VerbForm=Inf	4	acl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	4	det	_	_
+4	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	6	obj	_	_
+6	hacer	hacer	VERB	_	VerbForm=Inf	4	acl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
+2	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+3	hasta	hasta	ADP	_	_	6	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+6	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	4	cc	_	_
+4	estudiar	estudiar	VERB	_	VerbForm=Inf	2	conj	_	_
+5	mucho	mucho	ADV	_	_	4	advmod	_	_
+6	hasta	hasta	ADP	_	_	8	case	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
+2	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	1	nummod	_	_
+3	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	difíciles	difícil	ADJ	_	Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

@@ -1,0 +1,135 @@
+# Unnamed: 0 = 15
+# id = 126557
+# prompt = famous
+# quarter = F17
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Teochew
+# language(s) studied = French for three years in high school
+# listening comprehension = 2.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = Ella se llama Emma Watson. Ella es actriz. Ella es muy guapa y inteligente. Ella no lleva gafas, barba, y bigote. Ella tiene veintisiete anos. Ella es francesa. Ella viva en Britain. Ella tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. Ella tiene los ojos marrones. Ella es muy sympatica y generosa. Ella trabaja con la United Nations y ella estudia en la Universidad de Brown.
+# a personal annotator2 = Ella se llama Emma Watson. Ella es actriz. Ella es muy guapa y inteligente. Ella no lleva gafas, barba, y bigote. Ella tiene veintisiete anos. Ella es francesa. Ella viva en Britain. Ella tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. Ella tiene los ojos marrones. Ella es muy sympatica y generosa. Ella trabaja con la United Nations y ella estudia en la Universidad de Brown.
+# gender-number annotator1 = Ella se llama Emma Watson. Ella es actriz. Ella es muy guapa y inteligente. Ella no lleva gafas, barba, y bigote. Ella tiene veintisiete anos. Ella es francesa. Ella viva en Britain. Ella tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. Ella tiene los ojos marrones. Ella es muy sympatica y generosa. Ella trabaja con la United Nations y ella estudia en la Universidad de Brown.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Ella se llama Emma Watson. [Ella]{}<pr:su:pron> es actriz. [Ella]{}<pr:su:pron> es muy guapa y inteligente. [Ella]{}<pr:su:pron> no lleva gafas, barba, y bigote. [Ella]{}<pr:su:pron> tiene veintisiete anos. [Ella]{}<pr:su:pron> es francesa. [Ella]{}<pr:su:pron> viva en Britain. [Ella]{}<pr:su:pron> tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. [Ella]{}<pr:su:pron> tiene los ojos marrones. [Ella]{}<pr:su:pron> es muy sympatica y generosa. [Ella]{}<pr:su:pron> trabaja con la United Nations y [ella]{}<pr:su:pron> estudia en la Universidad de Brown.
+# updated annotation ann2 = Ella se llama Emma Watson. [Ella]{}<pr:su:pron> es actriz. [Ella]{}<pr:su:pron> es muy guapa y inteligente. [Ella]{}<pr:su:pron> no lleva gafas, barba, y bigote. [Ella]{}<pr:su:pron> tiene veintisiete anos. [Ella]{}<pr:su:pron> es francesa. [Ella]{}<pr:su:pron> viva en Britain. [Ella]{}<pr:su:pron> tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. [Ella]{}<pr:su:pron> tiene los ojos marrones. [Ella]{}<pr:su:pron> es muy sympatica y generosa. [Ella]{}<pr:su:pron> trabaja con [la]{las}<na:det> United Nations y [ella]{}<pr:su:pron> estudia en la Universidad de Brown.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Ella se llama Emma Watson. Es actriz. Es muy guapa e inteligente. No lleva gafas, barba, ni bigote. Tiene veintisiete años. Es francesa. Vive en Gran Bretaña. Tiene el pelo marrón, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. Tiene los ojos marrones. Es muy simpática y generosa. Trabaja con la United Nations y estudia en la Universidad de Brown.
+# corrected2 = Ella se llama Emma Watson. Es actriz. Es muy guapa e inteligente. No lleva gafas, barba ni bigote. Tiene veintisiete años. Es francesa. Vive en Reino Unido. Tiene el pelo marrón, liso y corto, pero en la saga de Harry Potter su pelo es largo y rizado. Tiene los ojos marrones. Es muy simpática y generosa. Trabaja con las Naciones Unidas y estudia en la Universidad de Brown. 
+# text = Ella se llama Emma Watson. Ella es actriz. Ella es muy guapa y inteligente. Ella no lleva gafas, barba, y bigote. Ella tiene veintisiete anos. Ella es francesa. Ella viva en Britain. Ella tiene el pelo marron, liso, y corto. Pero en la serie de Harry Potter, su pelo es largo y rizado. Ella tiene los ojos marrones. Ella es muy sympatica y generosa. Ella trabaja con la United Nations y ella estudia en la Universidad de Brown.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Emma	Emma	PROPN	_	_	3	obj	_	_
+5	Watson	Watson	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	guapa	guapo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	inteligente	inteligente	ADJ	_	Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+6	barba	barba	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	bigote	bigote	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	veintisiete	veintisiete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	francesa	francés	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	viva	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	Britain	Britain	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	marron	marron	NOUN	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	liso	liso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	corto	corto	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	12	advmod	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	serie	serie	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Harry	Harry	PROPN	_	_	4	nmod	_	_
+7	Potter	Potter	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	largo	largo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	marrones	marrón	ADJ	_	Number=Plur	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	sympatica	sympatico	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	United	United	PROPN	_	_	2	obl	_	_
+6	Nations	Nations	PROPN	_	_	5	flat	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	estudia	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Universidad	Universidad	PROPN	_	_	9	obl	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	Brown	Brown	PROPN	_	_	12	flat	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

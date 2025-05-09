@@ -1,0 +1,325 @@
+# Unnamed: 0 = 237
+# id = 152551
+# prompt = special
+# quarter = F18
+# course = SPA 33
+# age = 20
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Yes, Spanish.
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 4.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = n la vida socializamos y nos cruzamos con mucha gente. A veces conocemos o creamos relaciones con ciertas personas que nos pueden afectar en una marea positiva o negativa. Una persona muy especial en mi vida es mi madre. La relación que tengo con mi mama es algo especial e muy importante para mi porque me ha dado un ejemplo de una heroína. Mi mamá siempre ha sido una persona muy optimista y trabajadora. No crecí en lo que yo considero un hogar tradicionalmente latina donde la madre se queda en casa a cuidar a los niños. Yo tenia una madre que tenía que trabajar para su familia y para mostrarle a sus hijos que uno tiene que trabajar por lo que uno quiere porque nada es gratis en la vida. Admiro su fuerza para salir adelante a pesar de los obstáculos que enfrenta. Hubo una época donde tenía que trabajar dos empleos y también cocinar y cuidar a mis hermanitos y yo. Durante ese tiempo supe que ella estaba estresada porque a veces llegaba de un empleo y solo tenia una hora para descansar. A pesar de eso, ella seguía con una sonrisa en su cara y con una actitud optimista Mi madre tambien me asegura que puedo confiar en ella y sé que ella me da los mejores consejos. Aunque ella es mi madre a la vez es mi mejor amiga y se que nadie proteja mis intereses como ella. La diferencia de edad entre yo y mi mama es 20 años entonces ella entiende mi punto de vista y tenemos una coneccion mas que madre e hija.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	n	n	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+4	socializamos	socializar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	cruzamos	cruzar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	gente	gente	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	3	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	conocemos	conocer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	o	o	CCONJ	_	_	5	cc	_	_
+5	creamos	crear	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	relaciones	relación	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	ciertas	cierto	DET	_	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+10	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+11	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	13	obj	_	_
+12	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	afectar	afectar	VERB	_	VerbForm=Inf	9	acl	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	marea	marea	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+17	positiva	positivo	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
+18	o	o	CCONJ	_	_	19	cc	_	_
+19	negativa	negativo	ADJ	_	Gender=Fem|Number=Sing	17	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	vida	vida	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	madre	madre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	relación	relación	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	mama	mama	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	algo	algo	PRON	_	Number=Sing|PronType=Ind	0	root	_	_
+10	especial	especial	ADJ	_	Number=Sing	9	amod	_	_
+11	e	e	CCONJ	_	_	13	cc	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	importante	importante	ADJ	_	Number=Sing	10	conj	_	_
+14	para	para	ADP	_	_	15	case	_	_
+15	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod	_	_
+16	porque	porque	SCONJ	_	_	19	mark	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	obl	_	_
+18	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	heroína	heroína	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+25	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	siempre	siempre	ADV	_	_	7	advmod	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	optimista	optimista	ADJ	_	Number=Sing	7	amod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	9	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	crecí	crecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	7	mark	_	_
+4	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	det	_	_
+5	que	que	PRON	_	PronType=Rel	7	obj	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	considero	considerar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	tradicionalmente	tradicionalmente	ADV	_	_	11	advmod	_	_
+11	latina	latino	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+12	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	madre	madre	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
+15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl	_	_
+16	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	casa	casa	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+19	a	a	ADP	_	_	20	mark	_	_
+20	cuidar	cuidar	VERB	_	VerbForm=Inf	16	advcl	_	_
+21	a	a	ADP	_	_	23	case	_	_
+22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	niños	niño	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+6	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
+7	que	que	SCONJ	_	_	8	cc	_	_
+8	trabajar	trabajar	VERB	_	VerbForm=Inf	6	conj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	mostrarle	mostrar	VERB	_	VerbForm=Inf	6	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+18	que	que	SCONJ	_	_	22	mark	_	_
+19	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	22	nsubj	_	_
+20	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+21	que	que	SCONJ	_	_	22	cc	_	_
+22	trabajar	trabajar	VERB	_	VerbForm=Inf	20	conj	_	_
+23	por	por	ADP	_	_	27	mark	_	_
+24	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	det	_	_
+25	que	que	PRON	_	PronType=Rel	27	obj	_	_
+26	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	27	nsubj	_	_
+27	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+28	porque	porque	SCONJ	_	_	31	mark	_	_
+29	nada	nada	PRON	_	Number=Sing|PronType=Neg	31	nsubj	_	_
+30	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
+31	gratis	gratis	ADJ	_	Number=Sing	27	advcl	_	_
+32	en	en	ADP	_	_	34	case	_	_
+33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	vida	vida	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	_
+35	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Admiro	admirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	fuerza	fuerza	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	salir	salir	VERB	_	VerbForm=Inf	3	acl	_	_
+6	adelante	adelante	ADV	_	_	5	advmod	_	_
+7	a	a	ADP	_	_	11	case	_	_
+8	pesar	pesar	NOUN	_	_	7	fixed	_	_
+9	de	de	ADP	_	_	7	fixed	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	obstáculos	obstáculo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+12	que	que	PRON	_	PronType=Rel	13	obj	_	_
+13	enfrenta	enfrentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	época	época	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	donde	donde	ADV	_	PronType=Rel	7	advmod	_	_
+5	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
+6	que	que	SCONJ	_	_	7	cc	_	_
+7	trabajar	trabajar	VERB	_	VerbForm=Inf	5	conj	_	_
+8	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	empleos	empleo	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	también	también	ADV	_	_	12	advmod	_	_
+12	cocinar	cocinar	VERB	_	VerbForm=Inf	5	conj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	cuidar	cuidar	VERB	_	VerbForm=Inf	12	conj	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	hermanitos	hermanito	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	conj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	supe	supir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	estresada	estresado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	ccomp	_	_
+9	porque	porque	SCONJ	_	_	12	mark	_	_
+10	a	a	ADP	_	_	12	advmod	_	_
+11	veces	veces	NOUN	_	_	10	fixed	_	_
+12	llegaba	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	empleo	empleo	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	solo	solo	ADV	_	_	18	advmod	_	_
+18	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	hora	hora	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+21	para	para	ADP	_	_	22	mark	_	_
+22	descansar	descansar	VERB	_	VerbForm=Inf	20	acl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	A	a	ADP	_	_	4	case	_	_
+2	pesar	pesar	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	eso	ese	PRON	_	Number=Sing|PronType=Dem	7	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	seguía	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	sonrisa	sonrisa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	cara	cara	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	actitud	actitud	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+18	optimista	optimista	ADJ	_	Number=Sing	17	amod	_	_
+19	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	madre	madre	PROPN	_	_	23	nsubj	_	_
+21	tambien	tambien	NOUN	_	_	19	fixed	_	_
+22	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	23	obl	_	_
+23	asegura	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+24	que	que	SCONJ	_	_	26	mark	_	_
+25	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	confiar	confiar	VERB	_	VerbForm=Inf	23	xcomp	_	_
+27	en	en	ADP	_	_	28	case	_	_
+28	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	obl	_	_
+29	y	y	CCONJ	_	_	30	cc	_	_
+30	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	conj	_	_
+31	que	que	SCONJ	_	_	34	mark	_	_
+32	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+33	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	34	obl	_	_
+34	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	ccomp	_	_
+35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
+36	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	37	amod	_	_
+37	consejos	consejo	NOUN	_	Gender=Masc|Number=Plur	34	obj	_	_
+38	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	5	mark	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	madre	madre	NOUN	_	Gender=Fem|Number=Sing	12	advcl	_	_
+6	a	a	ADP	_	_	5	advmod	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	fixed	_	_
+8	vez	vez	NOUN	_	_	6	fixed	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+11	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	12	amod	_	_
+12	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	conj	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	17	nsubj	_	_
+17	proteja	protcar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	csubj	_	_
+18	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+19	intereses	interés	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+20	como	como	SCONJ	_	_	21	mark	_	_
+21	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	diferencia	diferencia	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	edad	edad	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	entre	entre	ADP	_	_	6	case	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mama	mama	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	20	20	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+12	años	año	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+13	entonces	entonces	ADV	_	_	12	advmod	_	_
+14	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	entiende	entender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+16	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	punto	punto	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	vista	vista	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	_
+22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	coneccion	coneccion	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	_
+24	mas	mas	ADV	_	Degree=Cmp	21	advmod	_	_
+25	que	que	SCONJ	_	_	26	mark	_	_
+26	madre	madre	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+27	e	e	CCONJ	_	_	28	cc	_	_
+28	hija	hija	NOUN	_	Gender=Fem|Number=Sing	26	conj	_	_
+29	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+

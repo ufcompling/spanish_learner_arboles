@@ -1,0 +1,375 @@
+# Unnamed: 0 = 104
+# id = 151677
+# prompt = vacation
+# quarter = S18
+# course = SPA 3
+# age = Female
+# gender = 20
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Soy de Ohio. Nací en *CITY* pero mi familia se mudó a Maryland cuando tuve un año. Nosotros se mudamos otra vez a Ohio en 2006. Viví en Columbus por seis años. A mi me encantan las personas allí y quiero mucho visitar. Tengo familia allí así que la vería. Tenía muchos amigos en Ohio también. Nosotros iría a ""Cedar Point,"" un parque maravilloso. A mi me gusta ""King's Island"" también, un otro parque maravilloso en Ohio. Cuando era niña, mis amigos and mi familia fuimos a ambos parques para divertirse. 
+
+Querría ir a ""Grater's"" también. Grater's tiene el mejor helado en todo de Ohio. Uno de mis amigos trabaja allí ahora! Quiero sorprenderlo. 
+
+Viví en Dublin, Ohio. En Dublin es el zoológico de Columbus. El zoológico es uno del mejor en el mundo. Tiene un parque de agua también! Tenía asustada en algunos de los paseos cuando era niña, pero ahora no estaría mieda. 
+
+Viví en Dublin pero me encanta el ciudad de ""Yellow Springs"" más. Tengo algunos amigos allí porque nosotros fuimos a un campamento de música. El ciudad es muy tranquilo y divertido.¡Iría allí para el ciudad y las personas!
+
+Por fin, querría visitar Barnesville, Ohio. Mi campamento de música estaba allí. Barnesville es muy pequeño y un poco aburrido, pero es muy pacifico y bonito. 
+
+Estas son mis vacaciones perfectas. Tienen familia, amigos, y lugares bonitos y pacificos. A mi me gusta California, pero a mi me encanta Ohio. El ciudad de Columbus será mi hogar. " 
+# a personal annotator2 = nan
+# gender-number annotator1 = Soy de Ohio. Nací en *CITY* pero mi familia se mudó a Maryland cuando tuve un año. Nosotros se mudamos otra vez a Ohio en 2006. Viví en Columbus por seis años. A mi me encantan las personas allí y quiero mucho visitar. Tengo familia allí así que la vería. Tenía muchos amigos en Ohio también. Nosotros iría a ""Cedar Point,"" un parque maravilloso. A mi me gusta ""King's Island"" también, un otro parque maravilloso en Ohio. Cuando era niña, mis amigos and mi familia fuimos a ambos parques para divertirse. 
+
+Querría ir a ""Grater's"" también. Grater's tiene el mejor helado en todo de Ohio. Uno de mis amigos trabaja allí ahora! Quiero sorprenderlo. 
+
+Viví en Dublin, Ohio. En Dublin es el zoológico de Columbus. El zoológico es uno [del]{de los}<na:ps:det:inan> [mejor]{mejores}<na:ps:adj:inan> en el mundo. Tiene un parque de agua también! Tenía asustada en algunos de los paseos cuando era niña, pero ahora no estaría [mieda]{miedo}<ig:f:noun:inan>. 
+
+Viví en Dublin pero me encanta [el]{la}<ga:fm:det:inan> ciudad de ""Yellow Springs"" más. Tengo algunos amigos allí porque nosotros fuimos a un campamento de música. [El]{la}<ga:fm:det:inan> ciudad<gat:noun:inan> es muy [tranquilo]{tranquila}<ga:fm:adj:inan> y [divertido]{divertida}<ga:fm:adj:inan>.¡Iría allí para [el]{la}<ga:fm:det:inan> ciudad y las personas!
+
+Por fin, querría visitar Barnesville, Ohio. Mi campamento de música estaba allí. Barnesville es muy pequeño y un poco aburrido, pero es muy pacifico y bonito. 
+
+Estas son mis vacaciones perfectas. Tienen familia, amigos, y lugares bonitos y pacificos. A mi me gusta California, pero a mi me encanta Ohio. [El]{la}<ga:fm:det:inan> ciudad de Columbus será mi hogar. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Soy de Ohio. Nací en *CITY* pero mi familia se mudó a Maryland cuando tuve un año. Nosotros se mudamos otra vez a Ohio en 2006. Viví en Columbus por seis años. A mi me encantan las personas allí y quiero mucho visitar. Tengo familia allí así que la vería. Tenía muchos amigos en Ohio también. Nosotros iría a "Cedar Point," un parque maravilloso. A mi me gusta "King's Island" también, un otro parque maravilloso en Ohio. Cuando era niña, mis amigos and mi familia fuimos a ambos parques para divertirse. Querría ir a "Grater's" también. Grater's tiene el mejor helado en todo de Ohio. Uno de mis amigos trabaja allí ahora! Quiero sorprenderlo. Viví en Dublin, Ohio. En Dublin es el zoológico de Columbus. El zoológico es uno del mejor en el mundo. Tiene un parque de agua también! Tenía asustada en algunos de los paseos cuando era niña, pero ahora no estaría mieda. Viví en Dublin pero me encanta el ciudad de "Yellow Springs" más. Tengo algunos amigos allí porque nosotros fuimos a un campamento de música. El ciudad es muy tranquilo y divertido.¡Iría allí para el ciudad y las personas! Por fin, querría visitar Barnesville, Ohio. Mi campamento de música estaba allí. Barnesville es muy pequeño y un poco aburrido, pero es muy pacifico y bonito. Estas son mis vacaciones perfectas. Tienen familia, amigos, y lugares bonitos y pacificos. A mi me gusta California, pero a mi me encanta Ohio. El ciudad de Columbus será mi hogar.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	Ohio	Ohio	PROPN	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nací	Nací	PROPN	_	_	8	nsubj	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	nmod	_	_
+4	pero	pero	CCONJ	_	_	8	cc	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	familia	familia	NOUN	_	_	8	nsubj	_	_
+7	se	él	PRON	_	_	8	expl:pv	_	_
+8	mudó	mudar	VERB	_	_	0	ROOT	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	Maryland	Maryland	PROPN	_	_	8	obj	_	_
+11	cuando	cuando	SCONJ	_	_	12	mark	_	_
+12	tuve	tener	VERB	_	_	8	advcl	_	_
+13	un	uno	DET	_	_	14	det	_	_
+14	año	año	NOUN	_	_	12	obj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	mudamos	mudamos	VERB	_	_	0	ROOT	_	_
+4	otra	otro	DET	_	_	5	det	_	_
+5	vez	vez	NOUN	_	_	3	obl	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	Ohio	Ohio	PROPN	_	_	3	obj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	2006	2006	NOUN	_	_	3	obl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Viví	Viví	PROPN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Columbus	Columbus	PROPN	_	_	1	nmod	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	seis	seis	NUM	_	_	6	nummod	_	_
+6	años	año	NOUN	_	_	1	nmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	DET	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	encantan	encantar	VERB	_	_	0	ROOT	_	_
+5	las	el	DET	_	_	6	det	_	_
+6	personas	persona	NOUN	_	_	4	nsubj	_	_
+7	allí	allí	ADV	_	_	4	advmod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	quiero	querer	VERB	_	_	4	conj	_	_
+10	mucho	mucho	ADV	_	_	11	advmod	_	_
+11	visitar	visitar	VERB	_	_	9	xcomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	familia	familia	NOUN	_	_	1	obj	_	_
+3	allí	allí	ADV	_	_	1	advmod	_	_
+4	así	así	ADV	_	_	1	advmod	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	la	el	DET	_	_	7	obj	_	_
+7	vería	ver	VERB	_	_	1	advcl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	amigos	amigo	NOUN	_	_	1	obj	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	Ohio	Ohio	PROPN	_	_	1	obl	_	_
+6	también	también	ADV	_	_	1	advmod	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	2	nsubj	_	_
+2	iría	ir	AUX	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	"	"	PUNCT	_	_	5	punct	_	_
+5	Cedar	Cedar	PROPN	_	_	2	obj	_	_
+6	Point	Point	PROPN	_	_	5	flat	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	"	"	PUNCT	_	_	10	punct	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	parque	parque	NOUN	_	_	5	appos	_	_
+11	maravilloso	maravilloso	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	DET	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	"	"	PUNCT	_	_	6	punct	_	_
+6	King's	King's	PROPN	_	_	4	nsubj	_	_
+7	Island	Island	PROPN	_	_	6	flat	_	_
+8	"	"	PUNCT	_	_	6	punct	_	_
+9	también	también	ADV	_	_	6	advmod	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	un	uno	DET	_	_	13	det	_	_
+12	otro	otro	DET	_	_	11	det	_	_
+13	parque	parque	NOUN	_	_	6	appos	_	_
+14	maravilloso	maravilloso	ADJ	_	_	13	amod	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	Ohio	Ohio	PROPN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	_	3	cop	_	_
+3	niña	niña	NOUN	_	_	10	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	mis	mi	DET	_	_	6	det	_	_
+6	amigos	amigo	NOUN	_	_	10	nsubj	_	_
+7	and	and	NOUN	_	_	6	appos	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	familia	familia	NOUN	_	_	6	appos	_	_
+10	fuimos	ir	VERB	_	_	0	ROOT	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	ambos	ambos	NUM	_	_	13	nummod	_	_
+13	parques	parque	NOUN	_	_	10	obj	_	_
+14	para	para	ADP	_	_	15	mark	_	_
+15	divertirse	divertir él	VERB	_	_	10	advcl	_	_
+16	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Querría	querer	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	"	"	PUNCT	_	_	5	punct	_	_
+5	Grater's	Grater's	PROPN	_	_	2	obl	_	_
+6	"	"	PUNCT	_	_	5	punct	_	_
+7	también	también	ADV	_	_	5	advmod	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Grater's	Grater's	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	5	det	_	_
+4	mejor	mejor	ADJ	_	_	5	amod	_	_
+5	helado	helado	NOUN	_	_	2	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	todo	todo	PRON	_	_	5	nmod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Ohio	Ohio	PROPN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Uno	uno	PRON	_	_	5	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	amigos	amigo	NOUN	_	_	1	nmod	_	_
+5	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+6	allí	allí	ADV	_	_	5	advmod	_	_
+7	ahora	ahora	ADV	_	_	5	advmod	_	_
+8	!	!	PUNCT	_	_	5	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	sorprenderlo	sorprender él	VERB	_	_	1	xcomp	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Viví	viví	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Dublin	Dublin	PROPN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Ohio	Ohio	PROPN	_	_	1	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Dublin	Dublin	PROPN	_	_	5	obl	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	zoológico	zoológico	NOUN	_	_	0	ROOT	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Columbus	Columbus	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	zoológico	zoológico	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	uno	uno	PRON	_	_	0	ROOT	_	_
+5	del	del	ADP	_	_	6	case	_	_
+6	mejor	mejor	ADJ	_	_	4	nmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	mundo	mundo	NOUN	_	_	6	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	parque	parque	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	agua	agua	NOUN	_	_	3	nmod	_	_
+6	también	también	ADV	_	_	1	advmod	_	_
+7	!	!	PUNCT	_	_	1	punct	_	_
+
+1	Tenía	tener	VERB	_	_	0	ROOT	_	_
+2	asustada	asustado	ADJ	_	_	1	obj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	algunos	alguno	PRON	_	_	1	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	paseos	paseo	NOUN	_	_	4	nmod	_	_
+8	cuando	cuando	SCONJ	_	_	10	mark	_	_
+9	era	ser	AUX	_	_	10	cop	_	_
+10	niña	niña	NOUN	_	_	1	advcl	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	pero	pero	CCONJ	_	_	16	cc	_	_
+13	ahora	ahora	ADV	_	_	16	advmod	_	_
+14	no	no	ADV	_	_	16	advmod	_	_
+15	estaría	estar	AUX	_	_	16	cop	_	_
+16	mieda	miedo	ADJ	_	_	1	conj	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Viví	Viví	PROPN	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Dublin	Dublin	PROPN	_	_	1	nmod	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	_	6	iobj	_	_
+6	encanta	encantar	VERB	_	_	1	conj	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	ciudad	ciudad	NOUN	_	_	6	nsubj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	"	"	PUNCT	_	_	11	punct	_	_
+11	Yellow	Yellow	PROPN	_	_	8	nmod	_	_
+12	Springs	Springs	PROPN	_	_	11	flat	_	_
+13	"	"	PUNCT	_	_	11	punct	_	_
+14	más	más	ADV	_	_	11	advmod	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	algunos	alguno	DET	_	_	3	det	_	_
+3	amigos	amigo	NOUN	_	_	1	obj	_	_
+4	allí	allí	ADV	_	_	1	advmod	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	nosotros	yo	PRON	_	_	7	nsubj	_	_
+7	fuimos	ir	VERB	_	_	1	advcl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	campamento	campamento	NOUN	_	_	7	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	música	música	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	ciudad	ciudad	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	tranquilo	tranquilo	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	divertido.¡Iría	divertido.¡ier	VERB	_	_	5	conj	_	_
+8	allí	allí	ADV	_	_	7	advmod	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	ciudad	ciudad	NOUN	_	_	7	obl	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	las	el	DET	_	_	14	det	_	_
+14	personas	persona	NOUN	_	_	11	conj	_	_
+15	!	!	PUNCT	_	_	5	punct	_	_
+
+1	Por	por	ADP	_	_	4	advmod	_	_
+2	fin	fin	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	querría	querer	VERB	_	_	0	ROOT	_	_
+5	visitar	visitar	VERB	_	_	4	xcomp	_	_
+6	Barnesville	Barnesville	PROPN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Ohio	Ohio	PROPN	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	campamento	campamento	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	música	música	NOUN	_	_	2	nmod	_	_
+5	estaba	estar	AUX	_	_	6	cop	_	_
+6	allí	allí	ADV	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Barnesville	Barnesville	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	pequeño	pequeño	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	un	uno	DET	_	_	8	advmod	_	_
+7	poco	poco	ADV	_	_	6	advmod	_	_
+8	aburrido	aburrido	ADJ	_	_	4	advmod	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	pacifico	pacifico	ADJ	_	_	4	conj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	bonito	bonito	ADJ	_	_	13	conj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Estas	este	PRON	_	_	4	nsubj	_	_
+2	son	ser	AUX	_	_	4	cop	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	vacaciones	vacación	NOUN	_	_	0	ROOT	_	_
+5	perfectas	perfecto	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tienen	tener	VERB	_	_	0	ROOT	_	_
+2	familia	familia	NOUN	_	_	1	obj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	amigos	amigo	NOUN	_	_	2	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	lugares	lugar	NOUN	_	_	2	conj	_	_
+8	bonitos	bonito	ADJ	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pacificos	pacifico	NOUN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	mi	mi	DET	_	_	4	obj	_	_
+3	me	yo	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	California	California	PROPN	_	_	4	nsubj	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	mi	mi	DET	_	_	11	obj	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	encanta	encantar	VERB	_	_	4	conj	_	_
+12	Ohio	Ohio	PROPN	_	_	11	nsubj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	ciudad	ciudad	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Columbus	Columbus	PROPN	_	_	2	nmod	_	_
+5	será	ser	AUX	_	_	7	cop	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	hogar	hogar	NOUN	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+

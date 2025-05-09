@@ -1,0 +1,223 @@
+# Unnamed: 0 = 78
+# id = 154983
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, only English
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y [ver]{ve}<fs:st:pn:t:mo> películas con mí. Hablamos por el teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta [va]{ir}<fs:st:pn:t:mo> a la playa y correr. Mi mama [correr]{ha corrido}<fs:st:pn:t:mo> cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama está de *CITY*. Mi mama [estudiar]{estudió}<fs:st:pn:t:mo> historia en []{la}<ab:det:art:def> Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva [las]{}<pr:det:art:def> gafas a veces. Mi mama [tengo]{tiene}<fs:st:pn> el pelo rizado y los ojos [azul]{azules}<ga:adj>. Mi mama es baja y muy bonita. Mi mama es mi [favorita persona]{persona favorita}<col:adj>.
+# updated annotation ann2 = Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y ver películas con mí. Hablamos por [el]{}<pr:det:art:def> teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta va a la playa y correr. Mi mama correr cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama [está]{es}<conf:v:seta> de *CITY*. Mi mama estudiar historia en []{la}<ab:det:art:def> Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva [las]{}<pr:det:art:def> gafas a veces. Mi mama [tengo]{tiene}<fs:st:pn> el pelo rizado y los ojos [azul]{azules}<na:adj>. Mi mama es baja y muy bonita. Mi mama es mi [favorita persona]{persona favorita}<col:adj>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial para mí es mi mamá. Mi mamá es profesora el kindergarten. Mi mamá se llama *FIRST_NAME*. Mi mamá es muy trabajadora, simpática, y extrovertida. Mi mamá siempre come palomitas y ve películas conmigo. Hablamos por teléfono todos los días cuando estoy en la escuela. Mi mamá vive en *CITY*, *STATE*. Mi mamá tiene cinco hermanos y cero hermanas. Mi mamá es la hermana menor. A mi mamá le gusta ir a la playa y correr. Mi mamá ha corrido cinco maratones. Mi mamá tiene *AGE* años. Su cumpleaños es el dieciocho de julio. Mi mamá es de *CITY*. Mi mamá estudió historia en la Universidad de *UNIVERSITY* con mi papá. Mi mama nadó en el equipo de Universidad de *UNIVERSITY*. Mi mamá lleva gafas a veces. Mi mama tiene el pelo rizado y los ojos azules. Mi mamá es baja y muy bonita. Mi mamá es mi persona favorita.
+# corrected2 = nan
+# text = Una persona especial para mi es mi mamá. Mi mama es profesora el kindergarten. Mi mama se llama *FIRST_NAME*. Mi mama es muy trabajadora, simpática, y extrovertida. Mi mama siempre come palomitas y ver películas con mí. Hablamos por el teléfono todos los días cuando en la escuela. Mi mama vive en *CITY*, *STATE*. Mi mama tiene cinco hermanos y cero hermanas. Mi mama es la hermana menor. Mi mama le gusta va a la playa y correr. Mi mama correr cinco maratones. Mi mama tiene *AGE* años. Se cumpleaños es el dieciocho de julio. Mi mama está de *CITY*. Mi mama estudiar historia en Universidad de *UNIVERSITY* con mi papá. Mi mama son nadar en el equipo de Universidad de *UNIVERSITY*. Mi mama lleva las gafas a veces. Mi mama tengo el pelo rizado y los ojos azul. Mi mama es baja y muy bonita. Mi mama es mi favorita persona.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	persona	persona	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	especial	especial	ADJ	_	Number=Sing	2	amod	_	_
+4	para	para	ADP	_	_	5	case	_	_
+5	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	profesora	profesora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	kindergarten	kindergarten	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	4	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	trabajadora	trabajador	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	simpática	simpático	ADJ	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	extrovertida	extrovertido	ADJ	_	Gender=Fem|Number=Sing	5	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	siempre	siempre	ADV	_	_	4	advmod	_	_
+4	come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	palomitas	palomita	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	4	conj	_	_
+8	películas	película	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Hablamos	hablar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	días	día	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+8	cuando	cuando	SCONJ	_	PronType=Rel	1	mark	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PROPN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	cero	cero	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	playa	playa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	correr	correr	VERB	_	VerbForm=Inf	5	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	correr	correr	VERB	_	VerbForm=Inf	0	root	_	_
+4	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
+5	maratones	maratón	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	*AGE*	*age*	PUNCT	_	_	5	punct	_	_
+5	años	año	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	nummod	_	_
+2	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dieciocho	dieciocho	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	julio	julio	NOUN	_	_	5	compound	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	*city*	PUNCT	_	_	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	estudiar	estudiar	VERB	_	VerbForm=Inf	0	root	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	6	punct	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	papá	papá	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nadar	nadar	VERB	_	VerbForm=Inf	3	ccomp	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Universidad	Universidad	PROPN	_	_	7	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	*university*	PROPN	_	_	9	flat	_	_
+12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	a	a	ADP	_	_	3	advmod	_	_
+7	veces	veces	NOUN	_	_	6	fixed	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	rizado	rizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+10	azul	azul	ADJ	_	Number=Sing	9	amod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+6	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

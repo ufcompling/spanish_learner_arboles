@@ -1,0 +1,78 @@
+# Unnamed: 0 = 60
+# id = 99934
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = 25
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = German
+# language(s) studied = German, spoken in my household as a child alongside english. Formally studied for 2 years.
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi mama es una persona muy importante en mi vida. Por vientecinco anos ella ayudame en tiempos malos o cuando no conozco que hacer. Ensename mucho del mundo, como de hablar con otras personas, y para no rendirse cuando tiempos son dificiles.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	importante	importante	ADJ	_	Number=Sing	5	amod	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	vida	vida	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Por	por	ADP	_	_	2	case	_	_
+2	vientecinco	vientecinco	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	ayudame	ayuda	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+8	malos	malo	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+9	o	o	CCONJ	_	_	12	cc	_	_
+10	cuando	cuando	SCONJ	_	_	12	mark	_	_
+11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+12	conozco	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	hacer	hacer	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ensename	ensenamar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	mucho	mucho	ADV	_	_	1	advmod	_	_
+3	del	de	ADP	_	_	4	case	_	_
+4	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	como	como	SCONJ	_	_	8	mark	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	hablar	hablar	VERB	_	VerbForm=Inf	1	advcl	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	11	det	_	_
+11	personas	persona	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	y	y	CCONJ	_	_	20	cc	_	_
+14	para	para	ADP	_	_	16	mark	_	_
+15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+16	rendirse	rendir	VERB	_	VerbForm=Inf	1	conj	_	_
+17	cuando	cuando	SCONJ	_	_	16	mark	_	_
+18	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	20	nsubj	_	_
+19	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	dificiles	dificil	ADJ	_	Number=Plur	1	conj	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

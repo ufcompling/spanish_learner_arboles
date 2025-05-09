@@ -1,0 +1,217 @@
+# Unnamed: 0 = 9
+# id = 225993
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 19
+# gender = Male
+# l1 language = English,Mandarin
+# other l1 language(s) = nan
+# language(s) used at home = Mandarin
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 4.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ¡Hola! Soy de *PLACE*. Tengo *AGE* años. Ahora soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especialidad es matemática aplicada, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. Mis pasatiempos son jugar baloncesto y nadar. [Yo]{pr:su:pron}<> Participado en algunas competiciones pequeñas de estos dos deportes. También me gusta aprender sobre culturas extranjeras. Como el fútbol español, la música y la corrida de toros española. Mi especialidad es matemática aplicada, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. La canción en español con la que estoy más familiarizado es Despasito, esta canción me puede traer mucha felicidad, puedo bailar mientras escucho la canción. Además de estos, también prefiero estudiar []{las}<ab:det:art:def> aeronaves y tener una comprensión integral de cada tipo y rendimiento de aeronave. Esa es toda la descripción de mí mismo. Gracias
+# updated annotation ann2 = nan
+# verbs annotation ann1 = ¡Hola! Soy de *PLACE*. Tengo *AGE* años. Ahora soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especialidad [es]{son}<fs:st:pn> []{las}<ab:det:art:def> [matemática]{matemáticas}<in:noun> [aplicada]{aplicadas}<in:adj>, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. Mis pasatiempos son jugar baloncesto y nadar. [Yo]{}<pr:su:pron> Participado en algunas competiciones pequeñas de estos dos deportes. También me gusta aprender sobre culturas extranjeras. Como el fútbol español, la música y la corrida de toros española. Mi especialidad [es]{son}<fs:st:pn> []{las}<ab:det:art:def> [matemática]{matemáticas}<in:noun> [aplicada]{aplicadas}<in:adj>, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. La canción en español con la que estoy más familiarizado es Despasito, esta canción me puede traer mucha felicidad, puedo bailar mientras escucho la canción. Además de estos, también prefiero estudiar aeronaves y tener una comprensión integral de cada tipo y rendimiento de aeronave. Esa es toda la descripción de mí mismo. Gracias
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Soy de *PLACE*. Tengo *AGE* años. Ahora soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especialidad es Matemática Aplicada; aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. Mis pasatiempos son jugar baloncesto y nadar. He participado en algunas competiciones pequeñas de estos dos deportes. También me gusta aprender sobre culturas extranjeras, como el fútbol español, la música y la corrida de toros española. Mi especialidad es Matemática Aplicada; aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. La canción en español con la que estoy más familiarizado es Despasito, esta canción me puede traer mucha felicidad, puedo bailar mientras escucho la canción. Además de estas especialidades, también me gusta estudiar las aeronaves y tener una comprensión integral de cada tipo y rendimiento de aeronave. Esa es toda la descripción de mí mismo. Gracias.
+# corrected2 = nan
+# text = ¡Hola! Soy de *PLACE*. Tengo *AGE* años. Ahora soy estudiante en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Mi especialidad es matemática aplicada, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. Mis pasatiempos son jugar baloncesto y nadar. Yo Participado en algunas competiciones pequeñas de estos dos deportes. También me gusta aprender sobre culturas extranjeras. Como el fútbol español, la música y la corrida de toros española. Mi especialidad es matemática aplicada, aprendo español para poder comunicarme con mayor fluidez con otros en España y entender los comentarios de fútbol en español. La canción en español con la que estoy más familiarizado es Despasito, esta canción me puede traer mucha felicidad, puedo bailar mientras escucho la canción. Además de estos, también prefiero estudiar aeronaves y tener una comprensión integral de cada tipo y rendimiento de aeronave. Esa es toda la descripción de mí mismo. Gracias
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hola	hola	INTJ	_	_	0	root	_	_
+3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+4	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+5	de	de	ADP	_	_	2	case	_	_
+6	*PLACE*	*place*	PUNCT	_	_	2	punct	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PUNCT	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Universidad	Universidad	PROPN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*UNIVERSITY*	*university*	PROPN	_	_	6	flat	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	*UNIVERSITY*	*university*	PUNCT	_	_	6	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	matemática	matemática	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	aplicada	aplicado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	aprendo	aprer	VERB	_	VerbForm=Ger	4	advcl	_	_
+8	español	español	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	para	para	ADP	_	_	11	mark	_	_
+10	poder	poder	AUX	_	VerbForm=Inf	11	aux	_	_
+11	comunicarme	comunicar	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	14	amod	_	_
+14	fluidez	fluidez	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	otros	otro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	obl	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	España	España	PROPN	_	_	11	obl	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	entender	entender	VERB	_	VerbForm=Inf	11	conj	_	_
+21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	comentarios	comentario	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	español	español	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	pasatiempos	pasatiempo	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	jugar	jugar	VERB	_	VerbForm=Inf	3	ccomp	_	_
+5	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	nadar	nadar	VERB	_	VerbForm=Inf	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Participado	participado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	competiciones	competición	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	pequeñas	pequeño	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	de	de	ADP	_	_	10	case	_	_
+8	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+9	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+10	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aprender	aprender	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	sobre	sobre	ADP	_	_	6	case	_	_
+6	culturas	cultura	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	extranjeras	extranjero	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Como	como	SCONJ	_	_	3	mark	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	español	español	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	música	música	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	corrida	corrida	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	toros	toro	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+13	española	español	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	matemática	matemática	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	aplicada	aplicado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	aprendo	aprer	VERB	_	VerbForm=Ger	4	advcl	_	_
+8	español	español	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	para	para	ADP	_	_	11	mark	_	_
+10	poder	poder	AUX	_	VerbForm=Inf	11	aux	_	_
+11	comunicarme	comunicar	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	con	con	ADP	_	_	14	case	_	_
+13	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	14	amod	_	_
+14	fluidez	fluidez	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	otros	otro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	obl	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	España	España	PROPN	_	_	11	obl	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	entender	entender	VERB	_	VerbForm=Inf	11	conj	_	_
+21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	comentarios	comentario	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	español	español	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	canción	canción	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	español	español	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	que	que	PRON	_	PronType=Rel	10	obl	_	_
+8	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
+10	familiarizado	familiarizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
+11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	Despasito	Despasito	PROPN	_	_	0	root	_	_
+13	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+14	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+15	canción	canción	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+16	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl	_	_
+17	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	traer	traer	VERB	_	VerbForm=Inf	12	advcl	_	_
+19	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	20	det	_	_
+20	felicidad	felicidad	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+21	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+22	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	bailar	bailar	VERB	_	VerbForm=Inf	18	advcl	_	_
+24	mientras	mientras	SCONJ	_	_	25	mark	_	_
+25	escucho	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	canción	canción	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_
+28	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Además	además	ADV	_	_	3	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	estos	este	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	6	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	también	también	ADV	_	_	6	advmod	_	_
+6	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	estudiar	estudiar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	aeronaves	aeronave	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	tener	tener	VERB	_	VerbForm=Inf	7	conj	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	comprensión	comprensión	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	integral	integral	ADJ	_	Number=Sing	12	amod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cada	cada	DET	_	Number=Sing|PronType=Tot	16	det	_	_
+16	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	rendimiento	rendimiento	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	aeronave	aeronave	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Esa	ese	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	4	det	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	5	nmod	_	_
+8	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Gracias	gracias	ADV	_	_	0	root	_	_
+

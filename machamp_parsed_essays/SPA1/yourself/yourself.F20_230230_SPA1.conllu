@@ -1,0 +1,230 @@
+# Unnamed: 0 = 91
+# id = 230230
+# prompt = yourself
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo *AGE* (*AGE*) años de edad.  Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal [favorita]{favorito}<ga:adj> es una rana. Mi color [favorita]{favorito}<ga:adj> es el amarillo. Me encanta ir a [juegas]{juegos}<gat:noun> [deportivas]{deportivos}<gat:adj>. Mi deporte [favorita]{favorito}<ga:adj> para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy el hijo de enmedio.  Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Tengo *AGE* (*AGE*) años de edad.  [Yo]{}<pr:su:pron> soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal [favorita]{favorito}<ga:adj> es una rana. Mi color [favorita]{favorito}<ga:adj> es el amarillo. Me encanta ir a [juegas]{juegos}<gat:noun> [deportivas]{deportivos}<gat:adj>. Mi deporte [favorita]{favorito}<ga:adj> para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy [el]{la}<ga:det> [hijo]{hija}<ga:noun> de enmedio.  Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# verbs annotation ann2 = nan
+# corrected1 = Tengo *AGE* (*AGE*) años.  Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed.  Mi animal favorito es la rana. Mi color favorito es el amarillo. Me encanta ir a juegos deportivos. Mi deporte favorito para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy la hija de en medio.  Me encanta cocinar, especialmente hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo.  Estoy muy emocionada por la Navidad y pasar cada segundo con mi familia y recibir muchos regalos.  Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# corrected2 = nan
+# text = Tengo *AGE* (*AGE*) años de edad. Yo soy de *CITY* *CITY* en *STATE*. La fecha de mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy activa, atlética y aventurera. Soy generosa y tímida. Estoy nerviosa y ocupada. Estoy aburrida. Tengo vergüenza. Tengo hambre y sed. Mi animal favorita es una rana. Mi color favorita es el amarillo. Me encanta ir a juegas deportivas. Mi deporte favorita para ver es el fútbol americano. Me encanta ir a la playa con mi familia. Tengo un hermano mayor y una hermana menor. Soy el hijo de enmedio. Me encanta cocinar, especialmente para hornear alimentos para mi familia. Me encanta encontrar nuevas recetas para impresionar a mi familia. A mi familia siempre le encanta lo que horneo. Estoy muy emocionada por la Navidad de pasar cada segundo con mi familia y recibir muchos regalos. Tampoco puedo esperar a que termine el trimestre de otoño para tomar un descanso de la escuela.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	PROPN	_	_	1	dep	_	_
+3	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	4	punct	_	_
+4	*AGE*	*age*	PUNCT	_	_	2	punct	_	_
+5	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	4	punct	_	_
+6	años	año	NOUN	_	Gender=Masc|Number=Plur	1	xcomp	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	edad	edad	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	appos	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*city*	PROPN	_	_	0	root	_	_
+5	*CITY*	*city*	PUNCT	_	_	4	punct	_	_
+6	en	en	ADP	_	_	4	case	_	_
+7	*STATE*	*state*	PUNCT	_	_	4	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	cumpleaños	cumpleaños	NOUN	_	Gender=Masc	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+8	*BIRTH_DATE*	*birth_date*	PUNCT	_	PunctType=Quot	2	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	7	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	activa	activo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+4	atlética	atlético	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	aventurera	aventurero	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	generosa	generoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	tímida	tímido	ADJ	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	nerviosa	nervioso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	ocupada	ocupado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	aburrida	aburrido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	vergüenza	vergüenza	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hambre	hambre	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	sed	sed	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	animal	animal	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorita	favorito	ADJ	_	Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	rana	rana	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	color	color	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	favorita	favorita	ADJ	_	Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	amarillo	amarillo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	juegas	juega	VERB	_	Gender=Fem|Number=Plur	3	obl	_	_
+6	deportivas	deportivo	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	favorita	favorita	ADJ	_	Number=Sing	2	amod	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	ver	ver	VERB	_	VerbForm=Inf	3	acl	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+9	americano	americano	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	3	amod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+8	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	enmedio	enmedio	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cocinar	cocinar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	especialmente	especialmente	ADV	_	_	3	advmod	_	_
+6	para	para	ADP	_	_	5	case	_	_
+7	hornear	hornear	VERB	_	VerbForm=Inf	5	acl	_	_
+8	alimentos	alimento	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	para	para	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	encontrar	encontrar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+5	recetas	receta	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	impresionar	impresionar	VERB	_	VerbForm=Inf	3	advcl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
+8	que	que	PRON	_	PronType=Rel	9	obj	_	_
+9	horneo	hornear	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	csubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Navidad	Navidad	PROPN	_	_	3	obl	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	pasar	pasar	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	cada	cada	DET	_	Number=Sing|PronType=Tot	10	det	_	_
+10	segundo	segundo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	familia	familia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	recibir	recibir	VERB	_	VerbForm=Inf	8	conj	_	_
+16	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	17	det	_	_
+17	regalos	regalo	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tampoco	tampoco	ADV	_	_	3	advmod	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	esperar	esperar	VERB	_	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	_	_	6	mark	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	termine	terminar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	tomar	tomar	VERB	_	VerbForm=Inf	6	advcl	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	descanso	descanso	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

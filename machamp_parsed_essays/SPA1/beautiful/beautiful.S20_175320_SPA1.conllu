@@ -1,0 +1,209 @@
+# Unnamed: 0 = 28
+# id = 175320
+# prompt = beautiful
+# quarter = S20
+# course = SPA 1
+# age = 21
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿Esta es una historia de cómo mi familia adoptó dos perros. El año pasado, el fin de semana del Memorial Weekend, mi hermano le preguntó a papá si mi familia finalmente podría tener una mascota. Mi papá dijo que podríamos mirar a un gato, ya que sería más fácil cuidarlo. Cuando bajamos al refugio de animales, miramos a nuestro alrededor. El empleado preguntó si estábamos interesados ​​en jugar con algunos de los perros en el parque y le respondimos que sí. Vimos dos grandes perros marrones. Todos nos enamoramos de los perros y terminamos adoptándolos. Desde entonces, los hemos tenido durante casi un año. Se llaman *FIRST_NAME* y *FIRST_NAME*. Son hermano y hermana. *FIRST_NAME* tiene *AGE* años y *FIRST_NAME* tiene *AGE* años. A *FIRST_NAME* le gusta jugar y *FIRST_NAME* ladra mucho a los gatos. Amamos a los perros y estamos felices de que hayamos llegado hasta el día de hoy.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Esta es una historia de cómo mi familia adoptó dos perros. El año pasado, el fin de semana del Memorial Weekend, mi hermano le preguntó a papá si mi familia finalmente podría tener una mascota. Mi papá dijo que podríamos mirar a un gato, ya que sería más fácil cuidarlo. Cuando bajamos al refugio de animales, miramos a nuestro alrededor. El empleado preguntó si estábamos interesados ​​en jugar con algunos de los perros en el parque y le respondimos que sí. Vimos dos grandes perros marrones. Todos nos enamoramos de los perros y terminamos adoptándolos. Desde entonces, los hemos tenido durante casi un año. Se llaman *FIRST_NAME* y *FIRST_NAME*. Son hermano y hermana. *FIRST_NAME* tiene *AGE* años y *FIRST_NAME* tiene *AGE* años. A *FIRST_NAME* le gusta jugar y *FIRST_NAME* ladra mucho a los gatos. Amamos a los perros y estamos felices de que hayamos llegado hasta el día de hoy.
+# verbs annotation ann2 = nan
+# corrected1 = ﻿Esta es una historia de cómo mi familia adoptó dos perros. El año pasado, el fin de semana del Memorial Weekend, mi hermano le preguntó a papá si mi familia finalmente podría tener una mascota. Mi papá dijo que podríamos mirar un gato, ya que sería más fácil cuidarlo. Cuando bajamos al refugio de animales, miramos a nuestro alrededor. El empleado preguntó si estábamos interesados ​​en jugar con algunos de los perros en el parque y le respondimos que sí. Vimos dos grandes perros marrones. Todos nos enamoramos de los perros y terminamos adoptándolos. Desde entonces, los hemos tenido durante casi un año. Se llaman *FIRST_NAME* y *FIRST_NAME*. Son hermano y hermana. *FIRST_NAME* tiene *AGE* años y *FIRST_NAME* tiene *AGE* años. A *FIRST_NAME* le gusta jugar y *FIRST_NAME* ladra mucho a los gatos. Amamos a los perros y estamos felices de que hayamos llegado hasta el día de hoy. 
+# corrected2 = nan
+# text = Esta es una historia de cómo mi familia adoptó dos perros. El año pasado, el fin de semana del Memorial Weekend, mi hermano le preguntó a papá si mi familia finalmente podría tener una mascota. Mi papá dijo que podríamos mirar a un gato, ya que sería más fácil cuidarlo. Cuando bajamos al refugio de animales, miramos a nuestro alrededor. El empleado preguntó si estábamos interesados ​​en jugar con algunos de los perros en el parque y le respondimos que sí. Vimos dos grandes perros marrones. Todos nos enamoramos de los perros y terminamos adoptándolos. Desde entonces, los hemos tenido durante casi un año. Se llaman *FIRST_NAME* y *FIRST_NAME*. Son hermano y hermana. *FIRST_NAME* tiene *AGE* años y *FIRST_NAME* tiene *AGE* años. A *FIRST_NAME* le gusta jugar y *FIRST_NAME* ladra mucho a los gatos. Amamos a los perros y estamos felices de que hayamos llegado hasta el día de hoy.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	9	mark	_	_
+6	cómo	cómo	PRON	_	PronType=Ind	9	obl	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	adoptó	adoptar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+10	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+11	perros	perro	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	año	año	NOUN	_	AdvType=Tim	16	obl	_	_
+3	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	fin	fin	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	semana	semana	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	Memorial	Memorial	PROPN	_	_	6	nmod	_	_
+11	Weekend	Weekend	PROPN	_	_	10	flat	_	_
+12	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+16	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	a	a	ADP	_	_	18	case	_	_
+18	papá	papá	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+19	si	si	SCONJ	_	_	24	mark	_	_
+20	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	familia	familia	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+22	finalmente	finalmente	ADV	_	_	24	advmod	_	_
+23	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	24	aux	_	_
+24	tener	tener	VERB	_	VerbForm=Inf	16	xcomp	_	_
+25	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	mascota	mascota	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+27	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papá	papá	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	podríamos	poder	AUX	_	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	6	aux	_	_
+6	mirar	mirar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	gato	gato	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+11	ya	ya	ADV	_	_	15	mark	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
+13	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	15	cop	_	_
+14	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+15	fácil	fácil	ADJ	_	Number=Sing	6	advcl	_	_
+16	cuidarlo	cuidar	VERB	_	VerbForm=Inf	15	csubj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	bajamos	bajar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3	al	a	ADP	_	_	4	case	_	_
+4	refugio	refugio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	animales	animal	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+8	miramos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	alrededor	alrededor	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	empleado	empleado	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	preguntó	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	si	si	SCONJ	_	_	6	mark	_	_
+5	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	cop	_	_
+6	interesados	interesado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	3	ccomp	_	_
+7	​​en	​​en	ADP	_	_	8	mark	_	_
+8	jugar	jugar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	algunos	alguno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	8	obl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	perros	perro	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	parque	parque	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+19	respondimos	responder	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+20	que	que	SCONJ	_	_	21	mark	_	_
+21	sí	sí	ADV	_	_	19	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+3	grandes	grande	ADJ	_	Number=Plur	4	amod	_	_
+4	perros	perro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+5	marrones	marrón	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	3	nsubj	_	_
+2	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	enamoramos	enamorar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	perros	perro	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	terminamos	terminar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	adoptándolos	adoptar	VERB	_	VerbForm=Ger	8	xcomp	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Desde	desde	ADP	_	_	2	case	_	_
+2	entonces	entonces	ADV	_	_	6	advmod	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+5	hemos	haber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	tenido	tener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	durante	durante	ADP	_	_	10	case	_	_
+8	casi	casi	ADV	_	_	10	advmod	_	_
+9	un	uno	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
+10	año	año	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	*FIRST_NAME*	*first_name*	PROPN	_	_	7	nsubj	_	_
+7	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	*AGE*	*age*	PUNCT	_	_	9	punct	_	_
+9	años	año	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	A	a	ADP	_	_	2	advcl	_	_
+2	*FIRST_NAME*	*first_name*	PUNCT	_	_	4	punct	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	jugar	jugar	VERB	_	VerbForm=Inf	4	csubj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	*FIRST_NAME*	*first_name*	PROPN	_	_	8	nsubj	_	_
+8	ladra	ladrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+9	mucho	mucho	ADV	_	_	8	advmod	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	gatos	gato	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Amamos	amar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	4	case	_	_
+3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	perros	perro	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	estamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	felices	feliz	ADJ	_	Number=Plur	1	conj	_	_
+8	de	de	ADP	_	_	11	mark	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	hayamos	hayaber	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	llegado	llegar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
+12	hasta	hasta	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	día	día	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	hoy	hoy	ADV	_	_	14	advmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

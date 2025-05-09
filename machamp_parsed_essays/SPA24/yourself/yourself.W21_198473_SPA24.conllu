@@ -1,0 +1,332 @@
+# Unnamed: 0 = 59
+# id = 198473
+# prompt = yourself
+# quarter = W21
+# course = SPA 24
+# age = 21
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Hóla. Estoy en mi tercer año en *UNIVERSITY* *UNIVERSITY* y estoy estudiando neurología, biología, y comportamiento con un minor en Español. Soy de *CITY* que está a unos treinta minutos, pero ahora vivo en *CITY* durante la año de escuela. Tengo dos hermanos mayores y los dos viven en *CITY* tambíen. Debido el pandemia, todos mi familia están quedarse en mi casa, entonces, es muy ocupado cúal es la razón por qúe estoy quedando en mi apartamiento ahora. Tengo una perrita se llama *FIRST_NAME* y ella es un corgi y es muy, muy lindo. En el futuro, quiero ser un asistente de medíco porque cuando tenía *AGE* años, me rompí el ligamento cruzado anterior jugando fútbol y me gustó mi doctora mucho. Despues de graduarme, quiero viajar a Spain o Mexíco porque quiero aprender el lengua más, entonces puedo hablar con gente para mi trabajo. In mi tiempo libre me gusta pasar tiempo con mis amigos, ir a juegos de deportes, hacer ejercicio y ver Netflix y películas. Mi programas favoritas son, El Oficina, La communidad, Nueva Mujer, Anatomía de Grey, y especiales de comedia. Mi equipo deportivo profesional favoritos son Los Raiders de Oakland y Los athleticos de Oakland. Pero, mis deportivos favoritos son fútbol y voleibol. Ahora, trabajo en un campo de golf en *CITY* en la restaurante y en el campo dónde vendo comida y bebidas, pero estoy tratando a conseguir un trabajo en el hospital porque un día quiero trabajar en el hospital. Espero ayudar a la gente en el futuro.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hóla	hóla	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
+5	año	año	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*UNIVERSITY*	*University*	PROPN	_	_	11	advmod	_	_
+8	*UNIVERSITY*	*university*	PUNCT	_	_	7	punct	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	estudiando	estudiar	VERB	_	VerbForm=Ger	1	conj	_	_
+12	neurología	neurología	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+14	biología	biología	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	_
+15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	comportamiento	comportamiento	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
+18	con	con	ADP	_	_	20	case	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	minor	minor	NOUN	_	Number=Sing	11	obl	_	_
+21	en	en	ADP	_	_	22	case	_	_
+22	Español	Español	PROPN	_	_	11	obl	_	_
+23	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PROPN	_	_	1	nmod	_	_
+4	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+5	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	a	a	ADP	_	_	9	case	_	_
+7	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	treinta	treinta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+9	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	ahora	ahora	ADV	_	_	13	advmod	_	_
+13	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	*CITY*	*city*	PROPN	_	_	13	dep	_	_
+16	durante	durante	ADP	_	_	18	case	_	_
+17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	año	año	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+3	hermanos	hermano	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	mayores	mayor	ADJ	_	Degree=Cmp|Number=Plur	3	amod	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nsubj	_	_
+8	viven	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*city*	PROPN	_	_	8	obl	_	_
+11	tambíen	tambíen	PROPN	_	_	10	flat	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Debido	debido	VERB	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	pandemia	pandemia	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	familia	familia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	quedarse	quedar	VERB	_	VerbForm=Inf	0	root	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+14	entonces	entonces	ADV	_	_	18	advmod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	muy	mucho	ADV	_	_	18	advmod	_	_
+18	ocupado	ocupado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	9	advcl	_	_
+19	cúal	cúal	SCONJ	_	_	22	nsubj	_	_
+20	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	razón	razón	NOUN	_	Gender=Fem|Number=Sing	18	advcl	_	_
+23	por	por	ADP	_	_	24	case	_	_
+24	qúe	qúe	PUNCT	_	PronType=Int	26	obl	_	_
+25	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	quedando	quedar	VERB	_	VerbForm=Ger	22	acl	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	29	det	_	_
+29	apartamiento	apartamiento	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	_
+30	ahora	ahora	ADV	_	_	26	advmod	_	_
+31	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	perrita	perrita	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	PunctType=Quot	5	punct	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	corgi	corgi	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+12	y	y	CCONJ	_	_	17	cc	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+14	muy	mucho	ADV	_	_	17	advmod	_	_
+15	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	lindo	lindo	ADJ	_	Gender=Masc|Number=Sing	11	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	asistente	asistente	NOUN	_	Number=Sing	5	xcomp	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	medíco	medíco	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	porque	porque	SCONJ	_	_	18	mark	_	_
+12	cuando	cuando	SCONJ	_	_	13	mark	_	_
+13	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	advcl	_	_
+14	*AGE*	*age*	SYM	_	_	15	amod	_	_
+15	años	año	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
+16	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl	_	_
+18	rompí	romper	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	ligamento	ligamento	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+21	cruzado	cruzado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	20	amod	_	_
+22	anterior	anterior	ADJ	_	Number=Sing	20	amod	_	_
+23	jugando	jugar	VERB	_	VerbForm=Ger	18	advcl	_	_
+24	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+25	y	y	CCONJ	_	_	27	cc	_	_
+26	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	27	obl	_	_
+27	gustó	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	_	_
+28	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	29	det	_	_
+29	doctora	doctora	NOUN	_	Gender=Fem|Number=Sing	27	nsubj	_	_
+30	mucho	mucho	ADV	_	_	27	advmod	_	_
+31	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Despues	despues	NOUN	_	_	3	mark	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	graduarme	graduar	VERB	_	VerbForm=Inf	5	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	viajar	viajar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	a	a	ADP	_	_	8	case	_	_
+8	Spain	Spain	PROPN	_	_	6	obl	_	_
+9	o	o	CCONJ	_	_	10	cc	_	_
+10	Mexíco	Mexíco	PROPN	_	_	8	conj	_	_
+11	porque	porque	SCONJ	_	_	12	mark	_	_
+12	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+13	aprender	aprender	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	lengua	lengua	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
+17	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+18	entonces	entonces	ADV	_	_	20	advmod	_	_
+19	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	hablar	hablar	VERB	_	VerbForm=Inf	5	advcl	_	_
+21	con	con	ADP	_	_	22	case	_	_
+22	gente	gente	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+23	para	para	ADP	_	_	25	case	_	_
+24	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det	_	_
+25	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+26	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	In	in	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	libre	libre	ADJ	_	Number=Sing	3	amod	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	pasar	pasar	VERB	_	VerbForm=Inf	6	csubj	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	con	con	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	ir	ir	VERB	_	VerbForm=Inf	7	advcl	_	_
+14	a	a	ADP	_	_	15	case	_	_
+15	juegos	juego	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	_
+18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+19	hacer	hacer	VERB	_	VerbForm=Inf	7	advcl	_	_
+20	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	ver	ver	VERB	_	VerbForm=Inf	7	conj	_	_
+23	Netflix	NETFLIX	PROPN	_	_	22	obj	_	_
+24	y	y	CCONJ	_	_	25	cc	_	_
+25	películas	película	NOUN	_	Gender=Fem|Number=Plur	23	conj	_	_
+26	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	programas	programa	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Oficina	Oficina	PROPN	_	_	0	root	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	communidad	communidad	PROPN	_	_	7	conj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+12	Nueva	Nueva	PROPN	_	_	6	conj	_	_
+13	Mujer	Mujer	PROPN	_	_	12	flat	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	Anatomía	Anatomía	PROPN	_	_	7	conj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	Grey	Grey	PROPN	_	_	15	flat	_	_
+18	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	especiales	especial	ADJ	_	Number=Plur	7	conj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	comedia	comedia	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	deportivo	deportivo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	profesional	profesional	ADJ	_	Number=Sing	2	amod	_	_
+5	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Raiders	Raiders	PROPN	_	_	0	root	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Oakland	Oakland	PROPN	_	_	8	flat	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	athleticos	athleticos	PROPN	_	_	8	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Oakland	Oakland	PROPN	_	_	13	flat	_	_
+16	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	deportivos	deportivo	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+5	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	voleibol	voleibol	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	campo	campo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	golf	golf	NOUN	_	Gender=Masc	6	nmod	_	_
+9	en	en	ADP	_	_	13	case	_	_
+10	*CITY*	*City*	PROPN	_	_	13	aux	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	restaurante	restaurante	NOUN	_	Number=Sing	3	obl	_	_
+14	y	y	CCONJ	_	_	17	cc	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	campo	campo	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+18	dónde	dónde	ADV	_	PronType=Int	19	advmod	_	_
+19	vendo	veedir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+20	comida	comida	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
+21	y	y	CCONJ	_	_	22	cc	_	_
+22	bebidas	bebida	NOUN	_	Gender=Fem|Number=Plur	20	conj	_	_
+23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+24	pero	pero	CCONJ	_	_	26	cc	_	_
+25	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	tratando	tratar	VERB	_	VerbForm=Ger	3	conj	_	_
+27	a	a	ADP	_	_	28	mark	_	_
+28	conseguir	conseguir	VERB	_	VerbForm=Inf	26	xcomp	_	_
+29	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
+31	en	en	ADP	_	_	33	case	_	_
+32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	28	obl	_	_
+34	porque	porque	SCONJ	_	_	37	mark	_	_
+35	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	día	día	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	_
+37	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+38	trabajar	trabajar	VERB	_	VerbForm=Inf	37	xcomp	_	_
+39	en	en	ADP	_	_	41	case	_	_
+40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
+41	hospital	hospital	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	_
+42	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ayudar	ayudar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

@@ -1,0 +1,376 @@
+# Unnamed: 0 = 19
+# id = 233980
+# prompt = beautiful
+# quarter = W21
+# course = SPA 2
+# age = 19
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Comfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Historias bonitas son historias que se siente muchas cosas. Usualmente esta historias me hago llorar pero lloro porque yo soy muy feliz. Mi historia bonita favorita es el Princess Bride. Lo sobre un mujer y un hombre en amor. Pero el hombre necesite viajar y la mujer pienso que él es miedo. Entonces, la mujer va a carra un hombre que vive en un castillo y va a ser un rey. Perro la mujer es en amor con el hombre antes de este hombre. Entonces la princesa del futuro, la mujer se roba muchos tiempos. Pero una persona que se la roba es el mujer que ella se amo. Y entonces la mujer y el hombre necesita correr juntos antes de el otro hombre se corra la mujer. Es una historia muy bonita porque sobre amor verdad y como amor verdad puede es muy fuerte. También en este hisotria hay mucha aventura y es muy emocionante. Una otra historia pienso que es muy bonita es Charlie St. Cloud, es una película con Zac Efron pero cada vez que cuando miro llorar mucho porque es muy triste y muy feliz en el mismo tiempo. En este historia el protagonismo es amigos con su hermano pero se hemano muere en un accidente de carros pero todas dias el protagonismo ver la fantasma de su hermano y entonces el hombre se amó una mujer pero la mujer va a el mar y no puede va a su casa después. Y el hombre necesita va a encontrar la mujer. Pero para encontrar ella el hombre no puede ver su hermano y entonces no puede ver su hermano una otra vez. Es muy triste pero la fantasma de su hermano ayuda el hombre encontrar la mujer. Es muy muy bonita pero es muy triste. Me gustan historias bonitas muchas.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Historias	historia	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	bonitas	bonito	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	historias	historia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Usualmente	usualmente	ADV	_	_	5	advmod	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	historias	historia	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	llorar	llorar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	pero	pero	CCONJ	_	_	8	cc	_	_
+8	lloro	llorar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	porque	porque	SCONJ	_	_	13	mark	_	_
+10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+11	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	feliz	feliz	ADJ	_	Number=Sing	8	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	historia	historia	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Princess	Princess	PROPN	_	_	0	root	_	_
+8	Bride	Bride	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
+2	sobre	sobre	ADP	_	_	1	case	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	amor	amor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	necesite	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	viajar	viajar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+9	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	que	que	SCONJ	_	_	13	mark	_	_
+11	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	9	ccomp	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	carra	carra	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+11	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	castillo	castillo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+17	a	a	ADP	_	_	20	case	_	_
+18	ser	ser	AUX	_	VerbForm=Inf	16	cop	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	rey	rey	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_
+21	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Perro	perro	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	nsubj	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	amor	amor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	antes	antes	ADV	_	_	6	advmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+13	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	10	advmod	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	princesa	princesa	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+9	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	obl	_	_
+10	roba	robar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	12	det	_	_
+12	tiempos	tiempo	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	10	advmod	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	persona	persona	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+5	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obl	_	_
+6	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	roba	robar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	que	que	PRON	_	PronType=Rel	14	obl	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Y	y	CCONJ	_	_	8	cc	_	_
+2	entonces	entonces	ADV	_	_	8	advmod	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+8	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	correr	correr	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	antes	antes	ADV	_	_	9	advmod	_	_
+12	de	de	ADP	_	_	15	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
+15	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+16	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl	_	_
+17	corra	corrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	porque	porque	SCONJ	_	_	17	mark	_	_
+7	sobre	sobre	ADP	_	_	8	case	_	_
+8	amor	amor	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+9	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	8	appos	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	como	como	SCONJ	_	_	12	mark	_	_
+12	amor	amor	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+13	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+14	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	muy	mucho	ADV	_	_	17	advmod	_	_
+17	fuerte	fuerte	ADJ	_	Number=Sing	3	advcl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	También	también	ADV	_	_	5	advmod	_	_
+2	en	en	ADP	_	_	1	case	_	_
+3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	hisotria	hisotria	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+5	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	7	det	_	_
+7	aventura	aventura	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	y	y	CCONJ	_	_	11	cc	_	_
+9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	emocionante	emocionante	ADJ	_	Number=Sing	5	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	1	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	4	ccomp	_	_
+
+1	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	Charlie	Charlie	PROPN	_	_	0	root	_	_
+3	St	St	PROPN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cloud	Cloud	PROPN	_	_	5	nsubj	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	Zac	Zac	PROPN	_	_	5	nmod	_	_
+8	Efron	Efron	PROPN	_	_	7	flat	_	_
+9	pero	pero	CCONJ	_	_	15	cc	_	_
+10	cada	cada	DET	_	Number=Sing|PronType=Tot	11	det	_	_
+11	vez	vez	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+12	que	que	PRON	_	PronType=Rel	15	obl	_	_
+13	cuando	cuando	SCONJ	_	_	14	mark	_	_
+14	miro	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+15	llorar	llorar	VERB	_	VerbForm=Inf	5	conj	_	_
+16	mucho	mucho	ADV	_	_	15	advmod	_	_
+17	porque	porque	SCONJ	_	_	20	mark	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	muy	mucho	ADV	_	_	20	advmod	_	_
+20	triste	triste	ADJ	_	Number=Sing	15	advcl	_	_
+21	y	y	CCONJ	_	_	23	cc	_	_
+22	muy	mucho	ADV	_	_	23	advmod	_	_
+23	feliz	feliz	ADJ	_	Number=Sing	20	conj	_	_
+24	en	en	ADP	_	_	27	case	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	mismo	mismo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	25	det	_	_
+27	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+28	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	historia	historia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	protagonismo	protagonismo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+8	con	con	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	pero	pero	CCONJ	_	_	14	cc	_	_
+12	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+13	hemano	hemano	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+14	muere	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	carros	carro	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
+20	pero	pero	CCONJ	_	_	25	cc	_	_
+21	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	22	det	_	_
+22	dias	dia	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	protagonismo	protagonismo	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	_
+25	ver	ver	VERB	_	VerbForm=Inf	7	conj	_	_
+26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	fantasma	fantasma	NOUN	_	Number=Sing	25	nsubj	_	_
+28	de	de	ADP	_	_	30	case	_	_
+29	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
+30	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	_
+31	y	y	CCONJ	_	_	36	cc	_	_
+32	entonces	entonces	ADV	_	_	36	advmod	_	_
+33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	36	nsubj	_	_
+35	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	obl	_	_
+36	amó	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+37	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
+38	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	36	obj	_	_
+39	pero	pero	CCONJ	_	_	42	cc	_	_
+40	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
+41	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	42	nsubj	_	_
+42	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	conj	_	_
+43	a	a	ADP	_	_	45	case	_	_
+44	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
+45	mar	mar	NOUN	_	Number=Sing	42	obl	_	_
+46	y	y	CCONJ	_	_	49	cc	_	_
+47	no	no	ADV	_	Polarity=Neg	49	advmod	_	_
+48	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	aux	_	_
+49	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	_
+50	a	a	ADP	_	_	52	case	_	_
+51	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	52	det	_	_
+52	casa	casa	NOUN	_	Gender=Fem|Number=Sing	49	obl	_	_
+53	después	después	ADV	_	_	49	advmod	_	_
+54	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Y	y	CCONJ	_	_	4	cc	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	xcomp	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	encontrar	encontrar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	9	advmod	_	_
+2	para	para	ADP	_	_	3	mark	_	_
+3	encontrar	encontrar	VERB	_	VerbForm=Inf	9	advcl	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	y	y	CCONJ	_	_	16	cc	_	_
+13	entonces	entonces	ADV	_	_	16	advmod	_	_
+14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	ver	ver	VERB	_	VerbForm=Inf	9	conj	_	_
+17	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
+18	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
+21	vez	vez	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+22	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	pero	pero	CCONJ	_	_	10	cc	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	fantasma	fantasma	NOUN	_	Number=Sing	10	nsubj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	ayuda	ayudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	encontrar	encontrar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	muy	mucho	ADV	_	_	4	advmod	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	triste	triste	ADJ	_	Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	historias	historia	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+4	bonitas	bonito	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
+5	muchas	mucho	PRON	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	appos	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

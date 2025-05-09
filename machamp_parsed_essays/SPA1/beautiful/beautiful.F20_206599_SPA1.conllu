@@ -1,0 +1,104 @@
+# Unnamed: 0 = 105
+# id = 206599
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 3
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Primero fue un niño, luego vino su hermana. los dos eran mejores amigos, hacían todo juntos. comieron, tocaron música, vieron []{la}<ab:det:art:def> televisión. junto con su madre, los tres eran una familia feliz. en verano iban a la playa, en invierno jugaban en la nieve. se divirtieron mucho juntos. Su familia te amo muchos, []{una}<ab:det:art:indef> [muy bonita familia]{familia muy bonita}<col:adj>!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Primero fue un niño, luego vino su hermana. los dos eran mejores amigos, hacían todo juntos. [comieron]{comían}<fs:st:t>, [tocaron]{tocaban}<fs:st:t> música, [vieron]{veían}<fs:st:t> []{la}<ab:det:art:def> televisión. junto con su madre, los tres eran una familia feliz. en verano iban a la playa, en invierno jugaban en la nieve. se divirtieron mucho juntos. Su familia te [amo]{ama}<fs:st:pn> [muchos]{mucho}<in:adv>, muy bonita familia!
+# verbs annotation ann2 = nan
+# corrected1 = Primero fue un niño, luego vino su hermana. Los dos eran mejores amigos, hacían todo juntos. Comían, tocaban música, veían la televisión. Junto a su madre, los tres eran una familia feliz. En verano iban a la playa, en invierno jugaban en la nieve. Se divertían mucho juntos. ¡Su familia le amaba mucho, era una familia muy bonita!
+# corrected2 = nan
+# text = Primero fue un niño, luego vino su hermana. los dos eran mejores amigos, hacían todo juntos. comieron, tocaron música, vieron televisión. junto con su madre, los tres eran una familia feliz. en verano iban a la playa, en invierno jugaban en la nieve. se divirtieron mucho juntos. Su familia te amo muchos, muy bonita familia!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Primero	primero	ADV	_	_	4	advmod	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	niño	niño	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	luego	luego	ADV	_	_	7	advmod	_	_
+7	vino	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	nsubj	_	_
+3	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	5	amod	_	_
+5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	hacían	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+8	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	7	obj	_	_
+9	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	comieron	comer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	tocaron	tocar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+4	música	música	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	vieron	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
+7	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	junto	junto	ADJ	_	_	4	case	_	_
+2	con	con	ADP	_	_	1	fixed	_	_
+3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	madre	madre	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nsubj	_	_
+8	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+11	feliz	feliz	ADJ	_	Number=Sing	10	amod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	en	en	ADP	_	_	2	case	_	_
+2	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+3	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	playa	playa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+10	jugaban	jugar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	divirtieron	divirtir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	4	advmod	_	_
+4	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	obj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	bonita	bonito	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	appos	_	_
+10	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	4	punct	_	_
+

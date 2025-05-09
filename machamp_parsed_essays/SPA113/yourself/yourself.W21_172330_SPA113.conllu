@@ -1,0 +1,338 @@
+# Unnamed: 0 = 20
+# id = 172330
+# prompt = yourself
+# quarter = W21
+# course = SPA 113
+# age = 21
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Neither comfortable nor uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy una estudiante en la Universidad de *UNIVERSITY* en *UNIVERSITY*. Soy de *CITY*, *STATE* y soy una *PLACE* y *PLACE*. Mi papá es de *PLACE* *PLACE* y mi mamá es de las *PLACE*. Hablo en Ingles casi todo el tiempo pero quiero aprender Español más y hablar con fluidez. Tengo pelo marrón y ojos avellanos. Llevo gafas porque no tengo buena vista. Soy en my final trimestre en la universidad. Tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. En el futuro, quiero viajar a tantos países como pueda. Me encanta viajar, especialmente en países adonde la gente hablan en español. En el verano de 2019, fui a Corea del sur para una programa de estudia en el extranjero. Me gusta Corea del sur por su comida, música, y novellas. También me gusta maquillarse y tomar fotos por mi cuenta de instagram de fotografía. A veces cuando tengo tiempo libre, yo hago aretes de pom pom. Me gusta escuchar música como kpop, reggaeton, el rap, edm, pop, y muchas más. Ahora, me encanta el artista de reggaeton Bad Bunny, o el Conejo Malo. Me gusta el Conejo Malo porque él es de *PLACE* *PLACE* como mi familia y canta de temas que son relacionables para mi. Quiero ver el Conejo Malo en concierto cuando este pandemia termina. Mis colores favoritos son rojo, rosa, verde, azul, y negro. Ahora tengo dos trabajos que me entantan muchísimas. Necesito que aplicar a trabajos para cuando me licenciar de la universidad.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Universidad	Universidad	PROPN	_	_	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*UNIVERSITY*	*university*	PUNCT	_	_	7	punct	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	*UNIVERSITY*	*university*	PUNCT	_	_	7	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*CITY*	*city*	PUNCT	_	_	0	flat	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	*STATE*	*state*	PUNCT	_	_	3	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	1	det	_	_
+9	*PLACE*	*place*	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	*PLACE*	*place*	PUNCT	_	_	8	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	papá	papá	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*PLACE*	*place*	SYM	_	_	0	flat	_	_
+6	*PLACE*	*place*	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	13	cc	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+13	*PLACE*	*place*	PUNCT	_	_	12	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Hablo	hablar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	Ingles	Ingles	PROPN	_	_	1	obl	_	_
+4	casi	casi	ADV	_	_	7	advmod	_	_
+5	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	6	det	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	aprender	aprender	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	Español	Español	PROPN	_	_	10	obj	_	_
+12	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	hablar	hablar	VERB	_	VerbForm=Inf	10	conj	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	fluidez	fluidez	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	marrón	marrón	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+6	avellanos	avellano	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Llevo	llevar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	gafas	gafa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	buena	buen	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+7	vista	vista	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	my	my	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	final	final	ADJ	_	Number=Sing	5	amod	_	_
+5	trimestre	trimestre	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	*AGE*	*age*	SYM	_	_	3	punct	_	_
+3	años	año	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	y	y	CCONJ	_	_	1	cc	_	_
+5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	cumpleaños	cumpleaños	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+9	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	*BIRTH_DATE*	*birth_date*	PUNCT	_	_	1	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	futuro	futuro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	viajar	viajar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	tantos	tanto	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Dem	9	det	_	_
+9	países	país	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	como	como	SCONJ	_	_	11	mark	_	_
+11	pueda	poder	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	viajar	viajar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	especialmente	especialmente	ADV	_	_	2	advmod	_	_
+6	en	en	ADP	_	_	5	case	_	_
+7	países	país	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+8	adonde	adonde	PRON	_	PronType=Ind	11	obl	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gente	gente	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	español	español	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	2019	2019	NOUN	_	AdvType=Tim	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	Corea	Corea	PROPN	_	_	7	obl	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	sur	sur	PROPN	_	_	9	flat	_	_
+12	para	para	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	programa	programa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	estudia	estudia	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	extranjero	extranjero	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Corea	Corea	PROPN	_	_	2	nsubj	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	sur	sur	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	comida	comida	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	música	música	NOUN	_	Gender=Fem|Number=Sing	8	appos	_	_
+11	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	novellas	novella	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	maquillarse	maquillar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tomar	tomar	VERB	_	VerbForm=Inf	4	conj	_	_
+7	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	instagram	instagram	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	fotografía	fotografía	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	A	a	ADP	_	_	9	advmod	_	_
+2	veces	veces	NOUN	_	_	1	fixed	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	libre	libre	ADJ	_	Number=Sing	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	hago	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	aretes	arete	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	pom	pom	NOUN	_	_	10	nmod	_	_
+13	pom	pom	NOUN	_	_	11	fixed	_	_
+14	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escuchar	escuchar	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	música	música	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	como	como	SCONJ	_	_	6	mark	_	_
+6	kpop	kpop	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	reggaeton	reggaeton	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	rap	rap	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	edm	edm	NOUN	_	Gender=Masc	6	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	pop	pop	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+16	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	muchas	mucho	PRON	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	6	conj	_	_
+19	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl	_	_
+4	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	artista	artista	NOUN	_	Number=Sing	4	nsubj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	reggaeton	reggaeton	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	Bad	Bad	PROPN	_	_	6	appos	_	_
+10	Bunny	Bunny	PROPN	_	_	9	flat	_	_
+11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+12	o	o	CCONJ	_	_	14	cc	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Conejo	Conejo	PROPN	_	_	6	conj	_	_
+15	Malo	Malo	PROPN	_	_	14	flat	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Conejo	Conejo	PROPN	_	_	2	nsubj	_	_
+5	Malo	Malo	PROPN	_	_	4	flat	_	_
+6	porque	porque	SCONJ	_	_	10	mark	_	_
+7	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	*PLACE*	*PLACE*	PROPN	_	_	4	flat	_	_
+11	*PLACE*	*place*	PUNCT	_	_	10	punct	_	_
+12	como	como	SCONJ	_	_	14	mark	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	familia	familia	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+15	y	y	CCONJ	_	_	16	cc	_	_
+16	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	temas	tema	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	_
+19	que	que	PRON	_	PronType=Rel	21	nsubj	_	_
+20	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	relacionables	relacionable	ADJ	_	Number=Plur	18	acl	_	_
+22	para	para	ADP	_	_	23	case	_	_
+23	mi	mi	PRON	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	nmod	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ver	ver	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Conejo	Conejo	PROPN	_	_	2	obj	_	_
+5	Malo	Malo	PROPN	_	_	4	flat	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	concierto	concierto	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	cuando	cuando	SCONJ	_	_	11	mark	_	_
+9	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	pandemia	pandemia	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+11	termina	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	colores	color	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	rojo	rojo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	rosa	rosa	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	verde	verde	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	azul	azul	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	negro	negro	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	2	advmod	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	trabajos	trabajo	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	entantan	entantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+8	muchísimas	muchísimo	ADJ	_	Degree=Abs|Gender=Fem|Number=Plur	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Necesito	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	aplicar	aplicar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	trabajos	trabajo	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	para	para	ADP	_	_	9	mark	_	_
+7	cuando	cuando	SCONJ	_	_	9	mark	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	licenciar	licenciar	VERB	_	VerbForm=Inf	3	advcl	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

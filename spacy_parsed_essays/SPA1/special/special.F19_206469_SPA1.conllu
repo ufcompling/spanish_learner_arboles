@@ -1,0 +1,240 @@
+# Unnamed: 0 = 220
+# id = 206469
+# prompt = special
+# quarter = F19
+# course = SPA 1
+# age = Nineteen
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, I do not.
+# language(s) studied = I studied French for two years in high school, 2014-2016. 
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Una persona especiale en mi vida es mi hermana, *FIRST_NAME*. Ella es inteligente y [cómico]{cómica}<ga:adj>, y siempre sabe cuando escuchar.  Le cuento todo.  *FIRST_NAME* es de *CITY*, *STATE*. [Ella]{}<pr:su:pron> tiene *AGE* años. Su cumpleaños es []{el}<ab:det:art> tres de Junio, y mi cumpleaños [son]{fs:st:pn}<> veinte días despues.  *FIRST_NAME* [tienen]{tiene}<fs:st:pn> ojos [cafés]{café}<na:adj>, pelo marrón liso, y es pequeña. Ella no gusta siendo más bajo que yo.  La especialización de *FIRST_NAME* [estaba]{era}<conf:v:seta> biología. [Ella]{}<pr:su:pron> [atendida]{atiende}<fs:st:t> la universidad de *UNIVERSITY*. Quiere ir a escuela medicina, o escuela de posgrado por química.  *FIRST_NAME* habla inglés, un poco francés y ruso, y un poquito español. [Ella]{}<pr:su:pron> quiere aprender mas francés, ruso, y español, y algo de chino. Ella encantan las idomas (¡Como mi mamá!).  Ella encantan los videojuegos, los libros, correr, y []{el}<ab:det:art> tiro con arco. Ella videojuego favorito es Neverwinter Nights 2. Ella gusta los novelas de romance, misterio, y fantasía.  ¡Mi hermana es mi persona favorita en todo el mundo!
+# updated annotation ann2 = Una persona especiale en mi vida es mi hermana, *FIRST_NAME*. Ella es inteligente y [cómico]{cómica}<ga:adj>, y siempre sabe cuando escuchar.  Le cuento todo.  *FIRST_NAME* es de *CITY*, *STATE*. [Ella]{}<pr:su:pron> tiene *AGE* años. Su cumpleaños es []{el}<ab:det:art:def> tres de Junio, y mi cumpleaños [son]{es}<fs:st:pn> veinte días despues.  *FIRST_NAME* [tienen]{tiene}<fs:st:pn> ojos [cafés]{café}<na:noun>, []{el}<ab:det:art:def> pelo marrón liso, y es pequeña. [Ella]{}<pr:su:pron> no gusta siendo más [bajo]{baja}<ga:adj> que yo.  La especialización de *FIRST_NAME* [estaba]{era}<conf:v:seta> biología. [Ella]{}<pr:su:pron> atendida la universidad de *UNIVERSITY*. Quiere ir a []{la}<ab:det:art:def> escuela medicina, o []{la}<ab:det:art:def> escuela de posgrado [por]{para}<conf:prep:popa> química.  *FIRST_NAME* habla inglés, un poco francés y ruso, y un poquito español. []{la}<ab:det:art:def> quiere aprender mas francés, ruso, y español, y algo de chino. []{la}<ab:det:art:def> encantan [las]{los}<gat:det> [idomas]{idiomas}<gat:noun> (¡Como mi mamá!).  []{la}<ab:det:art:def> encantan los videojuegos, los libros, correr, y []{el}<ab:det:art:def> tiro con arco. Ella videojuego favorito es Neverwinter Nights 2. Ella [gusta]{gustan}<fs:st:pn> [los]{las}<ga:det> novelas de romance, misterio, y fantasía.  ¡Mi hermana es mi persona favorita en todo el mundo!
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial en mi vida es mi hermana, *FIRST_NAME*. Ella es inteligente y cómica, y siempre sabe cuándo escuchar. Le cuento todo.  *FIRST_NAME* es de *CITY*, *STATE*. Tiene *AGE* años. Su cumpleaños es el  tres de junio, y mi cumpleaños es veinte días después.  *FIRST_NAME* tienen ojos café, el pelo marrón liso, y es pequeña. No le gusta ser más baja que yo.  La especialización de *FIRST_NAME* era biología. Fue a la universidad de *UNIVERSITY*. Quiere ir a la escuela de Medicina, o a la escuela de posgrado para estudiar química.  *FIRST_NAME* habla inglés, un poco de francés y ruso, y un poquito de español. Quiere aprender más francés, ruso y español, y algo de chino. Le encantan los idiomas (¡Como mi mamá!).  Le encantan los videojuegos, los libros, correr, y el tiro con arco. Su videojuego favorito es Neverwinter Nights 2. Le gustan las novelas de romance, misterio y fantasía.  ¡Mi hermana es mi persona favorita en todo el mundo!
+# corrected2 = nan
+# text = Una persona especiale en mi vida es mi hermana, *FIRST_NAME*. Ella es inteligente y cómico, y siempre sabe cuando escuchar. Le cuento todo. *FIRST_NAME* es de *CITY*, *STATE*. Ella tiene *AGE* años. Su cumpleaños es tres de Junio, y mi cumpleaños son veinte días despues. *FIRST_NAME* tienen ojos cafés, pelo marrón liso, y es pequeña. Ella no gusta siendo más bajo que yo. La especialización de *FIRST_NAME* estaba biología. Ella atendida la universidad de *UNIVERSITY*. Quiere ir a escuela medicina, o escuela de posgrado por química. *FIRST_NAME* habla inglés, un poco francés y ruso, y un poquito español. Ella quiere aprender mas francés, ruso, y español, y algo de chino. Ella encantan las idomas (¡Como mi mamá!). Ella encantan los videojuegos, los libros, correr, y tiro con arco. Ella videojuego favorito es Neverwinter Nights 2. Ella gusta los novelas de romance, misterio, y fantasía. ¡Mi hermana es mi persona favorita en todo el mundo!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	3	nsubj	_	_
+3	especiale	especialir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	3	obl	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	hermana	hermana	NOUN	_	_	3	advcl	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	appos	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cómico	cómico	ADJ	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	siempre	siempre	ADV	_	_	9	advmod	_	_
+9	sabe	saber	VERB	_	_	3	conj	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	escuchar	escuchar	VERB	_	_	9	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	0	ROOT	_	_
+2	cuento	contar	VERB	_	_	1	compound	_	_
+3	todo	todo	PRON	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	tres	tres	NUM	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Junio	junio	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	y	y	CCONJ	_	_	13	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	cumpleaños	cumpleaños	NOUN	_	_	13	nsubj	_	_
+11	son	ser	AUX	_	_	13	cop	_	_
+12	veinte	veinte	NUM	_	_	13	nummod	_	_
+13	días	día	NOUN	_	_	4	conj	_	_
+14	despues	despu	NOUN	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	2	advmod	_	_
+2	tienen	tener	VERB	_	_	0	ROOT	_	_
+3	ojos	ojo	NOUN	_	_	2	obj	_	_
+4	cafés	café	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	pelo	pelo	NOUN	_	_	3	conj	_	_
+7	marrón	marrón	ADJ	_	_	6	amod	_	_
+8	liso	liso	PROPN	_	_	2	obj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	es	ser	AUX	_	_	12	cop	_	_
+12	pequeña	pequeño	ADJ	_	_	2	conj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	siendo	ser	AUX	_	_	6	cop	_	_
+5	más	más	ADV	_	_	6	advmod	_	_
+6	bajo	bajo	ADJ	_	_	3	xcomp	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	yo	yo	PRON	_	_	6	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	especialización	especialización	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nmod	_	_
+5	estaba	estar	AUX	_	_	6	cop	_	_
+6	biología	biología	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	atendida	atender	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	universidad	universidad	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Quiere	querer	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	escuela	escuela	NOUN	_	_	2	obl	_	_
+5	medicina	medicín	ADJ	_	_	4	amod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	escuela	escuela	NOUN	_	_	4	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	posgrado	posgrado	NOUN	_	_	8	nmod	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	química	química	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	habla	hablar	VERB	_	_	0	ROOT	_	_
+3	inglés	inglés	NOUN	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	un	uno	DET	_	_	7	advmod	_	_
+6	poco	poco	ADV	_	_	5	fixed	_	_
+7	francés	francés	ADJ	_	_	2	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	ruso	ruso	ADJ	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	y	y	CCONJ	_	_	14	cc	_	_
+12	un	uno	DET	_	_	14	det	_	_
+13	poquito	poquito	ADJ	_	_	14	amod	_	_
+14	español	español	NOUN	_	_	7	conj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	quiere	querer	VERB	_	_	0	ROOT	_	_
+3	aprender	aprender	VERB	_	_	2	xcomp	_	_
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	francés	francés	ADJ	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ruso	ruso	ADJ	_	_	5	amod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	español	español	ADJ	_	_	5	conj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	algo	algo	PRON	_	_	2	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	chino	chino	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	encantan	encantar	VERB	_	_	0	ROOT	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	idomas	idoma	NOUN	_	_	2	obj	_	_
+5	(	(	PUNCT	_	_	9	punct	_	_
+6	¡	¡	PUNCT	_	_	9	punct	_	_
+7	Como	Como	SCONJ	_	_	9	mark	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	mamá	mamá	NOUN	_	_	2	obl	_	_
+10	!	!	PUNCT	_	_	9	punct	_	_
+11	)	)	PUNCT	_	_	9	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	encantan	encantar	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	videojuegos	videojuego	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	los	el	DET	_	_	7	det	_	_
+7	libros	libro	NOUN	_	_	4	appos	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	correr	correr	VERB	_	_	2	advcl	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	tiro	tiro	NOUN	_	_	9	conj	_	_
+13	con	con	ADP	_	_	14	case	_	_
+14	arco	arco	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	videojuego	videojueguir	VERB	_	_	0	ROOT	_	_
+3	favorito	favorito	ADJ	_	_	2	obj	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	Neverwinter	Neverwinter	PROPN	_	_	2	obl	_	_
+6	Nights	Nights	PROPN	_	_	5	flat	_	_
+7	2	2	NUM	_	_	5	nummod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	novelas	novela	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	romance	romance	PROPN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	misterio	misterio	ADJ	_	_	4	amod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	fantasía	fantasía	NOUN	_	_	4	conj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	¡	¡	PUNCT	_	_	6	punct	_	_
+2	Mi	mi	DET	_	_	3	det	_	_
+3	hermana	hermana	NOUN	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	persona	persona	NOUN	_	_	0	ROOT	_	_
+7	favorita	favoritar	VERB	_	_	6	amod	_	_
+8	en	en	ADP	_	_	11	case	_	_
+9	todo	todo	DET	_	_	10	det	_	_
+10	el	el	DET	_	_	11	det	_	_
+11	mundo	mundo	NOUN	_	_	7	obl	_	_
+12	!	!	PUNCT	_	_	6	punct	_	_
+

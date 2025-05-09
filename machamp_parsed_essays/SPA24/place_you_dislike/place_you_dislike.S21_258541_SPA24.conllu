@@ -1,0 +1,334 @@
+# Unnamed: 0 = 33
+# id = 258541
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Comfortable
+# study abroad = Yes. 3 to 6 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Estuvo pensando por 10 minutos hasta que encontré un lugar que no me gusta; es una pregunta difícil. Primero, mi abuela vive en *STATE* en un "parque" donde algunas personas vienen desde *PLACE* en el invierno y ella y sus amigas se quedan en sus casas pequeñas en el verano. Muchas veces mi familia y yo manejamos a *STATE* para visitarla en el verano porque ella se siente aislada algunas veces (mi abuelo murió en *MUMBER*). En algunas partes del camino hay CAFOs (Concentrated Animal Feeding Operations), con miles y miles de vacas. Hay algunas vacas cerca de la casa de mi abuela, y el olor es horrible, pero solo podemos olerlas cuando el viento sopla de la dirección correcta. Las dos veces anteriores, no las olíamos cuando estábamos con mi abuela, pero sí las olíamos en el camino de aquí para allá. Los momentos en que el oler nos rodeaba, combinado con el calor intenso del verano en *STATE*, eran horrible. Además, no hay mucho de hacer en su pueblo pequeño durante el verano, entonces vamos de compras mucho (pues, miramos las cosas pero no compramos nada). El carro está frío, pero cuando abrimos las puertas para ir a la tienda, el calor y el olor de las vacas nos golpean cuando una pared. Me gusta mucho visitar con mi abuela, pero no me gusta que ella vive tan lejos de nosotros (estamos en *STATE*). Entiendo por qué ella y mi abuela vivían en *STATE* cuando él estaba vivo, pero ahora ella está sola en su casita.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Estuvo	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	pensando	pensar	VERB	_	VerbForm=Ger	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	10	10	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	hasta	hasta	ADP	_	_	8	mark	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	encontré	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
+12	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
+13	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl	_	_
+14	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	_
+15	;	;	PUNCT	_	PunctType=Semi	2	punct	_	_
+16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	pregunta	pregunta	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
+19	difícil	difícil	ADJ	_	Number=Sing	18	amod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Primero	primero	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*STATE*	*state*	PROPN	_	_	5	obl	_	_
+8	en	en	ADP	_	_	11	case	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	_
+11	parque	parque	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+12	"	"	PUNCT	_	PunctType=Quot	11	punct	_	_
+13	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
+14	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
+15	personas	persona	NOUN	_	Gender=Fem|Number=Plur	16	nsubj	_	_
+16	vienen	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
+17	desde	desde	ADP	_	_	18	case	_	_
+18	*PLACE*	*place*	PROPN	_	_	16	obl	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+22	y	y	CCONJ	_	_	28	cc	_	_
+23	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+24	y	y	CCONJ	_	_	26	cc	_	_
+25	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
+26	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	23	conj	_	_
+27	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl	_	_
+28	quedan	quedar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+29	en	en	ADP	_	_	31	case	_	_
+30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
+31	casas	casa	NOUN	_	Gender=Fem|Number=Plur	28	obl	_	_
+32	pequeñas	pequeño	ADJ	_	Gender=Fem|Number=Plur	31	amod	_	_
+33	en	en	ADP	_	_	35	case	_	_
+34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	verano	verano	NOUN	_	Gender=Masc|Number=Sing	28	obl	_	_
+36	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	veces	vez	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	familia	familia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	manejamos	manejar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*STATE*	*state*	PROPN	_	_	7	punct	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	visitarla	visitar	VERB	_	VerbForm=Inf	7	advcl	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	verano	verano	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+15	porque	porque	SCONJ	_	_	18	mark	_	_
+16	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+17	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl	_	_
+18	siente	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+19	aislada	aislado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	18	obj	_	_
+20	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	21	det	_	_
+21	veces	vez	NOUN	_	Gender=Fem|Number=Plur	18	obl	_	_
+22	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	25	punct	_	_
+23	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	det	_	_
+24	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	25	nsubj	_	_
+25	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	parataxis	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	MUMBER	MUMBER	PROPN	_	_	25	obl	_	_
+28	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	25	punct	_	_
+29	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	partes	parte	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
+4	del	de	ADP	_	_	5	case	_	_
+5	camino	camino	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	CAFOs	CAFOS	PROPN	_	_	6	obj	_	_
+8	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	9	punct	_	_
+9	Concentrated	Concentrated	PROPN	_	_	7	flat	_	_
+10	Animal	Animal	PROPN	_	_	9	flat	_	_
+11	Feeding	Feeding	PROPN	_	_	9	flat	_	_
+12	Operations	Operations	PROPN	_	_	9	flat	_	_
+13	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	9	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	miles	mil	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
+17	y	y	CCONJ	_	_	18	cc	_	_
+18	miles	mil	NUM	_	Number=Plur|NumForm=Word|NumType=Card	16	conj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	vacas	vaca	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	vacas	vaca	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	cerca	cerca	ADV	_	_	1	advmod	_	_
+5	de	de	ADP	_	_	4	fixed	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+12	y	y	CCONJ	_	_	16	cc	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	olor	olor	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	horrible	horrible	ADJ	_	Number=Sing	1	conj	_	_
+17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+18	pero	pero	CCONJ	_	_	21	cc	_	_
+19	solo	solo	ADV	_	_	21	advmod	_	_
+20	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	aux	_	_
+21	olerlas	oler	VERB	_	VerbForm=Inf	16	conj	_	_
+22	cuando	cuando	SCONJ	_	_	25	mark	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	viento	viento	NOUN	_	Gender=Masc|Number=Sing	25	nsubj	_	_
+25	sopla	soplar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	dirección	dirección	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
+29	correcta	correcto	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	_
+30	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	1	nummod	_	_
+3	veces	vez	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+4	anteriores	anterior	ADJ	_	Number=Plur	3	amod	_	_
+5	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	olíamos	oar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	cuando	cuando	SCONJ	_	_	10	mark	_	_
+10	estábamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+15	pero	pero	CCONJ	_	_	18	cc	_	_
+16	sí	sí	INTJ	_	_	18	advcl	_	_
+17	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	olíamos	oar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	8	conj	_	_
+19	en	en	ADP	_	_	21	case	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	camino	camino	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	aquí	aquí	ADV	_	_	21	advmod	_	_
+24	para	para	ADP	_	_	25	case	_	_
+25	allá	allá	ADV	_	_	21	advmod	_	_
+26	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	21	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	que	que	PRON	_	PronType=Rel	8	obl	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	oler	oler	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
+8	rodeaba	rodear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	combinado	combinado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+11	con	con	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	calor	calor	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	intenso	intenso	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+15	del	de	ADP	_	_	16	case	_	_
+16	verano	verano	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	*STATE*	*state*	PROPN	_	_	13	nmod	_	_
+19	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+20	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
+21	horrible	horrible	ADJ	_	Number=Sing	0	root	_	_
+22	.	.	PUNCT	_	PunctType=Peri	21	punct	_	_
+
+1	Además	además	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+4	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mucho	mucho	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	4	obj	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	hacer	hacer	VERB	_	VerbForm=Inf	5	acl	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+11	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	durante	durante	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	verano	verano	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+16	entonces	entonces	ADV	_	_	17	advmod	_	_
+17	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	compras	compra	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	_
+20	mucho	mucho	ADV	_	_	17	advmod	_	_
+21	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	24	punct	_	_
+22	pues	pues	SCONJ	_	_	24	mark	_	_
+23	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+24	miramos	mirar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+26	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	24	obj	_	_
+27	pero	pero	CCONJ	_	_	29	cc	_	_
+28	no	no	ADV	_	Polarity=Neg	29	advmod	_	_
+29	compramos	comprar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	24	conj	_	_
+30	nada	nada	PRON	_	Number=Sing|PronType=Neg	29	obj	_	_
+31	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	24	punct	_	_
+32	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	carro	carro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	frío	frío	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
+6	pero	pero	CCONJ	_	_	26	cc	_	_
+7	cuando	cuando	SCONJ	_	_	8	mark	_	_
+8	abrimos	abrar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	26	advcl	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	puertas	puerta	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	para	para	ADP	_	_	12	mark	_	_
+12	ir	ir	VERB	_	VerbForm=Inf	8	advcl	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	calor	calor	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	olor	olor	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	vacas	vaca	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	_
+25	nos	yo	PRON	_	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	26	obj	_	_
+26	golpean	golpear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+27	cuando	cuando	SCONJ	_	_	29	mark	_	_
+28	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	pared	pared	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	_
+30	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	visitar	visitar	VERB	_	VerbForm=Inf	2	csubj	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	csubj	_	_
+16	tan	tanto	ADV	_	_	17	advmod	_	_
+17	lejos	lejos	ADV	_	_	15	advmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	17	obl	_	_
+20	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	21	punct	_	_
+21	estamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+22	en	en	ADP	_	_	19	case	_	_
+23	*STATE*	*state*	PUNCT	_	_	21	obl	_	_
+24	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	21	punct	_	_
+25	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Entiendo	entender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	por	por	ADP	_	_	3	case	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	8	obl	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	abuela	abuela	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+8	vivían	vivir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*STATE*	*State*	PROPN	_	_	8	advmod	_	_
+11	cuando	cuando	SCONJ	_	_	14	mark	_	_
+12	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+14	vivo	vivo	ADJ	_	Gender=Masc|Number=Sing	8	advcl	_	_
+15	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+16	pero	pero	CCONJ	_	_	20	cc	_	_
+17	ahora	ahora	ADV	_	_	20	advmod	_	_
+18	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	sola	solo	ADJ	_	Gender=Fem|Number=Sing	1	conj	_	_
+21	en	en	ADP	_	_	23	case	_	_
+22	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
+23	casita	casita	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+

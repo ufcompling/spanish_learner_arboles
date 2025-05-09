@@ -1,0 +1,337 @@
+# Unnamed: 0 = 143
+# id = 150031
+# prompt = vacation
+# quarter = W18
+# course = SPA 23
+# age = Female
+# gender = 19
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Estoy del sureste de California y me encanta el sol y mar. Aunque me gustan las montañas y nieve, mi vacacione ideal está en una playa durante el verano. Antes del vacacione iría de compras y  compraría un bañador nuevo y otra ropa elegante para el viaje. Quizás viaja a una isla privada. Quiero ir a una playa en Beliz donde tiene los monos y otras animalias. Me encanta la playa y quiero ver todas las playas en el mundo. Para llegar, tomaré un avión privado con asientos reclinables y aperitivos. Durante el vacacione el tiempo hace sol y puedo dormir en la arena.  Pasaría muchas horas tomar el sol y beber refrescos. Leía un bueno libro y relaja. También quiero nadar en el mar y ver delfines, pescados, y estrellas de mar. Montaría caballos e iría a un picnic. Tenía comidas ricas como helado chocolate, sandias, pizza y pollo frita. Estaría con mi familia y nosotros jugamos bádminton. Quiero hacer senderismo en la selva o tomar un taxi e ir a la ciudad para ver las tiendas y restaurantes. Me gustaría hacer buceo o surf y construir una castilla de arena. Me gustan deportes de agua. Quiero tomar una bota y pasar tiempo en el agua. Después de la playa, iría a un hotel con camas grandes y una piscina maravillosa. Comía una cena de mis comidas favoritas: bistec, langosta, pasta, y muchos postres. Para el noche, quiero ver la puesta del sol y podemos construir un  fuego, cantar canciones y hacer s’mores.
+# a personal annotator2 = nan
+# gender-number annotator1 = Estoy del sureste de California y me encanta el sol y mar. Aunque me gustan las montañas y nieve, mi vacacione ideal está en una playa durante el verano. Antes del vacacione iría de compras y compraría un bañador nuevo y otra ropa elegante para el viaje. Quizás viaja a una isla privada. Quiero ir a una playa en Beliz donde tiene los monos y otras animalias. Me encanta la playa y quiero ver todas las playas en el mundo. Para llegar, tomaré un avión privado con asientos reclinables y aperitivos. Durante el vacacione el tiempo hace sol y puedo dormir en la arena.  Pasaría muchas horas tomar el sol y beber refrescos. Leía un bueno libro y relaja. También quiero nadar en el mar y ver delfines, pescados, y estrellas de mar. Montaría caballos e iría a un picnic. Tenía comidas ricas como helado chocolate, sandias, pizza y pollo [frita]{frito}<ga:mf:noun:inan>. Estaría con mi familia y nosotros jugamos bádminton. Quiero hacer senderismo en la selva o tomar un taxi e ir a la ciudad para ver las tiendas y restaurantes. Me gustaría hacer buceo o surf y construir una [castilla]{castillo}<ig:f:noun:inan> de arena. Me gustan deportes de agua. Quiero tomar una [bota]{bote}<ig:f:noun:inan> y pasar tiempo en el agua. Después de la playa, iría a un hotel con camas grandes y una piscina maravillosa. Comía una cena de mis comidas favoritas: bistec, langosta, pasta, y muchos postres. Para [el]{la}<ga:fm:det:inan> noche, quiero ver la puesta del sol y podemos construir un  fuego, cantar canciones y hacer s’mores.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Estoy del sureste de California y me encanta el sol y mar. Aunque me gustan las montañas y nieve, mi vacacione ideal está en una playa durante el verano. Antes del vacacione iría de compras y compraría un bañador nuevo y otra ropa elegante para el viaje. Quizás viaja a una isla privada. Quiero ir a una playa en Beliz donde tiene los monos y otras animalias. Me encanta la playa y quiero ver todas las playas en el mundo. Para llegar, tomaré un avión privado con asientos reclinables y aperitivos. Durante el vacacione el tiempo hace sol y puedo dormir en la arena. Pasaría muchas horas tomar el sol y beber refrescos. Leía un bueno libro y relaja. También quiero nadar en el mar y ver delfines, pescados, y estrellas de mar. Montaría caballos e iría a un picnic. Tenía comidas ricas como helado chocolate, sandias, pizza y pollo frita. Estaría con mi familia y nosotros jugamos bádminton. Quiero hacer senderismo en la selva o tomar un taxi e ir a la ciudad para ver las tiendas y restaurantes. Me gustaría hacer buceo o surf y construir una castilla de arena. Me gustan deportes de agua. Quiero tomar una bota y pasar tiempo en el agua. Después de la playa, iría a un hotel con camas grandes y una piscina maravillosa. Comía una cena de mis comidas favoritas: bistec, langosta, pasta, y muchos postres. Para el noche, quiero ver la puesta del sol y podemos construir un fuego, cantar canciones y hacer s’mores.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	sureste	sureste	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	California	California	PROPN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sol	sol	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	mar	mar	NOUN	_	Number=Sing	10	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	montañas	montaña	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	vacacione	vacacione	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	ideal	ideal	ADJ	_	Number=Sing	10	amod	_	_
+12	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	playa	playa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	durante	durante	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	verano	verano	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Antes	antes	ADV	_	_	4	advmod	_	_
+2	del	de	ADP	_	_	3	case	_	_
+3	vacacione	vacacione	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	iría	ir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	compras	compra	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	compraría	comprar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	bañador	bañador	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+14	ropa	ropa	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
+15	elegante	elegante	ADJ	_	Number=Sing	14	amod	_	_
+16	para	para	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Quizás	quizás	ADV	_	_	2	advmod	_	_
+2	viaja	viajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	isla	isla	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	privada	privado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ir	ir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	Beliz	Beliz	PROPN	_	_	5	nmod	_	_
+8	donde	donde	ADV	_	PronType=Rel	9	advmod	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	monos	mono	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	_
+14	animalias	animalia	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	playa	playa	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	ver	ver	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	9	det	_	_
+9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	playas	playa	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Para	para	ADP	_	_	2	mark	_	_
+2	llegar	llegar	VERB	_	VerbForm=Inf	4	advcl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	tomaré	tomar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	avión	avión	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	privado	privado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	amod	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	asientos	asiento	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+10	reclinables	reclinable	ADJ	_	Number=Plur	9	amod	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	aperitivos	aperitivo	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	vacacione	vacacione	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sol	sol	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dormir	dormir	VERB	_	VerbForm=Inf	6	conj	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	arena	arena	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Pasaría	pasar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det	_	_
+3	horas	hora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+4	tomar	tomar	VERB	_	VerbForm=Inf	1	csubj	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sol	sol	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	beber	beber	VERB	_	VerbForm=Inf	4	conj	_	_
+9	refrescos	refresco	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Leía	leer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	libro	libro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	relaja	relajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	También	también	ADV	_	_	2	advmod	_	_
+2	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nadar	nadar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	mar	mar	NOUN	_	Number=Sing	3	obl	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	ver	ver	VERB	_	VerbForm=Inf	3	conj	_	_
+9	delfines	delfón	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	pescados	pescado	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	estrellas	estrella	NOUN	_	Number=Plur	9	conj	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	mar	mar	NOUN	_	Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Montaría	montar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	caballos	caballo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	e	e	CCONJ	_	_	4	cc	_	_
+4	iría	ir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	picnic	picnic	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+3	ricas	rico	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+4	como	como	SCONJ	_	_	5	mark	_	_
+5	helado	helado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+6	chocolate	chocolate	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	sandias	sandia	NOUN	_	Gender=Fem|Number=Plur	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+10	pizza	pizza	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+13	frita	frito	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Estaría	estar	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	_	_	4	case	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	jugamos	jugar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	bádminton	bádminton	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hacer	hacer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	senderismo	senderismo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	selva	selva	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	o	o	CCONJ	_	_	8	cc	_	_
+8	tomar	tomar	VERB	_	VerbForm=Inf	2	conj	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	taxi	taxi	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	e	e	CCONJ	_	_	12	cc	_	_
+12	ir	ir	VERB	_	VerbForm=Inf	2	conj	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	para	para	ADP	_	_	17	mark	_	_
+17	ver	ver	VERB	_	VerbForm=Inf	12	advcl	_	_
+18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	tiendas	tienda	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
+20	y	y	CCONJ	_	_	21	cc	_	_
+21	restaurantes	restaurante	NOUN	_	Number=Plur	19	conj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	hacer	hacer	VERB	_	VerbForm=Inf	2	csubj	_	_
+4	buceo	buceo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	o	o	CCONJ	_	_	6	cc	_	_
+6	surf	surf	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	construir	construir	VERB	_	VerbForm=Inf	3	conj	_	_
+9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	castilla	castilla	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	arena	arena	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	agua	agua	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tomar	tomar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bota	bota	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	pasar	pasar	VERB	_	VerbForm=Inf	2	conj	_	_
+7	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	agua	agua	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	playa	playa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	iría	ir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	con	con	ADP	_	_	11	case	_	_
+11	camas	cama	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+12	grandes	grande	ADJ	_	Number=Plur	11	amod	_	_
+13	y	y	CCONJ	_	_	15	cc	_	_
+14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	piscina	piscina	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
+16	maravillosa	maravilloso	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Comía	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cena	cena	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	comidas	comida	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+7	favoritas	favorito	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+8	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
+9	bistec	bistec	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	langosta	langosta	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
+14	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	17	det	_	_
+17	postres	postr	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Para	para	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ver	ver	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	puesta	puesta	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	del	de	ADP	_	_	10	case	_	_
+10	sol	sol	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	construir	construir	VERB	_	VerbForm=Inf	5	conj	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	fuego	fuego	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
+17	cantar	cantar	VERB	_	VerbForm=Inf	13	advcl	_	_
+18	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
+19	y	y	CCONJ	_	_	20	cc	_	_
+20	hacer	hacer	VERB	_	VerbForm=Inf	13	conj	_	_
+21	s’mores	s’mores	NOUN	_	_	20	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+

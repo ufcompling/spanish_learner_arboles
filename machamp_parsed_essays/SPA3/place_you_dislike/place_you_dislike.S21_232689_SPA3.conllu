@@ -1,0 +1,354 @@
+# Unnamed: 0 = 41
+# id = 232689
+# prompt = place_you_dislike
+# quarter = S21
+# course = SPA 3
+# age = 20
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Comfortable
+# reading comprehension = Comfortable
+# speaking ability = Neither comfortable nor uncomfortable
+# writing ability = Comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = No me gusta el sótano de *PLACE*. Es oscuro y estrecho, y me siento que voy a estar allí cuando el mundo termina. Se parece a un búnker. Tengo miedo que me voy al sótano, y cuando salgo, va a ser el apocalipsis. No voy a saber hasta que salgo y miro los extraterrestre! Entonces, el sótano puede ser un buen lugar para esconderme. Antes de COVID, tenía un clase en el sótano de *PLACE*. Iba en el otoño, y frequentemente, estaba la noche cuando la clase terminó. Fue muy desconcertante! También, las llueves comenzaban al fin de semestre. Necesitaba sentirme en el sótano para una hora y media con pantalones mojados. Afortunadamente, vivía en campus, y podía cambiar el sótano más o menos fácil. Después de COVID, es posible que voy a tener clases en el sótano de nuevo. Muchas clases de mi especilazación están allí. Mi primero quarter de universidad, tenía tres clases en esto edificio. Fue bueno que no necesitaba ir lejos, pero iba a ir legos con mucho gusto si podía evitar el sótano. Tiene una onda muy extraña. Me siento que es encantado. Debo contar cuentos de fantasmas allí en la noche, si está abierto. Mis compañeros jugaban *NAME* allí antes de COVID. Fue divertido, pero los juegos que daban miedo. El marco fue la causa del miedo! Los monstruos se parecían a cambiar los pasillos, y toda vía nos salíamos juntos. Fue más fácil a reservar que otros lugares, pero el más sospechoso! En el verano, quizás vamos a jugar en el parque.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl	_	_
+3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*PLACE*	*place*	PUNCT	_	_	3	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	estrecho	estrecho	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl	_	_
+8	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	que	que	SCONJ	_	_	10	mark	_	_
+10	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	xcomp	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	estar	estar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	allí	allí	ADV	_	_	10	advmod	_	_
+14	cuando	cuando	SCONJ	_	_	17	mark	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+17	termina	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+18	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	búnker	búnker	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	al	a	ADP	_	_	7	case	_	_
+7	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	cuando	cuando	SCONJ	_	_	11	mark	_	_
+11	salgo	salgr	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+13	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+14	a	a	ADP	_	_	17	case	_	_
+15	ser	ser	AUX	_	VerbForm=Inf	13	cop	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+17	apocalipsis	apocalipsis	NOUN	_	Gender=Masc	13	xcomp	_	_
+18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	saber	saber	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	hasta	hasta	ADP	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	salgo	saler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	miro	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	extraterrestre	extraterrestre	NOUN	_	Number=Sing	7	nsubj	_	_
+12	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+6	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	buen	buen	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+9	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	para	para	ADP	_	_	11	mark	_	_
+11	esconderme	esconder	VERB	_	VerbForm=Inf	9	acl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Antes	antes	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	COVID	COVID	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	clase	clase	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*PLACE*	*place*	PUNCT	_	_	5	dep	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	otoño	otoño	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	frequentemente	frequentemente	ADV	_	_	1	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+9	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+12	cuando	cuando	ADV	_	PronType=Rel	15	advmod	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	clase	clase	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+15	terminó	terminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	desconcertante	desconcertante	ADJ	_	Number=Sing	0	root	_	_
+4	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+5	También	también	ADV	_	_	9	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	llueves	llueve	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+9	comenzaban	comenzar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	fin	fin	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	semestre	semestre	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	sentirme	sentir	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	media	medio	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	8	conj	_	_
+11	con	con	ADP	_	_	12	case	_	_
+12	pantalones	pantalón	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+13	mojados	mojado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	12	amod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Afortunadamente	afortunadamente	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	campus	campus	NOUN	_	Gender=Masc	3	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	cambiar	cambiar	VERB	_	VerbForm=Inf	3	conj	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+13	o	o	CCONJ	_	_	14	cc	_	_
+14	menos	menos	ADV	_	Degree=Cmp	12	conj	_	_
+15	fácil	fácil	ADJ	_	Number=Sing	9	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	COVID	COVID	PROPN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	posible	posible	ADJ	_	Number=Sing	0	root	_	_
+7	que	que	SCONJ	_	_	8	mark	_	_
+8	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	csubj	_	_
+9	a	a	ADP	_	_	10	mark	_	_
+10	tener	tener	VERB	_	VerbForm=Inf	8	xcomp	_	_
+11	clases	clase	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+15	de	de	ADP	_	_	8	advmod	_	_
+16	nuevo	nuevo	ADJ	_	_	15	fixed	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+2	clases	clase	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	especilazación	especilazación	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	allí	allí	ADV	_	_	6	obj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
+3	quarter	quarter	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+9	clases	clase	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	en	en	ADP	_	_	12	case	_	_
+11	esto	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	edificio	edificio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+2	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+6	ir	ir	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	lejos	lejos	ADV	_	_	6	advmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	pero	pero	CCONJ	_	_	10	cc	_	_
+10	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	ir	ir	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	legos	lego	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	16	det	_	_
+16	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+17	si	si	SCONJ	_	_	19	mark	_	_
+18	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux	_	_
+19	evitar	evitar	VERB	_	VerbForm=Inf	10	advcl	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	sótano	sótano	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	onda	onda	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	extraña	extraño	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	5	mark	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	encantado	encantado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Debo	debar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	contar	contar	VERB	_	VerbForm=Inf	0	root	_	_
+3	cuentos	cuento	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	fantasmas	fantasma	NOUN	_	Number=Plur	3	nmod	_	_
+6	allí	allí	ADV	_	_	2	advmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	noche	noche	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	si	si	SCONJ	_	_	13	mark	_	_
+12	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	jugaban	jugar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	NAME	NAME	NOUN	_	_	3	obj	_	_
+5	allí	allí	ADV	_	_	3	advmod	_	_
+6	antes	antes	ADV	_	_	3	advmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	COVID	COVID	PROPN	_	_	6	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+4	pero	pero	CCONJ	_	_	8	cc	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	juegos	juego	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+8	daban	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+9	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	marco	marco	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	causa	causa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	del	de	ADP	_	_	7	case	_	_
+7	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+
+1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	monstruos	monstruo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	parecían	parecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	cambiar	cambiar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	pasillos	pasillo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+10	y	y	CCONJ	_	_	14	cc	_	_
+11	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	12	det	_	_
+12	vía	vía	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+13	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl	_	_
+14	salíamos	saar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	4	conj	_	_
+15	juntos	junto	ADJ	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	más	más	ADV	_	Degree=Cmp	3	advmod	_	_
+3	fácil	fácil	ADJ	_	Number=Sing	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	reservar	reservar	VERB	_	VerbForm=Inf	3	acl	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	pero	pero	CCONJ	_	_	13	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
+13	sospechoso	sospechoso	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	_
+14	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	3	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	verano	verano	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	quizás	quizás	ADV	_	_	6	advmod	_	_
+6	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	a	ADP	_	_	8	mark	_	_
+8	jugar	jugar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	parque	parque	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+

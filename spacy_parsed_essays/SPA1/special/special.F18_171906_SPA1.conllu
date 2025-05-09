@@ -1,0 +1,170 @@
+# Unnamed: 0 = 25
+# id = 171906
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Hawaiian for three years
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* anos. [Ella]{}<pr:su:pron> es baja y guapa. [Ella]{}<pr:su:pron> tiene dos ninos y ustedes son [joven]{jóvenes}<na:adj>. [Ella]{}<pr:su:pron> hija tiene uno anos y hijo tiene tres anos. Nosotros somos es [estadounidense]{estadounidenses}<na:adj>. [Esta]És}<conf:v:seta> muy antipatica, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta canta musica pop y rnb. Esta cansada y [ella]{}<pr:su:pron> vive en *STATE* con [ella]{}<pr:su:pron> esposo. Ella es estudiante en *STATE* y [estudio]{estudia}<fs:st:pn> psychologia. Le gusta ver peliculas de Marvel. Muy le gusta come [la]{}<pr:det:art:def> comida [italiano]{italiana}<ga:adj>. Antes de, ella [corre]{corría}<fs:st:t> en los maratones.
+# updated annotation ann2 = ﻿La [especial persona]{persona especial}<col:adj> es mi hermana. Se llama *FIRST_NAME*. [Ella]{}<pr:su:pron> tiene *AGE* anos. [Ella]{}<pr:su:pron> es baja y guapa. [Ella]{}<pr:su:pron> tiene dos ninos y ustedes son joven. [Ella]{}<pr:su:pron> hija tiene uno anos y hijo tiene tres anos. Nosotros somos es [estadounidense]{estadounidenses}<na:adj>. [Esta]{Es}<conf:v:seta> muy antipatica, pero [ella]{}<pr:su:pron> es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta [canta]{cantar}<fs:st:pn:t:mo> musica pop y rnb. Esta cansada y [ella]{}<pr:su:pron> vive en *STATE* con [ella]{}<pr:su:pron> esposo. [Ella]{}<pr:su:pron> es estudiante en *STATE* y [estudio]{estudia}<fs:st:t> psychologia. Le gusta ver peliculas de Marvel. Muy le gusta [come]{comer}<fs:st:pn:t:mo> la comida [italiano]{italiana}<ga:adj>. Antes de, [ella]{}<pr:su:pron> corre en [los]{}<pr:det:art:def> maratones.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* años. Es baja y guapa. Tiene dos niños y son jóvenes. Su hija tiene un año y su hijo tiene tres años. Nosotros somos estadounidenses. Es muy antipática, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta a mi hermana sacar fotos. Le gusta cantar música pop y rnb. Está casada y vive en *STATE* con su esposo. Ella es estudiante en *STATE* y estudia psicología. Le gusta ver películas de Marvel. Le gusta mucho comer comida italiana. Antes, ella corría en los maratones.
+# corrected2 = nan
+# text = La especial persona es mi hermana. Se llama *FIRST_NAME*. Ella tiene *AGE* anos. Ella es baja y guapa. Ella tiene dos ninos y ustedes son joven. Ella hija tiene uno anos y hijo tiene tres anos. Nosotros somos es estadounidense. Esta muy antipatica, pero ella es divertida. Tiene los ojos marrones y el pelo negro y liso. Le gusta mi hermana saca fotos. Le gusta canta musica pop y rnb. Esta cansada y ella vive en *STATE* con ella esposo. Ella es estudiante en *STATE* y estudio psychologia. Le gusta ver peliculas de Marvel. Muy le gusta come la comida italiano. Antes de, ella corre en los maratones.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	3	det	_	_
+2	especial	especial	ADJ	_	_	3	amod	_	_
+3	persona	persona	NOUN	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	hermana	hermana	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Se	él	PRON	_	_	2	expl:pv	_	_
+2	llama	llamar	VERB	_	_	0	ROOT	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	anos	ano	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	baja	bajo	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	guapa	guapo	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	ninos	nino	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	ustedes	tú	PRON	_	_	4	conj	_	_
+7	son	ser	AUX	_	_	8	cop	_	_
+8	joven	joven	ADJ	_	_	2	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	hija	hijo	ADJ	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	uno	uno	PRON	_	_	3	obj	_	_
+5	anos	ano	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	hijo	hijo	NOUN	_	_	5	conj	_	_
+8	tiene	tener	VERB	_	_	3	advcl	_	_
+9	tres	tres	NUM	_	_	10	nummod	_	_
+10	anos	ano	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nosotros	yo	PRON	_	_	4	nsubj	_	_
+2	somos	ser	AUX	_	_	4	cop	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	estadounidense	estadounidense	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Esta	este	DET	_	_	3	det	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	antipatica	antipatico	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	ella	él	PRON	_	_	8	nsubj	_	_
+7	es	ser	AUX	_	_	8	cop	_	_
+8	divertida	divertir	VERB	_	_	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	los	el	DET	_	_	3	det	_	_
+3	ojos	ojo	NOUN	_	_	1	obj	_	_
+4	marrones	marrón	NOUN	_	_	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	pelo	pelo	NOUN	_	_	4	conj	_	_
+8	negro	negro	ADJ	_	_	7	amod	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	liso	liso	ADJ	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	hermana	hermana	NOUN	_	_	5	nsubj	_	_
+5	saca	sacar	VERB	_	_	2	advcl	_	_
+6	fotos	foto	NOUN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	canta	canta	NOUN	_	_	2	obj	_	_
+4	musica	musico	ADJ	_	_	3	amod	_	_
+5	pop	pop	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rnb	rnb	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	cansada	cansada	NOUN	_	_	5	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	ella	él	PRON	_	_	5	nsubj	_	_
+5	vive	vivir	VERB	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*STATE*	STATE	PROPN	_	_	5	obl	_	_
+8	con	con	ADP	_	_	9	case	_	_
+9	ella	él	PRON	_	_	5	obl	_	_
+10	esposo	esposo	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*STATE*	STATE	PROPN	_	_	3	nmod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	estudio	estudio	NOUN	_	_	8	nsubj	_	_
+8	psychologia	psychologiar	VERB	_	_	3	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	ver	ver	VERB	_	_	2	csubj	_	_
+4	peliculas	pelicula	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Marvel	Marvel	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Muy	mucho	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	come	comar	VERB	_	_	3	csubj	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	comida	comida	NOUN	_	_	4	obj	_	_
+7	italiano	italiano	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Antes	antes	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	ella	él	PRON	_	_	5	nsubj	_	_
+5	corre	correr	VERB	_	_	0	ROOT	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	maratones	maratón	NOUN	_	_	5	obl	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+

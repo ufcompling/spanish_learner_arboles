@@ -1,0 +1,288 @@
+# Unnamed: 0 = 99
+# id = 151392
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 22
+# gender = Female
+# l1 language = 3
+# other l1 language(s) = English
+# language(s) used at home = 1
+# language(s) studied = No
+# listening comprehension = Uncomfortable
+# reading comprehension = Uncomfortable
+# speaking ability = Uncomfortable
+# writing ability = Uncomfortable
+# study abroad = Yes. 1 to 3 months.
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = * Me llamo *FIRST_NAME* *LAST_NAME*. Tengo *AGE* anos. Tengo pelo moreno y largo. Soy alta, y estudiosa Veo televisión y hago arte. Yo era nadadora pero el ano pasado fue mi último año * Mi madre se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos. Mi madre tiene pelo moreno y Es baja y pequena. Tambien, mi madre es generosa. Ella jardines en la escuela intermedia, y enseña sobre plantas a las estudiantes * Mi padre se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos Mi padre tiene pelo rubio. Es muy alto y cómico, y él sonrie mucho. Mi padre es inteligente y trabajador. el es un doctor de *PLACE* *PLACE* * Mi hermano se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y tiene las pecas. Es alto y fuerte, y atlético. Él es una atleta, y nada para la Universidad de *UNIVERSITY*. el estudia la computación. * Mu hermano menor se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y rizado. Es alto, fuerte, y atlético. Tambien, él es una atleta, y hace natación. Él es en el ultimo ano en la escuela secundaria. Le gustan la biología y el diseño gráfico
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	*	*	NUM	_	_	3	iobj	_	_
+2	Me	yo	PRON	_	_	3	iobj	_	_
+3	llamo	llamar	VERB	_	_	0	ROOT	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+5	*LAST_NAME*	last_name	VERB	_	_	3	punct	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	pelo	pelo	NOUN	_	_	1	obj	_	_
+3	moreno	moreno	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	largo	largo	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	alta	alto	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	estudiosa	estudiós	ADJ	_	_	2	conj	_	_
+6	Veo	Veo	PROPN	_	_	5	nsubj	_	_
+7	televisión	televisión	NOUN	_	_	6	flat	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hago	hacer	VERB	_	_	2	conj	_	_
+10	arte	arte	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	era	ser	AUX	_	_	3	cop	_	_
+3	nadadora	nadadora	NOUN	_	_	0	ROOT	_	_
+4	pero	pero	CCONJ	_	_	11	cc	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	ano	ano	NOUN	_	_	11	nsubj	_	_
+7	pasado	pasado	ADJ	_	_	6	amod	_	_
+8	fue	ser	AUX	_	_	11	cop	_	_
+9	mi	mi	DET	_	_	11	det	_	_
+10	último	último	ADJ	_	_	11	amod	_	_
+11	año	año	NOUN	_	_	3	conj	_	_
+12	*	*	NUM	_	_	3	punct	_	_
+13	Mi	Mi	PROPN	_	_	16	nsubj	_	_
+14	madre	madre	NOUN	_	_	13	flat	_	_
+15	se	él	PRON	_	_	16	expl:pv	_	_
+16	llama	llamar	VERB	_	_	3	conj	_	_
+17	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	16	obj	_	_
+18	*LAST_NAME*	LAST_NAME	PROPN	_	_	16	advmod	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*AGE*	AGE	PROPN	_	_	2	conj	_	_
+5	anos	ano	ADJ	_	_	2	amod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	moreno	moreno	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	Es	ser	AUX	_	_	8	cop	_	_
+8	baja	bajo	ADJ	_	_	3	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	pequena	pequena	NOUN	_	_	8	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	mi	mi	DET	_	_	4	det	_	_
+4	madre	madre	NOUN	_	_	6	nsubj	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	generosa	generoso	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	6	nsubj	_	_
+2	jardines	jardín	NOUN	_	_	1	amod	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	escuela	escuela	NOUN	_	_	1	nmod	_	_
+6	intermedia	intermediar	VERB	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	enseña	enseño	ADJ	_	_	6	conj	_	_
+10	sobre	sobre	ADP	_	_	11	case	_	_
+11	plantas	planta	NOUN	_	_	9	nmod	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	las	el	DET	_	_	14	det	_	_
+14	estudiantes	estudiante	NOUN	_	_	11	nmod	_	_
+15	*	*	NUM	_	_	9	nmod	_	_
+16	Mi	mi	DET	_	_	17	det	_	_
+17	padre	padre	NOUN	_	_	19	nsubj	_	_
+18	se	él	PRON	_	_	19	expl:pv	_	_
+19	llama	llamar	VERB	_	_	6	conj	_	_
+20	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	19	obj	_	_
+21	*LAST_NAME*	LAST_NAME	PROPN	_	_	19	punct	_	_
+22	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*AGE*	AGE	PROPN	_	_	2	conj	_	_
+5	anos	anos	PROPN	_	_	4	flat	_	_
+6	Mi	mi	DET	_	_	7	det	_	_
+7	padre	padre	NOUN	_	_	1	obj	_	_
+8	tiene	tener	VERB	_	_	1	advcl	_	_
+9	pelo	pelo	NOUN	_	_	8	obj	_	_
+10	rubio	rubio	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Es	ser	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	alto	alto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cómico	cómico	ADJ	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	él	él	PRON	_	_	9	nsubj	_	_
+9	sonrie	sonrie	ADJ	_	_	3	conj	_	_
+10	mucho	mucho	ADV	_	_	9	advmod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	inteligente	inteligente	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	trabajador	trabajador	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	el	el	DET	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	doctor	doctor	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*PLACE*	PLACE	PROPN	_	_	4	nmod	_	_
+7	*PLACE*	PLACE	PROPN	_	_	6	flat	_	_
+8	*	*	PUNCT	_	_	4	punct	_	_
+9	Mi	mi	DET	_	_	10	det	_	_
+10	hermano	hermano	NOUN	_	_	12	nsubj	_	_
+11	se	él	PRON	_	_	12	expl:pv	_	_
+12	llama	llamar	VERB	_	_	4	acl	_	_
+13	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	obj	_	_
+14	*LAST_NAME*	LAST_NAME	PROPN	_	_	4	punct	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	moreno	moreno	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	3	conj	_	_
+8	las	el	DET	_	_	9	det	_	_
+9	pecas	peca	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	alto	alto	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	fuerte	fuerte	ADJ	_	_	2	conj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	atlético	atlético	ADJ	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	atleta	atleta	NOUN	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	nada	nada	PRON	_	_	4	conj	_	_
+8	para	para	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	Universidad	Universidad	PROPN	_	_	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	10	flat	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+1	el	el	DET	_	_	2	det	_	_
+2	estudia	estudiar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	computación	computación	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*	*	SYM	_	_	6	punct	_	_
+2	Mu	mu	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	6	nsubj	_	_
+4	menor	menor	ADJ	_	_	3	amod	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	llama	llamar	VERB	_	_	0	ROOT	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	obj	_	_
+8	*LAST_NAME*	LAST_NAME	PROPN	_	_	6	punct	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	anos	ano	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	hermano	hermano	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	moreno	moreno	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rizado	rizado	ADJ	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	alto	alto	ADJ	_	_	0	ROOT	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	fuerte	fuerte	ADJ	_	_	2	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	atlético	atlético	ADJ	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tambien	tambien	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	él	él	PRON	_	_	6	nsubj	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	una	uno	DET	_	_	6	det	_	_
+6	atleta	atleta	NOUN	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	hace	hacer	VERB	_	_	6	conj	_	_
+10	natación	natación	NOUN	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Él	él	PRON	_	_	6	nsubj	_	_
+2	es	ser	AUX	_	_	6	cop	_	_
+3	en	en	ADP	_	_	6	case	_	_
+4	el	el	DET	_	_	6	det	_	_
+5	ultimo	ultimo	ADJ	_	_	6	amod	_	_
+6	ano	ano	NOUN	_	_	0	ROOT	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	escuela	escuela	NOUN	_	_	6	nmod	_	_
+10	secundaria	secundario	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	biología	biología	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	diseño	diseño	NOUN	_	_	4	conj	_	_
+8	gráfico	gráfico	ADJ	_	_	7	amod	_	_
+

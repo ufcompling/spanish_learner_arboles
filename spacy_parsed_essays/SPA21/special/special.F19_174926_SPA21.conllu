@@ -1,0 +1,219 @@
+# Unnamed: 0 = 33
+# id = 174926
+# prompt = special
+# quarter = F19
+# course = SPA 21
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = no
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = ﻿una persona especial en mi vida es mi prima. [Ella]{}<pr:su:pron> se llama *FIRST_NAME*, tine *AGE* años. Ella vive en *CITY*. [Ella]{}<pr:su:pron> es [moreno]{morena}<ga:adj> y tiene pelo negro y largo. [Ella]{}<pr:su:pron> es como mi major amiga. [Ella]{}<pr:su:pron> le gusta bailar, contar, beber y hablar por telefono. cuando eramos ninas, fuimos mi casa y practibamos bailando [por]{para}<conf:prep:popa> la fiesta de familia. era ir a su casa todos los fines de Semana. eramos ir a el parque y sugar juntos.  eramos ir al restaurante con nos tios, tias, padres y otros primos. el restaurante se llama Hometown Buffet era mi restaurante [favorita]{favorito}<ga:adj>.  la comida estaba muy bien. nos comida favorita cuando eramos ninas era. mi prima habla conmigo  veces porque estamos ocupados. pero cuando habalamos es simper un buen momento. hacíamos planes a viajar a otro Lugar. el Lugar es *CITY* *STATE*. nosotros queríamos ir *CITY* por []{el}<ab:det:art:def> colegio pero nosotros no saliamos.
+# updated annotation ann2 = una persona especial en mi vida es mi prima. Ella se llama *FIRST_NAME*, tine *AGE* años. [Ella]{}<pr:su:pron> vive en *CITY*. [Ella]{}<pr:su:pron> es [moreno]{morena}<ga:adj> y tiene []{el}<ab:det:art:def> pelo negro y largo. [Ella]{}<pr:su:pron> es como mi major amiga. Ella le gusta bailar, contar, beber y hablar por telefono. cuando eramos ninas, [fuimos]{íbamos}<fs:st:t> mi casa y practibamos bailando [por]{para}<conf:prep:popa> la fiesta de []{la}<ab:det:art:def> familia. era ir a su casa todos los fines de Semana. eramos ir a el parque y sugar [juntos]{juntas}<ga:adj>.  eramos ir al restaurante con nos tios, tias, padres y otros primos. el restaurante se llama Hometown Buffet era mi restaurante [favorita]{favorito}<ga:adj>.  la comida estaba muy bien. nos comida favorita cuando eramos ninas era. mi prima habla conmigo  veces porque estamos [ocupados]{ocupadas}<ga:adj>. pero cuando habalamos es simper un buen momento. hacíamos planes a viajar a otro Lugar. el Lugar es *CITY* *STATE*. [nosotros]{}<pr:su:pron> queríamos ir *CITY* [por]{para}<conf:v:seta> []{el}<ab:det:art:def> colegio pero [nosotros]{}<pr:su:pron> no [saliamos]{salimos}<fs:st:t>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Una persona especial en mi vida es mi prima. Ella se llama *FIRST_NAME*, tiene *AGE* años. Vive en *CITY*. Es morena y tiene el pelo negro y largo. Es como mi mejor amiga. Le gusta bailar, cantar, beber y hablar por teléfono. Cuando éramos niñas, íbamos a mi casa y ensayábamos el baile para la fiesta de la familia. Iba a su casa todos los fines de semana. Íbamos al parque y jugábamos juntas. Íbamos al restaurante con nuestros tíos, tías, padres y otros primos. El restaurante se llama Hometown Buffet y era mi restaurante favorito. La comida estaba muy bien. Era nuestra comida favorita cuando éramos niñas. Mi prima habla conmigo de vez en cuando porque estamos ocupadas, pero cuando hablamos siempre lo pasamos bien. Hacíamos planes para viajar a otro lugar. Ese lugar es *CITY* *STATE*. Queríamos ir a *CITY* para ir a la universidad, pero no fuimos. 
+# corrected2 = nan
+# text = una persona especial en mi vida es mi prima. Ella se llama *FIRST_NAME*, tine *AGE* años. Ella vive en *CITY*. Ella es moreno y tiene pelo negro y largo. Ella es como mi major amiga. Ella le gusta bailar, contar, beber y hablar por telefono. cuando eramos ninas, fuimos mi casa y practibamos bailando por la fiesta de familia. era ir a su casa todos los fines de Semana. eramos ir a el parque y sugar juntos. eramos ir al restaurante con nos tios, tias, padres y otros primos. el restaurante se llama Hometown Buffet era mi restaurante favorita. la comida estaba muy bien. nos comida favorita cuando eramos ninas era. mi prima habla conmigo veces porque estamos ocupados. pero cuando habalamos es simper un buen momento. hacíamos planes a viajar a otro Lugar. el Lugar es *CITY* *STATE*. nosotros queríamos ir *CITY* por colegio pero nosotros no saliamos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	prima	prima	NOUN	_	_	0	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	se	él	PRON	_	_	3	expl:pv	_	_
+3	llama	llamar	VERB	_	_	0	ROOT	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	obj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	tine	tener	VERB	_	_	3	obl	_	_
+7	*AGE*	AGE	PROPN	_	_	6	obj	_	_
+8	años	año	NOUN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	moreno	moreno	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	tiene	tener	VERB	_	_	3	conj	_	_
+6	pelo	pelo	NOUN	_	_	5	obj	_	_
+7	negro	negro	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	largo	largo	ADJ	_	_	7	conj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	como	como	SCONJ	_	_	5	mark	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	major	major	NOUN	_	_	0	ROOT	_	_
+6	amiga	amiga	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	bailar	bailar	VERB	_	_	3	csubj	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	contar	contar	VERB	_	_	3	advcl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	beber	beber	VERB	_	_	3	advcl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	hablar	hablar	VERB	_	_	3	conj	_	_
+11	por	por	ADP	_	_	12	case	_	_
+12	telefono	telefono	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+1	cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	eramos	erar	VERB	_	_	3	cop	_	_
+3	ninas	nina	NOUN	_	_	5	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	fuimos	ir	VERB	_	_	0	ROOT	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	casa	casa	NOUN	_	_	5	nsubj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	practibamos	practibamos	VERB	_	_	5	conj	_	_
+10	bailando	bailar	VERB	_	_	9	xcomp	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	fiesta	fiesta	NOUN	_	_	10	obj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	familia	familia	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+1	era	ser	AUX	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	ccomp	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	casa	casa	NOUN	_	_	2	obl	_	_
+6	todos	todo	DET	_	_	7	det	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	fines	fin	NOUN	_	_	2	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Semana	Semana	PROPN	_	_	8	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+1	eramos	erar	AUX	_	_	2	aux	_	_
+2	ir	ir	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	parque	parque	NOUN	_	_	2	obl	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	sugar	sugar	VERB	_	_	2	conj	_	_
+8	juntos	junto	ADJ	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	eramos	erar	AUX	_	_	2	aux	_	_
+2	ir	ir	VERB	_	_	0	ROOT	_	_
+3	al	al	ADP	_	_	4	case	_	_
+4	restaurante	restaurante	NOUN	_	_	2	obl	_	_
+5	con	con	ADP	_	_	7	case	_	_
+6	nos	yo	PRON	_	_	7	nmod	_	_
+7	tios	tio	ADJ	_	_	4	nmod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	tias	tia	NOUN	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	padres	padre	NOUN	_	_	7	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	otros	otro	PRON	_	_	7	conj	_	_
+14	primos	prir	VERB	_	_	2	advcl	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+1	el	el	DET	_	_	2	det	_	_
+2	restaurante	restaurante	NOUN	_	_	4	nsubj	_	_
+3	se	él	PRON	_	_	4	expl:pv	_	_
+4	llama	llamar	VERB	_	_	0	ROOT	_	_
+5	Hometown	Hometown	PROPN	_	_	4	obj	_	_
+6	Buffet	Buffet	PROPN	_	_	5	flat	_	_
+7	era	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	restaurante	restaurante	NOUN	_	_	4	advcl	_	_
+10	favorita	favoritar	VERB	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	la	el	DET	_	_	2	det	_	_
+2	comida	comida	NOUN	_	_	5	nsubj	_	_
+3	estaba	estar	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	bien	bien	ADV	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	nos	yo	PRON	_	_	2	iobj	_	_
+2	comida	comida	NOUN	_	_	3	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	0	ROOT	_	_
+4	cuando	cuando	SCONJ	_	_	6	mark	_	_
+5	eramos	erar	AUX	_	_	6	cop	_	_
+6	ninas	nina	NOUN	_	_	3	advcl	_	_
+7	era	ser	AUX	_	_	3	obj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	mi	mi	DET	_	_	2	det	_	_
+2	prima	prima	NOUN	_	_	3	nsubj	_	_
+3	habla	hablar	VERB	_	_	0	ROOT	_	_
+4	conmigo	conmigo	ADP	_	_	5	case	_	_
+5	veces	vez	NOUN	_	_	3	obl	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	estamos	estar	AUX	_	_	8	cop	_	_
+8	ocupados	ocupado	ADJ	_	_	3	advcl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	pero	pero	CCONJ	_	_	4	advmod	_	_
+2	cuando	cuando	SCONJ	_	_	3	mark	_	_
+3	habalamos	habalar	VERB	_	_	4	csubj	_	_
+4	es	ser	AUX	_	_	0	ROOT	_	_
+5	simper	simper	VERB	_	_	4	ccomp	_	_
+6	un	uno	DET	_	_	8	det	_	_
+7	buen	buen	ADJ	_	_	8	amod	_	_
+8	momento	momento	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	hacíamos	hacíir	VERB	_	_	0	ROOT	_	_
+2	planes	plan	NOUN	_	_	1	obj	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	viajar	viajar	VERB	_	_	1	xcomp	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	otro	otro	DET	_	_	7	det	_	_
+7	Lugar	Lugar	PROPN	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	el	el	DET	_	_	2	det	_	_
+2	Lugar	Lugar	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*CITY*	CITY	PROPN	_	_	0	ROOT	_	_
+5	*STATE*	STATE	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	nosotros	yo	PRON	_	_	2	nsubj	_	_
+2	queríamos	querer	VERB	_	_	0	ROOT	_	_
+3	ir	ir	VERB	_	_	2	xcomp	_	_
+4	*CITY*	CITY	PROPN	_	_	3	obj	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	colegio	colegio	NOUN	_	_	3	obl	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	nosotros	yo	PRON	_	_	10	nsubj	_	_
+9	no	no	ADV	_	_	10	advmod	_	_
+10	saliamos	saliar	VERB	_	_	2	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+

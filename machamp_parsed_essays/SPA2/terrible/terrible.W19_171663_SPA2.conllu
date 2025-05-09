@@ -1,0 +1,356 @@
+# Unnamed: 0 = 153
+# id = 171663
+# prompt = terrible
+# quarter = W19
+# course = SPA 2
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Cuando era niña, tuve un perro llamado *FIRST_NAME*. Ella era blanca con pelo esponjoso. Ella era feliz y juguetona. Mi familia y yo la queríamos mucho. Un día, *FIRST_NAME* no vino cuando la llamamos por su nombre. Esto era extraño porque ella siempre venía cuando llamaba. Mi mamá dijo que todo estaba bien, pero podía decir que algo andaba mal. Una hora después, ella todavía no estaba dentro. Yo fui afuera para buscar ella. Ella no estaba en el patio trasero. Ella no estaba en el patio delantero. Yo fui a preguntar mis vecinos si la habían visto, pero ninguno de ellos la había visto. El sol empezaba a ponerse y oscurecía. Nosotros salimos a la calle para llamar a mis perros. Cuando estaba muy oscuro afuera, nosotros fuimos en la casa. Me sentí asustado y preocupado. Mi hermana se puso a llorar. *FIRST_NAME* estaba desaparecida. Esto fue terrible. El día siguiente, hicimos carteles con *FIRST_NAME*'s foto. Los colgamos en nuestro barrio. Pasaron los días y todavía no la habíamos encontrado. Nosotros empezamos a pensar malos pensamientos. Nosotros pensamos que ella había muerta. Tal vez fue atropellada por un coche o tal vez ella se perdió. Nosotros empezamos a perder toda esperanza de encontrarla. Todos nosotros estábamos muy tristes. Un día, mi vecino llamó y dijo que vieron *FIRST_NAME* en la calle. Cuando salimos a mirar, no era nuestro perro. Nos dimos cuenta de que ella se había ido para siempre. Aunque nunca encontramos *FIRST_NAME*, y fue muy terrible, siempre la recordaremos y la amaremos.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Cuando	cuando	SCONJ	_	_	3	mark	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	niña	niña	NOUN	_	Gender=Fem|Number=Sing	5	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	perro	perro	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+8	llamado	llamado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	8	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	esponjoso	esponjoso	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	juguetona	juguetono	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	queríamos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	mucho	mucho	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	6	nsubj	_	_
+5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+6	vino	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	cuando	cuando	SCONJ	_	_	9	mark	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	llamamos	llamar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+12	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	siempre	siempre	ADV	_	_	7	advmod	_	_
+7	venía	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+8	cuando	cuando	SCONJ	_	_	9	mark	_	_
+9	llamaba	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mamá	mamá	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	7	nsubj	_	_
+6	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
+7	bien	bien	ADV	_	_	3	ccomp	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	pero	pero	CCONJ	_	_	11	cc	_	_
+10	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+11	decir	decir	VERB	_	VerbForm=Inf	3	conj	_	_
+12	que	que	SCONJ	_	_	14	mark	_	_
+13	algo	algo	PRON	_	Number=Sing|PronType=Ind	14	nsubj	_	_
+14	andaba	andar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+15	mal	mal	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	hora	hora	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+3	después	después	ADV	_	_	8	advmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	todavía	todavía	ADV	_	_	8	advmod	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	dentro	dentro	ADV	_	_	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	afuera	afuera	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	buscar	buscar	VERB	_	VerbForm=Inf	2	advcl	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	patio	patio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	trasero	trasero	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	patio	patio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	delantero	delantero	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	preguntar	preguntar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	si	si	SCONJ	_	_	10	mark	_	_
+8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+9	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+12	pero	pero	CCONJ	_	_	18	cc	_	_
+13	ninguno	ninguno	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	18	nsubj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+16	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+17	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sol	sol	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	empezaba	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	ponerse	poner	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	oscurecía	oscurecir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	salimos	salir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	calle	calle	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	llamar	llamar	VERB	_	VerbForm=Inf	2	advcl	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	perros	perro	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	8	advcl	_	_
+5	afuera	afuera	ADV	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+8	fuimos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	sentí	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	asustado	asustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	preocupado	preocupado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	_	_	6	mark	_	_
+6	llorar	llorar	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+2	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	desaparecida	desaparecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Esto	este	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	terrible	terrible	ADJ	_	Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	siguiente	siguiente	ADJ	_	Number=Sing	2	amod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	hicimos	hener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	carteles	cartel	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	con	con	ADP	_	_	8	case	_	_
+8	FIRST_NAME's	Rst_name's	PROPN	_	_	9	nmod	_	_
+9	foto	foto	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	colgamos	colgar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	barrio	barrio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	días	día	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	y	y	CCONJ	_	_	9	cc	_	_
+5	todavía	todavía	ADV	_	_	9	advmod	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
+8	habíamos	haber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	pensar	pensar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	malos	malo	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+6	pensamientos	pensamiento	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	pensamos	pensar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	muerta	muerto	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Tal	tal	NOUN	_	_	4	advmod	_	_
+2	vez	vez	NOUN	_	_	1	fixed	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	atropellada	atropellar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	coche	coche	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	o	o	CCONJ	_	_	13	cc	_	_
+9	tal	tal	NOUN	_	_	13	advmod	_	_
+10	vez	vez	NOUN	_	_	9	fixed	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+12	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl	_	_
+13	perdió	perder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	empezamos	empezar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	perder	perder	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	6	det	_	_
+6	esperanza	esperanza	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	de	de	ADP	_	_	8	mark	_	_
+8	encontrarla	encontrar	VERB	_	VerbForm=Inf	6	acl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+3	estábamos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	tristes	triste	ADJ	_	Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	vecino	vecino	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+9	que	que	SCONJ	_	_	10	mark	_	_
+10	vieron	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+11	*FIRST_NAME*	*first_name*	PUNCT	_	_	10	punct	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	calle	calle	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	salimos	salir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	mirar	mirar	VERB	_	VerbForm=Inf	2	advcl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	perro	perro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	dimos	dar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	2	compound	_	_
+4	de	de	ADP	_	_	9	mark	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl	_	_
+8	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	ido	ir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+10	para	para	ADP	_	_	11	case	_	_
+11	siempre	siempre	ADV	_	_	9	advmod	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
+2	nunca	nunca	ADV	_	_	3	advmod	_	_
+3	encontramos	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+4	*FIRST_NAME*	*first_name*	PUNCT	_	_	3	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	terrible	terrible	ADJ	_	Number=Sing	3	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+11	siempre	siempre	ADV	_	_	13	advmod	_	_
+12	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
+13	recordaremos	recordar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
+16	amaremos	amar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	13	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+

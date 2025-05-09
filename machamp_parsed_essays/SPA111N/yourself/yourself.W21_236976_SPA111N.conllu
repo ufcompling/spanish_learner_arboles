@@ -1,0 +1,322 @@
+# Unnamed: 0 = 169
+# id = 236976
+# prompt = yourself
+# quarter = W21
+# course = SPA 111N
+# age = 20
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English
+# language(s) used at home = 2
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Extremely comfortable
+# speaking ability = Comfortable
+# writing ability = Extremely comfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Yo soy un estudiante en la Universidad de *UNIVERSITY* *UNIVERSITY*, y estoy en mi último año aquí. Mis especializaciones son Managerial Economics y Español. No sé lo que quiero hacer antes de graduarme, estoy contemplando seguir con la escuela pero aún no se donde o ni siquiera lo que quiero estudiar. Aprendí a hablar el español en el pre-kinder, atendí una escuela de inmersión dual, el inglés y el español. Fue una transición un poco difícil porque nadie en mi familia hablaba español y fui una de las únicas que no estaba fluente. Mis maestros solo hablaban español entonces tenía que aprender rápidamente. Seguí en esa misma escuela hasta graduar el octavo grado, luego fui a la preparatoria. Tome un curso de español para nativos, y luego los dos clases de AP. Después de terminar esos, realmente no use mi español hasta empezar a tomar cursos aquí en *UNIVERSITY* *UNIVERSITY*. Con todo ese tiempo sin usar el español definitivamente empeoró mis habilidades. Ahora lo encuentro mucho más difícil hacer cosas que antes consideraba simple, como traducir rápidamente y a veces no puedo pensar en la palabra que quiero decir. Creo que es porque no he realmente usado mi español (aparte de clases fáciles) desde el séptimo grado. Mi hermano y hermana (los dos menores) siguieron en mis pasos entonces nosotros tres podiamos (y pues todavía podemos) comunicar en español mientras mis padres no podían. Eso resultó en algunas conversaciones chistosas, y nos dio una manera de comunicarse entre nosotros en secreto.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	estudiante	estudiante	NOUN	_	Number=Sing	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Universidad	Universidad	PROPN	_	_	4	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	*UNIVERSITY*	*UniversitY*	PROPN	_	_	7	nmod	_	_
+10	*UNIVERSITY*	*university*	PROPN	_	_	7	nmod	_	_
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	en	en	ADP	_	_	17	case	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+16	último	último	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	17	amod	_	_
+17	año	año	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+18	aquí	aquí	ADV	_	_	13	advmod	_	_
+19	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	especializaciones	especialización	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	Managerial	Managerial	PROPN	_	_	0	root	_	_
+5	Economics	Economics	PROPN	_	_	4	flat	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	Español	Español	PROPN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
+5	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	hacer	hacer	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	antes	antes	ADV	_	_	5	advmod	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	graduarme	graduar	VERB	_	VerbForm=Inf	7	advcl	_	_
+10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+11	estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	contemplando	contemplar	VERB	_	VerbForm=Ger	2	advcl	_	_
+13	seguir	seguir	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+17	pero	pero	CCONJ	_	_	20	cc	_	_
+18	aún	aún	ADV	_	_	20	advmod	_	_
+19	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
+20	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	conj	_	_
+21	donde	donde	ADV	_	PronType=Rel	20	advmod	_	_
+22	o	o	CCONJ	_	_	27	cc	_	_
+23	ni	ni	CCONJ	_	_	27	advmod	_	_
+24	siquiera	siquiera	NOUN	_	_	23	fixed	_	_
+25	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	det	_	_
+26	que	que	PRON	_	PronType=Rel	27	obj	_	_
+27	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	csubj	_	_
+28	estudiar	estudiar	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Aprendí	aprender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	hablar	hablar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pre-kinder	pre-kinder	NOUN	_	_	3	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+10	atendí	atender	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	inmersión	inmersión	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	dual	dual	ADJ	_	Number=Sing	14	amod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
+19	y	y	CCONJ	_	_	21	cc	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	español	español	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	transición	transición	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+5	poco	poco	ADV	_	_	4	fixed	_	_
+6	difícil	difícil	ADJ	_	Number=Sing	3	amod	_	_
+7	porque	porque	SCONJ	_	_	12	mark	_	_
+8	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	12	nsubj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+12	hablaba	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+13	español	español	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	y	y	CCONJ	_	_	16	cc	_	_
+15	fui	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	conj	_	_
+16	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	12	conj	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	únicas	único	ADJ	_	Gender=Fem|Number=Plur	16	amod	_	_
+20	que	que	PRON	_	PronType=Rel	23	nsubj	_	_
+21	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+22	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+23	fluente	fluente	ADJ	_	Number=Sing	16	acl	_	_
+24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	maestros	maestro	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	solo	solo	ADV	_	_	4	advmod	_	_
+4	hablaban	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	csubj	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	entonces	entonces	ADV	_	_	9	advmod	_	_
+7	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	que	que	SCONJ	_	_	9	cc	_	_
+9	aprender	aprender	VERB	_	VerbForm=Inf	7	conj	_	_
+10	rápidamente	rápidamente	ADV	_	_	9	advmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Seguí	seguir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	5	case	_	_
+3	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+4	misma	mismo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+5	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	hasta	hasta	ADP	_	_	7	mark	_	_
+7	graduar	graduar	VERB	_	VerbForm=Inf	1	advcl	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	octavo	octavo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
+10	grado	grado	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+11	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+12	luego	luego	ADV	_	_	13	advmod	_	_
+13	fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
+14	a	a	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	preparatoria	preparatoria	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tome	tomar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	curso	curso	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	español	español	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	nativos	nativo	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+9	y	y	CCONJ	_	_	13	cc	_	_
+10	luego	luego	ADV	_	_	13	advmod	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+13	clases	clase	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	AP	AP	PROPN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Después	después	ADV	_	_	8	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	terminar	terminar	VERB	_	VerbForm=Inf	1	advcl	_	_
+4	esos	ese	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+6	realmente	realmente	ADV	_	_	8	advmod	_	_
+7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+8	use	usar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	español	español	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	hasta	hasta	ADP	_	_	12	mark	_	_
+12	empezar	empezar	VERB	_	VerbForm=Inf	8	advcl	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	tomar	tomar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	cursos	curso	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	aquí	aquí	ADV	_	_	12	advmod	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	*UNIVERSITY*	*university*	PROPN	_	_	8	dep	_	_
+19	*UNIVERSITY*	*university*	PUNCT	_	_	18	punct	_	_
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Con	con	ADP	_	_	4	case	_	_
+2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
+3	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+5	sin	sin	ADP	_	_	6	mark	_	_
+6	usar	usar	VERB	_	VerbForm=Inf	4	acl	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	español	español	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	definitivamente	definitivamente	ADV	_	_	10	advmod	_	_
+10	empeoró	empeorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	habilidades	habilidade	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+3	encuentro	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mucho	mucho	ADV	_	_	6	advmod	_	_
+5	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
+6	difícil	difícil	ADJ	_	Number=Sing	3	xcomp	_	_
+7	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	_
+8	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+9	que	que	PRON	_	PronType=Rel	11	obj	_	_
+10	antes	antes	ADV	_	_	11	advmod	_	_
+11	consideraba	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
+12	simple	simple	ADJ	_	Number=Sing	11	xcomp	_	_
+13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+14	como	como	SCONJ	_	_	15	mark	_	_
+15	traducir	traducir	VERB	_	VerbForm=Inf	8	acl	_	_
+16	rápidamente	rápidamente	ADV	_	_	15	advmod	_	_
+17	y	y	CCONJ	_	_	22	cc	_	_
+18	a	a	ADP	_	_	22	advmod	_	_
+19	veces	veces	NOUN	_	_	18	fixed	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	pensar	pensar	VERB	_	VerbForm=Inf	11	conj	_	_
+23	en	en	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	palabra	palabra	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
+26	que	que	PRON	_	PronType=Rel	27	obj	_	_
+27	quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	acl	_	_
+28	decir	decir	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Creo	creer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+4	porque	porque	SCONJ	_	_	8	mark	_	_
+5	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+6	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	realmente	realmente	ADV	_	_	8	advmod	_	_
+8	usado	usar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	español	español	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	_
+12	aparte	aparte	ADV	_	_	14	case	_	_
+13	de	de	ADP	_	_	12	fixed	_	_
+14	clases	clase	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+15	fáciles	fácil	ADJ	_	Number=Plur	14	amod	_	_
+16	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	_
+17	desde	desde	ADP	_	_	20	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	séptimo	séptimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	20	amod	_	_
+20	grado	grado	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	8	punct	_	_
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
+8	menores	menor	ADJ	_	Degree=Cmp|Number=Plur	2	appos	_	_
+9	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	_
+10	siguieron	seguir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	pasos	paso	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
+14	entonces	entonces	ADV	_	_	10	advmod	_	_
+15	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+16	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
+17	podiamos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	_
+18	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	22	punct	_	_
+19	y	y	CCONJ	_	_	22	cc	_	_
+20	pues	pues	SCONJ	_	_	22	mark	_	_
+21	todavía	todavía	ADV	_	_	22	advmod	_	_
+22	podemos	poder	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	24	aux	_	_
+23	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	22	punct	_	_
+24	comunicar	comunicar	VERB	_	VerbForm=Inf	17	conj	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	español	español	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
+27	mientras	mientras	SCONJ	_	_	31	mark	_	_
+28	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	29	det	_	_
+29	padres	padre	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	_
+30	no	no	ADV	_	Polarity=Neg	31	advmod	_	_
+31	podían	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	24	advcl	_	_
+32	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+
+1	Eso	ese	PRON	_	Number=Sing|PronType=Dem	2	nsubj	_	_
+2	resultó	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	conversaciones	conversación	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	chistosas	chistoso	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	manera	manera	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	comunicarse	comunicar	VERB	_	VerbForm=Inf	12	acl	_	_
+15	entre	entre	ADP	_	_	16	case	_	_
+16	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	obl	_	_
+17	en	en	ADP	_	_	14	advmod	_	_
+18	secreto	secreto	NOUN	_	_	17	fixed	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

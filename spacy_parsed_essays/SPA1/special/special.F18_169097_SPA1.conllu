@@ -1,0 +1,215 @@
+# Unnamed: 0 = 124
+# id = 169097
+# prompt = special
+# quarter = F18
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = -
+# language(s) used at home = -
+# language(s) studied = Maori for 5 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! Mi madre es especial. Ella es muy simpática. Mi madre tiene []{el}<ab:det:art:def> pelo corto rubio y tiene []{los}<ab:det:art:def> ojos azules. Ella es fuerte y alta y delgada. [Ella]{}<pr:su:pron> lleva gafas. [Ella]{}<pr:su:pron> es doctora. Su nacionalidad es neozelandesa. Su cumpleaños es el treinta y uno de Augusto. Su numero de telefono es mas *NUMBER*. Mi madre tiene cuatro niños. Tres hijas y uno hijo. Sus nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi madre vive en *CITY*, Nueva Zelanda. Ella tiene *AGE*. Ella le gusta []{las}<ab:det:art:def> manzanas y []{los}<ab:det:art:def> tacos y []{el}<ab:det:art:def> juego y []{la}<ab:det:art:def> lechuga. Le gusta mucho dormir. Tiene un gato que se llama *FIRST_NAME*. En su casa [ella]{}<pr:su:pron> tiene una ventana y []{una}<ab:det:art:indef> silla y []{un}<ab:det:art:indef> ordenador y []{una}<ab:det:art:indef> puerta. Ella le gusta hablar ingles. Ella le gusta jugar tenis y golf. Sus colores [favoritas]{favoritos}<ga:adj> son []{el}<ab:det:art:def> azul y []{el}<ab:det:art:def> rojo. Yo amo a mi mama.
+# updated annotation ann2 = ﻿Hola! Mi madre es especial. [Ella]{}<pr:su:pron> es muy simpática. Mi madre tiene []{el}<ab:det:art:def> pelo corto rubio y tiene ojos azules. [Ella]{}<pr:su:pron> es fuerte y alta y delgada. [Ella]{}<pr:su:pron> lleva gafas. [Ella]{}<pr:su:pron> es doctora. Su nacionalidad es neozelandesa. Su cumpleaños es el treinta y uno de Augusto. Su numero de telefono es mas *NUMBER*. Mi madre tiene cuatro niños. Tres hijas y uno hijo. Sus nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi madre vive en *CITY*, Nueva Zelanda. [Ella]{}<pr:su:pron> tiene *AGE*. [Ella]{}<pr:su:pron> le [gusta]{gustan}<fs:st:pn> manzanas y tacos y juego y lechuga. Le gusta mucho dormir. Tiene un gato que se llama *FIRST_NAME*. En su casa ella tiene una ventana y []{una}<ab:det:art:def> silla y []{un}<ab:det:art:def> ordenador y []{una}<ab:det:art:def> puerta. [Ella]{}<pr:su:pron> le gusta hablar ingles. [Ella]{}<pr:su:pron> le gusta jugar tenis y golf. Sus colores [favoritas]{favoritos}<ga:adj> son []{el}<ab:det:art:def> azul y []{el}<ab:det:art:def> rojo. [Yo]{}<pr:su:pron> amo a mi mama.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Mi madre es especial. Ella es muy simpática. Mi madre tiene el pelo corto rubio y tiene los ojos azules. Es fuerte y alta y delgada. lleva gafas. Es doctora. Su nacionalidad es neozelandesa. Su cumpleaños es el treinta y uno de agosto. Su número de teléfono es más *NUMBER*. Mi madre tiene cuatro niños. Tres hijas y un hijo. Sus nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi madre vive en *CITY*, Nueva Zelanda. Ella tiene *AGE*. A ella le gustan las manzanas y los tacos y el jugo y la lechuga. Le gusta mucho dormir. Tiene un gato que se llama *FIRST_NAME*. En su casa tiene una ventana y una silla y un ordenador y una puerta. A ella le gusta hablar inglés. A ella le gusta jugar al tenis y al golf. Sus colores favoritos son el azul y el rojo. Yo amo a mi mamá.
+# corrected2 = nan
+# text = Hola! Mi madre es especial. Ella es muy simpática. Mi madre tiene pelo corto rubio y tiene ojos azules. Ella es fuerte y alta y delgada. Ella lleva gafas. Ella es doctora. Su nacionalidad es neozelandesa. Su cumpleaños es el treinta y uno de Augusto. Su numero de telefono es mas *NUMBER*. Mi madre tiene cuatro niños. Tres hijas y uno hijo. Sus nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi madre vive en *CITY*, Nueva Zelanda. Ella tiene *AGE*. Ella le gusta manzanas y tacos y juego y lechuga. Le gusta mucho dormir. Tiene un gato que se llama *FIRST_NAME*. En su casa ella tiene una ventana y silla y ordenador y puerta. Ella le gusta hablar ingles. Ella le gusta jugar tenis y golf. Sus colores favoritas son azul y rojo. Yo amo a mi mama.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	0	ROOT	_	_
+2	!	!	PROPN	_	_	1	punct	_	_
+
+1	Mi	Mi	PROPN	_	_	2	det	_	_
+2	madre	madre	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	especial	especial	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	simpática	simpático	ADJ	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	pelo	pelo	NOUN	_	_	3	obj	_	_
+5	corto	corto	ADJ	_	_	4	amod	_	_
+6	rubio	rubio	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	tiene	tener	VERB	_	_	3	conj	_	_
+9	ojos	ojo	NOUN	_	_	8	obj	_	_
+10	azules	azul	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	fuerte	fuerte	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	alta	alto	ADJ	_	_	3	conj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	delgada	delgado	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	lleva	llevar	VERB	_	_	0	ROOT	_	_
+3	gafas	gafa	NOUN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	doctora	doctora	NOUN	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	nacionalidad	nacionalidad	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	neozelandesa	neozelandesa	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	treinta	treinta	NUM	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	uno	uno	PRON	_	_	5	conj	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Augusto	Augusto	PROPN	_	_	7	nmod	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	numero	numero	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	telefono	telefono	NOUN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	mas	mas	ADV	_	_	7	advmod	_	_
+7	*NUMBER*	NUMBER	PROPN	_	_	0	ROOT	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuatro	cuatro	NUM	_	_	5	nummod	_	_
+5	niños	niño	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tres	tres	NUM	_	_	2	nummod	_	_
+2	hijas	hija	NOUN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	uno	uno	PRON	_	_	2	conj	_	_
+5	hijo	hijo	NOUN	_	_	2	appos	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	nombres	nombre	NOUN	_	_	4	nsubj	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	*FIRST_NAME*	first_name	ADV	_	_	0	ROOT	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obl	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	madre	madre	NOUN	_	_	3	nsubj	_	_
+3	vive	vivir	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Nueva	Nueva	PROPN	_	_	3	obj	_	_
+8	Zelanda	Zelanda	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	manzanas	manzana	ADJ	_	_	3	obj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	tacos	taco	NOUN	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	juego	juego	NOUN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	lechuga	lechuga	PROPN	_	_	4	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	4	advmod	_	_
+4	dormir	dormir	VERB	_	_	2	csubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	gato	gato	NOUN	_	_	1	obj	_	_
+4	que	que	PRON	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	llama	llamar	VERB	_	_	3	acl	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	6	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	su	su	DET	_	_	3	det	_	_
+3	casa	casa	NOUN	_	_	5	obl	_	_
+4	ella	él	PRON	_	_	5	nsubj	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	una	uno	DET	_	_	7	det	_	_
+7	ventana	ventana	NOUN	_	_	5	obj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	silla	silla	NOUN	_	_	7	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	ordenador	ordenador	NOUN	_	_	9	conj	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	puerta	puerta	NOUN	_	_	11	conj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	hablar	hablar	VERB	_	_	3	csubj	_	_
+5	ingles	ingl	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	jugar	jugar	VERB	_	_	3	csubj	_	_
+5	tenis	tenis	NOUN	_	_	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	golf	golf	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Sus	su	DET	_	_	2	det	_	_
+2	colores	color	NOUN	_	_	5	nsubj	_	_
+3	favoritas	favorito	ADJ	_	_	2	amod	_	_
+4	son	ser	AUX	_	_	5	cop	_	_
+5	azul	azul	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	rojo	rojo	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	amo	amar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	mama	mama	NOUN	_	_	2	obj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+

@@ -1,0 +1,392 @@
+# Unnamed: 0 = 179
+# id = 171936
+# prompt = terrible
+# quarter = W19
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = I took French for three years in high school 
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Había una vez un niño. Él era feliz. Tenía una familia que lo amaba y que lo apoyaba. Quería ser escritor. Entonces todo cambió. Una loca se escapó de una institución mental. Ella saltó de un edificio matando a los padres del niño justo delante de él. Ahora está triste y muy pesimista. Ahora es un huérfano. Lo llevan a la casa de un niño, pero lo hacen trabajar sin dinero y lo golpean. Su compañero de cuarto trató de sacarle el ojo pero lo detuvo. La única manera de salvarse es salir. Él construye una bomba y la pone en marcha haciendo un agujero en la pared. Se escapa mientras la casa se incendia. Ahora él está en la carrera. La policía lo quiere por el asesinato de los niños en la casa de los chicos, pero él no los mató. Era el compañero de cuarto malvado. El niño ahora está sin hogar, necesita refugio pero el único lugar es el bosque. Se esconde allí muchas noches, pero es casi invierno y hace frío. Él desea que algo bueno suceda. Entonces es encontrado por una niña que va a una escuela para asesinos. Lo reciben pero él pasa por más dolor y sufrimiento. Su vida nunca será fácil. Le gusta la chica pero nunca funciona. Su pasado comienza a alcanzarlo y el compañero de cuarto lo encuentra. No hay escapatoria. Está enojado de que el niño haya recibido crédito por los asesinatos en su casa. Se pelean y el niño es capaz de matar al compañero de cuarto, terminando su reinado de terror sobre la ciudad. Pero el niño nunca será el mismo. Él ha visto demasiada maldad en el mundo. No hay esperanza para la humanidad. Ya no hay razón para la vida.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vez	vez	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	niño	niño	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	feliz	feliz	ADJ	_	Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	familia	familia	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
+6	amaba	amar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl	_	_
+7	y	y	CCONJ	_	_	10	cc	_	_
+8	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
+10	apoyaba	apoyar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	_	VerbForm=Inf	3	cop	_	_
+3	escritor	escritor	NOUN	_	Gender=Masc|Number=Sing	1	xcomp	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	3	nsubj	_	_
+3	cambió	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	loca	loco	ADJ	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	escapó	escapar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	institución	institución	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	mental	mental	ADJ	_	Number=Sing	7	amod	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	saltó	saltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	edificio	edificio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	matando	matar	VERB	_	VerbForm=Ger	2	advcl	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	padres	padre	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
+10	del	de	ADP	_	_	11	case	_	_
+11	niño	niño	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+12	justo	justo	ADV	_	_	13	advmod	_	_
+13	delante	delante	ADV	_	_	6	advmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	pesimista	pesimista	ADJ	_	Number=Sing	3	conj	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	4	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	huérfano	huérfano	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	llevan	llevar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	niño	niño	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	trabajar	trabajar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+14	sin	sin	ADP	_	_	15	case	_	_
+15	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+16	y	y	CCONJ	_	_	18	cc	_	_
+17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	golpean	golpear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	trató	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	sacarle	sacar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ojo	ojo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	detuvo	detener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	única	único	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+3	manera	manera	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	salvarse	salvar	VERB	_	VerbForm=Inf	3	acl	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	salir	salir	VERB	_	VerbForm=Inf	6	ccomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	construye	construir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bomba	bomba	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
+7	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	marcha	marcha	NOUN	_	Gender=Fem|Number=Sing	7	compound	_	_
+10	haciendo	hacer	VERB	_	VerbForm=Ger	7	advcl	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	agujero	agujero	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	pared	pared	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	escapa	escapar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mientras	mientras	SCONJ	_	_	7	mark	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl	_	_
+7	incendia	incendiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ahora	ahora	ADV	_	_	3	advmod	_	_
+2	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	policía	policía	NOUN	_	Number=Sing	4	nsubj	_	_
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	asesinato	asesinato	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	niños	niño	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	chicos	chico	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
+18	pero	pero	CCONJ	_	_	22	cc	_	_
+19	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+21	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
+22	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	malvado	malvado	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	niño	niño	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	ahora	ahora	ADV	_	_	6	advmod	_	_
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	sin	sin	ADP	_	_	6	case	_	_
+6	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+9	refugio	refugio	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	pero	pero	CCONJ	_	_	16	cc	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	único	único	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
+13	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	bosque	bosque	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	esconde	esconder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	allí	allí	ADV	_	_	2	advmod	_	_
+4	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+5	noches	noche	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+7	pero	pero	CCONJ	_	_	10	cc	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	casi	casi	ADV	_	_	10	advmod	_	_
+10	invierno	invierno	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	frío	frío	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	desea	desear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	6	mark	_	_
+4	algo	algo	PRON	_	Number=Sing|PronType=Ind	6	nsubj	_	_
+5	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+6	suceda	suceder	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	3	advmod	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	niña	niña	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
+8	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	asesinos	asesino	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	reciben	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pero	pero	CCONJ	_	_	5	cc	_	_
+4	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	dolor	dolor	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	sufrimiento	sufrimiento	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	nunca	nunca	ADV	_	_	5	advmod	_	_
+4	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+5	fácil	fácil	ADJ	_	Number=Sing	0	root	_	_
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	chica	chica	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	pero	pero	CCONJ	_	_	7	cc	_	_
+6	nunca	nunca	ADV	_	_	7	advmod	_	_
+7	funciona	funcionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	pasado	pasado	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	5	mark	_	_
+5	alcanzarlo	alcanzar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+6	y	y	CCONJ	_	_	12	cc	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	escapatoria	escapatoria	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	enojado	enojado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	de	de	ADP	_	_	8	mark	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	niño	niño	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	recibido	recibir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+9	crédito	crédito	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+10	por	por	ADP	_	_	12	case	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	asesinatos	asesinato	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+13	en	en	ADP	_	_	15	case	_	_
+14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+15	casa	casa	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	pelean	pelear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	y	CCONJ	_	_	7	cc	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	niño	niño	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	capaz	capaz	ADJ	_	Number=Sing	2	conj	_	_
+8	de	de	ADP	_	_	9	mark	_	_
+9	matar	matar	VERB	_	VerbForm=Inf	7	acl	_	_
+10	al	a	ADP	_	_	11	case	_	_
+11	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+15	terminando	terminar	VERB	_	VerbForm=Ger	9	xcomp	_	_
+16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	reinado	reinado	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	terror	terror	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	sobre	sobre	ADP	_	_	22	case	_	_
+21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	7	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	niño	niño	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	nunca	nunca	ADV	_	_	7	advmod	_	_
+5	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mismo	mismo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	demasiada	demasiado	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	maldad	maldad	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	esperanza	esperanza	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+4	para	para	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	humanidad	humanidad	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Ya	ya	ADV	_	_	3	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	razón	razón	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	para	para	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vida	vida	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+

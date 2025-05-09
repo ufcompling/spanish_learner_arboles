@@ -1,0 +1,368 @@
+# Unnamed: 0 = 236
+# id = 200027
+# prompt = special
+# quarter = F19
+# course = SPA 24
+# age = 19
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = English
+# language(s) used at home = Spanish
+# language(s) studied = nan
+# listening comprehension = 5.0
+# reading comprehension = 5.0
+# speaking ability = 5.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una de las personas mas especiales en mi vida es mi hermana menor, *FIRST_NAME*. *FIRST_NAME* tiene *AGE* años de edad, pero parece y actúa como si fuera muchacha de quince años. Se puede decir que es demasiado sabia. Desde que ella era pequeña, siempre fue muy audaz. Le encantaba hablar con quien sea, en la calle, en misa, en la escuela, donde fuera. El ser la menor de tres le dio una confianza y seguridad para hacer lo que ella quería sin temor. Me acuerdo como ella se trepaba en los árboles del parque, como mi mama le imploraba que se bajara de ahí y cómo nomás le daba riza a *FIRST_NAME*. Hasta la fecha ha sido la más atrevida de mis hermanos. Además de atrevida es demasiado cariñosa, especialmente con los bebés. No sé porque, pero todos los bebés la aman, y ella los ama también. No me sorprendería si ella tuviera muchos hijos cuando sea grande. Una de mis memorias favoritas de *FIRST_NAME* es cuando jugábamos Just Dance 2 en nuestro WII. Le echaba tantas ganas, imitando casi exactamente a los personajes del videojuego. Casi me ganaba. Si fuera por ella, jugaría ese juego día y noche sin parar. Su canción favorita era “Shake Shake (Señora)”. Daba mucha risa mirarla bailar esa canción, como su cabello corto se le metía a los ojos, como movía sus piernitas al ritmo de la música. Nomás de verla bailar le daban ganas a uno y luego empezábamos a bailar todos en familia. La adición de *FIRST_NAME* a nuestra familia fue una bendición enorme. Su llegada trajo tanta alegría y ruido a la casa. No puedo imaginar mi vida sin ella.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	PRON	_	_	12	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	las	el	DET	_	_	4	det	_	_
+4	personas	persona	NOUN	_	_	1	nmod	_	_
+5	mas	mas	ADV	_	_	6	advmod	_	_
+6	especiales	especial	ADJ	_	_	4	amod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	vida	vida	NOUN	_	_	4	nmod	_	_
+10	es	ser	AUX	_	_	12	cop	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	hermana	hermana	NOUN	_	_	0	ROOT	_	_
+13	menor	menor	ADJ	_	_	12	amod	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	appos	_	_
+16	.	.	PUNCT	_	_	12	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	nsubj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	edad	edad	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	parece	parecer	VERB	_	_	2	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	actúa	actuar	VERB	_	_	9	conj	_	_
+12	como	como	SCONJ	_	_	15	mark	_	_
+13	si	si	SCONJ	_	_	15	mark	_	_
+14	fuera	ser	AUX	_	_	15	cop	_	_
+15	muchacha	muchacha	NOUN	_	_	11	advcl	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	quince	quince	NUM	_	_	18	nummod	_	_
+18	años	año	NOUN	_	_	15	obl	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Se	él	PRON	_	_	3	expl:pass	_	_
+2	puede	poder	AUX	_	_	3	aux	_	_
+3	decir	decir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	demasiado	demasiado	ADV	_	_	7	advmod	_	_
+7	sabia	sabio	ADJ	_	_	3	csubj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Desde	desde	ADP	_	_	5	mark	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	ella	él	PRON	_	_	5	nsubj	_	_
+4	era	ser	AUX	_	_	5	cop	_	_
+5	pequeña	pequeño	ADJ	_	_	10	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	siempre	siempre	ADV	_	_	10	advmod	_	_
+8	fue	ser	AUX	_	_	10	cop	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	audaz	audaz	ADJ	_	_	0	ROOT	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	encantaba	encantar	VERB	_	_	0	ROOT	_	_
+3	hablar	hablar	VERB	_	_	2	csubj	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	quien	quien	PRON	_	_	3	ccomp	_	_
+6	sea	ser	AUX	_	_	5	cop	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	calle	calle	NOUN	_	_	3	obl	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	misa	misa	NOUN	_	_	3	obl	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	la	el	DET	_	_	17	det	_	_
+17	escuela	escuela	NOUN	_	_	3	obl	_	_
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	donde	donde	PRON	_	_	20	obl	_	_
+20	fuera	ser	AUX	_	_	17	acl	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	ser	ser	AUX	_	_	4	cop	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	menor	menor	ADJ	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	tres	tres	NUM	_	_	4	nmod	_	_
+7	le	él	PRON	_	_	8	obj	_	_
+8	dio	dar	VERB	_	_	4	conj	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	confianza	confianza	NOUN	_	_	8	obj	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	seguridad	seguridad	NOUN	_	_	10	conj	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	hacer	hacer	VERB	_	_	8	advcl	_	_
+15	lo	él	PRON	_	_	18	det	_	_
+16	que	que	PRON	_	_	18	obj	_	_
+17	ella	él	PRON	_	_	18	nsubj	_	_
+18	quería	querer	VERB	_	_	14	ccomp	_	_
+19	sin	sin	ADP	_	_	20	case	_	_
+20	temor	temor	NOUN	_	_	18	obl	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	expl:pv	_	_
+2	acuerdo	acuerdo	NOUN	_	_	0	ROOT	_	_
+3	como	como	SCONJ	_	_	6	mark	_	_
+4	ella	él	PRON	_	_	6	nsubj	_	_
+5	se	él	PRON	_	_	6	expl:pv	_	_
+6	trepaba	trepar	VERB	_	_	2	advcl	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	los	el	DET	_	_	9	det	_	_
+9	árboles	árbol	NOUN	_	_	6	obl	_	_
+10	del	del	ADP	_	_	11	case	_	_
+11	parque	parque	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	como	como	SCONJ	_	_	15	mark	_	_
+14	mi	mi	DET	_	_	15	det	_	_
+15	mama	mama	NOUN	_	_	17	nsubj	_	_
+16	le	él	PRON	_	_	17	iobj	_	_
+17	imploraba	implorar	VERB	_	_	2	advcl	_	_
+18	que	que	SCONJ	_	_	20	mark	_	_
+19	se	él	PRON	_	_	20	expl:pv	_	_
+20	bajara	bajar	VERB	_	_	17	ccomp	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	ahí	ahí	ADV	_	_	20	advmod	_	_
+23	y	y	CCONJ	_	_	27	cc	_	_
+24	cómo	cómo	PRON	_	_	27	obl	_	_
+25	nomás	nomás	ADV	_	_	27	advmod	_	_
+26	le	él	PRON	_	_	27	obj	_	_
+27	daba	dar	VERB	_	_	20	conj	_	_
+28	riza	riza	NOUN	_	_	27	obj	_	_
+29	a	a	ADP	_	_	30	case	_	_
+30	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	27	obj	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hasta	hasta	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	fecha	fecha	NOUN	_	_	8	obl	_	_
+4	ha	haber	AUX	_	_	8	aux	_	_
+5	sido	ser	AUX	_	_	8	cop	_	_
+6	la	el	DET	_	_	8	det	_	_
+7	más	más	ADV	_	_	8	advmod	_	_
+8	atrevida	atrevido	ADJ	_	_	0	ROOT	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mis	mi	DET	_	_	11	det	_	_
+11	hermanos	hermano	NOUN	_	_	8	obj	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Además	además	ADV	_	_	3	case	_	_
+2	de	de	ADP	_	_	1	fixed	_	_
+3	atrevida	atrevida	PROPN	_	_	6	obl	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	demasiado	demasiado	ADV	_	_	6	advmod	_	_
+6	cariñosa	cariñoso	ADJ	_	_	0	ROOT	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	especialmente	especialmente	ADV	_	_	6	advmod	_	_
+9	con	con	ADP	_	_	8	case	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	bebés	bebé	NOUN	_	_	8	nmod	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	sé	saber	VERB	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	2	mark	_	_
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	pero	pero	CCONJ	_	_	10	cc	_	_
+6	todos	todo	DET	_	_	7	det	_	_
+7	los	el	DET	_	_	8	det	_	_
+8	bebés	bebé	NOUN	_	_	10	nsubj	_	_
+9	la	él	PRON	_	_	10	obj	_	_
+10	aman	amar	VERB	_	_	2	conj	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	ella	él	PRON	_	_	15	nsubj	_	_
+14	los	el	DET	_	_	15	det	_	_
+15	ama	amar	VERB	_	_	10	conj	_	_
+16	también	también	ADV	_	_	15	advmod	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	sorprendería	sorprender	VERB	_	_	0	ROOT	_	_
+4	si	si	SCONJ	_	_	6	mark	_	_
+5	ella	él	PRON	_	_	6	nsubj	_	_
+6	tuviera	tener	VERB	_	_	3	csubj	_	_
+7	muchos	mucho	DET	_	_	8	det	_	_
+8	hijos	hijo	NOUN	_	_	6	obj	_	_
+9	cuando	cuando	SCONJ	_	_	11	mark	_	_
+10	sea	ser	AUX	_	_	11	cop	_	_
+11	grande	grande	ADJ	_	_	6	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Una	uno	PRON	_	_	8	nsubj	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	mis	mi	DET	_	_	4	det	_	_
+4	memorias	memoria	NOUN	_	_	1	nmod	_	_
+5	favoritas	favorito	ADJ	_	_	4	amod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	nmod	_	_
+8	es	ser	AUX	_	_	0	ROOT	_	_
+9	cuando	cuando	SCONJ	_	_	10	mark	_	_
+10	jugábamos	jugábar	VERB	_	_	8	advcl	_	_
+11	Just	Just	PROPN	_	_	10	nsubj	_	_
+12	Dance	Dance	PROPN	_	_	11	flat	_	_
+13	2	2	NUM	_	_	11	nummod	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	nuestro	nuestro	DET	_	_	16	det	_	_
+16	WII	WII	PROPN	_	_	10	obl	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Le	él	PRON	_	_	2	obj	_	_
+2	echaba	echar	VERB	_	_	0	ROOT	_	_
+3	tantas	tanto	DET	_	_	4	det	_	_
+4	ganas	gana	NOUN	_	_	2	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	imitando	imitar	VERB	_	_	2	advcl	_	_
+7	casi	casi	ADV	_	_	8	advmod	_	_
+8	exactamente	exactamente	ADV	_	_	6	advmod	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	personajes	personaje	NOUN	_	_	6	obj	_	_
+12	del	del	ADP	_	_	13	case	_	_
+13	videojuego	videojuego	NOUN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Casi	casi	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	obj	_	_
+3	ganaba	ganar	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Si	si	SCONJ	_	_	2	mark	_	_
+2	fuera	ser	AUX	_	_	6	advcl	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	ella	él	PRON	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	jugaría	jugar	VERB	_	_	0	ROOT	_	_
+7	ese	ese	DET	_	_	8	det	_	_
+8	juego	juego	NOUN	_	_	6	obj	_	_
+9	día	día	NOUN	_	_	8	appos	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	noche	noche	NOUN	_	_	9	conj	_	_
+12	sin	sin	ADP	_	_	13	mark	_	_
+13	parar	parar	VERB	_	_	6	advcl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	canción	canción	NOUN	_	_	6	nsubj	_	_
+3	favorita	favoritar	VERB	_	_	2	amod	_	_
+4	era	ser	AUX	_	_	6	cop	_	_
+5	“	“	PROPN	_	_	6	punct	_	_
+6	Shake	Shake	PROPN	_	_	0	ROOT	_	_
+7	Shake	Shake	PROPN	_	_	6	flat	_	_
+8	(	(	PUNCT	_	_	9	punct	_	_
+9	Señora	Señora	PROPN	_	_	6	flat	_	_
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	”	”	PUNCT	_	_	6	punct	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Daba	dar	VERB	_	_	0	ROOT	_	_
+2	mucha	mucho	DET	_	_	3	det	_	_
+3	risa	risa	NOUN	_	_	1	obj	_	_
+4	mirarla	mirar él	VERB	_	_	1	csubj	_	_
+5	bailar	bailar	VERB	_	_	4	xcomp	_	_
+6	esa	ese	DET	_	_	7	det	_	_
+7	canción	canción	NOUN	_	_	5	obj	_	_
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	como	como	SCONJ	_	_	11	mark	_	_
+10	su	su	DET	_	_	11	det	_	_
+11	cabello	cabello	NOUN	_	_	15	obl	_	_
+12	corto	corto	ADJ	_	_	11	amod	_	_
+13	se	él	PRON	_	_	15	expl:pass	_	_
+14	le	él	PRON	_	_	15	obj	_	_
+15	metía	meter	VERB	_	_	1	advcl	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	los	el	DET	_	_	18	det	_	_
+18	ojos	ojo	NOUN	_	_	15	obl	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	como	como	SCONJ	_	_	21	mark	_	_
+21	movía	mover	VERB	_	_	15	advcl	_	_
+22	sus	su	DET	_	_	23	det	_	_
+23	piernitas	piernita	NOUN	_	_	21	obj	_	_
+24	al	al	ADP	_	_	25	case	_	_
+25	ritmo	ritmo	NOUN	_	_	21	obl	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	el	DET	_	_	28	det	_	_
+28	música	música	NOUN	_	_	25	nmod	_	_
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Nomás	nomás	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	verla	ver él	VERB	_	_	1	advcl	_	_
+4	bailar	bailar	VERB	_	_	3	xcomp	_	_
+5	le	él	PRON	_	_	6	obj	_	_
+6	daban	dar	VERB	_	_	0	ROOT	_	_
+7	ganas	gana	NOUN	_	_	6	obj	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	uno	uno	PRON	_	_	6	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	luego	luego	ADV	_	_	12	advmod	_	_
+12	empezábamos	empezábar	VERB	_	_	6	conj	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	bailar	bailar	VERB	_	_	12	xcomp	_	_
+15	todos	todo	PRON	_	_	14	obj	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	familia	familia	NOUN	_	_	14	obl	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	adición	adición	NOUN	_	_	10	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nmod	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	nuestra	nuestro	DET	_	_	7	det	_	_
+7	familia	familia	NOUN	_	_	2	nmod	_	_
+8	fue	ser	AUX	_	_	10	cop	_	_
+9	una	uno	DET	_	_	10	det	_	_
+10	bendición	bendición	NOUN	_	_	0	ROOT	_	_
+11	enorme	enorme	ADJ	_	_	10	amod	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	llegada	llegada	NOUN	_	_	3	nsubj	_	_
+3	trajo	traer	VERB	_	_	0	ROOT	_	_
+4	tanta	tanto	DET	_	_	5	det	_	_
+5	alegría	alegría	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	ruido	ruido	NOUN	_	_	5	conj	_	_
+8	a	a	ADP	_	_	10	case	_	_
+9	la	el	DET	_	_	10	det	_	_
+10	casa	casa	NOUN	_	_	3	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	puedo	poder	AUX	_	_	3	aux	_	_
+3	imaginar	imaginar	VERB	_	_	0	ROOT	_	_
+4	mi	mi	DET	_	_	5	det	_	_
+5	vida	vida	NOUN	_	_	3	obj	_	_
+6	sin	sin	ADP	_	_	7	case	_	_
+7	ella	él	PRON	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+

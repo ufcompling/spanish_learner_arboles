@@ -1,0 +1,240 @@
+# Unnamed: 0 = 117
+# id = 169289
+# prompt = yourself
+# quarter = S20
+# course = SPA 1
+# age = 20
+# gender = Male
+# l1 language = Mandarin
+# other l1 language(s) = I did not choose "other".
+# language(s) used at home = Chinese (Mandarin)
+# language(s) studied = English. 12 years.
+# listening comprehension = 1.0
+# reading comprehension = 1.0
+# speaking ability = 1.0
+# writing ability = 1.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Hola! [Yo]{}<pr:su:pron> tengo *AGE* años. Mi cumpleaños es en *BIRTH_DATE*. [Yo]{}<pr:su:pron>  soy estudiante. Soy de *PLACE*. Me vive en *CITY*. Hablo Chino y Ingles. [Yo]{}<pr:su:pron>  estoy aprendiendo Español. Mi objetivo es dominar el español. Mi escuela secundaria es *PLACE* *PLACE* High School. Mi universidad es University of *UNIVERSITY*, *UNIVERSITY*. Es mi tercer año en la universidad y mi horario es muy completo. Tengo cuatro cursos: uno de matematica, uno de español y tres de informatica. Mi especialdad es la informática. Me gusta codificar. Pero la clase de informatica es mi preferida. Me gusta viajar y leer. Mi lugar favorito es la playa. Mi libro favorito es 1984. También me gusta jugar lego.  Me gusta []{los}<ab:det:art:def> [loro]{loros}<na:noun>, []{los}<ab:det:art:def> [pato]{patos}<na:noun>, []{los}<ab:det:art:def> [reno]{renos}<na:noun> y []{los}<ab:det:art:def> [oso]{osos}<na:noun> panda. No me gusta []{las}<ab:det:art:def> [rana]{ranas}<na:noun>, []{los}<ab:det:art:def> [raton]{ratones}<na:noun>, []{los}<ab:det:art:def> [gorila]{gorilas}<na:noun> y []{las}<ab:det:art:def> [serpiente]{serpientes}<na:noun>. Me gustan los dias lluviosos. [Yo]{}<pr:su:pron>  soy activo, comico y inteligente. [Yo]{}<pr:su:pron>  estoy contento.  [Yo]{}<pr:su:pron>  tengo hambre. Me gusta el chocolate y pasta.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Hola! [Yo]{}<pr:su:pron> tengo *AGE* años. Mi cumpleaños es en *BIRTH_DATE*. [Yo]{}<pr:su:pron> soy estudiante. Soy de *PLACE*. Me [vive]{vivo}<fs:st:pn> en *CITY*. Hablo Chino y Ingles. [Yo]{}<pr:su:pron> estoy aprendiendo Español. Mi objetivo es dominar el español. Mi escuela secundaria [es]{fue}<fs:st:t> *PLACE* *PLACE* High School. Mi universidad es University of *UNIVERSITY*, *UNIVERSITY*. Es mi tercer año en la universidad y mi horario es muy completo. Tengo cuatro cursos: uno de [matematica]{matemáticas}<in:noun>, uno de español y tres de informatica. Mi especialdad es la informática. Me gusta codificar. Pero la clase de informatica es mi preferida. Me gusta viajar y leer. Mi lugar favorito es la playa. Mi libro favorito es 1984. También me gusta jugar lego.  Me gusta []{el}<ab:det:art:def> loro, []{el}<ab:det:art:def> pato, []{el}<ab:det:art:def> reno y []{el}<ab:det:art:def> oso panda. No me gusta []{la}<ab:det:art:def> rana, []{el}<ab:det:art:def> raton, []{el}<ab:det:art:def> gorila y []{la}<ab:det:art:def> serpiente. Me gustan los dias lluviosos. [Yo]{}<pr:su:pron> soy activo, comico y inteligente. [Yo]{}<pr:su:pron> estoy contento.  [Yo]{}<pr:su:pron> tengo hambre. Me gusta el chocolate y []{la}<ab:det:art:def> pasta.
+# verbs annotation ann2 = nan
+# corrected1 = ¡Hola! Tengo *AGE* años. Mi cumpleaños es en *BIRTH_DATE*. Soy estudiante. Soy de *PLACE*. Vivo en *CITY*. Hablo chino e inglés. Estoy aprendiendo español. Mi objetivo es dominar el español. Mi escuela secundaria es *PLACE* *PLACE* High School. Mi universidad es University of *UNIVERSITY*, *UNIVERSITY*. Es mi tercer año en la universidad y mi horario es muy completo. Tengo cuatro cursos: uno de matemáticas, uno de español y tres de informática. Mi especialidad es la informática. Me gusta codificar. Pero la clase de informática es mi preferida. Me gusta viajar y leer. Mi lugar favorito es la playa. Mi libro favorito es 1984. También me gusta jugar a lego.  Me gustan los loros, los patos, los renos y los osos panda. No me gustan las ranas, los ratones, los gorilas ni las serpientes. Me gustan los días lluviosos. Soy activo, cómico e inteligente. Estoy contento.  Tengo hambre. Me gusta el chocolate y la pasta.
+# corrected2 = nan
+# text = Hola! Yo tengo *AGE* años. Mi cumpleaños es en *BIRTH_DATE*. Yo soy estudiante. Soy de *PLACE*. Me vive en *CITY*. Hablo Chino y Ingles. Yo estoy aprendiendo Español. Mi objetivo es dominar el español. Mi escuela secundaria es *PLACE* *PLACE* High School. Mi universidad es University of *UNIVERSITY*, *UNIVERSITY*. Es mi tercer año en la universidad y mi horario es muy completo. Tengo cuatro cursos: uno de matematica, uno de español y tres de informatica. Mi especialdad es la informática. Me gusta codificar. Pero la clase de informatica es mi preferida. Me gusta viajar y leer. Mi lugar favorito es la playa. Mi libro favorito es 1984. También me gusta jugar lego. Me gusta loro, pato, reno y oso panda. No me gusta rana, raton, gorila y serpiente. Me gustan los dias lluviosos. Yo soy activo, comico y inteligente. Yo estoy contento. Yo tengo hambre. Me gusta el chocolate y pasta.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Hola	Hola	PROPN	_	_	4	nsubj	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	Yo	yo	PRON	_	_	4	nsubj	_	_
+4	tengo	tener	VERB	_	_	0	ROOT	_	_
+5	*AGE*	AGE	PROPN	_	_	4	obj	_	_
+6	años	año	NOUN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	estudiante	estudiante	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Soy	ser	AUX	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	*PLACE*	PLACE	PROPN	_	_	1	nmod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Me	yo	PRON	_	_	2	obj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Hablo	Hablo	PROPN	_	_	0	ROOT	_	_
+2	Chino	Chino	PROPN	_	_	1	flat	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	Ingles	Ingles	PROPN	_	_	1	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	aux	_	_
+3	aprendiendo	aprender	VERB	_	_	0	ROOT	_	_
+4	Español	Español	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	objetivo	objetivo	NOUN	_	_	3	nsubj	_	_
+3	es	ser	AUX	_	_	0	ROOT	_	_
+4	dominar	dominar	VERB	_	_	3	ccomp	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	español	español	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	escuela	escuela	NOUN	_	_	5	nsubj	_	_
+3	secundaria	secundario	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	5	cop	_	_
+5	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+6	*PLACE*	PLACE	PROPN	_	_	5	flat	_	_
+7	High	High	PROPN	_	_	5	appos	_	_
+8	School	School	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	universidad	universidad	PROPN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	University	University	PROPN	_	_	0	ROOT	_	_
+5	of	of	PROPN	_	_	4	flat	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	flat	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	conj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Es	ser	AUX	_	_	4	cop	_	_
+2	mi	mi	DET	_	_	4	det	_	_
+3	tercer	tercer	ADJ	_	_	4	amod	_	_
+4	año	año	NOUN	_	_	13	obl	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	universidad	universidad	NOUN	_	_	4	nmod	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	mi	mi	DET	_	_	10	det	_	_
+10	horario	horario	NOUN	_	_	7	conj	_	_
+11	es	ser	AUX	_	_	13	cop	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	completo	completo	ADJ	_	_	0	ROOT	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	cuatro	cuatro	NUM	_	_	3	nummod	_	_
+3	cursos	curso	NOUN	_	_	1	obj	_	_
+4	:	:	PUNCT	_	_	5	punct	_	_
+5	uno	uno	PRON	_	_	3	appos	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	matematica	matematica	PROPN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	uno	uno	PRON	_	_	5	appos	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	español	español	NOUN	_	_	9	nmod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	tres	tres	NUM	_	_	5	conj	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	informatica	informatica	PROPN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	especialdad	especialdad	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	informática	informática	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	codificar	codificar	VERB	_	_	2	csubj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	8	advmod	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	clase	clase	NOUN	_	_	8	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	informatica	informatica	NOUN	_	_	3	nmod	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	preferida	preferido	ADJ	_	_	0	ROOT	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	csubj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	leer	leer	VERB	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	lugar	lugar	NOUN	_	_	6	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	6	cop	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	playa	playa	NOUN	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	libro	libro	NOUN	_	_	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	_	2	amod	_	_
+4	es	ser	AUX	_	_	2	cop	_	_
+5	1984	1984	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	jugar	jugar	VERB	_	_	3	csubj	_	_
+5	lego	lego	ADJ	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	loro	loro	PROPN	_	_	2	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	pato	pato	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	reno	reno	ADJ	_	_	3	conj	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	oso	oso	ADJ	_	_	3	conj	_	_
+10	panda	panda	NOUN	_	_	3	flat	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	rana	rán	ADJ	_	_	3	nsubj	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	raton	raton	PROPN	_	_	3	nsubj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	gorila	gorila	NOUN	_	_	6	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	serpiente	serpiente	ADV	_	_	6	conj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gustan	gustar	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	dias	dia	NOUN	_	_	2	nsubj	_	_
+5	lluviosos	lluvioso	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	soy	ser	AUX	_	_	3	cop	_	_
+3	activo	activo	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	comico	comico	ADJ	_	_	3	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	inteligente	inteligente	ADJ	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	estoy	estar	AUX	_	_	3	cop	_	_
+3	contento	contento	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	hambre	hambre	NOUN	_	_	2	obj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	chocolate	chocolate	NOUN	_	_	2	nsubj	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	pasta	pasta	NOUN	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+

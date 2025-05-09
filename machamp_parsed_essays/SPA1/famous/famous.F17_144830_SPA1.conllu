@@ -1,0 +1,52 @@
+# Unnamed: 0 = 145
+# id = 144830
+# prompt = famous
+# quarter = F17
+# course = SPA 1
+# age = diecineuve
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = Spanish 2 years of high school
+# listening comprehension = 3.0
+# reading comprehension = 4.0
+# speaking ability = 1.0
+# writing ability = 4.0
+# study abroad = No
+# a personal annotator1 = Usher es un cantante. El canta r&b y hip hop. Él comenzó a cantar cuando era más joven.
+# a personal annotator2 = Usher es un cantante. El canta r&b y hip hop. Él comenzó a cantar cuando era más joven.
+# gender-number annotator1 = Usher es un cantante. El canta r&b y hip hop. Él comenzó a cantar cuando era más joven.
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Usher es un cantante. El canta r&b y hip hop. Él comenzó a cantar cuando era más joven.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Usher	Usher	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	cantante	cantante	NOUN	_	Number=Sing	0	root	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	El	el	PRON	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
+2	canta	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	r&b	r&b	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	hip	hip	NOUN	_	_	3	conj	_	_
+6	hop	hop	NOUN	_	_	5	compound	_	_
+7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	comenzó	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	cantar	cantar	VERB	_	VerbForm=Inf	2	xcomp	_	_
+5	cuando	cuando	SCONJ	_	_	8	mark	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
+8	joven	joven	ADJ	_	Number=Sing	4	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

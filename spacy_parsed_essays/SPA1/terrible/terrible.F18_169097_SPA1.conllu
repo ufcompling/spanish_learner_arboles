@@ -1,0 +1,233 @@
+# Unnamed: 0 = 113
+# id = 169097
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = -
+# language(s) used at home = -
+# language(s) studied = Maori for 5 years
+# listening comprehension = nan
+# reading comprehension = nan
+# speaking ability = nan
+# writing ability = nan
+# study abroad = nan
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Tengo un perro se llama *FIRST_NAME*. Está muy contento. Tiene []{la}<ab:det:art:def> piel [moreno]{morena}<gat:adj>. [Él]{}<pr:det:art:def> es joven. Es gordo y guapo. Tiene dos años. [El]{}<pr:det:art:def> vive con un estudiante en *CITY* *STATE*. Le gusta correr en el parque. No le gusta dormir. Los lunes de la mañana hace un ducharse. Los sábados va a la playa. El perro tiene un [grande corazón]{corazón grande}<col:adj>. Luego un día va al veterinario. Está muy enfermo. El estudiante esta preocupado y nervioso porque el perro no come. El perro [es]{está]<conf:v:seta> muy delgado. [Él]{}<pr:det:art:def> es calvo y feo. [Él]{}<pr:det:art:def> es viejo tiene viente años. No hay piel [moreno]{morena}<gat:adj>. No le gusta correr en el parque por más tiempo. Le gusta dormir mucho. [Él]{}<pr:det:art:def> está muy enfermo. Al final el estudiante sabe que el perro se está muriendo. Después de clase el estudiante busca el perro pero él está muerto. El estudiante está triste por *FIRST_NAME*. Luego va compra un nuevo perro.
+# updated annotation ann2 = ﻿Tengo un perro se llama *FIRST_NAME*. Está muy contento. Tiene piel [moreno]{morena}<ga:adj>. [Él]{}<pr:su:pron> es joven. Es gordo y guapo. Tiene dos años. [El]{}<pr:su:pron> vive con un estudiante en *CITY* *STATE*. Le gusta correr en el parque. No le gusta dormir. Los lunes de la mañana hace un ducharse. Los sábados va a la playa. El perro tiene un grande corazón. Luego un día va al veterinario. Está muy enfermo. El estudiante esta preocupado y nervioso porque el perro no come. El perro es muy delgado. [Él]{}<pr:su:pron> es calvo y feo. [Él]{}<pr:su:pron> es viejo tiene viente años. No hay piel [moreno]{morena}<ga:adj>. No le gusta correr en el parque por más tiempo. Le gusta dormir mucho. [Él]{}<pr:su:pron> está muy enfermo. Al final el estudiante sabe que el perro se está muriendo. Después de clase el estudiante busca el perro pero [él]{}<pr:su:pron> está muerto. El estudiante está triste por *FIRST_NAME*. Luego va compra un nuevo perro.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Tengo un perro que se llama *FIRST_NAME*. Está muy contento. Tiene la piel morena. Es joven. Es gordo y guapo. Tiene dos años. Vive con un estudiante en *CITY* *STATE*. Le gusta correr en el parque. No le gusta dormir. Los lunes por la mañana se ducha. Los sábados va a la playa. El perro tiene un corazón grande. Luego un día va al veterinario. Está muy enfermo. El estudiante está preocupado y nervioso porque el perro no come. El perro está muy delgado. Es calvo y feo. Es viejo tiene veinte años. No hay piel morena. No le gusta correr en el parque por más tiempo. Le gusta dormir mucho. Está muy enfermo. Al final el estudiante sabe que el perro se está muriendo. Después de clase el estudiante busca al perro pero él está muerto. El estudiante está triste por *FIRST_NAME*. Luego va a comprar un nuevo perro.
+# corrected2 = nan
+# text = Tengo un perro se llama *FIRST_NAME*. Está muy contento. Tiene piel moreno. Él es joven. Es gordo y guapo. Tiene dos años. El vive con un estudiante en *CITY* *STATE*. Le gusta correr en el parque. No le gusta dormir. Los lunes de la mañana hace un ducharse. Los sábados va a la playa. El perro tiene un grande corazón. Luego un día va al veterinario. Está muy enfermo. El estudiante esta preocupado y nervioso porque el perro no come. El perro es muy delgado. Él es calvo y feo. Él es viejo tiene viente años. No hay piel moreno. No le gusta correr en el parque por más tiempo. Le gusta dormir mucho. Él está muy enfermo. Al final el estudiante sabe que el perro se está muriendo. Después de clase el estudiante busca el perro pero él está muerto. El estudiante está triste por *FIRST_NAME*. Luego va compra un nuevo perro.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Tengo	tener	VERB	_	_	5	csubj	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	perro	perro	NOUN	_	_	1	obj	_	_
+4	se	él	PRON	_	_	5	expl:pv	_	_
+5	llama	llamar	VERB	_	_	0	ROOT	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Está	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	contento	contento	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	piel	piel	NOUN	_	_	1	obj	_	_
+3	moreno	moreno	ADJ	_	_	2	amod	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	joven	joven	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Es	ser	AUX	_	_	2	cop	_	_
+2	gordo	gordo	ADJ	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	guapo	guapo	ADJ	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	estudiante	estudiante	NOUN	_	_	2	nmod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	5	nmod	_	_
+8	*STATE*	STATE	PROPN	_	_	7	flat	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	correr	correr	VERB	_	_	2	csubj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	parque	parque	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	dormir	dormir	VERB	_	_	3	csubj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	lunes	lunes	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	mañana	mañana	NOUN	_	_	2	nmod	_	_
+6	hace	hacer	VERB	_	_	0	ROOT	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	ducharse	duchar él	VERB	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	sábados	sábado	NOUN	_	_	3	nsubj	_	_
+3	va	ir	VERB	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	playa	playa	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	grande	grande	ADJ	_	_	6	amod	_	_
+6	corazón	corazón	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Luego	luego	ADV	_	_	4	advmod	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	día	día	NOUN	_	_	4	obl	_	_
+4	va	ir	VERB	_	_	0	ROOT	_	_
+5	al	al	ADP	_	_	6	case	_	_
+6	veterinario	veterinario	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Está	estar	AUX	_	_	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	enfermo	enfermo	NOUN	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	estudiante	estudiante	NOUN	_	_	11	nsubj	_	_
+3	esta	este	DET	_	_	4	det	_	_
+4	preocupado	preocupado	ADJ	_	_	2	appos	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	nervioso	nervioso	ADJ	_	_	4	conj	_	_
+7	porque	porque	SCONJ	_	_	11	mark	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	perro	perro	NOUN	_	_	11	nsubj	_	_
+10	no	no	ADV	_	_	11	advmod	_	_
+11	come	comar	VERB	_	_	0	ROOT	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	perro	perro	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	delgado	delgado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	calvo	calvo	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	feo	feo	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Él	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	viejo	viejo	ADJ	_	_	4	csubj	_	_
+4	tiene	tener	VERB	_	_	0	ROOT	_	_
+5	viente	viente	ADV	_	_	6	amod	_	_
+6	años	año	NOUN	_	_	4	nsubj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	hay	haber	AUX	_	_	0	ROOT	_	_
+3	piel	piel	NOUN	_	_	2	obj	_	_
+4	moreno	moreno	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	3	advmod	_	_
+2	le	él	PRON	_	_	3	iobj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	correr	correr	VERB	_	_	3	csubj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	el	el	DET	_	_	7	det	_	_
+7	parque	parque	NOUN	_	_	4	obl	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	más	más	ADV	_	_	10	advmod	_	_
+10	tiempo	tiempo	NOUN	_	_	4	obl	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Le	él	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	dormir	dormir	VERB	_	_	2	csubj	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Él	él	PRON	_	_	4	nsubj	_	_
+2	está	estar	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	enfermo	enfermo	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Al	al	ADP	_	_	5	case	_	_
+2	final	final	NOUN	_	_	1	fixed	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	estudiante	estudiante	NOUN	_	_	5	nsubj	_	_
+5	sabe	saber	VERB	_	_	0	ROOT	_	_
+6	que	que	SCONJ	_	_	11	mark	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	perro	perro	NOUN	_	_	11	nsubj	_	_
+9	se	él	PRON	_	_	11	expl:pv	_	_
+10	está	estar	AUX	_	_	11	aux	_	_
+11	muriendo	morir	VERB	_	_	5	ccomp	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Después	después	ADV	_	_	6	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	_	1	obl	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	estudiante	estudiante	NOUN	_	_	6	nsubj	_	_
+6	busca	buscar	VERB	_	_	0	ROOT	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	perro	perro	NOUN	_	_	6	obj	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	él	él	PRON	_	_	12	nsubj	_	_
+11	está	estar	AUX	_	_	12	cop	_	_
+12	muerto	muerto	ADJ	_	_	6	conj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	estudiante	estudiante	NOUN	_	_	4	nsubj	_	_
+3	está	estar	AUX	_	_	4	cop	_	_
+4	triste	triste	ADJ	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Luego	luego	ADV	_	_	2	advmod	_	_
+2	va	ir	VERB	_	_	3	csubj	_	_
+3	compra	comprar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	nuevo	nuevo	ADJ	_	_	6	amod	_	_
+6	perro	perro	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+

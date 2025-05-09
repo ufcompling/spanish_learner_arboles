@@ -1,0 +1,257 @@
+# Unnamed: 0 = 121
+# id = 228098
+# prompt = beautiful
+# quarter = F20
+# course = SPA 1
+# age = 19
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 2
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 en la noche, [yo]{}<pr:su:pron> cenar. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa!  Estoy muy emocionada [para]{por}<conf:prep:popa> ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y [yo]{}<pr:su:pron> digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! [Yo]{}<pr:su:pron>digo, “entrar.” Ella va a la cocina, y yo desayuno.  Ofrezco de juga a *FIRST_NAME*, y [ella]{}<pr:su:pron> bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase.  Después de clase, veo algo [hermosa]{hermoso}<ga:adj>. ¡Hay mariposas por todas partes!
+# updated annotation ann2 = nan
+# verbs annotation ann1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, [pensado]{pensando}<fs:st:t> en la mariposa. A las 20:00 en la noche, [yo]{}<pr:su:pron> [cenar]{ceno}<fs:st:t>. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa!  Estoy muy emocionada [para]{por}<conf:prep:popa> ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y [yo]{}<pr:su:pron> digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! [Yo]{}<pr:su:pron> digo, “[entrar]{entra}<fs:st:t>.” Ella va a la cocina, y yo desayuno.  Ofrezco de juga a *FIRST_NAME*, y ella bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase.  Después de clase, veo algo [hermosa]{hermoso}<ga:adj>. ¡Hay mariposas por todas partes!
+# verbs annotation ann2 = nan
+# corrected1 = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 de la noche, ceno. Lavo los platos, y camino a mi habitación. Abro la ventana, y ¡entra la mariposa!  Estoy muy emocionada por ver a la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*.  *FIRST_NAME* vuela por la ventana, y digo “adiós.” Me voy a la cama, pensando en mariposas.  ¡A la mañana, *FIRST_NAME* está en la ventana! Digo, “entra.” Ella va a la cocina, y yo desayuno.  Le ofrezco jugo a *FIRST_NAME*, y bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue.  Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no está en el salón de clase.  Después de clase, veo algo hermoso. ¡Hay mariposas por todas partes!
+# corrected2 = nan
+# text = Camino por el campus, y veo una mariposa. La mariposa es grande, y es azul y negra. Es muy hermosa. Camino en casa, pensado en la mariposa. A las 20:00 en la noche, yo cenar. Lavo los platos, y camino a mi habitación. Abro la ventana, y entra la mariposa! Estoy muy emocionada para ver la mariposa. Ofrezco mi vaso de jugo a la mariposa, y ella bebe el jugo. Decido llamarla *FIRST_NAME*. *FIRST_NAME* vuela por la ventana, y yo digo “adiós.” Me voy a la cama, pensando en mariposas. ¡A la mañana, *FIRST_NAME* está en la ventana! Yo digo, “entrar.” Ella va a la cocina, y yo desayuno. Ofrezco de juga a *FIRST_NAME*, y ella bebe. Camino a clase, y *FIRST_NAME* me sigue. Entro en el salón de clase, pero *FIRST_NAME* no me sigue. Durante la clase, pienso en *FIRST_NAME* la mariposa. Estoy triste porque no ella en el salón de clase. Después de clase, veo algo hermosa. ¡Hay mariposas por todas partes!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Camino	caminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	por	por	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	campus	campus	NOUN	_	Gender=Masc	1	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mariposa	mariposa	NOUN	_	Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	grande	grande	ADJ	_	Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	azul	azul	ADJ	_	Number=Sing	4	conj	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	negra	negro	ADJ	_	Gender=Fem|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	muy	mucho	ADV	_	_	3	advmod	_	_
+3	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Camino	camino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+5	pensado	pensado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	1	amod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	20:00	20:00	NOUN	_	AdvType=Tim	9	obl	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
+9	cenar	cenar	VERB	_	VerbForm=Inf	0	root	_	_
+10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+
+1	Lavo	lavar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	platos	plato	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	camino	camino	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Abro	abrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	entra	entrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
+10	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	emocionada	emocionado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	advcl	_	_
+13	para	para	ADP	_	_	14	mark	_	_
+14	ver	ver	VERB	_	VerbForm=Inf	12	advcl	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Ofrezco	ofrecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	vaso	vaso	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	jugo	jugo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	bebe	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	jugo	jugo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Decido	decer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	llamarla	llamar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	*FIRST_NAME*	*first_name*	PUNCT	_	_	2	punct	_	_
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	*FIRST_NAME*	*first_name*	SYM	_	_	2	nsubj	_	_
+2	vuela	volar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	digo	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	“	“	PUNCT	_	PunctType=Quot	9	punct	_	_
+11	adiós	adiós	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl	_	_
+3	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cama	cama	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+8	pensando	pensar	VERB	_	VerbForm=Ger	3	advcl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	mariposas	mariposa	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	4	punct	_	_
+2	A	a	ADP	_	_	4	case	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	*FIRST_NAME*	*first_name*	PUNCT	_	_	7	nsubj	_	_
+7	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+8	en	en	ADP	_	_	10	case	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ventana	ventana	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+11	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	7	punct	_	_
+12	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	digo	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+15	“	“	PUNCT	_	PunctType=Quot	16	punct	_	_
+16	entrar	entrar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+17	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+8	y	y	CCONJ	_	_	10	cc	_	_
+9	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	desayuno	desayunar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Ofrezco	ofrecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	juga	juga	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	*FIRST_NAME*	*first_name*	PUNCT	_	_	1	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	bebe	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Camino	camino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+4	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	*FIRST_NAME*	*first_name*	PROPN	_	_	8	nsubj	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	sigue	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Entro	entrar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	_	_	4	case	_	_
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	salón	salón	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	clase	clase	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+8	pero	pero	CCONJ	_	_	12	cc	_	_
+9	*FIRST_NAME*	*first_name*	PUNCT	_	_	12	nsubj	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obl	_	_
+12	sigue	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+5	pienso	pensar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	*FIRST_NAME*	*first_name*	PUNCT	_	_	5	punct	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mariposa	mariposa	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	triste	triste	ADJ	_	Number=Sing	0	root	_	_
+3	porque	porque	SCONJ	_	_	5	mark	_	_
+4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
+5	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	advcl	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	salón	salón	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	clase	clase	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Después	después	ADV	_	_	5	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+5	veo	ver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	algo	algo	PRON	_	Number=Sing|PronType=Ind	5	obj	_	_
+7	hermosa	hermoso	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	2	punct	_	_
+2	Hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mariposas	mariposa	NOUN	_	Number=Plur	2	obj	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+6	partes	parte	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
+7	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
+

@@ -1,0 +1,191 @@
+# Unnamed: 0 = 12
+# id = 204489
+# prompt = terrible
+# quarter = F18
+# course = SPA 1
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Mi mama siempre me habla sobre el tiempo su hermana [vomitado]{vomitó}<fs:st:t> en su nueva novio en [sus]{su}<na:det> primera fecha. El estaba a [un]{una}<ga:det>> cena familia con mi tia y ellos [estan]{estaban}<fs:st:t> riendo porque mi abuelo estaba diciendo [un]{una}<gat:det> historia<gat:noun> [divertido]{divertida}<gat:adj> sobre cuando [el]{}<pr:su:pron> [estaba]{era}<conf:v:seta> joven en []{la}<ab:det:art:def> escuela y [hecho]{hizo}<fs:st:t> [un]{una}<gat:det> [falso]{falsa}<gat:adj> cartilla<gat:noun> escolar a dar a su madre pero cuando el olvido [un]{una}<gat:det> [ultimo]{última}<gat:adj> carta<gat:noun>, su madre vio sus grados falsos y [toma]{tomó}<fs:st:t> eso a la escuela. Cuando los maestros [vio]{vieron}<fs:st:pn> los grados [ellos]{}<pr.su.pron> pensamiento esos eran los grados correctos y [cambiado]{cambiaron}<fs:st:t> todos los [mal]{malos}<na:adj> grados. Cuando ella estaba [tomado]{tomando}<fs:st:t> un bocado grande, mi abuelo [terminar]{terminó}<fs:st:t> su historia y mi tia estaba riendo tanto con comida en su boca ella [vomitado]{vomitó}<fs:st:t> en [la]{el}<ga:det> regazo de su novio. [Ese]{Esa}<ga:det> historia mi mama se [hablas]{cuenta}<fs:st:t> es una historia terrible porque ella [lo]{la}<ga:pron> dice con muchos detalles y eso simepre me hace sentir disgustado.
+# updated annotation ann2 = Mi mama siempre me habla sobre el tiempo su hermana vomitado [vomitado]{vomitó}<fs:st:t> en su nueva [nueva]{nuevo}<ga:det> novio en sus [sus]{su}<na:det> primera fecha. El estaba a un [un]{una}<ga:det> cena familia con mi tia y ellos están [están]{estaban}<fs:st:t> riendo porque mi abuelo estaba diciendo un [un]{una}<gat:det> historia divertido [divertido]{divertida}<gat:adj> sobre cuando el estaba [estaba]{era}<conf:v:seta> joven en []{la}<ab:det:art:det> escuela y hecho [hecho]{hizo}<fs:st:t> un [un]{una}<gat:det> falso [falso]{falsa}<gat:adj> cartilla escolar [falso cartilla escolar]{carticalla escolar falsa}<col:adj> a dar a su madre pero cuando el olvido un [un]{una}<gat:det> ultimo [último]{última}<gat:det> carta, su madre vio sus grados falsos y toma [toma]{llevó}<fs:st:t> eso a la escuela. Cuando los maestros vio [vio]{vieron}<fs:st:pn> los grados ellos pensamiento esos eran los grados correctos y cambiado [cambiado]{cambiaron}<fs:st:t> todos los mal grados. Cuando ella estaba tomado un bocado grande, mi abuelo terminar [terminar]{terminó}<fs:st:t> su historia y mi tia estaba riendo tanto con comida en su boca ella vomitado [vomitado]{vomitó}<fs:st:t> en la [la]{el}<ga:det> regazo de su novio. Ese [ese]{esta}<ga:det> historia mi mama se hablas [hablas]{cuenta}<fs:st:pn> es una historia terrible porque ella lo dice con muchos detalles y eso simepre me hace sentir disgustado [disgustado]{disgustada}<gat:adj>.
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = Mi mamá siempre me habla sobre el momento en el que su hermana vomitó sobre su nuevo novio en su primera cita. Él estaba en una cena familiar con mi tía y ellos estaban riéndose porque mi abuelo estaba contando una historia divertida sobre cuando era joven en la escuela e hizo una cartilla escolar falsa para dar a su madre, pero cuando se olvidó una última carta, su madre vio sus notas falsas y llevó eso a la escuela. Cuando los maestros vieron las notas ellos pensaron que esas eran las notas correctas y cambiaron todas las malas notas. Cuando ella estaba tomado un bocado grande, mi abuelo terminó su historia y mi tía se estaba riendo tanto con comida en la boca que ella vomitó en el regazo de su novio. Esa historia que mi mamá cuenta es una historia terrible porque ella la cuenta con muchos detalles y eso siempre me hace sentir disgustado.
+# corrected2 = nan
+# text = Mi mama siempre me habla sobre el tiempo su hermana vomitado en su nueva novio en sus primera fecha. El estaba a un cena familia con mi tia y ellos estan riendo porque mi abuelo estaba diciendo un historia divertido sobre cuando el estaba joven en escuela y hecho un falso cartilla escolar a dar a su madre pero cuando el olvido un ultimo carta, su madre vio sus grados falsos y toma eso a la escuela. Cuando los maestros vio los grados ellos pensamiento esos eran los grados correctos y cambiado todos los mal grados. Cuando ella estaba tomado un bocado grande, mi abuelo terminar su historia y mi tia estaba riendo tanto con comida en su boca ella vomitado en la regazo de su novio. Ese historia mi mama se hablas es una historia terrible porque ella lo dice con muchos detalles y eso simepre me hace sentir disgustado.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mama	mama	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	siempre	siempre	ADV	_	_	5	advmod	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	habla	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sobre	sobre	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+11	vomitado	vomitado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	amod	_	_
+12	en	en	ADP	_	_	15	case	_	_
+13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
+14	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+15	novio	novio	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+16	en	en	ADP	_	_	19	case	_	_
+17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
+18	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	19	amod	_	_
+19	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+20	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
+2	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cena	cena	NOUN	_	_	2	obl	_	_
+6	familia	familia	NOUN	_	_	5	compound	_	_
+7	con	con	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	tia	tia	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+12	estan	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	riendo	rir	VERB	_	VerbForm=Ger	12	xcomp	_	_
+14	porque	porque	SCONJ	_	_	18	mark	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+17	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	diciendo	decir	VERB	_	VerbForm=Ger	2	advcl	_	_
+19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	historia	historia	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
+21	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	20	amod	_	_
+22	sobre	sobre	ADP	_	_	26	mark	_	_
+23	cuando	cuando	SCONJ	_	_	26	mark	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	nsubj	_	_
+25	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
+26	joven	joven	ADJ	_	Number=Sing	20	acl	_	_
+27	en	en	ADP	_	_	28	case	_	_
+28	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_
+29	y	y	CCONJ	_	_	30	cc	_	_
+30	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	conj	_	_
+31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+32	falso	falso	ADJ	_	Gender=Masc|Number=Sing	33	amod	_	_
+33	cartilla	cartilla	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	_
+34	escolar	escolar	ADJ	_	Number=Sing	33	amod	_	_
+35	a	a	ADP	_	_	36	mark	_	_
+36	dar	dar	VERB	_	VerbForm=Inf	30	advcl	_	_
+37	a	a	ADP	_	_	39	case	_	_
+38	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	39	det	_	_
+39	madre	madre	NOUN	_	Gender=Fem|Number=Sing	36	obl	_	_
+40	pero	pero	CCONJ	_	_	50	cc	_	_
+41	cuando	cuando	SCONJ	_	_	43	mark	_	_
+42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	olvido	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	50	advcl	_	_
+44	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
+45	ultimo	ultimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	46	amod	_	_
+46	carta	carta	NOUN	_	Gender=Fem|Number=Sing	43	obj	_	_
+47	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
+48	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	49	det	_	_
+49	madre	madre	NOUN	_	Gender=Fem|Number=Sing	50	nsubj	_	_
+50	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+51	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	_
+52	grados	grado	NOUN	_	Gender=Masc|Number=Plur	50	obj	_	_
+53	falsos	falso	ADJ	_	Gender=Masc|Number=Plur	52	amod	_	_
+54	y	y	CCONJ	_	_	55	cc	_	_
+55	toma	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	conj	_	_
+56	eso	ese	PRON	_	Number=Sing|PronType=Dem	55	obj	_	_
+57	a	a	ADP	_	_	59	case	_	_
+58	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	_
+59	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	55	obl	_	_
+60	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	maestros	maestro	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	grados	grado	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+7	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	appos	_	_
+8	pensamiento	pensamiento	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	_
+9	esos	ese	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
+11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	grados	grado	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+13	correctos	correcto	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	cambiado	cambiar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+16	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	17	det	_	_
+17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	mal	mal	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	_
+19	grados	grado	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+20	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	4	mark	_	_
+2	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	tomado	tomado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bocado	bocado	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	grande	grande	ADJ	_	Number=Sing	6	amod	_	_
+8	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	abuelo	abuelo	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	terminar	terminar	VERB	_	VerbForm=Inf	4	advcl	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	historia	historia	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	y	y	CCONJ	_	_	18	cc	_	_
+15	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+16	tia	tia	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+17	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	_
+18	riendo	rer	VERB	_	VerbForm=Ger	11	conj	_	_
+19	tanto	tanto	ADV	_	_	18	advmod	_	_
+20	con	con	ADP	_	_	21	case	_	_
+21	comida	comida	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+22	en	en	ADP	_	_	24	case	_	_
+23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+24	boca	boca	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+25	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+26	vomitado	vomitado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	25	amod	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	regazo	regazo	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	_
+30	de	de	ADP	_	_	32	case	_	_
+31	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
+32	novio	novio	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	_
+33	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	historia	historia	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	mama	mama	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+5	se	él	PRON	_	Case=Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl	_	_
+6	hablas	hablar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	appos	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	historia	historia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	terrible	terrible	ADJ	_	Number=Sing	9	amod	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
+14	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	17	det	_	_
+17	detalles	detalle	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+18	y	y	CCONJ	_	_	22	cc	_	_
+19	eso	ese	PRON	_	Number=Sing|PronType=Dem	20	det	_	_
+20	simepre	simepre	NOUN	_	_	22	nsubj	_	_
+21	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	obl	_	_
+22	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+23	sentir	sentir	VERB	_	VerbForm=Inf	22	xcomp	_	_
+24	disgustado	disgustado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	22	obj	_	_
+25	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+

@@ -1,0 +1,239 @@
+# Unnamed: 0 = 104
+# id = 236057
+# prompt = yourself
+# quarter = W20
+# course = SPA 22
+# age = 19
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No, only English
+# language(s) studied = nan
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = [Yo]{}<pr:su:pron> soy un estudiante a la universidad a *UNIVERSITY*. Tiene *AGE* años. [Yo]{}<pr:su:pron> viví en *CITY*, *STATE* y fui a *PLACE* High school. Tomé clases avanzadas y conseguí [grados buenos]{buenos grados}<col:adj>.  En mi tiempo libre, cuando no estoy estudiando, me gusta practicar deportes, especialmente basquetbol.  He hecho jugar por toda mi vida. Desfruto este deporte mucho. En []{la}<ab:det:art:def> escuela, estoy estudiando ciencias naturales. No sé que quiero hacer para una carrera, pero [yo]{}<pr:su:pron> sé quierlo ser [algunos]{alguno}<na:pron> en deber. En general, [yo]{}<pr:su:pron> soy [un]{una}<gat:det> persona muy [dedicado]{dedicada}<gat:adj>, y paso mucho tiempo con [mi]{mis}<na:adj> estudios. Tengo un hermano y hermana. Ambos son [menor]{menores}<na:adj> a mí. My padre es [un]{}<pr:det:art:indef> policía y mi madre es [un]{}<pr:det:art:indef><ga:det> [consejero]{consejera}<ga:noun> para estudiantes. También [yo]{}<pr:su:pron> tengo un gato y pero. Siempre he sido [un]{una}<ga:det> persona alta. [Este]{Esto}<gat:pron> es porque ambos de [mi]{mis}<na:adj> padres son altos. Mi menor en []{la}<ab:det:art:def> escuela es epañol. He tomado clases de español por un tiempo ahora, y quiero continuar sí poder. No hace daño seguir adelante con eso.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> soy un estudiante a la universidad a *UNIVERSITY*. [Tiene]{Tengo}<fs:st:pn> *AGE* años. [Yo]{}<pr:su:pron> viví en *CITY*, *STATE* y fui a *PLACE* High school. Tomé clases avanzadas y conseguí grados buenos.  En mi tiempo libre, cuando no estoy estudiando, me gusta practicar deportes, especialmente basquetbol.  He hecho jugar por toda mi vida. [Desfruto]{Disfruto}<fs:st:r> este deporte mucho. En []{la}<ab:det:art:def> escuela, estoy estudiando ciencias naturales. No sé que quiero hacer para una carrera, pero [yo]{}<pr:su:pron> sé [quierlo]{quiero}<fs:st:r> ser algunos en deber. En general, [yo]{}<pr:su:pron> soy [un]{una}<gat:det> [persona]{persona}<gat:noun> muy [dedicado]{dedicada}<gat:adj>, y paso mucho tiempo con [mi]{mis}<na:det> estudios. Tengo un hermano y hermana. Ambos son [menor]{menores}<na:adj> a mí. My padre es un policía y mi madre es un consejero para estudiantes. También [yo]{}<pr:su:pron> tengo un gato y pero. Siempre he sido [un]{una}<gat:det> [persona]{persona}<gat:noun> alta. [Este]{Esto}<gat:pron> es porque ambos de [mi]{mis}<na:det> padres son altos. Mi menor en escuela es epañol. He tomado clases de español por un tiempo ahora, y quiero continuar sí poder. No hace daño seguir adelante con eso.
+# verbs annotation ann2 = nan
+# corrected1 = Soy un estudiante de la Universidad de *STATE* *UNIVERSITY*. Tengo *AGE* años. Soy de *CITY*, California, y fui al Instituto *PLACE*. Tomé clases avanzadas y saqué buenas notas. En mi tiempo libre, cuando no estoy estudiando, me gusta practicar deportes, especialmente basquetbol. He jugado al basquetbol toda mi vida. Disfruto mucho de este deporte. En la universidad estoy estudiando Ciencias naturales. No sé qué quiero hacer en el futuro, pero sé que quiero trabajar de algo. En general, soy una persona muy comprometida y paso mucho tiempo estudiando. Tengo un hermano y una hermana. Ambos son menores que yo. Mi padre es policía y mi madre es orientadora escolar. También tengo un gato y un perro. Siempre he sido una persona alta porque mis dos padres son altos. Estudio Español como asignatura secundaria en la universidad. Ya he tomado clases de español durante un tiempo ahora y quiero continuar si puedo. No viene mal seguir adelante con esto. 
+# corrected2 = nan
+# text = Yo soy un estudiante a la universidad a *UNIVERSITY*. Tiene *AGE* años. Yo viví en *CITY*, *STATE* y fui a *PLACE* High school. Tomé clases avanzadas y conseguí grados buenos. En mi tiempo libre, cuando no estoy estudiando, me gusta practicar deportes, especialmente basquetbol. He hecho jugar por toda mi vida. Desfruto este deporte mucho. En escuela, estoy estudiando ciencias naturales. No sé que quiero hacer para una carrera, pero yo sé quierlo ser algunos en deber. En general, yo soy un persona muy dedicado, y paso mucho tiempo con mi estudios. Tengo un hermano y hermana. Ambos son menor a mí. My padre es un policía y mi madre es un consejero para estudiantes. También yo tengo un gato y pero. Siempre he sido un persona alta. Este es porque ambos de mi padres son altos. Mi menor en escuela es epañol. He tomado clases de español por un tiempo ahora, y quiero continuar sí poder. No hace daño seguir adelante con eso.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	la	el	DET	_	_	7	det	_	_
+7	universidad	universidad	PROPN	_	_	4	nmod	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	4	nmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Tiene	tener	VERB	_	_	0	ROOT	_	_
+2	*AGE*	AGE	PROPN	_	_	1	obj	_	_
+3	años	año	NOUN	_	_	2	flat	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	viví	viví	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	*STATE*	STATE	PROPN	_	_	4	conj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	fui	ir	AUX	_	_	2	conj	_	_
+9	a	a	ADP	_	_	10	case	_	_
+10	*PLACE*	PLACE	PROPN	_	_	8	obj	_	_
+11	High	High	PROPN	_	_	10	flat	_	_
+12	school	school	PROPN	_	_	11	flat	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Tomé	Tomé	PROPN	_	_	2	amod	_	_
+2	clases	clase	NOUN	_	_	0	ROOT	_	_
+3	avanzadas	avanzado	ADJ	_	_	2	amod	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	conseguí	conseguí	VERB	_	_	2	conj	_	_
+6	grados	grado	NOUN	_	_	5	obj	_	_
+7	buenos	buen	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	mi	mi	DET	_	_	3	det	_	_
+3	tiempo	tiempo	NOUN	_	_	12	obl	_	_
+4	libre	libre	ADJ	_	_	3	amod	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	cuando	cuando	SCONJ	_	_	9	mark	_	_
+7	no	no	ADV	_	_	9	advmod	_	_
+8	estoy	estar	AUX	_	_	9	aux	_	_
+9	estudiando	estudiar	VERB	_	_	12	advcl	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	me	yo	PRON	_	_	12	iobj	_	_
+12	gusta	gustar	VERB	_	_	0	ROOT	_	_
+13	practicar	practicar	VERB	_	_	12	csubj	_	_
+14	deportes	deporte	NOUN	_	_	13	obj	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	especialmente	especialmente	ADV	_	_	17	advmod	_	_
+17	basquetbol	basquetbol	ADJ	_	_	12	advcl	_	_
+18	.	.	PUNCT	_	_	12	punct	_	_
+
+1	He	haber	AUX	_	_	2	aux	_	_
+2	hecho	hacer	VERB	_	_	0	ROOT	_	_
+3	jugar	jugar	VERB	_	_	2	xcomp	_	_
+4	por	por	ADP	_	_	7	case	_	_
+5	toda	todo	DET	_	_	6	det	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	vida	vida	NOUN	_	_	3	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Desfruto	desfrutir	VERB	_	_	0	ROOT	_	_
+2	este	este	DET	_	_	3	det	_	_
+3	deporte	deporte	NOUN	_	_	1	obj	_	_
+4	mucho	mucho	ADV	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	5	advmod	_	_
+2	escuela	escuela	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	estoy	estar	AUX	_	_	5	aux	_	_
+5	estudiando	estudiar	VERB	_	_	0	ROOT	_	_
+6	ciencias	ciencia	NOUN	_	_	5	obj	_	_
+7	naturales	natural	ADJ	_	_	6	amod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	sé	saber	VERB	_	_	0	ROOT	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
+4	quiero	querer	VERB	_	_	2	ccomp	_	_
+5	hacer	hacer	VERB	_	_	4	xcomp	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	una	uno	DET	_	_	8	det	_	_
+8	carrera	carrera	NOUN	_	_	5	obl	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	pero	pero	CCONJ	_	_	12	cc	_	_
+11	yo	yo	PRON	_	_	12	nsubj	_	_
+12	sé	saber	VERB	_	_	2	conj	_	_
+13	quierlo	quier él	VERB	_	_	12	xcomp	_	_
+14	ser	ser	AUX	_	_	15	cop	_	_
+15	algunos	alguno	PRON	_	_	12	xcomp	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	deber	deber	NOUN	_	_	12	obl	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+1	En	en	ADP	_	_	7	advmod	_	_
+2	general	general	NOUN	_	_	1	fixed	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	yo	yo	PRON	_	_	7	nsubj	_	_
+5	soy	ser	AUX	_	_	7	cop	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	persona	persona	NOUN	_	_	0	ROOT	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	dedicado	dedicado	ADJ	_	_	7	amod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	paso	pasar	VERB	_	_	7	conj	_	_
+13	mucho	mucho	DET	_	_	14	det	_	_
+14	tiempo	tiempo	NOUN	_	_	12	obj	_	_
+15	con	con	ADP	_	_	17	case	_	_
+16	mi	mi	DET	_	_	17	det	_	_
+17	estudios	estudio	NOUN	_	_	12	obl	_	_
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Tengo	tener	VERB	_	_	0	ROOT	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	hermano	hermano	NOUN	_	_	1	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	hermana	hermana	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Ambos	ambos	NUM	_	_	3	nsubj	_	_
+2	son	ser	AUX	_	_	3	cop	_	_
+3	menor	menor	ADJ	_	_	0	ROOT	_	_
+4	a	a	ADP	_	_	5	case	_	_
+5	mí	yo	PRON	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	My	my	DET	_	_	2	det	_	_
+2	padre	padre	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	policía	policía	NOUN	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	11	cc	_	_
+7	mi	mi	DET	_	_	8	det	_	_
+8	madre	madre	NOUN	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	consejero	consejero	NOUN	_	_	5	conj	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	estudiantes	estudiante	NOUN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	También	también	ADV	_	_	3	advmod	_	_
+2	yo	yo	PRON	_	_	3	nsubj	_	_
+3	tengo	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	gato	gato	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	pero	pero	CCONJ	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Siempre	siempre	ADV	_	_	5	advmod	_	_
+2	he	haber	AUX	_	_	5	aux	_	_
+3	sido	ser	AUX	_	_	5	cop	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	persona	persona	NOUN	_	_	0	ROOT	_	_
+6	alta	alto	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Este	este	PRON	_	_	2	nsubj	_	_
+2	es	ser	AUX	_	_	0	ROOT	_	_
+3	porque	porque	SCONJ	_	_	9	mark	_	_
+4	ambos	ambos	NUM	_	_	9	nsubj	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	mi	mi	DET	_	_	7	det	_	_
+7	padres	padre	NOUN	_	_	4	nmod	_	_
+8	son	ser	AUX	_	_	9	cop	_	_
+9	altos	alto	ADJ	_	_	2	ccomp	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	menor	menor	ADJ	_	_	6	nsubj	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	escuela	escuela	NOUN	_	_	2	nmod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	epañol	epañol	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	He	haber	AUX	_	_	2	aux	_	_
+2	tomado	tomar	VERB	_	_	0	ROOT	_	_
+3	clases	clase	NOUN	_	_	2	obj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	español	español	NOUN	_	_	3	nmod	_	_
+6	por	por	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	tiempo	tiempo	NOUN	_	_	2	obl	_	_
+9	ahora	ahora	ADV	_	_	8	advmod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	quiero	querer	VERB	_	_	2	conj	_	_
+13	continuar	continuar	VERB	_	_	12	xcomp	_	_
+14	sí	sí	INTJ	_	_	13	obl	_	_
+15	poder	poder	NOUN	_	_	13	obl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	hace	hacer	VERB	_	_	0	ROOT	_	_
+3	daño	daño	NOUN	_	_	2	obj	_	_
+4	seguir	seguir	VERB	_	_	2	xcomp	_	_
+5	adelante	adelante	ADV	_	_	4	advmod	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	eso	ese	PRON	_	_	4	obl	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+

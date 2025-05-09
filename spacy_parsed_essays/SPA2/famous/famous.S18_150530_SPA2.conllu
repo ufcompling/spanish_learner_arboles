@@ -1,0 +1,364 @@
+# Unnamed: 0 = 175
+# id = 150530
+# prompt = famous
+# quarter = S18
+# course = SPA 2
+# age = Female
+# gender = 19
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = nan
+# language(s) studied = nan
+# listening comprehension = 3.0
+# reading comprehension = 2.0
+# speaking ability = 3.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = Mi persona famosa favorita es Jennifer Aniston. Ella es un actor y es un personaje de mi programa television favorito, "Friends". Ella es muy bonita y divertida. Me gusta mucho ver Friends cuando no tengo tarea. Jennifer Anniston tiene cuarenta y nueve anos, pero ella se ve joven. Ella no tiene algunos ninos y no tiene un esposo, pero ella es muy contenta. Ella es de Los Angeles, California. Hace sol alla. Pero, ella vive en New York ahora. Ella tiene el pelo rubia y largo. Ella es corta y delgada. En Friends, ella tiene cinco mejores amigos. Dos son chicas y tres son chicos. Ella trabaja a Ralph Lauren en el programa television. Ella es estropeada. En Friends, el nombre de Jennifer Anniston es Rachel. Rachel tiene una nina pequena con Ross. Ross es un amigo de Rachel. Su amor es muy complicado. Ross tambien tiene un nino pequeno, pero no con Rachel. El amor de Ross y Rachel no es perfecto, pero estar presente. En vida real, Jennifer Aniston quiere ninos, pero su amor es complicado tambien. Ella le gusta bailar cuando no trabajando. Ella tambien es muy rico y tiene una casa muy grande. La casa tiene una piscina, un teatre, y una mesa de billard. Ella tambien tiene animales: dos perros muy bonita. Ella viva con su hermana. Los gatos son los animales favoritos de Jennifer, pero su hermana es allergicas. Ella quiere muchos gatos en su casa, pero poder solo tiene perros. Su perros son mejores amigos. Me encanta Jennifer Aniston!
+# a personal annotator2 = nan
+# gender-number annotator1 = Mi persona famosa favorita es Jennifer Aniston. Ella es [un]{una}<ga:fm:det:an> [actor]{actriz}<ga:fm:noun:an> y es un personaje de mi programa television favorito, "Friends". Ella es muy bonita y divertida. Me gusta mucho ver Friends cuando no tengo tarea. Jennifer Anniston tiene cuarenta y nueve anos, pero ella se ve joven. Ella no tiene algunos ninos y no tiene un esposo, pero ella es muy contenta. Ella es de Los Angeles, California. Hace sol alla. Pero, ella vive en New York ahora. Ella tiene el pelo [rubia]{rubio}<ga:mf:adj:inan> y largo. Ella es corta y delgada. En Friends, ella tiene cinco mejores amigos. Dos son chicas y tres son chicos. Ella trabaja a Ralph Lauren en el programa television. Ella es estropeada. En Friends, el nombre de Jennifer Anniston es Rachel. Rachel tiene una nina pequena con Ross. Ross es un amigo de Rachel. Su amor es muy complicado. Ross tambien tiene un nino pequeno, pero no con Rachel. El amor de Ross y Rachel no es perfecto, pero estar presente. En vida real, Jennifer Aniston quiere ninos, pero su amor es complicado tambien. Ella le gusta bailar cuando no trabajando. Ella tambien es muy [rico]{rica}<ga:fm:adj:an> y tiene una casa muy grande. La casa tiene una piscina, un teatre, y una mesa de billard. Ella tambien tiene animales: dos perros muy [bonita]{bonitos}<ga:na:mf:ps:adj:inan>. Ella viva con su hermana. Los gatos son los animales favoritos de Jennifer, pero su hermana es [allergicas]{alérgica}<na:sp:adj:an>. Ella quiere muchos gatos en su casa, pero poder solo tiene perros. [Su]{sus}<na:ps:det:inan> perros son mejores amigos. Me encanta Jennifer Aniston!
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Mi persona famosa favorita es Jennifer Aniston. Ella es un actor y es un personaje de mi programa television favorito, "Friends". Ella es muy bonita y divertida. Me gusta mucho ver Friends cuando no tengo tarea. Jennifer Anniston tiene cuarenta y nueve anos, pero ella se ve joven. Ella no tiene algunos ninos y no tiene un esposo, pero ella es muy contenta. Ella es de Los Angeles, California. Hace sol alla. Pero, ella vive en New York ahora. Ella tiene el pelo rubia y largo. Ella es corta y delgada. En Friends, ella tiene cinco mejores amigos. Dos son chicas y tres son chicos. Ella trabaja a Ralph Lauren en el programa television. Ella es estropeada. En Friends, el nombre de Jennifer Anniston es Rachel. Rachel tiene una nina pequena con Ross. Ross es un amigo de Rachel. Su amor es muy complicado. Ross tambien tiene un nino pequeno, pero no con Rachel. El amor de Ross y Rachel no es perfecto, pero estar presente. En vida real, Jennifer Aniston quiere ninos, pero su amor es complicado tambien. Ella le gusta bailar cuando no trabajando. Ella tambien es muy rico y tiene una casa muy grande. La casa tiene una piscina, un teatre, y una mesa de billard. Ella tambien tiene animales: dos perros muy bonita. Ella viva con su hermana. Los gatos son los animales favoritos de Jennifer, pero su hermana es allergicas. Ella quiere muchos gatos en su casa, pero poder solo tiene perros. Su perros son mejores amigos. Me encanta Jennifer Aniston!
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Mi	mi	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	6	nsubj	_	_
+3	famosa	famoso	ADJ	_	_	2	amod	_	_
+4	favorita	favorita	NOUN	_	_	2	amod	_	_
+5	es	ser	AUX	_	_	6	cop	_	_
+6	Jennifer	Jennifer	PROPN	_	_	0	ROOT	_	_
+7	Aniston	Aniston	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	actor	actor	NOUN	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	8	cc	_	_
+6	es	ser	AUX	_	_	8	cop	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	personaje	personaje	NOUN	_	_	4	conj	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	mi	mi	DET	_	_	11	det	_	_
+11	programa	programa	NOUN	_	_	8	nmod	_	_
+12	television	television	PROPN	_	_	11	appos	_	_
+13	favorito	favorito	ADJ	_	_	12	flat	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	"	"	PUNCT	_	_	16	punct	_	_
+16	Friends	Friends	PROPN	_	_	11	appos	_	_
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	bonita	bonito	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	divertida	divertido	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	ADV	_	_	2	advmod	_	_
+4	ver	ver	VERB	_	_	2	csubj	_	_
+5	Friends	Friends	PROPN	_	_	4	nsubj	_	_
+6	cuando	cuando	SCONJ	_	_	8	mark	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	tengo	tener	VERB	_	_	4	advcl	_	_
+9	tarea	tarea	NOUN	_	_	8	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Jennifer	Jennifer	PROPN	_	_	3	nsubj	_	_
+2	Anniston	Anniston	PROPN	_	_	1	flat	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	cuarenta	cuarenta	NUM	_	_	7	nummod	_	_
+5	y	y	CCONJ	_	_	4	compound	_	_
+6	nueve	nueve	NUM	_	_	4	compound	_	_
+7	anos	ano	NOUN	_	_	3	obj	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	ella	él	PRON	_	_	12	nsubj	_	_
+11	se	él	PRON	_	_	12	expl:pv	_	_
+12	ve	ver	VERB	_	_	3	conj	_	_
+13	joven	joven	NOUN	_	_	12	obj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	no	no	ADV	_	_	3	advmod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	algunos	alguno	DET	_	_	5	det	_	_
+5	ninos	nino	NOUN	_	_	3	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	no	no	ADV	_	_	8	advmod	_	_
+8	tiene	tener	VERB	_	_	3	conj	_	_
+9	un	uno	DET	_	_	10	det	_	_
+10	esposo	esposo	NOUN	_	_	8	obj	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	pero	pero	CCONJ	_	_	16	cc	_	_
+13	ella	él	PRON	_	_	16	nsubj	_	_
+14	es	ser	AUX	_	_	16	cop	_	_
+15	muy	mucho	ADV	_	_	16	advmod	_	_
+16	contenta	contentar	VERB	_	_	3	conj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	es	ser	AUX	_	_	5	cop	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	Los	el	DET	_	_	5	det	_	_
+5	Angeles	Angeles	PROPN	_	_	0	ROOT	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	California	California	PROPN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Hace	hacer	VERB	_	_	0	ROOT	_	_
+2	sol	sol	NOUN	_	_	1	obj	_	_
+3	alla	allo	ADJ	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	ella	él	PRON	_	_	4	nsubj	_	_
+4	vive	vivir	VERB	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	New	New	PROPN	_	_	4	obl	_	_
+7	York	York	PROPN	_	_	6	flat	_	_
+8	ahora	ahora	ADV	_	_	4	advmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	rubia	rubio	ADJ	_	_	4	amod	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	largo	largo	ADJ	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	corta	corto	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	delgada	delgado	ADJ	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Friends	Friends	PROPN	_	_	5	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ella	él	PRON	_	_	5	nsubj	_	_
+5	tiene	tener	VERB	_	_	0	ROOT	_	_
+6	cinco	cinco	NUM	_	_	8	nummod	_	_
+7	mejores	mejor	ADJ	_	_	8	amod	_	_
+8	amigos	amigo	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Dos	dos	NUM	_	_	3	nsubj	_	_
+2	son	ser	AUX	_	_	3	cop	_	_
+3	chicas	chica	NOUN	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	7	cc	_	_
+5	tres	tres	NUM	_	_	7	nsubj	_	_
+6	son	ser	AUX	_	_	7	cop	_	_
+7	chicos	chico	NOUN	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Ralph	Ralph	PROPN	_	_	2	obj	_	_
+5	Lauren	Lauren	PROPN	_	_	4	flat	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	programa	programa	NOUN	_	_	2	obl	_	_
+9	television	television	PROPN	_	_	8	appos	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	estropeada	estropear	VERB	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	Friends	Friends	PROPN	_	_	10	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	nombre	nombre	NOUN	_	_	10	nsubj	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Jennifer	Jennifer	PROPN	_	_	5	nmod	_	_
+8	Anniston	Anniston	PROPN	_	_	7	flat	_	_
+9	es	ser	AUX	_	_	10	cop	_	_
+10	Rachel	Rachel	PROPN	_	_	0	ROOT	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Rachel	Rachel	PROPN	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	nina	nina	NOUN	_	_	2	obj	_	_
+5	pequena	pequén	ADJ	_	_	4	amod	_	_
+6	con	con	ADP	_	_	7	case	_	_
+7	Ross	Ross	PROPN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ross	Ross	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	amigo	amigo	NOUN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Rachel	Rachel	PROPN	_	_	4	nmod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	amor	amor	NOUN	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	complicado	complicado	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ross	Ross	PROPN	_	_	3	nsubj	_	_
+2	tambien	tambien	ADV	_	_	1	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	nino	nino	NOUN	_	_	3	obj	_	_
+6	pequeno	pequeno	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	no	no	ADV	_	_	3	conj	_	_
+10	con	con	ADP	_	_	9	case	_	_
+11	Rachel	Rachel	PROPN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	amor	amor	NOUN	_	_	9	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Ross	Ross	PROPN	_	_	2	nmod	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	Rachel	Rachel	PROPN	_	_	2	conj	_	_
+7	no	no	ADV	_	_	9	advmod	_	_
+8	es	ser	AUX	_	_	9	cop	_	_
+9	perfecto	perfecto	ADJ	_	_	0	ROOT	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	estar	estar	AUX	_	_	13	cop	_	_
+13	presente	presente	ADJ	_	_	9	conj	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+1	En	en	ADP	_	_	2	case	_	_
+2	vida	vida	NOUN	_	_	7	obl	_	_
+3	real	real	ADJ	_	_	2	amod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	Jennifer	Jennifer	PROPN	_	_	7	nsubj	_	_
+6	Aniston	Aniston	PROPN	_	_	5	flat	_	_
+7	quiere	querer	VERB	_	_	0	ROOT	_	_
+8	ninos	ninos	PROPN	_	_	7	obj	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	pero	pero	CCONJ	_	_	14	cc	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	amor	amor	NOUN	_	_	14	nsubj	_	_
+13	es	ser	AUX	_	_	14	cop	_	_
+14	complicado	complicar	VERB	_	_	7	conj	_	_
+15	tambien	tambien	ADV	_	_	14	obj	_	_
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	le	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	bailar	bailar	VERB	_	_	3	csubj	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	no	no	ADV	_	_	7	advmod	_	_
+7	trabajando	trabajar	VERB	_	_	4	advcl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	5	nsubj	_	_
+2	tambien	tambien	ADJ	_	_	1	amod	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	rico	rico	ADJ	_	_	0	ROOT	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	tiene	tener	VERB	_	_	5	conj	_	_
+8	una	uno	DET	_	_	9	det	_	_
+9	casa	casa	NOUN	_	_	7	obj	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	grande	grande	ADJ	_	_	9	amod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+1	La	el	DET	_	_	2	det	_	_
+2	casa	casa	NOUN	_	_	3	nsubj	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	una	uno	DET	_	_	5	det	_	_
+5	piscina	piscina	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	teatre	teatre	NOUN	_	_	5	appos	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	una	uno	DET	_	_	12	det	_	_
+12	mesa	mesa	NOUN	_	_	5	conj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	billard	billard	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	tambien	tambien	PRON	_	_	1	amod	_	_
+3	tiene	tener	VERB	_	_	0	ROOT	_	_
+4	animales	animal	NOUN	_	_	3	obj	_	_
+5	:	:	PUNCT	_	_	7	punct	_	_
+6	dos	dos	NUM	_	_	7	nummod	_	_
+7	perros	perro	NOUN	_	_	4	appos	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	bonita	bonito	ADJ	_	_	7	amod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	viva	vivir	VERB	_	_	0	ROOT	_	_
+3	con	con	ADP	_	_	5	case	_	_
+4	su	su	DET	_	_	5	det	_	_
+5	hermana	hermana	NOUN	_	_	2	obl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	gatos	gato	NOUN	_	_	5	nsubj	_	_
+3	son	ser	AUX	_	_	5	cop	_	_
+4	los	el	DET	_	_	5	det	_	_
+5	animales	animal	NOUN	_	_	0	ROOT	_	_
+6	favoritos	favorito	ADJ	_	_	5	amod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	Jennifer	Jennifer	PROPN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	pero	pero	CCONJ	_	_	14	cc	_	_
+11	su	su	DET	_	_	12	det	_	_
+12	hermana	hermana	NOUN	_	_	14	nsubj	_	_
+13	es	ser	AUX	_	_	14	cop	_	_
+14	allergicas	allergica	ADJ	_	_	5	conj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	quiere	querer	VERB	_	_	0	ROOT	_	_
+3	muchos	mucho	DET	_	_	4	det	_	_
+4	gatos	gato	NOUN	_	_	2	obj	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	casa	casa	NOUN	_	_	2	obl	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	pero	pero	CCONJ	_	_	12	cc	_	_
+10	poder	poder	AUX	_	_	12	nsubj	_	_
+11	solo	solo	ADV	_	_	12	advmod	_	_
+12	tiene	tener	VERB	_	_	2	conj	_	_
+13	perros	perro	NOUN	_	_	12	obj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Su	su	DET	_	_	2	det	_	_
+2	perros	perro	NOUN	_	_	5	nsubj	_	_
+3	son	ser	AUX	_	_	5	cop	_	_
+4	mejores	mejor	ADJ	_	_	5	amod	_	_
+5	amigos	amigo	NOUN	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	encanta	encantar	VERB	_	_	0	ROOT	_	_
+3	Jennifer	Jennifer	PROPN	_	_	2	nsubj	_	_
+4	Aniston	Aniston	PROPN	_	_	3	flat	_	_
+5	!	!	PUNCT	_	_	2	punct	_	_
+

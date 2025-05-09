@@ -1,0 +1,339 @@
+# Unnamed: 0 = 172
+# id = 224870
+# prompt = yourself
+# quarter = W21
+# course = SPA 3
+# age = 19
+# gender = Female
+# l1 language = 4 or more
+# other l1 language(s) = English,Other
+# language(s) used at home = 3
+# language(s) studied = No
+# listening comprehension = Extremely comfortable
+# reading comprehension = Comfortable
+# speaking ability = Uncomfortable
+# writing ability = Neither comfortable nor uncomfortable
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Me llamo *FIRST_NAME* *LAST_NAME*. Yo soy de *CITY* *CITY* *STATE* y vivo en *CITY* *CITY* actualmente. Yo tengo *AGE* años. Mi pelo es moreno y mis ojos son azules pero verde en color tambíen. Soy alto y delgado. Yo estudio la ingeniería biomédica y es mi segundo año de University of *UNIVERSITY*, *UNIVERSITY*. Yo soy muy paciente y intelligente, pero tiene mucho ansiedad. Me gusto dormir mucho porque como estudiante de ingeniería no lo consigo a menudo. Mi color favorito es azul celeste y morado. Mi favorito serie de television es The Office y New girl porque estan muy comico y romántico. Me deportes favorito estan baloncesto y fútbol porque estan deportes estan divertido. Mi bebida favorita es agua pero me gusta café mucho tambíen. Café es muy delicioso pero no muy saludable. Me viaje soñado es a Bangkok de Thailand. Quiero viajar aquí con mis amigos. Vamos a comer mucho comida porque Thailand tiene muy excelente comida y no es caro. Tambíen, quierimos visitar islas porque Thailand tiene mucho islas que son bonitas. Estoy miedo de las arañas. Mis medios sociales favoritos son Snapchat y Instagram me gusta tomar fotos y enviar mensajes de texto con mis amigos. Yo conozco tres lenguas, conozco Ruso, Ingles, y Español. Conocí a Ruso desde que era un bebé. Mi género favorito de libros es la aventura y el romance. Pero mi libro favorito es Redeeming Love de Francine Rivers porque es una novela romántica Cristiana. He viajado a 3 países, México, Moldavia y Canadá el año pasado.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	llamo	llamar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*FIRST_NAME*	*first_name*	SYM	_	_	1	compound	_	_
+4	*LAST_NAME*	*last_name*	PUNCT	_	_	2	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	dep	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*CITY*	*City*	PROPN	_	_	0	flat	_	_
+5	*CITY*	*City*	PROPN	_	_	4	flat	_	_
+6	*STATE*	*state*	PUNCT	_	_	5	punct	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	vivo	vivir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	*CITY*	*City*	PROPN	_	_	8	dep	_	_
+11	*CITY*	*city*	PROPN	_	_	10	punct	_	_
+12	actualmente	actualmente	ADV	_	_	8	advmod	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	*AGE*	*age*	PUNCT	_	_	4	punct	_	_
+4	años	año	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	pelo	pelo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	moreno	moreno	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	9	cc	_	_
+6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	azules	azul	ADJ	_	Gender=Masc|Number=Plur	4	conj	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	verde	verde	ADJ	_	Number=Sing	4	conj	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	color	color	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+14	tambíen	tambíen	NOUN	_	_	13	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	alto	alto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	delgado	delgado	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	estudio	estudiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ingeniería	ingeniería	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+5	biomédica	biomédico	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+6	y	y	CCONJ	_	_	10	cc	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
+10	año	año	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	University	University	PROPN	_	_	10	nmod	_	_
+13	of	of	PROPN	_	_	12	flat	_	_
+14	*UNIVERSITY*	*university*	PROPN	_	_	12	flat	_	_
+15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+16	*UNIVERSITY*	*university*	PUNCT	_	_	12	punct	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	paciente	paciente	ADJ	_	Number=Sing	0	root	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	intelligente	intelligente	ADJ	_	Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+8	pero	pero	CCONJ	_	_	9	cc	_	_
+9	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+10	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	11	det	_	_
+11	ansiedad	ansiedad	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obl	_	_
+2	gusto	gustar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dormir	dormir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	porque	porque	SCONJ	_	_	12	mark	_	_
+6	como	como	SCONJ	_	_	7	mark	_	_
+7	estudiante	estudiante	NOUN	_	Number=Sing	12	obl	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ingeniería	ingeniería	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	consigo	él	PRON	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+13	a	a	ADP	_	_	12	advmod	_	_
+14	menudo	menudo	NOUN	_	_	13	fixed	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	color	color	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	azul	azul	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	celeste	celeste	ADJ	_	Number=Sing	5	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	morado	morado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+3	serie	serie	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	television	television	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	The	The	PROPN	_	_	0	root	_	_
+8	Office	Office	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	10	cc	_	_
+10	New	New	PROPN	_	_	7	conj	_	_
+11	girl	girl	PROPN	_	_	10	flat	_	_
+12	porque	porque	SCONJ	_	_	13	mark	_	_
+13	estan	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+14	muy	mucho	ADV	_	_	15	advmod	_	_
+15	comico	comico	ADJ	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	romántico	romántico	ADJ	_	Gender=Masc|Number=Sing	15	conj	_	_
+18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	det	_	_
+2	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	estan	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	baloncesto	baloncesto	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
+8	porque	porque	SCONJ	_	_	12	mark	_	_
+9	estan	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+10	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	estan	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	divertido	divertido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	bebida	bebida	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	agua	agua	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	pero	pero	CCONJ	_	_	8	cc	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl	_	_
+8	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	café	café	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+10	mucho	mucho	ADV	_	_	11	advmod	_	_
+11	tambíen	tambíen	ADV	_	_	8	nsubj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	Café	Café	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	delicioso	delicioso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	saludable	saludable	ADJ	_	Number=Sing	4	conj	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl	_	_
+2	viaje	viaje	VERB	_	Gender=Masc|Number=Sing	4	csubj	_	_
+3	soñado	soñado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	Bangkok	Bangkok	PROPN	_	_	0	root	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	Thailand	Thailand	PROPN	_	_	6	flat	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	viajar	viajar	VERB	_	VerbForm=Inf	1	xcomp	_	_
+3	aquí	aquí	ADV	_	_	2	advmod	_	_
+4	con	con	ADP	_	_	6	case	_	_
+5	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	comer	comer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+5	comida	comida	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	Thailand	Thailand	PROPN	_	_	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	muy	mucho	ADV	_	_	10	advmod	_	_
+10	excelente	excelente	ADJ	_	Number=Sing	11	amod	_	_
+11	comida	comida	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+12	y	y	CCONJ	_	_	15	cc	_	_
+13	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	caro	caro	ADJ	_	Gender=Masc|Number=Sing	8	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Tambíen	tambíen	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	quierimos	quierar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	visitar	visitar	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	islas	isla	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	Thailand	Thailand	PROPN	_	_	8	nsubj	_	_
+8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	mucho	mucho	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+10	islas	isla	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
+12	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	bonitas	bonito	ADJ	_	Gender=Fem|Number=Plur	10	acl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	miedo	miedo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	arañas	araña	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
+6	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	medios	medio	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	sociales	social	ADJ	_	Number=Plur	2	amod	_	_
+4	favoritos	favorito	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	Snapchat	Snapchat	PROPN	_	_	0	root	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	Instagram	Instagram	PROPN	_	_	6	conj	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl	_	_
+10	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	tomar	tomar	VERB	_	VerbForm=Inf	10	csubj	_	_
+12	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	enviar	enviar	VERB	_	VerbForm=Inf	11	conj	_	_
+15	mensajes	mensaje	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	texto	texto	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	con	con	ADP	_	_	20	case	_	_
+19	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+20	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
+21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	conozco	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	lenguas	lengua	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	conozco	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	Ruso	Ruso	PROPN	_	_	6	obj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	Ingles	Ingles	PROPN	_	_	7	conj	_	_
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	Español	Español	PROPN	_	_	7	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Conocí	conocer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	_	_	3	case	_	_
+3	Ruso	Ruso	PROPN	_	_	1	obj	_	_
+4	desde	desde	ADP	_	_	8	mark	_	_
+5	que	que	SCONJ	_	_	8	mark	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	bebé	bebé	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	género	género	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	libros	libro	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
+6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	aventura	aventura	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	romance	romance	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Pero	pero	CCONJ	_	_	6	advmod	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	libro	libro	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	favorito	favorito	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	Redeeming	Redeeming	PROPN	_	_	0	root	_	_
+7	Love	Love	PROPN	_	_	6	flat	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Francine	Francine	PROPN	_	_	6	nmod	_	_
+10	Rivers	Rivers	PROPN	_	_	9	flat	_	_
+11	porque	porque	SCONJ	_	_	14	mark	_	_
+12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	novela	novela	NOUN	_	Gender=Fem|Number=Sing	6	advcl	_	_
+15	romántica	romántico	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+16	Cristiana	Cristiana	PROPN	_	_	14	appos	_	_
+17	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	He	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	viajado	viajar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	3	3	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	países	país	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	México	México	PROPN	_	_	5	appos	_	_
+8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
+9	Moldavia	Moldavia	PROPN	_	_	7	conj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	Canadá	Canadá	PROPN	_	_	7	conj	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	año	año	NOUN	_	AdvType=Tim	2	obl	_	_
+14	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+

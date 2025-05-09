@@ -1,0 +1,451 @@
+# Unnamed: 0 = 154
+# id = 172264
+# prompt = special
+# quarter = F18
+# course = SPA 31
+# age = 19
+# gender = Female
+# l1 language = English,Spanish
+# other l1 language(s) = nan
+# language(s) used at home = Yes, I speak Spanish at home.
+# language(s) studied = nan
+# listening comprehension = 4.0
+# reading comprehension = 3.0
+# speaking ability = 4.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Una persona especial en mi vida es mi amiga *FIRST_NAME*. Ella tiene *AGE* años de edad. *FIRST_NAME* es alta, tiene ojos azules y pelo castaño.Nos conocimos en la iglesia donde su padres son los pastores. Aunque conoci a *FIRST_NAME* cuando yo tenia doce años de edad y ella tenia trece años de edad, no nos hicimos amigas hasta hace cuatro años. Nuestra amistad crecio mucho el año pasado porque estuvimos juntas mucho tiempo y haci pudimos conocernos mejor. *FIRST_NAME* estudia español en la universidad *UNIVERSITY*. Como ella y nuestra amiga *FIRST_NAME* vivian cercas de mi, ellas me recojian para ir a la igesia en *CITY*. Lo que amo mas de *FIRST_NAME* es su forma de ser. Ella es muy enfocada en todo lo que hace. Cuando nuestra directora de adoracion se mudo, *FIRST_NAME* tomo cargo del ministerio de adoracion de nuestra iglesia. A la hora de practicar canciones, ella es muy buena en dirigirnos y ayudarnos a aprender nuestras partes. Ademas de ser enfocada, ella es muy comprensiva y atenta. Cuando faltamos a las practicas, ella nos llama y nos pregunta como estamos. *FIRST_NAME* tambien es muy humilde. Ella tiene mucho talento, toca el piano y tambien canta. Ella tambien trabaja muy duro para aprender el español. Los miembros de nuestra iglesia son mayormente hispanohablantes. *FIRST_NAME* y su familia an aprendido mucho español. Otra razon que amo a *FIRST_NAME* es porque ella es autentica. En nuestros viajes de *CITY* a *CITY*, platicambamos mucho sobre la vida. Esta año ambas pasamos por momentos muy dificiles y siempre nos motivamos a siguir adelante. Un momento muy especial fue un momento cuando ella y yo cantamos y adoramos juntas. En un miercoles, la iglesia estaba vacia y todavia no empesaba el servicio. Ambas estabamos estresadas y cansadas. Decidimos buscar un video de adoracion en youtube. En ese momento ella y yo oramos y cantamos juntas. Fue un momento en el cual las dos rendimos todos nuestros problemas a Dios. Yo la admiro mucho por su autenticidad, nunca vinje ser perfecta, ella es honesta y en mi opinion, su honestidad la hace una persona fuerte.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Una	uno	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	9	nsubj	_	_
+3	especial	especial	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	mi	mi	DET	_	_	6	det	_	_
+6	vida	vida	NOUN	_	_	2	nmod	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	mi	mi	DET	_	_	9	det	_	_
+9	amiga	amiga	NOUN	_	_	0	ROOT	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	appos	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	edad	edad	NOUN	_	_	3	nmod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	alta	alto	ADJ	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	tiene	tener	VERB	_	_	3	advcl	_	_
+6	ojos	ojo	NOUN	_	_	5	obj	_	_
+7	azules	azul	ADJ	_	_	6	amod	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	pelo	pelo	NOUN	_	_	7	conj	_	_
+10	castaño	castaño	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Nos	yo	PRON	_	_	2	expl:pv	_	_
+2	conocimos	conocer	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	_	5	det	_	_
+5	iglesia	iglesia	NOUN	_	_	2	obl	_	_
+6	donde	donde	PRON	_	_	11	obl	_	_
+7	su	su	DET	_	_	8	det	_	_
+8	padres	padre	NOUN	_	_	11	nsubj	_	_
+9	son	ser	AUX	_	_	11	cop	_	_
+10	los	el	DET	_	_	11	det	_	_
+11	pastores	pastor	NOUN	_	_	5	acl	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Aunque	aunque	SCONJ	_	_	2	mark	_	_
+2	conoci	conoci	VERB	_	_	22	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	obj	_	_
+5	cuando	cuando	SCONJ	_	_	7	mark	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	tenia	tener	VERB	_	_	2	advcl	_	_
+8	doce	doce	NUM	_	_	9	nummod	_	_
+9	años	año	NOUN	_	_	7	obl	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	edad	edad	NOUN	_	_	9	nmod	_	_
+12	y	y	CCONJ	_	_	14	cc	_	_
+13	ella	él	PRON	_	_	14	nsubj	_	_
+14	tenia	tenio	ADJ	_	_	7	conj	_	_
+15	trece	trece	NUM	_	_	16	nummod	_	_
+16	años	año	NOUN	_	_	14	obl	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	edad	edad	NOUN	_	_	16	nmod	_	_
+19	,	,	PUNCT	_	_	2	punct	_	_
+20	no	no	ADV	_	_	22	advmod	_	_
+21	nos	yo	PRON	_	_	22	iobj	_	_
+22	hicimos	hicir	VERB	_	_	0	ROOT	_	_
+23	amigas	amiga	NOUN	_	_	22	xcomp	_	_
+24	hasta	hasta	ADP	_	_	25	mark	_	_
+25	hace	hacer	VERB	_	_	23	advcl	_	_
+26	cuatro	cuatro	NUM	_	_	27	nummod	_	_
+27	años	año	NOUN	_	_	25	obj	_	_
+28	.	.	PUNCT	_	_	22	punct	_	_
+
+1	Nuestra	nuestro	DET	_	_	2	det	_	_
+2	amistad	amistad	NOUN	_	_	16	nsubj	_	_
+3	crecio	crecio	ADJ	_	_	2	amod	_	_
+4	mucho	mucho	ADV	_	_	2	advmod	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	año	año	NOUN	_	_	2	nmod	_	_
+7	pasado	pasado	ADJ	_	_	6	amod	_	_
+8	porque	porque	SCONJ	_	_	10	mark	_	_
+9	estuvimos	estuvir	AUX	_	_	10	cop	_	_
+10	juntas	junta	NOUN	_	_	2	acl	_	_
+11	mucho	mucho	DET	_	_	12	det	_	_
+12	tiempo	tiempo	NOUN	_	_	10	obj	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	haci	haci	VERB	_	_	2	conj	_	_
+15	pudimos	pudimos	AUX	_	_	16	aux	_	_
+16	conocernos	conocer yo	VERB	_	_	0	ROOT	_	_
+17	mejor	mejor	ADV	_	_	16	advmod	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	2	nsubj	_	_
+2	estudia	estudiar	VERB	_	_	0	ROOT	_	_
+3	español	español	ADJ	_	_	2	obj	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	universidad	universidad	NOUN	_	_	2	obl	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	flat	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Como	como	SCONJ	_	_	2	mark	_	_
+2	ella	él	PRON	_	_	7	nsubj	_	_
+3	y	y	CCONJ	_	_	5	cc	_	_
+4	nuestra	nuestro	DET	_	_	5	det	_	_
+5	amiga	amiga	NOUN	_	_	2	conj	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	appos	_	_
+7	vivian	viviar	VERB	_	_	0	ROOT	_	_
+8	cercas	cerca	NOUN	_	_	7	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	mi	mi	PROPN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	7	punct	_	_
+12	ellas	él	PRON	_	_	14	nsubj	_	_
+13	me	yo	PRON	_	_	14	iobj	_	_
+14	recojian	recojiar	VERB	_	_	7	advcl	_	_
+15	para	para	ADP	_	_	16	mark	_	_
+16	ir	ir	VERB	_	_	14	advcl	_	_
+17	a	a	ADP	_	_	19	case	_	_
+18	la	el	DET	_	_	19	det	_	_
+19	igesia	igesia	NOUN	_	_	16	obl	_	_
+20	en	en	ADP	_	_	21	case	_	_
+21	*CITY*	CITY	PROPN	_	_	19	nmod	_	_
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Lo	él	PRON	_	_	3	det	_	_
+2	que	que	PRON	_	_	3	obj	_	_
+3	amo	amar	VERB	_	_	9	csubj	_	_
+4	mas	mas	ADV	_	_	3	advmod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	obj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	su	su	DET	_	_	9	det	_	_
+9	forma	forma	NOUN	_	_	0	ROOT	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	ser	ser	AUX	_	_	9	acl	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	enfocada	enfocado	ADJ	_	_	0	ROOT	_	_
+5	en	en	ADP	_	_	9	mark	_	_
+6	todo	todo	DET	_	_	7	det	_	_
+7	lo	él	PRON	_	_	9	det	_	_
+8	que	que	PRON	_	_	9	obj	_	_
+9	hace	hacer	VERB	_	_	4	advcl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	7	mark	_	_
+2	nuestra	nuestro	DET	_	_	3	det	_	_
+3	directora	directora	NOUN	_	_	7	nsubj	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	adoracion	adoracion	PROPN	_	_	3	nmod	_	_
+6	se	él	PRON	_	_	7	expl:pv	_	_
+7	mudo	mudo	VERB	_	_	9	advcl	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+10	tomo	tomo	PROPN	_	_	9	flat	_	_
+11	cargo	cargo	NOUN	_	_	10	compound	_	_
+12	del	del	ADP	_	_	13	case	_	_
+13	ministerio	ministerio	NOUN	_	_	10	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	adoracion	adoracion	PROPN	_	_	13	nmod	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	nuestra	nuestro	DET	_	_	18	det	_	_
+18	iglesia	iglesia	NOUN	_	_	13	nmod	_	_
+19	.	.	PUNCT	_	_	9	punct	_	_
+
+1	A	a	ADP	_	_	3	case	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	hora	hora	NOUN	_	_	11	obl	_	_
+4	de	de	ADP	_	_	5	mark	_	_
+5	practicar	practicar	VERB	_	_	3	acl	_	_
+6	canciones	canción	NOUN	_	_	5	obj	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	ella	él	PRON	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	muy	mucho	ADV	_	_	11	advmod	_	_
+11	buena	buen	ADJ	_	_	0	ROOT	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	dirigirnos	dirigirno	NOUN	_	_	11	nmod	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	ayudarnos	ayudarno	NOUN	_	_	13	conj	_	_
+16	a	a	ADP	_	_	17	mark	_	_
+17	aprender	aprender	VERB	_	_	11	acl	_	_
+18	nuestras	nuestro	DET	_	_	19	det	_	_
+19	partes	parte	NOUN	_	_	17	obj	_	_
+20	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Ademas	adema	NOUN	_	_	9	nsubj	_	_
+2	de	de	ADP	_	_	4	mark	_	_
+3	ser	ser	AUX	_	_	4	aux	_	_
+4	enfocada	enfocar	VERB	_	_	1	acl	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	ella	él	PRON	_	_	9	nsubj	_	_
+7	es	ser	AUX	_	_	9	cop	_	_
+8	muy	mucho	ADV	_	_	9	advmod	_	_
+9	comprensiva	comprensivo	ADJ	_	_	0	ROOT	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	atenta	atentar	VERB	_	_	9	conj	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	faltamos	faltar	VERB	_	_	9	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	las	el	DET	_	_	5	det	_	_
+5	practicas	practica	NOUN	_	_	2	obj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	ella	él	PRON	_	_	9	nsubj	_	_
+8	nos	yo	PRON	_	_	9	iobj	_	_
+9	llama	llamar	VERB	_	_	0	ROOT	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	nos	yo	PRON	_	_	12	iobj	_	_
+12	pregunta	preguntar	VERB	_	_	9	conj	_	_
+13	como	como	SCONJ	_	_	14	mark	_	_
+14	estamos	estar	VERB	_	_	12	xcomp	_	_
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+1	*FIRST_NAME*	first_name	ADV	_	_	5	advmod	_	_
+2	tambien	tambien	PRON	_	_	5	nsubj	_	_
+3	es	ser	AUX	_	_	5	cop	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	humilde	humilde	ADJ	_	_	0	ROOT	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	6	ccomp	_	_
+3	mucho	mucho	DET	_	_	4	det	_	_
+4	talento	talento	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	toca	tocar	VERB	_	_	0	ROOT	_	_
+7	el	el	DET	_	_	8	det	_	_
+8	piano	piano	NOUN	_	_	6	obj	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	tambien	tambien	ADV	_	_	11	nsubj	_	_
+11	canta	cantar	VERB	_	_	6	conj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	tambien	tambien	PRON	_	_	1	amod	_	_
+3	trabaja	trabajar	VERB	_	_	0	ROOT	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	duro	duro	ADJ	_	_	3	obj	_	_
+6	para	para	ADP	_	_	7	mark	_	_
+7	aprender	aprender	VERB	_	_	3	advcl	_	_
+8	el	el	DET	_	_	9	det	_	_
+9	español	español	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Los	el	DET	_	_	2	det	_	_
+2	miembros	miembro	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	nuestra	nuestro	DET	_	_	5	det	_	_
+5	iglesia	iglesia	NOUN	_	_	2	nmod	_	_
+6	son	ser	AUX	_	_	7	cop	_	_
+7	mayormente	mayormente	ADV	_	_	0	ROOT	_	_
+8	hispanohablantes	hispanohablant	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	0	ROOT	_	_
+2	y	y	CCONJ	_	_	4	cc	_	_
+3	su	su	DET	_	_	4	det	_	_
+4	familia	familia	NOUN	_	_	1	conj	_	_
+5	an	an	VERB	_	_	4	appos	_	_
+6	aprendido	aprendido	ADJ	_	_	4	amod	_	_
+7	mucho	mucho	ADV	_	_	8	advmod	_	_
+8	español	español	ADJ	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Otra	otro	DET	_	_	2	det	_	_
+2	razon	razon	NOUN	_	_	7	nsubj	_	_
+3	que	que	PRON	_	_	4	nsubj	_	_
+4	amo	amar	VERB	_	_	2	acl	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obj	_	_
+7	es	ser	AUX	_	_	0	ROOT	_	_
+8	porque	porque	SCONJ	_	_	11	mark	_	_
+9	ella	él	PRON	_	_	11	nsubj	_	_
+10	es	ser	AUX	_	_	11	cop	_	_
+11	autentica	autentico	ADJ	_	_	7	ccomp	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	nuestros	nuestro	DET	_	_	3	det	_	_
+3	viajes	viaje	NOUN	_	_	9	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	*CITY*	CITY	PROPN	_	_	3	nmod	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	*CITY*	CITY	PROPN	_	_	3	nmod	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	platicambamos	platicambir	VERB	_	_	0	ROOT	_	_
+10	mucho	mucho	ADV	_	_	9	advmod	_	_
+11	sobre	sobre	ADP	_	_	13	case	_	_
+12	la	el	DET	_	_	13	det	_	_
+13	vida	vida	NOUN	_	_	9	obl	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Esta	este	DET	_	_	2	det	_	_
+2	año	año	NOUN	_	_	4	obl	_	_
+3	ambas	ambos	NUM	_	_	4	obj	_	_
+4	pasamos	pasar	VERB	_	_	0	ROOT	_	_
+5	por	por	ADP	_	_	6	case	_	_
+6	momentos	momento	NOUN	_	_	4	obl	_	_
+7	muy	mucho	ADV	_	_	8	advmod	_	_
+8	dificiles	dificil	ADJ	_	_	6	amod	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	siempre	siempre	ADV	_	_	12	advmod	_	_
+11	nos	yo	PRON	_	_	12	expl:pv	_	_
+12	motivamos	motivar	VERB	_	_	4	conj	_	_
+13	a	a	ADP	_	_	14	mark	_	_
+14	siguir	siguir	VERB	_	_	12	xcomp	_	_
+15	adelante	adelante	ADV	_	_	14	advmod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Un	uno	DET	_	_	2	det	_	_
+2	momento	momento	NOUN	_	_	7	nsubj	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	especial	especial	ADJ	_	_	2	amod	_	_
+5	fue	ser	AUX	_	_	7	cop	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	momento	momento	NOUN	_	_	0	ROOT	_	_
+8	cuando	cuando	SCONJ	_	_	12	mark	_	_
+9	ella	él	PRON	_	_	12	nsubj	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	yo	yo	PRON	_	_	12	nsubj	_	_
+12	cantamos	cantamos	VERB	_	_	7	advcl	_	_
+13	y	y	CCONJ	_	_	14	cc	_	_
+14	adoramos	adoramos	VERB	_	_	12	conj	_	_
+15	juntas	junto	ADJ	_	_	14	obj	_	_
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	miercoles	miercoles	NOUN	_	_	8	obl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	la	el	DET	_	_	6	det	_	_
+6	iglesia	iglesia	NOUN	_	_	8	nsubj	_	_
+7	estaba	estar	AUX	_	_	8	cop	_	_
+8	vacia	vacia	NOUN	_	_	0	ROOT	_	_
+9	y	y	CCONJ	_	_	12	cc	_	_
+10	todavia	todavia	NOUN	_	_	12	nsubj	_	_
+11	no	no	ADV	_	_	12	advmod	_	_
+12	empesaba	empesar	VERB	_	_	8	conj	_	_
+13	el	el	DET	_	_	14	det	_	_
+14	servicio	servicio	NOUN	_	_	12	nsubj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Ambas	ambos	NUM	_	_	2	nsubj	_	_
+2	estabamos	estar	VERB	_	_	0	ROOT	_	_
+3	estresadas	estresada	ADJ	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cansadas	cansada	NOUN	_	_	3	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Decidimos	decidir	VERB	_	_	0	ROOT	_	_
+2	buscar	buscar	VERB	_	_	1	xcomp	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	video	video	NOUN	_	_	2	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	adoracion	adoracion	PROPN	_	_	4	nmod	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	youtube	youtube	PROPN	_	_	2	obl	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	En	en	ADP	_	_	3	case	_	_
+2	ese	ese	DET	_	_	3	det	_	_
+3	momento	momento	NOUN	_	_	7	obl	_	_
+4	ella	él	PRON	_	_	3	appos	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	yo	yo	PRON	_	_	7	nsubj	_	_
+7	oramos	oramos	VERB	_	_	0	ROOT	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	cantamos	cantamos	VERB	_	_	7	conj	_	_
+10	juntas	junto	ADJ	_	_	9	obj	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Fue	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	momento	momento	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	cual	cual	PRON	_	_	9	obl	_	_
+7	las	el	DET	_	_	9	det	_	_
+8	dos	dos	NUM	_	_	7	nummod	_	_
+9	rendimos	rendir	VERB	_	_	3	acl	_	_
+10	todos	todo	DET	_	_	11	det	_	_
+11	nuestros	nuestro	DET	_	_	12	det	_	_
+12	problemas	problema	NOUN	_	_	9	obj	_	_
+13	a	a	ADP	_	_	14	case	_	_
+14	Dios	Dios	PROPN	_	_	9	obj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	3	nsubj	_	_
+2	la	él	PRON	_	_	3	obj	_	_
+3	admiro	admirar	VERB	_	_	0	ROOT	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	su	su	DET	_	_	7	det	_	_
+7	autenticidad	autenticidad	NOUN	_	_	3	obj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	nunca	nunca	ADV	_	_	10	advmod	_	_
+10	vinje	vinje	NOUN	_	_	3	obj	_	_
+11	ser	ser	AUX	_	_	12	cop	_	_
+12	perfecta	perfecto	ADJ	_	_	10	amod	_	_
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	ella	él	PRON	_	_	16	nsubj	_	_
+15	es	ser	AUX	_	_	16	cop	_	_
+16	honesta	honesta	NOUN	_	_	3	advcl	_	_
+17	y	y	CCONJ	_	_	25	cc	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	mi	mi	DET	_	_	20	det	_	_
+20	opinion	opinion	PROPN	_	_	25	obl	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	su	su	DET	_	_	23	det	_	_
+23	honestidad	honestidad	NOUN	_	_	25	iobj	_	_
+24	la	él	PRON	_	_	25	obj	_	_
+25	hace	hacer	VERB	_	_	16	conj	_	_
+26	una	uno	DET	_	_	27	det	_	_
+27	persona	persona	NOUN	_	_	25	obj	_	_
+28	fuerte	fuerte	ADJ	_	_	27	amod	_	_
+29	.	.	PUNCT	_	_	3	punct	_	_
+

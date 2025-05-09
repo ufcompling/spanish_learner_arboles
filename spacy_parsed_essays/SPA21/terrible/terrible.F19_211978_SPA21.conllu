@@ -1,0 +1,353 @@
+# Unnamed: 0 = 118
+# id = 211978
+# prompt = terrible
+# quarter = F19
+# course = SPA 21
+# age = 26
+# gender = Male
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No
+# language(s) studied = I studied German for two semesters (one year) in 2012.
+# listening comprehension = 2.0
+# reading comprehension = 3.0
+# speaking ability = 2.0
+# writing ability = 3.0
+# study abroad = No
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Voy a escribir un cuento de un viaje terrible. Hace dos años, yo decidí viajar a *CITY* con mi amigo *FIRST_NAME*. Vivía en *CITY* hace unos años y pensé que me divertirá volver a la ciudad. No pude haber estado más incorrecto. Antes de salimos, *FIRST_NAME* y yo eran amigos buenos. Nos habíamos conocido por unos años, pero sobre los dos o tres meses previos habíamos empezado ser amigos buenos. Descubrí que tengamos mucho en común. Decidimos ir a *CITY* por algunas días. Desde volvimos a *STATE*, nunca he hablado con *FIRST_NAME* otra vez. Ya no son amigos. Durante nuestro viaje, descubrí que *FIRST_NAME* no sea la persona que pensaba que sea. Recordé hablando con mi otro amigo después de nuestro viaje y después de decirle qué había pasado, me dije que *FIRST_NAME* fue un cabrón cuando era mas joven. Creo que cuando empecé a ser buen amigos con *FIRST_NAME* muy rápido, en actualmente no lo conocí. Hubo muchos microcuentos de esta viaje que explica porque paré querer a ser amigos con *FIRST_NAME*. No tenía mucho dinero ese año. *FIRST_NAME* me dijo que sus padres le den muchos dolares por el viaje. Creo que casi un mil dolares. Cuando manejamos a *CITY*, recibí un boleto. Acabé de cambiar con *FIRST_NAME* y no había realizado que estuvimos en una zona de construcción. Como *FIRST_NAME*, yo manajé un poco rapidó, pero tuve mala suerte y recibí un boleto. El boleto costó todo el dinero que tenía. Pensé que *FIRST_NAME* me ofrezca a dar algun dinero, pero no lo hizo. Cuando volvía a *STATE*, sus padres le compró un Tesla...
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Voy	ir	AUX	_	_	3	aux	_	_
+2	a	a	ADP	_	_	3	mark	_	_
+3	escribir	escribir	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	cuento	cuento	NOUN	_	_	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	viaje	viaje	NOUN	_	_	5	nmod	_	_
+9	terrible	terrible	ADJ	_	_	8	amod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Hace	hacer	VERB	_	_	6	advcl	_	_
+2	dos	dos	NUM	_	_	3	nummod	_	_
+3	años	año	NOUN	_	_	1	obj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	yo	yo	PRON	_	_	6	nsubj	_	_
+6	decidí	decidir	VERB	_	_	0	ROOT	_	_
+7	viajar	viajar	VERB	_	_	6	xcomp	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	*CITY*	CITY	PROPN	_	_	7	obl	_	_
+10	con	con	ADP	_	_	12	case	_	_
+11	mi	mi	DET	_	_	12	det	_	_
+12	amigo	amigo	NOUN	_	_	7	obl	_	_
+13	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	12	appos	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Vivía	vivir	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	*CITY*	CITY	PROPN	_	_	1	obl	_	_
+4	hace	hacer	VERB	_	_	1	advcl	_	_
+5	unos	uno	DET	_	_	6	det	_	_
+6	años	año	NOUN	_	_	4	obj	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	pensé	pensar	VERB	_	_	1	conj	_	_
+9	que	que	SCONJ	_	_	11	mark	_	_
+10	me	yo	PRON	_	_	11	iobj	_	_
+11	divertirá	divertir	VERB	_	_	8	ccomp	_	_
+12	volver	volver	VERB	_	_	11	xcomp	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	la	el	DET	_	_	15	det	_	_
+15	ciudad	ciudad	NOUN	_	_	12	obl	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+1	No	no	ADV	_	_	6	advmod	_	_
+2	pude	poder	AUX	_	_	6	aux	_	_
+3	haber	haber	AUX	_	_	6	aux	_	_
+4	estado	estar	AUX	_	_	6	cop	_	_
+5	más	más	ADV	_	_	6	advmod	_	_
+6	incorrecto	incorrecto	ADJ	_	_	0	ROOT	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Antes	antes	ADV	_	_	9	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	salimos	salimo	NOUN	_	_	1	obl	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	9	nsubj	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	yo	yo	PRON	_	_	5	conj	_	_
+8	eran	ser	AUX	_	_	9	cop	_	_
+9	amigos	amigo	NOUN	_	_	0	ROOT	_	_
+10	buenos	buen	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Nos	yo	PRON	_	_	3	expl:pv	_	_
+2	habíamos	haber	AUX	_	_	3	aux	_	_
+3	conocido	conocer	VERB	_	_	0	ROOT	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	unos	uno	DET	_	_	6	det	_	_
+6	años	año	NOUN	_	_	3	obl	_	_
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	pero	pero	CCONJ	_	_	17	cc	_	_
+9	sobre	sobre	ADP	_	_	14	case	_	_
+10	los	el	DET	_	_	14	det	_	_
+11	dos	dos	NUM	_	_	10	nummod	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	tres	tres	NUM	_	_	10	conj	_	_
+14	meses	mes	NOUN	_	_	17	obl	_	_
+15	previos	previo	ADJ	_	_	14	amod	_	_
+16	habíamos	haber	AUX	_	_	17	aux	_	_
+17	empezado	empezar	VERB	_	_	3	conj	_	_
+18	ser	ser	AUX	_	_	19	cop	_	_
+19	amigos	amigo	NOUN	_	_	17	xcomp	_	_
+20	buenos	buen	ADJ	_	_	19	amod	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Descubrí	Descubrí	PROPN	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	tengamos	tener	VERB	_	_	1	acl	_	_
+4	mucho	mucho	ADV	_	_	3	advmod	_	_
+5	en	en	ADP	_	_	3	advmod	_	_
+6	común	común	NOUN	_	_	5	fixed	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Decidimos	decidir	VERB	_	_	0	ROOT	_	_
+2	ir	ir	VERB	_	_	1	xcomp	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	por	por	ADP	_	_	7	case	_	_
+6	algunas	alguno	DET	_	_	7	det	_	_
+7	días	día	NOUN	_	_	2	obl	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Desde	desde	ADP	_	_	2	mark	_	_
+2	volvimos	volver	VERB	_	_	8	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*STATE*	STATE	PROPN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	nunca	nunca	ADV	_	_	8	advmod	_	_
+7	he	haber	AUX	_	_	8	aux	_	_
+8	hablado	hablar	VERB	_	_	0	ROOT	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	8	obj	_	_
+11	otra	otro	DET	_	_	12	det	_	_
+12	vez	vez	NOUN	_	_	8	obl	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Ya	ya	ADV	_	_	4	advmod	_	_
+2	no	no	ADV	_	_	4	advmod	_	_
+3	son	ser	AUX	_	_	4	cop	_	_
+4	amigos	amigo	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Durante	durante	ADP	_	_	3	case	_	_
+2	nuestro	nuestro	DET	_	_	3	det	_	_
+3	viaje	viaje	NOUN	_	_	0	ROOT	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	descubrí	descubrí	NOUN	_	_	3	appos	_	_
+6	que	que	PRON	_	_	11	mark	_	_
+7	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	11	nsubj	_	_
+8	no	no	ADV	_	_	11	advmod	_	_
+9	sea	ser	AUX	_	_	11	cop	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	persona	persona	NOUN	_	_	5	acl	_	_
+12	que	que	PRON	_	_	13	nsubj	_	_
+13	pensaba	pensar	VERB	_	_	11	acl	_	_
+14	que	que	SCONJ	_	_	15	mark	_	_
+15	sea	ser	AUX	_	_	13	ccomp	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Recordé	Recordé	PROPN	_	_	2	aux	_	_
+2	hablando	hablar	VERB	_	_	20	advcl	_	_
+3	con	con	ADP	_	_	6	case	_	_
+4	mi	mi	DET	_	_	6	det	_	_
+5	otro	otro	DET	_	_	4	det	_	_
+6	amigo	amigo	NOUN	_	_	2	obj	_	_
+7	después	después	ADV	_	_	2	advmod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	nuestro	nuestro	DET	_	_	10	det	_	_
+10	viaje	viaje	NOUN	_	_	7	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	después	después	ADV	_	_	2	conj	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	decirle	decir él	VERB	_	_	12	advcl	_	_
+15	qué	qué	PRON	_	_	17	obj	_	_
+16	había	haber	AUX	_	_	17	aux	_	_
+17	pasado	pasar	VERB	_	_	14	ccomp	_	_
+18	,	,	PUNCT	_	_	2	punct	_	_
+19	me	yo	PRON	_	_	20	iobj	_	_
+20	dije	decir	VERB	_	_	0	ROOT	_	_
+21	que	que	SCONJ	_	_	25	mark	_	_
+22	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	25	nsubj	_	_
+23	fue	ser	AUX	_	_	25	cop	_	_
+24	un	uno	DET	_	_	25	det	_	_
+25	cabrón	cabrón	NOUN	_	_	20	ccomp	_	_
+26	cuando	cuando	SCONJ	_	_	29	mark	_	_
+27	era	ser	AUX	_	_	29	cop	_	_
+28	mas	mas	ADV	_	_	29	advmod	_	_
+29	joven	joven	ADJ	_	_	25	advcl	_	_
+30	.	.	PUNCT	_	_	20	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	18	mark	_	_
+3	cuando	cuando	SCONJ	_	_	4	mark	_	_
+4	empecé	empezar	VERB	_	_	18	advcl	_	_
+5	a	a	ADP	_	_	8	case	_	_
+6	ser	ser	AUX	_	_	8	cop	_	_
+7	buen	buen	ADJ	_	_	8	amod	_	_
+8	amigos	amigo	NOUN	_	_	4	xcomp	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	4	obl	_	_
+11	muy	mucho	ADV	_	_	12	advmod	_	_
+12	rápido	rápido	ADJ	_	_	4	advmod	_	_
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	actualmente	actualmente	ADV	_	_	18	advmod	_	_
+16	no	no	ADV	_	_	18	advmod	_	_
+17	lo	él	PRON	_	_	18	obj	_	_
+18	conocí	conocer	VERB	_	_	1	ccomp	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Hubo	haber	AUX	_	_	0	ROOT	_	_
+2	muchos	mucho	DET	_	_	3	det	_	_
+3	microcuentos	microcuento	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	esta	este	DET	_	_	6	det	_	_
+6	viaje	viaje	NOUN	_	_	3	nmod	_	_
+7	que	que	PRON	_	_	8	nsubj	_	_
+8	explica	explicar	VERB	_	_	3	acl	_	_
+9	porque	porque	SCONJ	_	_	10	mark	_	_
+10	paré	pacer	VERB	_	_	8	advcl	_	_
+11	querer	querer	AUX	_	_	14	aux	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	ser	ser	AUX	_	_	14	cop	_	_
+14	amigos	amigo	NOUN	_	_	10	xcomp	_	_
+15	con	con	ADP	_	_	16	case	_	_
+16	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	10	obl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	No	no	ADV	_	_	2	advmod	_	_
+2	tenía	tener	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	DET	_	_	4	det	_	_
+4	dinero	dinero	NOUN	_	_	2	obj	_	_
+5	ese	ese	DET	_	_	6	det	_	_
+6	año	año	NOUN	_	_	2	obl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	iobj	_	_
+3	dijo	decir	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	8	mark	_	_
+5	sus	su	DET	_	_	6	det	_	_
+6	padres	padre	NOUN	_	_	8	nsubj	_	_
+7	le	él	PRON	_	_	8	obj	_	_
+8	den	dar	VERB	_	_	3	ccomp	_	_
+9	muchos	mucho	DET	_	_	10	det	_	_
+10	dolares	dolar	NOUN	_	_	8	obj	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	el	el	DET	_	_	13	det	_	_
+13	viaje	viaje	NOUN	_	_	8	obl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Creo	creer	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	6	mark	_	_
+3	casi	casi	ADV	_	_	6	advmod	_	_
+4	un	uno	DET	_	_	6	det	_	_
+5	mil	mil	NUM	_	_	4	nummod	_	_
+6	dolares	dolar	NOUN	_	_	1	obj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	manejamos	manejar	VERB	_	_	6	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	recibí	recibir	VERB	_	_	0	ROOT	_	_
+7	un	uno	DET	_	_	8	det	_	_
+8	boleto	boleto	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Acabé	acabé	ADV	_	_	0	ROOT	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	cambiar	cambiar	VERB	_	_	1	xcomp	_	_
+4	con	con	ADP	_	_	5	case	_	_
+5	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	3	obl	_	_
+6	y	y	CCONJ	_	_	9	cc	_	_
+7	no	no	ADV	_	_	9	advmod	_	_
+8	había	haber	AUX	_	_	9	aux	_	_
+9	realizado	realizar	VERB	_	_	1	conj	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
+11	estuvimos	estuvir	VERB	_	_	9	ccomp	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	una	uno	DET	_	_	14	det	_	_
+14	zona	zona	NOUN	_	_	11	obl	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	construcción	construcción	NOUN	_	_	14	nmod	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Como	como	SCONJ	_	_	2	mark	_	_
+2	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	yo	yo	PRON	_	_	5	nsubj	_	_
+5	manajé	manajer	VERB	_	_	0	ROOT	_	_
+6	un	uno	DET	_	_	8	advmod	_	_
+7	poco	poco	ADV	_	_	6	fixed	_	_
+8	rapidó	rapidó	ADJ	_	_	5	obj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	pero	pero	CCONJ	_	_	11	cc	_	_
+11	tuve	tener	VERB	_	_	5	conj	_	_
+12	mala	malo	ADJ	_	_	11	obj	_	_
+13	suerte	suerte	NOUN	_	_	11	obj	_	_
+14	y	y	CCONJ	_	_	15	cc	_	_
+15	recibí	recibir	VERB	_	_	11	conj	_	_
+16	un	uno	DET	_	_	17	det	_	_
+17	boleto	boleto	NOUN	_	_	15	obj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+1	El	el	DET	_	_	2	det	_	_
+2	boleto	boleto	NOUN	_	_	3	nsubj	_	_
+3	costó	costar	VERB	_	_	0	ROOT	_	_
+4	todo	todo	DET	_	_	5	det	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	dinero	dinero	NOUN	_	_	3	obj	_	_
+7	que	que	PRON	_	_	8	obj	_	_
+8	tenía	tener	VERB	_	_	6	acl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Pensé	pensar	VERB	_	_	0	ROOT	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	*FIRST_NAME*	FIRST_NAME	PROPN	_	_	5	nsubj	_	_
+4	me	yo	PRON	_	_	5	expl:pv	_	_
+5	ofrezca	ofrecer	VERB	_	_	1	ccomp	_	_
+6	a	a	ADP	_	_	7	mark	_	_
+7	dar	dar	VERB	_	_	5	xcomp	_	_
+8	algun	algun	PROPN	_	_	7	obj	_	_
+9	dinero	dinero	NOUN	_	_	8	obj	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	pero	pero	CCONJ	_	_	14	cc	_	_
+12	no	no	ADV	_	_	14	advmod	_	_
+13	lo	él	PRON	_	_	14	obj	_	_
+14	hizo	hacer	VERB	_	_	1	conj	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	volvía	volver	VERB	_	_	9	advcl	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	*STATE*	STATE	PROPN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	sus	su	DET	_	_	7	det	_	_
+7	padres	padre	NOUN	_	_	9	nsubj	_	_
+8	le	él	PRON	_	_	9	obj	_	_
+9	compró	comprar	VERB	_	_	0	ROOT	_	_
+10	un	uno	DET	_	_	11	det	_	_
+11	Tesla	Tesla	PROPN	_	_	9	nsubj	_	_
+12	...	...	PUNCT	_	_	9	punct	_	_
+

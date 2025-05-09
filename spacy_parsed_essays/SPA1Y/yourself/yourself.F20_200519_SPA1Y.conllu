@@ -1,0 +1,234 @@
+# Unnamed: 0 = 36
+# id = 200519
+# prompt = yourself
+# quarter = F20
+# course = SPA 1Y
+# age = 20
+# gender = Female
+# l1 language = English
+# other l1 language(s) = 0
+# language(s) used at home = SPA 1
+# language(s) studied = nan
+# listening comprehension = No
+# reading comprehension = 1
+# speaking ability = No
+# writing ability = In an English speaking country
+# study abroad = In an English speaking country
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = Yo soy una niña. Mi cumpleaños es *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> soy de *STATE*. [Yo]{}<pr:su:pron> vivo en *CITY* *CITY*. Soy *PLACE* y *PLACE*. [Yo]{}<pr:su:pron> tengo dos hermanas. Soy la hija mayor. [Yo]{}<pr:su:pron> tengo una chihuahua. Me gusta viajar, así que necesito dinero. Para conseguir un buen trabajo, necesito ir a la escuela. Soy un estudiante en *UNIVERSITY* *UNIVERSITY*. Estudio sociología y psicología. Quiero trabajar en un hospital después de la universidad. Estudié francés durante tres años en la escuela. Quiero aprender español porque es un idioma universal. Esto me ayudará en el hospital. Estoy en clase de español 1Y (español para viaje) porque quiero viajar a diferentes países y trabajar en el campo médico. Después de la universidad en *UNIVERSITY* *UNIVERSITY*, iré a la escuela durante tres años más para ser enfermera. Mi familia quiere que sea doctora pero eso es mucho trabajo para mí. Quiero vivir la vida y ser feliz también.
+# updated annotation ann2 = nan
+# verbs annotation ann1 = [Yo]{}<pr:su:pron> soy una niña. Mi cumpleaños es []{el}<ab:det:art:def> *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. [Yo]{}<pr:su:pron> tengo *AGE* años. [Yo]{}<pr:su:pron> soy de *STATE*. [Yo]{}<pr:su:pron> vivo en *CITY* *CITY*. Soy *PLACE* y *PLACE*. [Yo]{}<pr:su:pron> tengo dos hermanas. Soy la hija mayor. [Yo]{}<pr:su:pron> tengo una chihuahua. Me gusta viajar, así que necesito dinero. Para conseguir un buen trabajo, necesito ir a la escuela. Soy [un]{una}<ga:det> estudiante en *UNIVERSITY* *UNIVERSITY*. Estudio sociología y psicología. Quiero trabajar en un hospital después de la universidad. Estudié francés durante tres años en la escuela. Quiero aprender español porque es un idioma universal. Esto me ayudará en el hospital. Estoy en clase de español 1Y (español para viaje) porque quiero viajar a diferentes países y trabajar en el campo médico. Después de la universidad en *UNIVERSITY* *UNIVERSITY*, iré a la escuela durante tres años más para ser enfermera. Mi familia quiere que sea doctora pero eso es mucho trabajo para mí. Quiero vivir la vida y ser feliz también.
+# verbs annotation ann2 = nan
+# corrected1 = Yo soy una chica. Mi cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. Tengo *AGE* años. Soy de *STATE*. Vivo en *CITY* *CITY*. Soy *PLACE* y *PLACE*. Tengo dos hermanas. Soy la hija mayor. Tengo una chihuahua. Me gusta viajar, así que necesito dinero. Para conseguir un buen trabajo, necesito ir a la escuela. Soy un estudiante en *UNIVERSITY* *UNIVERSITY*. Estudio sociología y psicología. Quiero trabajar en un hospital después de la universidad. Estudié francés durante tres años en la escuela. Quiero aprender español porque es un idioma universal. Esto me ayudará en el hospital. Estoy en clase de español 1Y (español para viaje) porque quiero viajar a diferentes países y trabajar en el campo médico. Después de la universidad en *UNIVERSITY* *UNIVERSITY*, iré a la escuela durante tres años más para ser enfermera. Mi familia quiere que sea doctora, pero eso es mucho trabajo para mí. Quiero vivir la vida y ser feliz también.
+# corrected2 = nan
+# text = Yo soy una niña. Mi cumpleaños es *BIRTH_DATE* de *BIRTH_DATE* de *BIRTH_DATE*. Yo tengo *AGE* años. Yo soy de *STATE*. Yo vivo en *CITY* *CITY*. Soy *PLACE* y *PLACE*. Yo tengo dos hermanas. Soy la hija mayor. Yo tengo una chihuahua. Me gusta viajar, así que necesito dinero. Para conseguir un buen trabajo, necesito ir a la escuela. Soy un estudiante en *UNIVERSITY* *UNIVERSITY*. Estudio sociología y psicología. Quiero trabajar en un hospital después de la universidad. Estudié francés durante tres años en la escuela. Quiero aprender español porque es un idioma universal. Esto me ayudará en el hospital. Estoy en clase de español 1Y (español para viaje) porque quiero viajar a diferentes países y trabajar en el campo médico. Después de la universidad en *UNIVERSITY* *UNIVERSITY*, iré a la escuela durante tres años más para ser enfermera. Mi familia quiere que sea doctora pero eso es mucho trabajo para mí. Quiero vivir la vida y ser feliz también.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	niña	niña	NOUN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	cumpleaños	cumpleaños	NOUN	_	_	4	nsubj	_	_
+3	es	ser	AUX	_	_	4	cop	_	_
+4	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	0	ROOT	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	4	flat	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	*BIRTH_DATE*	BIRTH_DATE	PROPN	_	_	4	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	*AGE*	AGE	PROPN	_	_	2	obj	_	_
+4	años	año	NOUN	_	_	3	flat	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	4	nsubj	_	_
+2	soy	ser	AUX	_	_	4	cop	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	*STATE*	STATE	PROPN	_	_	0	ROOT	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	vivo	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	*CITY*	CITY	PROPN	_	_	2	obl	_	_
+5	*CITY*	CITY	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	2	cop	_	_
+2	*PLACE*	PLACE	PROPN	_	_	0	ROOT	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	*PLACE*	PLACE	PROPN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	hermanas	hermana	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	la	el	DET	_	_	3	det	_	_
+3	hija	hija	NOUN	_	_	0	ROOT	_	_
+4	mayor	mayor	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Yo	yo	PRON	_	_	2	nsubj	_	_
+2	tengo	tener	VERB	_	_	0	ROOT	_	_
+3	una	uno	DET	_	_	4	det	_	_
+4	chihuahua	chihuahua	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Me	yo	PRON	_	_	2	iobj	_	_
+2	gusta	gustar	VERB	_	_	0	ROOT	_	_
+3	viajar	viajar	VERB	_	_	2	csubj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	así	así	ADV	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
+7	necesito	necesitar	VERB	_	_	2	advcl	_	_
+8	dinero	dinero	NOUN	_	_	7	obj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Para	para	ADP	_	_	2	mark	_	_
+2	conseguir	conseguir	VERB	_	_	7	advcl	_	_
+3	un	uno	DET	_	_	5	det	_	_
+4	buen	buen	ADJ	_	_	5	amod	_	_
+5	trabajo	trabajo	NOUN	_	_	2	obj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	necesito	necesitar	VERB	_	_	0	ROOT	_	_
+8	ir	ir	VERB	_	_	7	xcomp	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	la	el	DET	_	_	11	det	_	_
+11	escuela	escuela	NOUN	_	_	8	obl	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Soy	ser	AUX	_	_	3	cop	_	_
+2	un	uno	DET	_	_	3	det	_	_
+3	estudiante	estudiante	NOUN	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	3	obl	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	5	flat	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estudio	Estudio	PROPN	_	_	0	ROOT	_	_
+2	sociología	sociología	NOUN	_	_	1	flat	_	_
+3	y	y	CCONJ	_	_	4	cc	_	_
+4	psicología	psicología	NOUN	_	_	2	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	trabajar	trabajar	VERB	_	_	1	xcomp	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	hospital	hospital	NOUN	_	_	2	obl	_	_
+6	después	después	ADV	_	_	2	advmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	_	9	det	_	_
+9	universidad	universidad	NOUN	_	_	6	obl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Estudié	Estudié	PROPN	_	_	0	ROOT	_	_
+2	francés	francés	ADJ	_	_	1	amod	_	_
+3	durante	durante	ADP	_	_	5	case	_	_
+4	tres	tres	NUM	_	_	5	nummod	_	_
+5	años	año	NOUN	_	_	1	nmod	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	_	8	det	_	_
+8	escuela	escuela	NOUN	_	_	5	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	aprender	aprender	VERB	_	_	1	xcomp	_	_
+3	español	español	ADJ	_	_	2	obj	_	_
+4	porque	porque	SCONJ	_	_	7	mark	_	_
+5	es	ser	AUX	_	_	7	cop	_	_
+6	un	uno	DET	_	_	7	det	_	_
+7	idioma	idioma	NOUN	_	_	2	advcl	_	_
+8	universal	universal	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Esto	este	PRON	_	_	3	nsubj	_	_
+2	me	yo	PRON	_	_	3	obj	_	_
+3	ayudará	ayudar	VERB	_	_	0	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	_	6	det	_	_
+6	hospital	hospital	NOUN	_	_	3	obl	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Estoy	estar	VERB	_	_	0	ROOT	_	_
+2	en	en	ADP	_	_	3	case	_	_
+3	clase	clase	NOUN	_	_	1	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	español	español	NOUN	_	_	3	nmod	_	_
+6	1Y	1y	NUM	_	_	5	appos	_	_
+7	(	(	PUNCT	_	_	8	punct	_	_
+8	español	español	NOUN	_	_	3	appos	_	_
+9	para	para	ADP	_	_	10	case	_	_
+10	viaje	viaje	NOUN	_	_	8	nmod	_	_
+11	)	)	PUNCT	_	_	8	punct	_	_
+12	porque	porque	SCONJ	_	_	13	mark	_	_
+13	quiero	querer	VERB	_	_	1	advcl	_	_
+14	viajar	viajar	VERB	_	_	13	xcomp	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	diferentes	diferente	DET	_	_	17	det	_	_
+17	países	país	NOUN	_	_	14	obl	_	_
+18	y	y	CCONJ	_	_	19	cc	_	_
+19	trabajar	trabajar	VERB	_	_	14	conj	_	_
+20	en	en	ADP	_	_	22	case	_	_
+21	el	el	DET	_	_	22	det	_	_
+22	campo	campo	NOUN	_	_	19	obl	_	_
+23	médico	médico	ADJ	_	_	22	amod	_	_
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Después	después	ADV	_	_	9	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	universidad	universidad	PROPN	_	_	1	obl	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	1	obl	_	_
+7	*UNIVERSITY*	UNIVERSITY	PROPN	_	_	6	flat	_	_
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	iré	iré	ADJ	_	_	0	ROOT	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	la	el	DET	_	_	12	det	_	_
+12	escuela	escuela	NOUN	_	_	9	obl	_	_
+13	durante	durante	ADP	_	_	15	case	_	_
+14	tres	tres	NUM	_	_	15	nummod	_	_
+15	años	año	NOUN	_	_	9	obl	_	_
+16	más	más	ADV	_	_	15	advmod	_	_
+17	para	para	ADP	_	_	19	mark	_	_
+18	ser	ser	AUX	_	_	19	cop	_	_
+19	enfermera	enfermera	NOUN	_	_	9	advcl	_	_
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Mi	mi	DET	_	_	2	det	_	_
+2	familia	familia	NOUN	_	_	3	nsubj	_	_
+3	quiere	querer	VERB	_	_	0	ROOT	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	sea	ser	AUX	_	_	6	cop	_	_
+6	doctora	doctora	NOUN	_	_	3	ccomp	_	_
+7	pero	pero	CCONJ	_	_	11	cc	_	_
+8	eso	ese	PRON	_	_	11	nsubj	_	_
+9	es	ser	AUX	_	_	11	cop	_	_
+10	mucho	mucho	DET	_	_	11	det	_	_
+11	trabajo	trabajo	NOUN	_	_	6	conj	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	mí	yo	PRON	_	_	11	obl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Quiero	querer	VERB	_	_	0	ROOT	_	_
+2	vivir	vivir	VERB	_	_	1	xcomp	_	_
+3	la	el	DET	_	_	4	det	_	_
+4	vida	vida	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	ser	ser	AUX	_	_	7	cop	_	_
+7	feliz	feliz	ADJ	_	_	2	conj	_	_
+8	también	también	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+

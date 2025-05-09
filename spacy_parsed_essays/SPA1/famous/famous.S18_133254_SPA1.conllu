@@ -1,0 +1,232 @@
+# Unnamed: 0 = 149
+# id = 133254
+# prompt = famous
+# quarter = S18
+# course = SPA 1
+# age = Female
+# gender = 21
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = Yes, Korean. 
+# language(s) studied = I understand, speak, and read Korean. I am better at conversations than reading and writing. I went to Korean school for 4 years. 
+# listening comprehension = 1.0
+# reading comprehension = 2.0
+# speaking ability = 2.0
+# writing ability = 2.0
+# study abroad = No
+# a personal annotator1 = La persona llama Beyonce. Beyonce es muy delgada y bonita. Ella tiene el pelo muy rizada y larga. Beyonce es muy paciente y simpática. A ella le gusta correr, dormir y cantar. A ella no le gustan nadar, beber juego de manzana y bailar. Ella tiene dos gatos y tres perros. Ella lleve camiseta y pantalones bonitas. Ella tiene los ojos negras. Ella está triste y cansada porque ella trabajadora. Ella es no perezosa y aburrida. Ella vive en California. Ella tiene treinta y nueve años. Ella tiene un bebe. A ella gusta el bebe. Ella es cantante. A ella le gusta viajar. Ella es americano. Ella tiene mucho dinero. Ella es famosa. A ella le gusta realizer mucho. Ella tiene siete casas y ocho carros. Ella es muy talentosa porque ella practica mucho. A ella gusta comer tacos en San Diego y Los Angeles. A ella lleva un bolso muy bonita.   
+# a personal annotator2 = nan
+# gender-number annotator1 = La persona llama Beyonce. Beyonce es muy delgada y bonita. Ella tiene el pelo muy [rizada]{rizado}<ga:mf:adj:inan> y [larga]{largo}<ga:mf:adj:inan>. Beyonce es muy paciente y simpática. A ella le gusta correr, dormir y cantar. A ella no le gustan nadar, beber juego de manzana y bailar. Ella tiene dos gatos y tres perros. Ella lleve [camiseta]{camisetas}<na:ps:adj:inan> y pantalones [bonitas]{bonitos}<ga:mf:adj:inan>. Ella tiene los ojos [negras]{negros}<ga:mf:adj:inan>. Ella está triste y cansada porque ella trabajadora. Ella es no perezosa y aburrida. Ella vive en California. Ella tiene treinta y nueve años. Ella tiene un bebe. A ella gusta el bebe. Ella es cantante. A ella le gusta viajar. Ella es [americano]{americana}<ga:fm:adj:an>. Ella tiene mucho dinero. Ella es famosa. A ella le gusta realizer mucho. Ella tiene siete casas y ocho carros. Ella es muy talentosa porque ella practica mucho. A ella gusta comer tacos en San Diego y Los Angeles. A ella lleva un bolso muy [bonita]{bonito}<ga:mf:adj:an>. 
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = La persona llama Beyonce. Beyonce es muy delgada y bonita. Ella tiene el pelo muy rizada y larga. Beyonce es muy paciente y simpática. A ella le gusta correr, dormir y cantar. A ella no le gustan nadar, beber juego de manzana y bailar. Ella tiene dos gatos y tres perros. Ella lleve camiseta y pantalones bonitas. Ella tiene los ojos negras. Ella está triste y cansada porque ella trabajadora. Ella es no perezosa y aburrida. Ella vive en California. Ella tiene treinta y nueve años. Ella tiene un bebe. A ella gusta el bebe. Ella es cantante. A ella le gusta viajar. Ella es americano. Ella tiene mucho dinero. Ella es famosa. A ella le gusta realizer mucho. Ella tiene siete casas y ocho carros. Ella es muy talentosa porque ella practica mucho. A ella gusta comer tacos en San Diego y Los Angeles. A ella lleva un bolso muy bonita.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	La	el	DET	_	_	2	det	_	_
+2	persona	persona	NOUN	_	_	3	nsubj	_	_
+3	llama	llamar	VERB	_	_	0	ROOT	_	_
+4	Beyonce	Beyonce	PROPN	_	_	3	obj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Beyonce	Beyonce	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	delgada	delgado	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	bonita	bonito	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	el	el	DET	_	_	4	det	_	_
+4	pelo	pelo	NOUN	_	_	2	obj	_	_
+5	muy	mucho	ADV	_	_	6	advmod	_	_
+6	rizada	rizado	ADJ	_	_	4	amod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	larga	largo	ADJ	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Beyonce	Beyonce	PROPN	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	paciente	paciente	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	simpática	simpático	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	correr	correr	VERB	_	_	4	csubj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	dormir	dormir	VERB	_	_	5	advcl	_	_
+8	y	y	CCONJ	_	_	9	cc	_	_
+9	cantar	cantar	VERB	_	_	5	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	5	obj	_	_
+3	no	no	ADV	_	_	5	advmod	_	_
+4	le	él	PRON	_	_	5	iobj	_	_
+5	gustan	gustar	VERB	_	_	0	ROOT	_	_
+6	nadar	nadar	VERB	_	_	5	xcomp	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	beber	beber	VERB	_	_	5	xcomp	_	_
+9	juego	juego	NOUN	_	_	8	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	manzana	manzana	NOUN	_	_	9	nmod	_	_
+12	y	y	CCONJ	_	_	13	cc	_	_
+13	bailar	bailar	VERB	_	_	11	conj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	dos	dos	NUM	_	_	4	nummod	_	_
+4	gatos	gato	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	tres	tres	NUM	_	_	7	nummod	_	_
+7	perros	perro	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	lleve	llevar	VERB	_	_	0	ROOT	_	_
+3	camiseta	camiseta	NOUN	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	pantalones	pantalón	NOUN	_	_	3	conj	_	_
+6	bonitas	bonito	ADJ	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	los	el	DET	_	_	4	det	_	_
+4	ojos	ojo	NOUN	_	_	2	obj	_	_
+5	negras	negro	ADJ	_	_	4	amod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	está	estar	AUX	_	_	3	cop	_	_
+3	triste	triste	ADJ	_	_	0	ROOT	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	cansada	cansado	ADJ	_	_	3	conj	_	_
+6	porque	porque	SCONJ	_	_	8	mark	_	_
+7	ella	él	PRON	_	_	8	nsubj	_	_
+8	trabajadora	trabajadorar	VERB	_	_	3	advcl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	no	no	ADV	_	_	4	advmod	_	_
+4	perezosa	perezós	ADJ	_	_	0	ROOT	_	_
+5	y	y	CCONJ	_	_	6	cc	_	_
+6	aburrida	aburrido	ADJ	_	_	4	conj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	vive	vivir	VERB	_	_	0	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	California	California	PROPN	_	_	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	treinta	treinta	NUM	_	_	2	obj	_	_
+4	y	y	CCONJ	_	_	6	cc	_	_
+5	nueve	nueve	NUM	_	_	6	nummod	_	_
+6	años	año	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	un	uno	DET	_	_	4	det	_	_
+4	bebe	bebe	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	el	el	DET	_	_	5	det	_	_
+5	bebe	bebe	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	cantante	cantante	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	iobj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	viajar	viajar	VERB	_	_	4	csubj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	americano	americano	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	mucho	mucho	DET	_	_	4	det	_	_
+4	dinero	dinero	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	3	nsubj	_	_
+2	es	ser	AUX	_	_	3	cop	_	_
+3	famosa	famoso	ADJ	_	_	0	ROOT	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	4	obj	_	_
+3	le	él	PRON	_	_	4	obj	_	_
+4	gusta	gustar	VERB	_	_	0	ROOT	_	_
+5	realizer	realizer	NOUN	_	_	4	obj	_	_
+6	mucho	mucho	ADV	_	_	5	amod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ella	él	PRON	_	_	2	nsubj	_	_
+2	tiene	tener	VERB	_	_	0	ROOT	_	_
+3	siete	siete	NUM	_	_	4	nummod	_	_
+4	casas	casa	NOUN	_	_	2	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	ocho	ocho	NUM	_	_	7	nummod	_	_
+7	carros	carro	NOUN	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Ella	él	PRON	_	_	4	nsubj	_	_
+2	es	ser	AUX	_	_	4	cop	_	_
+3	muy	mucho	ADV	_	_	4	advmod	_	_
+4	talentosa	talentós	ADJ	_	_	0	ROOT	_	_
+5	porque	porque	SCONJ	_	_	7	mark	_	_
+6	ella	él	PRON	_	_	7	nsubj	_	_
+7	practica	practicar	VERB	_	_	4	advcl	_	_
+8	mucho	mucho	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	3	obj	_	_
+3	gusta	gustar	VERB	_	_	0	ROOT	_	_
+4	comer	comer	VERB	_	_	3	xcomp	_	_
+5	tacos	taco	NOUN	_	_	4	obj	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	San	San	PROPN	_	_	4	obl	_	_
+8	Diego	Diego	PROPN	_	_	7	flat	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	Los	el	DET	_	_	11	det	_	_
+11	Angeles	Angeles	PROPN	_	_	7	conj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+1	A	a	ADP	_	_	2	case	_	_
+2	ella	él	PRON	_	_	3	obj	_	_
+3	lleva	llevar	VERB	_	_	0	ROOT	_	_
+4	un	uno	DET	_	_	5	det	_	_
+5	bolso	bolso	NOUN	_	_	3	obj	_	_
+6	muy	mucho	ADV	_	_	7	advmod	_	_
+7	bonita	bonito	ADJ	_	_	5	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+

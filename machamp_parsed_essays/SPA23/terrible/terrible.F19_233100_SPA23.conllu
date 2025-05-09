@@ -1,0 +1,364 @@
+# Unnamed: 0 = 165
+# id = 233100
+# prompt = terrible
+# quarter = F19
+# course = SPA 23
+# age = 18
+# gender = Female
+# l1 language = English
+# other l1 language(s) = nan
+# language(s) used at home = No.
+# language(s) studied = I have only studied Spanish.
+# listening comprehension = 2.0
+# reading comprehension = 4.0
+# speaking ability = 3.0
+# writing ability = 4.0
+# study abroad = Yes
+# a personal annotator1 = nan
+# a personal annotator2 = nan
+# gender-number annotator1 = nan
+# gender-number annotator2 = nan
+# updated anntoation ann1 = nan
+# updated annotation ann2 = nan
+# verbs annotation ann1 = nan
+# verbs annotation ann2 = nan
+# corrected1 = nan
+# corrected2 = nan
+# text = Ayer, un evento terrible occorio. Cuando estaba en bicicleta, una chica caminó enfrente de yo. Ella no estaba prestando atención y estaba jugando en su teléfono. Dije, “¡Perdóneme! ¡Perdóneme!,” pero ella solo camino más en el carril de bici. Traté de rodearla, y me caí. Inmediatamente, dos chicas que vieron el accidente, me ayudaron. Recogieron mi agrietado teléfono y mi Hydroflask, que note tiene una abolladura masiva. Mi freno de bicicleta dejó de funcionar. También, me arrancaron las polainas y me salieron de un gran hematoma en la rodilla. La chica que me hizo caer solo caio su galleta. Entonces, ella dijo, “¿Fue mi culpa? Lo siento.” Estaba enojada y respondí, “Sí, fue tu culpa. Lugar tiempo, mira a dónde vas antes de entrar en el carril bici.” Ella estuvo de acuerdo, recogió su galleta y se fue. Estuve parado en la calle durante treinta minutos tratando de arreglar mi bicicleta. Eventualmente, me di por y caminé mi bicicleta de regreso a mi dormitorio. Cuando llegué a mi dormitorio, miré más de cerca de mi rodilla. Noté que ya era negra y azul. Envie una foto de la rodilla a mi amiga y le conté todo lo que pasó; como yo, ella estaba muy enojada. Me recomiendó hielo. Lo hice, pero me dolió demasiado incluso caminar. Así que tuve que sentarme en mi habitación el viernes por la noche. Fue un noche muy triste, y hoy cuando desperté mi rodilla aun me dolía. Espero que me sienta mejor proxima y la chica se disculpa.
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+1	Ayer	ayer	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	evento	evento	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	terrible	terrible	ADJ	_	Number=Sing	4	amod	_	_
+6	occorio	occorer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	chica	chica	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+8	caminó	caminar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	enfrente	enfrente	ADV	_	_	8	advmod	_	_
+10	de	de	ADP	_	_	9	fixed	_	_
+11	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	prestando	prestar	VERB	_	VerbForm=Ger	0	root	_	_
+5	atención	atención	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	y	y	CCONJ	_	_	8	cc	_	_
+7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	jugando	jugar	VERB	_	VerbForm=Ger	4	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Dije	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+3	“	“	PUNCT	_	PunctType=Quot	5	punct	_	_
+4	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	5	punct	_	_
+5	Perdóneme	perdónemar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	1	ccomp	_	_
+6	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+7	¡	¡	PUNCT	_	PunctSide=Ini|PunctType=Excl	8	punct	_	_
+8	Perdóneme	perdónemar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+9	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	5	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
+11	”	”	PUNCT	_	PunctType=Quot	5	punct	_	_
+12	pero	pero	CCONJ	_	_	15	cc	_	_
+13	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	solo	solo	ADV	_	_	15	advmod	_	_
+15	camino	caminar	VERB	_	Gender=Masc|Number=Sing	5	conj	_	_
+16	más	más	ADV	_	Degree=Cmp	15	advmod	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	carril	carril	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	bici	bici	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+22	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Traté	tratar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	_	_	3	mark	_	_
+3	rodearla	rodear	VERB	_	VerbForm=Inf	1	xcomp	_	_
+4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl	_	_
+7	caí	caer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Inmediatamente	inmediatamente	ADV	_	_	11	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+4	chicas	chica	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
+5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
+6	vieron	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+10	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	11	obj	_	_
+11	ayudaron	ayudar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+
+1	Recogieron	recoger	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	agrietado	agrietado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+4	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	y	y	CCONJ	_	_	7	cc	_	_
+6	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	Hydroflask	Hydroflask	PROPN	_	_	4	conj	_	_
+8	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+9	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
+10	note	note	PRON	_	Number=Sing	11	nsubj	_	_
+11	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	abolladura	abolladura	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	masiva	masivo	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	freno	freno	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	de	de	ADP	_	_	7	mark	_	_
+7	funcionar	funcionar	VERB	_	VerbForm=Inf	5	xcomp	_	_
+8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+
+1	También	también	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+4	arrancaron	arrancar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	polainas	polaina	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+7	y	y	CCONJ	_	_	9	cc	_	_
+8	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	obj	_	_
+9	salieron	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+10	de	de	ADP	_	_	13	case	_	_
+11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	gran	gran	ADJ	_	Number=Sing	13	amod	_	_
+13	hematoma	hematoma	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	rodilla	rodilla	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	chica	chica	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
+4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl	_	_
+5	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
+6	caer	caer	VERB	_	VerbForm=Inf	5	xcomp	_	_
+7	solo	solo	ADV	_	_	5	advmod	_	_
+8	caio	caer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	galleta	galleta	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+
+1	Entonces	entonces	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+6	“	“	PUNCT	_	PunctType=Quot	10	punct	_	_
+7	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	10	punct	_	_
+8	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+10	culpa	culpa	NOUN	_	Gender=Fem|Number=Sing	4	ccomp	_	_
+11	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	4	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	siento	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	enojada	enojado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	y	y	CCONJ	_	_	5	cc	_	_
+5	respondí	responder	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+7	“	“	PUNCT	_	PunctType=Quot	12	punct	_	_
+8	Sí	sí	INTJ	_	_	12	advcl	_	_
+9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
+10	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+11	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	12	det	_	_
+12	culpa	culpa	NOUN	_	Gender=Fem|Number=Sing	5	ccomp	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+4	mira	mirar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	advcl	_	_
+5	a	a	ADP	_	_	7	mark	_	_
+6	dónde	dónde	ADV	_	PronType=Int	7	advmod	_	_
+7	vas	ir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	antes	antes	ADV	_	_	7	advmod	_	_
+9	de	de	ADP	_	_	10	mark	_	_
+10	entrar	entrar	VERB	_	VerbForm=Inf	8	advcl	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	carril	carril	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	bici	bici	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	”	”	PUNCT	_	PunctType=Quot	3	punct	_	_
+2	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	estuvo	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+4	de	de	ADP	_	_	0	root	_	_
+5	acuerdo	acuerdo	NOUN	_	_	4	fixed	_	_
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	recogió	recoger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	galleta	galleta	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	se	él	PRON	_	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl	_	_
+12	fue	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Estuve	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	aux	_	_
+2	parado	parado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	calle	calle	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	durante	durante	ADP	_	_	8	case	_	_
+7	treinta	treinta	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
+8	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+9	tratando	tratar	VERB	_	VerbForm=Ger	2	advcl	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	arreglar	arreglar	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Eventualmente	eventualmente	ADV	_	_	4	advmod	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+5	por	por	ADP	_	_	7	compound	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	caminé	caminar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	bicicleta	bicicleta	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+12	a	a	ADP	_	_	14	case	_	_
+13	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+
+1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
+2	llegué	llegar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	dormitorio	dormitorio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+7	miré	mirar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
+9	de	de	ADP	_	_	8	case	_	_
+10	cerca	cerca	ADV	_	_	8	advmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+13	rodilla	rodilla	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+1	Noté	notar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	ya	ya	ADV	_	_	5	advmod	_	_
+4	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	negra	negro	ADJ	_	Gender=Fem|Number=Sing	1	ccomp	_	_
+6	y	y	CCONJ	_	_	7	cc	_	_
+7	azul	azul	ADJ	_	Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Envie	enviar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	foto	foto	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	rodilla	rodilla	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+9	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	conté	cntér	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
+14	lo	él	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
+15	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
+16	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	ccomp	_	_
+17	;	;	PUNCT	_	PunctType=Semi	1	punct	_	_
+18	como	como	SCONJ	_	_	19	mark	_	_
+19	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	obl	_	_
+20	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
+21	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+22	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	cop	_	_
+23	muy	mucho	ADV	_	_	24	advmod	_	_
+24	enojada	enojado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	advcl	_	_
+25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
+1	Me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl	_	_
+2	recomiendó	recomiendar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hielo	hielo	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
+2	hice	hacer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+4	pero	pero	CCONJ	_	_	6	cc	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl	_	_
+6	dolió	doliar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	demasiado	demasiado	ADV	_	_	6	advmod	_	_
+8	incluso	incluso	ADV	_	_	9	advmod	_	_
+9	caminar	caminar	VERB	_	VerbForm=Inf	6	advcl	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+
+1	Así	así	ADV	_	_	3	mark	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
+3	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	_	_	5	cc	_	_
+5	sentarme	sentar	VERB	_	VerbForm=Inf	3	conj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	habitación	habitación	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	viernes	viernes	NOUN	_	AdvType=Tim	5	obl	_	_
+11	por	por	ADP	_	_	13	case	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	noche	noche	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	noche	noche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	muy	mucho	ADV	_	_	5	advmod	_	_
+5	triste	triste	ADJ	_	Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
+7	y	y	CCONJ	_	_	15	cc	_	_
+8	hoy	hoy	ADV	_	_	15	advmod	_	_
+9	cuando	cuando	ADV	_	PronType=Rel	10	advmod	_	_
+10	desperté	despertar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	advcl	_	_
+11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
+12	rodilla	rodilla	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
+13	aun	aun	ADV	_	_	15	advmod	_	_
+14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl	_	_
+15	dolía	dolir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+1	Espero	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	_	_	4	mark	_	_
+3	me	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl	_	_
+4	sienta	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	mejor	mejor	ADV	_	_	4	advmod	_	_
+6	proxima	proximo	ADJ	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	y	y	CCONJ	_	_	11	cc	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	chica	chica	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl	_	_
+11	disculpa	disculpar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
+
